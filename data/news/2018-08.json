@@ -186,10 +186,16 @@
     "selftext": "",
     "reddit_thumbnail": "https://external-preview.redd.it/LPdxDb-uLqOjp0Pzv_8EEvAccSsQnfqRcWLTO_mkXcU.jpg?auto=webp&s=31240a521bca4bc60a3767fe6c2ed4183cecf113",
     "ingested_at": "2026-10-31T15:12:17.611106+00:00",
-    "summary": "",
-    "thumbnail": "",
-    "tags": [],
-    "analyzed_at": null
+    "summary": "Dans une récente conférence où il présentait Contributopia, le projet pluriannuel de Framasoft, sous son angle politique, Pierre-Yves Gosset s’attachait à déboulonner quelques mensonges avec lesquels se rassurent les libristes.",
+    "thumbnail": "thumbnails/9b90rw.webp",
+    "tags": [
+      "Contributopia",
+      "FOSS",
+      "Framasoft",
+      "Pierre-Yves Gosset",
+      "Société"
+    ],
+    "analyzed_at": "2026-11-01T12:23:35.117011+00:00"
   },
   {
     "id": "9b8z24",

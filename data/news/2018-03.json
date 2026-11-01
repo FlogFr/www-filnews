@@ -705,10 +705,16 @@
     "selftext": "",
     "reddit_thumbnail": "https://external-preview.redd.it/yNBnMlv0VA9KRqr8dDIv0slIKoZR64Ku8N2FStu4HJg.jpg?auto=webp&s=1b039bbd6d877af7b844eb384c889d9d860c4d6f",
     "ingested_at": "2026-10-31T15:06:48.669403+00:00",
-    "summary": "",
-    "thumbnail": "",
-    "tags": [],
-    "analyzed_at": null
+    "summary": "Le 21 novembre dernier, nous annoncions notre volonté de développer PeerTube, un logiciel libre qui pose les bases d'une alternative aux YouTubes et autres plateformes centralisant les vidéos. Parmi toutes les actions de notre feuille de route Contributopia, celle-ci a reçu une attention et un soutien tout particulier.",
+    "thumbnail": "thumbnails/861sj6.webp",
+    "tags": [
+      "PeerTube",
+      "YouTube",
+      "Contributopia",
+      "YouTubes",
+      "Technos"
+    ],
+    "analyzed_at": "2026-11-01T12:23:35.094151+00:00"
   },
   {
     "id": "860wbu",
