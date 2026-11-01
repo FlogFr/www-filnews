@@ -117,6 +117,11 @@ Ou publier le site statique sur la branche git `pages` (GitHub Pages…) :
 python manage.py publish_pages --push   # build_site + commit sur `pages` + push
 ```
 
+En production, un workflow GitHub Actions (`.github/workflows/nightly.yml`,
+gratuit sur un dépôt public) le fait **chaque nuit** : ingestion des dernières
+24 h, analyse, commit de `data/news` sur `main`, puis publication sur `pages`.
+Secrets à créer : `REDDIT_CLIENT_ID` et `REDDIT_CLIENT_SECRET`.
+
 Tests et lint (obligatoires avant chaque commit) :
 
 ```bash
@@ -135,6 +140,7 @@ ruff check . && ruff format --check .
   Python, puis nginx qui sert `dist/` en HTTP sur le port 8000.
 - `publish_pages` commite `dist/` sur une branche orpheline `pages` (avec
   `CNAME` et `.nojekyll`) pour un hébergement statique type GitHub Pages.
+- Mise à jour nocturne par GitHub Actions (ingestion, analyse, publication).
 - Code en anglais, maintenable et testé (tests unitaires sans réseau).
 
 ## Documentation

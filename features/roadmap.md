@@ -50,5 +50,7 @@ Statuts : ✅ fait · 🚧 en cours · 💡 idée / à valider avec le propriét
 - 💡 **Images responsives** : `srcset` 320/640 px, AVIF.
 - 💡 **CI** GitHub Actions : tests + ruff + build Docker à chaque push.
 - ✅ **Publication statique** sur la branche git `pages` (`publish_pages`).
+- ✅ **Mise à jour nocturne** par GitHub Actions : ingestion des dernières 24 h,
+  analyse, commit des données, publication sur `pages`.
 - 💡 **Déploiement automatisé** (registre + redéploiement) après ingestion.
 - 💡 Mesure d'audience respectueuse de la vie privée (sans cookie), si besoin.

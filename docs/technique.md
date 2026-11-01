@@ -256,6 +256,35 @@ domaine `www.filnews.fr`, créer chez le registrar un `CNAME www` →
 `<utilisateur>.github.io`, puis cocher *Enforce HTTPS*. (Cloudflare Pages,
 Netlify… savent aussi servir une branche.)
 
+### Mise à jour automatique chaque nuit (GitHub Actions)
+
+Le workflow [`.github/workflows/nightly.yml`](../.github/workflows/nightly.yml)
+tourne chaque nuit à 04:17 UTC (et à la demande : onglet *Actions* →
+*Nightly news update* → *Run workflow*) :
+
+1. restaure les vignettes depuis la branche `pages` (`git archive pages media`),
+   puisqu'elles ne sont pas versionnées sur `main` ;
+2. `ingest_news --period day` puis `analyze_news` ;
+3. commite `data/news` sur `main` (si changement) ;
+4. `publish_pages --push`.
+
+Gratuit : le dépôt est public, donc les minutes Actions des runners hébergés
+par GitHub ne sont pas facturées (un dépôt privé aurait 2 000 min/mois
+offertes ; un passage dure quelques minutes).
+
+Configuration (dépôt → *Settings* → *Secrets and variables* → *Actions*) :
+
+| Nom | Type | Rôle |
+|---|---|---|
+| `REDDIT_CLIENT_ID` | secret | Identifiant de l'application Reddit |
+| `REDDIT_CLIENT_SECRET` | secret | Secret de l'application Reddit |
+| `REDDIT_USER_AGENT` | variable (optionnelle) | User-Agent Reddit (défaut `web:fr.filnews:v1.0 (by /u/filnews)`) |
+
+Sans refresh token, l'ingestion utilise l'OAuth `client_credentials`. Le
+workflow a besoin de `contents: write` (déclaré dans le fichier) ; si une
+règle de protection de `main` interdit le push, autoriser GitHub Actions.
+Un échec (Reddit indisponible…) envoie l'e-mail habituel de GitHub.
+
 Limites par rapport à l'image nginx : pas d'en-têtes personnalisés (CSP,
 `X-Frame-Options`, `Cache-Control` immuable), pas de redirection
 `/archives/page/N/` → `/archives/`, pas de gzip pré-calculé (GitHub compresse

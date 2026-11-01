@@ -72,8 +72,10 @@ jour dès qu'une règle change ou qu'une préférence du propriétaire est expri
 
 - Analyse : heuristique par défaut **et** modèle local optionnel (pas d'API
   externe).
-- Pas de cron dans le conteneur : ingestion et analyse sont lancées en local,
-  puis une nouvelle image Docker est construite.
+- Pas de cron dans le conteneur. L'ingestion et l'analyse tournent chaque nuit
+  dans GitHub Actions (`.github/workflows/nightly.yml`, qui publie sur `pages`)
+  et peuvent toujours être lancées en local. Le workflow doit rester **gratuit**
+  (runners hébergés, dépôt public, pas de service payant).
 - Les anciens templates du thème et l'ancien code Django ont été supprimés
   (récupérables dans l'historique git).
 
