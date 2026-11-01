@@ -43,7 +43,7 @@ Elle présente le titre, la source, le résumé, l'image, puis :
 
 ### Le flux RSS
 
-Ajoutez `https://www.filnews.fr/rss.xml` à votre lecteur de flux (Feedly,
+Ajoutez `https://filnews.fr/rss.xml` à votre lecteur de flux (Feedly,
 NetNewsWire, Thunderbird…) pour recevoir toutes les news, des plus récentes aux
 plus anciennes.
 

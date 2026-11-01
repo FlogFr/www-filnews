@@ -46,7 +46,7 @@ class BuildSiteTests(DataDirTestCase):
         self.assertFalse((output / "static" / "scss").exists())
         # Absolute URLs point to the public site.
         self.assertIn(
-            "https://www.filnews.fr/tags/paris/",
+            "https://filnews.fr/tags/paris/",
             (output / "sitemap-tags.xml").read_text(),
         )
         self.assertFalse((output / "tags" / "unique").exists())

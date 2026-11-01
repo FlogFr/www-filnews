@@ -77,11 +77,11 @@ class SeoTests(ViewTestCase):
 
         self.assertIn('<html lang="fr"', html)
         self.assertIn(
-            f'<link rel="canonical" href="https://www.filnews.fr/news/{news.slug}/">',
+            f'<link rel="canonical" href="https://filnews.fr/news/{news.slug}/">',
             html,
         )
         self.assertIn(
-            '<meta property="og:image" content="https://www.filnews.fr/media/thumbnails/abc.webp">',
+            '<meta property="og:image" content="https://filnews.fr/media/thumbnails/abc.webp">',
             html,
         )
         self.assertEqual(html.count("<h1"), 1)
@@ -97,7 +97,7 @@ class SeoTests(ViewTestCase):
         self.assertEqual(self.client.get("/archives/2019/03/").status_code, 404)
 
     def _locations(self, url: str) -> list[str]:
-        response = self.client.get(url, HTTP_HOST="www.filnews.fr", secure=True)
+        response = self.client.get(url, HTTP_HOST="filnews.fr", secure=True)
         return [
             el.text
             for el in ElementTree.fromstring(response.content).iter()
@@ -110,26 +110,26 @@ class SeoTests(ViewTestCase):
             make_news("def", hours_ago=24 * 40, tags=["Paris"]),
         )
         robots = self.client.get(reverse("robots_txt"))
-        self.assertContains(robots, "Sitemap: https://www.filnews.fr/sitemap.xml")
+        self.assertContains(robots, "Sitemap: https://filnews.fr/sitemap.xml")
 
         # sitemap.xml is an index of one static file per section.
         self.assertEqual(
             self._locations(reverse("sitemap")),
             [
-                "https://www.filnews.fr/sitemap-pages.xml",
-                "https://www.filnews.fr/sitemap-news.xml",
-                "https://www.filnews.fr/sitemap-tags.xml",
+                "https://filnews.fr/sitemap-pages.xml",
+                "https://filnews.fr/sitemap-news.xml",
+                "https://filnews.fr/sitemap-tags.xml",
             ],
         )
         self.assertEqual(
-            self._locations("/sitemap-tags.xml"), ["https://www.filnews.fr/tags/paris/"]
+            self._locations("/sitemap-tags.xml"), ["https://filnews.fr/tags/paris/"]
         )
         self.assertIn(
-            f"https://www.filnews.fr/news/{self.store.get('abc').slug}/",
+            f"https://filnews.fr/news/{self.store.get('abc').slug}/",
             self._locations("/sitemap-news.xml"),
         )
         self.assertIn(
-            "https://www.filnews.fr/archives/2026/09/",
+            "https://filnews.fr/archives/2026/09/",
             self._locations("/sitemap-pages.xml"),
         )
 

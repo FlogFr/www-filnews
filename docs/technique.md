@@ -28,7 +28,7 @@ pip install -e ".[ml]"
 |---|---|---|
 | `DJANGO_DEBUG` | `0` | `1` en local |
 | `DJANGO_SECRET_KEY` | clé de dev | Signe le cookie d'état OAuth (Django ne tourne qu'en local) |
-| `SITE_URL` | `https://www.filnews.fr` | URL publique : canonical, sitemap, RSS, Open Graph |
+| `SITE_URL` | `https://filnews.fr` | URL publique : canonical, sitemap, RSS, Open Graph |
 | `REDDIT_CLIENT_ID` / `REDDIT_CLIENT_SECRET` | — | Identifiants de l'application Reddit (**secrets**) |
 | `REDDIT_REDIRECT_URI` | `http://localhost:8000/auth/reddit/callback` | Doit correspondre à l'app Reddit |
 | `REDDIT_USER_AGENT` | `web:fr.filnews:v1.0 (by /u/filnews)` | Format exigé par Reddit |
@@ -252,8 +252,12 @@ build lirait des fichiers en cours d'écriture).
 
 Mise en ligne avec **GitHub Pages** : dépôt GitHub → *Settings* → *Pages* →
 *Source : Deploy from a branch* → branche `pages`, dossier `/ (root)`. Pour le
-domaine `www.filnews.fr`, créer chez le registrar un `CNAME www` →
-`<utilisateur>.github.io`, puis cocher *Enforce HTTPS*. (Cloudflare Pages,
+domaine apex `filnews.fr` (le fichier `CNAME` est généré depuis `SITE_URL`),
+créer chez le registrar des enregistrements `A` vers `185.199.108.153`,
+`185.199.109.153`, `185.199.110.153`, `185.199.111.153` (et `AAAA` vers
+`2606:50c0:8000::153` à `8003::153`), plus un `CNAME www` →
+`<utilisateur>.github.io` pour que GitHub redirige `www` vers l'apex, puis
+cocher *Enforce HTTPS*. (Cloudflare Pages,
 Netlify… savent aussi servir une branche.)
 
 ### Mise à jour automatique chaque nuit (GitHub Actions)

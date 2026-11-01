@@ -17,7 +17,7 @@ COPY filnews ./filnews
 # The JSON database and thumbnails are baked into the image.
 COPY data ./data
 
-ARG SITE_URL=https://www.filnews.fr
+ARG SITE_URL=https://filnews.fr
 ENV SITE_URL=${SITE_URL} \
     DJANGO_DEBUG=0
 

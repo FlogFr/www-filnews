@@ -45,7 +45,7 @@ INSTALLED_APPS = [
 ]
 
 # Public URL of the site, used for canonical links, sitemap and RSS.
-SITE_URL = os.environ.get("SITE_URL", "https://www.filnews.fr").rstrip("/")
+SITE_URL = os.environ.get("SITE_URL", "https://filnews.fr").rstrip("/")
 SITE_HOST = urlparse(SITE_URL).netloc
 
 # The static build renders pages as if requested on SITE_HOST.
@@ -149,7 +149,7 @@ REDDIT_TOKEN_FILE = DATA_DIR / ".secrets" / "reddit_token.json"
 
 # HTTP client used for article fetching.
 HTTP_TIMEOUT = 15
-HTTP_USER_AGENT = "Mozilla/5.0 (compatible; FilNewsBot/1.0; +https://www.filnews.fr)"
+HTTP_USER_AGENT = "Mozilla/5.0 (compatible; FilNewsBot/1.0; +https://filnews.fr)"
 
 LOGGING = {
     "version": 1,

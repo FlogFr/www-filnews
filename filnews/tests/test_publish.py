@@ -48,8 +48,8 @@ class PublishPagesTests(SimpleTestCase):
         self.assertEqual(git("rev-parse", f"{second}^", cwd=self.repo), first)
         self.assertEqual(self.files_on("pages"), ["index.html"])
 
-    @override_settings(SITE_URL="https://www.filnews.fr")
+    @override_settings(SITE_URL="https://filnews.fr")
     def test_host_files(self):
         write_host_files(self.site)
-        self.assertEqual((self.site / "CNAME").read_text(), "www.filnews.fr\n")
+        self.assertEqual((self.site / "CNAME").read_text(), "filnews.fr\n")
         self.assertTrue((self.site / ".nojekyll").is_file())
