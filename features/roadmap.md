@@ -49,5 +49,6 @@ Statuts : ✅ fait · 🚧 en cours · 💡 idée / à valider avec le propriét
 - 💡 **Recherche** côté client (index JSON statique).
 - 💡 **Images responsives** : `srcset` 320/640 px, AVIF.
 - 💡 **CI** GitHub Actions : tests + ruff + build Docker à chaque push.
+- ✅ **Publication statique** sur la branche git `pages` (`publish_pages`).
 - 💡 **Déploiement automatisé** (registre + redéploiement) après ingestion.
 - 💡 Mesure d'audience respectueuse de la vie privée (sans cookie), si besoin.

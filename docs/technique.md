@@ -73,6 +73,8 @@ python manage.py analyze_news --force --days 7 # ré-analyse la dernière semain
 python manage.py analyze_news --analyzer local # modèles locaux
 python manage.py analyze_news abc123 def456    # news précises (ids Reddit)
 python manage.py build_site                # génère dist/ (un processus par CPU, --workers N)
+python manage.py publish_pages             # build_site + commit de dist/ sur la branche git `pages`
+python manage.py publish_pages --push      # … puis git push origin pages
 python manage.py test                      # tests unitaires
 ruff check . && ruff format .              # lint + format
 ```
@@ -227,6 +229,38 @@ Placer le conteneur derrière un reverse proxy / load balancer qui termine TLS e
 ajoute `Strict-Transport-Security`. Les redirections nginx sont relatives
 (`absolute_redirect off`), donc compatibles avec un proxy. Healthcheck intégré :
 `GET /`.
+
+### Publier sur la branche `pages` (hébergement statique)
+
+Alternative à Docker : `publish_pages` génère le site puis le commite sur une
+branche git **orpheline** `pages` qui ne contient que les fichiers générés
+(HTML, RSS, sitemaps, `static/`, `media/`), plus `CNAME` (domaine tiré de
+`SITE_URL`) et `.nojekyll`. Le commit passe par un index git temporaire : la
+copie de travail et la branche courante ne sont jamais modifiées. Si le contenu
+n'a pas changé, aucun commit n'est créé.
+
+```bash
+python manage.py ingest_news && python manage.py analyze_news
+git add data && git commit -m "Update news"
+python manage.py publish_pages              # --skip-build pour réutiliser dist/
+git push origin pages                       # ou : publish_pages --push
+```
+
+Options : `--branch` (défaut `pages`), `--remote` (défaut `origin`), `--push`,
+`--skip-build`. Ne pas lancer pendant un `analyze_news` / `ingest_news` (le
+build lirait des fichiers en cours d'écriture).
+
+Mise en ligne avec **GitHub Pages** : dépôt GitHub → *Settings* → *Pages* →
+*Source : Deploy from a branch* → branche `pages`, dossier `/ (root)`. Pour le
+domaine `www.filnews.fr`, créer chez le registrar un `CNAME www` →
+`<utilisateur>.github.io`, puis cocher *Enforce HTTPS*. (Cloudflare Pages,
+Netlify… savent aussi servir une branche.)
+
+Limites par rapport à l'image nginx : pas d'en-têtes personnalisés (CSP,
+`X-Frame-Options`, `Cache-Control` immuable), pas de redirection
+`/archives/page/N/` → `/archives/`, pas de gzip pré-calculé (GitHub compresse
+lui-même). Les vignettes (`media/`, ~300 Mo) sont versionnées sur cette
+branche : GitHub Pages limite un site à 1 Go.
 
 ## Front-end
 

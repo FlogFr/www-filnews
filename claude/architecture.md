@@ -37,7 +37,7 @@ données, coût et surface d'attaque minimaux.
 | `feeds.py`, `sitemaps.py` | RSS et sitemaps (index + une section par fichier) |
 | `templatetags/filnews_tags.py` | URLs absolues, médias, JSON-LD, `has_tag_page` |
 | `assets.py` | Compilation SCSS → CSS (libsass) |
-| `management/commands/` | `ingest_news`, `backfill_news`, `analyze_news`, `build_site`, `runserver` (surcharge) |
+| `management/commands/` | `ingest_news`, `backfill_news`, `analyze_news`, `build_site`, `publish_pages`, `runserver` (surcharge) |
 
 ## Données
 
@@ -75,6 +75,13 @@ client de test Django en se faisant passer pour `SITE_URL` (URLs absolues
 correctes) → copie `data/media`. Le rendu est réparti entre des processus
 forkés (`--workers`, un par CPU par défaut) qui héritent du store déjà chargé.
 Le Dockerfile pré-compresse ensuite en gzip (`gzip_static`, `xargs -P`).
+
+`publish_pages` (alternative à Docker) : `build_site`, ajoute `CNAME` et
+`.nojekyll`, puis commite `dist/` sur la branche orpheline `pages` via la
+plomberie git (`GIT_INDEX_FILE` temporaire, `write-tree`, `commit-tree`,
+`update-ref`) sans toucher la copie de travail ; `--push` pousse la branche.
+Sur un hébergeur statique, la CSP et les en-têtes de `docker/` ne s'appliquent
+pas.
 
 ## Décisions
 

@@ -71,7 +71,8 @@ python manage.py runserver        # vérifier le résultat sur http://localhost:
 ```
 
 Puis publier (voir `docs/technique.md`, section Déployer) : commit de `data/`,
-`docker build`, déploiement de la nouvelle image.
+puis soit `docker build` et déploiement de la nouvelle image, soit
+`python manage.py publish_pages --push` (branche `pages`, GitHub Pages…).
 
 ### Rattraper un mois
 

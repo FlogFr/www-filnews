@@ -111,6 +111,12 @@ docker build -t filnews .
 docker run --rm -p 8000:8000 filnews
 ```
 
+Ou publier le site statique sur la branche git `pages` (GitHub Pages…) :
+
+```bash
+python manage.py publish_pages --push   # build_site + commit sur `pages` + push
+```
+
 Tests et lint (obligatoires avant chaque commit) :
 
 ```bash
@@ -127,6 +133,8 @@ ruff check . && ruff format --check .
   embarqués dans l'image Docker. Vignettes dans `data/media/`.
 - `build_site` rend chaque page dans `dist/`. Docker en deux étapes : build
   Python, puis nginx qui sert `dist/` en HTTP sur le port 8000.
+- `publish_pages` commite `dist/` sur une branche orpheline `pages` (avec
+  `CNAME` et `.nojekyll`) pour un hébergement statique type GitHub Pages.
 - Code en anglais, maintenable et testé (tests unitaires sans réseau).
 
 ## Documentation
