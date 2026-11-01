@@ -1,0 +1,17 @@
+// Self-hosted fonts (SIL Open Font License) — no third-party requests.
+
+@mixin font-face($family, $file, $weight, $style: normal) {
+  @font-face {
+    font-family: $family;
+    font-style: $style;
+    font-weight: $weight;
+    font-display: swap;
+    src: url("../fonts/#{$file}.woff2") format("woff2");
+  }
+}
+
+@include font-face("Oswald", "oswald-latin-500-normal", 500);
+@include font-face("Oswald", "oswald-latin-700-normal", 700);
+@include font-face("Lora", "lora-latin-400-normal", 400);
+@include font-face("Lora", "lora-latin-400-italic", 400, italic);
+@include font-face("Lora", "lora-latin-700-normal", 700);

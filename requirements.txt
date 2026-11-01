@@ -1,0 +1,17 @@
+# Pinned runtime dependencies (used by the Docker build).
+# Keep in sync with pyproject.toml; regenerate with:
+#   pip install -e . && pip freeze --exclude-editable > requirements.txt
+asgiref==3.13.0
+beautifulsoup4==4.15.0
+certifi==2026.10.23
+charset-normalizer==3.5.2
+Django==5.2.18
+idna==3.20
+libsass==0.23.0
+pillow==13.0.0
+python-dotenv==1.2.4
+requests==2.34.2
+soupsieve==3.0.4
+sqlparse==0.6.0
+typing_extensions==4.16.0
+urllib3==2.8.0

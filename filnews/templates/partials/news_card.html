@@ -1,0 +1,17 @@
+{% load filnews_tags %}
+<article class="card">
+  <a class="card__media" href="{% url 'news_detail' news.slug %}" tabindex="-1" aria-hidden="true">
+    {% if news.thumbnail %}
+    <img src="{{ news.thumbnail|media_url }}" width="640" height="360" alt="" loading="lazy" decoding="async">
+    {% else %}
+    <span class="card__placeholder">{{ news.domain|default:SITE_NAME }}</span>
+    {% endif %}
+  </a>
+  <div class="card__body">
+    {% include "partials/news_meta.html" %}
+    <h3 class="card__title"><a href="{% url 'news_detail' news.slug %}">{{ news.title }}</a></h3>
+    {% if news.summary %}<p class="card__summary">{{ news.summary|truncatechars:180 }}</p>{% endif %}
+    {% include "partials/news_stats.html" %}
+    {% include "partials/tag_list.html" with tags=news.tag_items %}
+  </div>
+</article>

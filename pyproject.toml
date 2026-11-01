@@ -1,0 +1,49 @@
+[build-system]
+requires = ["setuptools>=69"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "filnews"
+version = "1.0.0"
+description = "FilNews.fr — French news curated from Reddit, published as a static site."
+requires-python = ">=3.12"
+dependencies = [
+    "Django>=5.2,<5.3",
+    "requests>=2.32",
+    "beautifulsoup4>=4.12",
+    "Pillow>=11.0",
+    "python-dotenv>=1.0",
+    "libsass>=0.23",
+]
+
+[project.optional-dependencies]
+dev = [
+    "ruff>=0.8",
+]
+# Optional local NLP model used by `analyze_news --analyzer local`.
+# Heavy (torch): install only on the machine that runs the analysis.
+ml = [
+    "transformers>=4.45",
+    "torch>=2.4",
+    "sentencepiece>=0.2",
+    "protobuf>=5.28",
+]
+
+[tool.setuptools.packages.find]
+include = ["filnews*"]
+
+[tool.ruff]
+line-length = 88
+target-version = "py312"
+extend-exclude = ["dist", "data"]
+
+[tool.ruff.lint]
+select = ["E", "F", "W", "I", "B", "UP", "S", "DJ", "SIM", "RUF", "PTH", "C4"]
+ignore = [
+    "E501",   # handled by the formatter
+    "RUF012", # Django class attributes
+    "RUF001", # French typography (’, –, «) is intentional
+]
+
+[tool.ruff.lint.per-file-ignores]
+"filnews/tests/*" = ["S101", "S106", "S314"]

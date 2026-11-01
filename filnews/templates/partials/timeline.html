@@ -1,0 +1,26 @@
+{% comment %}
+Tag history in the hover card: one dot per news on an axis fitted to the
+tag's history, or one bar per period for big tags (see timeline.py). Dots are mouse-only (tabindex -1) because the card itself is
+not focusable; keyboard users open the tag page instead.
+{% endcomment %}
+<figure class="timeline">
+  <svg class="timeline__chart" width="100%" height="56" role="group" aria-labelledby="timeline-caption-{{ tag.slug }}">
+    <line class="timeline__axis" x1="0" y1="20" x2="100%" y2="20"/>
+    {% for tick in timeline.ticks %}
+    <line class="timeline__tick" x1="{{ tick.position|stringformat:'.3f' }}%" y1="14" x2="{{ tick.position|stringformat:'.3f' }}%" y2="26"/>
+    <text class="timeline__label" x="{{ tick.position|stringformat:'.3f' }}%" y="46">{{ tick.label }}</text>
+    {% endfor %}
+    {% for bar in timeline.bars %}
+    <rect class="timeline__bar" x="{{ bar.position|stringformat:'.3f' }}%" y="{{ bar.y|stringformat:'.1f' }}" width="{{ bar.width|stringformat:'.3f' }}%" height="{{ bar.height|stringformat:'.1f' }}"><title>{{ bar.label|capfirst }} : {{ bar.count }} news</title></rect>
+    {% endfor %}
+    {% for point in timeline.points %}
+    <a href="{% url 'news_detail' point.news.slug %}" tabindex="-1" data-news="{{ point.news.id }}">
+      <title>{{ point.news.created_at|date:"j F Y" }} — {{ point.news.title }}</title>
+      <circle class="timeline__dot" cx="{{ point.position|stringformat:'.3f' }}%" cy="20" r="6"/>
+    </a>
+    {% endfor %}
+  </svg>
+  <figcaption id="timeline-caption-{{ tag.slug }}" class="visually-hidden">
+    Frise de « {{ tag.name }} » : {{ tag.count }} news, du {{ tag.first_seen|date:"j F Y" }} au {{ tag.last_seen|date:"j F Y" }}.
+  </figcaption>
+</figure>

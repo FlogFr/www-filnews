@@ -1,0 +1,61 @@
+{% extends "base.html" %}
+{% load filnews_tags %}
+
+{% block canonical %}<link rel="canonical" href="{{ SITE_URL }}/">{% endblock %}
+{% block structured_data %}{% website_ld %}{% endblock %}
+{% block og_image %}{% if headline.thumbnail %}<meta property="og:image" content="{{ headline.thumbnail|media_url|absolute }}">{% else %}{{ block.super }}{% endif %}{% endblock %}
+
+{% block content %}
+<h1 class="visually-hidden">{{ SITE_NAME }} — {{ SITE_TAGLINE }}</h1>
+
+{% if headline %}
+<section class="headline" aria-labelledby="headline-title">
+  <p class="section-label">À la une</p>
+  <article class="hero">
+    {% if headline.thumbnail %}
+    <a class="hero__media" href="{% url 'news_detail' headline.slug %}" tabindex="-1" aria-hidden="true">
+      <img src="{{ headline.thumbnail|media_url }}" width="640" height="360" alt="" fetchpriority="high" decoding="async">
+    </a>
+    {% endif %}
+    <div class="hero__body">
+      {% include "partials/news_meta.html" with news=headline %}
+      <h2 class="hero__title" id="headline-title"><a href="{% url 'news_detail' headline.slug %}">{{ headline.title }}</a></h2>
+      {% if headline.summary %}<p class="hero__summary">{{ headline.summary }}</p>{% endif %}
+      {% include "partials/news_stats.html" with news=headline %}
+      {% include "partials/tag_list.html" with tags=headline.tag_items %}
+    </div>
+  </article>
+</section>
+{% endif %}
+
+<div class="home-layout">
+  <section class="latest" aria-labelledby="latest-title">
+    <h2 class="section-title" id="latest-title">Dernières news</h2>
+    {% if news_list %}
+    <div class="card-grid">
+      {% for news in news_list %}{% include "partials/news_card.html" %}{% endfor %}
+    </div>
+    <p><a class="button" href="{% url 'archive' %}">Toutes les news</a></p>
+    {% elif not headline %}
+    <p>Aucune news pour le moment. Revenez bientôt !</p>
+    {% endif %}
+  </section>
+
+  <aside class="sidebar" aria-label="Compléments">
+    <section class="panel" aria-labelledby="tags-title">
+      <h2 class="section-title" id="tags-title">Tags du moment</h2>
+      {% if recent_tags %}
+        {% include "partials/tag_list.html" with tags=recent_tags label="Tags du moment" %}
+        <p class="panel__more"><a href="{% url 'tag_index' %}">Tous les tags</a></p>
+      {% else %}
+        <p>Pas encore de tags.</p>
+      {% endif %}
+    </section>
+    <section class="panel panel--rss" aria-labelledby="rss-title">
+      <h2 class="section-title" id="rss-title">Suivre FilNews</h2>
+      <p>Recevez toutes les news dans votre lecteur de flux.</p>
+      <a class="button button--rss" href="{% url 'rss' %}">{% include "partials/icon_rss.html" %}<span>S'abonner au flux RSS</span></a>
+    </section>
+  </aside>
+</div>
+{% endblock %}

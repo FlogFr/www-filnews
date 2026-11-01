@@ -1,0 +1,7 @@
+<nav class="breadcrumb" aria-label="Fil d'Ariane">
+  <ol>
+    <li><a href="{% url 'home' %}">Accueil</a></li>
+    {% if section %}<li><a href="{% url section_url_name %}">{{ section }}</a></li>{% endif %}
+    <li><span aria-current="page">{{ current|truncatechars:60 }}</span></li>
+  </ol>
+</nav>

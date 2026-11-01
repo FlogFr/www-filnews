@@ -1,0 +1,58 @@
+{% extends "base.html" %}
+{% load filnews_tags %}
+
+{% block title %}{{ news.title }} — {{ SITE_NAME }}{% endblock %}
+{% block description %}{{ news.summary|default:news.title|truncatechars:160 }}{% endblock %}
+{% block og_type %}article{% endblock %}
+{% block og_title %}{{ news.title }}{% endblock %}
+{% block og_description %}{{ news.summary|default:news.title|truncatechars:200 }}{% endblock %}
+{% block og_image %}{% if news.thumbnail %}<meta property="og:image" content="{{ news.thumbnail|media_url|absolute }}">
+  <meta property="og:image:width" content="640">
+  <meta property="og:image:height" content="360">{% else %}{{ block.super }}{% endif %}
+  <meta property="article:published_time" content="{{ news.created_at|date:'c' }}">
+  {% for tag in news.tags %}<meta property="article:tag" content="{{ tag }}">
+  {% endfor %}{% endblock %}
+{% block structured_data %}{% news_article_ld news %}{% url 'archive' as archive_url %}{% breadcrumb_ld "Accueil" "/" "Archives" archive_url news.title request.path %}{% endblock %}
+
+{% block content %}
+{% include "partials/breadcrumb.html" with section="Archives" section_url_name="archive" current=news.title %}
+<article class="article">
+  <header class="article__header">
+    {% include "partials/news_meta.html" %}
+    <h1 class="article__title">{{ news.title }}</h1>
+    {% include "partials/news_stats.html" %}
+  </header>
+
+  {% if news.thumbnail %}
+  <img class="article__image" src="{{ news.thumbnail|media_url }}" width="640" height="360" alt="" fetchpriority="high" decoding="async">
+  {% endif %}
+
+  {% if news.summary %}
+  <section class="article__summary" aria-labelledby="summary-title">
+    <h2 class="visually-hidden" id="summary-title">Résumé</h2>
+    <p>{{ news.summary }}</p>
+  </section>
+  {% endif %}
+
+  <ul class="article__links">
+    <li><a class="button" href="{{ news.url }}" rel="noopener ugc">Lire l'article{% if news.domain %} sur {{ news.domain }}{% endif %}</a></li>
+    <li><a class="button button--ghost" href="{{ news.reddit_url }}" rel="noopener ugc">Voir la discussion sur Reddit</a></li>
+  </ul>
+
+  {% if news.tags %}
+  <section class="article__tags" aria-labelledby="tags-title">
+    <h2 class="section-title" id="tags-title">Dans le fil de l'actualité</h2>
+    {% include "partials/tag_list.html" with tags=news.tag_items %}
+  </section>
+  {% endif %}
+</article>
+
+{% if related %}
+<section class="related" aria-labelledby="related-title">
+  <h2 class="section-title" id="related-title">Sur les mêmes sujets</h2>
+  <div class="card-grid">
+    {% for news in related %}{% include "partials/news_card.html" %}{% endfor %}
+  </div>
+</section>
+{% endif %}
+{% endblock %}

@@ -1,0 +1,33 @@
+{% extends "base.html" %}
+{% load filnews_tags %}
+
+{% block title %}Tous les tags — {{ SITE_NAME }}{% endblock %}
+{% block description %}Tous les sujets de l'actualité suivis par {{ SITE_NAME }}, classés par ordre alphabétique.{% endblock %}
+{% block structured_data %}{% breadcrumb_ld "Accueil" "/" "Tags" request.path %}{% endblock %}
+
+{% block content %}
+{% include "partials/breadcrumb.html" with current="Tags" %}
+<header class="page-header">
+  <h1 class="page-title">Tous les tags</h1>
+  <p class="page-intro">{{ tags|length }} sujet{{ tags|length|pluralize }} suivi{{ tags|length|pluralize }}.</p>
+</header>
+{% if tags %}
+<nav class="letter-nav" aria-label="Lettres">
+  <ul>
+    {% for letter, letter_tags in letters %}<li><a href="#lettre-{% if letter == '#' %}autres{% else %}{{ letter|lower }}{% endif %}">{{ letter }}</a></li>{% endfor %}
+  </ul>
+</nav>
+{% for letter, letter_tags in letters %}
+<section class="tag-letter" aria-labelledby="lettre-{% if letter == '#' %}autres{% else %}{{ letter|lower }}{% endif %}">
+  <h2 class="section-title" id="lettre-{% if letter == '#' %}autres{% else %}{{ letter|lower }}{% endif %}">{% if letter == '#' %}Autres{% else %}{{ letter }}{% endif %}</h2>
+  <ul class="tag-index">
+    {% for tag in letter_tags %}
+    <li><a class="tag" href="{% url 'tag_detail' tag.slug %}" data-timeline="{% url 'tag_timeline' tag.slug %}">{{ tag.name }}</a> <span class="tag-index__count">{{ tag.count }}<span class="visually-hidden"> news</span></span></li>
+    {% endfor %}
+  </ul>
+</section>
+{% endfor %}
+{% else %}
+<p>Pas encore de tags.</p>
+{% endif %}
+{% endblock %}

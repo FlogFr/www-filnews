@@ -1,0 +1,14 @@
+{# Hover card content; main.js inserts it into its own .tag-card element. #}
+<p class="tag-card__title"><a href="{% url 'tag_detail' tag.slug %}" tabindex="-1">{{ tag.name }}</a> <span class="tag-card__count">{{ tag.count }} news</span></p>
+{% include "partials/timeline.html" %}
+<ul class="tag-card__news">
+  {% for news in latest %}
+  <li data-news="{{ news.id }}">
+    <a href="{% url 'news_detail' news.slug %}" tabindex="-1">
+      <time datetime="{{ news.created_at|date:'c' }}">{{ news.created_at|date:"j N Y" }}</time>
+      <span>{{ news.title }}</span>
+    </a>
+  </li>
+  {% endfor %}
+</ul>
+{% if tag.count > latest|length %}<p class="tag-card__more"><a href="{% url 'tag_detail' tag.slug %}" tabindex="-1">Voir les {{ tag.count }} news →</a></p>{% endif %}

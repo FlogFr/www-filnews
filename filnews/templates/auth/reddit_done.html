@@ -1,0 +1,11 @@
+{% extends "base.html" %}
+
+{% block title %}Reddit connecté — {{ SITE_NAME }}{% endblock %}
+{% block robots %}noindex, nofollow{% endblock %}
+
+{% block content %}
+<article class="prose">
+  <h1 class="page-title">Compte Reddit connecté</h1>
+  <p>Le jeton d'accès a été enregistré localement. Vous pouvez fermer cette page et lancer <code>python manage.py ingest_news</code>.</p>
+</article>
+{% endblock %}

@@ -1,0 +1,44 @@
+{% extends "base.html" %}
+{% load filnews_tags %}
+
+{% block title %}{{ tag.name }} : {% if year and not is_latest_year %}l'actualité en {{ year }}{% else %}toute l'actualité{% endif %} — {{ SITE_NAME }}{% endblock %}
+{% block description %}{% if year and not is_latest_year %}Les {{ thread|length }} news de {{ year }} sur « {{ tag.name }} » : historique et contexte de l'actualité.{% else %}{{ tag.count }} news sur « {{ tag.name }} » depuis le {{ tag.first_seen|date:"j F Y" }} : historique et contexte de l'actualité.{% endif %}{% endblock %}
+{% block og_title %}{{ tag.name }} — {{ SITE_NAME }}{% endblock %}
+{% block og_description %}{{ tag.count }} news sur « {{ tag.name }} ».{% endblock %}
+{% block structured_data %}{% url 'tag_index' as tags_url %}{% breadcrumb_ld "Accueil" "/" "Tags" tags_url tag.name request.path %}{% endblock %}
+
+{% block content %}
+{% include "partials/breadcrumb.html" with section="Tags" section_url_name="tag_index" current=tag.name %}
+<header class="page-header">
+  <h1 class="page-title"><span class="page-title__kicker">Tag</span> {{ tag.name }}{% if year and not is_latest_year %} <span class="page-title__year">en {{ year }}</span>{% endif %}</h1>
+  <p class="page-intro">{{ tag.count }} news liée{{ tag.count|pluralize }} à ce sujet.</p>
+</header>
+
+<section aria-labelledby="thread-title">
+  <h2 class="section-title" id="thread-title">Le Fil</h2>
+  {% if years %}
+  <nav class="year-nav" aria-label="Années">
+    <ul>
+      {% for y, count in years %}
+      <li><a href="{% if forloop.first %}{% url 'tag_detail' tag.slug %}{% else %}{% url 'tag_year' tag.slug y %}{% endif %}"{% if y == year %} aria-current="page"{% endif %}>{{ y }} <span class="year-nav__count">{{ count }}<span class="visually-hidden"> news</span></span></a></li>
+      {% endfor %}
+    </ul>
+  </nav>
+  <p class="thread__summary">{{ thread|length }} news en {{ year }}, de la plus récente à la plus ancienne.</p>
+  {% else %}
+  <p class="thread__summary">Du {{ tag.first_seen|date:"j F Y" }} au {{ tag.last_seen|date:"j F Y" }}, de la plus récente à la plus ancienne.</p>
+  {% endif %}
+  <ol class="thread">
+    {% for entry in thread %}
+    {% if entry.new_year %}<li class="thread__year" aria-hidden="true"><span>{{ entry.news.created_at|date:"Y" }}</span></li>{% endif %}
+    <li class="thread__item thread__item--{{ entry.side }}">
+      <p class="thread__when">
+        <time class="thread__date" datetime="{{ entry.news.created_at|date:'c' }}">{{ entry.news.created_at|date:"j F Y" }}</time>
+        {% if entry.gap %}<span class="thread__gap">{{ entry.gap }} plus tôt</span>{% endif %}
+      </p>
+      {% include "partials/news_card.html" with news=entry.news %}
+    </li>
+    {% endfor %}
+  </ol>
+</section>
+{% endblock %}

@@ -1,0 +1,13 @@
+.git
+.venv
+.env
+.claude
+.ruff_cache
+**/__pycache__
+dist
+data/.secrets
+data/.lock
+filnews/static/css
+docs
+features
+claude

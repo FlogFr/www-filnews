@@ -1,0 +1,68 @@
+// Design tokens. Sass variables feed CSS custom properties so colours can
+// switch at runtime (dark mode) while breakpoints stay compile-time.
+
+$brand: #ca2026;
+
+$breakpoint-md: 48rem;
+$breakpoint-lg: 64rem;
+
+$font-heading: "Oswald", "Arial Narrow", "Helvetica Neue", Arial, sans-serif;
+$font-body: "Lora", Georgia, "Times New Roman", serif;
+
+:root {
+  --color-brand: #{$brand};
+  --color-brand-strong: #{darken($brand, 10%)};
+  --color-text: #1d1d1f;
+  --color-text-muted: #595959; // 7:1 on white
+  --color-bg: #ffffff;
+  --color-surface: #f6f6f4;
+  --color-border: #e3e3e0;
+  --color-focus: #1a5fb4;
+  --color-on-brand: #ffffff;
+  color-scheme: light;
+
+  --radius: 6px;
+  --space-1: 0.25rem;
+  --space-2: 0.5rem;
+  --space-3: 1rem;
+  --space-4: 1.5rem;
+  --space-5: 2.5rem;
+  --container: 72rem;
+  --shadow: 0 1px 2px rgba(0, 0, 0, 0.06), 0 4px 16px rgba(0, 0, 0, 0.06);
+}
+
+@mixin dark-tokens {
+  --color-brand: #ff5a5f;
+  --color-brand-strong: #ff8086;
+  --color-text: #ececec;
+  --color-text-muted: #b5b5b5;
+  --color-bg: #141416;
+  --color-surface: #1f1f23;
+  --color-border: #34343a;
+  --color-focus: #8ab4ff;
+  --color-on-brand: #141416;
+  --shadow: 0 1px 2px rgba(0, 0, 0, 0.4);
+  color-scheme: dark;
+}
+
+// The OS preference applies unless the visitor picked a theme with the
+// header toggle (stored by js/theme.js as `data-theme` on <html>).
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    @include dark-tokens;
+  }
+}
+
+:root[data-theme="dark"] {
+  @include dark-tokens;
+}
+
+:root[data-theme="light"] {
+  color-scheme: light;
+}
+
+@mixin from($breakpoint) {
+  @media (min-width: $breakpoint) {
+    @content;
+  }
+}

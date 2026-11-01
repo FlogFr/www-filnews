@@ -1,0 +1,4 @@
+<p class="news-meta">
+  {% if news.domain %}<span class="news-meta__source">{{ news.domain }}</span>{% endif %}
+  <time datetime="{{ news.created_at|date:'c' }}">{{ news.created_at|date:"j F Y à H:i" }}</time>
+</p>

@@ -1,0 +1,8 @@
+// FilNews stylesheet entry point — compiled to static/css/main.css by
+// `filnews.assets.compile_scss()` (runserver and build_site do it for you).
+
+@import "tokens";
+@import "fonts";
+@import "base";
+@import "layout";
+@import "components";

@@ -1,0 +1,29 @@
+{% extends "base.html" %}
+{% load filnews_tags %}
+
+{% block title %}Archives — {{ SITE_NAME }}{% endblock %}
+{% block description %}Toutes les news publiées sur {{ SITE_NAME }}, mois par mois.{% endblock %}
+{% block structured_data %}{% breadcrumb_ld "Accueil" "/" "Archives" request.path %}{% endblock %}
+
+{% block content %}
+{% include "partials/breadcrumb.html" with current="Archives" %}
+<header class="page-header">
+  <h1 class="page-title">Archives</h1>
+  <p class="page-intro">{{ total }} news, mois par mois.</p>
+</header>
+
+{% if years %}
+{% for year, months in years %}
+<section class="archive-year" aria-labelledby="archive-{{ year }}">
+  <h2 class="section-title" id="archive-{{ year }}">{{ year }}</h2>
+  <ul class="archive-months">
+    {% for month in months %}
+    <li><a href="{% url 'archive_month' month.year|stringformat:'04d' month.month|stringformat:'02d' %}">{{ month.date|date:"F"|capfirst }}</a> <span class="archive-months__count">{{ month.count }}<span class="visually-hidden"> news</span></span></li>
+    {% endfor %}
+  </ul>
+</section>
+{% endfor %}
+{% else %}
+<p>Aucune news pour le moment.</p>
+{% endif %}
+{% endblock %}

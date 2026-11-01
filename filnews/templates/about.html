@@ -1,0 +1,27 @@
+{% extends "base.html" %}
+{% load filnews_tags %}
+
+{% block title %}À propos — {{ SITE_NAME }}{% endblock %}
+{% block description %}Comment {{ SITE_NAME }} sélectionne l'actualité et remet chaque article dans son contexte, en suivant le fil de ses tags.{% endblock %}
+{% block structured_data %}{% breadcrumb_ld "Accueil" "/" "À propos" request.path %}{% endblock %}
+
+{% block content %}
+{% include "partials/breadcrumb.html" with current="À propos" %}
+<article class="prose">
+  <h1 class="page-title">À propos de {{ SITE_NAME }}</h1>
+  <p>Une actualité isolée se comprend mal : qui sont les acteurs, que s'est-il passé avant, où en est le sujet ? Le but de {{ SITE_NAME }} est de <strong>remettre du contexte autour de chaque article</strong>, en le replaçant dans le <strong>fil</strong> de l'actualité dont il fait partie.</p>
+  <p>Les news proviennent de la communauté <a href="https://www.reddit.com/r/{{ subreddit }}/" rel="noopener">r/{{ subreddit }}</a>. Un algorithme objectif, identique pour tous les sujets, retient les articles qui ont suscité le plus d'intérêt : aucun choix éditorial, aucune ligne politique.</p>
+  <h2>Suivre un sujet dans son fil</h2>
+  <p>Chaque article est rattaché à des <a href="{% url 'tag_index' %}">tags</a> : personnes, lieux, organisations, thèmes. Chaque tag forme un <strong>fil</strong>, la frise chronologique de toutes les news qui en parlent. En partant d'un article, il suffit de suivre ses tags pour remonter le fil : les événements qui l'ont précédé, ceux qui ont suivi, et les sujets qui s'y croisent.</p>
+  <h2>Comment ça marche ?</h2>
+  <ol>
+    <li><strong>Sélection</strong> : plusieurs fois par jour, l'algorithme retient les liens d'actualité qui ont suscité le plus d'intérêt.</li>
+    <li><strong>Analyse</strong> : chaque article est résumé, illustré et rattaché à ses tags.</li>
+    <li><strong>Contexte</strong> : survolez ou ouvrez un tag pour dérouler son fil et situer l'article dans l'histoire du sujet.</li>
+  </ol>
+  <h2>Suivre les news</h2>
+  <p>Toutes les news sont disponibles dans le <a href="{% url 'rss' %}">flux RSS</a>, de la plus récente à la plus ancienne.</p>
+  <h2>Sources</h2>
+  <p>Les articles appartiennent à leurs éditeurs respectifs : {{ SITE_NAME }} n'en publie qu'un court résumé et renvoie systématiquement vers la source.</p>
+</article>
+{% endblock %}

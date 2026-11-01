@@ -1,0 +1,38 @@
+{% extends "base.html" %}
+{% load filnews_tags %}
+
+{% block title %}Archives de {{ month_date|date:"F Y" }} — {{ SITE_NAME }}{% endblock %}
+{% block description %}Les {{ news_count }} news de {{ month_date|date:"F Y" }} sur {{ SITE_NAME }}, jour par jour.{% endblock %}
+{% block structured_data %}{% url 'archive' as archive_url %}{% breadcrumb_ld "Accueil" "/" "Archives" archive_url month_date|date:"F Y"|capfirst request.path %}{% endblock %}
+
+{% block content %}
+{% include "partials/breadcrumb.html" with section="Archives" section_url_name="archive" current=month_date|date:"F Y"|capfirst %}
+<header class="page-header">
+  <h1 class="page-title"><span class="page-title__kicker">Archives</span> {{ month_date|date:"F Y"|capfirst }}</h1>
+  <p class="page-intro">{{ news_count }} news, de la plus récente à la plus ancienne.</p>
+</header>
+
+{% for day, news_list in days %}
+<section class="archive-day" aria-labelledby="day-{{ day|date:'Y-m-d' }}">
+  <h2 class="archive-day__title" id="day-{{ day|date:'Y-m-d' }}"><time datetime="{{ day|date:'Y-m-d' }}">{{ day|date:"l j F Y"|capfirst }}</time></h2>
+  <ul class="archive-list">
+    {% for news in news_list %}
+    <li class="archive-list__item">
+      <a class="archive-list__title" href="{% url 'news_detail' news.slug %}">{{ news.title }}</a>
+      <span class="archive-list__meta">{% if news.domain %}{{ news.domain }} · {% endif %}<span class="visually-hidden">Score Reddit : </span><span aria-hidden="true">▲</span> {{ news.score }}</span>
+    </li>
+    {% endfor %}
+  </ul>
+</section>
+{% endfor %}
+
+{% if newer or older %}
+<nav class="pagination" aria-label="Mois">
+  <ul>
+    {% if newer %}<li><a href="{{ newer.url }}" rel="prev">← {{ newer.date|date:"F Y"|capfirst }}</a></li>{% endif %}
+    <li><a href="{% url 'archive' %}">Tous les mois</a></li>
+    {% if older %}<li><a href="{{ older.url }}" rel="next">{{ older.date|date:"F Y"|capfirst }} →</a></li>{% endif %}
+  </ul>
+</nav>
+{% endif %}
+{% endblock %}
