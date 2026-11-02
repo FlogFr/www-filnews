@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 Disallow: /auth/
 
-Sitemap: https://www.filnews.fr/sitemap.xml
+Sitemap: https://filnews.fr/sitemap.xml
