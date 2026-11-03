@@ -17,7 +17,7 @@
     "summary": "",
     "thumbnail": "thumbnails/1rh68yb.webp",
     "tags": [
-      "Société"
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T11:18:56.357843+00:00"
   },
@@ -39,37 +39,9 @@
     "summary": "Au moins 60 autres personnes ont été blessées dans la province de Hormozgan, dans le sud de l’Iran.",
     "thumbnail": "thumbnails/1rh3d5t.webp",
     "tags": [
-      "Iran",
-      "Etats-Unis",
-      "Israël",
-      "Hormozgan",
-      "Monde"
+      "Éducation"
     ],
     "analyzed_at": "2026-11-01T11:18:56.763074+00:00"
-  },
-  {
-    "id": "1rh0rm2",
-    "title": "La préfecture du Rhône scandalisée par la présence de néonazis à un rassemblement de néonazis",
-    "url": "https://www.legorafi.fr/2026/02/26/la-prefecture-du-rhone-scandalisee-par-la-presence-de-neonazis-a-un-rassemblement-de-neonazis/",
-    "permalink": "/r/france/comments/1rh0rm2/la_préfecture_du_rhône_scandalisée_par_la/",
-    "created_at": "2026-02-28T11:54:10+00:00",
-    "score": 971,
-    "num_comments": 33,
-    "subreddit": "france",
-    "author": "Johannes_P",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/QI674PXVbDN-GDJFoL9jUXzt1h7CfeARwRnQBVLbtEw.jpeg?auto=webp&s=30c38fa80d0ffbb10c9d1635cf5d97acc024aecb",
-    "ingested_at": "2026-11-01T11:18:38.153143+00:00",
-    "summary": "La marche en hommage à Quentin a réuni la fine fleur des groupuscules fascistes lyonnais, prenant l’administration de court.",
-    "thumbnail": "thumbnails/1rh0rm2.webp",
-    "tags": [
-      "Rhône",
-      "Quentin",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T11:18:56.135426+00:00"
   },
   {
     "id": "1rgzidy",
@@ -89,62 +61,9 @@
     "summary": "Depuis leur privatisation en 2006, les concessions autoroutières affichent une rentabilité que la Cour des comptes, l'Inspection générale des finances et le Sénat jugent structurellement élevée. Face à cette dérive, l'Etat a un choix à faire, pointe l'avocat Christophe Lèguevaques.",
     "thumbnail": "thumbnails/1rgzidy.webp",
     "tags": [
-      "Cour",
-      "Sénat",
-      "Christophe Lèguevaques",
-      "Société"
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T11:19:01.000334+00:00"
-  },
-  {
-    "id": "1rgzcr3",
-    "title": "Wikidati l'encyclopedie des affaires de Rachida Dati",
-    "url": "https://wikidati.fr/",
-    "permalink": "/r/france/comments/1rgzcr3/wikidati_lencyclopedie_des_affaires_de_rachida/",
-    "created_at": "2026-02-28T10:32:46+00:00",
-    "score": 451,
-    "num_comments": 34,
-    "subreddit": "france",
-    "author": "mataka12",
-    "flair": "Politique",
-    "domain": "wikidati.fr",
-    "selftext": "",
-    "reddit_thumbnail": "",
-    "ingested_at": "2026-11-01T11:18:38.155109+00:00",
-    "summary": "Quatorze affaires distinctes visent directement Rachida Dati et sont répertoriées dans les médias. Pour chacune d’entre elle, les faits et la chronologie ont été résumés et sourcés précisément.",
-    "thumbnail": "",
-    "tags": [
-      "Rachida Dati",
-      "Renault-Nissan",
-      "Renault",
-      "Carlos Ghosn",
-      "Politique"
-    ],
-    "analyzed_at": "2026-11-01T11:18:55.928124+00:00"
-  },
-  {
-    "id": "1rgylvv",
-    "title": "1 557 000 photos d’élèves exposées : 65 Go de données sur des mineurs mis en vente après le piratage de l’UNSS",
-    "url": "https://frenchbreaches.com/blog/1-557-000-photos-deleves-exposees-65-go-de-donnees-sur-des-mineurs-mis-en-vente-apres-le-piratage-de-lunss",
-    "permalink": "/r/france/comments/1rgylvv/1_557_000_photos_délèves_exposées_65_go_de/",
-    "created_at": "2026-02-28T09:46:07+00:00",
-    "score": 474,
-    "num_comments": 77,
-    "subreddit": "france",
-    "author": "SweeneyisMad",
-    "flair": "Actus",
-    "domain": "frenchbreaches.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/FzLaEIKj2PpsgNcsHG8QmHYOQB0o4qG7iCxYF4yOx20.jpeg?auto=webp&s=511707761d5b8b6694a7f779795527ae15582dd6",
-    "ingested_at": "2026-11-01T11:18:38.154991+00:00",
-    "summary": "Le piratage de l’UNSS expose 1 557 000 photos d’élèves et 65 Go de données sensibles. Le groupe DumpSec mettrait la base en vente. Collégiens et lycéens concernés.",
-    "thumbnail": "thumbnails/1rgylvv.webp",
-    "tags": [
-      "UNSS",
-      "Go",
-      "DumpSec"
-    ],
-    "analyzed_at": "2026-11-01T11:18:56.169865+00:00"
   },
   {
     "id": "1rgwr8c",
@@ -164,11 +83,7 @@
     "summary": "Washington et l'Etat hébreu ont lancé des frappes surprises sur l'Iran samedi. Téhéran a riposté et de nombreux pays du Moyen-Orient ont été visés par des missiles.",
     "thumbnail": "thumbnails/1rgwr8c.webp",
     "tags": [
-      "Iran",
-      "Donald Trump",
-      "Etats-Unis",
-      "Etat",
-      "Moyen-Orient"
+      "Donald Trump"
     ],
     "analyzed_at": "2026-11-01T11:18:56.163205+00:00"
   },
@@ -190,10 +105,9 @@
     "summary": "",
     "thumbnail": "thumbnails/1rgbwhh.webp",
     "tags": [
-      "Conseil Etat",
-      "LFI",
-      "UDR",
-      "Politique"
+      "Extrême droite",
+      "Extrême gauche",
+      "Élections"
     ],
     "analyzed_at": "2026-11-01T11:18:56.603422+00:00"
   },
@@ -215,9 +129,7 @@
     "summary": "Alors que la campagne municipale est marquée par le scandale des violences au périscolaire, l’ex-magistrate ne cesse de revendiquer son action passée aux côtés de l’ancien président du tribunal pour …",
     "thumbnail": "thumbnails/1rg9s5s.webp",
     "tags": [
-      "Rachida Dati",
-      "CV",
-      "Politique"
+      "Rachida Dati"
     ],
     "analyzed_at": "2026-11-01T11:18:56.771713+00:00"
   },
@@ -239,7 +151,7 @@
     "summary": "Eric Lombard a estimé ce vendredi à 50.000 le nombre de foyers fortuné parvenant à échapper à l'impôt. L'ancien ministre de l'Économie a reconnu une \"suroptimisation fiscale\", qui découle sur \"un problème d'équité fiscale\".",
     "thumbnail": "thumbnails/1rg8dbf.webp",
     "tags": [
-      "Eric Lombard",
+      "Budget et fiscalité",
       "Économie"
     ],
     "analyzed_at": "2026-11-01T11:18:56.319431+00:00"
@@ -262,11 +174,7 @@
     "summary": "La proposition de loi Vannier-Spillebout, visant à lutter contre les violences faites aux enfants à l’école, en particulier dans l’enseignement privé, ne sera pas mise à l’agenda du Parlement. En cau…",
     "thumbnail": "thumbnails/1rg5zc5.webp",
     "tags": [
-      "LFI",
-      "Assemblée",
-      "Vannier-Spillebout",
-      "Parlement",
-      "Politique"
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T11:18:56.736863+00:00"
   },
@@ -288,9 +196,8 @@
     "summary": "Des associations amiénoises ont recueilli une vingtaine de témoignages d’agressions violentes dans la ville depuis deux mois. La plupart viseraient la communauté LGBTQIA+ et les personnes identifiées de gauche et seraient...",
     "thumbnail": "thumbnails/1rg5xmz.webp",
     "tags": [
-      "Amiens",
-      "LGBTQIA",
-      "Société"
+      "LGBT+",
+      "Extrême droite"
     ],
     "analyzed_at": "2026-11-01T11:18:56.656445+00:00"
   },
@@ -312,9 +219,7 @@
     "summary": "Ambre Cuny-Delacour, 24 ans, ingénieure agronome, cherche depuis plusieurs mois son premier emploi. Sans succès. Son parcours illustre la difficile insertion professionnelle des jeunes diplômés, confirmée par la dernière étude de l'Apec*.",
     "thumbnail": "thumbnails/1rg5a6w.webp",
     "tags": [
-      "Apec",
-      "Ambre Cuny-Delacour",
-      "Blabla"
+      "Travail"
     ],
     "analyzed_at": "2026-11-01T11:19:03.086643+00:00"
   },
@@ -336,10 +241,7 @@
     "summary": "Qu’elles aient été pilotées de Chine ou de Russie, les ingérences qui ont cherché à fausser le résultat des dernières élections en France vantent l’action du parti d’extrême droite, ou critiquent les…",
     "thumbnail": "thumbnails/1rg0zdn.webp",
     "tags": [
-      "RN",
-      "Chine",
-      "Russie",
-      "Politique"
+      "Élections"
     ],
     "analyzed_at": "2026-11-01T11:18:57.711381+00:00"
   },
@@ -361,11 +263,8 @@
     "summary": "",
     "thumbnail": "thumbnails/1rfz318.webp",
     "tags": [
-      "Quentin Deranque",
-      "Lyon",
       "Jean-Luc Mélenchon",
-      "Jeune Garde",
-      "Politique"
+      "Extrême droite"
     ],
     "analyzed_at": "2026-11-01T11:18:56.727526+00:00"
   },
@@ -387,11 +286,8 @@
     "summary": "La candidate d’extrême droite Alexandra Masson arriverait en tête du premier tour des municipales à Menton, d’après ce sondage réalisé par E",
     "thumbnail": "thumbnails/1rfyl9n.webp",
     "tags": [
-      "Menton",
-      "Louis Sarkozy",
-      "RN Alexandra Masson",
-      "Alexandra Masson",
-      "Politique"
+      "Nicolas Sarkozy",
+      "Élections"
     ],
     "analyzed_at": "2026-11-01T11:18:57.142119+00:00"
   },
@@ -412,39 +308,8 @@
     "ingested_at": "2026-11-01T11:18:38.157301+00:00",
     "summary": "Le candidat RN à la mairie de Marseille Franck Allisio a également déclaré vouloir multiplier \"par trois\" le nombre de policiers municipaux dans la ville pour sécuriser les plages marseillaises, en marge du premier débat des élections municipales dans la ville.",
     "thumbnail": "thumbnails/1rfl44c.webp",
-    "tags": [
-      "RN",
-      "Marseille Franck Allisio",
-      "Marseille",
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:18:57.089969+00:00"
-  },
-  {
-    "id": "1rfe2t7",
-    "title": "Les discriminations à l'encontre des jeunes d'origine étrangère s'aggravent, selon la Défenseure des droits",
-    "url": "https://www.maire-info.com/citoyennete-/les-discriminations-encontre-jeunes-dorigine-etrangere-saggravent-selon-la-defenseure-droits-denonce-article-30524",
-    "permalink": "/r/france/comments/1rfe2t7/les_discriminations_à_lencontre_des_jeunes/",
-    "created_at": "2026-02-26T16:03:21+00:00",
-    "score": 257,
-    "num_comments": 50,
-    "subreddit": "france",
-    "author": "damned_777",
-    "flair": "Société",
-    "domain": "maire-info.com",
-    "selftext": "",
-    "reddit_thumbnail": "",
-    "ingested_at": "2026-11-01T11:18:38.157402+00:00",
-    "summary": "La DÃ©fenseure des droits publie ce matin un rapport sur les discriminations que subissent les jeunes d'origine Ã©trangÃ¨re ou perÃ§us comme tels.",
-    "thumbnail": "",
-    "tags": [
-      "Défenseure",
-      "DÃ",
-      "Claire HÃ",
-      "Claire Hédon",
-      "Société"
-    ],
-    "analyzed_at": "2026-11-01T11:18:56.974016+00:00"
   },
   {
     "id": "1rfb17z",
@@ -465,8 +330,7 @@
     "thumbnail": "thumbnails/1rfb17z.webp",
     "tags": [
       "Édouard Philippe",
-      "Havre",
-      "Politique"
+      "Élections"
     ],
     "analyzed_at": "2026-11-01T11:18:57.645393+00:00"
   },
@@ -487,10 +351,7 @@
     "ingested_at": "2026-11-01T11:18:38.155991+00:00",
     "summary": "La DGSI a publié un flash en revenant sur trois incidents réels visant des professionnels français pendant leurs déplacements à l'étranger. Corruption, piége téléphonique, fouilles discrètes : derrière ces cas concrets, un guide pratique pour ne pas tomber dans les mêmes pièges.",
     "thumbnail": "thumbnails/1rf7zu3.webp",
-    "tags": [
-      "DGSI",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:18:57.724956+00:00"
   },
   {
@@ -510,10 +371,7 @@
     "ingested_at": "2026-11-01T11:18:38.156903+00:00",
     "summary": "",
     "thumbnail": "thumbnails/1rf67yx.webp",
-    "tags": [
-      "Etats-Unis",
-      "Monde"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:18:57.543964+00:00"
   },
   {
@@ -534,9 +392,8 @@
     "summary": "",
     "thumbnail": "thumbnails/1rf4zt8.webp",
     "tags": [
-      "Affaire Epstein",
       "Donald Trump",
-      "Monde"
+      "Justice"
     ],
     "analyzed_at": "2026-11-01T11:18:57.644954+00:00"
   },
@@ -557,13 +414,7 @@
     "ingested_at": "2026-11-01T11:18:38.157324+00:00",
     "summary": "Le cofondateur de Microsoft a reconnu devant ses employés avoir eu des liaisons extraconjugales avec deux femmes russes. Jeffrey Epstein éta",
     "thumbnail": "thumbnails/1remanc.webp",
-    "tags": [
-      "Jeffrey Epstein",
-      "Bill Gates",
-      "Epstein",
-      "Microsoft",
-      "Monde"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:18:57.597798+00:00"
   },
   {
@@ -584,11 +435,7 @@
     "summary": "Selon un sondage Elabe pour BFMTV publié ce mercredi 25 février, 63% des Français déclarent qu’ils \"feraient barrage\" à la France Insoumise au second tour d’une élection, contre 45% au Rassemblement National.",
     "thumbnail": "thumbnails/1rekntj.webp",
     "tags": [
-      "LFI",
-      "Français",
-      "RN",
-      "BFMTV",
-      "Politique"
+      "Élections"
     ],
     "analyzed_at": "2026-11-01T11:18:57.817323+00:00"
   },
@@ -610,11 +457,8 @@
     "summary": "La députée d’extrême droite Lisette Pollet a annoncé mardi qu’elle se séparait de son collaborateur Vincent Claudin, juste après avoir reçu nos questions sur les tweets pro-Hitler et antisémites publ…",
     "thumbnail": "thumbnails/1red15n.webp",
     "tags": [
-      "RN",
-      "Quentin Deranque",
-      "Lisette Pollet",
-      "Vincent Claudin",
-      "Politique"
+      "Extrême droite",
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T11:18:58.412282+00:00"
   },
@@ -636,10 +480,8 @@
     "summary": "Samedi 21 février, Sarah Knafo, candidate Reconquête aux municipales de Paris, a été prise à partie par une visiteuse alors ...",
     "thumbnail": "thumbnails/1reaur9.webp",
     "tags": [
-      "Salon",
       "Sarah Knafo",
-      "Reconquête",
-      "Paris"
+      "Agriculture"
     ],
     "analyzed_at": "2026-11-01T11:18:58.925575+00:00"
   },
@@ -660,11 +502,7 @@
     "ingested_at": "2026-11-01T11:18:38.156367+00:00",
     "summary": "Discord fait marche arrière sur la vérification d'âge. Le déploiement mondial de mars est annulé. La plateforme repousse tout au second semestre 2026. Mais surtout, la messagerie proposera des alternatives au scan facial et à l'envoi de pièces d'identité. Des solutions considérées comme peu sûres...",
     "thumbnail": "thumbnails/1re9ac6.webp",
-    "tags": [
-      "Persona",
-      "Discord",
-      "Tech"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:18:58.040282+00:00"
   },
   {
@@ -686,38 +524,9 @@
     "thumbnail": "thumbnails/1re95xa.webp",
     "tags": [
       "Yaël Braun-Pivet",
-      "Assemblée",
-      "RTL",
-      "Raphaël Arnault",
-      "Politique"
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T11:18:58.039252+00:00"
-  },
-  {
-    "id": "1re8j95",
-    "title": "Pour préciser sa pensée, Martine Vassal annonce la sortie d’un livre intitulé “Mon combat”",
-    "url": "https://www.legorafi.fr/2026/02/25/pour-preciser-sa-pensee-martine-vassal-annonce-la-sortie-dun-livre-intitule-mon-combat/",
-    "permalink": "/r/france/comments/1re8j95/pour_préciser_sa_pensée_martine_vassal_annonce_la/",
-    "created_at": "2026-02-25T09:19:31+00:00",
-    "score": 601,
-    "num_comments": 47,
-    "subreddit": "france",
-    "author": "Dreynard",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/Y7O6E1nNhaJ9L4FJYkj2pOqZMGHECxvVHNFtt_HDXWQ.jpeg?auto=webp&s=ccdf366ea8c9b059d6fdabe4b292cee2e3da5a58",
-    "ingested_at": "2026-11-01T11:18:38.154230+00:00",
-    "summary": "Après avoir déclaré être proche des valeurs du Travail, de la Famille et de la Patrie, la candidate de la droite et du centre à la mairie de Marseille Martine Vassal a annoncé vouloir préciser sa pensée dans un petit livre de 638 pages.",
-    "thumbnail": "thumbnails/1re8j95.webp",
-    "tags": [
-      "Martine Vassal",
-      "Marseille Martine Vassal",
-      "Famille et de la Patrie",
-      "Jordan Bardella",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T11:18:57.934147+00:00"
   },
   {
     "id": "1re865p",
@@ -737,39 +546,9 @@
     "summary": "Gauthier Le Bret prend la tête de la nouvelle émission qui sera lancée le lundi 23 février, aux côtés d’Erik Tegnér, le grand patron du média identitaire « Frontière ».",
     "thumbnail": "thumbnails/1re865p.webp",
     "tags": [
-      "CNews",
-      "Frontières",
-      "Jean-Marc Morandini",
-      "Erik Tegnér",
-      "Gauthier le Bret"
+      "Médias"
     ],
     "analyzed_at": "2026-11-01T11:18:58.247355+00:00"
-  },
-  {
-    "id": "1re7zjv",
-    "title": "Antifascistes : ces militants qui n'agressent pas les LGBT, eux",
-    "url": "https://blogs.mediapart.fr/morgan-crochet/blog/240226/antifascistes-ces-militants-qui-nagressent-pas-les-lgbt-eux",
-    "permalink": "/r/france/comments/1re7zjv/antifascistes_ces_militants_qui_nagressent_pas/",
-    "created_at": "2026-02-25T08:45:52+00:00",
-    "score": 658,
-    "num_comments": 200,
-    "subreddit": "france",
-    "author": "Folivao",
-    "flair": "Politique",
-    "domain": "blogs.mediapart.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/bpz4-bBXxGmSVjh_Yhk_426MSias2DGcUR-ufAsMydc.png?auto=webp&s=8687bf5ed6bee5e3d9c6851348a2d4d9debffd50",
-    "ingested_at": "2026-11-01T11:18:38.153885+00:00",
-    "summary": "Depuis la mort du militant d'extrême droite Quentin Deranque, une partie des médias et de la classe politique renvoie dos à dos antifascistes et néofascistes. Pourtant tout les oppose, notamment lo…",
-    "thumbnail": "thumbnails/1re7zjv.webp",
-    "tags": [
-      "LGBT",
-      "Quentin Deranque",
-      "LFI",
-      "RN",
-      "Politique"
-    ],
-    "analyzed_at": "2026-11-01T11:18:59.171379+00:00"
   },
   {
     "id": "1re6wpq",
@@ -789,10 +568,8 @@
     "summary": "",
     "thumbnail": "thumbnails/1re6wpq.webp",
     "tags": [
-      "Lyon",
-      "Grégory Doucet",
-      "LFI",
-      "Politique"
+      "Environnement",
+      "Élections"
     ],
     "analyzed_at": "2026-11-01T11:18:58.477030+00:00"
   },
@@ -813,66 +590,8 @@
     "ingested_at": "2026-11-01T11:18:38.153812+00:00",
     "summary": "Visé par des menaces de viol et de mort envers sa famille, l’astrophysicien de l’observatoire de Nice Eric Lagadec, soutien de la liste de Mireille Damiano, annonce qu’il a saisi la justice pour dénoncer l’intimidation violente des groupuscules d’extrême droite radicale.",
     "thumbnail": "thumbnails/1re6vo9.webp",
-    "tags": [
-      "Lagadec",
-      "Mireille Damiano",
-      "Nice Eric Lagadec",
-      "Éric Lagadec",
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:18:58.675809+00:00"
-  },
-  {
-    "id": "1re50op",
-    "title": "Municipales – À Rennes, une canette de 8.6 arrive en tête des sondages",
-    "url": "https://www.legorafi.fr/2026/02/24/municipales-a-rennes-une-canette-de-8-6-arrive-en-tete-des-sondages/",
-    "permalink": "/r/france/comments/1re50op/municipales_à_rennes_une_canette_de_86_arrive_en/",
-    "created_at": "2026-02-25T05:52:48+00:00",
-    "score": 405,
-    "num_comments": 21,
-    "subreddit": "france",
-    "author": "Short-Taste-2950",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/1yMuSP4pMWYmy8OFYynOoCzRoSMaMtG1tuy_xfbXo5E.jpeg?auto=webp&s=3c35c94d03a72acc6f9ff84fa51fd8f0ddae1e26",
-    "ingested_at": "2026-11-01T11:18:38.155468+00:00",
-    "summary": "Selon un sondage commandé par l'institut ISPOS et le journal Ouest-France, c’est une des grosses surprises des municipales en Bretagne.",
-    "thumbnail": "thumbnails/1re50op.webp",
-    "tags": [
-      "Rennes",
-      "ISPOS",
-      "Ouest-France",
-      "Bretagne",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T11:18:58.530335+00:00"
-  },
-  {
-    "id": "1re4w0h",
-    "title": "Fact-checking – Rachida Dati est-elle ministre de la culture ?",
-    "url": "https://www.legorafi.fr/2026/02/24/fact-checking-rachida-dati-est-elle-ministre-de-la-culture/",
-    "permalink": "/r/france/comments/1re4w0h/factchecking_rachida_dati_estelle_ministre_de_la/",
-    "created_at": "2026-02-25T05:45:52+00:00",
-    "score": 263,
-    "num_comments": 26,
-    "subreddit": "france",
-    "author": "Short-Taste-2950",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/JmeD-LgRdlmMwRXu8cIjjpD_yXJuKsE7y8hmzN5YlTo.jpeg?auto=webp&s=2929620f3e6dd7831f181ff7b6c8c0b597d5a4d4",
-    "ingested_at": "2026-11-01T11:18:38.157278+00:00",
-    "summary": "Rachida Dati, ministre de la Culture ? C’est ce que laissent entendre certains internautes sur X, anciennement Twitter, Reddit, 4chan ainsi que dans la section commentaires de plusieurs articles sur Facebook. Mais l’ancienne garde des Sceaux sous Nicolas Sarkozy occupe-t-elle vraiment cette fonction ?",
-    "thumbnail": "thumbnails/1re4w0h.webp",
-    "tags": [
-      "Rachida Dati",
-      "Gorafi",
-      "Twitter",
-      "Facebook",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T11:18:58.607059+00:00"
   },
   {
     "id": "1rdkmt8",
@@ -892,7 +611,8 @@
     "summary": "Les syndicats et le patronat négocieront une ultime fois les contours de l'assurance-chômage, notamment en cas de rupture conventionnelle individuelle, ce mercredi. Malgré leurs divergences, un projet d'avenant se dessine, ce qui pourrait ainsi éviter que le gouvernement reprenne la main.",
     "thumbnail": "thumbnails/1rdkmt8.webp",
     "tags": [
-      "Politique"
+      "Protection sociale",
+      "Travail"
     ],
     "analyzed_at": "2026-11-01T11:18:58.766193+00:00"
   },
@@ -913,12 +633,7 @@
     "ingested_at": "2026-11-01T11:18:38.156856+00:00",
     "summary": "Ces photos ont été découvertes lors d’une fouille générale de la prison de Nivelles en 2024. Selon l’hebdomadaire Humo, sur environ la moiti",
     "thumbnail": "thumbnails/1rdjf7d.webp",
-    "tags": [
-      "Marc Dutroux",
-      "Parisien",
-      "Humo",
-      "Nivelles"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:18:58.913294+00:00"
   },
   {
@@ -938,13 +653,7 @@
     "ingested_at": "2026-11-01T11:18:38.152617+00:00",
     "summary": "Le déroulé des faits ayant conduit à la mort de Quentin Deranque se confirme : les médias ont menti, les autorités aussi.",
     "thumbnail": "thumbnails/1rdhly6.webp",
-    "tags": [
-      "Canard Enchaîné",
-      "Quentin Deranque",
-      "Quentin",
-      "Némésis",
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:18:59.823926+00:00"
   },
   {
@@ -965,8 +674,8 @@
     "summary": "Cinq médias ancrés à gauche ont lancé jeudi soir à Paris un hors-série commun entièrement consacré à la lutte contre l'extrême droite",
     "thumbnail": "thumbnails/1rdee3w.webp",
     "tags": [
-      "Paris",
-      "Politique"
+      "Extrême droite",
+      "Médias"
     ],
     "analyzed_at": "2026-11-01T11:18:59.145396+00:00"
   },
@@ -988,9 +697,9 @@
     "summary": "Plusieurs années après avoir quitté l’Education nationale, l’ancien professeur d’anglais, William Lafleur, a rendez-vous au tribunal de Toulouse le 24 février prochain après une plainte pour diffamation à son encontre",
     "thumbnail": "thumbnails/1rddkoh.webp",
     "tags": [
-      "Education",
-      "William Lafleur",
-      "Toulouse le 24"
+      "Justice",
+      "Éducation",
+      "Numérique"
     ],
     "analyzed_at": "2026-11-01T11:18:59.180017+00:00"
   },
@@ -1013,10 +722,8 @@
     "thumbnail": "thumbnails/1rdcd55.webp",
     "tags": [
       "Emmanuel Macron",
-      "Français",
-      "République",
-      "Odoxa",
-      "Premier"
+      "Élections",
+      "Sébastien Lecornu"
     ],
     "analyzed_at": "2026-11-01T11:19:00.705403+00:00"
   },
@@ -1038,8 +745,7 @@
     "summary": "",
     "thumbnail": "thumbnails/1rdbjlx.webp",
     "tags": [
-      "IA",
-      "Société"
+      "Intelligence artificielle"
     ],
     "analyzed_at": "2026-11-01T11:18:59.373817+00:00"
   },
@@ -1061,9 +767,7 @@
     "summary": "En Europe et aux États-Unis, les attentats contre les minorités et les institutions démocratiques se multiplient. Longtemps ignorée, cette menace représente aujourd'hui un danger imminent.",
     "thumbnail": "thumbnails/1rdaam4.webp",
     "tags": [
-      "Europe",
-      "États-Unis",
-      "Politique"
+      "Terrorisme"
     ],
     "analyzed_at": "2026-11-01T11:19:00.045669+00:00"
   },
@@ -1085,11 +789,8 @@
     "summary": "Les échanges entre fémonationalistes et néonazis, destinés à tendre des pièges à leurs adversaires, à Lyon, ont conduit la France Insoumise, puis François Ruffin, à réclamer la d...",
     "thumbnail": "thumbnails/1rda9a8.webp",
     "tags": [
-      "Humanité",
-      "Némésis",
-      "LFI",
-      "Lyon",
-      "Politique"
+      "Institutions",
+      "François Ruffin"
     ],
     "analyzed_at": "2026-11-01T11:18:59.889174+00:00"
   },
@@ -1111,11 +812,7 @@
     "summary": "Le 22 février 2026, sur LinkedIn, Jean-Baptiste Kempf, l’un des artisans de VideoLAN et du logiciel VLC, a menacé de quitter la France. Interpellé dans la publication, Gérald Darmanin lui a répliqué dans les commentaires, déclenchant une passe d’armes entre les deux hommes. Article mis à jour après la réponse de",
     "thumbnail": "thumbnails/1rcy02m.webp",
     "tags": [
-      "VLC",
-      "Gérald Darmanin",
-      "Jean-Baptiste Kempf",
-      "VideoLAN",
-      "LinkedIn"
+      "Gérald Darmanin"
     ],
     "analyzed_at": "2026-11-01T11:19:00.175849+00:00"
   },
@@ -1137,11 +834,7 @@
     "summary": "Jean-Baptiste Kempf, l'un des fondateurs de VideoLAN (VLC), menace de quitter la France. En cause, le manque de considÃ©ration pour le travail",
     "thumbnail": "thumbnails/1rcu7ud.webp",
     "tags": [
-      "VLC",
-      "VideoLAN",
-      "Gerald Darmanin",
-      "Jean-Baptiste Kempf",
-      "Tech"
+      "Gérald Darmanin"
     ],
     "analyzed_at": "2026-11-01T11:18:59.789265+00:00"
   },
@@ -1163,11 +856,8 @@
     "summary": "La CGT Lyon a reçu ce week-end une menace d’attaque à la bombe. À Tours, deux jeunes communistes ont été suivis et agressés en quelques jours. Ailleurs dans le pays, des locaux de g...",
     "thumbnail": "thumbnails/1rctneb.webp",
     "tags": [
-      "Tours",
-      "CGT",
-      "Lyon",
-      "CGT Lyon",
-      "Politique"
+      "Grèves et syndicats",
+      "Extrême droite"
     ],
     "analyzed_at": "2026-11-01T11:19:00.764746+00:00"
   },
@@ -1189,11 +879,7 @@
     "summary": "Le chef de la diplomatie française Jean-Noël Barrot demande que l’ambassadeur des États-Unis n’ait plus d’accès direct au gouvernement après ce manquement. La France avait dénoncé dimanche les commentaires de l’administration Trump au sujet de la mort du jeune étudiant nationaliste.",
     "thumbnail": "thumbnails/1rcrd2k.webp",
     "tags": [
-      "Charles Kushner",
-      "Quai Orsay",
-      "Quentin Deranque",
-      "Jean-Noël Barrot",
-      "Société"
+      "Donald Trump"
     ],
     "analyzed_at": "2026-11-01T11:19:00.404597+00:00"
   },
@@ -1214,12 +900,7 @@
     "ingested_at": "2026-11-01T11:18:38.156229+00:00",
     "summary": "Ces gestes et déclarations ont été repérés sur des vidéos de la marche, mises en ligne sur les réseaux sociaux.",
     "thumbnail": "thumbnails/1rcm31i.webp",
-    "tags": [
-      "Quentin Deranque",
-      "Lyon",
-      "Mort de Quentin Deranque à Lyon",
-      "Faits-divers"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:19:00.274684+00:00"
   },
   {
@@ -1240,64 +921,10 @@
     "summary": "A distance du milieu patronal, l’homme d’affaires met son empire médiatique au service des leaders d’extrême droite. Une ligne où sa foi pèse lourd, mais qui rompt avec la tradition familiale de soutien à la démocratie chrétienne.",
     "thumbnail": "thumbnails/1rcgqdd.webp",
     "tags": [
-      "Bolloré",
-      "Vincent Bolloré",
-      "CNews",
-      "Groupe Bolloré",
-      "Politique"
+      "Extrême droite",
+      "Médias"
     ],
     "analyzed_at": "2026-11-01T11:19:00.732350+00:00"
-  },
-  {
-    "id": "1rcd9nn",
-    "title": "J'envisage de quitter la France, et c’est intégralement la faute de M.Darmanin.",
-    "url": "https://fr.linkedin.com/pulse/jenvisage-de-quitter-la-france-et-cest-int%C3%A9gralement-faute-kempf-psyfe",
-    "permalink": "/r/france/comments/1rcd9nn/jenvisage_de_quitter_la_france_et_cest/",
-    "created_at": "2026-02-23T09:48:02+00:00",
-    "score": 672,
-    "num_comments": 215,
-    "subreddit": "france",
-    "author": "Tharamac",
-    "flair": "Société",
-    "domain": "fr.linkedin.com",
-    "selftext": "",
-    "reddit_thumbnail": "",
-    "ingested_at": "2026-11-01T11:18:38.153836+00:00",
-    "summary": "Ce n’est pas un canular, et je sais que ce post sera long, ce qui est rare pour moi qui ai tendance à être dans le bref, l’efficace et le court, pour ceux qui me connaissent bien : Monsieur« OK. » et ses mails de 2 lignes :) Mais le sujet le nécessite.",
-    "thumbnail": "thumbnails/1rcd9nn.webp",
-    "tags": [
-      "Darmanin",
-      "OK",
-      "ENM",
-      "Société"
-    ],
-    "analyzed_at": "2026-11-01T11:19:01.169580+00:00"
-  },
-  {
-    "id": "1rccijv",
-    "title": "Accusé d’avoir donné l'accès à la vidéosurveillance de la Ville de Lyon à la Jeune Garde, Grégory Doucet porte plainte - Lyon Capitale",
-    "url": "https://www.lyoncapitale.fr/actualite/accusee-sur-cnews-davoir-donne-l-acces-de-la-videosurveillance-a-la-jeune-garde-la-ville-de-lyon-porte-plainte",
-    "permalink": "/r/france/comments/1rccijv/accusé_davoir_donné_laccès_à_la_vidéosurveillance/",
-    "created_at": "2026-02-23T09:01:50+00:00",
-    "score": 269,
-    "num_comments": 72,
-    "subreddit": "france",
-    "author": "Healthy_Mousse6391",
-    "flair": "Politique",
-    "domain": "lyoncapitale.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/-VSl-ovp0KQdBBB4ItzmfyDliiW-kOkkiQJd6rw2CHY.jpeg?auto=webp&s=58e388252177729830c3046918515b313b0fbee9",
-    "ingested_at": "2026-11-01T11:18:38.157184+00:00",
-    "summary": "Samedi 21 février, le président de l’Union nationale inter-universitaire (UNI) Olivier Vial a assuré sur CNEWS que la Ville de Lyon avait fourni l’accès à la vidéosurveillance \"des lieux où il y avait de l’extrême droite\" à la Jeune Garde.",
-    "thumbnail": "thumbnails/1rccijv.webp",
-    "tags": [
-      "Ville de Lyon",
-      "Jeune Garde",
-      "Grégory Doucet",
-      "Olivier Vial",
-      "Politique"
-    ],
-    "analyzed_at": "2026-11-01T11:19:00.754139+00:00"
   },
   {
     "id": "1rbvvj4",
@@ -1317,11 +944,7 @@
     "summary": "À Lyon, dans des échanges internes datant de l’automne dernier, que l’Humanité dévoile aujourd’hui, les fémonationalistes et d’autres groupuscules d’extrême droite planifiai...",
     "thumbnail": "thumbnails/1rbvvj4.webp",
     "tags": [
-      "Lyon",
-      "Némésis",
-      "Humanité",
-      "Payant",
-      "Politique"
+      "Extrême droite"
     ],
     "analyzed_at": "2026-11-01T11:19:01.253287+00:00"
   },
@@ -1343,11 +966,7 @@
     "summary": "Le service de renseignement intérieur a adressé en 2020 un signalement au parquet de Paris qui « mentionnait chez le diplomate une fascination pour les jeunes adolescents », selon les informations de…",
     "thumbnail": "thumbnails/1rbsn11.webp",
     "tags": [
-      "Fabrice Aidan",
-      "DGSI",
-      "Jeffrey Epstein",
-      "Paris",
-      "Société"
+      "Justice"
     ],
     "analyzed_at": "2026-11-01T11:19:01.777347+00:00"
   },
@@ -1369,11 +988,7 @@
     "summary": "\"Nous n'avons aucune leçon à recevoir de l'internationale réactionnaire\", a déclaré le ministre des Affaires étrangères Jean-Noël Barrot sur franceinfo. Charles Kushner est convoqué au Quai d'Orsay lundi à 19 heures.",
     "thumbnail": "thumbnails/1rbjpas.webp",
     "tags": [
-      "Quentin Deranque",
-      "Trump",
-      "Affaires",
-      "Jean-Noël Barrot",
-      "Politique"
+      "Donald Trump"
     ],
     "analyzed_at": "2026-11-01T11:19:01.214955+00:00"
   },
@@ -1395,35 +1010,9 @@
     "summary": "L’hommage au militant nationaliste mort le 14 février a réuni ce samedi de nombreuses personnalités d’extrême droite et près de 3 200 person",
     "thumbnail": "thumbnails/1rbiidi.webp",
     "tags": [
-      "Lyon",
-      "Quentin Deranque",
-      "RN",
-      "Politique"
+      "Extrême droite"
     ],
     "analyzed_at": "2026-11-01T11:19:01.171178+00:00"
-  },
-  {
-    "id": "1rbgs19",
-    "title": "Des scientifiques découvrent que la violence aurait été inventée avant les jeux vidéos",
-    "url": "https://www.legorafi.fr/2026/02/20/des-scientifiques-decouvrent-que-la-violence-aurait-ete-inventee-avant-les-jeux-videos/",
-    "permalink": "/r/france/comments/1rbgs19/des_scientifiques_découvrent_que_la_violence/",
-    "created_at": "2026-02-22T08:42:34+00:00",
-    "score": 2000,
-    "num_comments": 69,
-    "subreddit": "france",
-    "author": "Short-Taste-2950",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/jIs63BqN3aRE3spSB8jZsxdUp2xnM5JLLKOdHeffS58.jpeg?auto=webp&s=f864e70883a7f9d866ee438d5bca826e9b6808ea",
-    "ingested_at": "2026-11-01T11:18:38.152646+00:00",
-    "summary": "Il semblerait même qu’elle soit largement antérieure d’après les premiers résultats de l’étude.",
-    "thumbnail": "thumbnails/1rbgs19.webp",
-    "tags": [
-      "Emmanuel Macron",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T11:19:01.032633+00:00"
   },
   {
     "id": "1rb57dd",
@@ -1442,9 +1031,7 @@
     "ingested_at": "2026-11-01T11:18:38.155640+00:00",
     "summary": "",
     "thumbnail": "thumbnails/1rb57dd.webp",
-    "tags": [
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:19:01.589071+00:00"
   },
   {
@@ -1465,11 +1052,7 @@
     "summary": "La préfecture du Rhône va saisir la justice. Ces gestes et ces déclarations ont été repérés sur des vidéos de la marche en hommage au militant d’ultra-droite tué par des militants antifascistes.",
     "thumbnail": "thumbnails/1rb036h.webp",
     "tags": [
-      "Quentin Deranque",
-      "Rhône",
-      "Lyon",
-      "Manifestation",
-      "Une"
+      "Racisme"
     ],
     "analyzed_at": "2026-11-01T11:19:04.033584+00:00"
   },
@@ -1491,11 +1074,8 @@
     "summary": "La chaîne du service public n'a, pour l'heure, pas accédé à la demande du Comité olympique israélien, après la sortie controversée de l'un de ses journalistes.",
     "thumbnail": "thumbnails/1ravy1d.webp",
     "tags": [
-      "RTS",
-      "JO",
-      "Comité",
-      "Stefan Renna",
-      "Politique"
+      "Médias",
+      "Conflit israélo-palestinien"
     ],
     "analyzed_at": "2026-11-01T11:19:02.019291+00:00"
   },
@@ -1517,11 +1097,7 @@
     "summary": "Ce 21 fÃ©vrier, lâextrÃªme droite doit dÃ©filer Ã Lyon en hommage au militant nÃ©ofasciste Quentin Deranque. Lâorganisatrice de cette marche, Aliette Espieux est, selon nos informations, une proche des milieux radicaux, mariÃ©e au nÃ©onazi violent Eliot Bertin.",
     "thumbnail": "thumbnails/1rav3fj.webp",
     "tags": [
-      "Quentin Deranque",
-      "Lyon",
-      "Eliot Bertin",
-      "Aliette Espieux",
-      "Politique"
+      "Extrême droite"
     ],
     "analyzed_at": "2026-11-01T11:19:01.425805+00:00"
   },
@@ -1543,11 +1119,7 @@
     "summary": "La marche en mémoire du jeune militant d’extrême droite mort des suites d’un affrontement avec des antifascistes a attiré plusieurs figures néonazies françaises, a constaté «Libération». Un important dispositif policier est déployé à Lyon.",
     "thumbnail": "thumbnails/1rauk2i.webp",
     "tags": [
-      "Lyon",
-      "Quentin Deranque",
-      "Quentin",
-      "LFI",
-      "Social Issues"
+      "Extrême droite"
     ],
     "analyzed_at": "2026-11-01T11:19:04.053729+00:00"
   },
@@ -1569,9 +1141,8 @@
     "summary": "",
     "thumbnail": "thumbnails/1rarr69.webp",
     "tags": [
-      "Quentin Deranque",
-      "Lyon",
-      "Politique"
+      "Extrême droite",
+      "Manifestations"
     ],
     "analyzed_at": "2026-11-01T11:19:01.827457+00:00"
   },
@@ -1592,13 +1163,7 @@
     "ingested_at": "2026-11-01T11:18:38.156491+00:00",
     "summary": "If DDoSing a blog wasn't bad enough, archive site also tampered with web snapshots.",
     "thumbnail": "thumbnails/1ranajl.webp",
-    "tags": [
-      "Wikipedia",
-      "If DDoSing",
-      "DDoS",
-      "Patokallio's",
-      "Internet Archive"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:19:02.563241+00:00"
   },
   {
@@ -1619,9 +1184,7 @@
     "summary": "Le régime taliban a adopté un nouveau code pénal afghan dans lequel les peines seront influencées par la classe sociale des prévenus. Même l’esclavage pourrait être à nouveau permis.",
     "thumbnail": "thumbnails/1r9x7ow.webp",
     "tags": [
-      "Trump",
-      "Rawadari",
-      "Monde"
+      "Donald Trump"
     ],
     "analyzed_at": "2026-11-01T11:19:02.270170+00:00"
   },
@@ -1643,11 +1206,8 @@
     "summary": "Le premier, pour ses propos transphobes, a été écarté de la campagne, le second reste candidat.",
     "thumbnail": "thumbnails/1r9ujez.webp",
     "tags": [
-      "RN",
-      "Amboise",
-      "Joffrey Pointlane",
-      "Rassemblement national",
-      "Politique"
+      "LGBT+",
+      "Élections"
     ],
     "analyzed_at": "2026-11-01T11:19:02.198620+00:00"
   },
@@ -1668,12 +1228,7 @@
     "ingested_at": "2026-11-01T11:18:38.153094+00:00",
     "summary": "L'ancien rugbyman argentin a été tué par balles le 19 mars 2022 par deux militants d'ultradroite à Paris. L'un des avocats de la famille évoque ce vendredi 20 février l’assymétrie entre les hommages à Quentin Deranque et le silence du gouvernement à l’époque du meurtre de Federico Aramburu.",
     "thumbnail": "thumbnails/1r9thvz.webp",
-    "tags": [
-      "Federico Aramburu",
-      "Quentin Deranque",
-      "Paris",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:19:02.119306+00:00"
   },
   {
@@ -1694,10 +1249,7 @@
     "summary": "La mort de Quentin Deranque à Lyon, à la suite d’une bagarre survenue le 12 février, a enflammé l’extrême droite. Les enquêteurs ont interpellé onze personnes, présumées innocentes à ce stade. Parmi elles figurent deux collaborateurs parlementaires du…",
     "thumbnail": "thumbnails/1r9pfwu.webp",
     "tags": [
-      "Lyon",
-      "Quentin",
-      "Quentin Deranque",
-      "Politique"
+      "Extrême droite"
     ],
     "analyzed_at": "2026-11-01T11:19:04.449960+00:00"
   },
@@ -1720,9 +1272,7 @@
     "thumbnail": "thumbnails/1r9ft0j.webp",
     "tags": [
       "Sébastien Lecornu",
-      "Premier",
-      "Crif",
-      "Politique"
+      "Antisémitisme"
     ],
     "analyzed_at": "2026-11-01T11:19:02.622220+00:00"
   },
@@ -1744,11 +1294,7 @@
     "summary": "Pour l’ancien premier ministre et probable candidat à la présidentielle, «concentrer les coups» sur les Insoumis revient à créer un «corridor de respectabilité pour le RN».",
     "thumbnail": "thumbnails/1r9ezgn.webp",
     "tags": [
-      "LFI",
-      "Dominique de Villepin",
-      "République",
-      "Quentin",
-      "Politique"
+      "Dominique de Villepin"
     ],
     "analyzed_at": "2026-11-01T11:19:02.615253+00:00"
   },
@@ -1769,13 +1315,7 @@
     "ingested_at": "2026-11-01T11:18:38.157375+00:00",
     "summary": "Sur RTL, l’avocat de la famille du militant, agressé à Lyon jeudi 12 février, indique que les parents du jeune homme « dénoncent toute forme",
     "thumbnail": "thumbnails/1r996b2.webp",
-    "tags": [
-      "Lyon",
-      "Quentin Deranque",
-      "RTL",
-      "Fabien Rajon",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:19:02.614434+00:00"
   },
   {
@@ -1795,34 +1335,8 @@
     "ingested_at": "2026-11-01T11:18:38.155921+00:00",
     "summary": "",
     "thumbnail": "thumbnails/1r974ud.webp",
-    "tags": [
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:19:03.058218+00:00"
-  },
-  {
-    "id": "1r8wem6",
-    "title": "Carte de la honte : 156 preuves que le RN est toujours...",
-    "url": "https://cartedelahonte.github.io/",
-    "permalink": "/r/france/comments/1r8wem6/carte_de_la_honte_156_preuves_que_le_rn_est/",
-    "created_at": "2026-02-19T11:05:40+00:00",
-    "score": 951,
-    "num_comments": 181,
-    "subreddit": "france",
-    "author": "Delicious-Owl",
-    "flair": "Politique",
-    "domain": "cartedelahonte.github.io",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/T68Nb2_wvOf_D0pFN03Fer9RxbsOBgSObTcjPSKGq28.png?auto=webp&s=d4b394c769dd55d4ef2a5848bb6c6a566d8e2982",
-    "ingested_at": "2026-11-01T11:18:38.153219+00:00",
-    "summary": "En 2019, il fait partie des personnalités françaises « amies de la Russie » conviées au Forum international de Yalta en Crimée, cinq ans après l’annexion de la péninsule ukrainienne.",
-    "thumbnail": "thumbnails/1r8wem6.webp",
-    "tags": [
-      "RN",
-      "OAS",
-      "Politique"
-    ],
-    "analyzed_at": "2026-11-01T11:19:03.235735+00:00"
   },
   {
     "id": "1r8w5ym",
@@ -1841,10 +1355,7 @@
     "ingested_at": "2026-11-01T11:18:38.156663+00:00",
     "summary": "Le niveau de violence qui s’accroît génère une spirale dangereuse et mortelle. Tous et toutes, y compris dans le camp antifasciste, doivent s’interroger profondément sur leurs pratiques et leur strat…",
     "thumbnail": "thumbnails/1r8w5ym.webp",
-    "tags": [
-      "Quentin Deranque",
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:19:03.656077+00:00"
   },
   {
@@ -1865,11 +1376,8 @@
     "summary": "La policiÃ¨re avait filmÃ© les images de vidÃ©osurveillance montrant les violences commises par une de ses collÃ¨gues dans les sous-sols du tribunal judiciaire. Le tribunal lâa condamnÃ©e mais dispensÃ© de peine.",
     "thumbnail": "thumbnails/1r8tsyw.webp",
     "tags": [
-      "Amandine G",
-      "Mathilde",
-      "Sandra R",
-      "Ãªtre",
-      "Politique"
+      "Justice",
+      "Police"
     ],
     "analyzed_at": "2026-11-01T11:19:02.827687+00:00"
   },
@@ -1890,13 +1398,7 @@
     "ingested_at": "2026-11-01T11:18:38.156415+00:00",
     "summary": "Plus de 150 personnalités internationales de la diplomatie, dont d’anciens ministres étrangers, épinglent Jean-Noël Barrot.",
     "thumbnail": "thumbnails/1r8s947.webp",
-    "tags": [
-      "Francesca Albanese",
-      "Jean-Noël Barrot",
-      "Israël",
-      "Mme Albanese",
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:19:03.187544+00:00"
   },
   {
@@ -1917,10 +1419,7 @@
     "summary": "Selon des documents obtenus par les sénateurs Claude Raynal et Jean-François Husson, environ 10% des foyers redevables de l’impôt sur la fortune immobilière (c'est-à-dire qu'ils possèdent un patrimoine immobilier supérieur à 1,3 million d'euros) ne paient pas l'impôt sur le revenu.",
     "thumbnail": "thumbnails/1r82gdx.webp",
     "tags": [
-      "Eric Lombard",
-      "Bercy",
-      "Claude Raynal et Jean-François Husson",
-      "Économie"
+      "Budget et fiscalité"
     ],
     "analyzed_at": "2026-11-01T11:19:03.366397+00:00"
   },
@@ -1942,11 +1441,7 @@
     "summary": "Alors que Maud Bregeon, porte-parole du gouvernement, avait appelé à exclure au moins \"temporairement\" Raphaël Arnault de son groupe parlementaire, le coordinateur de la France insoumise a répondu que Raphaël Arnault \"n’a aucune responsabilité dans le drame survenu à Lyon jeudi dernier et qu’il...",
     "thumbnail": "thumbnails/1r81ikc.webp",
     "tags": [
-      "Raphaël Arnault",
-      "Maud Bregeon",
-      "Manuel Bompard",
-      "Quentin Deranque",
-      "LFI"
+      "Manuel Bompard"
     ],
     "analyzed_at": "2026-11-01T11:19:03.352877+00:00"
   },
@@ -1968,8 +1463,7 @@
     "summary": "",
     "thumbnail": "thumbnails/1r7zp7c.webp",
     "tags": [
-      "Monde",
-      "Politique"
+      "Budget et fiscalité"
     ],
     "analyzed_at": "2026-11-01T11:19:03.392208+00:00"
   },
@@ -1991,9 +1485,7 @@
     "summary": "Manuel Bompard a annoncé ce mercredi 18 février l'évacuation du siège des insoumis. Une alerte levée à la mi-journée.",
     "thumbnail": "thumbnails/1r7z9su.webp",
     "tags": [
-      "Manuel Bompard",
-      "LFI",
-      "Politique"
+      "Manuel Bompard"
     ],
     "analyzed_at": "2026-11-01T11:19:03.840725+00:00"
   },
@@ -2015,10 +1507,7 @@
     "summary": "Après la mort du militant nationaliste Quentin Deranque, la chroniqueuse Marie Coquille-Chambel pointe la responsabilité du collectif fémonationaliste dans les violences commises par l'extrême droite et appelle à sa dissolution, dénonçant son rôle présumé dans l’organisation et la médiatisation d’affrontements…",
     "thumbnail": "thumbnails/1r7z05y.webp",
     "tags": [
-      "Quentin Deranque",
-      "Némésis",
-      "Marie Coquille-Chambel",
-      "Politique"
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T11:19:03.712255+00:00"
   },
@@ -2040,11 +1529,7 @@
     "summary": "\"J'aimerais que notre Assemblée puisse partager la même indignation pour les femmes et enfants victimes de violence, qui meurent trop souvent dans une forme d’indifférence\", a expliqué à franceinfo la parlementaire Horizons.",
     "thumbnail": "thumbnails/1r7xwzp.webp",
     "tags": [
-      "Quentin Deranque",
-      "Assemblée",
-      "Anne-Cécile Violland",
-      "Horizons",
-      "Politique"
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T11:19:03.798215+00:00"
   },
@@ -2066,11 +1551,7 @@
     "summary": "Manuel Bompard, coordinateur de La France Insoumise, dÃ©nonce \"la maniÃ¨re avec laquelle une partie de la classe mÃ©diatique et une partie de la classe politique essaie de faire porter une responsabilitÃ© Ã La France insoumise\" aprÃ¨s la mort d'un militant nationaliste Ã Lyon.",
     "thumbnail": "thumbnails/1r7rzhr.webp",
     "tags": [
-      "Manuel Bompard",
-      "Quentin Deranque",
-      "LFI",
-      "Ã la France",
-      "Politique"
+      "Manuel Bompard"
     ],
     "analyzed_at": "2026-11-01T11:19:04.326174+00:00"
   },
@@ -2091,13 +1572,7 @@
     "ingested_at": "2026-11-01T11:18:38.152943+00:00",
     "summary": "Depuis samedi 14 février 2026, une jeune femme de 20 ans, est accusée à tort par un influenceur d’extrême droite d’avoir participé au lynchage mortel de Quentin Deranque. Son père dénonce un harcèlement massif sur sa...",
     "thumbnail": "thumbnails/1r7l7rx.webp",
-    "tags": [
-      "Quentin Deranque",
-      "Erasmus",
-      "Amérique du Sud",
-      "Blandine",
-      "Lyon"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:19:04.097127+00:00"
   },
   {
@@ -2118,9 +1593,7 @@
     "summary": "Pour le chef de file des insoumis, les agresseurs de Quentin Deranque se sont \"déshonorés\" en frappant le jeune militant nationaliste \"d'une manière qui, de toute évidence, comporte le risque d'infliger la mort\".",
     "thumbnail": "thumbnails/1r7k79n.webp",
     "tags": [
-      "Quentin Deranque",
-      "Jean-Luc Mélenchon",
-      "Politique"
+      "Jean-Luc Mélenchon"
     ],
     "analyzed_at": "2026-11-01T11:19:03.898105+00:00"
   },
@@ -2142,11 +1615,7 @@
     "summary": "",
     "thumbnail": "thumbnails/1r7jx6z.webp",
     "tags": [
-      "Donald Trump",
-      "James Talarico",
-      "CBS",
-      "Stephen Colbert",
-      "Politique"
+      "Donald Trump"
     ],
     "analyzed_at": "2026-11-01T11:19:04.223103+00:00"
   },
@@ -2168,8 +1637,6 @@
     "summary": "[VIDÉO] « Le Canard » publie des images de la violente bagarre qui a opposé militants d’extrême droite et d’extrême gauche, quelques minutes avant les coups…",
     "thumbnail": "thumbnails/1r76dmm.webp",
     "tags": [
-      "Quentin Deranque",
-      "Canard",
       "Extrême droite"
     ],
     "analyzed_at": "2026-11-01T11:19:04.396795+00:00"
@@ -2192,32 +1659,9 @@
     "summary": "Imposée par une directive européenne en date du 10 mai 2023, cette obligation doit être transposée dans le droit français avant le 7 juin prochain. Elle vise principalement à améliorer la transparence en matière de...",
     "thumbnail": "thumbnails/1r73yfa.webp",
     "tags": [
-      "Économie"
+      "Travail"
     ],
     "analyzed_at": "2026-11-01T11:19:04.749771+00:00"
-  },
-  {
-    "id": "1r702g3",
-    "title": "Fact-check – Pourquoi il est déconseillé de rouler à 200km/h sur les plaques de verglas",
-    "url": "https://www.legorafi.fr/2026/02/16/fact-check-pourquoi-il-est-deconseille-de-rouler-a-200km-h-sur-les-plaques-de-verglas/",
-    "permalink": "/r/france/comments/1r702g3/factcheck_pourquoi_il_est_déconseillé_de_rouler_à/",
-    "created_at": "2026-02-17T07:55:30+00:00",
-    "score": 291,
-    "num_comments": 52,
-    "subreddit": "france",
-    "author": "Short-Taste-2950",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/DuVx9IH64ZCB2TQOyDmZZ1NBa5elkeX_O75QyYgrsDM.jpeg?auto=webp&s=5f5ccc61fdd38f59324bac446578ae9bd7a5f527",
-    "ingested_at": "2026-11-01T11:18:38.156880+00:00",
-    "summary": "Alors que Météo France émettait encore une alerte verglas au nord-est ce lundi 16 février, notre rédaction vous explique pourquoi il est dangereux de rouler à 200 km/h dans ces conditions.",
-    "thumbnail": "thumbnails/1r702g3.webp",
-    "tags": [
-      "Météo France",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T11:19:04.363426+00:00"
   },
   {
     "id": "1r6jsei",
@@ -2236,12 +1680,7 @@
     "ingested_at": "2026-11-01T11:18:38.156926+00:00",
     "summary": "La mort de Quentin D. à Lyon suscite une émotion légitime et une condamnation sans ambiguïté de toute violence politique. Mais au-delà du drame, le débat révèle un trouble profond : la banalisation progressive de l’extrême droite et la mise en accusation de celles et ceux qui la combattent.",
     "thumbnail": "thumbnails/1r6jsei.webp",
-    "tags": [
-      "Quentin",
-      "Lyon",
-      "Quentin Deranque",
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:19:05.097847+00:00"
   },
   {
@@ -2262,7 +1701,8 @@
     "summary": "",
     "thumbnail": "thumbnails/1r6fiw4.webp",
     "tags": [
-      "François Fillon"
+      "François Fillon",
+      "Corruption"
     ],
     "analyzed_at": "2026-11-01T11:19:04.635563+00:00"
   },
@@ -2284,11 +1724,7 @@
     "summary": "L’armée russe avance peu en Ukraine depuis quelques mois mais elle subit de lourde...",
     "thumbnail": "thumbnails/1r6f05e.webp",
     "tags": [
-      "Ukraine",
-      "Linfanterie",
-      "« disproportionnées »",
-      "« à",
-      "Monde"
+      "Guerre en Ukraine"
     ],
     "analyzed_at": "2026-11-01T11:19:06.103508+00:00"
   },
@@ -2310,37 +1746,9 @@
     "summary": "Plusieurs rapports tendent à confirmer l’utilisation par Israël d’herbicides sur des territoires jugés ennemis ou hostiles, avec un impact important sur les populations locales et l’environnement.",
     "thumbnail": "thumbnails/1r6ep08.webp",
     "tags": [
-      "Liban",
-      "Palestine",
-      "Syrie",
-      "Israël",
-      "Monde"
+      "Conflit israélo-palestinien"
     ],
     "analyzed_at": "2026-11-01T11:19:04.984475+00:00"
-  },
-  {
-    "id": "1r68yun",
-    "title": "L'extrême droite à Lyon : 15 ans d'impunité - Enquête",
-    "url": "https://www.rue89lyon.fr/dossier/lyon-extreme-droite-15-ans-impunite/",
-    "permalink": "/r/france/comments/1r68yun/lextrême_droite_à_lyon_15_ans_dimpunité_enquête/",
-    "created_at": "2026-02-16T12:59:21+00:00",
-    "score": 587,
-    "num_comments": 81,
-    "subreddit": "france",
-    "author": "ChouxGaze21",
-    "flair": "Politique",
-    "domain": "rue89lyon.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/2fPABKqSmiKtPttavcHayBUHHWa_sNMYpqKPV-6F3lU.jpeg?auto=webp&s=caa2fbb2245243183356a7af7a42e878af5b07c9",
-    "ingested_at": "2026-11-01T11:18:38.154377+00:00",
-    "summary": "Depuis le début des années 2000, la ville de Lyon subit régulièrement des violences de la part de militants d’extrême droite radicale, au point que l’agglomération traîne une triste réputation de « capitale de l’extrême droite » en France. Et cette réputation n’est pas usurpée.",
-    "thumbnail": "thumbnails/1r68yun.webp",
-    "tags": [
-      "Lyon",
-      "Rhône",
-      "Politique"
-    ],
-    "analyzed_at": "2026-11-01T11:19:05.782774+00:00"
   },
   {
     "id": "1r65l3h",
@@ -2359,13 +1767,7 @@
     "ingested_at": "2026-11-01T11:18:38.153194+00:00",
     "summary": "Le réseau des Relay, arme de distribution massive dont s’est emparé le milliardaire d’extrême droite, lui offre champ libre pour distiller ses idées dans la vie quotidienne des Fra...",
     "thumbnail": "thumbnails/1r65l3h.webp",
-    "tags": [
-      "Relay",
-      "Alexis Lévrier",
-      "Bolloré",
-      "Fra",
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:19:05.116091+00:00"
   },
   {
@@ -2385,9 +1787,7 @@
     "ingested_at": "2026-11-01T11:18:38.157114+00:00",
     "summary": "",
     "thumbnail": "thumbnails/1r658nx.webp",
-    "tags": [
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:19:04.913800+00:00"
   },
   {
@@ -2408,11 +1808,7 @@
     "summary": "Des associations, intervenant dans certains établissements scolaires de l'enseignement catholique, sont soupçonnées de ne pas respecter le cadre imposé par l'Etat dans les écoles sur le sujet de la laïcité ou de l'éducation à la sexualité.",
     "thumbnail": "thumbnails/1r650sr.webp",
     "tags": [
-      "Etat",
-      "Education",
-      "Evars",
-      "Les choix de la rédaction",
-      "Société"
+      "Laïcité"
     ],
     "analyzed_at": "2026-11-01T11:19:05.077552+00:00"
   },
@@ -2434,9 +1830,7 @@
     "summary": "",
     "thumbnail": "thumbnails/1r5mqj9.webp",
     "tags": [
-      "Quentin",
-      "Jean-Luc Mélenchon",
-      "Politique"
+      "Jean-Luc Mélenchon"
     ],
     "analyzed_at": "2026-11-01T11:19:05.441950+00:00"
   },
@@ -2458,8 +1852,7 @@
     "summary": "La chronique du dimanche de Fatiha Agag-Boudjahlat, enseignante. Après plusieurs actes de violence à l’école, le ministre de l’Éducation nationale a écrit aux parents. L’initiative fait réagir.",
     "thumbnail": "thumbnails/1r5d1qd.webp",
     "tags": [
-      "Fatiha Agag-Boudjahlat",
-      "Société"
+      "Éducation"
     ],
     "analyzed_at": "2026-11-01T11:19:06.105016+00:00"
   },
@@ -2480,11 +1873,7 @@
     "ingested_at": "2026-11-01T11:18:38.153271+00:00",
     "summary": "Le 6 janvier dernier, le corps d'un jeune homme maghrébin est retrouvé dans un étang, au sud de Lyon. Deux jours plus tard, la presse locale annonce que la piste d'un crime raciste est envisagée par la justice. Cette information aurait pu déclencher un emballement médiatique, mais il n'en n'est rien.",
     "thumbnail": "thumbnails/1r5clx5.webp",
-    "tags": [
-      "Lyon",
-      "Ismaël Aali",
-      "Enzo Chesi"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:19:07.230431+00:00"
   },
   {
@@ -2505,11 +1894,7 @@
     "summary": "En 2025, le nombre de signalements par X de contenus à caractère pédosexuel a chuté de 81 % après que l’entreprise en ait internalisé la détection. Dans…",
     "thumbnail": "thumbnails/1r5clkv.webp",
     "tags": [
-      "Grok",
-      "Elon Musk",
-      "CSAM",
-      "Musk",
-      "Tech"
+      "Elon Musk"
     ],
     "analyzed_at": "2026-11-01T11:19:08.948437+00:00"
   },
@@ -2530,11 +1915,7 @@
     "ingested_at": "2026-11-01T11:18:38.157254+00:00",
     "summary": "",
     "thumbnail": "thumbnails/1r5brbp.webp",
-    "tags": [
-      "Sophie Adenot",
-      "ISS",
-      "Française"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:19:05.694687+00:00"
   },
   {
@@ -2556,10 +1937,8 @@
     "thumbnail": "thumbnails/1r58wpv.webp",
     "tags": [
       "Emmanuel Macron",
-      "Radio",
-      "LFI",
-      "État",
-      "Politique"
+      "Extrême gauche",
+      "Antisémitisme"
     ],
     "analyzed_at": "2026-11-01T11:19:05.315642+00:00"
   },
@@ -2580,10 +1959,7 @@
     "ingested_at": "2026-11-01T11:18:38.155254+00:00",
     "summary": "Une chute de ski dans un domaine skiable n'entre pas dans ce type de secours. Mais partout ailleurs en montagne, des secouristes très spécialisés interviennent, en hélicoptère la plupart du temps. La Cour des comptes relève...",
     "thumbnail": "thumbnails/1r4x93h.webp",
-    "tags": [
-      "Cour",
-      "Économie"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:19:05.717376+00:00"
   },
   {
@@ -2604,11 +1980,7 @@
     "summary": "Brussels is going head-to-head with social media platforms to change addictive design.",
     "thumbnail": "thumbnails/1r4seuh.webp",
     "tags": [
-      "Commission",
-      "UE",
-      "Digital Services Act",
-      "TikTok",
-      "Politique"
+      "Union européenne"
     ],
     "analyzed_at": "2026-11-01T11:19:05.921874+00:00"
   },
@@ -2629,12 +2001,7 @@
     "ingested_at": "2026-11-01T11:18:38.155730+00:00",
     "summary": "",
     "thumbnail": "thumbnails/1r4s0gx.webp",
-    "tags": [
-      "Monde",
-      "Quentin",
-      "Lyon",
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:19:06.252317+00:00"
   },
   {
@@ -2655,7 +2022,7 @@
     "summary": "Face au narratif victimaire de l'extrême droite, il nous faut rappeler qu'elle tue, mutile et terrorise en toute impunité depuis des années.",
     "thumbnail": "thumbnails/1r4kbnz.webp",
     "tags": [
-      "Politique"
+      "Extrême droite"
     ],
     "analyzed_at": "2026-11-01T11:19:06.978347+00:00"
   },
@@ -2676,12 +2043,7 @@
     "ingested_at": "2026-11-01T11:18:38.156205+00:00",
     "summary": "La Chine va supprimer les droits de douane pour tous les pays africains, à l'exception de l'Eswatini, à compter du 1er mai, a annoncé ce samedi 14...",
     "thumbnail": "thumbnails/1r4kajz.webp",
-    "tags": [
-      "Chine",
-      "Droits de douane",
-      "Eswatini",
-      "Monde"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:19:06.288600+00:00"
   },
   {
@@ -2702,7 +2064,6 @@
     "summary": "",
     "thumbnail": "thumbnails/1r4hqmh.webp",
     "tags": [
-      "Français",
       "Santé"
     ],
     "analyzed_at": "2026-11-01T11:19:06.341804+00:00"
@@ -2724,40 +2085,8 @@
     "ingested_at": "2026-11-01T11:18:38.155445+00:00",
     "summary": "La ministre de la Justice des États-Unis a vécu une audition très houleuse devant la commission judiciaire de la Chambre des représentants, le mercredi 11 févri...",
     "thumbnail": "thumbnails/1r3thig.webp",
-    "tags": [
-      "Pam Bondi",
-      "Congrès",
-      "Affaire Epstein",
-      "Chambre",
-      "Monde"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:19:06.717957+00:00"
-  },
-  {
-    "id": "1r3pxza",
-    "title": "Plus de 5 % de part de marché : le pari gagnant de Linux en France face à Windows 11 !",
-    "url": "https://www.generation-nt.com/actualites/linux-france-parts-marche-windows-11-croissance-2070730",
-    "permalink": "/r/france/comments/1r3pxza/plus_de_5_de_part_de_marché_le_pari_gagnant_de/",
-    "created_at": "2026-02-13T14:01:55+00:00",
-    "score": 549,
-    "num_comments": 231,
-    "subreddit": "france",
-    "author": "Vereddit-quo",
-    "flair": "Tech",
-    "domain": "generation-nt.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/9IFOH_csBFPYaOuMDitt2qGQH1iVcx4eMtGxiQSRILI.jpeg?auto=webp&s=8defb60777e1d9f4b579ec633ccfa57d0a65a8a5",
-    "ingested_at": "2026-11-01T11:18:38.154502+00:00",
-    "summary": "C'est un cap historique. En janvier 2026, Linux a franchi pour la première fois la barre symbolique des 5 % de part de marché sur PC en France, selon les données de StatCounter. Poussé par la fin anno",
-    "thumbnail": "thumbnails/1r3pxza.webp",
-    "tags": [
-      "Linux",
-      "Windows",
-      "Windows 11",
-      "PC",
-      "Tech"
-    ],
-    "analyzed_at": "2026-11-01T11:19:06.452507+00:00"
   },
   {
     "id": "1r3mo58",
@@ -2778,34 +2107,10 @@
     "thumbnail": "thumbnails/1r3mo58.webp",
     "tags": [
       "Emmanuel Macron",
-      "Politique"
+      "Racisme",
+      "Antisémitisme"
     ],
     "analyzed_at": "2026-11-01T11:19:06.633520+00:00"
-  },
-  {
-    "id": "1r3mjjr",
-    "title": "Municipales – Jean Michel Aulas propose de remplacer la ville de Lyon par un stade de 1,4 million de places",
-    "url": "https://www.legorafi.fr/2026/02/12/municipales-jean-michel-aulas-propose-de-remplacer-la-ville-de-lyon-par-un-stade-de-14-million-de-places/",
-    "permalink": "/r/france/comments/1r3mjjr/municipales_jean_michel_aulas_propose_de/",
-    "created_at": "2026-02-13T11:16:09+00:00",
-    "score": 371,
-    "num_comments": 28,
-    "subreddit": "france",
-    "author": "word_clock",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/N2HLT7o-0XqU9NELBnURxo_uSj7Mw0maut461aVT2yw.jpeg?auto=webp&s=d5c85bc18eba7a7a2061319120046b2c75652183",
-    "ingested_at": "2026-11-01T11:18:38.155968+00:00",
-    "summary": "Le candidat à la mairie de Lyon ne manque pas d’idées pour répondre aux problématiques des habitants.",
-    "thumbnail": "thumbnails/1r3mjjr.webp",
-    "tags": [
-      "Lyon",
-      "Jean Michel Aulas",
-      "Emmanuel Macron",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T11:19:06.428921+00:00"
   },
   {
     "id": "1r3lumw",
@@ -2825,11 +2130,7 @@
     "summary": "D'après une étude de la Réserve fédérale de New York, les entreprises et consommateurs américains ont supporté l'essentiel du fardeau de droits de douane, les entreprises exportatrices ayant été peu nombreuses à accepter de baisser leurs prix.",
     "thumbnail": "thumbnails/1r3lumw.webp",
     "tags": [
-      "Trump",
-      "Fed de New York",
-      "Réserve",
-      "New York",
-      "Politique"
+      "Donald Trump"
     ],
     "analyzed_at": "2026-11-01T11:19:06.659914+00:00"
   },
@@ -2851,33 +2152,9 @@
     "summary": "Le jeune homme travaillait sur les chaînes d’assemblage du Rafale, célèbre avion de combat français. Il était soupçonné d’avoir filmé des do",
     "thumbnail": "thumbnails/1r3j45t.webp",
     "tags": [
-      "Dassault",
-      "Rafale"
+      "Défense"
     ],
     "analyzed_at": "2026-11-01T11:19:06.898945+00:00"
-  },
-  {
-    "id": "1r3ieaf",
-    "title": "Selon une étude, l’être humain n’utiliserait que 10% de son smartphone",
-    "url": "https://www.legorafi.fr/2026/02/12/selon-une-etude-letre-humain-nutiliserait-que-10-de-son-smartphone/",
-    "permalink": "/r/france/comments/1r3ieaf/selon_une_étude_lêtre_humain_nutiliserait_que_10/",
-    "created_at": "2026-02-13T06:59:04+00:00",
-    "score": 709,
-    "num_comments": 55,
-    "subreddit": "france",
-    "author": "Short-Taste-2950",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/hdCXSCOUB3yl1JMBQB3nCQtU6dm12oZyTN_6ddZAmDo.jpeg?auto=webp&s=94de8d0ba55f08b9776a592572313e2fdbb6f30f",
-    "ingested_at": "2026-11-01T11:18:38.153691+00:00",
-    "summary": "Selon le CNRS, les Hommes n'auraient accès en réalité qu’à une infime partie du potentiel de leur portable. Reportage.",
-    "thumbnail": "thumbnails/1r3ieaf.webp",
-    "tags": [
-      "CNRS",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T11:19:06.683829+00:00"
   },
   {
     "id": "1r36248",
@@ -2896,13 +2173,7 @@
     "ingested_at": "2026-11-01T11:18:38.153666+00:00",
     "summary": "\"C'est un jalon extrêmement important pour nous. Ariane 6 est prêt à assurer toutes les missions, même les missions les plus complexes\", s'est félicité jeudi soir David Cavaillolès, président exécutif d'Arianespace.",
     "thumbnail": "thumbnails/1r36248.webp",
-    "tags": [
-      "David Cavaillolès",
-      "Arianespace",
-      "Ariane 6",
-      "ARIANE",
-      "Tech"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:19:06.979778+00:00"
   },
   {
@@ -2922,13 +2193,7 @@
     "ingested_at": "2026-11-01T11:18:38.155300+00:00",
     "summary": "Le bras droit du général Tiani a appelé la population à se préparer à une guerre avec la France, accusant à nouveau Paris de vouloir déstabiliser le Niger. Ces déclarations belliqueuses ont été démenties par l’armée française, qui dénonce une opération de désinformation.",
     "thumbnail": "thumbnails/1r3315u.webp",
-    "tags": [
-      "Niger",
-      "Amadou Ibro",
-      "Tiani",
-      "Paris",
-      "Monde"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:19:07.093609+00:00"
   },
   {
@@ -2949,9 +2214,7 @@
     "summary": "Décidément, la Suisse n'est pas vernie avec ses acquisitions d'équipements militaires. Ainsi, après le malentendu sur la notion de \"prix fixe\" avec",
     "thumbnail": "thumbnails/1r2v8mf.webp",
     "tags": [
-      "Patriot",
-      "SAMP",
-      "États-Unis"
+      "Défense"
     ],
     "analyzed_at": "2026-11-01T11:19:08.093064+00:00"
   },
@@ -2973,8 +2236,7 @@
     "summary": "Avec l’achat de 114 Rafale, l’Inde renforce sa défense aérienne tout en consolidant ses liens économiques et industriels avec la France.",
     "thumbnail": "thumbnails/1r2rica.webp",
     "tags": [
-      "Rafale",
-      "New Delhi"
+      "Défense"
     ],
     "analyzed_at": "2026-11-01T11:19:10.459499+00:00"
   },
@@ -2996,11 +2258,7 @@
     "summary": "Le CIO a interdit à l'athlète ukrainien le port de ce casque au nom de la Charte olympique, qui bannit toute forme \"de propagande politique\". \"C'est le prix de notre dignité\", a réagi le spécialiste du skeleton.",
     "thumbnail": "thumbnails/1r2q8qk.webp",
     "tags": [
-      "CIO",
-      "Russie",
-      "JO 2026",
-      "Ukrainien Vladyslav Heraskevych",
-      "Charte"
+      "Guerre en Ukraine"
     ],
     "analyzed_at": "2026-11-01T11:19:07.294234+00:00"
   },
@@ -3022,8 +2280,7 @@
     "summary": "La multinationale pétrolière a confirmé le 11 février qu’elle ne payerait pas l’impôt exceptionnel sur les grosses sociétés mis en place dans le budget 2026, faute de bénéfic...",
     "thumbnail": "thumbnails/1r2q5bg.webp",
     "tags": [
-      "Payant",
-      "Économie"
+      "Budget et fiscalité"
     ],
     "analyzed_at": "2026-11-01T11:19:08.254321+00:00"
   },
@@ -3045,8 +2302,7 @@
     "summary": "L’employé a été surpris avec des lunettes filmantes. Il a été placé en garde à vue mercredi.",
     "thumbnail": "thumbnails/1r247a1.webp",
     "tags": [
-      "Rafale",
-      "Dassault"
+      "Défense"
     ],
     "analyzed_at": "2026-11-01T11:19:07.367459+00:00"
   },
@@ -3068,10 +2324,7 @@
     "summary": "La presse mondiale ausculte des milliers d’e-mails de Jeffrey Epstein. Mais un document judiciaire central français, expliquant l’origine même de ce corpus, est resté hors champ.",
     "thumbnail": "thumbnails/1r234rd.webp",
     "tags": [
-      "Jeffrey Epstein",
-      "Paris",
-      "Gmail",
-      "Société"
+      "Justice"
     ],
     "analyzed_at": "2026-11-01T11:19:07.646136+00:00"
   },
@@ -3093,11 +2346,8 @@
     "summary": "L'avocat de la famille Traoré a annoncé dans la foulée qu'il allait saisir la Cour européenne des droits de l'homme (CEDH) pour \"faire condamner la France\".",
     "thumbnail": "thumbnails/1r1yp8r.webp",
     "tags": [
-      "Adama Traoré",
-      "Mort Adama Traoré",
-      "Val Oise",
-      "CEDH",
-      "Traoré"
+      "Police",
+      "Justice"
     ],
     "analyzed_at": "2026-11-01T11:19:07.636316+00:00"
   },
@@ -3118,11 +2368,7 @@
     "ingested_at": "2026-11-01T11:18:38.157068+00:00",
     "summary": "Ces fausses vidéos publiées sur TikTok, ont été relayées sur X par des comptes étrangers anti-immigration.",
     "thumbnail": "thumbnails/1r1vxtw.webp",
-    "tags": [
-      "TikTok",
-      "IA",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:19:07.778764+00:00"
   },
   {
@@ -3143,11 +2389,9 @@
     "summary": "L’élu breton, qui est à l’origine du signalement de X à la justice, a été contraint de renoncer à une visite parlementaire à Washington.",
     "thumbnail": "thumbnails/1r1ukvb.webp",
     "tags": [
-      "Éric Bothorel",
-      "États-Unis",
-      "Elon Musk",
-      "Washington",
-      "Politique"
+      "Justice",
+      "Institutions",
+      "Elon Musk"
     ],
     "analyzed_at": "2026-11-01T11:19:07.709130+00:00"
   },
@@ -3169,11 +2413,7 @@
     "summary": "\"Une vie, ce n’est pas de l’argent\", rétorque Christine Grandjean-Paccoud, veuve de la directrice d'école victime d'homophobie, qui s'est suicidée le jour de la rentrée scolaire 2025. Elle réclame de \"vraies sanctions\".",
     "thumbnail": "thumbnails/1r1smfn.webp",
     "tags": [
-      "Education",
-      "Caroline Grandjean",
-      "Christine Grandjean-Paccoud",
-      "Paris",
-      "Faits-divers"
+      "Éducation"
     ],
     "analyzed_at": "2026-11-01T11:19:08.110318+00:00"
   },
@@ -3195,11 +2435,7 @@
     "summary": "Le cabinet de sécurité israélien a approuvé dimanche 8 février une série de règles accentuant la colonisation et le pouvoir de l’occupant en Cisjordanie, notamment sur des zones a...",
     "thumbnail": "thumbnails/1r1r2t6.webp",
     "tags": [
-      "Cisjordanie",
-      "ONU",
-      "État",
-      "Autorité",
-      "Monde"
+      "Conflit israélo-palestinien"
     ],
     "analyzed_at": "2026-11-01T11:19:08.998227+00:00"
   },
@@ -3221,9 +2457,7 @@
     "summary": "La réalité, c’est que Laurent Duplomb fait partie des agriculteurs les plus subventionnés de France, voire même dans les 1 % les mieux dotés",
     "thumbnail": "thumbnails/1r1ducv.webp",
     "tags": [
-      "Duplomb",
-      "Laurent Duplomb",
-      "Politique"
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T11:19:08.733742+00:00"
   },
@@ -3245,11 +2479,7 @@
     "summary": "La présidente de l’Assemblée nationale estime que c’est à la justice de se pencher sur l’affaire. Une vision que conteste LFI.",
     "thumbnail": "thumbnails/1r1bunj.webp",
     "tags": [
-      "Yaël Braun-Pivet",
-      "Epstein",
-      "Assemblée",
-      "LFI",
-      "Politique"
+      "Yaël Braun-Pivet"
     ],
     "analyzed_at": "2026-11-01T11:19:08.260214+00:00"
   },
@@ -3271,11 +2501,7 @@
     "summary": "De passage sur le plateau de CNews ce lundi pour faire la promotion d’un documentaire sur l’immigration, Karine Le Marchand a raconté une anecdote liée à son arrivée à Paris en 1986.",
     "thumbnail": "thumbnails/1r128mb.webp",
     "tags": [
-      "Karine le Marchand",
-      "CNews",
-      "Paris",
-      "Autorité",
-      "Politique"
+      "Médias"
     ],
     "analyzed_at": "2026-11-01T11:19:08.731424+00:00"
   },
@@ -3297,11 +2523,8 @@
     "summary": "Ce samedi 7 février, à 14 heures, le village de Combres-sous-les-Côtes (Meuse) doit accueillir une manifestation réclamant la fermeture de la Taverne de Thor, un local géré ...",
     "thumbnail": "thumbnails/1r0yapq.webp",
     "tags": [
-      "Taverne de Thor",
-      "Meuse",
-      "Combres-sous-les-Côtes",
-      "Payant",
-      "Société"
+      "Manifestations",
+      "Extrême droite"
     ],
     "analyzed_at": "2026-11-01T11:19:09.075246+00:00"
   },
@@ -3323,7 +2546,7 @@
     "summary": "",
     "thumbnail": "thumbnails/1r0xy3q.webp",
     "tags": [
-      "Fait Divers"
+      "Violences sexuelles"
     ],
     "analyzed_at": "2026-11-01T11:19:08.697977+00:00"
   },
@@ -3344,11 +2567,7 @@
     "ingested_at": "2026-11-01T11:18:38.156758+00:00",
     "summary": "Le tribunal administratif de Paris a confirmé l'amende infligée à un restaurant du 8e arrondissement qui avait illégalement installé sa terrasse chauffée.",
     "thumbnail": "thumbnails/1r0wmy6.webp",
-    "tags": [
-      "Paris",
-      "Ville de Paris",
-      "Montaigne Alma"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:19:08.937012+00:00"
   },
   {
@@ -3368,38 +2587,8 @@
     "ingested_at": "2026-11-01T11:18:38.154725+00:00",
     "summary": "",
     "thumbnail": "thumbnails/1r0uzn8.webp",
-    "tags": [
-      "Nestlé",
-      "Perrier",
-      "Hépar",
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:19:09.141126+00:00"
-  },
-  {
-    "id": "1r0tngg",
-    "title": "95% des Français souhaitent que François Hollande se présente, mais uniquement au conseil syndical de son immeuble",
-    "url": "https://www.legorafi.fr/2026/02/09/95-des-francais-souhaitent-que-francois-hollande-se-presente-mais-uniquement-au-conseil-syndical-de-son-immeuble/",
-    "permalink": "/r/france/comments/1r0tngg/95_des_français_souhaitent_que_françois_hollande/",
-    "created_at": "2026-02-10T06:44:02+00:00",
-    "score": 1230,
-    "num_comments": 48,
-    "subreddit": "france",
-    "author": "Short-Taste-2950",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/ts04ZU_Id_-hLUZkWgWfAKkZyvCA8gMG-TBp91LougA.jpeg?auto=webp&s=7bc5c306bd3681f7538b11b1b9e0c0beefb2dc1e",
-    "ingested_at": "2026-11-01T11:18:38.152892+00:00",
-    "summary": "Alors que plusieurs médias présentent l’ancien président de la République comme une alternative crédible pour 2027, un sondage révèle que les Français aimeraient le voir prendre des responsabilités, mais seulement dans sa copropriété.",
-    "thumbnail": "thumbnails/1r0tngg.webp",
-    "tags": [
-      "François Hollande",
-      "République",
-      "Emmanuel Macron",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T11:19:08.899204+00:00"
   },
   {
     "id": "1r0g2yd",
@@ -3418,11 +2607,7 @@
     "ingested_at": "2026-11-01T11:18:38.154573+00:00",
     "summary": "",
     "thumbnail": "thumbnails/1r0g2yd.webp",
-    "tags": [
-      "Epstein",
-      "Jack Lang",
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:19:09.140414+00:00"
   },
   {
@@ -3443,8 +2628,7 @@
     "summary": "Les policiers chargés de l’enquête sur l’agression de leurs collègues à Viry-Châtillon, accusés d’avoir rédigé de faux procès-verbaux pour incriminer de jeunes innocents qui ont fait de la prison, ne seront pas jugés",
     "thumbnail": "thumbnails/1r08msd.webp",
     "tags": [
-      "Viry-Châtillon",
-      "Société"
+      "Police"
     ],
     "analyzed_at": "2026-11-01T11:19:09.638302+00:00"
   },
@@ -3465,13 +2649,7 @@
     "ingested_at": "2026-11-01T11:18:38.153936+00:00",
     "summary": "Sous embargo américain renforcé et privée de son pétrole, l’île entre dans une nouvelle \"période spéciale\". Le pouvoir cubain tente de survivre tandis que Washington fixe déjà un compte à rebours vers la chute du régime.",
     "thumbnail": "thumbnails/1r07y5l.webp",
-    "tags": [
-      "Havane",
-      "Cubains",
-      "Washington",
-      "Cuba",
-      "Monde"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:19:09.589832+00:00"
   },
   {
@@ -3492,8 +2670,7 @@
     "summary": "",
     "thumbnail": "thumbnails/1r07fmr.webp",
     "tags": [
-      "Guillaume Meurice",
-      "Radio France"
+      "Justice"
     ],
     "analyzed_at": "2026-11-01T11:19:09.632792+00:00"
   },
@@ -3515,10 +2692,8 @@
     "summary": "Les Etats-Unis pourraient imposer de nouvelles mesures pour les visiteurs souhaitant entrer sur leur territoire. Il faudrait notamment fournir les identifiants de comptes de ses mails et de ses réseaux sociaux sur les dix et cinq dernières années. Une mesure qui n'est pas encore en vigueur mais...",
     "thumbnail": "thumbnails/1r06dvg.webp",
     "tags": [
-      "Etats-Unis",
-      "OMB",
-      "Donald Trump",
-      "Monde"
+      "Numérique",
+      "Donald Trump"
     ],
     "analyzed_at": "2026-11-01T11:19:09.266845+00:00"
   },
@@ -3540,11 +2715,9 @@
     "summary": "Dans le plus grand secret, les socialistes se sont rendus à la table de Sébastien Lecornu pour chorégraphier ce moment-clé du budget. Cinq jours plus tard, le Premier ministre interprétait dans l’hémicycle la partition écrite nuitamment<b> </b>avec Olivier Faure.",
     "thumbnail": "thumbnails/1r044zf.webp",
     "tags": [
+      "Budget et fiscalité",
       "Sébastien Lecornu",
-      "Matignon",
-      "Olivier Faure",
-      "Zucman",
-      "Politique"
+      "Olivier Faure"
     ],
     "analyzed_at": "2026-11-01T11:19:10.774068+00:00"
   },
@@ -3565,12 +2738,7 @@
     "ingested_at": "2026-11-01T11:18:38.157348+00:00",
     "summary": "Le groupe lyonnais LDLC a annoncé lundi matin le décès de Marc Prieur, fondateur du site Hardware.fr, à l’âge de 46 ans.",
     "thumbnail": "thumbnails/1r036p8.webp",
-    "tags": [
-      "Hardware",
-      "Marc Prieur",
-      "LDLC",
-      "Tech"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:19:09.646457+00:00"
   },
   {
@@ -3591,11 +2759,7 @@
     "summary": "Interrogée sur BFMTV, la candidate d'extrême droite à la mairie de Paris s'est trompée, affirmant que le passe Navigo annuel coûtait \"52 euros\". Une déclaration qui a suscité des railleries et des réactions de consternation...",
     "thumbnail": "thumbnails/1qzzqt1.webp",
     "tags": [
-      "Navigo",
-      "Sarah Knafo",
-      "Paris",
-      "BFMTV",
-      "Politique"
+      "Sarah Knafo"
     ],
     "analyzed_at": "2026-11-01T11:19:09.602867+00:00"
   },
@@ -3617,36 +2781,11 @@
     "summary": "Le ministre du Travail s'est dit \"favorable\" à une suspension des allocations chômages ou des prestations sociales en cas de \"suspicion sérieuse de fraude\", par exemple lorsque les allocataires résident à l'étranger. Un projet de loi, adopté au Sénat, sera examiné par l'Assemblée nationale fin...",
     "thumbnail": "thumbnails/1qzf8ed.webp",
     "tags": [
-      "Jean-Pierre Farandou",
-      "France Travail",
-      "Assemblée",
-      "Sénat",
-      "Économie"
+      "Protection sociale",
+      "Travail",
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T11:19:09.596391+00:00"
-  },
-  {
-    "id": "1qz7g9m",
-    "title": "Un restaurant d’altitude propose un menu sans entrée, sans plat et sans dessert à 29,90 €",
-    "url": "https://www.legorafi.fr/2026/02/03/un-restaurant-daltitude-propose-un-menu-sans-entree-sans-plat-et-sans-dessert-a-2990-e/",
-    "permalink": "/r/france/comments/1qz7g9m/un_restaurant_daltitude_propose_un_menu_sans/",
-    "created_at": "2026-02-08T12:16:15+00:00",
-    "score": 376,
-    "num_comments": 31,
-    "subreddit": "france",
-    "author": "Short-Taste-2950",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/GLdbbf0r3cdb_jnJ5g2ZIeHwf4LEHeFgac_10-hsf1U.jpeg?auto=webp&s=913d6d97f0c32d418ed6e0301c89ad86d53570ce",
-    "ingested_at": "2026-11-01T11:18:38.155898+00:00",
-    "summary": "C’est une première dans l’histoire de la restauration d’altitude, une formule midi pour permettre à monsieur et madame Tout-le-monde de se restaurer dans un endroit où les prix sont d’habitude inaccessibles.",
-    "thumbnail": "thumbnails/1qz7g9m.webp",
-    "tags": [
-      "Tout-le-monde",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T11:19:09.829335+00:00"
   },
   {
     "id": "1qz57ah",
@@ -3666,10 +2805,7 @@
     "summary": "Dans un long message publié ce samedi 7 février sur X, le président réaffirme son soutien au jeu vidéo.",
     "thumbnail": "thumbnails/1qz57ah.webp",
     "tags": [
-      "Emmanuel Macron",
-      "Politique",
-      "Jeux vidéo",
-      "Fil info"
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T11:19:10.173287+00:00"
   },
@@ -3690,36 +2826,8 @@
     "ingested_at": "2026-11-01T11:18:38.154773+00:00",
     "summary": "Offrez des Ray-Ban équipées de caméras à n'importe quel homme mal intentionné pour découvrir le potentiel de ces nouveaux joujoux, venus tout droit de…",
     "thumbnail": "thumbnails/1qz4pam.webp",
-    "tags": [
-      "Meta",
-      "Ray-Ban",
-      "Brad Podray",
-      "Tech"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:19:10.002865+00:00"
-  },
-  {
-    "id": "1qys01i",
-    "title": "Le streamer Antoine Daniel accusé d'agressions sexuelles",
-    "url": "https://rotek.fr/streamer-antoine-daniel-accuse-agressions-sexuelle/",
-    "permalink": "/r/france/comments/1qys01i/le_streamer_antoine_daniel_accusé_dagressions/",
-    "created_at": "2026-02-07T22:50:54+00:00",
-    "score": 448,
-    "num_comments": 442,
-    "subreddit": "france",
-    "author": "yellister",
-    "flair": "Actus",
-    "domain": "rotek.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/mA5eSeEPmwCOHLL7d2ROCrtxW2UHR2XUGucuarORopk.jpeg?auto=webp&s=48c39d302dcc6e0d0d32f28a3f9141accb3e2fde",
-    "ingested_at": "2026-11-01T11:18:38.155134+00:00",
-    "summary": "Depuis quelques jours, le streamer et ex-youtuber Antoine Daniel est accusé d’agressions sexuelles, notamment sur des femmes mineures.",
-    "thumbnail": "thumbnails/1qys01i.webp",
-    "tags": [
-      "Antoine Daniel",
-      "Instagram"
-    ],
-    "analyzed_at": "2026-11-01T11:19:10.592823+00:00"
   },
   {
     "id": "1qyjw2x",
@@ -3738,13 +2846,7 @@
     "ingested_at": "2026-11-01T11:18:38.153020+00:00",
     "summary": "L’ancien ministre de la Culture est visé par une enquête financière, en raison de liens avec le criminel sexuel Jeffrey Epstein.",
     "thumbnail": "thumbnails/1qyjw2x.webp",
-    "tags": [
-      "Jack Lang",
-      "Institut",
-      "Affaire Epstein",
-      "Jeffrey Epstein",
-      "IMA"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:19:10.113977+00:00"
   },
   {
@@ -3765,11 +2867,9 @@
     "summary": "Si le RN fait mine de prendre ses distances avec Donald Trump en France, Jordan Bardella a coorganisé à Bruxelles un sommet avec les proches de son administration. « Le ver est bel et bien dans le fruit et le fruit commence à pourrir », alerte l’eurodéputé socialiste Chloé Ridel.",
     "thumbnail": "thumbnails/1qyidl6.webp",
     "tags": [
-      "Donald Trump",
       "Jordan Bardella",
-      "Bruxelles",
-      "RN",
-      "Politique"
+      "Donald Trump",
+      "Union européenne"
     ],
     "analyzed_at": "2026-11-01T11:19:10.054090+00:00"
   },
@@ -3792,10 +2892,8 @@
     "thumbnail": "thumbnails/1qyexyr.webp",
     "tags": [
       "Donald Trump",
-      "Obama",
-      "Barack et Michelle Obama",
-      "Maison Blanche",
-      "Monde"
+      "Barack Obama",
+      "Racisme"
     ],
     "analyzed_at": "2026-11-01T11:19:10.123766+00:00"
   },
@@ -3817,11 +2915,8 @@
     "summary": "Kartik Sheth a été brutalement licencié par l’administration Trump l’année dernière. Il fait partie de la quarantaine de chercheurs qui ont décidé de poursuivre leurs travaux en France.",
     "thumbnail": "thumbnails/1qyewtn.webp",
     "tags": [
-      "Nasa",
-      "Kartik Sheth",
-      "Trump",
       "Donald Trump",
-      "Science"
+      "Éducation"
     ],
     "analyzed_at": "2026-11-01T11:19:11.259722+00:00"
   },
@@ -3843,8 +2938,7 @@
     "summary": "Les premiers résultats de l’évaluation des aptitudes physiques, publiés par le ministère de l’Éducation cette semaine, montrent que seuls 34",
     "thumbnail": "thumbnails/1qy8hpb.webp",
     "tags": [
-      "Éducation",
-      "Société"
+      "Éducation"
     ],
     "analyzed_at": "2026-11-01T11:19:10.759426+00:00"
   },
@@ -3866,11 +2960,7 @@
     "summary": "Des documents publiés par le ministère de la Justice américain dévoilent des dizaines d'échanges entre l'ancien ministre de la Culture et le criminel sexuel décédé, Jeffrey Esptein. Ce dernier codétenait aussi une entreprise avec Caroline Lang, destinée à l'acquisition d'œuvres d'art.",
     "thumbnail": "thumbnails/1qxwc8g.webp",
     "tags": [
-      "Jack Lang",
-      "Parquet",
-      "Affaire Epstein",
-      "Caroline",
-      "Culture"
+      "Budget et fiscalité"
     ],
     "analyzed_at": "2026-11-01T11:19:10.516859+00:00"
   },
@@ -3891,13 +2981,7 @@
     "ingested_at": "2026-11-01T11:18:38.155779+00:00",
     "summary": "Report offers alternative of the US navy retaining boats and operating them out of Australian bases",
     "thumbnail": "thumbnails/1qxwbzd.webp",
-    "tags": [
-      "Australia",
-      "US",
-      "Aukus",
-      "Australian",
-      "China"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:19:10.763297+00:00"
   },
   {
@@ -3917,13 +3001,7 @@
     "ingested_at": "2026-11-01T11:18:38.154084+00:00",
     "summary": "Une série de courriels consultés par Mediapart indique que l’ancien ministre était bien personnellement lié à une société offshore de Jeffrey Epstein et de sa fille. Le président de l’Institut du mon…",
     "thumbnail": "thumbnails/1qxscj5.webp",
-    "tags": [
-      "Jack Lang",
-      "Epstein",
-      "Jeffrey Epstein",
-      "Institut",
-      "Monde"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:19:10.734757+00:00"
   },
   {
@@ -3944,11 +3022,9 @@
     "summary": "France Télévisions a eu accès à la vidéosurveillance du Burger King dans lequel des manifestants et un journaliste ont reçu des coups de matraque de la part de forces de l'ordre pendant l'acte 3 de la mobilisation des \"gilets jaunes\" en 2018, à Paris.",
     "thumbnail": "thumbnails/1qxqsxw.webp",
     "tags": [
-      "CRS",
-      "Burger King",
-      "DOCUMENT FRANCETV",
-      "Paris",
-      "France Télévisions"
+      "Police",
+      "Manifestations",
+      "Libertés publiques"
     ],
     "analyzed_at": "2026-11-01T11:19:10.750942+00:00"
   },
@@ -3969,11 +3045,7 @@
     "ingested_at": "2026-11-01T11:18:38.154479+00:00",
     "summary": "L’exécutif va ouvrir lundi la procédure de sélection d’un nouvel hébergeur européen, avec une attribution du marché attendue d’ici à fin mars 2026.",
     "thumbnail": "thumbnails/1qxpbqd.webp",
-    "tags": [
-      "Microsoft",
-      "Health Data Hub",
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:19:10.760770+00:00"
   },
   {
@@ -3994,10 +3066,7 @@
     "summary": "Une attaque informationnelle russe visant à faire croire à une implication du président français dans l'affaire Jeffrey Epstein a été détectée par la France.",
     "thumbnail": "thumbnails/1qxd8kz.webp",
     "tags": [
-      "Emmanuel Macron",
-      "Epstein",
-      "Jeffrey Epstein",
-      "Politique"
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T11:19:11.219309+00:00"
   },
@@ -4019,11 +3088,8 @@
     "summary": "Juste avant la fin de la publication, pendant deux secondes, apparaît un montage vidéo des époux Obama, le visage hilare sur un corps de primate, avec la jungle en toile de fond.",
     "thumbnail": "thumbnails/1qxd5zv.webp",
     "tags": [
-      "Obama",
       "Barack Obama",
-      "Donald Trump",
-      "Trump",
-      "Monde"
+      "Donald Trump"
     ],
     "analyzed_at": "2026-11-01T11:19:11.605843+00:00"
   },
@@ -4046,7 +3112,7 @@
     "thumbnail": "thumbnails/1qxargo.webp",
     "tags": [
       "Emmanuel Macron",
-      "Société"
+      "Éducation"
     ],
     "analyzed_at": "2026-11-01T11:19:11.227858+00:00"
   },
@@ -4067,13 +3133,7 @@
     "ingested_at": "2026-11-01T11:18:38.156808+00:00",
     "summary": "Malcolm Turnbull says government is ‘engaged in an exercise of denial’, as defence minister insists $368bn deal is ‘full steam ahead’",
     "thumbnail": "thumbnails/1qwzbpn.webp",
-    "tags": [
-      "US",
-      "Australia",
-      "Aukus",
-      "Malcolm Turnbull",
-      "Virginia-class"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:19:11.255609+00:00"
   },
   {
@@ -4094,11 +3154,7 @@
     "summary": "Le président Emmanuel Macron estime que l'ancien ministre de la Culture devrait \"penser à l'institution\" de l'Institut du monde arabe, selon l'entourage du chef de l'Etat à franceinfo.",
     "thumbnail": "thumbnails/1qwxmnn.webp",
     "tags": [
-      "Jack Lang",
-      "Jeffrey Epstein",
-      "Affaires",
-      "Emmanuel Macron",
-      "Culture"
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T11:19:11.170184+00:00"
   },
@@ -4120,10 +3176,7 @@
     "summary": "Lors d'une interview exclusive à Brut, Emmanuel Macron a abordé plusieurs sujets, dont l'impact des jeux vidéo chez les plus jeunes joueurs. Inquiet de ce que le \"bon sens\" semble désigner comme quelque chose de mauvais, il veut lancer une étude scientifique concernant les effets des jeux, avant de...",
     "thumbnail": "thumbnails/1qww14l.webp",
     "tags": [
-      "Emmanuel Macron",
-      "Brut",
-      "République",
-      "Politique"
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T11:19:11.169081+00:00"
   },
@@ -4145,11 +3198,8 @@
     "summary": "Les ministères de l'Agriculture et de l'Environnement ont annoncé mercredi en fin d'après-midi que la substance chimique pulvérisée dimanche par l'aviation israélienne au-dessus de plusieurs...",
     "thumbnail": "thumbnails/1qwtapt.webp",
     "tags": [
-      "Liban",
-      "Israël",
-      "ONU",
-      "Liban-Sud",
-      "Monde"
+      "Conflit israélo-palestinien",
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T11:19:12.080868+00:00"
   },
@@ -4171,11 +3221,9 @@
     "summary": "Les coupes massives annoncées par le quotidien américain, propriété de Jeff Bezos, concernent notamment les bureaux à l'étranger en zone de conflit. Une décision jugée incompréhensible par de nombreux professionnels.",
     "thumbnail": "thumbnails/1qwo69j.webp",
     "tags": [
-      "Washington Post",
-      "Ukraine",
-      "Jeff Bezos",
-      "Moyen-Orient",
-      "Etats Unis d'Amérique"
+      "Guerre en Ukraine",
+      "Travail",
+      "Médias"
     ],
     "analyzed_at": "2026-11-01T11:19:12.436748+00:00"
   },
@@ -4197,10 +3245,7 @@
     "summary": "Une des parties les plus spectaculaires de cette affaire de proxénétisme mène désormais à Moscou, et à un « ami de Poutine ». Des spécialist",
     "thumbnail": "thumbnails/1qwlrmj.webp",
     "tags": [
-      "Epstein",
-      "Moscou",
-      "Poutine",
-      "Monde"
+      "Vladimir Poutine"
     ],
     "analyzed_at": "2026-11-01T11:19:11.645757+00:00"
   },
@@ -4221,11 +3266,7 @@
     "ingested_at": "2026-11-01T11:18:38.155875+00:00",
     "summary": "C’est l’une des seize mesures du plan de lutte contre l’infertilité lancé par le ministère de la Santé. Objectif : améliorer les chiffres de la fécondité et réduire la mortalité périnatale en France.",
     "thumbnail": "thumbnails/1qwii2y.webp",
-    "tags": [
-      "Français de 29",
-      "Infertilité",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:19:11.673853+00:00"
   },
   {
@@ -4246,8 +3287,7 @@
     "summary": "Deezer a détecté que 39 % de toute la musique diffusée quotidiennement était générée par IA, et que les écoutes de ces morceaux pouvaient être boostées…",
     "thumbnail": "thumbnails/1qwhp6r.webp",
     "tags": [
-      "IA",
-      "Culture"
+      "Intelligence artificielle"
     ],
     "analyzed_at": "2026-11-01T11:19:17.200323+00:00"
   },
@@ -4269,10 +3309,7 @@
     "summary": "La France insoumise est désormais classée à l'extrême gauche, par le ministère de l'Intérieur, dans une circulaire rendue publique mardi. Jusque-là, les insoumis étaient classés à gauche, mais basculent à l'extrême avec par exemple Lutte ouvrière ou le NPA. Une décision qui fait hurler du côté du...",
     "thumbnail": "thumbnails/1qwgl1j.webp",
     "tags": [
-      "Intérieur",
-      "NPA",
-      "Lutte",
-      "Politique"
+      "Extrême gauche"
     ],
     "analyzed_at": "2026-11-01T11:19:11.680529+00:00"
   },
@@ -4293,10 +3330,7 @@
     "ingested_at": "2026-11-01T11:18:38.154621+00:00",
     "summary": "",
     "thumbnail": "thumbnails/1qvxuew.webp",
-    "tags": [
-      "Jeffrey Epstein",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:19:11.644997+00:00"
   },
   {
@@ -4317,8 +3351,8 @@
     "summary": "",
     "thumbnail": "thumbnails/1qvw321.webp",
     "tags": [
-      "Laurent Duplomb",
-      "Politique"
+      "Environnement",
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T11:19:12.149565+00:00"
   },
@@ -4339,11 +3373,7 @@
     "ingested_at": "2026-11-01T11:18:38.154353+00:00",
     "summary": "L'association qui gère le 3919 dénonce des appels malveillants et coordonnés de masculinistes. Ils entravent le bon fonctionnement de cette plateforme d'écoute, gratuite, disponible 24 heures sur 24, et qui reçoit près de 400 appels tous les jours.",
     "thumbnail": "thumbnails/1qvscan.webp",
-    "tags": [
-      "Marie-Agnès",
-      "Violences faites aux femmes",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:19:12.244476+00:00"
   },
   {
@@ -4363,12 +3393,7 @@
     "ingested_at": "2026-11-01T11:18:38.156832+00:00",
     "summary": "L’acteur tenait des propos graveleux ou insultants à l’égard d’une figurante et de journalistes sur le plateau du long-métrage Umami en 2020. Une archive diffusée mercredi soir dans une émission de TMC.",
     "thumbnail": "thumbnails/1qvpw3x.webp",
-    "tags": [
-      "Gérard Depardieu",
-      "TMC",
-      "Umami",
-      "Culture"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:19:12.100020+00:00"
   },
   {
@@ -4389,9 +3414,8 @@
     "summary": "La vitesse à laquelle le numérique évolue soulève des questions éthiques. Mais disposons-nous des connaissances nécessaires pour les affronter ? Une partie non négligeable de...",
     "thumbnail": "thumbnails/1qvo7yi.webp",
     "tags": [
-      "L'édition du soir",
-      "Edition du soir du 02/02/2026",
-      "Société"
+      "Numérique",
+      "Éducation"
     ],
     "analyzed_at": "2026-11-01T11:19:23.433515+00:00"
   },
@@ -4412,13 +3436,7 @@
     "ingested_at": "2026-11-01T11:18:38.156618+00:00",
     "summary": "L'ancien ministre de la Culture assure avoir \"coupé court\" avec Jeffrey Epstein \"tout aussitôt\" après avoir eu connaissance des faits reprochés à l'homme d'affaires.",
     "thumbnail": "thumbnails/1qvm03k.webp",
-    "tags": [
-      "Jeffrey Epstein",
-      "Jack Lang",
-      "Institut",
-      "Culture",
-      "Affaire Jeffrey Epstein"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:19:13.107960+00:00"
   },
   {
@@ -4439,8 +3457,6 @@
     "summary": "L'excédent commercial en biens et services a atteint 0,7% du PIB au 4ème trimestre 2025. Le résultat d'un \"alignement des planètes\" particulièrement favorable, décrypte l'économiste Anthony Morlet-Lavidalie.",
     "thumbnail": "thumbnails/1qvhqzl.webp",
     "tags": [
-      "Anthony Morlet-Lavidalie",
-      "PIB",
       "Économie"
     ],
     "analyzed_at": "2026-11-01T11:19:12.480431+00:00"
@@ -4462,9 +3478,7 @@
     "ingested_at": "2026-11-01T11:18:38.153962+00:00",
     "summary": "L’organisme chargé de récolter les cotisations sociales des entreprises estime que les chauffeurs travaillant avec la plateforme sont ses salariés, et non des travailleurs indépendants. Une position …",
     "thumbnail": "thumbnails/1qvgkwu.webp",
-    "tags": [
-      "Uber"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:19:12.554308+00:00"
   },
   {
@@ -4485,10 +3499,8 @@
     "summary": "",
     "thumbnail": "thumbnails/1qv6axe.webp",
     "tags": [
-      "Monde",
-      "FN",
-      "Marine le Pen",
-      "Politique"
+      "Marine Le Pen",
+      "Justice"
     ],
     "analyzed_at": "2026-11-01T11:19:12.520672+00:00"
   },
@@ -4510,11 +3522,7 @@
     "summary": "Le drame s'est produit en début d'après-midi au collège La Guicharde, à Sanary-sur-Mer. L'enseignante a été transportée à l'hôpital. Le ministre de l'Education nationale se rend sur place.",
     "thumbnail": "thumbnails/1qutw61.webp",
     "tags": [
-      "Var",
-      "Sanary-sur-Mer",
-      "Education",
-      "Guicharde",
-      "Faits-divers"
+      "Éducation"
     ],
     "analyzed_at": "2026-11-01T11:19:12.778376+00:00"
   },
@@ -4536,9 +3544,7 @@
     "summary": "",
     "thumbnail": "thumbnails/1qutpbp.webp",
     "tags": [
-      "Affaire Epstein",
-      "Jack Lang",
-      "Syndicat"
+      "Grèves et syndicats"
     ],
     "analyzed_at": "2026-11-01T11:19:12.960691+00:00"
   },
@@ -4560,8 +3566,7 @@
     "summary": "",
     "thumbnail": "thumbnails/1qusq7k.webp",
     "tags": [
-      "FN",
-      "Politique"
+      "Justice"
     ],
     "analyzed_at": "2026-11-01T11:19:13.144241+00:00"
   },
@@ -4583,11 +3588,7 @@
     "summary": "Le ministère de la Justice américain a entrepris vendredi la publication d'une masse de documents supplémentaires concernant Jeffrey Epstein. De nombreuses personnalités françaises apparaissent, notamment des figures politiques.",
     "thumbnail": "thumbnails/1quq1ei.webp",
     "tags": [
-      "Affaire Epstein",
-      "Jeffrey Epstein",
-      "Justice",
-      "Affaire Jeffrey Epstein",
-      "Antoine Léaument"
+      "Justice"
     ],
     "analyzed_at": "2026-11-01T11:19:13.209405+00:00"
   },
@@ -4609,8 +3610,7 @@
     "summary": "La filière champagne de LVMH a signé un accord pour une prime de participation de 3 300 euros (au moins) par salarié. Ce compromis met fin à une mobilisation syndicale entamée en décembre. LVMH doit désormais verser...",
     "thumbnail": "thumbnails/1qup9ho.webp",
     "tags": [
-      "LVMH",
-      "Bernard Arnault"
+      "Travail"
     ],
     "analyzed_at": "2026-11-01T11:19:13.056158+00:00"
   },
@@ -4632,11 +3632,7 @@
     "summary": "Un enfant de 5 ans et demi a été victime de viols et d'agressions sexuelles lors d'une soirée \"chemsex\" organisée en février 2025 à Lille. Dix hommes ont été mis en examen dans cette affaire sordide révélée ce mardi 3 février par le procureur de la République de Lille.",
     "thumbnail": "thumbnails/1quojxt.webp",
     "tags": [
-      "Lille",
-      "Agression sexuelle",
-      "Enquêtes – Investigation",
-      "Soumission chimique",
-      "Fait Divers"
+      "Violences sexuelles"
     ],
     "analyzed_at": "2026-11-01T11:19:13.334284+00:00"
   },
@@ -4658,7 +3654,8 @@
     "summary": "",
     "thumbnail": "thumbnails/1qunz0c.webp",
     "tags": [
-      "Elon Musk"
+      "Elon Musk",
+      "Justice"
     ],
     "analyzed_at": "2026-11-01T11:19:13.345331+00:00"
   },
@@ -4680,11 +3677,7 @@
     "summary": "Avec un taux de chômage d'à peine 3% et un PIB par habitant en forte hausse depuis vingt ans, la Pologne voit aujourd'hui revenir ses ressortissants émigrés, au nombre d'environ 100.000 par an selon l'Institut national polonais de la statistique.",
     "thumbnail": "thumbnails/1qu8id4.webp",
     "tags": [
-      "Pologne",
-      "Europe",
-      "Institut",
-      "PIB",
-      "Monde"
+      "Économie"
     ],
     "analyzed_at": "2026-11-01T11:19:13.343923+00:00"
   },
@@ -4705,13 +3698,7 @@
     "ingested_at": "2026-11-01T11:18:38.155569+00:00",
     "summary": "Jack Lang déclare ce lundi à l'AFP assumer \"pleinement les liens\" qu'il avait pu créer avec Jeffrey Epstein. À l'époque, dit l'ancien ministre de la Culture, \"rien ne laissait supposer\" que le milliardaire américain \"pouvait être au cœur d'un réseau de criminalité\".",
     "thumbnail": "thumbnails/1qu095e.webp",
-    "tags": [
-      "Jack Lang",
-      "Jeffrey Epstein",
-      "Affaire Epstein",
-      "Enquêtes – Investigation",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:19:13.768329+00:00"
   },
   {
@@ -4731,13 +3718,7 @@
     "ingested_at": "2026-11-01T11:18:38.152791+00:00",
     "summary": "Center-right leaders are taking pains to publicly reject the ultranationalist contender ahead of the country’s Feb. 8 vote.",
     "thumbnail": "thumbnails/1qtxcji.webp",
-    "tags": [
-      "Seguro",
-      "Feb",
-      "Ventura",
-      "Portuguese",
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:19:13.524498+00:00"
   },
   {
@@ -4757,10 +3738,7 @@
     "ingested_at": "2026-11-01T11:18:38.156275+00:00",
     "summary": "",
     "thumbnail": "thumbnails/1qtwdui.webp",
-    "tags": [
-      "RN",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:19:13.689086+00:00"
   },
   {
@@ -4780,12 +3758,7 @@
     "ingested_at": "2026-11-01T11:18:38.156972+00:00",
     "summary": "Le groupe Fnac Darty, propriétaire de Nature & Découvertes, a annoncé vouloir le revendre. Il faut dire que le concept de cette enseigne dédiée à sa création en 1990 au bien-être et la naturalité a bien évolué pour devenir quelque peu fourre-tout. Le consommateur ne s'y retrouvant plus.",
     "thumbnail": "thumbnails/1qttzdi.webp",
-    "tags": [
-      "Nature Découvertes",
-      "Nature et Découvertes",
-      "Fnac Darty",
-      "Économie"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:19:13.669067+00:00"
   },
   {
@@ -4805,10 +3778,7 @@
     "ingested_at": "2026-11-01T11:18:38.155061+00:00",
     "summary": "",
     "thumbnail": "thumbnails/1qttmu0.webp",
-    "tags": [
-      "Epstein",
-      "Monde"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:19:13.810021+00:00"
   },
   {
@@ -4829,9 +3799,8 @@
     "summary": "Un collectif d’anciens élèves d’établissements du réseau catholique des Lasalliens s’est constitué pour dénoncer des violences commises entre 1955 et 1985 dans une vingtaine d�...",
     "thumbnail": "thumbnails/1qtrmvz.webp",
     "tags": [
-      "Lasalliens",
-      "Gratuit",
-      "Société"
+      "Éducation",
+      "Violences sexuelles"
     ],
     "analyzed_at": "2026-11-01T11:19:14.203300+00:00"
   },
@@ -4853,11 +3822,7 @@
     "summary": "Malgré la montée de l’extrême droite, les enquêtes montrent que les Français restent très attachés à la démocratie. En revanche, l’insatisfaction vis-à-vis de son fonctionnement est grande. Le sentiment de déni de la souveraineté populaire est au cœur du vote populiste et de l’abstention.",
     "thumbnail": "thumbnails/1qsy5pb.webp",
     "tags": [
-      "ESS",
-      "Jordan Bardella",
-      "Nuit debout (France)",
-      "Rassemblement national (RN)",
-      "Politique"
+      "Jordan Bardella"
     ],
     "analyzed_at": "2026-11-01T11:19:13.774711+00:00"
   },
@@ -4879,9 +3844,6 @@
     "summary": "À La Membrolle-sur-Choisille, en Indre-et-Loire, le Centre Louis-Sevestre accueille depuis plus de 60 ans des patients venus se sevrer de l’alcool. Chaque semaine, de nouveaux arrivants découvrent ce lieu unique en France,...",
     "thumbnail": "thumbnails/1qsy59q.webp",
     "tags": [
-      "Membrolle-sur-Choisille",
-      "Indre-et-Loire",
-      "Centre Louis-Sevestre",
       "Santé"
     ],
     "analyzed_at": "2026-11-01T11:19:14.097321+00:00"
@@ -4904,9 +3866,7 @@
     "summary": "Aux États-Unis, les enseignants ont de plus en plus de mal à montrer des films à leurs élèves, qui viennent pourtant étudier le cinéma, s’inquiète “The Atlantic...",
     "thumbnail": "thumbnails/1qswswo.webp",
     "tags": [
-      "Atlantic",
-      "États-Unis",
-      "Culture"
+      "Éducation"
     ],
     "analyzed_at": "2026-11-01T11:19:14.452276+00:00"
   },
@@ -4928,8 +3888,8 @@
     "summary": "Les Français se plaignent de leur pouvoir d'achat, mais leurs salaires sont bas pour de bonnes raisons ! C'est le résultat de choix politiques assumés et confirmés, souligne Pascal Perri.",
     "thumbnail": "thumbnails/1qswa5d.webp",
     "tags": [
-      "Pascal Perri",
-      "Économie"
+      "Économie",
+      "Travail"
     ],
     "analyzed_at": "2026-11-01T11:19:20.648522+00:00"
   },
@@ -4951,8 +3911,8 @@
     "summary": "",
     "thumbnail": "thumbnails/1qsun5p.webp",
     "tags": [
-      "ICE",
-      "Politique"
+      "Police",
+      "Immigration"
     ],
     "analyzed_at": "2026-11-01T11:19:14.195249+00:00"
   }

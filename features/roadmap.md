@@ -41,12 +41,35 @@ Statuts : ✅ fait · 🚧 en cours · 💡 idée / à valider avec le propriét
   lettre.
 - ✅ Lot 6 : vignettes hors git (toujours dans l'image), import 2016-11 → 2026-09.
 
+## v1.4 — Confiance et présidentielle (novembre 2026) ✅
+
+- ✅ Mentions légales (éditeur non professionnel, hébergeur, données,
+  propriété intellectuelle), lien vers le code source sur GitHub.
+- ✅ Slogan « L'actualité vue par r/france ».
+- ✅ Sélection des médias : liste de médias autorisés et de sites refusés
+  (YouTube, réseaux sociaux, satire…), `prune_news`.
+- ✅ Tags limités à un vocabulaire contrôlé (personnalités politiques, grands
+  thèmes) ; `analyze_news --retag` rejoué sur tout l'historique.
+- ✅ Pages « Le fil de la présidentielle » et un fil par candidat.
+- ✅ Nouvel accueil (maquette `design/Accueil@2x.png`) : logo (un fil
+  ponctué de trois points), bandeau, fil du moment (le plus actif sur 48 h),
+  fils du moment.
+- ✅ Suppression des 2 186 news de sites hors politique des médias
+  (`prune_news --apply`).
+
 ## Prochaines étapes
+
+- 💡 **Ré-analyse complète** (`analyze_news --force`) pour profiter du texte
+  des articles dans le nouveau vocabulaire (le `--retag` n'utilise que titre,
+  résumé et anciens tags).
+- 💡 **Vocabulaire** : ajouter partis politiques et lieux comme sortes de fils
+  si besoin ; enrichir la liste des personnalités au fil de l'actualité.
+- 💡 **Recherche de fils** dans l'en-tête (maquette : « Chercher un fil »).
+- 💡 **Flux RSS par candidat** et par fil.
 
 - 💡 **Rafraîchir les scores** : réingérer périodiquement la semaine passée
   pour mettre à jour les scores.
 - 💡 **Flux RSS par tag** (`/tags/<slug>/rss.xml`).
-- 💡 **Recherche** côté client (index JSON statique).
 - 💡 **Images responsives** : `srcset` 320/640 px, AVIF.
 - 💡 **CI** GitHub Actions : tests + ruff + build Docker à chaque push.
 - ✅ **Publication statique** sur la branche git `pages` (`publish_pages`).

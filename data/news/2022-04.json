@@ -17,7 +17,8 @@
     "summary": "De la hausse du Smic à l’équipement des voitures neuves par une boîte noire, en ...",
     "thumbnail": "thumbnails/ufl5uj.webp",
     "tags": [
-      "Smic"
+      "Logement",
+      "Travail"
     ],
     "analyzed_at": "2026-11-01T10:17:12.953542+00:00"
   },
@@ -38,13 +39,7 @@
     "ingested_at": "2026-11-01T10:09:00.835809+00:00",
     "summary": "Mis en ligne en 2020, le texte a pour objectif d'obtenir trois millions de signatures. Dans le film, l’actrice interprète Mera, la reine d’Atlantis et femme du super-héros Aquaman.",
     "thumbnail": "thumbnails/ufks7k.webp",
-    "tags": [
-      "Amber Heard",
-      "Mera",
-      "Aquaman",
-      "Atlantis",
-      "Fait Divers"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:17:11.319152+00:00"
   },
   {
@@ -65,8 +60,7 @@
     "summary": "DÉCRYPTAGE - Le haut-commissariat aux droits de l'homme appelle plusieurs pays, dont la France, à développer les statistiques ethno-raciales, une pratique globalement rejetée par la tradition française.",
     "thumbnail": "thumbnails/obmtyv.webp",
     "tags": [
-      "ONU",
-      "Statistiques ethniques"
+      "Racisme"
     ],
     "analyzed_at": "2026-11-01T09:56:51.678627+00:00"
   },
@@ -88,11 +82,7 @@
     "summary": "Alors que les négociations patinent de tous les côtés, les sondeurs s'accordent à dire qu'une union des principaux partis de gauche les placerait largement en tête des intentions de vote au premier tour, même dans...",
     "thumbnail": "thumbnails/uf8i4a.webp",
     "tags": [
-      "LFI",
-      "PS",
-      "EELV et PCF",
-      "LREM",
-      "Elections"
+      "Élections"
     ],
     "analyzed_at": "2026-11-01T10:17:11.862187+00:00"
   },
@@ -113,9 +103,7 @@
     "ingested_at": "2026-11-01T10:09:00.836154+00:00",
     "summary": "",
     "thumbnail": "thumbnails/uf73kz.webp",
-    "tags": [
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:17:14.933289+00:00"
   },
   {
@@ -136,8 +124,7 @@
     "summary": "Étoile montante de la majorité, Coralie Dubost a été épinglée, dans un rapport confidentiel remis au déontologue de l’Assemblée nationale, pour la gestion de ses collaborateurs et de ses frais de man…",
     "thumbnail": "thumbnails/uel5lg.webp",
     "tags": [
-      "Coralie Dubost",
-      "Assemblée"
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T10:17:12.530257+00:00"
   },
@@ -159,10 +146,8 @@
     "summary": "Le parti historique de la gauche se rangera derrière la base programmatique de Jean-Luc Mélenchon pour les élections législatives.",
     "thumbnail": "thumbnails/uegdpx.webp",
     "tags": [
-      "PS",
-      "LFI",
-      "Jean-Luc Mélenchon",
-      "Politique"
+      "Élections",
+      "Jean-Luc Mélenchon"
     ],
     "analyzed_at": "2026-11-01T10:17:12.538544+00:00"
   },
@@ -184,8 +169,7 @@
     "summary": "",
     "thumbnail": "thumbnails/uds19w.webp",
     "tags": [
-      "Jean-Luc Mélenchon",
-      "Politique"
+      "Jean-Luc Mélenchon"
     ],
     "analyzed_at": "2026-11-01T10:17:13.688348+00:00"
   },
@@ -207,11 +191,9 @@
     "summary": "Le candidat avait été filmé dans le bureau de vote de Lourdios-Ichère (Pyrénées-Atlantiques), le 24 avril, une enveloppe à la main, expliquant pourquoi il s'abstenait. Il risque des poursuites pénales.",
     "thumbnail": "thumbnails/udnnpv.webp",
     "tags": [
+      "Élections",
       "Jean Lassalle",
-      "Lourdios-Ichère",
-      "Présidentielle 2027",
-      "Conseil",
-      "Elections"
+      "Élection présidentielle"
     ],
     "analyzed_at": "2026-11-01T10:17:13.554109+00:00"
   },
@@ -232,10 +214,7 @@
     "ingested_at": "2026-11-01T10:09:00.836203+00:00",
     "summary": "",
     "thumbnail": "thumbnails/ud07vt.webp",
-    "tags": [
-      "Delhi",
-      "Rajasthan"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:17:13.512935+00:00"
   },
   {
@@ -256,7 +235,7 @@
     "summary": "",
     "thumbnail": "thumbnails/ucxh03.webp",
     "tags": [
-      "Mali"
+      "Défense"
     ],
     "analyzed_at": "2026-11-01T10:17:13.859263+00:00"
   },
@@ -278,11 +257,9 @@
     "summary": "Celui qui était arrivé derrière Jean-Marie Le Pen en 2002 expose au Parisien ses leçons du second tour et enjoint le Parti socialiste à se remettre en question.",
     "thumbnail": "thumbnails/uc947j.webp",
     "tags": [
-      "Jospin",
-      "Pen",
-      "Parisien",
-      "Jean-Marie le Pen",
-      "Politique"
+      "Emmanuel Macron",
+      "Marine Le Pen",
+      "Jean-Marie Le Pen"
     ],
     "analyzed_at": "2026-11-01T10:17:13.787467+00:00"
   },
@@ -304,11 +281,8 @@
     "summary": "Une participation plus forte chez les catholiques que par rapport à la moyenne des Français, un vote majoritairement dévolu à Emmanuel Macron, et un report massif des Français musulmans en faveur du sortant. Tels sont quelques-uns des enseignements du sondage Ifop pour La Croix et Pélerin Magazine...",
     "thumbnail": "thumbnails/uc6608.webp",
     "tags": [
-      "Français",
-      "Macron",
       "Emmanuel Macron",
-      "Ifop",
-      "Politique"
+      "Élections"
     ],
     "analyzed_at": "2026-11-01T10:17:13.952856+00:00"
   },
@@ -330,8 +304,7 @@
     "summary": "Le conseil d'administration, sous pression, a négocié avec le milliardaire dimanche et accepté son offre lundi soir.",
     "thumbnail": "thumbnails/ubskyd.webp",
     "tags": [
-      "Elon Musk",
-      "Twitter"
+      "Elon Musk"
     ],
     "analyzed_at": "2026-11-01T10:17:15.032606+00:00"
   },
@@ -353,8 +326,7 @@
     "summary": "",
     "thumbnail": "thumbnails/ubfkyx.webp",
     "tags": [
-      "Slovénie",
-      "Viktor Orban"
+      "Viktor Orbán"
     ],
     "analyzed_at": "2026-11-01T10:17:14.069456+00:00"
   },
@@ -376,36 +348,10 @@
     "summary": "",
     "thumbnail": "thumbnails/ubff4v.webp",
     "tags": [
-      "Manuel Valls",
-      "Emmanuel Macron"
+      "Emmanuel Macron",
+      "Manuel Valls"
     ],
     "analyzed_at": "2026-11-01T10:17:15.639961+00:00"
-  },
-  {
-    "id": "uazbjr",
-    "title": "Valérie Pécresse endettée, l’appel aux dons patine : “Ce parti, c’est devenu Les Misérables”",
-    "url": "https://www.gala.fr/l_actu/news_de_stars/valerie-pecresse-endettee-lappel-aux-dons-patine-ce-parti-cest-devenu-les-miserables_492300",
-    "permalink": "/r/france/comments/uazbjr/valérie_pécresse_endettée_lappel_aux_dons_patine/",
-    "created_at": "2022-04-24T17:09:57+00:00",
-    "score": 321,
-    "num_comments": 105,
-    "subreddit": "france",
-    "author": "moipasvous",
-    "flair": "Économie",
-    "domain": "gala.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/1lflfHJTmbNNT1oNKWLJsL832PRlZCPrjhYQ8C9HHbg.jpg?auto=webp&s=e48f2cdf7399cad50881323f17a1586d5a78eddb",
-    "ingested_at": "2026-11-01T10:09:00.835943+00:00",
-    "summary": "Absents du second tour de la présidentielle, Les Républicains ne seront pas remboursés de leurs frais de campagne. Des difficultés financières auxquelles le parti doit faire face et qui engendrent des turbulences dans leurs rangs, comme le rapporte Le Point le 22 avril 2022.",
-    "thumbnail": "thumbnails/uazbjr.webp",
-    "tags": [
-      "Valérie Pécresse",
-      "Misérables",
-      "Républicains",
-      "Les Républicains",
-      "Économie"
-    ],
-    "analyzed_at": "2026-11-01T10:17:15.035002+00:00"
   },
   {
     "id": "uavm3g",
@@ -424,13 +370,7 @@
     "ingested_at": "2026-11-01T10:09:00.835671+00:00",
     "summary": "INFO LE PARISIEN. La voiture de Florian Philippot a été prise en excès de vitesse à plus de 170 km/h sur l’autoroute A4, ce dimanche. Selon",
     "thumbnail": "thumbnails/uavm3g.webp",
-    "tags": [
-      "Florian Philippot",
-      "A4",
-      "PARISIEN",
-      "Patriotes",
-      "Forbach"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:17:14.473407+00:00"
   },
   {
@@ -451,11 +391,8 @@
     "summary": "Pour éviter d’être contaminés au Covid-19, les salariés de Tesla à Shanghai devront vivre en vase clos au sein de l’usine jusqu’au 1er mai",
     "thumbnail": "thumbnails/uapwop.webp",
     "tags": [
-      "Tesla",
-      "Shanghai",
-      "Chine",
       "Covid-19",
-      "L'épidémie de coronavirus dans le monde"
+      "Travail"
     ],
     "analyzed_at": "2026-11-01T10:17:14.623029+00:00"
   },
@@ -478,10 +415,7 @@
     "thumbnail": "thumbnails/ua4bep.webp",
     "tags": [
       "Édouard Philippe",
-      "Jean-Luc Mélenchon",
-      "Salon du livre",
-      "Festival du Livre",
-      "Insoumis"
+      "Jean-Luc Mélenchon"
     ],
     "analyzed_at": "2026-11-01T10:17:15.686825+00:00"
   },
@@ -503,9 +437,7 @@
     "summary": "La lutte contre \"l'autosolisme\", notamment via le covoiturage, est une des principales pistes du gouvernement pour limiter le trafic sur les routes françaises et donc la pollution atmosphérique.",
     "thumbnail": "thumbnails/ua3b6c.webp",
     "tags": [
-      "Vinci",
-      "Éco / Conso",
-      "Écologie"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T10:17:15.363823+00:00"
   },
@@ -526,9 +458,7 @@
     "ingested_at": "2026-11-01T10:09:00.835695+00:00",
     "summary": "Toutes les zones sont en vacances ce week-end. L'occasion pour les vacanciers d'aller prendre du bon temps, d'aller boire un verre et de manger au",
     "thumbnail": "thumbnails/ua1z7j.webp",
-    "tags": [
-      "Économie"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:17:15.444653+00:00"
   },
   {
@@ -549,9 +479,7 @@
     "summary": "Le navire, considéré comme un fleuron de l'armée russe, avait été coulé la semaine dernière par des missiles ukrainiens. Cette décision résonne comme un pied de nez à l'égard de Moscou.",
     "thumbnail": "thumbnails/u9im5t.webp",
     "tags": [
-      "Moskva",
-      "Moscou",
-      "Noire"
+      "Guerre en Ukraine"
     ],
     "analyzed_at": "2026-11-01T10:17:15.188124+00:00"
   },
@@ -573,10 +501,8 @@
     "summary": "Les négociations que mène La France insoumise avec EELV et les communistes progressent et ont des chances d’aboutir d’ici 10 jours à un accord aux élections législatives de juin, affirment les trois parties, tandis que le PS est pour l’heure tenu à l’écart.",
     "thumbnail": "thumbnails/u9dipm.webp",
     "tags": [
-      "PS",
-      "Insoumis",
-      "LFI",
-      "EELV",
+      "Élections",
+      "Environnement",
       "Jean-Luc Mélenchon"
     ],
     "analyzed_at": "2026-11-01T10:17:17.762057+00:00"
@@ -599,11 +525,7 @@
     "summary": "Dans une tribune à « l’Obs », Thuân, romancière vietnamienne, naturalisée française en 2000, se souvient de la première fois qu’elle a voté, en 2002. Et de sa première manifestation, contre le Front national. Au Vietnam, il n’y a pas d’élections et les manifestations y sont interdites.",
     "thumbnail": "thumbnails/u996qf.webp",
     "tags": [
-      "Vietnam",
-      "Front",
-      "Emmanuel Macron",
-      "Saïgon",
-      "Politique"
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T10:17:15.330715+00:00"
   },
@@ -624,10 +546,7 @@
     "ingested_at": "2026-11-01T10:09:00.836045+00:00",
     "summary": "Le co-CEO de Netflix a concédé pour la toute première fois qu'il accepterait de proposer un abonnement moins cher avec de la publicité pour les abonnés qui le souhaitent. C'est un revirement à l'opposé des valeurs portées par Reed Hastings depuis la création de sa plateforme. Netflix a toujours refusé l'idée même",
     "thumbnail": "thumbnails/u8qjzb.webp",
-    "tags": [
-      "Netflix",
-      "Reed Hastings"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:17:16.095185+00:00"
   },
   {
@@ -647,10 +566,7 @@
     "ingested_at": "2026-11-01T10:09:00.836069+00:00",
     "summary": "Leur rémunération s'élève à 8,7 millions d'euros pour l'an passé, gonflée par des primes exceptionnelles, selon l'entreprise Scalens, spécialisée dans les sociétés cotées européennes.",
     "thumbnail": "thumbnails/u8n10w.webp",
-    "tags": [
-      "CAC 40",
-      "Scalens"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:17:16.194381+00:00"
   },
   {
@@ -671,8 +587,8 @@
     "summary": "",
     "thumbnail": "thumbnails/u8gpw0.webp",
     "tags": [
-      "Marine le Pen et Emmanuel Macron",
-      "Politique"
+      "Emmanuel Macron",
+      "Marine Le Pen"
     ],
     "analyzed_at": "2026-11-01T10:17:15.902680+00:00"
   },
@@ -694,8 +610,7 @@
     "summary": "",
     "thumbnail": "thumbnails/u8fxyp.webp",
     "tags": [
-      "Amazon Europe",
-      "Économie"
+      "Budget et fiscalité"
     ],
     "analyzed_at": "2026-11-01T10:17:17.401013+00:00"
   },
@@ -717,60 +632,9 @@
     "summary": "",
     "thumbnail": "thumbnails/u7u0a7.webp",
     "tags": [
-      "Julian Assange",
-      "Etats-Unis",
-      "Politique"
+      "Justice"
     ],
     "analyzed_at": "2026-11-01T10:17:17.207672+00:00"
-  },
-  {
-    "id": "u7tmos",
-    "title": "En meeting, Emmanuel Macron de gauche s’engage à combattre les idées d’Emmanuel Macron de droite",
-    "url": "https://www.legorafi.fr/2022/04/20/en-meeting-emmanuel-macron-de-gauche-sengage-a-combattre-les-idees-demmanuel-macron-de-droite/",
-    "permalink": "/r/france/comments/u7tmos/en_meeting_emmanuel_macron_de_gauche_sengage_à/",
-    "created_at": "2022-04-20T10:45:59+00:00",
-    "score": 429,
-    "num_comments": 27,
-    "subreddit": "france",
-    "author": "sitarane",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/3_Q4tAaqFscqNYqJqpDmZ0p52PF2rW70cuort8SROyA.png?auto=webp&s=7792d2d635e042b7d5e124ff89c86309e9749aaf",
-    "ingested_at": "2026-11-01T10:09:00.835524+00:00",
-    "summary": "Lors de son dernier meeting, Emmanuel Macron de gauche à multiplié les appels du pied aux électeurs de gauche qu’il appelle à la mobilisation pour faire barrage à Emmanuel Macron de droite.",
-    "thumbnail": "thumbnails/u7tmos.webp",
-    "tags": [
-      "Emmanuel Macron",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T10:17:15.920203+00:00"
-  },
-  {
-    "id": "u7dyw6",
-    "title": "Solution au dilemme du tramway (allégorie politique)",
-    "url": "https://gfycat.com/warmanchoredgerenuk",
-    "permalink": "/r/france/comments/u7dyw6/solution_au_dilemme_du_tramway_allégorie_politique/",
-    "created_at": "2022-04-19T19:57:21+00:00",
-    "score": 522,
-    "num_comments": 32,
-    "subreddit": "france",
-    "author": "CerveauRecyclable",
-    "flair": "Politique",
-    "domain": "gfycat.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://b.thumbs.redditmedia.com/QPvcjE19u2II6J9c9NDcVDLILRJYb1ZIufVijlsH9Sc.jpg",
-    "ingested_at": "2026-11-01T10:09:00.835317+00:00",
-    "summary": "Watch and share Solution To The Tolley Problem GIFs by tomyan112 on Gfycat",
-    "thumbnail": "thumbnails/u7dyw6.webp",
-    "tags": [
-      "Solution",
-      "Tolley Problem GIFs",
-      "Gif",
-      "Animated",
-      "Politique"
-    ],
-    "analyzed_at": "2026-11-01T10:17:21.669100+00:00"
   },
   {
     "id": "u6zb89",
@@ -790,8 +654,8 @@
     "summary": "Derrière le vernis social, la vision économique de Marine Le Pen repose sur la défense du capital national et la discrimination. Une politique qui affaiblirait l’ensemble des salariés, français et ét…",
     "thumbnail": "thumbnails/u6zb89.webp",
     "tags": [
-      "Marine le Pen",
-      "Elections"
+      "Marine Le Pen",
+      "Élections"
     ],
     "analyzed_at": "2026-11-01T10:17:17.012734+00:00"
   },
@@ -812,34 +676,8 @@
     "ingested_at": "2026-11-01T10:09:00.837208+00:00",
     "summary": "",
     "thumbnail": "thumbnails/u6lh8t.webp",
-    "tags": [
-      "Federico Martin Aramburu",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:17:17.390499+00:00"
-  },
-  {
-    "id": "u69jio",
-    "title": "Classement mondial PISA 2018 - score moyen en mathématiques, sciences et lecture.",
-    "url": "https://factsmaps.com/wp-content/uploads/2019/12/pisa-2018.png",
-    "permalink": "/r/france/comments/u69jio/classement_mondial_pisa_2018_score_moyen_en/",
-    "created_at": "2022-04-18T10:03:15+00:00",
-    "score": 117,
-    "num_comments": 67,
-    "subreddit": "france",
-    "author": "equisetopsida",
-    "flair": "Société",
-    "domain": "factsmaps.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/II1GYw4F65McQroYN364LQLwWoxB65pc_sFp2eGaLaM.png?auto=webp&s=31c9c6bce11dccbdcba9b076a406f5a882874dd7",
-    "ingested_at": "2026-11-01T10:09:00.837184+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/u69jio.webp",
-    "tags": [
-      "PISA 2018",
-      "Société"
-    ],
-    "analyzed_at": "2026-11-01T10:17:17.113283+00:00"
   },
   {
     "id": "u5q0xt",
@@ -859,11 +697,8 @@
     "summary": "\"Ce refus est définitif\", déclare Mathilde Panot, présidente du groupe insoumis à l'Assemblée nationale.",
     "thumbnail": "thumbnails/u5q0xt.webp",
     "tags": [
-      "PS",
-      "LFI",
       "Mathilde Panot",
-      "Assemblée",
-      "Politique"
+      "Élections"
     ],
     "analyzed_at": "2026-11-01T10:17:16.644428+00:00"
   },
@@ -885,8 +720,8 @@
     "summary": "Les enseignants sont unanimes et remarquent que le niveau en mathématiques des enfants ukrainiens réfugiés, scolarisés dans les écoles françaises, est supérieur à celui des Français.",
     "thumbnail": "thumbnails/u5kyml.webp",
     "tags": [
-      "Pierre Priouret",
-      "Société"
+      "Éducation",
+      "Guerre en Ukraine"
     ],
     "analyzed_at": "2026-11-01T10:17:16.892634+00:00"
   },
@@ -908,8 +743,7 @@
     "summary": "",
     "thumbnail": "thumbnails/u5jxyx.webp",
     "tags": [
-      "Marine le Pen",
-      "European Union Anti-Fraud Office"
+      "Marine Le Pen"
     ],
     "analyzed_at": "2026-11-01T10:17:17.365873+00:00"
   },
@@ -932,7 +766,8 @@
     "thumbnail": "thumbnails/u5jbin.webp",
     "tags": [
       "Jean-Luc Mélenchon",
-      "Elections"
+      "Élections",
+      "Élection présidentielle"
     ],
     "analyzed_at": "2026-11-01T10:17:17.394606+00:00"
   },
@@ -954,10 +789,8 @@
     "summary": "Un rapport de l’Office anti-fraude de l’Union européenne, transmis il y a un mois à la justice française, accuse la candidate du Rassemblement national d’avoir personnellement détourné près de 140 00…",
     "thumbnail": "thumbnails/u4xckr.webp",
     "tags": [
-      "Marine le Pen",
-      "Office",
-      "Union",
-      "Rassemblement"
+      "Justice",
+      "Marine Le Pen"
     ],
     "analyzed_at": "2026-11-01T10:17:18.334711+00:00"
   },
@@ -979,10 +812,7 @@
     "summary": "L'entrée de l'Institut d'études politiques de Paris était bloquée ce jeudi 14 avril par des étudiants qui protestaient contre la montée de l'extrême droite. En milieu d'après-midi, des militants identitaires sont intervenus pour déloger les occupants.",
     "thumbnail": "thumbnails/u4te6y.webp",
     "tags": [
-      "Sciences Po",
-      "Paris",
-      "Institut",
-      "Société"
+      "Extrême droite"
     ],
     "analyzed_at": "2026-11-01T10:17:17.980288+00:00"
   },
@@ -1004,11 +834,7 @@
     "summary": "Le responsable de la sécurité du Mondial 2022 a indiqué que les supporters LGBT devront éviter de manifester des signes de leur appartenance",
     "thumbnail": "thumbnails/u46wgg.webp",
     "tags": [
-      "LGBT",
-      "Qatar",
-      "CM 2022",
-      "Mondial 2022",
-      "Sport"
+      "LGBT+"
     ],
     "analyzed_at": "2026-11-01T10:17:17.882180+00:00"
   },
@@ -1031,34 +857,10 @@
     "thumbnail": "thumbnails/u44mpa.webp",
     "tags": [
       "Emmanuel Macron",
-      "Vaucluse",
-      "Emmanuel Macron et Marine le Pen",
-      "Rassemblement"
+      "Violences sexuelles",
+      "Marine Le Pen"
     ],
     "analyzed_at": "2026-11-01T10:17:17.764298+00:00"
-  },
-  {
-    "id": "u3eqnr",
-    "title": "OK, je vais essayer de meta tout le monde d'accord",
-    "url": "https://www.avcesar.com/source/actualites/00/00/8B/FC/maison-pour-chats-stranger-things_prev_01232334.jpg",
-    "permalink": "/r/france/comments/u3eqnr/ok_je_vais_essayer_de_meta_tout_le_monde_daccord/",
-    "created_at": "2022-04-14T10:55:28+00:00",
-    "score": 381,
-    "num_comments": 11,
-    "subreddit": "france",
-    "author": "backtolurk",
-    "flair": "Méta",
-    "domain": "avcesar.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/Lyf0krH47hAjz-Yfh3a3N-VGQ4FAdDbJ-kip2RY4AII.jpg?auto=webp&s=5504924be5061ac1aaa5ffe03b55e3591e12d67d",
-    "ingested_at": "2026-11-01T10:09:00.835645+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/u3eqnr.webp",
-    "tags": [
-      "OK",
-      "Méta"
-    ],
-    "analyzed_at": "2026-11-01T10:17:17.823712+00:00"
   },
   {
     "id": "u3cap3",
@@ -1078,10 +880,7 @@
     "summary": "Un très joli coup pas dans l'eau. Grosse agitation sur le front ukrainien dans la soirée du 13 avril et, une fois n'est (presque) pas coutume, sur les…",
     "thumbnail": "thumbnails/u3cap3.webp",
     "tags": [
-      "Moskva",
-      "Noire",
-      "Russian",
-      "Neptune"
+      "Guerre en Ukraine"
     ],
     "analyzed_at": "2026-11-01T10:17:17.844428+00:00"
   },
@@ -1103,10 +902,7 @@
     "summary": "Ce 10 avril, au terme d’une opération menée depuis plusieurs mois, le contre-espionnage a arrêté en flagrant délit un espion russe sous couverture. Avec cinq autres agents de Moscou opérant clandestinement en France, il a été prié de quitter le territoire dans les trois jours.",
     "thumbnail": "thumbnails/u2p05w.webp",
     "tags": [
-      "Moscou",
-      "Poutine",
-      "DGSI",
-      "Russie"
+      "Vladimir Poutine"
     ],
     "analyzed_at": "2026-11-01T10:17:18.074105+00:00"
   },
@@ -1128,9 +924,8 @@
     "summary": "",
     "thumbnail": "thumbnails/u2l7j1.webp",
     "tags": [
-      "Nikolaï Sarkisov",
       "Nicolas Sarkozy",
-      "Politique"
+      "Corruption"
     ],
     "analyzed_at": "2026-11-01T10:17:19.628688+00:00"
   },
@@ -1152,8 +947,7 @@
     "summary": "",
     "thumbnail": "thumbnails/u2ky4u.webp",
     "tags": [
-      "Républicains",
-      "Politique"
+      "Élections"
     ],
     "analyzed_at": "2026-11-01T10:17:21.179236+00:00"
   },
@@ -1175,60 +969,11 @@
     "summary": "",
     "thumbnail": "thumbnails/u2koj4.webp",
     "tags": [
-      "Marine le Pen",
-      "Parlement et le Conseil",
-      "Politique"
+      "Marine Le Pen",
+      "Institutions",
+      "Élection présidentielle"
     ],
     "analyzed_at": "2026-11-01T10:17:18.118877+00:00"
-  },
-  {
-    "id": "u25ewg",
-    "title": "Un soldat russe arrêté après le viol d'un bébé : l'escalade de l'horreur en Ukraine",
-    "url": "https://www.terrafemina.com/article/ukraine-un-soldat-russe-arrete-apres-le-viol-d-un-bebe-de-14-mois_a363438/1",
-    "permalink": "/r/france/comments/u25ewg/un_soldat_russe_arrêté_après_le_viol_dun_bébé/",
-    "created_at": "2022-04-12T18:08:01+00:00",
-    "score": 239,
-    "num_comments": 149,
-    "subreddit": "france",
-    "author": "popey123",
-    "flair": "Actus",
-    "domain": "terrafemina.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/V308Bv2OEzHtil0ba-NhedzIRhMo5XUDSpBU4guhqFo.jpg?auto=webp&s=8026b6b488deaced3c890c8b2118ad95d5e2e367",
-    "ingested_at": "2026-11-01T10:09:00.836605+00:00",
-    "summary": "Les horreurs de guerre se poursuivent en Ukraine. Un soldat russe aurait violé un bébé de quatorze mois et filmé la scène. Il a été arrêté.",
-    "thumbnail": "thumbnails/u25ewg.webp",
-    "tags": [
-      "Ukraine",
-      "Société"
-    ],
-    "analyzed_at": "2026-11-01T10:17:18.395323+00:00"
-  },
-  {
-    "id": "u201p1",
-    "title": "Le programme énergétique de Marine Le Pen : tout pour les énergies fossiles, rien pour le climat",
-    "url": "https://tnova.fr/ecologie/transition-energetique/le-programme-energetique-de-marine-le-pen-tout-pour-les-energies-fossiles-rien-pour-le-climat/",
-    "permalink": "/r/france/comments/u201p1/le_programme_énergétique_de_marine_le_pen_tout/",
-    "created_at": "2022-04-12T14:11:39+00:00",
-    "score": 242,
-    "num_comments": 54,
-    "subreddit": "france",
-    "author": "ArkaonGP",
-    "flair": "Politique",
-    "domain": "tnova.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/6XH70kqgECX7-fRu55dj2FhgyjLVzIsHKGxj9oYdGxw.png?auto=webp&s=76c347b27bcaf3088abecef5d22e348daca02f59",
-    "ingested_at": "2026-11-01T10:09:00.836581+00:00",
-    "summary": "La crise énergétique et la publication du sixième rapport du GIEC placent les enjeux de l’énergie et du climat sur le devant de la scène politique. La « fin du mois » se rapproche désormais de la « fin du monde », ces deux problèmes ayant pour point commun la même racine : notre addiction aux énergies fossiles.",
-    "thumbnail": "thumbnails/u201p1.webp",
-    "tags": [
-      "Marine le Pen",
-      "GIEC",
-      "EPR",
-      "RN",
-      "Politique"
-    ],
-    "analyzed_at": "2026-11-01T10:17:19.047120+00:00"
   },
   {
     "id": "u1sz6q",
@@ -1248,11 +993,10 @@
     "summary": "TÉMOIGNAGES - Près d'un quart des électeurs de Mélenchon disent préférer la candidate du RN. Pour «faire barrage», «créer le débat» ou choisir le «moins pire»... ils ont expliqué au Figaro leur choix.",
     "thumbnail": "thumbnails/u1sz6q.webp",
     "tags": [
-      "Marine le Pen",
-      "Jean-Luc Mélenchon",
       "Emmanuel Macron",
-      "Macron",
-      "Politique"
+      "Jean-Luc Mélenchon",
+      "Marine Le Pen",
+      "Élection présidentielle"
     ],
     "analyzed_at": "2026-11-01T10:17:19.424649+00:00"
   },
@@ -1275,10 +1019,9 @@
     "thumbnail": "thumbnails/u1sf34.webp",
     "tags": [
       "Jean Lassalle",
-      "Valérie Pécresse",
+      "Élection présidentielle",
       "Anne Hidalgo",
-      "PS",
-      "Politique"
+      "Valérie Pécresse"
     ],
     "analyzed_at": "2026-11-01T10:17:19.061921+00:00"
   },
@@ -1300,11 +1043,7 @@
     "summary": "Les permanences d’Europe Ecologie les Verts (EELV) et du Parti communiste (PCF) à Nantes ont été taguées du mot «traîtres». Les deux partis",
     "thumbnail": "thumbnails/u1gmpm.webp",
     "tags": [
-      "Nantes",
-      "PCF",
-      "Lille",
-      "EELV et du PCF",
-      "Elections"
+      "Élections"
     ],
     "analyzed_at": "2026-11-01T10:17:18.808831+00:00"
   },
@@ -1328,8 +1067,7 @@
     "tags": [
       "Jean-Luc Mélenchon",
       "Emmanuel Macron",
-      "Elabe",
-      "Politique"
+      "Élection présidentielle"
     ],
     "analyzed_at": "2026-11-01T10:17:18.671477+00:00"
   },
@@ -1351,9 +1089,7 @@
     "summary": "VIDÉO - Au lendemain du premier tour de la présidentielle, Valérie Pécresse, qui a recueilli moins de 5% des suffrages, a déclaré ce lundi depuis le siège des Républicains être personnellement endettée \"à hauteur de 5 millions d'euros\" après cette campagne présidentielle. \"La situation financière de ma...",
     "thumbnail": "thumbnails/u12xsi.webp",
     "tags": [
-      "Valérie Pécresse",
-      "Républicains",
-      "Politique"
+      "Valérie Pécresse"
     ],
     "analyzed_at": "2026-11-01T10:17:19.022350+00:00"
   },
@@ -1375,8 +1111,7 @@
     "summary": "",
     "thumbnail": "thumbnails/u0doze.webp",
     "tags": [
-      "Ukraine",
-      "Shell"
+      "Guerre en Ukraine"
     ],
     "analyzed_at": "2026-11-01T10:17:24.816763+00:00"
   },
@@ -1397,13 +1132,7 @@
     "ingested_at": "2026-11-01T10:09:00.836903+00:00",
     "summary": "La haine des sédentaires envers les peuples nomades n’est pas nouvelle. Mais vous avez récemment publié une étude sur l’anti-tsiganisme en ligne. En quoi, les propos tenus sur Internet sont-ils particulièrement inquiétants ?",
     "thumbnail": "thumbnails/u0dd8c.webp",
-    "tags": [
-      "Roms",
-      "Charlie Hebdo",
-      "William Acker",
-      "Twitter",
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:17:20.383157+00:00"
   },
   {
@@ -1423,38 +1152,8 @@
     "ingested_at": "2026-11-01T10:09:00.835996+00:00",
     "summary": "L’armée malienne, assistée de forces qui seraient liées au groupe de sécurité privé Wagner, est accusée d’un massacre à Moura, « le pire épisode d’atrocités » commises depuis dix ans dans le pays selon un rapport d’Human Rights Watch. Entretien avec Corinne Dufka, directrice chargée du Sahel au sein de l’ONG.",
     "thumbnail": "thumbnails/tzonmh.webp",
-    "tags": [
-      "Mali",
-      "Wagner",
-      "Moura",
-      "Human Rights Watch",
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:17:20.655074+00:00"
-  },
-  {
-    "id": "tzi0qx",
-    "title": "Si vous recevez ou avez reçu un SMS/mail/appel non sollicité de propagande électorale, n'hésitez pas à le signaler à la CNIL via ce lien. Si c'était après ce vendredi à 23h59 c'est encore plus grave",
-    "url": "https://demarche.services.cnil.fr/signalement-elections",
-    "permalink": "/r/france/comments/tzi0qx/si_vous_recevez_ou_avez_reçu_un_smsmailappel_non/",
-    "created_at": "2022-04-09T01:07:11+00:00",
-    "score": 182,
-    "num_comments": 14,
-    "subreddit": "france",
-    "author": "bafulationPrematuree",
-    "flair": "Elections",
-    "domain": "demarche.services.cnil.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://a.thumbs.redditmedia.com/7TR3_BjE0pHrogvtw5SP7hyNgOhJEoHmTFc6FB3PnL0.jpg",
-    "ingested_at": "2026-11-01T10:09:00.836879+00:00",
-    "summary": "Pour des élections respectueuses des données personnelles, la CNIL renseigne les électeurs et accompagne les partis et les candidats.",
-    "thumbnail": "thumbnails/tzi0qx.webp",
-    "tags": [
-      "CNIL",
-      "SMS",
-      "Elections"
-    ],
-    "analyzed_at": "2026-11-01T10:17:19.560756+00:00"
   },
   {
     "id": "tz0epi",
@@ -1474,7 +1173,7 @@
     "summary": "",
     "thumbnail": "",
     "tags": [
-      "Elections"
+      "Élections"
     ],
     "analyzed_at": "2026-11-01T10:17:20.679681+00:00"
   },
@@ -1496,11 +1195,8 @@
     "summary": "Alors que le président Zelensky a dénoncé un «mal sans limite», la Russie a nié et accusé Kiev d'avoir délibérément tiré sur la gare bondée pour empêcher les civils ukrainiens de fuir.",
     "thumbnail": "thumbnails/tyzp0d.webp",
     "tags": [
-      "Ukraine",
-      "Kramatorsk",
-      "Russie",
-      "Kiev",
-      "guerre en Ukraine"
+      "Guerre en Ukraine",
+      "Volodymyr Zelensky"
     ],
     "analyzed_at": "2026-11-01T10:17:20.675874+00:00"
   },
@@ -1523,10 +1219,7 @@
     "thumbnail": "thumbnails/ty8nu7.webp",
     "tags": [
       "Nicolas Dupont-Aignan",
-      "Didier Raoult",
-      "Santé",
-      "Rouen",
-      "Politique"
+      "Élection présidentielle"
     ],
     "analyzed_at": "2026-11-01T10:17:20.003511+00:00"
   },
@@ -1548,8 +1241,7 @@
     "summary": "",
     "thumbnail": "thumbnails/ty6mlh.webp",
     "tags": [
-      "Afghane",
-      "Société"
+      "Éducation"
     ],
     "analyzed_at": "2026-11-01T10:17:21.077370+00:00"
   },
@@ -1570,9 +1262,7 @@
     "ingested_at": "2026-11-01T10:09:00.835265+00:00",
     "summary": "En décembre 2020, Guy avait battu le record de gains en France à l'EuroMillions. Il a utilisé une grande partie de sa cagnotte pour créer sa fondation, dédiée à la protection de l'environnement.",
     "thumbnail": "thumbnails/txh482.webp",
-    "tags": [
-      "EuroMillions"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:17:20.651239+00:00"
   },
   {
@@ -1592,10 +1282,7 @@
     "ingested_at": "2026-11-01T10:09:00.835372+00:00",
     "summary": "",
     "thumbnail": "thumbnails/txdort.webp",
-    "tags": [
-      "Royaume-Uni",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:17:22.729593+00:00"
   },
   {
@@ -1615,9 +1302,7 @@
     "ingested_at": "2026-11-01T10:09:00.836377+00:00",
     "summary": "",
     "thumbnail": "thumbnails/twt4mx.webp",
-    "tags": [
-      "Buitoni"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:17:22.264866+00:00"
   },
   {
@@ -1638,11 +1323,7 @@
     "summary": "REPORTAGE - Boutcha, Irpin et Hostomel, au nord de Kiev, épicentres des exactions de l’armée russe.",
     "thumbnail": "thumbnails/twrm42.webp",
     "tags": [
-      "Kiev",
-      "Europe",
-      "Russie",
-      "Tchétchénie",
-      "Ukraine"
+      "Guerre en Ukraine"
     ],
     "analyzed_at": "2026-11-01T10:17:21.708524+00:00"
   },
@@ -1664,36 +1345,10 @@
     "summary": "Patrick et Isabelle Balkany sont soupçonnés d’avoir diffusé un photomontage sexuel d’un opposant politique à la mairie de Levallois-Perret pour nuire à son image",
     "thumbnail": "thumbnails/twq7dl.webp",
     "tags": [
-      "Balkany",
-      "Isabelle Balkany",
-      "Levallois-Perret",
-      "Thématiques",
-      "Home"
+      "Patrick Balkany",
+      "Justice"
     ],
     "analyzed_at": "2026-11-01T10:17:21.134428+00:00"
-  },
-  {
-    "id": "twoo7t",
-    "title": "Sondage du 2e tour: Macron 51.5%, Le Pen 48.5%, marge d'erreur: 2.3%",
-    "url": "http://www.commission-des-sondages.fr/notices/files/notices/2022/mars/9540-harris-interactive-challenges-v40-le-4-avril.pdf",
-    "permalink": "/r/france/comments/twoo7t/sondage_du_2e_tour_macron_515_le_pen_485_marge/",
-    "created_at": "2022-04-05T06:42:25+00:00",
-    "score": 351,
-    "num_comments": 987,
-    "subreddit": "france",
-    "author": "keepthepace",
-    "flair": "Politique",
-    "domain": "commission-des-sondages.fr",
-    "selftext": "",
-    "reddit_thumbnail": "",
-    "ingested_at": "2026-11-01T10:09:00.835754+00:00",
-    "summary": "",
-    "thumbnail": "",
-    "tags": [
-      "Pen 48",
-      "Politique"
-    ],
-    "analyzed_at": "2026-11-01T10:17:21.189329+00:00"
   },
   {
     "id": "tw8k1q",
@@ -1713,11 +1368,8 @@
     "summary": "SONDAGE EXCLUSIF - Trois points seulement séparent le chef de l'Etat de la cheffe de file du Rassemblement national dans notre sondage Harris Interactive, tous deux dans la marge d'erreur. L'issue de l'élection présidentielle apparaît plus incertaine que jamais.",
     "thumbnail": "thumbnails/tw8k1q.webp",
     "tags": [
-      "Marine le Pen",
-      "Pen et Macron",
       "Emmanuel Macron",
-      "Rassemblement",
-      "Politique"
+      "Marine Le Pen"
     ],
     "analyzed_at": "2026-11-01T10:17:21.661381+00:00"
   },
@@ -1739,8 +1391,7 @@
     "summary": "",
     "thumbnail": "thumbnails/tw4k3q.webp",
     "tags": [
-      "GIEC",
-      "Écologie"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T10:17:21.670155+00:00"
   },
@@ -1762,11 +1413,8 @@
     "summary": "Depuis le début de la guerre en Ukraine, Marine Le Pen assure qu’elle a toujours défendu une ligne « à équidistance » des États-Unis et de la Russie. En réalité, dès son arrivée à la tête du FN en 20…",
     "thumbnail": "thumbnails/tvcq91.webp",
     "tags": [
-      "Pen-Poutine",
-      "RN",
-      "Ukraine",
-      "Marine le Pen",
-      "Politique"
+      "Guerre en Ukraine",
+      "Marine Le Pen"
     ],
     "analyzed_at": "2026-11-01T10:17:22.211706+00:00"
   },
@@ -1788,31 +1436,11 @@
     "summary": "",
     "thumbnail": "thumbnails/tv9hm5.webp",
     "tags": [
-      "Elections"
+      "Élections",
+      "Police",
+      "Élection présidentielle"
     ],
     "analyzed_at": "2026-11-01T10:17:22.834445+00:00"
-  },
-  {
-    "id": "tv5hxo",
-    "title": "L’Inrae recommande de passer à trois repas végés par semaine dans les cantines scolaires",
-    "url": "https://positivr.fr/linrae-recommande-de-passer-a-trois-repas-veges-par-semaine-dans-les-cantines-scolaires/",
-    "permalink": "/r/france/comments/tv5hxo/linrae_recommande_de_passer_à_trois_repas_végés/",
-    "created_at": "2022-04-03T09:32:15+00:00",
-    "score": 430,
-    "num_comments": 248,
-    "subreddit": "france",
-    "author": "wisi_eu",
-    "flair": "Écologie",
-    "domain": "positivr.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/EO3TJWmKgJD45kxQUxMH7WTM8xQj7x1rnALTYLaEGiQ.jpg?auto=webp&s=dbf7dfa579a00defe1f115fd162414dd80b73c7c",
-    "ingested_at": "2026-11-01T10:09:00.835499+00:00",
-    "summary": "Des chercheuses ont créé un modèle mathématique précis pour établir des menus capables de concilier écologie et équilibre nutritionnel.",
-    "thumbnail": "thumbnails/tv5hxo.webp",
-    "tags": [
-      "Écologie"
-    ],
-    "analyzed_at": "2026-11-01T10:17:25.545389+00:00"
   },
   {
     "id": "tuxfqm",
@@ -1832,11 +1460,10 @@
     "summary": "La candidate du Rassemblement national estime qu’il faut faire avec la Russie, qui peut être un partenaire notamment sur le plan de la lutte",
     "thumbnail": "thumbnails/tuxfqm.webp",
     "tags": [
-      "Ukraine",
-      "Marine le Pen",
-      "Russie",
-      "Rassemblement",
-      "Elections"
+      "Guerre en Ukraine",
+      "Élections",
+      "Marine Le Pen",
+      "Vladimir Poutine"
     ],
     "analyzed_at": "2026-11-01T10:17:22.086230+00:00"
   },
@@ -1858,11 +1485,7 @@
     "summary": "A l'Arena de Nanterre, Emmanuel Macron a repris à son compte la fameuse phrase d'Olivier Besancenot (NPA) \"Nos vies valent plus que leurs profits\" pour évoquer la situation dans les Ehpad. Il a aussi annoncé une...",
     "thumbnail": "thumbnails/tulsz7.webp",
     "tags": [
-      "Emmanuel Macron",
-      "Olivier Besancenot",
-      "Arena",
-      "NPA",
-      "Politique"
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T10:17:25.124240+00:00"
   },
@@ -1883,12 +1506,7 @@
     "ingested_at": "2026-11-01T10:09:00.837004+00:00",
     "summary": "L’année dernière, le Premier ministre australien avait déchiré un contrat avec Naval Group, un groupe français, pour l’acquisition de sous-m",
     "thumbnail": "thumbnails/tuigm2.webp",
-    "tags": [
-      "Parisien",
-      "Naval Group",
-      "Premier",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:17:22.472839+00:00"
   },
   {
@@ -1909,11 +1527,7 @@
     "summary": "VU DANS LA PRESSE - Après avoir attendu plus de 12 heures aux urgences sans être pris en charge, un patient est décédé à l'hôpital de Strasbourg.",
     "thumbnail": "thumbnails/ttmzcd.webp",
     "tags": [
-      "Strasbourg",
-      "Faits Divers",
-      "Hôpitaux",
-      "VU",
-      "PRESSE"
+      "Santé"
     ],
     "analyzed_at": "2026-11-01T10:17:22.879396+00:00"
   },
@@ -1934,10 +1548,7 @@
     "ingested_at": "2026-11-01T10:09:00.835784+00:00",
     "summary": "Creuser des tranchées dans la Forêt rousse n'était pas la meilleure des idées. Le 31 mars, après plus d'un mois d'une occupation doublée d'une…",
     "thumbnail": "thumbnails/ttme5u.webp",
-    "tags": [
-      "Tchernobyl",
-      "Forêt"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:17:22.579862+00:00"
   }
 ]

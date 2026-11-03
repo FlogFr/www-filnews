@@ -16,13 +16,7 @@
     "ingested_at": "2026-11-01T10:13:28.346308+00:00",
     "summary": "Le baiser qu'elle avait échangé avec le capitaine Kirk en 1968 fut le premier de la télévision américaine entre un Blanc et un Afro-Américain.",
     "thumbnail": "thumbnails/wd0fum.webp",
-    "tags": [
-      "Star Trek",
-      "Nichelle Nichols",
-      "Kirk",
-      "Blanc",
-      "Afro-Américain"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:16:30.153055+00:00"
   },
   {
@@ -46,31 +40,6 @@
     "analyzed_at": "2026-11-01T10:16:29.756422+00:00"
   },
   {
-    "id": "wcjczf",
-    "title": "Pour 15 minutes de défilé dans le désert, quand Yves Saint-Laurent montre la voie de la sobriété écologique.",
-    "url": "https://www.lemondemoderne.media/pour-15-minutes-de-defile-dans-le-desert-quand-yves-saint-laurent-montre-la-voie-de-la-sobriete-ecologique/",
-    "permalink": "/r/france/comments/wcjczf/pour_15_minutes_de_défilé_dans_le_désert_quand/",
-    "created_at": "2022-07-31T07:50:50+00:00",
-    "score": 477,
-    "num_comments": 159,
-    "subreddit": "france",
-    "author": "Pichenette",
-    "flair": "Écologie",
-    "domain": "lemondemoderne.media",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/a_t9cyy-M2KjSw7YeVbAZnOGLv5vasDiYXY87TiYuyM.jpg?auto=webp&s=80915bb68ea1a1b57befc5f9a7ab4ae9fdb3f96a",
-    "ingested_at": "2026-11-01T10:13:28.344845+00:00",
-    "summary": "Dans le désert marocain d'Agafay, Kering a organisé un show hors normes pour le défilé de la nouvelle collection Yves",
-    "thumbnail": "thumbnails/wcjczf.webp",
-    "tags": [
-      "Yves Saint-Laurent",
-      "Agafay",
-      "Yves",
-      "Écologie"
-    ],
-    "analyzed_at": "2026-11-01T10:16:33.917699+00:00"
-  },
-  {
     "id": "wbzzcx",
     "title": "Après de nombreuses agressions, SOS Médecins n'interviendra plus dans ces zones de Lyon",
     "url": "https://actu.fr/auvergne-rhone-alpes/lyon_69123/apres-de-nombreuses-agressions-sos-medecins-n-interviendra-plus-dans-ces-zones-de-lyon_52809111.html",
@@ -88,10 +57,7 @@
     "summary": "Suite à de nombreux incidents, le service SOS Médecins de Lyon a décidé d'exercer son droit de retrait de plusieurs zones de la métropole.",
     "thumbnail": "thumbnails/wbzzcx.webp",
     "tags": [
-      "SOS Médecins",
-      "Lyon",
-      "SOS Médecins de Lyon",
-      "Société"
+      "Santé"
     ],
     "analyzed_at": "2026-11-01T10:16:30.109271+00:00"
   },
@@ -113,36 +79,9 @@
     "summary": "La fronde contre les paquebots géants, très polluants et énormes consommateurs d’énergie, gagne la cité phocéenne. Les habitants des quartiers nord, qui vivent avec ces mastodontes amarrés sous leurs fenêtres, organisent la résistance.",
     "thumbnail": "thumbnails/wbrbav.webp",
     "tags": [
-      "Marseille",
-      "Écologie"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T10:16:30.134736+00:00"
-  },
-  {
-    "id": "wbbfdv",
-    "title": "Une médecin autrichienne, la Dr. Kellermayr, s'est suicidée ce matin suite au harcèlement incessant des antivaxx, sans que la police ou les politiques n'interviennent",
-    "url": "https://www.focus.de/panorama/welt/tragoedie-in-oesterreich-bedrohte-impf-aerztin-tot-in-ihrer-praxis-aufgefunden_id_125589531.html",
-    "permalink": "/r/france/comments/wbbfdv/une_médecin_autrichienne_la_dr_kellermayr_sest/",
-    "created_at": "2022-07-29T17:59:04+00:00",
-    "score": 295,
-    "num_comments": 33,
-    "subreddit": "france",
-    "author": "BeautifulOk6158",
-    "flair": "Covid-19",
-    "domain": "focus.de",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/7OmufVFJy0jcXBzof15PAfsSc_jHIJ5xSM-0MKaXCkM.jpeg?auto=webp&s=270e9f017cc11db3526c1368ce526cdfc3334f63",
-    "ingested_at": "2026-11-01T10:13:28.345584+00:00",
-    "summary": "Impf-Ärztin Lisa-Maria Kellermayr wurde monatelang von Impfgegnern mit dem Tode bedroht. Nun wurde die Ärztin aus Seewalchen in Österreich tot in ihrer Praxis aufgefunden. Die Ermittler schließen ein Fremdverschulden aus.",
-    "thumbnail": "thumbnails/wbbfdv.webp",
-    "tags": [
-      "Dr",
-      "Praxis",
-      "Fremdverschulden",
-      "Impfgegnern",
-      "Covid-19"
-    ],
-    "analyzed_at": "2026-11-01T10:16:35.751696+00:00"
   },
   {
     "id": "wb6qhi",
@@ -162,39 +101,11 @@
     "summary": "Interrogé à l'issue du Conseil des ministres, Olivier Véran a reconnu la faute et a encouragé les journalistes et citoyens à continuer à noter les écarts de conduite des ministères. \"C'est ça qui accélérera nos changements de comportements\", promet-il.",
     "thumbnail": "thumbnails/wb6qhi.webp",
     "tags": [
-      "Elysée",
+      "Énergie",
       "Olivier Véran",
-      "Energie",
-      "Gouvernement d'Elisabeth Borne",
-      "Éco / Conso"
+      "Élisabeth Borne"
     ],
     "analyzed_at": "2026-11-01T10:16:30.921618+00:00"
-  },
-  {
-    "id": "wazt9v",
-    "title": "Les 10 célébrités qui polluent le plus. Top 1 : Taylor Swift avec 8293,54 tonnes de Co2 grâce à ses nombreux voyages en jet privé",
-    "url": "https://thetab.com/uk/2022/07/25/celebrity-private-jets-carbon-emissions-climate-change-263281",
-    "permalink": "/r/france/comments/wazt9v/les_10_célébrités_qui_polluent_le_plus_top_1/",
-    "created_at": "2022-07-29T09:01:29+00:00",
-    "score": 358,
-    "num_comments": 143,
-    "subreddit": "france",
-    "author": "BigBess7",
-    "flair": "Écologie",
-    "domain": "thetab.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/36zJU_6WbZq9vXJBI9v3NB8xXjANsW4Iiqs206iuaYc.png?auto=webp&s=0d9a917b1e458d98fce07caa75d5c989639f951b",
-    "ingested_at": "2026-11-01T10:13:28.345252+00:00",
-    "summary": "We all like going on holiday as much as the next person, jetting off to somewhere with a warmer climate to relax in the sun, and celebrities are no different. What we are all united in, is hating flying economy.",
-    "thumbnail": "thumbnails/wazt9v.webp",
-    "tags": [
-      "Taylor Swift",
-      "Kylie Jenner",
-      "Instagram",
-      "American",
-      "Écologie"
-    ],
-    "analyzed_at": "2026-11-01T10:16:30.930545+00:00"
   },
   {
     "id": "wafkky",
@@ -213,12 +124,7 @@
     "ingested_at": "2026-11-01T10:13:28.345985+00:00",
     "summary": "Sa voiture avait été repérée sur les lieux de départ de plusieurs feux, survenus à Saint-Jean-de-la-Blaquière, près de Montpellier (Hérault).",
     "thumbnail": "thumbnails/wafkky.webp",
-    "tags": [
-      "Hérault",
-      "Saint-Jean-de-la-Blaquière",
-      "Montpellier",
-      "Faits-divers"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:16:30.511828+00:00"
   },
   {
@@ -239,11 +145,8 @@
     "summary": "La Première ministre ferme la porte à une taxe sur les \"superprofits\", alors que TotalEnergies et LVMH enregistrent un bond de leur bénéfices.",
     "thumbnail": "thumbnails/wadpzo.webp",
     "tags": [
-      "Elisabeth Borne",
-      "Français",
-      "Première",
-      "TotalEnergies et LVMH",
-      "Économie"
+      "Élisabeth Borne",
+      "Budget et fiscalité"
     ],
     "analyzed_at": "2026-11-01T10:16:30.929437+00:00"
   },
@@ -265,33 +168,9 @@
     "summary": "TotalEnergies annonce de nouveaux superprofits records : plus de 17,7 milliards d'euros pour le premier semestre 2022. En parallèle, le groupe n'a pas payé d'impôts en France en 2020 et 2021. Une pratique habituelle chez ce géant de l'énergie.",
     "thumbnail": "thumbnails/wa7oge.webp",
     "tags": [
-      "TotalEnergies",
-      "Économie"
+      "Budget et fiscalité"
     ],
     "analyzed_at": "2026-11-01T10:16:31.137934+00:00"
-  },
-  {
-    "id": "w9dk37",
-    "title": "Didier Lallement lance 2 grenades lacrymogènes afin de faire pleurer ses collègues lors de son pot de départ",
-    "url": "https://www.legorafi.fr/2022/07/27/didier-lallement-lance-2-grenades-lacrymogenes-afin-de-faire-pleurer-ses-collegues-lors-de-son-pot-de-depart/",
-    "permalink": "/r/france/comments/w9dk37/didier_lallement_lance_2_grenades_lacrymogènes/",
-    "created_at": "2022-07-27T12:32:01+00:00",
-    "score": 881,
-    "num_comments": 31,
-    "subreddit": "france",
-    "author": "sitarane",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/OGlVxfy_3mxsKsx8rK9_O0yVoJDb2DX9U5eYP6n7yjw.jpeg?auto=webp&s=b75892294c171125ac71e2efaf89c7192aa1e9dc",
-    "ingested_at": "2026-11-01T10:13:28.344228+00:00",
-    "summary": "A sa manière, le préfet de police a rendu un vibrant hommage à ses équipes qui l’ont accompagné durant toutes ces années.",
-    "thumbnail": "thumbnails/w9dk37.webp",
-    "tags": [
-      "Didier Lallement",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T10:16:31.215714+00:00"
   },
   {
     "id": "w9a1tv",
@@ -310,37 +189,8 @@
     "ingested_at": "2026-11-01T10:13:28.345910+00:00",
     "summary": "[VIDÉO] Les itinéraires de contournement proposés par les GPS en cas d'embouteillages font passer des automobilistes par des petites routes de campagne. Mais les riverains qui y vivent sont excédés par cette circulation.",
     "thumbnail": "thumbnails/w9a1tv.webp",
-    "tags": [
-      "Waze",
-      "GPS",
-      "Le 13H",
-      "Auto",
-      "vidéo Nouvelles technologies"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:16:31.589912+00:00"
-  },
-  {
-    "id": "w8rhjl",
-    "title": "Un adulte sur cinq ne veut pas d'enfants et la décision est prise tôt dans la vie.",
-    "url": "https://www.futurity.org/adults-dont-want-children-childfree-2772742/",
-    "permalink": "/r/france/comments/w8rhjl/un_adulte_sur_cinq_ne_veut_pas_denfants_et_la/",
-    "created_at": "2022-07-26T18:40:27+00:00",
-    "score": 520,
-    "num_comments": 543,
-    "subreddit": "france",
-    "author": "Jo_le_Gabbro",
-    "flair": "Science",
-    "domain": "futurity.org",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/PLvD9kmLWuARN1HIDGSEGCddxxXP1GLE4Sd7L57JiRk.jpeg?auto=webp&s=bdada918e96698ba95cfa1a90602f92d0a733a16",
-    "ingested_at": "2026-11-01T10:13:28.344665+00:00",
-    "summary": "A new study in Michigan found a large number of adults deciding they want to be childfree. It also shows that they made that choice in early adulthood.",
-    "thumbnail": "thumbnails/w8rhjl.webp",
-    "tags": [
-      "Michigan",
-      "Science"
-    ],
-    "analyzed_at": "2026-11-01T10:16:32.085123+00:00"
   },
   {
     "id": "w8e4g7",
@@ -360,9 +210,7 @@
     "summary": "",
     "thumbnail": "thumbnails/w8e4g7.webp",
     "tags": [
-      "Gérald Darmanin",
-      "Etat",
-      "Politique"
+      "Gérald Darmanin"
     ],
     "analyzed_at": "2026-11-01T10:16:31.762940+00:00"
   },
@@ -383,12 +231,7 @@
     "ingested_at": "2026-11-01T10:13:28.344417+00:00",
     "summary": "La nouvelle mesure, entrée en vigueur à Paris ce lundi, ne passe pas très bien auprès des commerçants. Certains s'inquiètent des conséquences que cela aura sur leur activité, d'autres n'étaient tout simplement pas au courant.",
     "thumbnail": "thumbnails/w8dz8l.webp",
-    "tags": [
-      "Paris",
-      "Crise climatique",
-      "Energie",
-      "Éco / Conso"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:16:31.668890+00:00"
   },
   {
@@ -408,13 +251,7 @@
     "ingested_at": "2026-11-01T10:13:28.345066+00:00",
     "summary": "Deux femmes racontent avoir été victimes d’agressions de la part de Samir Elyes, l’un des pionniers du comité Vérité et justice pour Adama. Elles reprochent au collectif mené par Assa Traoré d’avoir …",
     "thumbnail": "thumbnails/w7p34h.webp",
-    "tags": [
-      "Adama Traoré",
-      "Assa Traoré",
-      "Samir Elyes",
-      "Adama",
-      "Vérité"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:16:32.321752+00:00"
   },
   {
@@ -435,38 +272,9 @@
     "summary": "La canicule qui a frappé l'Europe occidentale mi-juillet a causé la mort de plus de 500 personnes en Espagne et de nombreux records de température ont été battus en France, au Royaume-Uni et au Danemark.",
     "thumbnail": "thumbnails/w7je56.webp",
     "tags": [
-      "Europe",
-      "Espagne",
-      "Royaume-Uni",
-      "Danemark",
-      "Politique"
+      "Grèves et syndicats"
     ],
     "analyzed_at": "2026-11-01T10:16:31.996132+00:00"
-  },
-  {
-    "id": "w6uieq",
-    "title": "Deux décennies de recherche sur la maladie d'Alzheimer reposent sur une fraude délibérée de deux scientifiques qui a coûté des milliards de dollars. (Anglais)",
-    "url": "https://wallstreetpro.com/2022/07/23/two-decades-of-alzheimers-research-was-based-on-deliberate-fraud-by-2-scientists-that-has-cost-billions-of-dollars-and-millions-of-lives/",
-    "permalink": "/r/france/comments/w6uieq/deux_décennies_de_recherche_sur_la_maladie/",
-    "created_at": "2022-07-24T12:27:58+00:00",
-    "score": 413,
-    "num_comments": 120,
-    "subreddit": "france",
-    "author": "Samstar01",
-    "flair": "",
-    "domain": "wallstreetpro.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/uaC6po_W3cLFhkgeohaONFZgp2WFSTVwgkJ4eSSDV4Y.jpg?auto=webp&s=fb460262714d4c4050118d5a58f06e038f5f80a8",
-    "ingested_at": "2026-11-01T10:13:28.345017+00:00",
-    "summary": "Last month, drug company Genentech reported on the first clinical trials of the drug crenezumab, a drug targeting amyloid proteins that form",
-    "thumbnail": "thumbnails/w6uieq.webp",
-    "tags": [
-      "Alzheimer",
-      "Genentech",
-      "Healthcare",
-      "Investing"
-    ],
-    "analyzed_at": "2026-11-01T10:16:37.097119+00:00"
   },
   {
     "id": "w6tqx0",
@@ -485,35 +293,8 @@
     "ingested_at": "2026-11-01T10:13:28.344718+00:00",
     "summary": "Selon une enqu&ecirc;te de la Dares, les mauvaises conditions de travail expliquent en grande partie les difficult&eacute;s de recrutement des entreprises,...-social",
     "thumbnail": "thumbnails/w6tqx0.webp",
-    "tags": [
-      "Dares",
-      "Économie"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:16:36.313695+00:00"
-  },
-  {
-    "id": "w6a3vq",
-    "title": "Nouveau nucléaire: le Sénat soutient la construction d'au moins 14 EPR d'ici 2050",
-    "url": "https://m.actu-environnement.com/actualites/nouveau-nucleaire-senat-construction-plus-EPR-2050-40070.html#xtor%3DAL-68",
-    "permalink": "/r/france/comments/w6a3vq/nouveau_nucléaire_le_sénat_soutient_la/",
-    "created_at": "2022-07-23T18:01:44+00:00",
-    "score": 487,
-    "num_comments": 224,
-    "subreddit": "france",
-    "author": "233C",
-    "flair": "Société",
-    "domain": "m.actu-environnement.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/QYtGpIyBxHhICidlZlwWVWHwQVpg8RLsDt346ivj44I.jpg?auto=webp&s=fef50632f31853695056deaf00037220af71291f",
-    "ingested_at": "2026-11-01T10:13:28.344796+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/w6a3vq.webp",
-    "tags": [
-      "Sénat",
-      "EPR",
-      "Société"
-    ],
-    "analyzed_at": "2026-11-01T10:16:34.242803+00:00"
   },
   {
     "id": "w65z58",
@@ -532,10 +313,7 @@
     "ingested_at": "2026-11-01T10:13:28.344640+00:00",
     "summary": "Plusieurs rapports, dont un du Congrès américain, révèlent que l'industrie est aux limites de sa capacité de production pour les besoin de l'US Navy et qu'il sera difficile de répondre à d'autres besoins.",
     "thumbnail": "thumbnails/w65z58.webp",
-    "tags": [
-      "Congrès",
-      "US Navy"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:16:32.349548+00:00"
   },
   {
@@ -556,11 +334,8 @@
     "summary": "Les votes ont été serrés pour rejeter des amendements principalement issus de l'alliance de gauche, la Nupes, et aussi du Rassemblement national.",
     "thumbnail": "thumbnails/w65gys.webp",
     "tags": [
-      "Nupes",
-      "Rassemblement",
-      "Pouvoir d'achat",
-      "Éco / Conso",
-      "Politique"
+      "Budget et fiscalité",
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T10:16:32.685163+00:00"
   },
@@ -581,10 +356,7 @@
     "ingested_at": "2026-11-01T10:13:28.345042+00:00",
     "summary": "",
     "thumbnail": "thumbnails/w5xcya.webp",
-    "tags": [
-      "Panama Papers",
-      "Économie"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:16:32.862707+00:00"
   },
   {
@@ -605,11 +377,7 @@
     "summary": "INFO LE PARISIEN. La Ville de Paris vient de prendre un arrêté ce vendredi, après Bourg-en-Bresse (Ain) et Lyon (Rhône). Dan Lert, adjoint c",
     "thumbnail": "thumbnails/w5ad5s.webp",
     "tags": [
-      "Paris",
-      "Ville de Paris",
-      "Dan Lert",
-      "PARISIEN",
-      "Écologie"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T10:16:33.085796+00:00"
   },
@@ -631,11 +399,7 @@
     "summary": "[VIDÉO] Le député socialiste Jérôme Guedj dénonce ce vendredi un projet de résolution déposé à l'Assemblée Nationale par les communistes, cosigné par des députés LFI, PS et un écologiste.",
     "thumbnail": "thumbnails/w59dxq.webp",
     "tags": [
-      "Israël",
-      "Nupes",
-      "PCF",
-      "Jérôme Guedj",
-      "Assemblée Nationale"
+      "Conflit israélo-palestinien"
     ],
     "analyzed_at": "2026-11-01T10:16:33.881656+00:00"
   },
@@ -657,11 +421,7 @@
     "summary": "Des soignants ont vivement critiqué cet épisode “Les pouvoirs extraordinaires du corps humain”, accusant France 2 de faire la promotion du \"charlatanisme\".",
     "thumbnail": "thumbnails/w4pdph.webp",
     "tags": [
-      "France2",
-      "France 2",
-      "Life",
-      "Bien-être et santé",
-      "Médecine"
+      "Santé"
     ],
     "analyzed_at": "2026-11-01T10:16:33.703709+00:00"
   },
@@ -683,10 +443,7 @@
     "summary": "L'exécutif se prépare à une éventuelle interruption des approvisionnements russes en gaz, qui constituaient jusqu'à l'an dernier 40% des importations européennes.",
     "thumbnail": "thumbnails/w4gb3z.webp",
     "tags": [
-      "Français",
-      "Energie",
-      "Éco / Conso",
-      "Politique"
+      "Énergie"
     ],
     "analyzed_at": "2026-11-01T10:16:34.324338+00:00"
   },
@@ -708,11 +465,10 @@
     "summary": "Demandée par LFI, EELV, le PCF et le PS, la hausse du SMIC à hauteur de 1500 euros nets n'a pas été adoptée par les députés. 257 parlementaires, dont Marine Le Pen ou Aurore Bergé, ont en effet voté contre.",
     "thumbnail": "thumbnails/w48xq6.webp",
     "tags": [
-      "SMIC",
-      "LREM",
-      "Nupes",
-      "LR et le RN",
-      "Politique"
+      "Travail",
+      "Économie",
+      "Aurore Bergé",
+      "Marine Le Pen"
     ],
     "analyzed_at": "2026-11-01T10:16:34.059908+00:00"
   },
@@ -734,7 +490,7 @@
     "summary": "Deux touristes néerlandais qui étaient sur la route d’accès au célèbre château ont été mortellement percutés. Une dispute avec le passager d",
     "thumbnail": "thumbnails/w3fa5v.webp",
     "tags": [
-      "Soft paywall"
+      "Narcotrafic"
     ],
     "analyzed_at": "2026-11-01T10:16:34.456932+00:00"
   },
@@ -756,7 +512,7 @@
     "summary": "",
     "thumbnail": "thumbnails/w3evyk.webp",
     "tags": [
-      "Écologie"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T10:16:34.413925+00:00"
   },
@@ -779,7 +535,7 @@
     "thumbnail": "thumbnails/w2rfw9.webp",
     "tags": [
       "Covid-19",
-      "Académie"
+      "Santé"
     ],
     "analyzed_at": "2026-11-01T10:16:35.226308+00:00"
   },
@@ -804,28 +560,6 @@
     "analyzed_at": "2026-11-01T10:16:34.758965+00:00"
   },
   {
-    "id": "w203be",
-    "title": "La France, c'est simple",
-    "url": "https://genie-alimentaire.com/IMG/jpg/Process_Gal.jpg",
-    "permalink": "/r/france/comments/w203be/la_france_cest_simple/",
-    "created_at": "2022-07-18T14:00:44+00:00",
-    "score": 199,
-    "num_comments": 19,
-    "subreddit": "france",
-    "author": "OPI-OMI",
-    "flair": "Méta",
-    "domain": "genie-alimentaire.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/TktF-Yh5hB6EZ0iD81F_kX-C-G4w1j6Nb0Zv-6zNv5o.jpg?auto=webp&s=90b9fc63ac562d9ba35399a17799b97bb871e27d",
-    "ingested_at": "2026-11-01T10:13:28.346186+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/w203be.webp",
-    "tags": [
-      "Méta"
-    ],
-    "analyzed_at": "2026-11-01T10:16:37.726323+00:00"
-  },
-  {
     "id": "w1yyn5",
     "title": "«J’ai vomi trois fois» : des passagers des RER B et D évacués dans un tunnel entre Gare du Nord et Châtelet",
     "url": "https://www.leparisien.fr/info-paris-ile-de-france-oise/transports/rer-b-et-d-des-trains-bloques-et-evacues-dans-un-tunnel-entre-gare-du-nord-et-chatelet-18-07-2022-I5YPLZ2V6VAO3BA2YHGGYLCGBA.php",
@@ -842,13 +576,7 @@
     "ingested_at": "2026-11-01T10:13:28.346137+00:00",
     "summary": "Des voyageurs se sont retrouvés coincés pendant de longues minutes dans des trains, après le signalement d’une personne sur les voies, selon",
     "thumbnail": "thumbnails/w1yyn5.webp",
-    "tags": [
-      "RER B",
-      "Gare du Nord et Châtelet",
-      "Gare du Nord",
-      "RER",
-      "Fait Divers"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:16:34.726689+00:00"
   },
   {
@@ -868,13 +596,7 @@
     "ingested_at": "2026-11-01T10:13:28.345328+00:00",
     "summary": "Les images stupéfiantes de galaxies formées peu après le Big Bang ont ému l’Observatoire astronomique du Vatican",
     "thumbnail": "thumbnails/w17tin.webp",
-    "tags": [
-      "Vatican",
-      "Dieu",
-      "James Webb",
-      "Observatoire",
-      "Science"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:16:35.110931+00:00"
   },
   {
@@ -895,11 +617,7 @@
     "summary": "Depuis le 10 juillet, la canicule a tué quelque 360 personnes en Espagne, selon l’Institut de Santé Carlos III. Près de 46 % du territoire est touché par des températures excédant les 40 degrés, obligeant…",
     "thumbnail": "thumbnails/w0zxw5.webp",
     "tags": [
-      "Espagne",
-      "Changement climatique",
-      "Catastrophes naturelles",
-      "Climat",
-      "Écologie"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T10:16:35.168211+00:00"
   },
@@ -921,9 +639,8 @@
     "summary": "Ce vendredi 15 juillet, le député Aymeric Caron a dévoilé une réunion de travail en vue d'une proposition de loi pour interdire la corrida.",
     "thumbnail": "thumbnails/w0jla2.webp",
     "tags": [
-      "Nupes Aymeric Caron",
-      "Aymeric Caron",
-      "Société"
+      "Institutions",
+      "Cause animale"
     ],
     "analyzed_at": "2026-11-01T10:16:35.551808+00:00"
   },
@@ -944,9 +661,7 @@
     "ingested_at": "2026-11-01T10:13:28.345759+00:00",
     "summary": "",
     "thumbnail": "thumbnails/w0bqwb.webp",
-    "tags": [
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:16:35.547802+00:00"
   },
   {
@@ -967,11 +682,7 @@
     "summary": "Les policiers impliqués seront suspendus lorsqu'ils auront été identifiés, assure la préfecture de police.",
     "thumbnail": "thumbnails/vztisn.webp",
     "tags": [
-      "Paris",
-      "IGPN",
-      "VIOLENCES POLICIERES",
-      "Bourget",
-      "Fait Divers"
+      "Police"
     ],
     "analyzed_at": "2026-11-01T10:16:35.776048+00:00"
   },
@@ -992,11 +703,7 @@
     "ingested_at": "2026-11-01T10:13:28.345559+00:00",
     "summary": "Des propriétaires de maisons et appartements en location saisonnière reçoivent actuellement des courriers de la Sacem leur réclament 223 euros par an. Et ce n'est pas une arnaque.",
     "thumbnail": "thumbnails/vzkrea.webp",
-    "tags": [
-      "Sacem",
-      "Parisien",
-      "Airbnb"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:16:35.817794+00:00"
   },
   {
@@ -1016,32 +723,8 @@
     "ingested_at": "2026-11-01T10:13:28.345430+00:00",
     "summary": "Pétarades et jets de lumières pendant vingt minutes puis applaudissements perturbent les colonies de sternes protégées, qui nichent sur le b",
     "thumbnail": "thumbnails/vzihut.webp",
-    "tags": [
-      "Loire",
-      "Tours",
-      "Soft paywall"
-    ],
-    "analyzed_at": "2026-11-01T10:16:35.944364+00:00"
-  },
-  {
-    "id": "vyzsps",
-    "title": "Bon 14 juillet mes tabarnaks!",
-    "url": "https://lepetitjournal.com/sites/default/files/2021-10/France%20Que%CC%81bec%20.jpeg",
-    "permalink": "/r/france/comments/vyzsps/bon_14_juillet_mes_tabarnaks/",
-    "created_at": "2022-07-14T16:19:29+00:00",
-    "score": 449,
-    "num_comments": 17,
-    "subreddit": "france",
-    "author": "Caniapiscau",
-    "flair": "",
-    "domain": "lepetitjournal.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/5wftSL9HdRAZ1V-uJmEIwaIVDZ_02cqyfoIxFzsglkA.jpeg?auto=webp&s=23a3ad949296eed2e78a9b6752a9991c3472f7e7",
-    "ingested_at": "2026-11-01T10:13:28.344968+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/vyzsps.webp",
     "tags": [],
-    "analyzed_at": "2026-11-01T10:16:36.017007+00:00"
+    "analyzed_at": "2026-11-01T10:16:35.944364+00:00"
   },
   {
     "id": "vyyhjk",
@@ -1061,8 +744,7 @@
     "summary": "",
     "thumbnail": "thumbnails/vyyhjk.webp",
     "tags": [
-      "Etats-Unis",
-      "Ohio"
+      "Violences sexuelles"
     ],
     "analyzed_at": "2026-11-01T10:16:36.163600+00:00"
   },
@@ -1083,10 +765,7 @@
     "ingested_at": "2026-11-01T10:13:28.345610+00:00",
     "summary": "Grégory Allione appelle à la vigilance de chacun et plaide pour des recrutements de sapeurs pompiers volontaires.",
     "thumbnail": "thumbnails/vysxn8.webp",
-    "tags": [
-      "Grégory Allione",
-      "Faits-divers"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:16:36.194737+00:00"
   },
   {
@@ -1107,11 +786,7 @@
     "summary": "Au nom du secret des affaires, l’Élysée avait refusé de transmettre à Mediapart les échanges entre les lobbyistes d’Amazon, Google et autres géants du numérique avec la présidence de la République. L…",
     "thumbnail": "thumbnails/vy92jr.webp",
     "tags": [
-      "Élysée",
-      "Google",
-      "Amazon",
-      "République",
-      "Uber"
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T10:16:37.054373+00:00"
   },
@@ -1133,33 +808,10 @@
     "summary": "Le tribunal judiciaire de Paris a condamné un propriétaire qui louait un local de 4,24 m². La surface habitable doit être d'au moins 9m² pour un logement.",
     "thumbnail": "thumbnails/vy2x6w.webp",
     "tags": [
-      "Paris",
-      "Fait Divers"
+      "Justice",
+      "Logement"
     ],
     "analyzed_at": "2026-11-01T10:16:36.620937+00:00"
-  },
-  {
-    "id": "vxdgz5",
-    "title": "Première image d'une étoile mourante grace au James Webb Space Telescope.",
-    "url": "https://www.nasa.gov/sites/default/files/thumbnails/image/main_image_stellar_death_s_ring_miri_nircam_sidebyside-5mb.jpg",
-    "permalink": "/r/france/comments/vxdgz5/première_image_dune_étoile_mourante_grace_au/",
-    "created_at": "2022-07-12T15:08:29+00:00",
-    "score": 308,
-    "num_comments": 27,
-    "subreddit": "france",
-    "author": "fourmi",
-    "flair": "Science",
-    "domain": "nasa.gov",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/YFBCSDe_Qaz3Z-xnm9Nf2Agjyj1sq1fus3eE7dM477g.jpg?auto=webp&s=647de42567625e05b1a42fa66fb97796c1ef3948",
-    "ingested_at": "2026-11-01T10:13:28.345482+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/vxdgz5.webp",
-    "tags": [
-      "James Webb Space Telescope",
-      "Science"
-    ],
-    "analyzed_at": "2026-11-01T10:16:41.917994+00:00"
   },
   {
     "id": "vxd5ry",
@@ -1178,37 +830,8 @@
     "ingested_at": "2026-11-01T10:13:28.344284+00:00",
     "summary": "La Commission irlandaise de protection des données (Irish Data Protection Commission - DPC) a informé cette semaine ses homologues européens qu'elle empêchera Meta, propriétaire de Facebook, d'envoyer les données des utilisateurs européens vers les États-Unis.",
     "thumbnail": "thumbnails/vxd5ry.webp",
-    "tags": [
-      "Meta",
-      "Facebook",
-      "États-Unis",
-      "Irlande",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:16:36.504745+00:00"
-  },
-  {
-    "id": "vxd4f4",
-    "title": "Des activistes dégonflent des pneus de SUV : « Votre voiture gourmande en essence tue »",
-    "url": "https://www.automobile-propre.com/des-activistes-degonflent-des-pneus-de-suv-votre-voiture-gourmande-en-essence-tue/",
-    "permalink": "/r/france/comments/vxd4f4/des_activistes_dégonflent_des_pneus_de_suv_votre/",
-    "created_at": "2022-07-12T14:53:47+00:00",
-    "score": 284,
-    "num_comments": 367,
-    "subreddit": "france",
-    "author": "C_kloug",
-    "flair": "Écologie",
-    "domain": "automobile-propre.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/GG0GcFTHUX4YXGTlfgJR35DuH0tWHtNo2nscPmpO2x4.jpg?auto=webp&s=c23ee28edf97310436154673cc0e764a2b983cd8",
-    "ingested_at": "2026-11-01T10:13:28.345733+00:00",
-    "summary": "Un groupe d'activistes dégonfle les pneus des SUV à moteur thermique pour lutter contre la pollution qu'ils créent.",
-    "thumbnail": "thumbnails/vxd4f4.webp",
-    "tags": [
-      "SUV",
-      "Écologie"
-    ],
-    "analyzed_at": "2026-11-01T10:16:41.094499+00:00"
   },
   {
     "id": "vxbb5u",
@@ -1228,10 +851,7 @@
     "summary": "Mis en cause pour ses échanges privilégiés avec la plateforme Uber, le président de la République estime qu'il fallait alors \"lutter par tous les moyens contre le chômage de masse\".",
     "thumbnail": "thumbnails/vxbb5u.webp",
     "tags": [
-      "Emmanuel Macron",
-      "République",
-      "Uber",
-      "Politique"
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T10:16:36.642649+00:00"
   },
@@ -1256,30 +876,6 @@
     "analyzed_at": "2026-11-01T10:16:36.988186+00:00"
   },
   {
-    "id": "vx5nvs",
-    "title": "La Ville de Lyon abandonne Microsoft pour le logiciel libre",
-    "url": "https://tribunedelyon.fr/economie/la-ville-de-lyon-abandonne-microsoft-pour-le-logiciel-libre/",
-    "permalink": "/r/france/comments/vx5nvs/la_ville_de_lyon_abandonne_microsoft_pour_le/",
-    "created_at": "2022-07-12T07:51:23+00:00",
-    "score": 621,
-    "num_comments": 156,
-    "subreddit": "france",
-    "author": "nokiou",
-    "flair": "Politique",
-    "domain": "tribunedelyon.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/gkTKUOrLDu-cYAoQ7dkT7JgsYn8bjpSy5hnWwxpDYxY.jpeg?auto=webp&s=bdd23648a37e4aecf68657124f15a434ee57bafa",
-    "ingested_at": "2026-11-01T10:13:28.344446+00:00",
-    "summary": "La Ville de Lyon a validé ce jeudi 7 juillet la bascule progressive d'une dépendance, depuis 20 ans, aux outils Microsoft, pour aller vers un recours",
-    "thumbnail": "thumbnails/vx5nvs.webp",
-    "tags": [
-      "Ville de Lyon",
-      "Microsoft",
-      "Politique"
-    ],
-    "analyzed_at": "2026-11-01T10:16:36.906196+00:00"
-  },
-  {
     "id": "vx5i9m",
     "title": "La Slovénie légalise le mariage et l’adoption pour les homosexuels",
     "url": "https://www.lemonde.fr/international/article/2022/07/12/la-slovenie-legalise-le-mariage-et-l-adoption-pour-les-homosexuels_6134395_3210.html",
@@ -1297,7 +893,7 @@
     "summary": "",
     "thumbnail": "thumbnails/vx5i9m.webp",
     "tags": [
-      "Slovénie"
+      "LGBT+"
     ],
     "analyzed_at": "2026-11-01T10:16:37.015891+00:00"
   },
@@ -1319,11 +915,8 @@
     "summary": "La motion de censure de gauche contre le gouvernement Borne va être mise au vote lundi, sans espoir d'être adoptée, avant que les députés ne s'emparent d'un premier texte de loi, sur la situation sanitaire.",
     "thumbnail": "thumbnails/vwn1e7.webp",
     "tags": [
-      "Nupes",
-      "Assemblée",
-      "Borne",
-      "Elisabeth Borne",
-      "Politique"
+      "Institutions",
+      "Élisabeth Borne"
     ],
     "analyzed_at": "2026-11-01T10:16:37.077295+00:00"
   },
@@ -1345,9 +938,7 @@
     "summary": "Entre retards, repositionnement et licenciements, les différents projets liés à Hyperloop peinent à convaincre, malgré d'importantes sommes investies.",
     "thumbnail": "thumbnails/vwmwgb.webp",
     "tags": [
-      "Elon Musk",
-      "Hyperloop",
-      "Science"
+      "Elon Musk"
     ],
     "analyzed_at": "2026-11-01T10:16:37.267624+00:00"
   },
@@ -1369,11 +960,8 @@
     "summary": "Indiscrétions piquantes, maladresses vaches ou douces confessions: chaque jour, retrouvez les brèves qui auscultent le monde politique.",
     "thumbnail": "thumbnails/vwgags.webp",
     "tags": [
-      "RN",
       "Gérald Darmanin",
-      "Politics",
-      "Lrem",
-      "Politique"
+      "Justice"
     ],
     "analyzed_at": "2026-11-01T10:16:39.564939+00:00"
   },
@@ -1395,8 +983,7 @@
     "summary": "",
     "thumbnail": "thumbnails/vwe3j6.webp",
     "tags": [
-      "Paris Match",
-      "Unes de Marianne"
+      "Médias"
     ],
     "analyzed_at": "2026-11-01T10:16:37.443488+00:00"
   },
@@ -1418,8 +1005,7 @@
     "summary": "plusieurs scientifiques Français et Françaises ont suggéré lors de la canicule de juin 2022 de nommer les aléas climatiques par les noms des",
     "thumbnail": "thumbnails/vwdi41.webp",
     "tags": [
-      "Français et Françaises",
-      "Écologie"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T10:16:37.426050+00:00"
   },
@@ -1440,11 +1026,7 @@
     "ingested_at": "2026-11-01T10:13:28.344744+00:00",
     "summary": "",
     "thumbnail": "thumbnails/vwdd8f.webp",
-    "tags": [
-      "STMicroelectronics",
-      "Grenoble",
-      "Économie"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:16:37.533991+00:00"
   },
   {
@@ -1465,10 +1047,7 @@
     "summary": "Le 26 mars, lors d’une interpellation à Aulnay-sous-Bois, le policier Emmanuel N. a tué un automobiliste, Jean-Paul Benjamin. En recherchant une balle manquant à son chargeur, les enquêteurs ont déco…",
     "thumbnail": "thumbnails/vvyu32.webp",
     "tags": [
-      "Aulnay",
-      "Emmanuel",
-      "Aulnay-sous-Bois",
-      "Jean-Paul Benjamin"
+      "Police"
     ],
     "analyzed_at": "2026-11-01T10:16:38.550403+00:00"
   },
@@ -1489,11 +1068,7 @@
     "ingested_at": "2026-11-01T10:13:28.345936+00:00",
     "summary": "",
     "thumbnail": "thumbnails/vvxqm9.webp",
-    "tags": [
-      "Uber Files",
-      "Uber",
-      "VTC"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:16:37.802364+00:00"
   },
   {
@@ -1515,9 +1090,7 @@
     "thumbnail": "thumbnails/vuzbsd.webp",
     "tags": [
       "Gérald Darmanin",
-      "Intérieur",
-      "LR",
-      "Politique"
+      "Immigration"
     ],
     "analyzed_at": "2026-11-01T10:16:38.488636+00:00"
   },
@@ -1539,10 +1112,7 @@
     "summary": "Un prototype a été présenté jeudi par le groupe de BTP breton Legendre, qui veut se servir de la force houlomotrice pour produire de l’énergie",
     "thumbnail": "thumbnails/vuxz9x.webp",
     "tags": [
-      "Bretagne",
-      "BTP",
-      "Legendre",
-      "Écologie"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T10:16:38.034483+00:00"
   },
@@ -1563,36 +1133,8 @@
     "ingested_at": "2026-11-01T10:13:28.344365+00:00",
     "summary": "Ce jeudi, la conseillère de Paris, Douchka Markovic, a préconisé de \"boucher les trous\" dans les logements pour lutter contre les \"surmulots\".",
     "thumbnail": "thumbnails/vuc7di.webp",
-    "tags": [
-      "Paris",
-      "Douchka Markovic",
-      "Paul Hatte",
-      "Ian Brossat",
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:16:38.042555+00:00"
-  },
-  {
-    "id": "vu3s6b",
-    "title": "Teaser de la future première image du James Webb Telescope",
-    "url": "https://www.nasa.gov/sites/default/files/thumbnails/image/52196657049_03ed807621_o.jpeg",
-    "permalink": "/r/france/comments/vu3s6b/teaser_de_la_future_première_image_du_james_webb/",
-    "created_at": "2022-07-08T06:09:35+00:00",
-    "score": 690,
-    "num_comments": 60,
-    "subreddit": "france",
-    "author": "jeyreymii",
-    "flair": "",
-    "domain": "nasa.gov",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/R17Slb6-eLl2H8N8cs1n_Qunz-ukrvjkqIuaqo5oXHU.jpg?auto=webp&s=1fed88e618fc357e414550fa066cc0c692b29d9f",
-    "ingested_at": "2026-11-01T10:13:28.344256+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/vu3s6b.webp",
-    "tags": [
-      "James Webb Telescope"
-    ],
-    "analyzed_at": "2026-11-01T10:16:43.306171+00:00"
   },
   {
     "id": "vu30y9",
@@ -1612,10 +1154,7 @@
     "summary": "En fin d’après-midi ce jeudi, la police a été alertée de la présence en centre-ville de Grenoble de deux hommes montés sur un scooter, dont l’un était en possession d’une arme longue de guerre. Arrivé sur place, au niveau de la place d'Apvril, un équipage de la Bac à pied a été mis en joue par l’homme armé.",
     "thumbnail": "thumbnails/vu30y9.webp",
     "tags": [
-      "Grenoble",
-      "Apvril",
-      "Bac",
-      "Fait Divers"
+      "Police"
     ],
     "analyzed_at": "2026-11-01T10:16:39.704493+00:00"
   },
@@ -1637,11 +1176,8 @@
     "summary": "Quelque 324 eurodéputés ont appuyé cette demande (155 contre, 38 abstentions), alors qu'aux Etats-Unis, ce droit n'est plus garanti au niveau fédéral.",
     "thumbnail": "thumbnails/vtgjxh.webp",
     "tags": [
-      "Parlement",
-      "Union",
-      "Etats-Unis",
-      "IVG",
-      "Blocus"
+      "Droits des femmes",
+      "Union européenne"
     ],
     "analyzed_at": "2026-11-01T10:16:38.661537+00:00"
   },
@@ -1663,10 +1199,7 @@
     "summary": "Alexis Marsan, haut gradé de la préfecture de police déjà mis en cause pour sa gestion violente du maintien de l’ordre notamment lors de la finale de la Ligue des champions au Stade de France, est ac…",
     "thumbnail": "thumbnails/vtgatl.webp",
     "tags": [
-      "Lallement",
-      "Alexis Marsan",
-      "Ligue",
-      "Stade de France"
+      "Police"
     ],
     "analyzed_at": "2026-11-01T10:16:39.508437+00:00"
   },
@@ -1688,11 +1221,8 @@
     "summary": "L'Etat a l'intention de renationaliser à 100% l'énergéticien EDF, a annoncé mercredi la Première ministre Elisabeth Borne dans sa déclaration de politique générale.",
     "thumbnail": "thumbnails/vsr67g.webp",
     "tags": [
-      "EDF",
-      "Borne",
-      "Première",
-      "Elisabeth Borne",
-      "Économie"
+      "Énergie",
+      "Élisabeth Borne"
     ],
     "analyzed_at": "2026-11-01T10:16:39.216796+00:00"
   },
@@ -1714,9 +1244,7 @@
     "summary": "La Préfecture de Normandie et de la Seine-Maritime a dévoilé les résultats de l’autopsie de l’orque décédée en mai dernier dans la Seine.",
     "thumbnail": "thumbnails/vspxcx.webp",
     "tags": [
-      "Seine",
-      "Sea Shepherd",
-      "Écologie"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T10:16:39.685934+00:00"
   },
@@ -1738,11 +1266,8 @@
     "summary": "Le label, qui permet de mobiliser des fonds privés, était jusqu'ici réservé aux énergies renouvelables. Les eurodéputés ont adopté ce texte controversé de la Commission en session plénière à Strasbourg.",
     "thumbnail": "thumbnails/vsn456.webp",
     "tags": [
-      "Parlement",
-      "Union",
-      "Commission",
-      "Strasbourg",
-      "Écologie"
+      "Environnement",
+      "Union européenne"
     ],
     "analyzed_at": "2026-11-01T10:16:39.590879+00:00"
   },
@@ -1764,7 +1289,7 @@
     "summary": "",
     "thumbnail": "thumbnails/vs0s1c.webp",
     "tags": [
-      "Société"
+      "Immigration"
     ],
     "analyzed_at": "2026-11-01T10:16:40.022560+00:00"
   },
@@ -1785,10 +1310,7 @@
     "ingested_at": "2026-11-01T10:13:28.346057+00:00",
     "summary": "",
     "thumbnail": "thumbnails/vrsark.webp",
-    "tags": [
-      "Fields",
-      "Hugo Duminil-Copin"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:16:39.922312+00:00"
   },
   {
@@ -1810,10 +1332,8 @@
     "thumbnail": "thumbnails/vr486z.webp",
     "tags": [
       "Emmanuel Macron",
-      "Elisabeth Borne",
-      "Etat et la Première",
-      "Assemblée",
-      "Politique"
+      "Environnement",
+      "Élisabeth Borne"
     ],
     "analyzed_at": "2026-11-01T10:16:43.409235+00:00"
   },
@@ -1835,38 +1355,9 @@
     "summary": "Suivez l'info en direct pour savoir ce qui se passe maintenant ! Toutes les infos livrées minute par minute par la rédaction, les photos, vidéos, tweets et vos interventions",
     "thumbnail": "thumbnails/vr1awf.webp",
     "tags": [
-      "Etat",
-      "Solidarités",
-      "Damien Abad",
-      "Développement",
-      "Politique"
+      "Violences sexuelles"
     ],
     "analyzed_at": "2026-11-01T10:16:40.632892+00:00"
-  },
-  {
-    "id": "vqf9uz",
-    "title": "Carsized, un site pour comparer la taille des voitures. Exemple ici avec la Clio 2 vs Clio 5.",
-    "url": "https://www.carsized.com/en/cars/compare/renault-clio-1998-5-door-hatchback-vs-renault-clio-2019-5-door-hatchback/",
-    "permalink": "/r/france/comments/vqf9uz/carsized_un_site_pour_comparer_la_taille_des/",
-    "created_at": "2022-07-03T11:11:39+00:00",
-    "score": 255,
-    "num_comments": 98,
-    "subreddit": "france",
-    "author": "Artichette",
-    "flair": "Science",
-    "domain": "carsized.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/7nbvssTdArzUlh6rhib8tDrxqYMsoInBiRWSWneL3pc.jpg?auto=webp&s=77c6227203e38853c8a73683084c8a9d4ce9edce",
-    "ingested_at": "2026-11-01T10:13:28.345960+00:00",
-    "summary": "Renault Clio Hatchback 1998-2002 vs. Renault Clio Hatchback 2019-2023. Compare car dimensions (length, width and height) vs. street perspective.",
-    "thumbnail": "thumbnails/vqf9uz.webp",
-    "tags": [
-      "Clio 2",
-      "Clio 5",
-      "Renault Clio Hatchback",
-      "Science"
-    ],
-    "analyzed_at": "2026-11-01T10:16:40.980885+00:00"
   },
   {
     "id": "vqelsw",
@@ -1886,58 +1377,9 @@
     "summary": "",
     "thumbnail": "thumbnails/vqelsw.webp",
     "tags": [
-      "Société"
+      "Santé"
     ],
     "analyzed_at": "2026-11-01T10:16:40.243770+00:00"
-  },
-  {
-    "id": "vqcq91",
-    "title": "AJA que les États-Unis ont un \"loi d'invasion de La Haye\" qui habilite le président des États-Unis à adopter tous les moyens nécessaires, y compris les invasions militaires, pour libérer un citoyen américain inculpé devant la Cour pénale internationale.",
-    "url": "https://fr.m.wikipedia.org/wiki/American_Service-Members%27_Protection_Act",
-    "permalink": "/r/france/comments/vqcq91/aja_que_les_étatsunis_ont_un_loi_dinvasion_de_la/",
-    "created_at": "2022-07-03T08:12:07+00:00",
-    "score": 323,
-    "num_comments": 45,
-    "subreddit": "france",
-    "author": "avirbd",
-    "flair": "Culture",
-    "domain": "fr.m.wikipedia.org",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/NU-dW4iMUtdOVRFDVnWDxvT8Cw5tfexWZ6EyKYekxdE.png?auto=webp&s=ed40b3f4b091052f836ab08e9af61095ddd445d6",
-    "ingested_at": "2026-11-01T10:13:28.345353+00:00",
-    "summary": "L' American Service-Members' Protection Act ou ASPA (« Loi pour la protection des membres du service américain » en français ) est une loi américaine proposée par le sénateur Jesse Helms le 20 mai 2002 , adoptée par le Congrès en août 2002 dans le cadre du Supplemental Appropriations Act for Further Recovery From and…",
-    "thumbnail": "thumbnails/vqcq91.webp",
-    "tags": [
-      "États-Unis",
-      "Cour",
-      "Haye",
-      "AJA",
-      "Culture"
-    ],
-    "analyzed_at": "2026-11-01T10:16:43.802402+00:00"
-  },
-  {
-    "id": "vpq5oe",
-    "title": "Connaissez-vous longuevieauxobjets.gouv.fr, le site de conseils, informations et tutoriels pour réparer quasiment tout autour de soi ? (En partenariat avec l'ADEME)",
-    "url": "https://longuevieauxobjets.gouv.fr/",
-    "permalink": "/r/france/comments/vpq5oe/connaissezvous_longuevieauxobjetsgouvfr_le_site/",
-    "created_at": "2022-07-02T11:54:11+00:00",
-    "score": 309,
-    "num_comments": 13,
-    "subreddit": "france",
-    "author": "wisi_eu",
-    "flair": "Économie",
-    "domain": "longuevieauxobjets.gouv.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/PVQ9nOTcsCc__gfn47oFv8YD78oF3TJJCz_FmW2238Y.jpg?auto=webp&s=30c1c1e2584ad4b45ed08998edba5ccd6fe10ad6",
-    "ingested_at": "2026-11-01T10:13:28.345456+00:00",
-    "summary": "Pour préserver nos ressources naturelles, notre santé et notre économie, il est temps de repenser notre consommation avant d’acheter.",
-    "thumbnail": "thumbnails/vpq5oe.webp",
-    "tags": [
-      "ADEME",
-      "Économie"
-    ],
-    "analyzed_at": "2026-11-01T10:16:40.671150+00:00"
   },
   {
     "id": "vpm7ja",
@@ -1956,9 +1398,7 @@
     "ingested_at": "2026-11-01T10:13:28.345661+00:00",
     "summary": "",
     "thumbnail": "thumbnails/vpm7ja.webp",
-    "tags": [
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:16:41.113377+00:00"
   },
   {
@@ -1978,11 +1418,7 @@
     "ingested_at": "2026-11-01T10:13:28.345810+00:00",
     "summary": "Dans une interview accordée à la télévision américaine, le procureur général du Texas s’est dit favorable au rétablissement d’une loi interdisant la sodomie, dépénalisée depuis 2003 aux États-Unis. La législation texane visait exclusivement à bannir les relations homosexuelles.",
     "thumbnail": "thumbnails/vp8s1f.webp",
-    "tags": [
-      "Texas",
-      "États-Unis",
-      "État"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:16:40.971460+00:00"
   },
   {
@@ -2003,7 +1439,7 @@
     "summary": "La une de « Libération » est désormais reprise par des militantes américaines",
     "thumbnail": "thumbnails/vp6hgj.webp",
     "tags": [
-      "Coco"
+      "Droits des femmes"
     ],
     "analyzed_at": "2026-11-01T10:16:41.405588+00:00"
   },
@@ -2025,8 +1461,7 @@
     "summary": "Un dÃ©cret publiÃ© jeudi et qui entrera en vigueur le 1er octobre 2022 interdit la commercialisation des produits Ã base de protÃ©ines vÃ©gÃ©tales sous les dÃ©nominations \"steak vÃ©gÃ©tal\" ou encore \"bacon vegan\". Une dÃ©cision unanimement saluÃ©e par la filiÃ¨re viande qui y voyait une tromperie.",
     "thumbnail": "thumbnails/vp1k2s.webp",
     "tags": [
-      "SociÃ©tÃ©",
-      "Écologie"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T10:16:42.004569+00:00"
   },
@@ -2048,11 +1483,7 @@
     "summary": "La demande de libération conditionnelle de Patrick Balkany a été rejetée, mais une nouvelle audience est déjà programmée pour début août.",
     "thumbnail": "thumbnails/voscer.webp",
     "tags": [
-      "Patrick Balkany",
-      "Paris",
-      "Évry",
-      "Levallois-Perret",
-      "Politique"
+      "Patrick Balkany"
     ],
     "analyzed_at": "2026-11-01T10:16:57.304298+00:00"
   }

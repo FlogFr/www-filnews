@@ -16,7 +16,10 @@
     "ingested_at": "2026-10-31T15:05:29.455520+00:00",
     "summary": "",
     "thumbnail": "thumbnails/80v45w.webp",
-    "tags": [],
+    "tags": [
+      "Fin de vie",
+      "Institutions"
+    ],
     "analyzed_at": "2026-11-01T09:45:35.386455+00:00"
   },
   {
@@ -36,32 +39,8 @@
     "ingested_at": "2026-10-31T15:05:29.453980+00:00",
     "summary": "",
     "thumbnail": "thumbnails/80uw8x.webp",
-    "tags": [
-      "Humour"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:45:35.658319+00:00"
-  },
-  {
-    "id": "80o8dq",
-    "title": "Vers 19h, la France aura besoin de 94GW d'électricité alors qu'elle ne peut pas en produire plus de 90. Soyez responsables et essayez de réduire votre consommation.",
-    "url": "http://www.rte-france.com/fr/eco2mix/eco2mix-consommation",
-    "permalink": "/r/france/comments/80o8dq/vers_19h_la_france_aura_besoin_de_94gw/",
-    "created_at": "2018-02-27T17:26:14+00:00",
-    "score": 114,
-    "num_comments": 189,
-    "subreddit": "france",
-    "author": "EetD",
-    "flair": "",
-    "domain": "rte-france.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://a.thumbs.redditmedia.com/pkJjf40HvBajPj1Yk15altLJbDLyV3R1X-IGF8BN7Q4.jpg",
-    "ingested_at": "2026-10-31T15:05:29.455072+00:00",
-    "summary": "RTE assure à chaque instant l’accès à tous à une alimentation électrique économique, sûre et propre, et aide à mener la transition énergétique grâce au réseau.",
-    "thumbnail": "thumbnails/80o8dq.webp",
-    "tags": [
-      "RTE"
-    ],
-    "analyzed_at": "2026-11-01T09:45:35.633208+00:00"
   },
   {
     "id": "80nsze",
@@ -81,64 +60,10 @@
     "summary": "L'échange a eu lieu, lundi, sur LCI, entre François de Closets et Bruno Poncet de SUD Rail.",
     "thumbnail": "thumbnails/80nsze.webp",
     "tags": [
-      "Bataclan",
-      "SNCF",
-      "LCI",
-      "Transports",
-      "Société"
+      "Grèves et syndicats",
+      "Médias"
     ],
     "analyzed_at": "2026-11-01T09:45:35.881927+00:00"
-  },
-  {
-    "id": "80nfp1",
-    "title": "Si un redditeur l’aperçoit : Disparition inquiétante de Léa, 20 ans, depuis le 13 décembre 2017 à Nantes.",
-    "url": "https://www.facebook.com/PoliceNationale/photos/a.433751226691025.98449.259978937401589/1656701607729308/?type=3&theater",
-    "permalink": "/r/france/comments/80nfp1/si_un_redditeur_laperçoit_disparition_inquiétante/",
-    "created_at": "2018-02-27T15:50:50+00:00",
-    "score": 182,
-    "num_comments": 63,
-    "subreddit": "france",
-    "author": "Eween",
-    "flair": "Ask France",
-    "domain": "facebook.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://b.thumbs.redditmedia.com/_gGgGMNKHHknhtTKfGApyVFi3qk481t6z9wAElU46jQ.jpg",
-    "ingested_at": "2026-10-31T15:05:29.454403+00:00",
-    "summary": "[APPEL À TÉMOINS] Disparition inquiétante de Léa, 20 ans, depuis le 13 décembre 2017 à Nantes. Merci de vos partages pour aider la police judiciaire nantaise qui relance cet appel à témoins (photo...",
-    "thumbnail": "thumbnails/80nfp1.webp",
-    "tags": [
-      "Léa",
-      "Nantes",
-      "APPEL",
-      "Ask France"
-    ],
-    "analyzed_at": "2026-11-01T09:45:38.237948+00:00"
-  },
-  {
-    "id": "80f54t",
-    "title": "Protéger sa vie privée sur le web, exemple avec Firefox",
-    "url": "https://linuxfr.org/news/proteger-sa-vie-privee-sur-le-web-exemple-avec-firefox",
-    "permalink": "/r/france/comments/80f54t/protéger_sa_vie_privée_sur_le_web_exemple_avec/",
-    "created_at": "2018-02-26T18:16:46+00:00",
-    "score": 51,
-    "num_comments": 25,
-    "subreddit": "france",
-    "author": "fantastic_comment",
-    "flair": "Technos",
-    "domain": "linuxfr.org",
-    "selftext": "",
-    "reddit_thumbnail": "https://b.thumbs.redditmedia.com/d--PcnFL7jyPDTfi-xvyMag1c-g-ec7J0-Fs3cPOFjo.jpg",
-    "ingested_at": "2026-10-31T15:05:29.455562+00:00",
-    "summary": "Un internaute peut penser que sa navigation sur le Web est noyée dans la masse, et que personne ne s’intéresse à la pister, puisqu’elle n’a pas d’importance particulière. C’est le genre de réponse que l’on peut entendre autour de soi quand on tente de sensibiliser au pistage.",
-    "thumbnail": "thumbnails/80f54t.webp",
-    "tags": [
-      "Firefox",
-      "Vie_privée",
-      "Edward_snowden",
-      "Framasoft",
-      "Technos"
-    ],
-    "analyzed_at": "2026-11-01T09:45:36.507183+00:00"
   },
   {
     "id": "80byb0",
@@ -158,7 +83,7 @@
     "summary": "",
     "thumbnail": "thumbnails/80byb0.webp",
     "tags": [
-      "SNCF"
+      "Transports"
     ],
     "analyzed_at": "2026-11-01T09:45:36.079616+00:00"
   },
@@ -180,8 +105,7 @@
     "summary": "",
     "thumbnail": "thumbnails/803iea.webp",
     "tags": [
-      "Iran",
-      "Société"
+      "Laïcité"
     ],
     "analyzed_at": "2026-11-01T09:45:36.383550+00:00"
   },
@@ -202,133 +126,8 @@
     "ingested_at": "2026-10-31T15:05:29.455264+00:00",
     "summary": "",
     "thumbnail": "thumbnails/802ads.webp",
-    "tags": [
-      "YouTubeuse"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:45:37.295633+00:00"
-  },
-  {
-    "id": "7zwlij",
-    "title": "Photos de la Zone Rouge - The Real \"No-Go Zone\" of France",
-    "url": "http://www.messynessychic.com/2015/05/26/the-real-no-go-zone-of-france-a-forbidden-no-mans-land-poisoned-by-war/",
-    "permalink": "/r/france/comments/7zwlij/photos_de_la_zone_rouge_the_real_nogo_zone_of/",
-    "created_at": "2018-02-24T13:32:59+00:00",
-    "score": 345,
-    "num_comments": 61,
-    "subreddit": "france",
-    "author": "pommekiwi",
-    "flair": "Culture",
-    "domain": "messynessychic.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/I-vktODUKnRAcEwSnxbjVGNUoPhyAUCu-858cHA-7tw.jpeg?auto=webp&s=cf544e488ce174c63a8e95e48553a00b2be2a5d0",
-    "ingested_at": "2026-10-31T15:05:29.454124+00:00",
-    "summary": "The Real \"No-Go Zone\" of France: A Forbidden No Man's Land Poisoned by War - Messy Nessy's",
-    "thumbnail": "thumbnails/7zwlij.webp",
-    "tags": [
-      "Zone Rouge",
-      "No-Go Zone",
-      "French",
-      "Forbidden No Man's Land Poisoned",
-      "Culture"
-    ],
-    "analyzed_at": "2026-11-01T09:45:37.774955+00:00"
-  },
-  {
-    "id": "7zvxe3",
-    "title": "US-French impasse stalls Egyptian acquisition of Rafale fighter jets",
-    "url": "http://www.defenceweb.co.za/index.php?option=com_content&view=article&id=50783:us-french-impasse-stalls-egyptian-acquisition-of-rafale-fighter-jets&catid=35:Aerospace&Itemid=107",
-    "permalink": "/r/france/comments/7zvxe3/usfrench_impasse_stalls_egyptian_acquisition_of/",
-    "created_at": "2018-02-24T10:52:28+00:00",
-    "score": 130,
-    "num_comments": 28,
-    "subreddit": "france",
-    "author": "[deleted]",
-    "flair": "Politique",
-    "domain": "defenceweb.co.za",
-    "selftext": "",
-    "reddit_thumbnail": "https://b.thumbs.redditmedia.com/8dG9L0F1aaAdLsB4Z3a06bAe25bT3nh1HdvNKgh0gWA.jpg",
-    "ingested_at": "2026-10-31T15:05:29.454846+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/7zvxe3.webp",
-    "tags": [
-      "Egyptian",
-      "Rafale",
-      "By Dean Wingrin23 July 2026",
-      "Politique"
-    ],
-    "analyzed_at": "2026-11-01T09:45:39.101424+00:00"
-  },
-  {
-    "id": "7zs3gq",
-    "title": "Tombe du poète Georges Rodenbach (1855-1898)",
-    "url": "http://www.parisrues.com/pl/pics/pl15georgesrodenbach01.jpg",
-    "permalink": "/r/france/comments/7zs3gq/tombe_du_poète_georges_rodenbach_18551898/",
-    "created_at": "2018-02-23T22:29:12+00:00",
-    "score": 99,
-    "num_comments": 7,
-    "subreddit": "france",
-    "author": "LudwigDeLarge",
-    "flair": "Culture",
-    "domain": "parisrues.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://a.thumbs.redditmedia.com/3ic9VwW2woz_roLKHSll68HW632Qt2vVO6RSSmWxOr0.jpg",
-    "ingested_at": "2026-10-31T15:05:29.455285+00:00",
-    "summary": "Paris Rues : Les plus beaux quartiers de Paris Tout le monde connaît Paris. Or, la capitale recèle d’une multitude de quartiers et d’arrondissements. Ainsi, il est vraiment difficile de s’y retrouver. Venez profiter d’une promenade bucolique dans l’un des multiples villages de la capitale !",
-    "thumbnail": "thumbnails/7zs3gq.webp",
-    "tags": [
-      "Paris",
-      "Georges Rodenbach",
-      "Culture"
-    ],
-    "analyzed_at": "2026-11-01T09:45:37.935826+00:00"
-  },
-  {
-    "id": "7zow3h",
-    "title": "AJA le nom de la France en Maori est Wiwi (pour oui oui)",
-    "url": "https://fr.wikipedia.org/wiki/Nom_de_la_France#cite_note-2",
-    "permalink": "/r/france/comments/7zow3h/aja_le_nom_de_la_france_en_maori_est_wiwi_pour/",
-    "created_at": "2018-02-23T15:37:42+00:00",
-    "score": 371,
-    "num_comments": 28,
-    "subreddit": "france",
-    "author": "iwebster",
-    "flair": "Culture",
-    "domain": "fr.wikipedia.org",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/S5nMQqAzF8tXCKKAabSNjSowForBIUWxCCfcIjUO0_E.jpg?auto=webp&s=c84fb551fde02ccddd7dac72ac3c2635187737ba",
-    "ingested_at": "2026-10-31T15:05:29.454078+00:00",
-    "summary": "Cet article ne cite pas suffisamment ses sources ( mai 2016 ).",
-    "thumbnail": "thumbnails/7zow3h.webp",
-    "tags": [
-      "AJA",
-      "Wiwi",
-      "Francs",
-      "Culture"
-    ],
-    "analyzed_at": "2026-11-01T09:45:37.688420+00:00"
-  },
-  {
-    "id": "7zm8nu",
-    "title": "LEATHER TEETH, par Carpenter Brut, un artiste français",
-    "url": "https://carpenterbrut.bandcamp.com/album/leather-teeth",
-    "permalink": "/r/france/comments/7zm8nu/leather_teeth_par_carpenter_brut_un_artiste/",
-    "created_at": "2018-02-23T07:07:14+00:00",
-    "score": 146,
-    "num_comments": 51,
-    "subreddit": "france",
-    "author": "nyanloutre",
-    "flair": "Culture",
-    "domain": "carpenterbrut.bandcamp.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/dQ13l_f33xdbhFh80Iw82mnDeowaLepnbYE_dqJ_qik.jpeg?auto=webp&s=4b9e1a18ede5fd57d137094871df319bc28eb338",
-    "ingested_at": "2026-10-31T15:05:29.454594+00:00",
-    "summary": "I’ve been looking for music made either before 2021, or where the artists explicitly state they are against ai and don’t use it. It’s been the best way to find human made songs and musical projects. I heard ‘Humans are Easy Prey’ and had to check out the rest of the songs ❤️ magicallyre Love this album so much.",
-    "thumbnail": "thumbnails/7zm8nu.webp",
-    "tags": [
-      "LEATHER TEETH",
-      "Culture"
-    ],
-    "analyzed_at": "2026-11-01T09:45:38.771631+00:00"
   },
   {
     "id": "7zlr1t",
@@ -347,61 +146,8 @@
     "ingested_at": "2026-10-31T15:05:29.454760+00:00",
     "summary": "Les industriels et producteurs normands se sont mis d’accord sur ce qu’était un « Camembert de Normandie » après près de dix ans de conflit.",
     "thumbnail": "thumbnails/7zlr1t.webp",
-    "tags": [
-      "Normandie",
-      "AOP"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:45:38.424572+00:00"
-  },
-  {
-    "id": "7zf0e5",
-    "title": "AJA que la France est le pays avec le plus de fuseau horaire de sorte que le soleil ne se couche jamais sur la République Française.",
-    "url": "https://en.wikipedia.org/wiki/List_of_time_zones_by_country",
-    "permalink": "/r/france/comments/7zf0e5/aja_que_la_france_est_le_pays_avec_le_plus_de/",
-    "created_at": "2018-02-22T13:52:14+00:00",
-    "score": 185,
-    "num_comments": 55,
-    "subreddit": "france",
-    "author": "Gadac",
-    "flair": "Culture",
-    "domain": "en.wikipedia.org",
-    "selftext": "",
-    "reddit_thumbnail": "",
-    "ingested_at": "2026-10-31T15:05:29.454360+00:00",
-    "summary": "This is a list representing time zones by country. Countries are ranked by total number of time zones on their territory. Time zones of a country include that of dependent territories (except Antarctica ).",
-    "thumbnail": "",
-    "tags": [
-      "AJA",
-      "République Française",
-      "Culture"
-    ],
-    "analyzed_at": "2026-11-01T09:45:38.130873+00:00"
-  },
-  {
-    "id": "7zest7",
-    "title": "AJA qu'Adrienne Bolland, première au monde a réussir la traversée de la Cordillère des Andes en avion le 1er Avril 1921, elle reçoit un accueil triomphal à Santiago du Chili auquel le consul de France ne participe pas ayant cru a un poisson d'avril",
-    "url": "https://fr.wikipedia.org/wiki/Adrienne_Bolland#Le_survol_de_la_cordill%C3%A8re_des_Andes",
-    "permalink": "/r/france/comments/7zest7/aja_quadrienne_bolland_première_au_monde_a/",
-    "created_at": "2018-02-22T13:16:57+00:00",
-    "score": 129,
-    "num_comments": 10,
-    "subreddit": "france",
-    "author": "BringbackMarchais",
-    "flair": "Culture",
-    "domain": "fr.wikipedia.org",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/9jWjb2fFQnLy7AR2bNQjQLIHQ45q8884ElsvzPw4xy0.jpg?auto=webp&s=62724a3a37217d66406a03014a226e45e57882e0",
-    "ingested_at": "2026-10-31T15:05:29.454947+00:00",
-    "summary": "Pour les articles homonymes, voir Bolland (homonymie) et Boland (homonymie) . Adrienne Bolland , née le 25 novembre 1895 à Arcueil et morte le 18 mars 1975 à Paris , est une aviatrice et résistante française , célèbre pour avoir été la première femme à effectuer la traversée par avion de la cordillère des Andes .",
-    "thumbnail": "thumbnails/7zest7.webp",
-    "tags": [
-      "Bolland",
-      "AJA",
-      "Cordillère des Andes",
-      "Santiago du Chili",
-      "Culture"
-    ],
-    "analyzed_at": "2026-11-01T09:45:39.036651+00:00"
   },
   {
     "id": "7zcrnt",
@@ -422,10 +168,7 @@
     "thumbnail": "thumbnails/7zcrnt.webp",
     "tags": [
       "Jean-Luc Mélenchon",
-      "ENQUÊTE FRANCEINFO",
-      "État",
-      "Mélenchon",
-      "Politique"
+      "Élection présidentielle"
     ],
     "analyzed_at": "2026-11-01T09:45:38.497044+00:00"
   },
@@ -446,59 +189,8 @@
     "ingested_at": "2026-10-31T15:05:29.455093+00:00",
     "summary": "",
     "thumbnail": "thumbnails/7z77xg.webp",
-    "tags": [
-      "Spahis",
-      "Valence",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:45:38.974304+00:00"
-  },
-  {
-    "id": "7z5ztg",
-    "title": "Petit rappel jamais inutile (lui…)",
-    "url": "https://scontent.fprg2-1.fna.fbcdn.net/v/t1.0-9/1779826_745621038789775_2037218182_n.png?oh=8641f021cd3ef0ff92aae584c142bef0&oe=5B0A17F9",
-    "permalink": "/r/france/comments/7z5ztg/petit_rappel_jamais_inutile_lui/",
-    "created_at": "2018-02-21T14:41:12+00:00",
-    "score": 136,
-    "num_comments": 262,
-    "subreddit": "france",
-    "author": "PoufPoal",
-    "flair": "Low conten",
-    "domain": "scontent.fprg2-1.fna.fbcdn.net",
-    "selftext": "",
-    "reddit_thumbnail": "",
-    "ingested_at": "2026-10-31T15:05:29.454727+00:00",
-    "summary": "",
-    "thumbnail": "",
-    "tags": [
-      "Low conten"
-    ],
-    "analyzed_at": "2026-11-01T09:45:40.258322+00:00"
-  },
-  {
-    "id": "7z3rs8",
-    "title": "AJA que la plus grande catastrophe maritime française, le naufrage du paquebot \"Afrique\" qui a causé la mort de 568 personnes en 1920, reste encore de nos jours oubliée de tous, éclipsée par les horreurs de la Grande Guerre",
-    "url": "https://fr.wikipedia.org/wiki/Afrique_(paquebot_1907)#Naufrage",
-    "permalink": "/r/france/comments/7z3rs8/aja_que_la_plus_grande_catastrophe_maritime/",
-    "created_at": "2018-02-21T07:17:59+00:00",
-    "score": 104,
-    "num_comments": 26,
-    "subreddit": "france",
-    "author": "BringbackMarchais",
-    "flair": "Culture",
-    "domain": "fr.wikipedia.org",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/akOwQdA9dZtyS-l_znw16z1XSnE7eVqvFrlSuvNKfck.jpg?auto=webp&s=b01faffa3262185378712e60fd95361f96beeae9",
-    "ingested_at": "2026-10-31T15:05:29.455158+00:00",
-    "summary": "L’ Afrique est un paquebot appartenant à la compagnie de transport maritime des Chargeurs réunis ; construit en 1907, il effectue sa traversée inaugurale le 22 juillet 1908 , avec pour mission de relier les différents ports de l'Afrique française ( AOF et AEF ).",
-    "thumbnail": "thumbnails/7z3rs8.webp",
-    "tags": [
-      "Afrique",
-      "AJA",
-      "Grande Guerre",
-      "Culture"
-    ],
-    "analyzed_at": "2026-11-01T09:45:38.975375+00:00"
   },
   {
     "id": "7yvhnb",
@@ -517,13 +209,7 @@
     "ingested_at": "2026-10-31T15:05:29.454924+00:00",
     "summary": "La France affiche désormais 13 médailles. Après une belle nuit pour les Bleus avec les médailles d'argent de Marie Martinod en ski halpipe et Gabriella Papadakis et Guillaume Cizeron en danse sur la glace, le relais mixte emmené par Martin Fourcade a décroché l'or.",
     "thumbnail": "thumbnails/7yvhnb.webp",
-    "tags": [
-      "Troisième Médaille Or",
-      "Martin Fourcade",
-      "Bleus",
-      "Marie Martinod",
-      "Sport"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:45:39.864980+00:00"
   },
   {
@@ -544,34 +230,10 @@
     "summary": "Le gouvernement entame, lundi, les consultations sur la réforme de la SNCF. Alors que le statut de cheminot pourrait être remis en cause, franceinfo a vérifié six clichés sur les employés du service public ferroviaire.",
     "thumbnail": "thumbnails/7ytm2d.webp",
     "tags": [
-      "SNCF",
-      "Transports",
-      "Éco / Conso",
-      "Société"
+      "Travail",
+      "Transports"
     ],
     "analyzed_at": "2026-11-01T09:45:39.290059+00:00"
-  },
-  {
-    "id": "7yqw38",
-    "title": "Après une dure journée devant son ordinateur professionnel, il se repose devant son ordinateur personnel",
-    "url": "http://www.legorafi.fr/2015/10/30/apres-une-dure-journee-devant-son-ordinateur-professionnel-il-se-repose-devant-son-ordinateur-personnel/",
-    "permalink": "/r/france/comments/7yqw38/après_une_dure_journée_devant_son_ordinateur/",
-    "created_at": "2018-02-19T22:40:08+00:00",
-    "score": 191,
-    "num_comments": 35,
-    "subreddit": "france",
-    "author": "[deleted]",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/0mALoi0I5cO2QejW4gzkPOHVbNj4J-cljVT6PWw-MNk.jpeg?auto=webp&s=1386db46729524b86f93d63d4ce76592f7f1a813",
-    "ingested_at": "2026-10-31T15:05:29.454312+00:00",
-    "summary": "Pierre a une habitude depuis des années : se reposer devant son ordinateur personnel après une longue journée de travail sur son ordinateur de bureau. Reportage.",
-    "thumbnail": "thumbnails/7yqw38.webp",
-    "tags": [
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:45:39.241027+00:00"
   },
   {
     "id": "7ylosm",
@@ -592,36 +254,9 @@
     "thumbnail": "thumbnails/7ylosm.webp",
     "tags": [
       "Emmanuel Macron",
-      "Agriculture Stéphane Travert",
-      "Société"
+      "Agriculture"
     ],
     "analyzed_at": "2026-11-01T09:45:40.367147+00:00"
-  },
-  {
-    "id": "7ydzn1",
-    "title": "France 2 a déprogrammé à la dernière minute un documentaire sensible sur les savants allemands qui ont contribué après 1945 au programme spatial français",
-    "url": "http://www.leblogtvnews.com/2018/02/les-enfants-du-buschdorf-document-dimanche-a-13h15-sur-france-2.html",
-    "permalink": "/r/france/comments/7ydzn1/france_2_a_déprogrammé_à_la_dernière_minute_un/",
-    "created_at": "2018-02-18T12:38:16+00:00",
-    "score": 182,
-    "num_comments": 55,
-    "subreddit": "france",
-    "author": "GrenobleLyon",
-    "flair": "Science",
-    "domain": "leblogtvnews.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/v4klHX6UHU3n1Gmidr-GYDRN3k2lh4RH8MvNWy3nolw.jpg?auto=webp&s=85543b8338c730eca55fe82c4bd56e911887e449",
-    "ingested_at": "2026-10-31T15:05:29.454381+00:00",
-    "summary": "Remplacé par une rediff le 18 février dernier, le reportage inédit Les enfants du Buschdorf sera finalement programmé ce week-end sur France 2 : dimanche 4 mars à 13h15. Un document d'Anne-Sophie Chaumier Leconte, Carole Filippi, Oktay Senghul et Nicolas...",
-    "thumbnail": "thumbnails/7ydzn1.webp",
-    "tags": [
-      "Buschdorf",
-      "France 2",
-      "Anne-Sophie Chaumier Leconte",
-      "Carole Filippi",
-      "Science"
-    ],
-    "analyzed_at": "2026-11-01T09:45:42.663570+00:00"
   },
   {
     "id": "7ydtvf",
@@ -640,13 +275,7 @@
     "ingested_at": "2026-10-31T15:05:29.454212+00:00",
     "summary": "Suivez en direct la 9e journée des Jeux olympiques 2018 de Pyeongchang. Martin Fourcade, après un sprint fabuleux, a remporté la médaille d'or de la mass start.",
     "thumbnail": "thumbnails/7ydtvf.webp",
-    "tags": [
-      "Jeux Olympiques",
-      "JO 2018",
-      "Killy",
-      "Jeux",
-      "Sport"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:45:40.951007+00:00"
   },
   {
@@ -667,35 +296,10 @@
     "summary": "L'information a été révélée par le journal économique français La Tribune. Une nouvelle vente de « Rafale » en Egypte serait bloquée à cause des Etats-Unis. Washington brandit sa législation sur les…",
     "thumbnail": "thumbnails/7ya2l4.webp",
     "tags": [
-      "Egypte",
-      "Etats-Unis",
       "Défense",
-      "Tribune",
       "Économie"
     ],
     "analyzed_at": "2026-11-01T09:45:39.719795+00:00"
-  },
-  {
-    "id": "7y6a9u",
-    "title": "Les 100 entreprises qui vendent le plus d'armes dans le monde (en 2016, par pays d'origine)",
-    "url": "https://scontent-frx5-1.xx.fbcdn.net/v/t1.0-9/28059288_1600386823331199_3906217578998857418_n.png?oh=d71fd6a902eefd754d1049f5ca502e7a&oe=5B0FDD84",
-    "permalink": "/r/france/comments/7y6a9u/les_100_entreprises_qui_vendent_le_plus_darmes/",
-    "created_at": "2018-02-17T12:02:29+00:00",
-    "score": 206,
-    "num_comments": 52,
-    "subreddit": "france",
-    "author": "-Golvan-",
-    "flair": "Politique",
-    "domain": "scontent-frx5-1.xx.fbcdn.net",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/AaiWA-urvBdp4YBADfHlM_9-5loHmxgNaizUAOP32n4.png?auto=webp&s=9269cec3afc4c214ab83d96ee9c4031799de5c16",
-    "ingested_at": "2026-10-31T15:05:29.454255+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/7y6a9u.webp",
-    "tags": [
-      "Politique"
-    ],
-    "analyzed_at": "2026-11-01T09:45:40.845623+00:00"
   },
   {
     "id": "7y1gfn",
@@ -714,7 +318,9 @@
     "ingested_at": "2026-10-31T15:05:29.455327+00:00",
     "summary": "Sénateurs et députés ont autorisé, par le biais d’un amendement de dernière minute, qu’un employeur puisse imposer à un salarié de passer en forfait jour, ce qui permet de passer outre la réglementat…",
     "thumbnail": "thumbnails/7y1gfn.webp",
-    "tags": [],
+    "tags": [
+      "Travail"
+    ],
     "analyzed_at": "2026-11-01T09:45:40.535377+00:00"
   },
   {
@@ -735,83 +341,9 @@
     "summary": "Le jeune Théo, arrêté à Aulnay-sous-Bois (Seine-Saint-Denis) en février 2017, n'a pas été violé par la matraque d'un policier lors de son arrestation, selon des expertises médicales dont France Inter révéle vendredi les conclusions.",
     "thumbnail": "thumbnails/7y0e5j.webp",
     "tags": [
-      "FRANCE INTER",
-      "Aulnay-sous-Bois",
-      "Théo",
-      "Faits-divers"
+      "Police"
     ],
     "analyzed_at": "2026-11-01T09:45:40.504845+00:00"
-  },
-  {
-    "id": "7y07ol",
-    "title": "Cramant, Champagne-Ardenne, France",
-    "url": "https://scontent-cdg2-1.xx.fbcdn.net/v/t31.0-8/25626964_10156018328808293_8491690445480045971_o.jpg?oh=95fbe287c0c8bba6d1074aebd66dbcef&oe=5B2689AE",
-    "permalink": "/r/france/comments/7y07ol/cramant_champagneardenne_france/",
-    "created_at": "2018-02-16T17:13:29+00:00",
-    "score": 428,
-    "num_comments": 28,
-    "subreddit": "france",
-    "author": "daft_babylone",
-    "flair": "Culture",
-    "domain": "scontent-cdg2-1.xx.fbcdn.net",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/dwRVAmYo6P-yT_snE4kMXStJ_FIgffpti6G-erWXWdA.jpg?auto=webp&s=264ded5cad4f4e4df07a62b89a41d190da422fb5",
-    "ingested_at": "2026-10-31T15:05:29.454019+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/7y07ol.webp",
-    "tags": [
-      "Culture"
-    ],
-    "analyzed_at": "2026-11-01T09:45:41.513759+00:00"
-  },
-  {
-    "id": "7xxvbg",
-    "title": "Jawad libre, il présentera Chasseurs d'appart' à la rentrée sur M6",
-    "url": "http://nordpresse.be/jawad-libre-presentera-chasseurs-dappart-a-rentree-m6/",
-    "permalink": "/r/france/comments/7xxvbg/jawad_libre_il_présentera_chasseurs_dappart_à_la/",
-    "created_at": "2018-02-16T10:25:09+00:00",
-    "score": 277,
-    "num_comments": 31,
-    "subreddit": "france",
-    "author": "AcidGleam",
-    "flair": "Humour",
-    "domain": "nordpresse.be",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/u_A8KPcY8xOWpK_e9TjFVdxg_c1iII2XhWj1Tgl9hMU.png?auto=webp&s=53c763601dd89f66bcf4f4fd04820e3c9f8392d1",
-    "ingested_at": "2026-10-31T15:05:29.454167+00:00",
-    "summary": "Chasseurs d’appart’ est une émission de télévision française, présentée par Stéphane Plaza. Il s’agit d’une création française diffusée sur M6 en access prime-time du lundi au vendredi depuis juillet 2015.",
-    "thumbnail": "thumbnails/7xxvbg.webp",
-    "tags": [
-      "M6",
-      "Chasseurs",
-      "Stéphane Plaza",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:45:41.521045+00:00"
-  },
-  {
-    "id": "7xxoto",
-    "title": "Canal+ a perdu un million d'abonnés depuis l'arrivée de Vincent Bolloré",
-    "url": "http://www.ozap.com/actu/canal-a-perdu-un-million-d-abonnes-depuis-l-arrivee-de-vincent-bollore/550714",
-    "permalink": "/r/france/comments/7xxoto/canal_a_perdu_un_million_dabonnés_depuis_larrivée/",
-    "created_at": "2018-02-16T09:40:59+00:00",
-    "score": 121,
-    "num_comments": 106,
-    "subreddit": "france",
-    "author": "vincentdidier",
-    "flair": "Actus",
-    "domain": "ozap.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/LdHmSUEcl5twyDP-9F-erfUVuTplT2UYLIj-eed4YIo.jpeg?auto=webp&s=60938c287de3b9d16ea08ee530fc5934537f12b7",
-    "ingested_at": "2026-10-31T15:05:29.455032+00:00",
-    "summary": "La fuite des abonnés se poursuit. Hier soir, Vivendi a dévoilé les résultats annuels de 2017 de sa chaîne Canal+ et, une fois de plus, les promesses des dirigeants de la chaîne cryptée n'ont pas été tenues.",
-    "thumbnail": "thumbnails/7xxoto.webp",
-    "tags": [
-      "Vincent Bolloré",
-      "Canal",
-      "Business"
-    ],
-    "analyzed_at": "2026-11-01T09:45:41.496454+00:00"
   },
   {
     "id": "7xokch",
@@ -830,13 +362,7 @@
     "ingested_at": "2026-10-31T15:05:29.454234+00:00",
     "summary": "Pierre Vaultier a conservé son titre de champion olympique de snowboardcross ce jeudi à PyeongChang. Quatre ans après son titre à Sotchi, le snowboardeur de Serre-Chevalier offre une sixième médaille à la France.",
     "thumbnail": "thumbnails/7xokch.webp",
-    "tags": [
-      "Pierre Vaultier",
-      "PyeongChang",
-      "Sotchi",
-      "Serre-Chevalier",
-      "Sport"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:45:42.029976+00:00"
   },
   {
@@ -857,8 +383,7 @@
     "summary": "Retrouvez l'actualité du Sud Ouest en direct et les informations locales et internationales : faits divers, politique, économie, sport, photos, info locale et vidéos.",
     "thumbnail": "thumbnails/7xoh52.webp",
     "tags": [
-      "Sud Ouest",
-      "Société"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T09:45:41.441821+00:00"
   },
@@ -880,11 +405,8 @@
     "summary": "La présidente du tribunal a estimé qu'il ignorait que les personnes qu'il logeait venaient de commettre les attentats meurtriers de Paris et de Saint-Denis du 13 novembre 2015.",
     "thumbnail": "thumbnails/7xiupw.webp",
     "tags": [
-      "Jawad Bendaoud",
-      "Paris et de Saint-Denis du 13",
-      "Saint-Denis",
-      "Commémorations du 13-Novembre",
-      "Terrorisme"
+      "Terrorisme",
+      "Justice"
     ],
     "analyzed_at": "2026-11-01T09:45:41.564353+00:00"
   },
@@ -906,10 +428,8 @@
     "summary": "Le gouvernement allemand propose la gratuité des transports en commun afin de réduire la pollution dans les villes, sous la menace d'amendes de...",
     "thumbnail": "thumbnails/7xgscs.webp",
     "tags": [
-      "Environnement",
-      "AFP",
-      "Industrie",
-      "Société"
+      "Transports",
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T09:45:46.475530+00:00"
   },
@@ -930,37 +450,8 @@
     "ingested_at": "2026-10-31T15:05:29.454500+00:00",
     "summary": "La fondation Mozilla indique qu'elle va enclencher une action contre le régulateur des télécoms américain au sujet de sa décision d'en finir avec la neutralité du net. À la longue liste des initiatives prises pour s'opposer à la décision du régulateur des télécoms américain d'abandonner le cadre de la neutralité du",
     "thumbnail": "thumbnails/7xgm10.webp",
-    "tags": [
-      "USA",
-      "Mozilla"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:45:42.284891+00:00"
-  },
-  {
-    "id": "7xfn7m",
-    "title": "Pollution lumineuse - Plus un seul endroit en France pour pouvoir apprécier pleinement la voie lactée",
-    "url": "https://www.lightpollutionmap.info/#zoom=4&lat=6039727&lon=1009313&layers=B0FFFTFFFF",
-    "permalink": "/r/france/comments/7xfn7m/pollution_lumineuse_plus_un_seul_endroit_en/",
-    "created_at": "2018-02-14T04:54:23+00:00",
-    "score": 101,
-    "num_comments": 76,
-    "subreddit": "france",
-    "author": "DrugIsFood",
-    "flair": "Science",
-    "domain": "lightpollutionmap.info",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/LQf8_RggbQ2JNfPtMaKHBEwhfVeHxKhJNsHdbDinLNk.png?auto=webp&s=36a9ce642b30605f076ee8806517e89624d4c846",
-    "ingested_at": "2026-10-31T15:05:29.455223+00:00",
-    "summary": "Interactive world light pollution map. The map uses NASA Black marble VIIRS, Sky brightness, Aurora prediction, observatories, clouds and SQM/SQC overlay contributed by users.",
-    "thumbnail": "thumbnails/7xfn7m.webp",
-    "tags": [
-      "NASA Black",
-      "VIIRS",
-      "SQM",
-      "SQC",
-      "Science"
-    ],
-    "analyzed_at": "2026-11-01T09:45:41.872790+00:00"
   },
   {
     "id": "7xbvcu",
@@ -980,32 +471,11 @@
     "summary": "",
     "thumbnail": "thumbnails/7xbvcu.webp",
     "tags": [
-      "Benyamin Nétanyahou"
+      "Police",
+      "Corruption",
+      "Conflit israélo-palestinien"
     ],
     "analyzed_at": "2026-11-01T09:45:42.006631+00:00"
-  },
-  {
-    "id": "7x8kyr",
-    "title": "Liste 2018 des logiciels libres recommandés par l'Etat",
-    "url": "https://references.modernisation.gouv.fr/sites/default/files/SILL%202018%20-%20socle%20interministeriel%20de%20logiciels%20libres.pdf",
-    "permalink": "/r/france/comments/7x8kyr/liste_2018_des_logiciels_libres_recommandés_par/",
-    "created_at": "2018-02-13T10:43:50+00:00",
-    "score": 132,
-    "num_comments": 138,
-    "subreddit": "france",
-    "author": "Migija",
-    "flair": "Technos",
-    "domain": "references.modernisation.gouv.fr",
-    "selftext": "",
-    "reddit_thumbnail": "",
-    "ingested_at": "2026-10-31T15:05:29.454782+00:00",
-    "summary": "",
-    "thumbnail": "",
-    "tags": [
-      "Etat",
-      "Technos"
-    ],
-    "analyzed_at": "2026-11-01T09:45:43.497051+00:00"
   },
   {
     "id": "7x88d4",
@@ -1024,13 +494,7 @@
     "ingested_at": "2026-10-31T15:05:29.454548+00:00",
     "summary": "Chaque année en France, 80.000 hommes souffrent de violences conjugales. Pourtant, on n'en parle pas. Pour moi, qui ai vu mon père souffrir, c'est incompréhensible.",
     "thumbnail": "thumbnails/7x88d4.webp",
-    "tags": [
-      "Life",
-      "Témoignage",
-      "Témoignage zep",
-      "Vie de famille",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:45:42.367589+00:00"
   },
   {
@@ -1050,62 +514,8 @@
     "ingested_at": "2026-10-31T15:05:29.454682+00:00",
     "summary": "Regardez l'évènement PyeongChang: Poursuite 12 en direct sur Eurosport. Scores, statistiques et commentaires en temps réel.",
     "thumbnail": "thumbnails/7x0fdz.webp",
-    "tags": [
-      "Martin Fourcade",
-      "Or",
-      "Jean-Claude Killy",
-      "PyeongChang",
-      "Sport"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:45:46.458018+00:00"
-  },
-  {
-    "id": "7wz02t",
-    "title": "AJA qu'en 1981 un étudiant japonais à Paris a tué et mangé une de ses camarades de classe, considéré irresponsable pénalement lors de son procès il échappe à la prison et rentre au Japon ou il connaîtra une certaine célébrité",
-    "url": "https://fr.wikipedia.org/wiki/Issei_Sagawa",
-    "permalink": "/r/france/comments/7wz02t/aja_quen_1981_un_étudiant_japonais_à_paris_a_tué/",
-    "created_at": "2018-02-12T06:51:26+00:00",
-    "score": 86,
-    "num_comments": 58,
-    "subreddit": "france",
-    "author": "BringbackMarchais",
-    "flair": "Culture",
-    "domain": "fr.wikipedia.org",
-    "selftext": "",
-    "reddit_thumbnail": "https://a.thumbs.redditmedia.com/WhVuaHnA9otuW6BScnm7LWTpLZO0WAMgIy4B4mhLFy8.jpg",
-    "ingested_at": "2026-10-31T15:05:29.455417+00:00",
-    "summary": "Issei Sagawa ( 佐川 一政 , Sagawa Issei ? ) , né le 26 avril 1949 et mort le 24 novembre 2022 , est un Japonais connu pour avoir tué, violé postmortem et partiellement mangé une étudiante néerlandaise, à Paris en juin 1981 .",
-    "thumbnail": "thumbnails/7wz02t.webp",
-    "tags": [
-      "Paris",
-      "Japon",
-      "AJA",
-      "Culture"
-    ],
-    "analyzed_at": "2026-11-01T09:45:42.298524+00:00"
-  },
-  {
-    "id": "7wupyg",
-    "title": "Un site pour vérifier si un de tes ancêtres a été guillotiné.",
-    "url": "http://les.guillotines.free.fr/doc.htm",
-    "permalink": "/r/france/comments/7wupyg/un_site_pour_vérifier_si_un_de_tes_ancêtres_a_été/",
-    "created_at": "2018-02-11T18:59:32+00:00",
-    "score": 325,
-    "num_comments": 116,
-    "subreddit": "france",
-    "author": "[deleted]",
-    "flair": "Société",
-    "domain": "les.guillotines.free.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://b.thumbs.redditmedia.com/yNXiXzzx_WRcIhlhMAhFU_FSbeCrwVkdAH40ZFLy71M.jpg",
-    "ingested_at": "2026-10-31T15:05:29.454145+00:00",
-    "summary": "Prospection.net propose des outils en ligne pour la prospection, le recrutement et la rÃ©daction : e-mails, reformulation de texte, guides et modÃ¨les.",
-    "thumbnail": "thumbnails/7wupyg.webp",
-    "tags": [
-      "GÃ",
-      "Société"
-    ],
-    "analyzed_at": "2026-11-01T09:45:43.976603+00:00"
   },
   {
     "id": "7wsqru",
@@ -1124,11 +534,7 @@
     "ingested_at": "2026-10-31T15:05:29.454053+00:00",
     "summary": "",
     "thumbnail": "thumbnails/7wsqru.webp",
-    "tags": [
-      "Perrine Laffont",
-      "JOs de Pyeongchang",
-      "Sport"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:45:43.669966+00:00"
   },
   {
@@ -1148,57 +554,8 @@
     "ingested_at": "2026-10-31T15:05:29.455480+00:00",
     "summary": "Le dirigeant nord-coréen Kim Jong Un a invité le président sud-coréen Moon Jae-in à participer à un sommet à Pyongyang, a annoncé Séoul samedi.",
     "thumbnail": "thumbnails/7wkbx6.webp",
-    "tags": [
-      "Pyongyang",
-      "Kim Jong",
-      "Séoul",
-      "Corée du Nord",
-      "Washington"
-    ],
-    "analyzed_at": "2026-11-01T09:45:50.769573+00:00"
-  },
-  {
-    "id": "7wjz2b",
-    "title": "Fougères, Ille-et-Vilaine, France",
-    "url": "https://c1.staticflickr.com/3/2830/11521020995_70833cc02a_o.jpg",
-    "permalink": "/r/france/comments/7wjz2b/fougères_illeetvilaine_france/",
-    "created_at": "2018-02-10T06:56:15+00:00",
-    "score": 616,
-    "num_comments": 42,
-    "subreddit": "france",
-    "author": "loulan",
-    "flair": "",
-    "domain": "c1.staticflickr.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/qc0PTfe8K5NcUHcHdxgAgLUVLnTq-DNq93NONjYgjV8.jpg?auto=webp&s=aada56e77e5859f3ffbc1249c2eb89deb71f2ef9",
-    "ingested_at": "2026-10-31T15:05:29.453904+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/7wjz2b.webp",
     "tags": [],
-    "analyzed_at": "2026-11-01T09:45:46.146473+00:00"
-  },
-  {
-    "id": "7we998",
-    "title": "VLC 3.0 est disponible !",
-    "url": "https://www.videolan.org/vlc/releases/3.0.0.html",
-    "permalink": "/r/france/comments/7we998/vlc_30_est_disponible/",
-    "created_at": "2018-02-09T15:43:16+00:00",
-    "score": 360,
-    "num_comments": 104,
-    "subreddit": "france",
-    "author": "hannibal_f4e",
-    "flair": "Technos",
-    "domain": "videolan.org",
-    "selftext": "",
-    "reddit_thumbnail": "https://b.thumbs.redditmedia.com/CHD-sfmAd-lwdcQrRLGC6AoDKC6divqU2HgRGPmyi2U.jpg",
-    "ingested_at": "2026-10-31T15:05:29.454101+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/7we998.webp",
-    "tags": [
-      "VLC 3",
-      "Technos"
-    ],
-    "analyzed_at": "2026-11-01T09:45:43.592540+00:00"
+    "analyzed_at": "2026-11-01T09:45:50.769573+00:00"
   },
   {
     "id": "7wd7it",
@@ -1217,11 +574,7 @@
     "ingested_at": "2026-10-31T15:05:29.454660+00:00",
     "summary": "Dans son rapport public annuel 2018, la Cour des comptes a reconnu l'intérêt du logiciel libre, décrit comme un « puissant facteur d’efficience et d’influence » mais aussi une façon de répondre à un « enjeu de sécurité et de souveraineté ». Si le logiciel propriétaire occupe encore une place importante dans les",
     "thumbnail": "thumbnails/7wd7it.webp",
-    "tags": [
-      "Cour",
-      "État",
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:45:44.110439+00:00"
   },
   {
@@ -1241,58 +594,8 @@
     "ingested_at": "2026-10-31T15:05:29.454897+00:00",
     "summary": "C'est une première : une joueuse est parvenue à remporter un tournoi majeur d'esport sur StarCraft II. La gagnante, une Canadienne, participait à une compétition organisée par Intel, et approuvée par le CIO, dans le cadre des Jeux olympiques d'hiver de 2018. Ils étaient dix-huit en compétition, dont dix-sept hommes",
     "thumbnail": "thumbnails/7wcneq.webp",
-    "tags": [
-      "StarCraft II",
-      "Pyeongchang",
-      "Intel",
-      "CIO",
-      "Sport"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:45:44.946557+00:00"
-  },
-  {
-    "id": "7w8lw8",
-    "title": "Répartition de la flotte française",
-    "url": "http://pluiesextremes.meteo.fr/france-metropole/Regimes-pluviometriques.html",
-    "permalink": "/r/france/comments/7w8lw8/répartition_de_la_flotte_française/",
-    "created_at": "2018-02-08T22:08:43+00:00",
-    "score": 115,
-    "num_comments": 10,
-    "subreddit": "france",
-    "author": "ComplexSideJump",
-    "flair": "Humour",
-    "domain": "pluiesextremes.meteo.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://a.thumbs.redditmedia.com/kfzmM1ihRMRMreZgv1KY4EONEDPiK3iq4VUPAk6QdW0.jpg",
-    "ingested_at": "2026-10-31T15:05:29.455052+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/7w8lw8.webp",
-    "tags": [
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:46:00.634924+00:00"
-  },
-  {
-    "id": "7w3h0w",
-    "title": "Le parlement européen va voter pour se prononcer sur la fin du changement d'heure.",
-    "url": "http://www.europarl.europa.eu/news/fr/agenda/briefing/2018-02-05/7/ete-hiver-debat-et-vote-pour-mettre-un-terme-au-changement-d-heure",
-    "permalink": "/r/france/comments/7w3h0w/le_parlement_européen_va_voter_pour_se_prononcer/",
-    "created_at": "2018-02-08T08:38:17+00:00",
-    "score": 174,
-    "num_comments": 182,
-    "subreddit": "france",
-    "author": "nokiou",
-    "flair": "Société",
-    "domain": "europarl.europa.eu",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/lkemKVhNxoOJJaZ6nLhW9eBfQNxf1GqALVDPM18BHuE.jpeg?auto=webp&s=4755cccaa580b85995803173d07a1312d0943298",
-    "ingested_at": "2026-10-31T15:05:29.454477+00:00",
-    "summary": "Les députés devraient exhorter la Commission européenne à proposer de mettre un terme au changement d’heure qui intervient deux fois par an, lors d’un débat jeudi matin. Une résolution sera mise aux voix à midi.",
-    "thumbnail": "thumbnails/7w3h0w.webp",
-    "tags": [
-      "Société"
-    ],
-    "analyzed_at": "2026-11-01T09:45:44.426768+00:00"
   },
   {
     "id": "7w2494",
@@ -1311,39 +614,8 @@
     "ingested_at": "2026-10-31T15:05:29.454968+00:00",
     "summary": "Dans l'esprit du Règlement général européen sur la protection des données (RGPD) qui entrera en vigueur en mai 2018, des députés de la République En Marche ont décidé de bannir la collecte des données des internautes à travers les moteurs de recherche.",
     "thumbnail": "thumbnails/7w2494.webp",
-    "tags": [
-      "Google",
-      "Règlement",
-      "RGPD",
-      "République",
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:45:44.772307+00:00"
-  },
-  {
-    "id": "7vy7jd",
-    "title": "Le Conseil d’Etat invalide le bouc de Manuel Valls",
-    "url": "http://www.legorafi.fr/2018/02/07/le-conseil-detat-invalide-le-bouc-de-manuel-valls/",
-    "permalink": "/r/france/comments/7vy7jd/le_conseil_detat_invalide_le_bouc_de_manuel_valls/",
-    "created_at": "2018-02-07T18:29:12+00:00",
-    "score": 144,
-    "num_comments": 14,
-    "subreddit": "france",
-    "author": "sitarane",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/Kw--piEebCsNjzY8fpKVUkIdyjpXB52tEGs6UFlQmWA.png?auto=webp&s=dc8522e58eda8af1f1223f0e79c9592925f77dc2",
-    "ingested_at": "2026-10-31T15:05:29.454616+00:00",
-    "summary": "C’est donc la fin du cauchemar pour les millions de Français qui ont subi de plein fouet et pendant des mois le bouc de Manuel Valls à chacune de ses apparitions en public.",
-    "thumbnail": "thumbnails/7vy7jd.webp",
-    "tags": [
-      "Manuel Valls",
-      "Conseil Etat",
-      "Français",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:45:44.964191+00:00"
   },
   {
     "id": "7vumn7",
@@ -1363,11 +635,8 @@
     "summary": "La Ville de Paris va \"étudier la faisabilité\" d'assigner en justice les compagnies pétrolières pour leur responsabilité dans le changement climatique, comme l'a fait New York, indique un vote mardi en...",
     "thumbnail": "thumbnails/7vumn7.webp",
     "tags": [
-      "Paris",
-      "New York",
-      "Ville de Paris",
-      "Flash",
-      "Flash Actu"
+      "Environnement",
+      "Justice"
     ],
     "analyzed_at": "2026-11-01T09:45:45.790676+00:00"
   },
@@ -1388,7 +657,9 @@
     "ingested_at": "2026-10-31T15:05:29.455136+00:00",
     "summary": "",
     "thumbnail": "thumbnails/7vn6il.webp",
-    "tags": [],
+    "tags": [
+      "Éducation"
+    ],
     "analyzed_at": "2026-11-01T09:45:45.652329+00:00"
   },
   {
@@ -1428,13 +699,7 @@
     "ingested_at": "2026-10-31T15:05:29.454990+00:00",
     "summary": "Ce jugement annule un contrat provisoire entre JCDecaux et la municipalité de Paris. Pour le budget de la ville, cela représente une perte de 40 millions d'euros jusqu'en 2019.",
     "thumbnail": "thumbnails/7vgbp4.webp",
-    "tags": [
-      "Paris",
-      "Conseil Etat",
-      "JCDecaux",
-      "Éco / Conso",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:45:46.367026+00:00"
   },
   {
@@ -1455,102 +720,10 @@
     "summary": "Invité de RFI lundi, Sylvain Maillard confirme par ailleurs un chiffre avancé par le secrétaire d'Etat à la Cohésion des territoires, qui a fait l'objet d'une controverse : 50 SDF par nuit en moyenne restent dans la rue en Ile-de-France faute de solution d'hébergement.",
     "thumbnail": "thumbnails/7veu42.webp",
     "tags": [
-      "SDF",
-      "Ile-de-France",
-      "LREM de Paris",
-      "Sylvain Maillard",
-      "RFI"
+      "Logement",
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T09:45:46.695646+00:00"
-  },
-  {
-    "id": "7v7aun",
-    "title": "Notre recette de tartiflette light sans reblochon, sans lardons, sans pomme de terre et sans intérêt",
-    "url": "http://www.legorafi.fr/2018/01/31/notre-recette-de-tartiflette-light-sans-reblochon-sans-lardons-sans-pomme-de-terre-et-sans-interet/",
-    "permalink": "/r/france/comments/7v7aun/notre_recette_de_tartiflette_light_sans_reblochon/",
-    "created_at": "2018-02-04T15:26:38+00:00",
-    "score": 140,
-    "num_comments": 16,
-    "subreddit": "france",
-    "author": "Lussarc",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/Q9f2MrevU_5EiYOjMtLYpaaXaw3Bthrv_yd7X7CRIZA.jpeg?auto=webp&s=653b9006b06b24f99ba2443f712118e03c0b8e18",
-    "ingested_at": "2026-10-31T15:05:29.454639+00:00",
-    "summary": "La tartiflette est un grand classique de la gastronomie hivernale. Mais pour en profiter, il n’est pas forcément nécessaire de succomber à l’overdose de lipides saturés ! Découvrez, en exclusivité, notre recette de tartiflette light sans reblochon, sans lardons, sans pomme de terre et sans intérêt.",
-    "thumbnail": "thumbnails/7v7aun.webp",
-    "tags": [
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:45:46.317089+00:00"
-  },
-  {
-    "id": "7v5lkz",
-    "title": "Pont Jacques-Chaban-Delmas à Bordeaux, Gironde, France",
-    "url": "https://c1.staticflickr.com/3/2882/8840750619_69456704ca_o.jpg",
-    "permalink": "/r/france/comments/7v5lkz/pont_jacqueschabandelmas_à_bordeaux_gironde_france/",
-    "created_at": "2018-02-04T08:12:08+00:00",
-    "score": 92,
-    "num_comments": 16,
-    "subreddit": "france",
-    "author": "loulan",
-    "flair": "",
-    "domain": "c1.staticflickr.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/xpo3HLCPzlJjagHOOfLp33knKSehfRFVQn4ZfOGsmgs.jpg?auto=webp&s=6054a5444eda03775056263cc3e4336fd80a6e99",
-    "ingested_at": "2026-10-31T15:05:29.455347+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/7v5lkz.webp",
-    "tags": [
-      "Pont Jacques-Chaban-Delmas",
-      "Bordeaux"
-    ],
-    "analyzed_at": "2026-11-01T09:45:53.593109+00:00"
-  },
-  {
-    "id": "7v298u",
-    "title": "Qwant, l'anti-Google français, jouera quitte ou double en 2018",
-    "url": "https://www.usine-digitale.fr/article/qwant-l-anti-google-francais-jouera-quitte-ou-double-en-2018.N643093",
-    "permalink": "/r/france/comments/7v298u/qwant_lantigoogle_français_jouera_quitte_ou/",
-    "created_at": "2018-02-03T21:32:19+00:00",
-    "score": 80,
-    "num_comments": 110,
-    "subreddit": "france",
-    "author": "wisi_eu",
-    "flair": "Technos",
-    "domain": "usine-digitale.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/kQK1OKz_lChcIfspzGYaEKV6mwcYQ5kMX1uq9jBj40A.jpg?auto=webp&s=7830a4f400feab0ed5e1ec91dd56a5e5b4d5e672",
-    "ingested_at": "2026-10-31T15:05:29.455459+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/7v298u.webp",
-    "tags": [
-      "Technos"
-    ],
-    "analyzed_at": "2026-11-01T09:45:47.779718+00:00"
-  },
-  {
-    "id": "7v0tka",
-    "title": "Lorsque /r/gifrecipes fête la chandeleur",
-    "url": "https://np.reddit.com/r/GifRecipes/comments/7uuihr/a_good_old_french_crepes_recipe_for_4_persons/",
-    "permalink": "/r/france/comments/7v0tka/lorsque_rgifrecipes_fête_la_chandeleur/",
-    "created_at": "2018-02-03T17:51:16+00:00",
-    "score": 65,
-    "num_comments": 23,
-    "subreddit": "france",
-    "author": "[deleted]",
-    "flair": "Humour",
-    "domain": "np.reddit.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/P1ZaiffJmBPeELfqjkb8rcUH6-XiLWk9vnGLvRpn2yw.jpg?auto=webp&s=e29f0c970c2ef9ef36faed3f256859288e9d4da7",
-    "ingested_at": "2026-10-31T15:05:29.455500+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/7v0tka.webp",
-    "tags": [
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:45:46.660345+00:00"
   },
   {
     "id": "7uu1l1",
@@ -1570,8 +743,8 @@
     "summary": "",
     "thumbnail": "thumbnails/7uu1l1.webp",
     "tags": [
-      "Tariq Ramadan",
-      "Société"
+      "Justice",
+      "Violences sexuelles"
     ],
     "analyzed_at": "2026-11-01T09:45:46.995858+00:00"
   },
@@ -1593,11 +766,7 @@
     "summary": "Suite à la publication sur les réseaux sociaux d’une comptine enseignée en école maternelle et jugée raciste, l’association des Jeunes Chinois de France s’est indignée. Elle a tenu à rappeler le racisme ordinaire dont sont victimes les Asiatiques.",
     "thumbnail": "thumbnails/7us413.webp",
     "tags": [
-      "Jeunes Chinois de France",
-      "Asie-Pacifique",
-      "Chine",
-      "Monde",
-      "Société"
+      "Racisme"
     ],
     "analyzed_at": "2026-11-01T09:45:47.361007+00:00"
   },
@@ -1619,33 +788,10 @@
     "summary": "Airbnb est critiqué pour son optimisation fiscale... une pratique elle-même dénoncée par La France insoumise.",
     "thumbnail": "thumbnails/7umnu6.webp",
     "tags": [
-      "Airbnb",
-      "Marseille",
-      "Jean-Luc Mélenchon",
-      "France insoumise",
-      "Optimisation fiscale"
+      "Budget et fiscalité",
+      "Jean-Luc Mélenchon"
     ],
     "analyzed_at": "2026-11-01T09:45:47.089867+00:00"
-  },
-  {
-    "id": "7ukc2c",
-    "title": "Salut /r/france ! Jusqu’ici, tu as bien aimé mes petites expériences data, alors je te présente mon nouveau bébé : les sujets préférés de 50 sites d’information français",
-    "url": "https://dansmonlabo.com/2018/02/01/obsessions-marottes-et-zones-dombre-voici-les-sujets-preferes-de-50-sites-dinfo-1661/",
-    "permalink": "/r/france/comments/7ukc2c/salut_rfrance_jusquici_tu_as_bien_aimé_mes/",
-    "created_at": "2018-02-01T17:25:32+00:00",
-    "score": 179,
-    "num_comments": 62,
-    "subreddit": "france",
-    "author": "Yanng",
-    "flair": "Actus",
-    "domain": "dansmonlabo.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/wAPawY1pXPwG66GMUHpBLpYjnkCyQhQpfxnRpm7ueTo.png?auto=webp&s=840d4c3d62f34eb869912bb932efadf268701237",
-    "ingested_at": "2026-10-31T15:05:29.454433+00:00",
-    "summary": "Dans une rédaction, la ligne éditoriale, c'est comme le dahu : tout le monde en parle, mais personne ne l'a jamais vue. Elle structure pourtant le travail quotidien des journalistes ; c'est en son nom qu'on va accepter ou refuser une idée de sujet ou d’angle.",
-    "thumbnail": "thumbnails/7ukc2c.webp",
-    "tags": [],
-    "analyzed_at": "2026-11-01T09:45:47.629531+00:00"
   },
   {
     "id": "7ujf8x",
@@ -1664,9 +810,7 @@
     "ingested_at": "2026-10-31T15:05:29.455114+00:00",
     "summary": "",
     "thumbnail": "thumbnails/7ujf8x.webp",
-    "tags": [
-      "Culture"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:45:47.482801+00:00"
   },
   {
@@ -1687,11 +831,7 @@
     "summary": "FIG DATA - Depuis le 1er décembre, les loueurs de meublés touristiques parisiens ont l'obligation, en vertu du décret Airbnb, d'acquérir un numéro d'enregistrement auprès de la mairie. Le Figaro a analysé près de 54.000 annonces.",
     "thumbnail": "thumbnails/7ui3rr.webp",
     "tags": [
-      "AirbnB",
-      "FIG DATA",
-      "Paris",
-      "Anne Hidalgo",
-      "Société"
+      "Anne Hidalgo"
     ],
     "analyzed_at": "2026-11-01T09:45:48.705961+00:00"
   }

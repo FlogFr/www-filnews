@@ -16,37 +16,8 @@
     "ingested_at": "2026-10-31T15:24:36.164523+00:00",
     "summary": "Très populaire notamment pour son rôle de Thérèse dans &quot;Le père Noël est une ordure&quot;, la comédienne avait remporté le césar de la meilleure actrice en 1988 pour &quot;Le Grand Chemin&quot;.&nbsp;",
     "thumbnail": "thumbnails/bj5quc.webp",
-    "tags": [
-      "Anémone",
-      "Grand Chemin",
-      "Thérèse",
-      "Noël",
-      "Culture"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:42:30.182724+00:00"
-  },
-  {
-    "id": "bj5ozt",
-    "title": "Des professionnels jugent impossible la reconstruction en cinq ans du charisme de Bruno Le Maire",
-    "url": "http://legorafi.fr/u/7MN",
-    "permalink": "/r/france/comments/bj5ozt/des_professionnels_jugent_impossible_la/",
-    "created_at": "2019-04-30T16:59:06+00:00",
-    "score": 255,
-    "num_comments": 5,
-    "subreddit": "france",
-    "author": "Thomix2003",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/BJwg3xV0PbyuhFoKnPlMpM5mfXEQPZOZKr-86gUClOo.jpg?auto=webp&s=2529c80182c29529022b07b5794b244d59b08caa",
-    "ingested_at": "2026-10-31T15:24:36.164172+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/bj5ozt.webp",
-    "tags": [
-      "Bruno le Maire",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:42:28.837406+00:00"
   },
   {
     "id": "bj259e",
@@ -66,33 +37,9 @@
     "summary": "Maria, 19 ans, a déposé plainte mardi auprès du parquet de Marseille pour tentative d’homicide, violences volontaires aggravées et non-assistance à personne en danger. Le 8 décembre dernier, en marge…",
     "thumbnail": "thumbnails/bj259e.webp",
     "tags": [
-      "Marseille"
+      "Police"
     ],
     "analyzed_at": "2026-11-01T09:42:28.722420+00:00"
-  },
-  {
-    "id": "bj0mz4",
-    "title": "Jules Verne par Félix Nadar 1878",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/F%C3%A9lix_Nadar_1820-1910_portraits_Jules_Verne_%28restoration%29.jpg",
-    "permalink": "/r/france/comments/bj0mz4/jules_verne_par_félix_nadar_1878/",
-    "created_at": "2019-04-30T07:47:06+00:00",
-    "score": 637,
-    "num_comments": 27,
-    "subreddit": "france",
-    "author": "Galimesh",
-    "flair": "Culture",
-    "domain": "upload.wikimedia.org",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/h5rAJBgMFOnlPyw4uSF0PiKEVwPD8bupMroP28r7oQs.jpg?auto=webp&s=8ef8663c56c0ed03174a9634e3a12fa01057cb47",
-    "ingested_at": "2026-10-31T15:24:36.163526+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/bj0mz4.webp",
-    "tags": [
-      "Jules Verne",
-      "Félix Nadar 1878",
-      "Culture"
-    ],
-    "analyzed_at": "2026-11-01T09:42:29.242184+00:00"
   },
   {
     "id": "bj074j",
@@ -111,7 +58,10 @@
     "ingested_at": "2026-10-31T15:24:36.164373+00:00",
     "summary": "",
     "thumbnail": "thumbnails/bj074j.webp",
-    "tags": [],
+    "tags": [
+      "Police",
+      "Justice"
+    ],
     "analyzed_at": "2026-11-01T09:42:29.175783+00:00"
   },
   {
@@ -132,7 +82,7 @@
     "summary": "Selon des experts travaillant dans le pays nordique, l’animal pourrait avoir appartenu à la marine du grand état voisin. Mais il est encore",
     "thumbnail": "thumbnails/bipcl7.webp",
     "tags": [
-      "Écologie"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T09:42:29.391839+00:00"
   },
@@ -153,9 +103,7 @@
     "ingested_at": "2026-10-31T15:24:36.163448+00:00",
     "summary": "",
     "thumbnail": "thumbnails/bim6oe.webp",
-    "tags": [
-      "MAX"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:42:29.576832+00:00"
   },
   {
@@ -175,11 +123,7 @@
     "ingested_at": "2026-10-31T15:24:36.164745+00:00",
     "summary": "Logée dans une cité universitaire de Nancy, une étudiante en médecine s’est réveillée un matin avec un employé du CROUS penché sur son lit. Un ...",
     "thumbnail": "thumbnails/bi9hjf.webp",
-    "tags": [
-      "CROUS",
-      "Nancy",
-      "Kenza"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:42:30.062197+00:00"
   },
   {
@@ -200,9 +144,7 @@
     "summary": "",
     "thumbnail": "thumbnails/bi906c.webp",
     "tags": [
-      "DGSI",
-      "Yémen",
-      "Politique"
+      "Médias"
     ],
     "analyzed_at": "2026-11-01T09:42:29.926075+00:00"
   },
@@ -224,11 +166,7 @@
     "summary": "Un sondage Ifop montre que 23% des 18-22 ans comptent voter pour Marine Le Pen. Un vote protestataire, mais pas seulement, explique le sociologue Sylvain Crépon.",
     "thumbnail": "thumbnails/bi7whq.webp",
     "tags": [
-      "FN",
-      "Ifop",
-      "Marine le Pen",
-      "Sylvain Crépon",
-      "Politique 2012"
+      "Marine Le Pen"
     ],
     "analyzed_at": "2026-11-01T09:42:30.430918+00:00"
   },
@@ -249,34 +187,8 @@
     "ingested_at": "2026-10-31T15:24:36.164505+00:00",
     "summary": "Alors que la disparition des abeilles inquiète partout et notamment en Europe, elles se portent à merveille à Cuba. L'explication est à chercher notamment du côté de l'embargo américain, qui a empêché l'importation de pesticides.",
     "thumbnail": "thumbnails/bhxf0l.webp",
-    "tags": [
-      "Cuba",
-      "Europe"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:42:30.970152+00:00"
-  },
-  {
-    "id": "bhvtzt",
-    "title": "3 nouveaux suicides en deux jours dans la police nationale, soit 29 morts depuis le début de l’année dans nos rangs | Syndicat France Police",
-    "url": "https://france-police.org/2019/04/18/trois-nouveaux-suicides-en-deux-jours-dans-la-police-nationale-soit-29-morts-depuis-le-debut-de-lannee-dans-nos-rangs/",
-    "permalink": "/r/france/comments/bhvtzt/3_nouveaux_suicides_en_deux_jours_dans_la_police/",
-    "created_at": "2019-04-27T05:10:40+00:00",
-    "score": 206,
-    "num_comments": 78,
-    "subreddit": "france",
-    "author": "GiletsJaunes",
-    "flair": "Politique",
-    "domain": "france-police.org",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/_iQFlVjf4NEedM169dm-gPjcOUpn1g7Gsg2opZdEBCc.jpg?auto=webp&s=d3562664e28dbf7fe16dd88ec99ece0c04b6b217",
-    "ingested_at": "2026-10-31T15:24:36.164681+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/bhvtzt.webp",
-    "tags": [
-      "Syndicat France Police",
-      "Politique"
-    ],
-    "analyzed_at": "2026-11-01T09:42:31.771410+00:00"
   },
   {
     "id": "bhmh96",
@@ -295,9 +207,7 @@
     "ingested_at": "2026-10-31T15:24:36.165109+00:00",
     "summary": "Les parrains ne se salissent plus les mains, ils investissent. De l’or blanc (mozzarella) à l’or rouge (tomates cerises), des cultures en rase campagne aux rest...",
     "thumbnail": "thumbnails/bhmh96.webp",
-    "tags": [
-      "Roberto Battaglia"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:42:30.577616+00:00"
   },
   {
@@ -318,8 +228,9 @@
     "summary": "",
     "thumbnail": "thumbnails/bhiswi.webp",
     "tags": [
-      "Gilets Jaunes",
-      "Trompeur ?"
+      "Manifestations",
+      "Police",
+      "Médias"
     ],
     "analyzed_at": "2026-11-01T09:42:30.893995+00:00"
   },
@@ -341,35 +252,9 @@
     "summary": "",
     "thumbnail": "thumbnails/bh9rgc.webp",
     "tags": [
-      "Google de 1"
+      "Justice"
     ],
     "analyzed_at": "2026-11-01T09:42:30.875270+00:00"
-  },
-  {
-    "id": "bh508v",
-    "title": "Le Sénat lance une consultation sur la gratuité des transports - Actu-environnement",
-    "url": "https://www.actu-environnement.com/ae/news/Senat-consultation-gratuite-transports-33336.php4",
-    "permalink": "/r/france/comments/bh508v/le_sénat_lance_une_consultation_sur_la_gratuité/",
-    "created_at": "2019-04-25T05:37:05+00:00",
-    "score": 329,
-    "num_comments": 130,
-    "subreddit": "france",
-    "author": "[deleted]",
-    "flair": "Politique",
-    "domain": "actu-environnement.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/jNKGXRZMUFzhWORhQBAOkWYF8MOFS1GZM3_hy-SY878.jpeg?auto=webp&s=d8079d31282eb179bb10bd903297ef956dcf9c86",
-    "ingested_at": "2026-10-31T15:24:36.163886+00:00",
-    "summary": "La Mission du Sénat sur la gratuité des transports lance le 23 avril une consultation en ligne. Son objet est de savoir si la gratuité des transports est ''une fausse bonne idée'' ou ''une révolution écologique et sociale des mobilités''. Constituée...",
-    "thumbnail": "thumbnails/bh508v.webp",
-    "tags": [
-      "Sénat",
-      "Écologie",
-      "Environnement",
-      "Mission du Sénat",
-      "Politique"
-    ],
-    "analyzed_at": "2026-11-01T09:42:31.477318+00:00"
   },
   {
     "id": "bgxny7",
@@ -389,9 +274,7 @@
     "summary": "Depuis janvier, la direction des hôpitaux d’Île-de-France démentait tout problème dans l’utilisation du dispositif SI-VIC, qui permet de suivre les blessés lors d’événements graves. Mais Le Canard en…",
     "thumbnail": "thumbnails/bgxny7.webp",
     "tags": [
-      "Île-de-France",
-      "SI-VIC",
-      "Canard"
+      "Manifestations"
     ],
     "analyzed_at": "2026-11-01T09:42:31.965588+00:00"
   },
@@ -412,13 +295,7 @@
     "ingested_at": "2026-10-31T15:24:36.164132+00:00",
     "summary": "Le déversement provenait d'une centrale à béton, propriété de Vinci Construction, servant à alimenter le chantier Eole d'extension du RER E vers l'ouest parisien. Une association en déplore les conséquences pour l'environnement",
     "thumbnail": "thumbnails/bgtqcr.webp",
-    "tags": [
-      "Seine",
-      "Nanterre",
-      "Vinci Construction",
-      "Eole",
-      "RER E"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:42:31.631905+00:00"
   },
   {
@@ -439,58 +316,9 @@
     "summary": "Mardi, le tribunal de grande instance de Paris jugeait en comparution immédiate quelques manifestants interpellés samedi, lors de l’acte XXIII du mouvement des gilets jaunes. Choses vues.",
     "thumbnail": "thumbnails/bgssev.webp",
     "tags": [
-      "Paris",
-      "XXIII"
+      "Justice"
     ],
     "analyzed_at": "2026-11-01T09:42:32.080121+00:00"
-  },
-  {
-    "id": "bgsael",
-    "title": "15th century Paris, France",
-    "url": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b03f99ab-30e7-4845-9e7f-250ca16bb3b9/dc5h02d-e013e7cf-95ab-427b-bb8d-7403ce11fcbc.jpg/v1/fill/w_1600,h_900,q_75,strp/2016___matte_painting___film___notre_dame_by_djahal_dc5h02d-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTAwIiwicGF0aCI6IlwvZlwvYjAzZjk5YWItMzBlNy00ODQ1LTllN2YtMjUwY2ExNmJiM2I5XC9kYzVoMDJkLWUwMTNlN2NmLTk1YWItNDI3Yi1iYjhkLTc0MDNjZTExZmNiYy5qcGciLCJ3aWR0aCI6Ijw9MTYwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.xVFcs7Pc7t1DLX8glEOULRp-Dc4xHKidUbI1xAeX1b4",
-    "permalink": "/r/france/comments/bgsael/15th_century_paris_france/",
-    "created_at": "2019-04-24T08:52:58+00:00",
-    "score": 425,
-    "num_comments": 33,
-    "subreddit": "france",
-    "author": "Busby66",
-    "flair": "",
-    "domain": "images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/7tzdPut4dZ_y_cNwVetgj3cMQrQV12KjTEd8f9pfK8s.jpeg?auto=webp&s=e1472644175a526904aa5eb643883b73a690f1d3",
-    "ingested_at": "2026-10-31T15:24:36.163746+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/bgsael.webp",
-    "tags": [
-      "Paris"
-    ],
-    "analyzed_at": "2026-11-01T09:42:31.953577+00:00"
-  },
-  {
-    "id": "bgrapw",
-    "title": "Plagiat: Saïd Mosker remporte la première manche de son procès contre Gad El Maleh",
-    "url": "https://www.h24info.ma/culture/plagiat-said-mosker-remporte-la-premiere-manche-de-son-proces-contre-gad-el-maleh/",
-    "permalink": "/r/france/comments/bgrapw/plagiat_saïd_mosker_remporte_la_première_manche/",
-    "created_at": "2019-04-24T06:29:19+00:00",
-    "score": 207,
-    "num_comments": 57,
-    "subreddit": "france",
-    "author": "Tortolino",
-    "flair": "",
-    "domain": "h24info.ma",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/8cfz5Z4rPOIy5w4NA_u7oFU81fedKqtrtQK5G4e0_Bw.jpeg?auto=webp&s=ed05e74547db0709f04caebea52acff56c628cc1",
-    "ingested_at": "2026-10-31T15:24:36.164635+00:00",
-    "summary": "Après la sortie de la chanson \"Danse de la joie\" de Gad El Maleh en 2015, Said Mosker avait entamé une procédure judiciaire en 2016 contre l'humoriste franco-marocain pour plagiat.",
-    "thumbnail": "thumbnails/bgrapw.webp",
-    "tags": [
-      "Saïd Mosker",
-      "Gad El Maleh",
-      "MAMA",
-      "SACEM",
-      "Gad Elmaleh"
-    ],
-    "analyzed_at": "2026-11-01T09:42:32.751506+00:00"
   },
   {
     "id": "bgq1nf",
@@ -510,61 +338,9 @@
     "summary": "",
     "thumbnail": "thumbnails/bgq1nf.webp",
     "tags": [
-      "ONU",
-      "Société"
+      "Manifestations"
     ],
     "analyzed_at": "2026-11-01T09:42:32.378958+00:00"
-  },
-  {
-    "id": "bgk3hf",
-    "title": "\"La scène principale devait être filmée dans Notre-Dame\" : le film Kaamelott reporté de 25 ans",
-    "url": "http://franchetvinfo.fr/la-scene-principale-devait-etre-filmee-dans-notre-dame-le-film-kaamelott-reporte-de-25-ans/",
-    "permalink": "/r/france/comments/bgk3hf/la_scène_principale_devait_être_filmée_dans/",
-    "created_at": "2019-04-23T18:48:53+00:00",
-    "score": 211,
-    "num_comments": 38,
-    "subreddit": "france",
-    "author": "Dailand",
-    "flair": "Humour",
-    "domain": "franchetvinfo.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/i_jIOl-UYe-bWE8__euEz_vyNsLAa6mszvIWxkaC1xg.jpeg?auto=webp&s=f263ad3d830c7ffdaa54d6f463f0ccd6059934f5",
-    "ingested_at": "2026-10-31T15:24:36.164545+00:00",
-    "summary": "Les fans les plus inconditionnels de la série, tout comme les adeptes de l’acteur Alexandre Astier le savent bien : pour voir enfin sortir le film adapté de la série, il faut être patient. Voilà déjà 15 ans que le film a été annoncé par...",
-    "thumbnail": "thumbnails/bgk3hf.webp",
-    "tags": [
-      "Notre-Dame",
-      "Kaamelott",
-      "Alexandre Astier",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:42:32.466286+00:00"
-  },
-  {
-    "id": "bghith",
-    "title": "Nathalie Loiseau affirme qu’elle ignorait que LaREM était un parti de droite",
-    "url": "http://www.legorafi.fr/2019/04/23/nathalie-loiseau-affirme-quelle-ignorait-que-larem-etait-un-parti-de-droite/",
-    "permalink": "/r/france/comments/bghith/nathalie_loiseau_affirme_quelle_ignorait_que/",
-    "created_at": "2019-04-23T15:12:27+00:00",
-    "score": 285,
-    "num_comments": 62,
-    "subreddit": "france",
-    "author": "CBarnovski",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/RDlW8MWF4_oBAke0bt6SllLuzfrQlyBFjk3lR4exxsY.jpeg?auto=webp&s=ab885105c204360e84364967ca018e58a2eaa194",
-    "ingested_at": "2026-10-31T15:24:36.164032+00:00",
-    "summary": "Paris – Après les révélations de Médiapart sur sa présence dans sa jeunesse sur une liste d’extrême-droite, Nathalie Loiseau doit désormais se justifier de sa présence sur la liste aux Européennes de La République En Marche, une liste pourtant classée à droite. Reportage.",
-    "thumbnail": "thumbnails/bghith.webp",
-    "tags": [
-      "Nathalie Loiseau",
-      "LaREM",
-      "Marche",
-      "Médiapart",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:42:32.310296+00:00"
   },
   {
     "id": "bgg50s",
@@ -583,40 +359,8 @@
     "ingested_at": "2026-10-31T15:24:36.164307+00:00",
     "summary": "D’après la Cour des comptes, les sociétés autoroutières profiteraient de la faiblesse de l’État pour allonger la durée de leurs concessions... et engranger de jolis profits en finançant les travaux voulus par les pouvoirs publics.",
     "thumbnail": "thumbnails/bgg50s.webp",
-    "tags": [
-      "Cour",
-      "État",
-      "SCA",
-      "Peage",
-      "Autoroute"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:42:32.961462+00:00"
-  },
-  {
-    "id": "bgd4mp",
-    "title": "Aja que selon une étude de l'université de liège, les frites sont d'origine parisienne.",
-    "url": "https://www.news.uliege.be/cms/c_10630394/fr/les-grands-mythes-de-la-gastronomie-l-histoire-vraie-de-la-pomme-de-terre-frite",
-    "permalink": "/r/france/comments/bgd4mp/aja_que_selon_une_étude_de_luniversité_de_liège/",
-    "created_at": "2019-04-23T06:39:20+00:00",
-    "score": 595,
-    "num_comments": 146,
-    "subreddit": "france",
-    "author": "loezia",
-    "flair": "",
-    "domain": "news.uliege.be",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/IF0OCPZETIWO9lXiTTi4tZ1_Wy0QDshcCR5M-5kv3Mc.jpeg?auto=webp&s=f78fb57fed3c936d3cfd5fe7c8395233242848cb",
-    "ingested_at": "2026-10-31T15:24:36.163548+00:00",
-    "summary": "La frite est belge, la « culture fritkot belge » a été reconnue comme chef-d’œuvre du patrimoine immatériel. Mais où est-elle vraiment née ?",
-    "thumbnail": "thumbnails/bgd4mp.webp",
-    "tags": [
-      "SCHIST",
-      "Recherche & Innovation - News",
-      "FACPHL",
-      "Culture et société",
-      "Philosophie et Lettres"
-    ],
-    "analyzed_at": "2026-11-01T09:42:32.904388+00:00"
   },
   {
     "id": "bgcttg",
@@ -635,36 +379,8 @@
     "ingested_at": "2026-10-31T15:24:36.164461+00:00",
     "summary": "Un slogan adressé aux policiers lors de manifestations… mais incompatible avec le prêt-à-condamner dominant.",
     "thumbnail": "thumbnails/bgcttg.webp",
-    "tags": [
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:42:32.979429+00:00"
-  },
-  {
-    "id": "bg5bs8",
-    "title": "Emmanuel Macron Not Sure How To Tell Billionaires Notre Dame Repair Only Costs $200 (€177)",
-    "url": "https://www.theonion.com/emmanuel-macron-not-sure-how-to-tell-billionaires-notre-1834219170",
-    "permalink": "/r/france/comments/bg5bs8/emmanuel_macron_not_sure_how_to_tell_billionaires/",
-    "created_at": "2019-04-22T18:10:50+00:00",
-    "score": 190,
-    "num_comments": 39,
-    "subreddit": "france",
-    "author": "Ebadd",
-    "flair": "Humour",
-    "domain": "theonion.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/_CjRiIYkcDNhDh-wUmC1yvMyg1KSlBo7O3rJmjvYGbE.jpg?auto=webp&s=35953a831db83e1970b58a4d6496764559c55ebc",
-    "ingested_at": "2026-10-31T15:24:36.164811+00:00",
-    "summary": "PARIS—Following an outpouring of financial support from the nation’s wealthiest residents, French president Emmanuel Macron admitted Monday he was not sure how to tell the billionaire donors that repairs to the damaged Notre Dame cathedral would only cost the equivalent of about $200.",
-    "thumbnail": "thumbnails/bg5bs8.webp",
-    "tags": [
-      "Emmanuel Macron Not Sure How",
-      "Tell Billionaires",
-      "Dame Repair Only Costs 200",
-      "PARIS Following",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:42:34.376670+00:00"
   },
   {
     "id": "bfz3an",
@@ -683,10 +399,7 @@
     "ingested_at": "2026-10-31T15:24:36.165240+00:00",
     "summary": "",
     "thumbnail": "thumbnails/bfz3an.webp",
-    "tags": [
-      "Carlos Ghosn",
-      "Japon"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:42:33.126811+00:00"
   },
   {
@@ -707,11 +420,9 @@
     "summary": "“C’est de la délation qu’on nous demande de faire”, s’indigne un urgentiste à l’Hôtel-Dieu.",
     "thumbnail": "thumbnails/bfoxjd.webp",
     "tags": [
-      "CNIL",
-      "Hôtel-Dieu",
-      "GILETS JAUNES",
-      "Santé",
-      "Médecine"
+      "Manifestations",
+      "Numérique",
+      "Santé"
     ],
     "analyzed_at": "2026-11-01T09:42:33.397717+00:00"
   },
@@ -732,13 +443,7 @@
     "ingested_at": "2026-10-31T15:24:36.164659+00:00",
     "summary": "Le Premier ministre du pays a condamné des \"attaques lâches\".",
     "thumbnail": "thumbnails/bflyo3.webp",
-    "tags": [
-      "Sri Lanka",
-      "Pâques",
-      "Premier",
-      "Indonésie",
-      "Asie-Pacifique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:42:33.428089+00:00"
   },
   {
@@ -759,33 +464,10 @@
     "summary": "Plusieurs professionnels font état de violences ou d’interpellations lors de cet acte 23 des Gilets jaunes.",
     "thumbnail": "thumbnails/bfejao.webp",
     "tags": [
-      "Gaspard Glanz",
-      "Alexis Kraland"
+      "Manifestations",
+      "Médias"
     ],
     "analyzed_at": "2026-11-01T09:42:33.356380+00:00"
-  },
-  {
-    "id": "bfam3n",
-    "title": "L'ensemble des 413h de cours de Gilles Deleuze + transcriptions",
-    "url": "http://www2.univ-paris8.fr/deleuze/article.php3?id_article=1",
-    "permalink": "/r/france/comments/bfam3n/lensemble_des_413h_de_cours_de_gilles_deleuze/",
-    "created_at": "2019-04-20T09:51:33+00:00",
-    "score": 325,
-    "num_comments": 23,
-    "subreddit": "france",
-    "author": "so_daconceicao",
-    "flair": "Culture",
-    "domain": "www2.univ-paris8.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://b.thumbs.redditmedia.com/Asqv7l5SmAYX1aUWiWxCaIpFWnnNvNigdf-E5eUrXxE.jpg",
-    "ingested_at": "2026-10-31T15:24:36.163911+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/bfam3n.webp",
-    "tags": [
-      "Gilles Deleuze",
-      "Culture"
-    ],
-    "analyzed_at": "2026-11-01T09:42:49.113633+00:00"
   },
   {
     "id": "beyvmd",
@@ -805,10 +487,7 @@
     "summary": "La Cour des comptes a calculé que le plan de relance autoroutier signé en 2015 entre l’Etat et les sociétés d’autoroutes va leur rapporter c",
     "thumbnail": "thumbnails/beyvmd.webp",
     "tags": [
-      "Cour",
-      "François Hollande",
-      "Etat",
-      "Politique"
+      "François Hollande"
     ],
     "analyzed_at": "2026-11-01T09:42:33.687225+00:00"
   },
@@ -830,11 +509,7 @@
     "summary": "Vendredi 19 avril, plus de 2.000 activistes ont mené des actions contre « la République des pollueurs », à La Défense, près de Paris. Il s'agit de la plus grande action de désobéissance civile organisée à ce jour en France. Reporterre a suivi l'événement en continu.",
     "thumbnail": "thumbnails/bewi67.webp",
     "tags": [
-      "Défense",
-      "Luttes",
-      "République",
-      "Paris",
-      "CRS"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T09:42:34.052324+00:00"
   },
@@ -855,34 +530,8 @@
     "ingested_at": "2026-10-31T15:24:36.163644+00:00",
     "summary": "",
     "thumbnail": "thumbnails/beo67b.webp",
-    "tags": [
-      "Notre-Dame"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:42:44.515882+00:00"
-  },
-  {
-    "id": "bej8u8",
-    "title": "Pour faire taire les critiques, François Pinault et Bernard Arnaud vont faire un don à Emmaüs de 300 euros",
-    "url": "http://legorafi.fr/u/7LN",
-    "permalink": "/r/france/comments/bej8u8/pour_faire_taire_les_critiques_françois_pinault/",
-    "created_at": "2019-04-18T08:51:32+00:00",
-    "score": 390,
-    "num_comments": 45,
-    "subreddit": "france",
-    "author": "Thomix2003",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/u4_WhtGO6zgjo7rkh6-dxTmIblQzk5QyedsJ2rilZKM.jpg?auto=webp&s=edf156b2bf95098d845b7e8ebda699d35fdb7ab2",
-    "ingested_at": "2026-10-31T15:24:36.163785+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/bej8u8.webp",
-    "tags": [
-      "François Pinault et Bernard Arnaud",
-      "Emmaüs de 300",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:42:34.362031+00:00"
   },
   {
     "id": "beij2m",
@@ -901,7 +550,9 @@
     "ingested_at": "2026-10-31T15:24:36.163831+00:00",
     "summary": "",
     "thumbnail": "thumbnails/beij2m.webp",
-    "tags": [],
+    "tags": [
+      "Environnement"
+    ],
     "analyzed_at": "2026-11-01T09:42:34.010736+00:00"
   },
   {
@@ -921,58 +572,8 @@
     "ingested_at": "2026-10-31T15:24:36.163598+00:00",
     "summary": "",
     "thumbnail": "thumbnails/beifqm.webp",
-    "tags": [
-      "France Inter",
-      "RTL"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:42:34.414660+00:00"
-  },
-  {
-    "id": "be98cp",
-    "title": "\"Y a pas d'argent magique\" - Emmanuel Macron",
-    "url": "https://media.discordapp.net/attachments/464404923006713866/568094474534649877/57486507_2488299891391575_2022911398639566848_n.png?width=549&height=570",
-    "permalink": "/r/france/comments/be98cp/y_a_pas_dargent_magique_emmanuel_macron/",
-    "created_at": "2019-04-17T15:36:39+00:00",
-    "score": 2929,
-    "num_comments": 304,
-    "subreddit": "france",
-    "author": "[deleted]",
-    "flair": "",
-    "domain": "media.discordapp.net",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/xayI3HwZ0_FZUrTYmxrswXwrs3VpOnm3SsjMdZrUfHI.png?auto=webp&s=0ce0249776d62cbe3c52b70244277c04dd487ab7",
-    "ingested_at": "2026-10-31T15:24:36.163340+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/be98cp.webp",
-    "tags": [
-      "Emmanuel Macron"
-    ],
-    "analyzed_at": "2026-11-01T09:42:36.645407+00:00"
-  },
-  {
-    "id": "be8ls2",
-    "title": "Ubisoft annonce un don de 500.000 € pour Notre-Dame de Paris et offre Assassin's Creed Unity pendant une semaine",
-    "url": "https://news.ubisoft.com/en-us/article/348227/supporting-notre-dame-de-paris",
-    "permalink": "/r/france/comments/be8ls2/ubisoft_annonce_un_don_de_500000_pour_notredame/",
-    "created_at": "2019-04-17T14:42:28+00:00",
-    "score": 254,
-    "num_comments": 130,
-    "subreddit": "france",
-    "author": "Tidus17",
-    "flair": "Culture",
-    "domain": "news.ubisoft.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/kYsIp7GkduSAvToNho6TfOLcijIdtKMNmFR_bo6GRtY.jpg?auto=webp&s=d89d8145a6470aa4e754584b5fdc420f3abb27a4",
-    "ingested_at": "2026-10-31T15:24:36.164194+00:00",
-    "summary": "We stand in solidarité with our fellow Parisians and everyone around the world moved by the devastation the fire caused.",
-    "thumbnail": "thumbnails/be8ls2.webp",
-    "tags": [
-      "Assassin's Creed Unity",
-      "Notre-Dame de Paris",
-      "Parisians",
-      "Culture"
-    ],
-    "analyzed_at": "2026-11-01T09:42:36.803586+00:00"
   },
   {
     "id": "be5h89",
@@ -992,10 +593,7 @@
     "summary": "La polémique commençait à enfler et François-Henri Pinault a préféré la dégonfler très vite",
     "thumbnail": "thumbnails/be5h89.webp",
     "tags": [
-      "Paris",
-      "François-Henri Pinault",
-      "Kering",
-      "Pinault"
+      "Budget et fiscalité"
     ],
     "analyzed_at": "2026-11-01T09:42:34.726154+00:00"
   },
@@ -1016,10 +614,7 @@
     "ingested_at": "2026-10-31T15:24:36.163979+00:00",
     "summary": "Le géant français du luxe Kering, propriété de la famille Pinault, a évadé 2,5 milliards d’euros d’impôts selon les informations de Mediapart. C’est la plus grosse affaire d’évasion fiscale présumée…",
     "thumbnail": "thumbnails/bds9jy.webp",
-    "tags": [
-      "Pinault",
-      "Kering"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:42:35.424214+00:00"
   },
   {
@@ -1039,12 +634,7 @@
     "ingested_at": "2026-10-31T15:24:36.164153+00:00",
     "summary": "Google a d&eacute;j&agrave; &eacute;t&eacute; accus&eacute; par le pass&eacute; de ne pas forc&eacute;ment se battre proprement avec ses concurrents. ...",
     "thumbnail": "thumbnails/bdrjvb.webp",
-    "tags": [
-      "Mozilla",
-      "Google",
-      "Firefox",
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:42:36.396183+00:00"
   },
   {
@@ -1065,7 +655,7 @@
     "summary": "Déjà condamné à de nombreuses reprises, l'essayiste \"antisioniste\" a écopé ce lundi d'une peine d'un an de prison ferme pour négationnisme.",
     "thumbnail": "thumbnails/bdfg9x.webp",
     "tags": [
-      "Alain Soral"
+      "Justice"
     ],
     "analyzed_at": "2026-11-01T09:42:35.618893+00:00"
   },
@@ -1087,7 +677,7 @@
     "summary": "Retrouvez toute l'actualité économique, entreprise, financière, des technologies et des transformations en France et à l'international avec l'Express.",
     "thumbnail": "thumbnails/bdez41.webp",
     "tags": [
-      "Express",
+      "Travail",
       "Économie"
     ],
     "analyzed_at": "2026-11-01T09:42:36.051938+00:00"
@@ -1109,60 +699,8 @@
     "ingested_at": "2026-10-31T15:24:36.164109+00:00",
     "summary": "Zineb Redouane avait reçu une grenade lacrymogène au visage alors qu'elle tentait de fermer ses volets, un jour de manifestation de gilets jaunes, en décembre dernier.",
     "thumbnail": "thumbnails/bddffc.webp",
-    "tags": [
-      "Zineb Redouane",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:42:36.941952+00:00"
-  },
-  {
-    "id": "bd1d45",
-    "title": "Faut-il instaurer un permis de procréer? Un chercheur lance le débat.",
-    "url": "http://www.femina.ch/societe/news-societe/faut-instaurer-permis-procreer-debat-chercheur-essayiste-antoine-bueno-liberte-interdiction-enfants-bebe-naissance",
-    "permalink": "/r/france/comments/bd1d45/fautil_instaurer_un_permis_de_procréer_un/",
-    "created_at": "2019-04-14T10:11:45+00:00",
-    "score": 95,
-    "num_comments": 127,
-    "subreddit": "france",
-    "author": "Exogalaxies",
-    "flair": "Société",
-    "domain": "femina.ch",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/kThqe3xY701yykr8LVc9BygvfOHWI5OKxklROFskEQ0.jpg?auto=webp&s=97aa2edea9eb08afc9e165737b149f25c128ad43",
-    "ingested_at": "2026-10-31T15:24:36.165197+00:00",
-    "summary": "Pour sauver la planète et mieux prévenir la maltraitance infantile, l’essayiste Antoine Buéno défend une idée hautement controversée: repenser la liberté d’avoir des enfants. Face au réchauffement climatique, certains couples décident de ne pas faire d’enfant .",
-    "thumbnail": "thumbnails/bd1d45.webp",
-    "tags": [
-      "Antoine Buéno",
-      "Société"
-    ],
-    "analyzed_at": "2026-11-01T09:42:43.964051+00:00"
-  },
-  {
-    "id": "bd125x",
-    "title": "South Korea once recycled 2% of its food waste. Now it recycles 95%",
-    "url": "https://www.weforum.org/agenda/2019/04/south-korea-recycling-food-waste/",
-    "permalink": "/r/france/comments/bd125x/south_korea_once_recycled_2_of_its_food_waste_now/",
-    "created_at": "2019-04-14T09:19:44+00:00",
-    "score": 99,
-    "num_comments": 56,
-    "subreddit": "france",
-    "author": "Serialk",
-    "flair": "Écologie",
-    "domain": "weforum.org",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/dgZZDA3UECrKXZu3jwvtZ2ZarDsn9QT1txjsrkLtjYU.jpg?auto=webp&s=074a73a0d4b78dd0b110a944a6d20193b15334ff",
-    "ingested_at": "2026-10-31T15:24:36.165176+00:00",
-    "summary": "A compulsory recycling scheme in South Korea has dramatically cut the amount of food the country throws away. Here's how it works.",
-    "thumbnail": "thumbnails/bd125x.webp",
-    "tags": [
-      "South Korea",
-      "WEF",
-      "Davos",
-      "Klaus Schwab",
-      "Écologie"
-    ],
-    "analyzed_at": "2026-11-01T09:42:49.461851+00:00"
   },
   {
     "id": "bcqk2c",
@@ -1181,13 +719,7 @@
     "ingested_at": "2026-10-31T15:24:36.164999+00:00",
     "summary": "Des associations «antiracistes» s’en prennent à l’exposition de la Grande Halle de la Villette. L’origine supposée africaine du onzième pharaon de la XVIIIe dynastie y serait volontairement cachée. Les égyptologues s’insurgent contre cette théorie complotiste et dangereuse.",
     "thumbnail": "thumbnails/bcqk2c.webp",
-    "tags": [
-      "Toutankhamon",
-      "Sorbonne",
-      "Paris",
-      "Hervé Di Rosa",
-      "Exposition"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:42:37.839953+00:00"
   },
   {
@@ -1208,7 +740,7 @@
     "summary": "",
     "thumbnail": "thumbnails/bcocwh.webp",
     "tags": [
-      "Dassault"
+      "Budget et fiscalité"
     ],
     "analyzed_at": "2026-11-01T09:42:37.300352+00:00"
   },
@@ -1230,7 +762,7 @@
     "summary": "",
     "thumbnail": "thumbnails/bccsvb.webp",
     "tags": [
-      "Compteur"
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T09:42:45.761395+00:00"
   },
@@ -1252,8 +784,8 @@
     "summary": "Business Insider tells the global tech, finance, stock market, media, economy, lifestyle, real estate, AI and innovative stories you want to know.",
     "thumbnail": "thumbnails/bcc9r6.webp",
     "tags": [
-      "Jeff Bezos",
-      "Économie"
+      "Travail",
+      "Budget et fiscalité"
     ],
     "analyzed_at": "2026-11-01T09:42:38.145002+00:00"
   },
@@ -1274,13 +806,7 @@
     "ingested_at": "2026-10-31T15:24:36.164002+00:00",
     "summary": "He faces extradition to the US for his alleged role in one of the largest leaks of government secrets.",
     "thumbnail": "thumbnails/bbxx13.webp",
-    "tags": [
-      "US",
-      "London",
-      "Julian Assange",
-      "Wikileaks",
-      "Assange"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:42:38.647463+00:00"
   },
   {
@@ -1301,8 +827,7 @@
     "summary": "",
     "thumbnail": "thumbnails/bbx9pr.webp",
     "tags": [
-      "Brunei",
-      "Légion"
+      "LGBT+"
     ],
     "analyzed_at": "2026-11-01T09:42:40.247680+00:00"
   },
@@ -1324,11 +849,7 @@
     "summary": "Move exposes rift in Norway’s Labour party as climate change competes with union concerns",
     "thumbnail": "thumbnails/bbqimy.webp",
     "tags": [
-      "Arctic",
-      "Norway",
-      "Norway's Labour",
-      "Lofoten",
-      "Écologie"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T09:42:40.890825+00:00"
   },
@@ -1350,9 +871,7 @@
     "summary": "INFOGRAPHIE - Si ce niveau de vie a baissé ces dernières années, les retraités sont moins touchés que l’ensemble de la population, démontre le Conseil d’orientation des retraites.",
     "thumbnail": "thumbnails/bbjwne.webp",
     "tags": [
-      "COR",
-      "Conseil",
-      "Société"
+      "Retraites"
     ],
     "analyzed_at": "2026-11-01T09:42:41.354462+00:00"
   },
@@ -1374,11 +893,7 @@
     "summary": "Cette proposition parlementaire doit désormais être validée par le Conseil constitutionnel et signée par 4,5 millions de citoyens pour pouvoir donner lieu à un référendum. Qui reste donc hypothétique.",
     "thumbnail": "thumbnails/bb832v.webp",
     "tags": [
-      "Privatisation Aéroports de Paris",
-      "Conseil",
-      "Éco / Conso",
-      "Politique",
-      "Transports"
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T09:42:41.842744+00:00"
   },
@@ -1400,7 +915,7 @@
     "summary": "Des contributions au « grand débat », fatras de chiffres difficiles à interpréter, mais présentés en grande pompe lundi 8 avril, le premier ministre a essentiellement retenu ce qui l’arrangeait : bai…",
     "thumbnail": "thumbnails/bb506m.webp",
     "tags": [
-      "Macron"
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T09:42:42.789423+00:00"
   },
@@ -1421,10 +936,7 @@
     "ingested_at": "2026-10-31T15:24:36.164216+00:00",
     "summary": "",
     "thumbnail": "thumbnails/bb4y08.webp",
-    "tags": [
-      "Cyril Hanouna",
-      "Compteur"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:42:46.332779+00:00"
   },
   {
@@ -1445,34 +957,9 @@
     "summary": "",
     "thumbnail": "thumbnails/baw7e0.webp",
     "tags": [
-      "Affaire Benalla",
-      "Paris"
+      "Alexandre Benalla"
     ],
     "analyzed_at": "2026-11-01T09:42:43.379111+00:00"
-  },
-  {
-    "id": "baroa2",
-    "title": "Pour inciter les chômeurs à retrouver du travail, les conseillers Pôle Emploi seront équipés de LBD",
-    "url": "http://www.legorafi.fr/",
-    "permalink": "/r/france/comments/baroa2/pour_inciter_les_chômeurs_à_retrouver_du_travail/",
-    "created_at": "2019-04-08T09:25:51+00:00",
-    "score": 222,
-    "num_comments": 8,
-    "subreddit": "france",
-    "author": "Todd_superstar",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/_--r0d7TFSkEQ6wX3lY5nzGaitAXI5n-7-ukUkqgnOM.jpeg?auto=webp&s=3c56347c9e4ba9dc7a37e829b8e5478d721e53ed",
-    "ingested_at": "2026-10-31T15:24:36.164439+00:00",
-    "summary": "Mauvaise surprise pour ce Bordelais rattrapé par les impôts suite à des dépenses jugées suspectes. Vous êtes envahi d’informations dispensables sur Céline Dion depuis plusieurs mois ? Le Gorafi va encore plus loin et vous...",
-    "thumbnail": "thumbnails/baroa2.webp",
-    "tags": [
-      "Pôle Emploi",
-      "LBD",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:42:43.535135+00:00"
   },
   {
     "id": "baio5o",
@@ -1495,55 +982,6 @@
     "analyzed_at": "2026-11-01T09:42:43.943414+00:00"
   },
   {
-    "id": "bae43t",
-    "title": "Un braconnier de rinocéros est piétiné par des éléphants, ses restes dévorés par des lions.",
-    "url": "https://www.ajc.com/news/national/rhino-poacher-trampled-death-elephant-remains-eaten-lions/1nzyz9GcAigW6yzy6x2ATL/",
-    "permalink": "/r/france/comments/bae43t/un_braconnier_de_rinocéros_est_piétiné_par_des/",
-    "created_at": "2019-04-07T07:55:47+00:00",
-    "score": 674,
-    "num_comments": 151,
-    "subreddit": "france",
-    "author": "romiglups",
-    "flair": "Actus",
-    "domain": "ajc.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/4kWzoPWGDKMQEaXeeJ4H4y5VeOmggjNrVTwVgrHtqEc.jpeg?auto=webp&s=b5396e9b00f683d30892a16e0f1d388a755301cf",
-    "ingested_at": "2026-10-31T15:24:36.163505+00:00",
-    "summary": "A rhino poacher was trampled to death by an elephant and his remains were devoured by a pride of lio...",
-    "thumbnail": "thumbnails/bae43t.webp",
-    "tags": [
-      "Kruger National Park",
-      "South Africa",
-      "Rhino poacher",
-      "Trampled to death",
-      "Eaten by lions"
-    ],
-    "analyzed_at": "2026-11-01T09:42:47.878815+00:00"
-  },
-  {
-    "id": "ba5fdp",
-    "title": "[UE] La procédure législative ordinaire",
-    "url": "https://www.touteleurope.eu/fileadmin/_processed_/2/3/Processus-legislatif-Europe-760-7770be7b5f.png",
-    "permalink": "/r/france/comments/ba5fdp/ue_la_procédure_législative_ordinaire/",
-    "created_at": "2019-04-06T15:28:22+00:00",
-    "score": 160,
-    "num_comments": 37,
-    "subreddit": "france",
-    "author": "Neker",
-    "flair": "Politique",
-    "domain": "touteleurope.eu",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/Tp_fTah7pnmdM6XD0dv_aZS17Lji7YCtbWhVkeMGK5Y.png?auto=webp&s=38e2ff817bda847ceac90d0fe8c863e101cac20c",
-    "ingested_at": "2026-10-31T15:24:36.164955+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/ba5fdp.webp",
-    "tags": [
-      "UE",
-      "Politique"
-    ],
-    "analyzed_at": "2026-11-01T09:42:47.809203+00:00"
-  },
-  {
     "id": "ba1x4b",
     "title": "«Rendre femmage», ou quand le féminisme sombre dans l’imposture linguistique",
     "url": "http://www.lefigaro.fr/vox/societe/rendre-femmage-ou-quand-le-feminisme-sombre-dans-l-imposture-linguistique-20190403",
@@ -1561,10 +999,7 @@
     "summary": "FIGAROVOX/TRIBUNE - Dans un tweet du 29 mars dernier, l’association Osez le féminisme! affirmait vouloir «rendre femmage» à la cinéaste Agnès Varda. Mais le linguiste Jean Szlamowicz s’insurge: féminiser les mots comportant la racine «homme» n’a aucun sens selon lui, et cela dessert...",
     "thumbnail": "thumbnails/ba1x4b.webp",
     "tags": [
-      "Écriture inclusive",
-      "Agnès Varda",
-      "Jean Szlamowicz",
-      "Osez"
+      "Droits des femmes"
     ],
     "analyzed_at": "2026-11-01T09:42:44.521248+00:00"
   },
@@ -1587,34 +1022,9 @@
     "thumbnail": "thumbnails/b9oeep.webp",
     "tags": [
       "Manuel Valls",
-      "Barcelone",
-      "Premier",
-      "Politique"
+      "Élections"
     ],
     "analyzed_at": "2026-11-01T09:42:44.828241+00:00"
-  },
-  {
-    "id": "b9o6j4",
-    "title": "Rue des Degrés.",
-    "url": "https://1.bp.blogspot.com/-ZShs38wOPM0/WaFEsq7eDcI/AAAAAAAAu5M/5MRrscFOoqAh97IEFQjFQp635cx90jUkwCLcBGAs/s1600/rue-des-degres-plus-petite-rue-de-paris-2-0.JPG",
-    "permalink": "/r/france/comments/b9o6j4/rue_des_degrés/",
-    "created_at": "2019-04-05T07:30:08+00:00",
-    "score": 204,
-    "num_comments": 15,
-    "subreddit": "france",
-    "author": "backtolurk",
-    "flair": "Méta",
-    "domain": "1.bp.blogspot.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/9ePdXVTYucsErSYDjNsizK8KvMRubDh1Sci57SEJg2I.jpg?auto=webp&s=fa95819ad2dacc06756867235b212d0273bad775",
-    "ingested_at": "2026-10-31T15:24:36.164703+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/b9o6j4.webp",
-    "tags": [
-      "Degrés",
-      "Méta"
-    ],
-    "analyzed_at": "2026-11-01T09:42:45.122437+00:00"
   },
   {
     "id": "b9nxub",
@@ -1634,34 +1044,10 @@
     "summary": "Plaçant le numérique parmi les mesures phares de son programme, le Parti pirate français compte présenter sa liste aux européennes. Même s’i",
     "thumbnail": "thumbnails/b9nxub.webp",
     "tags": [
-      "Florie Marie",
-      "Arthur Renault",
-      "Verts",
-      "Europe"
+      "Élections",
+      "Corruption"
     ],
     "analyzed_at": "2026-11-01T09:42:45.201477+00:00"
-  },
-  {
-    "id": "b9akvo",
-    "title": "Qu'ils sont beaux nos champs de patates",
-    "url": "https://www.syngenta.fr/sites/g/files/zhg141/f/styles/syngenta_large/public/2017/06/09/pomme-de-terre-croissance-1024.jpg?itok=1CBqZ4zP",
-    "permalink": "/r/france/comments/b9akvo/quils_sont_beaux_nos_champs_de_patates/",
-    "created_at": "2019-04-04T09:31:23+00:00",
-    "score": 704,
-    "num_comments": 74,
-    "subreddit": "france",
-    "author": "[deleted]",
-    "flair": "Méta",
-    "domain": "syngenta.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/WbA2KXOmfBsu23ZC1_QBvo2aIGAzDOnaWshsWNK78ik.jpg?auto=webp&s=deb3467f8edf431769b033f1116aa5205b2b729f",
-    "ingested_at": "2026-10-31T15:24:36.163473+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/b9akvo.webp",
-    "tags": [
-      "Méta"
-    ],
-    "analyzed_at": "2026-11-01T09:42:45.959841+00:00"
   },
   {
     "id": "b9ab8y",
@@ -1680,10 +1066,7 @@
     "ingested_at": "2026-10-31T15:24:36.164833+00:00",
     "summary": "La scène s'est passée à quelques heures du 1er avril, à Lattes. Trois hommes ont fait main basse sur un coffre-fort décoratif. Son contenu ? De la farine en guise de cocaïne, une arme factice et des faux billets...",
     "thumbnail": "thumbnails/b9ab8y.webp",
-    "tags": [
-      "Escape Game",
-      "Lattes"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:42:46.500821+00:00"
   },
   {
@@ -1704,7 +1087,7 @@
     "summary": "",
     "thumbnail": "thumbnails/b90j04.webp",
     "tags": [
-      "Panama Papers"
+      "Budget et fiscalité"
     ],
     "analyzed_at": "2026-11-01T09:42:46.287469+00:00"
   },
@@ -1726,11 +1109,7 @@
     "summary": "Dans un texte adressé à Emmanuel Macron, la comédienne reproche à l'exécutif plusieurs décisions qu'elle juge défavorables aux sans-abri.",
     "thumbnail": "thumbnails/b9080r.webp",
     "tags": [
-      "Culture",
-      "Blanche Gardin",
-      "Arts et des Lettres",
-      "Emmanuel Macron",
-      "Société"
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T09:42:46.410217+00:00"
   },
@@ -1751,9 +1130,7 @@
     "ingested_at": "2026-10-31T15:24:36.164329+00:00",
     "summary": "",
     "thumbnail": "thumbnails/b8yum1.webp",
-    "tags": [
-      "Espagne"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:42:46.639919+00:00"
   },
   {
@@ -1774,7 +1151,7 @@
     "summary": "",
     "thumbnail": "thumbnails/b8ue02.webp",
     "tags": [
-      "Écologie"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T09:42:47.371702+00:00"
   },
@@ -1796,11 +1173,7 @@
     "summary": "Julia, violemment agressée place de la République à Paris parce qu'elle est transgenre, témoigne auprès du HuffPost.",
     "thumbnail": "thumbnails/b8mh0f.webp",
     "tags": [
-      "Paris",
-      "République",
-      "HuffPost",
-      "Julia",
-      "Société"
+      "LGBT+"
     ],
     "analyzed_at": "2026-11-01T09:42:46.920399+00:00"
   },
@@ -1821,13 +1194,7 @@
     "ingested_at": "2026-10-31T15:24:36.163621+00:00",
     "summary": "Orange, SFR, Bouygues et Free doivent bloquer l'accÃ¨s Ã deux plateformes controversÃ©es. Elles permettent d'accÃ©der librement Ã des articles scientifiques payants, notamment Ã©ditÃ©s par Elsevier et Springer Nature. Les Ã©diteurs de publications scientifiques Elsevier et Springer Nature ont obtenu gain de cause. Les",
     "thumbnail": "thumbnails/b8gitb.webp",
-    "tags": [
-      "LibGen",
-      "Elsevier et Springer Nature",
-      "SFR",
-      "Free",
-      "Science"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:42:46.950330+00:00"
   },
   {
@@ -1847,9 +1214,7 @@
     "ingested_at": "2026-10-31T15:24:36.165153+00:00",
     "summary": "Finis les coussins péteurs, les araignées gluantes et autres pistolets à eau. Mais les lecteurs auront de quoi se consoler: ils découvriront une nouvelle formule nettement étoffée avec des cadeaux en papier.",
     "thumbnail": "thumbnails/b8553j.webp",
-    "tags": [
-      "Picsou Magazine"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:42:46.952027+00:00"
   },
   {
@@ -1869,13 +1234,7 @@
     "ingested_at": "2026-10-31T15:24:36.163418+00:00",
     "summary": "Un salon dédié au voyage en train vient de se tenir à Stockholm pour échanger les bons plans pour voyager en Europe.",
     "thumbnail": "thumbnails/b83w5e.webp",
-    "tags": [
-      "Suède",
-      "Europe",
-      "Stockholm",
-      "Aéronautique",
-      "Monde"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:42:47.382114+00:00"
   }
 ]

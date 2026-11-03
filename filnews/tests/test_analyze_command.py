@@ -35,3 +35,19 @@ class AnalyzeCommandTests(DataDirTestCase):
         self.assertEqual(self.store.get("n7").tags, ["Tag n7"])
         self.assertIsNone(self.store.get("boom").analyzed_at)
         self.assertIn("1 failure", out.getvalue())
+
+    def test_retag_recomputes_tags_without_downloading(self):
+        self.add_news(
+            make_news(
+                "a",
+                title="Le 20 Heures de TF1 reçoit Jean-Luc Mélenchon",
+                tags=["Heures", "Rassemblement", "Payant"],
+            ),
+            make_news("b", title="Une news sans sujet", tags=[]),
+        )
+        out = StringIO()
+        with mock.patch("filnews.analysis.analyzers.fetch_html") as fetch_html:
+            call_command("analyze_news", "--retag", stdout=out)
+        fetch_html.assert_not_called()
+        self.assertEqual(self.store.get("a").tags, ["Jean-Luc Mélenchon"])
+        self.assertIn("Retagged 2 news, 1 changed.", out.getvalue())

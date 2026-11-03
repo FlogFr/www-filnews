@@ -37,6 +37,7 @@ pip install -e ".[ml]"
 | `FILNEWS_BACKFILL_TOP` | `60` | `backfill_news` : garde aussi les N meilleurs articles de chaque mois (0 = désactivé) |
 | `FILNEWS_BACKFILL_DAY_TOP` | `2` | `backfill_news` : garde aussi les N meilleurs articles de chaque jour (0 = désactivé) |
 | `FILNEWS_BACKFILL_DAY_MIN_SCORE` | `20` | … à condition qu'ils aient au moins ce score |
+| `FILNEWS_MEDIA_WHITELIST` | `1` | N'ingère que les médias autorisés de `filnews/media.py` (`0` : tout site non refusé) |
 | `FILNEWS_ANALYZER` | `heuristic` | `heuristic` ou `local` |
 | `FILNEWS_MAX_TAGS` | `5` | Tags par news |
 | `FILNEWS_ANALYZE_WORKERS` | `8` | Téléchargements parallèles d'`analyze_news` (2 au plus par site) |
@@ -72,6 +73,8 @@ python manage.py analyze_news --workers 16 # plus de téléchargements en parall
 python manage.py analyze_news --force --days 7 # ré-analyse la dernière semaine
 python manage.py analyze_news --analyzer local # modèles locaux
 python manage.py analyze_news abc123 def456    # news précises (ids Reddit)
+python manage.py analyze_news --retag      # recalcule les tags (vocabulaire) sans téléchargement
+python manage.py prune_news                # news hors politique des médias (--apply pour supprimer)
 python manage.py build_site                # génère dist/ (un processus par CPU, --workers N)
 python manage.py publish_pages             # build_site + commit de dist/ sur la branche git `pages`
 python manage.py publish_pages --push      # … puis git push origin pages

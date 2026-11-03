@@ -16,11 +16,7 @@
     "ingested_at": "2026-11-01T10:58:07.101336+00:00",
     "summary": "Le contrat pour quatre sous-marins conventionnels pour un montant de 5,6 milliards d'euros vient d'être signé aux Pays-Bas avec l'armateur français Naval Group.",
     "thumbnail": "thumbnails/1ft10ve.webp",
-    "tags": [
-      "Naval Group",
-      "Pays-Bas",
-      "Économie"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:58:24.195516+00:00"
   },
   {
@@ -41,8 +37,7 @@
     "summary": "",
     "thumbnail": "thumbnails/1ft0ty9.webp",
     "tags": [
-      "Irlande",
-      "Europe"
+      "Budget et fiscalité"
     ],
     "analyzed_at": "2026-11-01T10:58:24.159971+00:00"
   },
@@ -64,9 +59,7 @@
     "summary": "«Dévier des normes est difficile à accepter même dans des pays comme la France où l'emploi féminin est élevé et soutenu par des politiques familiales», note une étude de l’Ined, présentée ce lundi.",
     "thumbnail": "thumbnails/1fszij3.webp",
     "tags": [
-      "Salaires",
-      "Ined",
-      "Économie"
+      "Travail"
     ],
     "analyzed_at": "2026-11-01T10:58:26.470669+00:00"
   },
@@ -88,8 +81,9 @@
     "summary": "Avant l’ouverture du procès des assistants parlementaires européens du FN, où il ne comparaîtra pas pour raisons de santé, le fondateur du parti a été filmé samedi à son domicile en compagnie de musi…",
     "thumbnail": "thumbnails/1fst2jo.webp",
     "tags": [
-      "Jean-Marie le Pen",
-      "FN"
+      "Justice",
+      "Jean-Marie Le Pen",
+      "Extrême droite"
     ],
     "analyzed_at": "2026-11-01T10:58:24.863935+00:00"
   },
@@ -111,11 +105,7 @@
     "summary": "Dans \"Le Journal du dimanche\", le nouveau ministre de l'Intérieur a tenu des propos qui ont fâché le bloc centriste.",
     "thumbnail": "thumbnails/1fsqvy9.webp",
     "tags": [
-      "Bruno Retailleau",
-      "Etat",
-      "Intérieur",
-      "Journal",
-      "Politique"
+      "Bruno Retailleau"
     ],
     "analyzed_at": "2026-11-01T10:58:24.186532+00:00"
   },
@@ -136,12 +126,7 @@
     "ingested_at": "2026-11-01T10:58:07.099944+00:00",
     "summary": "Témoin du départ d'incendie de l'entrepôt de Bolloré Logistics près de Rouen, un salarié de l'entreprise s'est suicidé. Une enquête pour harcèlement aggravé est en cours. Récit.",
     "thumbnail": "thumbnails/1fsphye.webp",
-    "tags": [
-      "Bolloré Logistics",
-      "Rouen",
-      "Zakaria",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:58:24.208831+00:00"
   },
   {
@@ -163,10 +148,8 @@
     "thumbnail": "thumbnails/1fsdrzc.webp",
     "tags": [
       "Bruno Retailleau",
-      "Constitution",
-      "Intérieur",
-      "LCI",
-      "Politique"
+      "Institutions",
+      "Immigration"
     ],
     "analyzed_at": "2026-11-01T10:58:24.670805+00:00"
   },
@@ -188,11 +171,8 @@
     "summary": "Les quatre policiers responsables de l’agression ont immédiatement été suspendus et placés en garde à vue au moment où l’enquête débute.",
     "thumbnail": "thumbnails/1fs3ceq.webp",
     "tags": [
-      "Papeete",
-      "Tahiti",
-      "Polynésie",
-      "Violences policières",
-      "Fait Divers"
+      "Police",
+      "Justice"
     ],
     "analyzed_at": "2026-11-01T10:58:24.476184+00:00"
   },
@@ -233,11 +213,7 @@
     "ingested_at": "2026-11-01T10:58:07.103035+00:00",
     "summary": "Un candidat républicain au poste de député dans l'État de Virginie, aux États-Unis, est critiqué pour avoir posé avec la femme et les enfants d'un ami de longue date, semblant les faire passer pour sa propre famille.",
     "thumbnail": "thumbnails/1frjdpi.webp",
-    "tags": [
-      "Derrick Anderson",
-      "États-Unis",
-      "État de Virginie"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:58:24.923964+00:00"
   },
   {
@@ -258,11 +234,7 @@
     "summary": "La justice britannique a condamné vendredi deux activistes du mouvement Just Stop Oil à des peines de prison ferme pour avoir jeté de la soupe sur \"Les Tournesols\" de Van Gogh à la National Gallery le…",
     "thumbnail": "thumbnails/1frdycf.webp",
     "tags": [
-      "Van Gogh",
-      "Royaume-Uni",
-      "Just Stop Oil",
-      "Écologie",
-      "Politique"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T10:58:24.477885+00:00"
   },
@@ -283,10 +255,7 @@
     "ingested_at": "2026-11-01T10:58:07.101779+00:00",
     "summary": "",
     "thumbnail": "thumbnails/1frcsp5.webp",
-    "tags": [
-      "Hassan Nasrallah",
-      "Hezbollah"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:58:24.727050+00:00"
   },
   {
@@ -307,11 +276,8 @@
     "summary": "Six accusés âgés de 26 à 43 ans ont été interrogés toute la semaine sur les faits qui leur sont reprochés. Tous ont livré une version similaire, assurant qu'ils étaient persuadés de se rendre chez le couple Pelicot pour \"un trio échangiste\".",
     "thumbnail": "thumbnails/1fra1ld.webp",
     "tags": [
-      "Mazan",
-      "Gisèle Pelicot",
-      "Pelicot",
-      "Joan K",
-      "Société"
+      "Justice",
+      "Violences sexuelles"
     ],
     "analyzed_at": "2026-11-01T10:58:24.944818+00:00"
   },
@@ -332,12 +298,7 @@
     "ingested_at": "2026-11-01T10:58:07.101360+00:00",
     "summary": "OPINION. À l’occasion de la journée internationale de l’accès universel à l’information, 150 scientifiques de divers horizons dont Jun Murai, Sonia Livingstone, Gérald Bronner ou Asmah Mallah signent un appel à protéger l’intégrité de la recherche sur la désinformation.",
     "thumbnail": "thumbnails/1fr9sdl.webp",
-    "tags": [
-      "Jun Murai",
-      "Sonia Livingstone",
-      "Gérald Bronner",
-      "Asmah Mallah"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:58:25.480581+00:00"
   },
   {
@@ -357,13 +318,7 @@
     "ingested_at": "2026-11-01T10:58:07.102780+00:00",
     "summary": "Pour Arnaud Saint-Martin, sociologue des sciences et député LFI de Seine-et-Marne, la nomination du nouveau ministre de l’Enseignement supérieur et de la Recherche est une aberration, hélas, très prévisible.",
     "thumbnail": "thumbnails/1fqowcc.webp",
-    "tags": [
-      "Patrick Hetzel",
-      "Arnaud Saint-Martin",
-      "LFI de Seine-et-Marne",
-      "ESR",
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:58:25.058726+00:00"
   },
   {
@@ -383,13 +338,7 @@
     "ingested_at": "2026-11-01T10:58:07.100539+00:00",
     "summary": "La comédienne britannique Maggie Smith, connue pour ses rôles dans la saga Harry Potter ou la série Downton Abbey, est morte ce vendredi, ont annoncé ses deux fils. Elle avait 89 ans. Récompensée de deux Oscars en 1970 et 1979, l'actrice avait combattu un cancer du sein pendant plusieurs années.",
     "thumbnail": "thumbnails/1fqnpww.webp",
-    "tags": [
-      "Harry Potter",
-      "Maggie Smith",
-      "McGonagall",
-      "France Bleu",
-      "Culture"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:58:25.457591+00:00"
   },
   {
@@ -410,8 +359,7 @@
     "summary": "DÉCRYPTAGE - L’idée d’une hausse d’impôts pour les plus aisés refait surface et risque de donner des envies d’ailleurs à certains Français. L’Italie est une des destinations privilégiées selon des fiscalistes, qui conseillent leurs clients sur les bonnes étapes à suivre.",
     "thumbnail": "thumbnails/1fqkdlv.webp",
     "tags": [
-      "Italie",
-      "Français"
+      "Budget et fiscalité"
     ],
     "analyzed_at": "2026-11-01T10:58:27.166570+00:00"
   },
@@ -433,38 +381,10 @@
     "summary": "Ce jeudi devant l’Union des entreprises de proximité (U2P), le ministre de l’économie Antoine Armand a réitéré les propos de son collègue du Budget prononcé la veille devant la c...",
     "thumbnail": "thumbnails/1fqgy16.webp",
     "tags": [
-      "Union",
-      "Antoine Armand",
-      "Gratuit",
+      "Budget et fiscalité",
       "Économie"
     ],
     "analyzed_at": "2026-11-01T10:58:26.448203+00:00"
-  },
-  {
-    "id": "1fq1qry",
-    "title": "Ubisoft : Des syndicats appellent à la grève contre le travail en présentiel obligatoire",
-    "url": "https://www.boursorama.com/bourse/actualites/ubisoft-des-syndicats-appellent-a-la-greve-contre-le-travail-en-presentiel-obligatoire-e91a7c9428ab3417d9b7ce8231e079eb",
-    "permalink": "/r/france/comments/1fq1qry/ubisoft_des_syndicats_appellent_à_la_grève_contre/",
-    "created_at": "2024-09-26T17:25:13+00:00",
-    "score": 489,
-    "num_comments": 152,
-    "subreddit": "france",
-    "author": "Jepacor",
-    "flair": "Société",
-    "domain": "boursorama.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/PCiEQm1QnCwtDtjH3EutMRzlaAuyq9sYlhOvsyJZerE.jpeg?auto=webp&s=083ef9b6299e93cd3970bd3c3fc283613711c9b5",
-    "ingested_at": "2026-11-01T10:58:07.100775+00:00",
-    "summary": "Plusieurs syndicats ont appelé jeudi les employés français d'Ubisoft à une grève de trois jours à partir du 15 octobre pour protester contre un retour au travail en présentiel de trois jours par semaine minimum. Le syndicat des travailleurs et travailleuses du",
-    "thumbnail": "thumbnails/1fq1qry.webp",
-    "tags": [
-      "Ubisoft",
-      "bourse de Paris",
-      "Investissement",
-      "action CAC 40",
-      "Société"
-    ],
-    "analyzed_at": "2026-11-01T10:58:26.503349+00:00"
   },
   {
     "id": "1fpx4n2",
@@ -483,12 +403,7 @@
     "ingested_at": "2026-11-01T10:58:07.102893+00:00",
     "summary": "Une vingtaine de personnalités du christianisme s’engagent contre les visées hyperconservatrices que les deux milliardaires ont au nom de la foi catholique.",
     "thumbnail": "thumbnails/1fpx4n2.webp",
-    "tags": [
-      "Jésus",
-      "MM",
-      "Pierre-Edouard Stérin et Vincent Bolloré",
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:58:25.413921+00:00"
   },
   {
@@ -509,39 +424,10 @@
     "summary": "L’ancien ministre de l’Économie est en compétition avec d’autres personnalités politiques comme Manon Aubry ou Bruno Retailleau pour recevoir le prix 2024 «Press Club, Humour et Politique».",
     "thumbnail": "thumbnails/1fpvon5.webp",
     "tags": [
-      "Bruno le Maire",
-      "Manon Aubry",
       "Bruno Retailleau",
-      "Press Club",
-      "Politique"
+      "Bruno Le Maire"
     ],
     "analyzed_at": "2026-11-01T10:58:26.538939+00:00"
-  },
-  {
-    "id": "1fpsgia",
-    "title": "(BFM Bourse) - Ubisoft : Après un lourd avertissement et le report d'Assassin's Creed Shadows, Ubisoft s'effondre en Bourse.",
-    "url": "https://www.tradingsat.com/ubisoft-entertain-FR0000054470/actualites/ubisoft-entertain-apres-un-lourd-avertissement-et-le-report-d-assassin-s-creed-shadows-ubisoft-s-effondre-en-bourse-1123880.html",
-    "permalink": "/r/france/comments/1fpsgia/bfm_bourse_ubisoft_après_un_lourd_avertissement/",
-    "created_at": "2024-09-26T09:52:42+00:00",
-    "score": 321,
-    "num_comments": 449,
-    "subreddit": "france",
-    "author": "Calahan44",
-    "flair": "Économie",
-    "domain": "tradingsat.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/soXpNx6CAeGdYA8z5lfsnZM8u_0iC-nDICy318PB6oA.jpeg?auto=webp&s=cff726d848062d381f21d85332aef03ac612d702",
-    "ingested_at": "2026-11-01T10:58:07.102200+00:00",
-    "summary": "(BFM Bourse) - L'action du groupe de jeux vidéo plonge à la Bourse de Paris après l'annonce du décalage de trois mois le lancement d'un jeu phare et …",
-    "thumbnail": "thumbnails/1fpsgia.webp",
-    "tags": [
-      "Assassin's Creed Shadows",
-      "Bourse",
-      "Bourse de Paris",
-      "Star Wars Outlaws",
-      "Économie"
-    ],
-    "analyzed_at": "2026-11-01T10:58:26.005495+00:00"
   },
   {
     "id": "1fpcfci",
@@ -560,10 +446,7 @@
     "ingested_at": "2026-11-01T10:58:07.100601+00:00",
     "summary": "",
     "thumbnail": "thumbnails/1fpcfci.webp",
-    "tags": [
-      "Talibans",
-      "Afghans"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:58:46.463600+00:00"
   },
   {
@@ -585,10 +468,8 @@
     "thumbnail": "thumbnails/1fp880l.webp",
     "tags": [
       "Michel Barnier",
-      "Marine le Pen",
-      "RN",
-      "Économie",
-      "Politique"
+      "Marine Le Pen",
+      "Économie"
     ],
     "analyzed_at": "2026-11-01T10:58:25.685623+00:00"
   },
@@ -610,11 +491,8 @@
     "summary": "Mis en examen pour \"administration d’une substance\" afin de commettre \"un viol ou une agression sexuelle\", le sénateur clame son innocence. Selon \"Complément d'enquête\", des résultats de recherches effectuées sur le téléphone du sénateur le mois précédant sa soirée avec la députée pourraient mettre à mal sa défense.",
     "thumbnail": "thumbnails/1fp5eyt.webp",
     "tags": [
-      "Joël Guerriau",
-      "GHB",
-      "Sandrine Josso",
-      "Sénat",
-      "Politique"
+      "Institutions",
+      "Violences sexuelles"
     ],
     "analyzed_at": "2026-11-01T10:58:26.191620+00:00"
   },
@@ -635,12 +513,7 @@
     "ingested_at": "2026-11-01T10:58:07.100303+00:00",
     "summary": "Régulièrement pointés du doigt dans le débat public, les assurés sociaux ne représentent qu’un tiers des sommes en jeu, lesquelles ne constituent pas un réservoir magique pour résorber le déficit public, selon un rapport publié ce mercredi.",
     "thumbnail": "thumbnails/1fp5ctj.webp",
-    "tags": [
-      "HCFiPS",
-      "Dominique Libault",
-      "Social Issues",
-      "Économie"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:58:31.295851+00:00"
   },
   {
@@ -660,13 +533,7 @@
     "ingested_at": "2026-11-01T10:58:07.102564+00:00",
     "summary": "Avant d’être nommée ministre de l’Éducation nationale, Anne Genetet était expatriée à Singapour où elle a lancé une agence de conseil et de",
     "thumbnail": "thumbnails/1fp4az0.webp",
-    "tags": [
-      "Education",
-      "Singapour",
-      "Anne Genetet",
-      "Yes",
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:58:26.593710+00:00"
   },
   {
@@ -687,11 +554,8 @@
     "summary": "Un homme de 22 ans a été interpellé mardi 24 septembre dans le canton de Genève. Il est soupçonné d’avoir tué Philippine, 19 ans, dont le corps avait été retrouvé samedi dans le bois de Boulogne à Paris.",
     "thumbnail": "thumbnails/1fp21gs.webp",
     "tags": [
-      "Philippine",
-      "Paris",
-      "OQTF",
-      "Boulogne",
-      "Fait Divers"
+      "Immigration",
+      "Violences sexuelles"
     ],
     "analyzed_at": "2026-11-01T10:58:31.681747+00:00"
   },
@@ -713,8 +577,9 @@
     "summary": "",
     "thumbnail": "thumbnails/1fp1wxy.webp",
     "tags": [
-      "Paris",
-      "Laurent Nuñez"
+      "Laurent Nuñez",
+      "Police",
+      "Libertés publiques"
     ],
     "analyzed_at": "2026-11-01T10:58:27.021826+00:00"
   },
@@ -736,11 +601,9 @@
     "summary": "Antoine Armand a exclu mardi de travailler avec le RN. Une déclaration qui n'a pas plu à Marine Le Pen et qui lui a valu de se faire rappeler à l'ordre par Michel Barnier",
     "thumbnail": "thumbnails/1foxbds.webp",
     "tags": [
-      "Marine le Pen",
-      "Economie",
-      "Antoine Armand",
-      "RN",
-      "Politique"
+      "Marine Le Pen",
+      "Économie",
+      "Michel Barnier"
     ],
     "analyzed_at": "2026-11-01T10:58:27.093426+00:00"
   },
@@ -761,10 +624,7 @@
     "ingested_at": "2026-11-01T10:58:07.101975+00:00",
     "summary": "Ils venaient en Bourgogne pour gagner de l'argent pendant les vendanges, ils se sont retrouvés parqués dans des hébergements insalubres. 80 travailleurs espagnols ont été évacués par les gendarmes d’une ferme de Chaux, sur...",
     "thumbnail": "thumbnails/1fop7v7.webp",
-    "tags": [
-      "Bourgogne",
-      "Chaux"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:58:27.201032+00:00"
   },
   {
@@ -785,11 +645,7 @@
     "summary": "Le collège du Bois d’Aulne, situé à Conflans-Sainte-Honorine dans les Yvelines, est sur le point de changer de nom pour rendre hommage à Samuel Paty, l’enseignant d’histoire-géographie assassiné en octobre…",
     "thumbnail": "thumbnails/1fok8bc.webp",
     "tags": [
-      "Samuel Paty",
-      "Terrorisme",
-      "Enseignement",
-      "Éducation",
-      "Société"
+      "Éducation"
     ],
     "analyzed_at": "2026-11-01T10:58:27.405352+00:00"
   },
@@ -812,10 +668,7 @@
     "thumbnail": "thumbnails/1foddr5.webp",
     "tags": [
       "Michel Barnier",
-      "RN",
-      "Économie",
-      "Antoine Armand",
-      "Politique"
+      "Économie"
     ],
     "analyzed_at": "2026-11-01T10:58:27.395640+00:00"
   },
@@ -837,11 +690,7 @@
     "summary": "Ce train fera arrêt en gares de Strasbourg, Karlsruhe et Francfort Sud.",
     "thumbnail": "thumbnails/1focpbl.webp",
     "tags": [
-      "Paris et Berlin",
-      "SNCF et la Deutsche Bahn",
-      "Strasbourg",
-      "Francfort Sud",
-      "Économie"
+      "Transports"
     ],
     "analyzed_at": "2026-11-01T10:58:27.538492+00:00"
   },
@@ -864,10 +713,8 @@
     "thumbnail": "thumbnails/1fo7o6j.webp",
     "tags": [
       "Aurore Bergé",
-      "Écologiste",
-      "Assemblée",
-      "Solidarités",
-      "Politique"
+      "Environnement",
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T10:58:27.698389+00:00"
   },
@@ -889,9 +736,7 @@
     "summary": "Plusieurs femmes, qu’elles soient compagnes, mères ou sœurs des accusés au procès des viols de Mazan, ont choisi de soutenir leurs hommes.",
     "thumbnail": "thumbnails/1fo67h6.webp",
     "tags": [
-      "Mazan",
-      "Dominique Pelicot",
-      "Société"
+      "Violences sexuelles"
     ],
     "analyzed_at": "2026-11-01T10:58:27.589139+00:00"
   },
@@ -914,10 +759,7 @@
     "thumbnail": "thumbnails/1fntguu.webp",
     "tags": [
       "Rachida Dati",
-      "Culture",
-      "Paris",
-      "Henri Proglio",
-      "Politique"
+      "Logement"
     ],
     "analyzed_at": "2026-11-01T10:58:34.864403+00:00"
   },
@@ -939,11 +781,7 @@
     "summary": "La maire socialiste de Paris Anne Hidalgo souhaite transformer l’autoroute urbaine, entre abaissement de la vitesse maximale autorisée et voie réservée au covoiturage.",
     "thumbnail": "thumbnails/1fnotqd.webp",
     "tags": [
-      "Transports",
-      "Paris",
-      "Paris Anne Hidalgo",
-      "Politique",
-      "Transport"
+      "Anne Hidalgo"
     ],
     "analyzed_at": "2026-11-01T10:58:27.780305+00:00"
   },
@@ -964,12 +802,7 @@
     "ingested_at": "2026-11-01T10:58:07.102588+00:00",
     "summary": "Avec son interprétation du chant révolutionnaire 'Mea Culpa (Ah ! Ça ira)', le groupe de metal français part à la...",
     "thumbnail": "thumbnails/1fnj583.webp",
-    "tags": [
-      "JO",
-      "Gojira",
-      "Mea Culpa",
-      "Culture"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:58:28.772052+00:00"
   },
   {
@@ -991,7 +824,7 @@
     "thumbnail": "thumbnails/1fnd5bk.webp",
     "tags": [
       "Michel Barnier",
-      "Économie"
+      "Budget et fiscalité"
     ],
     "analyzed_at": "2026-11-01T10:58:28.057426+00:00"
   },
@@ -1013,11 +846,10 @@
     "summary": "",
     "thumbnail": "thumbnails/1fmwswq.webp",
     "tags": [
-      "Gouvernement Barnier",
       "Gabriel Attal",
-      "PMA",
-      "IVG",
-      "Politique"
+      "Michel Barnier",
+      "Droits des femmes",
+      "LGBT+"
     ],
     "analyzed_at": "2026-11-01T10:58:37.573064+00:00"
   },
@@ -1039,11 +871,7 @@
     "summary": "Éric Ciotti, le président contesté du parti Les Républicains, annonce ce dimanche 22 septembre au Figaro quitter son camp. Il enjoint les membres de la droite à rejoindre son nouveau parti, l'Union des droites pour la République (UDR).",
     "thumbnail": "thumbnails/1fmva7o.webp",
     "tags": [
-      "Éric Ciotti",
-      "Républicains",
-      "Figaro",
-      "République",
-      "Politique"
+      "Éric Ciotti"
     ],
     "analyzed_at": "2026-11-01T10:58:27.983669+00:00"
   },
@@ -1064,10 +892,7 @@
     "ingested_at": "2026-11-01T10:58:07.102733+00:00",
     "summary": "Depuis quelques mois, Météo France est dans la tourmente. En cause, l'automatisation des prévisions destinées au grand public, qui aurait généré une série d'erreurs. Une pluie de critiques s'abat depuis sur cette institution à la réputation de grand sérieux.",
     "thumbnail": "thumbnails/1fmpepj.webp",
-    "tags": [
-      "Météo France",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:58:28.354500+00:00"
   },
   {
@@ -1088,11 +913,8 @@
     "summary": "Le sénateur LR était invité sur franceinfo pour commenter les émeutes faisant suite à la mort de Nahel.",
     "thumbnail": "thumbnails/1fm8vyj.webp",
     "tags": [
-      "Nahel",
-      "LR",
       "Bruno Retailleau",
-      "Politique",
-      "Nupes"
+      "Racisme"
     ],
     "analyzed_at": "2026-11-01T10:58:29.209652+00:00"
   },
@@ -1114,10 +936,7 @@
     "summary": "Les faits se sont déroulés dans le quartier de Qabatiya à Jénine. Jeudi, Israël indiquait avoir tué quatre activistes palestiniens en Cisjordanie...",
     "thumbnail": "thumbnails/1fm2jqj.webp",
     "tags": [
-      "Qabatiya",
-      "Jénine",
-      "Cisjordanie",
-      "Société"
+      "Conflit israélo-palestinien"
     ],
     "analyzed_at": "2026-11-01T10:58:28.766937+00:00"
   },
@@ -1139,9 +958,8 @@
     "summary": "Les avocats des 50 coaccusés de Dominique Pelicot, qui leur livrait son épouse droguée, ont finalement obtenu un huis clos partiel. Au nom d",
     "thumbnail": "thumbnails/1fm16mt.webp",
     "tags": [
-      "Mazan",
-      "Dominique Pelicot",
-      "Société"
+      "Justice",
+      "Violences sexuelles"
     ],
     "analyzed_at": "2026-11-01T10:58:29.018173+00:00"
   },
@@ -1162,10 +980,7 @@
     "ingested_at": "2026-11-01T10:58:07.100749+00:00",
     "summary": "",
     "thumbnail": "thumbnails/1flzgf1.webp",
-    "tags": [
-      "Rassemblement",
-      "Français"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:58:29.243572+00:00"
   },
   {
@@ -1185,10 +1000,7 @@
     "ingested_at": "2026-11-01T10:58:07.103230+00:00",
     "summary": "Est-ce que le capitalisme a changé de nature ou est mort au profit de la technoscience et de nouveaux serfs de...",
     "thumbnail": "thumbnails/1flhtol.webp",
-    "tags": [
-      "Yánis Varoufákis",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:58:30.377804+00:00"
   },
   {
@@ -1210,9 +1022,7 @@
     "thumbnail": "thumbnails/1flhpsg.webp",
     "tags": [
       "Michel Barnier",
-      "Sophie Errante",
-      "Matignon",
-      "Politique"
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T10:58:29.584511+00:00"
   },
@@ -1233,13 +1043,7 @@
     "ingested_at": "2026-11-01T10:58:07.101636+00:00",
     "summary": "La rentrée des classes de septembre 2024 a vu toute une génération d'enfant HPI naître dans l'imagination de beaucoup de parents. Pourquoi un tel engouement ?",
     "thumbnail": "thumbnails/1flhpdt.webp",
-    "tags": [
-      "HPI",
-      "QI",
-      "Viviane Kovess-Masféty",
-      "Christine Barois",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:58:29.690038+00:00"
   },
   {
@@ -1260,11 +1064,9 @@
     "summary": "L'ancien président et député PS était invité de France Bleu Occitanie vendredi.",
     "thumbnail": "thumbnails/1fl9t6n.webp",
     "tags": [
-      "Michel Barnier",
       "François Hollande",
-      "France Bleu Occitanie",
-      "PS",
-      "Politique"
+      "Michel Barnier",
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T10:58:30.031953+00:00"
   },
@@ -1286,10 +1088,9 @@
     "summary": "Deux avocates de la défense, Me Nadia El Bouroumi et Me Isabelle Crépin-Dehaene, ont provoqué des réactions indignées en raison de leurs propos sur le procès des viols de Mazan en cours et de leurs attitudes affichées...",
     "thumbnail": "thumbnails/1fl7ls5.webp",
     "tags": [
-      "Mazan",
-      "Nadia El Bouroumi",
-      "Isabelle Crépin-Dehaene",
-      "Gisèle Pélicot"
+      "Justice",
+      "Violences sexuelles",
+      "Numérique"
     ],
     "analyzed_at": "2026-11-01T10:58:30.534133+00:00"
   },
@@ -1311,11 +1112,7 @@
     "summary": "Selon nos informations, un agenda daté de 2015 a été livré au siège du RN en 2018. Il a ensuite été présenté aux enquêteurs pour prouver que Jordan Bardella avait fourni un travail pour son eurodéputé de l’époque, Jean-François Jalkh.",
     "thumbnail": "thumbnails/1fl7ccs.webp",
     "tags": [
-      "RN",
-      "Jordan Bardella",
-      "Affaire Bardella",
-      "Jean-François Jalkh",
-      "Politique"
+      "Jordan Bardella"
     ],
     "analyzed_at": "2026-11-01T10:58:39.143157+00:00"
   },
@@ -1337,11 +1134,8 @@
     "summary": "Les médias du groupe Bolloré, le JDD en tête, suivi d’Europe 1 et de CNews, mènent une offensive pleine de contre-vérités dans l’affaire Nahel Marzouk, tué par un policier à Nanterre le 27 juin 2023. Prétextant un accès aux conclusions des juges…",
     "thumbnail": "thumbnails/1fkw1wq.webp",
     "tags": [
-      "Bolloré",
-      "Nahel",
-      "JDD",
-      "Europe 1",
-      "Société"
+      "Police",
+      "Médias"
     ],
     "analyzed_at": "2026-11-01T10:58:32.675037+00:00"
   },
@@ -1363,11 +1157,8 @@
     "summary": "Dix photos et trois vidéos ont été projetées jeudi après-midi, à la demande de l'avocat général, face aux dénégations de Jacques C., 72 ans, qui ne reconnaît pas de viols sur Gisèle Pelicot, mais des \"atteintes sexuelles\".",
     "thumbnail": "thumbnails/1fkvfxq.webp",
     "tags": [
-      "Jacques",
-      "Mazan",
-      "Gisèle Pelicot",
-      "Dominique Pelicot",
-      "Procès des viols de Mazan"
+      "Violences sexuelles",
+      "Justice"
     ],
     "analyzed_at": "2026-11-01T10:58:31.921855+00:00"
   },
@@ -1389,11 +1180,7 @@
     "summary": "Le Conseil presbytéral de la paroisse de Saint-Guillaume, située dans le centre de Strasbourg, a décidé d'accrocher le drapeau de la communauté LGBT sur la façade de l'église. L'installation a eu lieu le 10 septembre et...",
     "thumbnail": "thumbnails/1fknmg7.webp",
     "tags": [
-      "LGBT",
-      "Saint-Guillaume",
-      "Strasbourg",
-      "Conseil",
-      "Société"
+      "LGBT+"
     ],
     "analyzed_at": "2026-11-01T10:58:31.750264+00:00"
   },
@@ -1415,11 +1202,9 @@
     "summary": "Le Premier ministre s’est lancé ce jeudi dans une ultime consultation, devant à la fois satisfaire les exigences du chef de l’Etat, mais aussi celles des deux seules familles politiques susceptibles de le soutenir.",
     "thumbnail": "thumbnails/1fkmv08.webp",
     "tags": [
-      "Premier",
-      "Michel Barnier",
       "Emmanuel Macron",
-      "Etat",
-      "Politique"
+      "Michel Barnier",
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T10:58:33.161826+00:00"
   },
@@ -1440,12 +1225,7 @@
     "ingested_at": "2026-11-01T10:58:07.100057+00:00",
     "summary": "Le 24 juillet, Mario, 42 ans, a été placé en garde à vue à Paris pour un outrage lors d’un contrôle. Des vidéos, que révèle «Libération», montrent les graves violences dont il a été victime dans les locaux d'un commissariat parisien.",
     "thumbnail": "thumbnails/1fkh9bs.webp",
-    "tags": [
-      "Paris",
-      "Social Issues",
-      "Violences-policieres",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:58:39.999009+00:00"
   },
   {
@@ -1466,8 +1246,8 @@
     "summary": "",
     "thumbnail": "thumbnails/1fkfrbc.webp",
     "tags": [
-      "Monde",
-      "Pelicot"
+      "Justice",
+      "Violences sexuelles"
     ],
     "analyzed_at": "2026-11-01T10:58:32.307309+00:00"
   },
@@ -1488,11 +1268,7 @@
     "ingested_at": "2026-11-01T10:58:07.101900+00:00",
     "summary": "C'est une affaire qui avait mis le feu aux poudres dans les quartiers et les villes partout en France et qui était devenue un symbole brandi par la gauche pour crier",
     "thumbnail": "thumbnails/1fjtqji.webp",
-    "tags": [
-      "Affaire Nahel",
-      "Nahel Merzouk",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:58:32.720651+00:00"
   },
   {
@@ -1513,36 +1289,10 @@
     "summary": "Le gouverneur de l’institution, François Villeroy de Galhau, appelle à ne pas écarter une hausse des impôts jusqu’à ce que le déficit français retourne sous la barre des 3% du PIB.",
     "thumbnail": "thumbnails/1fjoxty.webp",
     "tags": [
-      "Banque de France",
-      "François Villeroy de Galhau",
-      "PIB",
+      "Budget et fiscalité",
       "Économie"
     ],
     "analyzed_at": "2026-11-01T10:58:33.948094+00:00"
-  },
-  {
-    "id": "1fjeqay",
-    "title": "Cash Investigation McKinsey, une firme au cœur du pouvoir",
-    "url": "https://www.france.tv/france-2/cash-investigation/6472865-mckinsey-une-firme-au-coeur-du-pouvoir.html",
-    "permalink": "/r/france/comments/1fjeqay/cash_investigation_mckinsey_une_firme_au_cœur_du/",
-    "created_at": "2024-09-17T23:44:28+00:00",
-    "score": 436,
-    "num_comments": 42,
-    "subreddit": "france",
-    "author": "SweeneyisMad",
-    "flair": "Société",
-    "domain": "france.tv",
-    "selftext": "",
-    "reddit_thumbnail": "https://b.thumbs.redditmedia.com/wjpHz0CSius-CDxooMrvfnDwGqCqH3IlycflQbidFjc.jpg",
-    "ingested_at": "2026-11-01T10:58:07.101060+00:00",
-    "summary": "\"Cash investigation\" a enquêté sur McKinsey, l'une des entreprises les plus influentes et les plus secrètes de la planète. Celle qui est surnommée la \"firme\"...",
-    "thumbnail": "thumbnails/1fjeqay.webp",
-    "tags": [
-      "Cash Investigation McKinsey",
-      "McKinsey",
-      "Société"
-    ],
-    "analyzed_at": "2026-11-01T10:58:33.224908+00:00"
   },
   {
     "id": "1fj3qoj",
@@ -1562,10 +1312,7 @@
     "summary": "Dans son prochain ouvrage, à paraître le 18 septembre et auquel «Libération» a eu accès, le journaliste révèle une proximité gênante entre l’ancienne ministre de tutelle des crèches privées et la lobbyiste en chef du secteur. Bergé dément.",
     "thumbnail": "thumbnails/1fj3qoj.webp",
     "tags": [
-      "Aurore Bergé",
-      "Victor Castanet",
-      "Children & Parenting",
-      "Politique"
+      "Aurore Bergé"
     ],
     "analyzed_at": "2026-11-01T10:58:42.310070+00:00"
   },
@@ -1586,12 +1333,7 @@
     "ingested_at": "2026-11-01T10:58:07.101235+00:00",
     "summary": "Ayant passé quelque 5 000 études en revue, les experts de l’Organisation mondiale de la santé ont exclu définitivement tout risque de tumeur.",
     "thumbnail": "thumbnails/1fj2n0r.webp",
-    "tags": [
-      "Organisation",
-      "OMS",
-      "Ken Karipidis",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:58:40.332950+00:00"
   },
   {
@@ -1612,10 +1354,7 @@
     "summary": "Des centaines de bipeurs utilisés par le mouvement ont explosé simultanément, faisant près de 2 800 victimes, dont au moins 9 morts. L’opération, attribuée au renseignement israélien, porte un sévère coup au parti chiite pro-iranien.",
     "thumbnail": "thumbnails/1fj1jim.webp",
     "tags": [
-      "Hezbollah",
-      "Liban",
-      "Iran",
-      "Israel"
+      "Conflit israélo-palestinien"
     ],
     "analyzed_at": "2026-11-01T10:58:47.117761+00:00"
   },
@@ -1638,7 +1377,7 @@
     "thumbnail": "thumbnails/1fizy1s.webp",
     "tags": [
       "Michel Barnier",
-      "PARISIEN"
+      "Budget et fiscalité"
     ],
     "analyzed_at": "2026-11-01T10:58:35.160162+00:00"
   },
@@ -1660,9 +1399,8 @@
     "summary": "",
     "thumbnail": "thumbnails/1fixmlr.webp",
     "tags": [
-      "Eric Coquerel et Charles de Courson",
-      "Matignon",
-      "Politique"
+      "Éric Coquerel",
+      "Budget et fiscalité"
     ],
     "analyzed_at": "2026-11-01T10:58:35.461049+00:00"
   },
@@ -1684,35 +1422,9 @@
     "summary": "Une enquête de « Cash Investigation » révèle des échanges inédits qui confirment l’implication d’une équipe du cabinet de conseil américain dans l’élection d’Emmanuel Macron en 2017. La loi interdit …",
     "thumbnail": "thumbnails/1fix2ep.webp",
     "tags": [
-      "EM",
-      "McKinsey",
-      "Cash Investigation",
       "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T10:58:36.395018+00:00"
-  },
-  {
-    "id": "1fityih",
-    "title": "\"Je suis un violeur\", comme les autres coaccusés, affirme Dominique Pelicot",
-    "url": "https://actu.orange.fr/france/amp-quot-je-suis-un-violeur-amp-quot-comme-les-autres-coaccuses-affirme-dominique-pelicot-CNT000002f35cV.html",
-    "permalink": "/r/france/comments/1fityih/je_suis_un_violeur_comme_les_autres_coaccusés/",
-    "created_at": "2024-09-17T08:42:31+00:00",
-    "score": 326,
-    "num_comments": 297,
-    "subreddit": "france",
-    "author": "Alps_Disastrous",
-    "flair": "Société",
-    "domain": "actu.orange.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/r_BeZtPc92NWSd5SKZEpBeT-hFHt_TURm7SFmP56wTE.jpg?auto=webp&s=62739f188de45405b5f06f4ff2746941d87ccd41",
-    "ingested_at": "2026-11-01T10:58:07.102101+00:00",
-    "summary": "Toutes les actualités de France en un seul endroit. Politique, culture, faits divers, environnement - restez informé(e) avec Orange Actualités.",
-    "thumbnail": "thumbnails/1fityih.webp",
-    "tags": [
-      "Dominique Pelicot",
-      "Société"
-    ],
-    "analyzed_at": "2026-11-01T10:58:37.099805+00:00"
   },
   {
     "id": "1fid0yh",
@@ -1732,11 +1444,7 @@
     "summary": "La Commission européenne recommandera d'étendre l'interdiction de fumer aux terrasses des cafés, aux arrêts de bus et dans les zoos, et prévoit également d'inclure dans l'interdiction les produits sans nicotine, selon un document qui a fait l'objet d'une fuite et qu'Euronews s'est procuré.",
     "thumbnail": "thumbnails/1fid0yh.webp",
     "tags": [
-      "Commission",
-      "UE",
-      "Politique de l'UE",
-      "Cigarette électronique",
-      "Commission européenne"
+      "Union européenne"
     ],
     "analyzed_at": "2026-11-01T10:58:37.836259+00:00"
   },
@@ -1758,11 +1466,8 @@
     "summary": "",
     "thumbnail": "thumbnails/1fhyj6g.webp",
     "tags": [
-      "Thierry Breton",
-      "Commission",
-      "Ursula",
-      "Leyen",
-      "Politique"
+      "Ursula von der Leyen",
+      "Union européenne"
     ],
     "analyzed_at": "2026-11-01T10:58:38.112772+00:00"
   },
@@ -1783,11 +1488,7 @@
     "ingested_at": "2026-11-01T10:58:07.100027+00:00",
     "summary": "Pour tenter de piéger les équipes d’Élise Lucet, le cabinet de conseil Accenture a mis sur pied une opération digne du « Bureau des légendes », d’après les aveux de son initiateur. Mediapart en révèl…",
     "thumbnail": "thumbnails/1fhx52y.webp",
-    "tags": [
-      "Accenture",
-      "Cash Investigation",
-      "Élise Lucet"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:58:38.690125+00:00"
   },
   {
@@ -1807,13 +1508,7 @@
     "ingested_at": "2026-11-01T10:58:07.102051+00:00",
     "summary": "Posté sur Youtube, « Kaizen : un an pour gravir l’Everest » est « sans intérêt » et dangereux pour le surtourisme, selon Pascal Tournaire.",
     "thumbnail": "thumbnails/1fhc2qb.webp",
-    "tags": [
-      "Everest",
-      "Pascal Tournaire",
-      "Youtube",
-      "Inoxtag",
-      "Culture"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:58:38.478548+00:00"
   },
   {
@@ -1834,7 +1529,7 @@
     "summary": "",
     "thumbnail": "thumbnails/1fhbybj.webp",
     "tags": [
-      "Matteo Salvini"
+      "Immigration"
     ],
     "analyzed_at": "2026-11-01T10:58:38.787412+00:00"
   },
@@ -1856,9 +1551,7 @@
     "summary": "",
     "thumbnail": "thumbnails/1fgt6ui.webp",
     "tags": [
-      "Thomas Piketty",
-      "Draghi",
-      "Économie"
+      "Budget et fiscalité"
     ],
     "analyzed_at": "2026-11-01T10:58:39.075194+00:00"
   },
@@ -1880,35 +1573,10 @@
     "summary": "Défense d’un gouvernement de gauche, reconnaissance de la Palestine… Ces derniers mois, les positions empruntées par l’ex-Premier ministre d",
     "thumbnail": "thumbnails/1fgr63j.webp",
     "tags": [
-      "Villepin",
-      "Fête de Huma",
-      "Palestine",
-      "Politique"
+      "Dominique de Villepin",
+      "Conflit israélo-palestinien"
     ],
     "analyzed_at": "2026-11-01T10:58:39.075893+00:00"
-  },
-  {
-    "id": "1fgl040",
-    "title": "Michel Barnier percevra une retraite de 28 270 euros mensuels",
-    "url": "https://www.msn.com/fr-fr/actualite/france/michel-barnier-percevra-une-retraite-de-28-270-euros-mensuels/ar-AA1qxv9v",
-    "permalink": "/r/france/comments/1fgl040/michel_barnier_percevra_une_retraite_de_28_270/",
-    "created_at": "2024-09-14T12:31:37+00:00",
-    "score": 561,
-    "num_comments": 222,
-    "subreddit": "france",
-    "author": "SweeneyisMad",
-    "flair": "Politique",
-    "domain": "msn.com",
-    "selftext": "",
-    "reddit_thumbnail": "",
-    "ingested_at": "2026-11-01T10:58:07.100489+00:00",
-    "summary": "",
-    "thumbnail": "",
-    "tags": [
-      "Michel Barnier",
-      "Politique"
-    ],
-    "analyzed_at": "2026-11-01T10:58:39.164215+00:00"
   },
   {
     "id": "1fgik5s",
@@ -1928,7 +1596,7 @@
     "summary": "La crise des finances publiques est d’abord l’échec de la politique de l’offre menée depuis sept ans par le ministre démissionnaire des finances. Le refus de toute remise en cause de cette vision con…",
     "thumbnail": "thumbnails/1fgik5s.webp",
     "tags": [
-      "Bruno le Maire"
+      "Bruno Le Maire"
     ],
     "analyzed_at": "2026-11-01T10:58:40.155049+00:00"
   },
@@ -1950,11 +1618,7 @@
     "summary": "INFO LE PARISIEN. L’élue RN, accusée d’avoir utilisé des frais de mandat à des fins personnelles, a vu son véhicule confisqué après un contr",
     "thumbnail": "thumbnails/1fg2fcc.webp",
     "tags": [
-      "A16",
-      "RN",
-      "Christine Engrand",
-      "RN Christine Engrand",
-      "Politique"
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T10:58:39.645756+00:00"
   },
@@ -1977,10 +1641,7 @@
     "thumbnail": "thumbnails/1fg1ra4.webp",
     "tags": [
       "Michel Barnier",
-      "Premier",
-      "Emmanuel Macron",
-      "Reims",
-      "Politique"
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T10:58:40.345696+00:00"
   },
@@ -2002,36 +1663,9 @@
     "summary": "",
     "thumbnail": "thumbnails/1fg0zs8.webp",
     "tags": [
-      "Pierre",
-      "Vatican",
-      "François"
+      "Violences sexuelles"
     ],
     "analyzed_at": "2026-11-01T10:58:40.081019+00:00"
-  },
-  {
-    "id": "1ffq9tn",
-    "title": "La Cour des comptes étrille le service national universel",
-    "url": "https://projetarcadie.com/content/la-cour-des-comptes-etrille-le-service-national-universel",
-    "permalink": "/r/france/comments/1ffq9tn/la_cour_des_comptes_étrille_le_service_national/",
-    "created_at": "2024-09-13T09:08:17+00:00",
-    "score": 304,
-    "num_comments": 95,
-    "subreddit": "france",
-    "author": "EmpereurCOOKIE",
-    "flair": "Politique",
-    "domain": "projetarcadie.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/5kwVkkU6aB8UlSYJERAvT3AQHRcaqzpuqo0v5Vl93lg.jpg?auto=webp&s=5ea1ef16e74e6e76f817cd86fa338db2637b60ef",
-    "ingested_at": "2026-11-01T10:58:07.102440+00:00",
-    "summary": "On possède enfin une évaluation du SNU. On ne peut pas dire que ça n’a pas marché, on peut clairement parler d’échec et c’est la Cour des comptes qui le dit.",
-    "thumbnail": "thumbnails/1ffq9tn.webp",
-    "tags": [
-      "Cour",
-      "SNU",
-      "Cour des comptes",
-      "Politique"
-    ],
-    "analyzed_at": "2026-11-01T10:58:40.712642+00:00"
   },
   {
     "id": "1ffpqmj",
@@ -2050,9 +1684,7 @@
     "ingested_at": "2026-11-01T10:58:07.100651+00:00",
     "summary": "",
     "thumbnail": "thumbnails/1ffpqmj.webp",
-    "tags": [
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:58:40.462477+00:00"
   },
   {
@@ -2072,13 +1704,7 @@
     "ingested_at": "2026-11-01T10:58:07.101135+00:00",
     "summary": "La championne de taekwondo, réfugiée en France depuis bientôt trois ans après avoir fui le régime des talibans, déplore «l’absence totale de soutien des féministes en France».",
     "thumbnail": "thumbnails/1ff54wo.webp",
-    "tags": [
-      "Afghanistan",
-      "Marzieh Hamidi",
-      "Europe",
-      "Islam",
-      "Menaces de mort"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:58:40.718260+00:00"
   },
   {
@@ -2098,13 +1724,7 @@
     "ingested_at": "2026-11-01T10:58:07.101853+00:00",
     "summary": "Le Rassemblement national est le parti dont l'électorat affirme le plus avoir voté par adhésion et le moins par opposition, selon une note de Harris Interactive pour la Fondation Jean-Jaurès.",
     "thumbnail": "thumbnails/1ff2e1e.webp",
-    "tags": [
-      "RN",
-      "Rassemblement",
-      "Harris Interactive",
-      "Fondation Jean-Jaurès",
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:58:42.283335+00:00"
   },
   {
@@ -2125,11 +1745,8 @@
     "summary": "De plus en plus de Français rencontrent des difficultés d'argent, pour se loger, se soigner, payer leurs dépenses d'énergie, pratiquer un sport ou encore partir en vacances.",
     "thumbnail": "thumbnails/1fevhzt.webp",
     "tags": [
-      "Secours",
-      "Laurent Nuñez",
-      "Pouvoir d'achat",
-      "Éco / Conso",
-      "Économie"
+      "Pauvreté",
+      "Laurent Nuñez"
     ],
     "analyzed_at": "2026-11-01T10:58:40.657847+00:00"
   },
@@ -2151,10 +1768,8 @@
     "summary": "Avec la nomination de Michel Barnier comme Premier ministre, qui clôture un été de turbulences politiques en France après la dissolution du Parlement et des moi...",
     "thumbnail": "thumbnails/1fee4z3.webp",
     "tags": [
-      "Macron",
-      "Michel Barnier",
-      "Premier",
-      "Parlement"
+      "Emmanuel Macron",
+      "Michel Barnier"
     ],
     "analyzed_at": "2026-11-01T10:58:41.143581+00:00"
   },
@@ -2176,11 +1791,8 @@
     "summary": "Marine Le Pen a été condamnée à 500 € d’amende avec sursis par la cour d’appel de Paris, mercredi 11 septembre, pour diffamation envers la Cimade, une association d’aide aux migrants.",
     "thumbnail": "thumbnails/1fea8wy.webp",
     "tags": [
-      "Marine le Pen",
-      "Cimade",
-      "Paris",
-      "Mayotte",
-      "Politique"
+      "Marine Le Pen",
+      "Justice"
     ],
     "analyzed_at": "2026-11-01T10:58:41.120700+00:00"
   },
@@ -2203,10 +1815,7 @@
     "thumbnail": "thumbnails/1fe987o.webp",
     "tags": [
       "Kamala Harris",
-      "Taylor Swift",
-      "Elon Musk",
-      "Tesla et X",
-      "Politique"
+      "Elon Musk"
     ],
     "analyzed_at": "2026-11-01T10:58:41.163896+00:00"
   },
@@ -2228,11 +1837,8 @@
     "summary": "L'audience de mardi a été marquée par l'absence du principal accusé. Mais surtout par une phrase d'un avocat de la défense qui a fait bondir les parties civiles.",
     "thumbnail": "thumbnails/1fe77go.webp",
     "tags": [
-      "Dominique Pelicot",
-      "Mazan",
-      "Guillaume de Palma",
-      "Procès des viols de Mazan",
-      "Société"
+      "Justice",
+      "Violences sexuelles"
     ],
     "analyzed_at": "2026-11-01T10:58:41.186709+00:00"
   },
@@ -2254,11 +1860,8 @@
     "summary": "Victimes dâune expÃ©dition punitive le soir de lâÃ©lection prÃ©sidentielle de 2017 Ã Nantes, Erwan D. et Steven D. subissent depuis des intimidations par des soutiens de la bande proche du Gud. Ils disent aussi avoir Ã©tÃ© la cible dâune Ã©quipe de police.",
     "thumbnail": "thumbnails/1fe5yxv.webp",
     "tags": [
-      "Gud",
-      "Erwan",
-      "Ã Nantes",
-      "Steven",
-      "Politique"
+      "Police",
+      "Extrême droite"
     ],
     "analyzed_at": "2026-11-01T10:58:41.365193+00:00"
   },
@@ -2280,9 +1883,8 @@
     "summary": "",
     "thumbnail": "thumbnails/1fe5x5h.webp",
     "tags": [
-      "Kamala Harris",
       "Donald Trump",
-      "Politique"
+      "Kamala Harris"
     ],
     "analyzed_at": "2026-11-01T10:58:41.468466+00:00"
   },
@@ -2304,8 +1906,8 @@
     "summary": "",
     "thumbnail": "thumbnails/1fdnur7.webp",
     "tags": [
-      "Irlande",
-      "UE"
+      "Union européenne",
+      "Budget et fiscalité"
     ],
     "analyzed_at": "2026-11-01T10:58:41.595589+00:00"
   },
@@ -2328,10 +1930,7 @@
     "thumbnail": "thumbnails/1fdma6h.webp",
     "tags": [
       "Michel Barnier",
-      "PS",
-      "PCF",
-      "LFI",
-      "Politique"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T10:58:41.768613+00:00"
   },
@@ -2353,9 +1952,7 @@
     "summary": "Santé publique France alerte ce mardi sur les niveaux de \"surpoids et d'obésité des adultes\" qui \"restent très élevés\" en France. Si la croissance de la corpulence semble avoir atteint un plafond chez les hommes, elle se poursuit chez les femmes.",
     "thumbnail": "thumbnails/1fdg1dw.webp",
     "tags": [
-      "France Bleu",
-      "Santé publique",
-      "Société"
+      "Santé"
     ],
     "analyzed_at": "2026-11-01T10:58:42.312058+00:00"
   },
@@ -2377,8 +1974,8 @@
     "summary": "La décision datée du 28 août est susceptible de recours dans un délai de 30 jours.",
     "thumbnail": "thumbnails/1fdd4d1.webp",
     "tags": [
-      "Tariq Ramadan",
-      "Société"
+      "Justice",
+      "Violences sexuelles"
     ],
     "analyzed_at": "2026-11-01T10:58:41.834293+00:00"
   },
@@ -2400,7 +1997,8 @@
     "summary": "",
     "thumbnail": "thumbnails/1fdcydo.webp",
     "tags": [
-      "Société"
+      "Terrorisme",
+      "LGBT+"
     ],
     "analyzed_at": "2026-11-01T10:58:41.821895+00:00"
   },
@@ -2423,64 +2021,9 @@
     "thumbnail": "thumbnails/1fcsbub.webp",
     "tags": [
       "Michel Barnier",
-      "Premier",
-      "Identité",
-      "Gouvernement de Michel Barnier",
-      "Politique"
+      "Immigration"
     ],
     "analyzed_at": "2026-11-01T10:58:42.177800+00:00"
-  },
-  {
-    "id": "1fco12y",
-    "title": "Rachat de Twitter : les banques qui ont aidé Elon Musk s'en mordent les doigts",
-    "url": "https://www.journaldugeek.com/2024/08/22/rachat-de-twitter-les-banques-qui-ont-aide-elon-musk-sen-mordent-les-doigts/",
-    "permalink": "/r/france/comments/1fco12y/rachat_de_twitter_les_banques_qui_ont_aidé_elon/",
-    "created_at": "2024-09-09T12:18:44+00:00",
-    "score": 256,
-    "num_comments": 93,
-    "subreddit": "france",
-    "author": "grzzt",
-    "flair": "Société",
-    "domain": "journaldugeek.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/FuCzG_ahP5oZvGw1t9XTz39oLy7SP1a68_8C4huOqbA.jpg?auto=webp&s=c6e75b7f451401319ec87344e3dc2d454b8fe83a",
-    "ingested_at": "2026-11-01T10:58:07.103160+00:00",
-    "summary": "Les frasques du milliardaire continuent de faire chuter la valeur du réseau social, à tel point que les banques se retrouvent coincées avec des prêts énormes qui pèsent lourd sur leurs opérations.",
-    "thumbnail": "thumbnails/1fco12y.webp",
-    "tags": [
-      "Twitter",
-      "Elon Musk",
-      "Musk",
-      "Wall Street Journal",
-      "Société"
-    ],
-    "analyzed_at": "2026-11-01T10:58:43.016294+00:00"
-  },
-  {
-    "id": "1fcmjua",
-    "title": "Mylène Charles, la \"téléspectatrice en colère\" de Cyril Hanouna et C8 qui affirme avoir porté plainte contre l'Arcom n'est pas une inconnue du groupe Canal+",
-    "url": "https://www.ozap.com/actu/mylene-charles-la-telespectatrice-en-colere-de-cyril-hanouna-et-c8-qui-affirme-avoir-porte-plainte-contre-l-arcom-n-est-pas-une-inconnue-du-groupe-canal/645682",
-    "permalink": "/r/france/comments/1fcmjua/mylène_charles_la_téléspectatrice_en_colère_de/",
-    "created_at": "2024-09-09T10:55:08+00:00",
-    "score": 395,
-    "num_comments": 86,
-    "subreddit": "france",
-    "author": "ploppliplop",
-    "flair": "Société",
-    "domain": "ozap.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/0JuVdj1pGM42tj6As7WKVnLkxHAmuy5N3oVkXHmZpcU.jpeg?auto=webp&s=fe1596b07cbf9ee732103a984af6f0222aac6563",
-    "ingested_at": "2026-11-01T10:58:07.101432+00:00",
-    "summary": "Mylène Charles, présentée par Cyril Hanouna comme &quot;une téléspectatrice de C8 en colère&quot;, a témoigné dans &quot;Face à Hanouna&quot; ce samedi 7 septembre 2024.",
-    "thumbnail": "thumbnails/1fcmjua.webp",
-    "tags": [
-      "Mylène Charles",
-      "Arcom",
-      "Cyril Hanouna",
-      "Hanouna",
-      "Société"
-    ],
-    "analyzed_at": "2026-11-01T10:58:42.760301+00:00"
   },
   {
     "id": "1fck0p6",
@@ -2500,11 +2043,7 @@
     "summary": "En 2015, le jeune lepéniste était payé par l’Europe mais employé par le FN. Pour camoufler cette activité fictive, l’actuel président du parti a aidé à produire de fausses preuves de travail, révèle un livre à paraître vendredi.",
     "thumbnail": "thumbnails/1fck0p6.webp",
     "tags": [
-      "Jordan Bardella",
-      "FN",
-      "Rassemblement",
-      "RN",
-      "Europe"
+      "Jordan Bardella"
     ],
     "analyzed_at": "2026-11-01T10:58:47.716746+00:00"
   },
@@ -2526,8 +2065,7 @@
     "summary": "",
     "thumbnail": "thumbnails/1fcjwxx.webp",
     "tags": [
-      "Anne Hidalgo",
-      "Société"
+      "Anne Hidalgo"
     ],
     "analyzed_at": "2026-11-01T10:58:42.673755+00:00"
   },
@@ -2548,10 +2086,7 @@
     "ingested_at": "2026-11-01T10:58:07.101518+00:00",
     "summary": "",
     "thumbnail": "thumbnails/1fcgtee.webp",
-    "tags": [
-      "Elena Congost",
-      "JPO"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:58:42.763759+00:00"
   },
   {
@@ -2572,11 +2107,7 @@
     "summary": "Près d'une quarantaine de streamers se sont mobilisés à Montpellier ce week-end lors d'un marathon de streaming caritatif. Le Secours populaire, Cop1, Les Bureaux du Cœur, Solidarité Paysans et Chapitre 2 recevront les millions d'euros de dons.",
     "thumbnail": "thumbnails/1fcbcb7.webp",
     "tags": [
-      "Montpellier",
-      "Secours",
-      "Bureaux du Cœur",
-      "Solidarité Paysans et Chapitre 2",
-      "Société"
+      "Pauvreté"
     ],
     "analyzed_at": "2026-11-01T10:58:42.652074+00:00"
   },
@@ -2598,10 +2129,7 @@
     "summary": "La cérémonie de clôture des Jeux paralympiques de Paris s’est ouverte dimanche sur un hommage à Johnny Hallyday, incontournable des stades pendant tout l’été olympique, avec une version symphonique de son titre \"Vivre pour le meilleur\" interprétée par l’étoile montante française Santa.",
     "thumbnail": "thumbnails/1fc9eh6.webp",
     "tags": [
-      "Emmanuel Macron",
-      "Jeux Paralympiques de Paris",
-      "Stade de France",
-      "Société"
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T10:58:43.204013+00:00"
   },
@@ -2623,11 +2151,7 @@
     "summary": "La réalisatrice Sarah Friedland a dénoncé, “en tant qu’artiste juive américaine”, le “génocide israélien à Gaza”, en recevant un prix à la 81e Mostra de Venise samedi.",
     "thumbnail": "thumbnails/1fbx9ze.webp",
     "tags": [
-      "Gaza",
-      "Sarah Friedland",
-      "Venise",
-      "Mostra de Venise",
-      "Société"
+      "Conflit israélo-palestinien"
     ],
     "analyzed_at": "2026-11-01T10:58:43.250113+00:00"
   },
@@ -2649,8 +2173,7 @@
     "summary": "",
     "thumbnail": "thumbnails/1fbhzrh.webp",
     "tags": [
-      "Emmanuel Macron's",
-      "Politique"
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T10:58:43.234460+00:00"
   },
@@ -2671,10 +2194,7 @@
     "ingested_at": "2026-11-01T10:58:07.101662+00:00",
     "summary": "Le philosophe Michel Feher publie « Producteurs et parasites ». Il y décrit la façon dont l’extrême droite propose une version morale et racialisée de la lutte des classes, selon une vision du monde …",
     "thumbnail": "thumbnails/1fbctwb.webp",
-    "tags": [
-      "RN",
-      "Michel Feher"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:58:43.651171+00:00"
   },
   {
@@ -2695,11 +2215,8 @@
     "summary": "Des milliers de personnes se sont rassemblées dans la capitale et ailleurs en France ce samedi à l’appel de la gauche, protestant contre la",
     "thumbnail": "thumbnails/1fbbhpf.webp",
     "tags": [
-      "Paris",
-      "Michel Barnier",
-      "Assemblée",
-      "Matignon",
-      "Politique"
+      "Manifestations",
+      "Michel Barnier"
     ],
     "analyzed_at": "2026-11-01T10:58:43.481307+00:00"
   },
@@ -2721,11 +2238,7 @@
     "summary": "Bernard Bousset avait seulement 23 ans lorsqu'il a été condamné pour homosexualité en Haute-Savoie. C'était en 1964. Il raconte les conséquences de cette discrimination institutionnelle sur sa vie.",
     "thumbnail": "thumbnails/1fb4lmt.webp",
     "tags": [
-      "France Bleu",
-      "Bernard Bousset",
-      "Haute-Savoie",
-      "ICI",
-      "Société"
+      "Justice"
     ],
     "analyzed_at": "2026-11-01T10:58:43.882621+00:00"
   },
@@ -2747,11 +2260,7 @@
     "summary": "De nombreux sympathisants de gauche ont répondu à un appel à témoignages de franceinfo pour faire part de leur incompréhension après l'arrivée, jeudi, d'une figure historique des républicains au poste de Premier ministre.",
     "thumbnail": "thumbnails/1fb3jvr.webp",
     "tags": [
-      "Michel Barnier",
-      "NFP",
-      "Matignon",
-      "Premier",
-      "Société"
+      "Michel Barnier"
     ],
     "analyzed_at": "2026-11-01T10:58:43.548422+00:00"
   },
@@ -2773,8 +2282,7 @@
     "summary": "L’élu savoyard Fabrice Pannekoucke a été propulsé, jeudi 5 septembre, à la tête de la deuxième plus grande région de France. Il avait été mis en cause pour un emploi fantôme par la chambre régionale …",
     "thumbnail": "thumbnails/1fb39vo.webp",
     "tags": [
-      "Wauquiez",
-      "Fabrice Pannekoucke"
+      "Laurent Wauquiez"
     ],
     "analyzed_at": "2026-11-01T10:58:44.045612+00:00"
   },
@@ -2795,37 +2303,8 @@
     "ingested_at": "2026-11-01T10:58:07.102490+00:00",
     "summary": "Le patron de Telegram, qui a été mis en examen pour de nombreuses infractions liées à son application de messagerie, menace de supprimer la plateforme en France.",
     "thumbnail": "thumbnails/1fb1eln.webp",
-    "tags": [
-      "Telegram",
-      "Pavel Durov"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:58:43.707877+00:00"
-  },
-  {
-    "id": "1fagd21",
-    "title": "Suite à de nouvelles accusations d'agressions sexuelles de l'abbé Pierre, la fondation Abbé Pierre annonce changer de nom",
-    "url": "https://www.fondation-abbe-pierre.fr/nos-publications/communiques-de-presse/emmaus-international-emmaus-france-et-la-fondation-abbe-0",
-    "permalink": "/r/france/comments/1fagd21/suite_à_de_nouvelles_accusations_dagressions/",
-    "created_at": "2024-09-06T14:20:09+00:00",
-    "score": 346,
-    "num_comments": 144,
-    "subreddit": "france",
-    "author": "AlKramer",
-    "flair": "Actus",
-    "domain": "fondation-abbe-pierre.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/9IVrZ55srvonUvqmQSoCufhupIH_QG1ZWmh5K2WFfO4.jpeg?auto=webp&s=a66d434b496a5dbfc84b2ad49326b210d7bc2ecc",
-    "ingested_at": "2026-11-01T10:58:07.101803+00:00",
-    "summary": "Le 17 juillet dernier, nos trois organisations, Emmaüs International, Emmaüs France et la Fondation Abbé Pierre ont rendu publics des témoignages de",
-    "thumbnail": "thumbnails/1fagd21.webp",
-    "tags": [
-      "Pierre",
-      "Abbé Pierre",
-      "International",
-      "Emmau",
-      "France et la Fondation Abbe Pierre"
-    ],
-    "analyzed_at": "2026-11-01T10:58:44.459810+00:00"
   },
   {
     "id": "1fa986h",
@@ -2845,11 +2324,7 @@
     "summary": "L’ancien député RPR avait refusé, comme l’extrême majorité de la droite, d’abolir un article du Code pénal qui réprimait tout «acte impudique ou contre nature avec un individu de son sexe mineur». Même lorsque la majorité sexuelle, de 15 ans, était dépassée.",
     "thumbnail": "thumbnails/1fa986h.webp",
     "tags": [
-      "Michel Barnier",
-      "Barnier",
-      "Nouveau Front Populaire",
-      "RPR",
-      "Politique"
+      "Michel Barnier"
     ],
     "analyzed_at": "2026-11-01T10:58:46.506464+00:00"
   },
@@ -2871,7 +2346,8 @@
     "summary": "La défense de l’ancien président a demandé la réouverture de l’enquête, estimant avoir découvert une pièce à décharge qui lui aurait été dissimulée. Une manipulation à laquelle le tribunal n’a pas do…",
     "thumbnail": "thumbnails/1f9ufnk.webp",
     "tags": [
-      "Nicolas Sarkozy"
+      "Nicolas Sarkozy",
+      "Justice"
     ],
     "analyzed_at": "2026-11-01T10:58:44.770770+00:00"
   },
@@ -2893,10 +2369,7 @@
     "summary": "L’ex-premier ministre Gabriel Attal a estimé que l’association remplissait les «conditions en vue de l’exercice des droits reconnus à la partie civile».",
     "thumbnail": "thumbnails/1f9sq9g.webp",
     "tags": [
-      "Anticor",
-      "Lanceur d'alerte",
-      "Gabriel Attal",
-      "Société"
+      "Gabriel Attal"
     ],
     "analyzed_at": "2026-11-01T10:58:47.408984+00:00"
   },
@@ -2918,11 +2391,10 @@
     "summary": "Les responsables des collectivités territoriales remettent le ministre démissionnaire de l'Économie face à ses responsabilités. Ce lundi 2 septembre, Bruno Le Maire a estimé que le creusement du déficit public pourrait être...",
     "thumbnail": "thumbnails/1f9ijjh.webp",
     "tags": [
-      "Bruno le Maire",
-      "Économie",
-      "Marc Gaudet",
-      "François Bonneau",
-      "Politique"
+      "Bruno Le Maire",
+      "Budget et fiscalité",
+      "Justice",
+      "Économie"
     ],
     "analyzed_at": "2026-11-01T10:58:44.414492+00:00"
   },
@@ -2944,9 +2416,7 @@
     "summary": "",
     "thumbnail": "thumbnails/1f9e0c9.webp",
     "tags": [
-      "Emmanuel Macron",
-      "Rassemblement",
-      "Matignon"
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T10:58:45.006492+00:00"
   },
@@ -2967,9 +2437,7 @@
     "ingested_at": "2026-11-01T10:58:07.102709+00:00",
     "summary": "Au mois d’août, le juge des référés avait donné quinze jours au premier ministre pour réexaminer la demande d’agrément de l’association de lutte contre la corruption lui permettant d’ester en justice…",
     "thumbnail": "thumbnails/1f91dv5.webp",
-    "tags": [
-      "Anticor"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:58:45.541156+00:00"
   },
   {
@@ -2990,11 +2458,7 @@
     "summary": "L’équipe de la candidate à Matignon de l’alliance de gauche avait demandé aux partis membres une enveloppe mensuelle de 51 000 euros, selon",
     "thumbnail": "thumbnails/1f8sqqb.webp",
     "tags": [
-      "Lucie Castets",
-      "NFP",
-      "Matignon",
-      "Marianne",
-      "Politique"
+      "Lucie Castets"
     ],
     "analyzed_at": "2026-11-01T10:58:45.149478+00:00"
   },
@@ -3015,13 +2479,7 @@
     "ingested_at": "2026-11-01T10:58:07.101491+00:00",
     "summary": "Réfugiée en France depuis trois ans, la jeune femme de 22 ans est menacée de mort pour avoir dénoncé les talibans dans une vidéo en ligne. Elle était l'invitée de franceinfo, mercredi.",
     "thumbnail": "thumbnails/1f8rckd.webp",
-    "tags": [
-      "Marzieh Hamidi",
-      "Afghanistan",
-      "Paris",
-      "Jeux",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:58:45.445729+00:00"
   },
   {
@@ -3042,10 +2500,7 @@
     "summary": "Une soixantaine d’arbres ont été abattus dimanche 1er septembre sur le tracé de la future et contestée autoroute A69. Des opposants étaient pourtant encore perchés dans les arbres....",
     "thumbnail": "thumbnails/1f8p49j.webp",
     "tags": [
-      "A69",
-      "Autoroute A69",
-      "Gratuit",
-      "Politique"
+      "Manifestations"
     ],
     "analyzed_at": "2026-11-01T10:58:46.742887+00:00"
   },
@@ -3067,11 +2522,9 @@
     "summary": "\"Ce que je proposerai sera massif\", annonce le maire du Havre mardi soir dans un entretien au \"Point\", sans définir de programme.",
     "thumbnail": "thumbnails/1f86yfl.webp",
     "tags": [
-      "Edouard Philippe",
-      "Havre",
-      "Français",
-      "Laurent Nuñez",
-      "Politique"
+      "Édouard Philippe",
+      "Élection présidentielle",
+      "Laurent Nuñez"
     ],
     "analyzed_at": "2026-11-01T10:58:45.696404+00:00"
   },
@@ -3092,10 +2545,7 @@
     "ingested_at": "2026-11-01T10:58:07.103279+00:00",
     "summary": "",
     "thumbnail": "thumbnails/1f82vqn.webp",
-    "tags": [
-      "EPR de Flamanville",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:58:46.137343+00:00"
   },
   {
@@ -3116,7 +2566,7 @@
     "summary": "",
     "thumbnail": "thumbnails/1f7fcxb.webp",
     "tags": [
-      "Bruno le Maire"
+      "Bruno Le Maire"
     ],
     "analyzed_at": "2026-11-01T10:58:46.039014+00:00"
   },
@@ -3137,11 +2587,7 @@
     "ingested_at": "2026-11-01T10:58:07.101286+00:00",
     "summary": "Et si la France avait basculé dans une période presque autoritaire ? La question semble surréaliste mais elle se pose. L’historien Johann Chapoutot répond.",
     "thumbnail": "thumbnails/1f74cvk.webp",
-    "tags": [
-      "Johann Chapoutot",
-      "Arcom",
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:58:46.253607+00:00"
   },
   {
@@ -3161,11 +2607,7 @@
     "ingested_at": "2026-11-01T10:58:07.103135+00:00",
     "summary": "Mariam et Kamel sont deux Niçois très précoces. Les deux adolescents font des études à l’âge où d’autres passent le brevet.",
     "thumbnail": "thumbnails/1f73k8z.webp",
-    "tags": [
-      "Kamel",
-      "Niçois",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:58:46.554022+00:00"
   },
   {
@@ -3186,7 +2628,7 @@
     "summary": "",
     "thumbnail": "thumbnails/1f6yzxn.webp",
     "tags": [
-      "Société"
+      "Justice"
     ],
     "analyzed_at": "2026-11-01T10:58:47.723396+00:00"
   },
@@ -3208,39 +2650,13 @@
     "summary": "Toujours en quête d’un premier ministre, le président s’entretiendra avec les deux anciens chefs d’État à l’Élysée demain. L’ancien premier ministre de François Hollande Bernard Cazeneuve et Xavier Bertrand sont aussi attendus.",
     "thumbnail": "thumbnails/1f6gqgd.webp",
     "tags": [
-      "Élysée",
-      "Macron",
+      "François Hollande",
       "Emmanuel Macron",
-      "Nicolas Sarkozy et François Hollande",
-      "Politique"
+      "Nicolas Sarkozy",
+      "Bernard Cazeneuve",
+      "Xavier Bertrand"
     ],
     "analyzed_at": "2026-11-01T10:58:46.949597+00:00"
-  },
-  {
-    "id": "1f6dhgl",
-    "title": "Le jackpot des lycées privés : Quand l'argent public file direct dans les caisses du privé, et le public trinque - Le Père Peinard",
-    "url": "https://www.leperepeinard.com/articles/le-jackpot-des-lycees-prives-quand-largent-public-file-direct-dans-les-caisses-du-prive-et-le-public-trinque/",
-    "permalink": "/r/france/comments/1f6dhgl/le_jackpot_des_lycées_privés_quand_largent_public/",
-    "created_at": "2024-09-01T12:41:26+00:00",
-    "score": 324,
-    "num_comments": 122,
-    "subreddit": "france",
-    "author": "grzzt",
-    "flair": "Société",
-    "domain": "leperepeinard.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/FrTE4Nku48_hAg2Tws77T9-bX0FKefZA6HPqNHHtKIc.jpg?auto=webp&s=7cab9c3e01b838d2ea9f90a1d3c8b9b01c09d85b",
-    "ingested_at": "2026-11-01T10:58:07.102125+00:00",
-    "summary": "On savait que les écoles privées avaient leurs petits privilèges, mais Mediapart vient de lever le voile sur un scandale d'une ampleur insoupçonnée : entre 2016 et 2023, 1,2 milliard d'euros de fonds publics ont discrètement filé dans les caisses des lycées privés sous contrat.Au-delà des financements légaux déjà…",
-    "thumbnail": "thumbnails/1f6dhgl.webp",
-    "tags": [
-      "Père Peinard",
-      "Mediapart",
-      "Au-delà",
-      "Education",
-      "Société"
-    ],
-    "analyzed_at": "2026-11-01T10:58:47.071047+00:00"
   },
   {
     "id": "1f69un0",
@@ -3260,11 +2676,7 @@
     "summary": "INFO LE PARISIEN. Le chef de cabinet de l’élu des Alpes-Maritimes a été contrôlé alors qu’il roulait à 175 km/h sur l’autoroute A8. Comme je",
     "thumbnail": "thumbnails/1f69un0.webp",
     "tags": [
-      "Éric Ciotti",
-      "LR",
-      "PARISIEN",
-      "A8",
-      "Politique"
+      "Éric Ciotti"
     ],
     "analyzed_at": "2026-11-01T10:58:47.033006+00:00"
   }

@@ -12,14 +12,19 @@ from django.utils.crypto import constant_time_compare
 from django.utils.text import slugify
 from django.views.decorators.http import require_GET
 
-from .models import TagSummary
+from . import elections
+from .models import TagSummary, tag_slug
 from .reddit import RedditClient, RedditError
-from .store import get_store
-from .timeline import build_thread, build_timeline, thread_years
+from .store import NewsStore, get_store
+from .timeline import build_thread, build_timeline, thread_entries, thread_years
 
 OAUTH_STATE_COOKIE = "reddit_oauth_state"
 OAUTH_STATE_MAX_AGE = 600
 RELATED_NEWS_COUNT = 5
+# "Fils du moment": tags with the most news over this period.
+TRENDING_PERIOD = timedelta(days=7)
+# The Fil shown next to the headline: the busiest tag over this period.
+FEATURED_PERIOD = timedelta(hours=48)
 
 
 @require_GET
@@ -36,10 +41,53 @@ def home(request: HttpRequest) -> HttpResponse:
         "home.html",
         {
             "headline": headline,
+            "featured": _featured_thread(store),
             "news_list": store.latest(settings.FILNEWS_HOME_NEWS_COUNT, exclude),
-            "recent_tags": store.recent_tags(settings.FILNEWS_HOME_TAG_COUNT),
+            "trending_tags": _trending_tags(store, now - TRENDING_PERIOD),
+            "election_name": elections.ELECTION_NAME,
+            "candidates": [c for c in elections.CANDIDATES if c.is_declared],
         },
     )
+
+
+def _featured_thread(store: NewsStore) -> dict | None:
+    """The Fil of the tag with the most news in the 48 hours before the
+    latest news (the site may not have been updated today)."""
+    latest = store.latest(1)
+    if not latest:
+        return None
+    since = latest[0].created_at - FEATURED_PERIOD
+    tag = next(iter(_busiest_tags(store, since)), None)
+    if tag is None:
+        return None
+    entries = thread_entries(tag.news[: settings.FILNEWS_HOME_THREAD_COUNT])
+    # Each news says how long before it the next (older) one came.
+    gaps = [entry.gap for entry in entries[1:]] + [""]
+    return {
+        "tag": tag,
+        "thread": [
+            {"news": entry.news, "gap_after": gap}
+            for entry, gap in zip(entries, gaps, strict=True)
+        ],
+    }
+
+
+def _trending_tags(store: NewsStore, since: datetime) -> list[TagSummary]:
+    return _busiest_tags(store, since)[: settings.FILNEWS_HOME_TAG_COUNT]
+
+
+def _busiest_tags(store: NewsStore, since: datetime) -> list[TagSummary]:
+    """Tags with a page, by number of news since `since` (then most recent)."""
+    counts: dict[str, int] = {}
+    for news in store.all():
+        if news.created_at < since:
+            break
+        for name in news.tags:
+            slug = tag_slug(name)
+            counts[slug] = counts.get(slug, 0) + 1
+    tags = [tag for slug in counts if (tag := store.tag_page(slug))]
+    tags.sort(key=lambda tag: (counts[tag.slug], tag.last_seen), reverse=True)
+    return tags
 
 
 @require_GET
@@ -182,12 +230,69 @@ def tag_timeline(request: HttpRequest, slug: str) -> HttpResponse:
 
 
 @require_GET
+def election(request: HttpRequest) -> HttpResponse:
+    """The Fil of the presidential election and the list of candidates."""
+    store = get_store()
+    candidates = [
+        {
+            "candidate": candidate,
+            "count": len(elections.candidate_news(store, candidate)),
+            "tags": [t for t in map(store.tag_page, candidate.tag_slugs) if t],
+        }
+        for candidate in elections.CANDIDATES
+    ]
+    return render(
+        request,
+        "elections/index.html",
+        {
+            "election_name": elections.ELECTION_NAME,
+            "first_round": elections.FIRST_ROUND,
+            "campaign_start": elections.CAMPAIGN_START,
+            "candidates": candidates,
+            "thread": thread_entries(elections.election_news(store)),
+        },
+    )
+
+
+@require_GET
+def election_candidate(request: HttpRequest, slug: str) -> HttpResponse:
+    candidate = elections.get_candidate(slug)
+    if candidate is None:
+        raise Http404("Unknown candidate")
+    store = get_store()
+    return render(
+        request,
+        "elections/candidate.html",
+        {
+            "election_name": elections.ELECTION_NAME,
+            "campaign_start": elections.CAMPAIGN_START,
+            "candidate": candidate,
+            "tags": [t for t in map(store.tag_page, candidate.tag_slugs) if t],
+            "thread": thread_entries(elections.candidate_news(store, candidate)),
+        },
+    )
+
+
+@require_GET
+def legal(request: HttpRequest) -> HttpResponse:
+    return render(
+        request,
+        "legal.html",
+        {
+            "source_url": settings.SITE_SOURCE_URL,
+            "subreddit": settings.FILNEWS_SUBREDDIT,
+        },
+    )
+
+
+@require_GET
 def about(request: HttpRequest) -> HttpResponse:
     return render(
         request,
         "about.html",
         {
             "subreddit": settings.FILNEWS_SUBREDDIT,
+            "source_url": settings.SITE_SOURCE_URL,
         },
     )
 

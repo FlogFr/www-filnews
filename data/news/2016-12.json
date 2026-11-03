@@ -16,9 +16,7 @@
     "ingested_at": "2026-10-31T14:47:12.102686+00:00",
     "summary": "",
     "thumbnail": "thumbnails/5lcfff.webp",
-    "tags": [
-      "Istanbul"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:49:32.307476+00:00"
   },
   {
@@ -39,11 +37,7 @@
     "summary": "Habitants de Sevran, du Blanc-Mesnil, La Courneuve ou Pantin, prenez vos dispositions ou une paire de baskets dans votre sac selon le quarti",
     "thumbnail": "thumbnails/5l99wd.webp",
     "tags": [
-      "RATP",
-      "Saint-Sylvestre",
-      "Blanc-Mesnil",
-      "Courneuve",
-      "Pantin"
+      "Transports"
     ],
     "analyzed_at": "2026-11-01T09:49:32.533123+00:00"
   },
@@ -64,10 +58,7 @@
     "ingested_at": "2026-10-31T14:47:12.102800+00:00",
     "summary": "",
     "thumbnail": "thumbnails/5l9037.webp",
-    "tags": [
-      "Corée du Nord",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:49:32.223428+00:00"
   },
   {
@@ -87,11 +78,7 @@
     "ingested_at": "2026-10-31T14:38:07.611874+00:00",
     "summary": "Le prélèvement d'organes sur une personne décédée qui n'est pas inscrite au registre des refus sera facilité.",
     "thumbnail": "thumbnails/5l4w4b.webp",
-    "tags": [
-      "Français",
-      "Santé",
-      "Sciences et Santé"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:49:32.961442+00:00"
   },
   {
@@ -112,7 +99,8 @@
     "summary": "Piégé par un élève sur un site de rencontre pour hommes majeurs, un prof d'espagnol a été suspendu par son lycée. Il porte plainte.",
     "thumbnail": "thumbnails/5l2pa5.webp",
     "tags": [
-      "Société"
+      "Éducation",
+      "LGBT+"
     ],
     "analyzed_at": "2026-11-01T09:49:33.132056+00:00"
   },
@@ -134,11 +122,7 @@
     "summary": "Un SDF angoumoisin avait posté début décembre des annonces sur le net pour trouver un logement. Une mise en scène orchestrée par le FN.",
     "thumbnail": "thumbnails/5kwzb8.webp",
     "tags": [
-      "SDF",
-      "FN",
-      "Charente",
-      "Franck",
-      "Politique"
+      "Logement"
     ],
     "analyzed_at": "2026-11-01T09:49:33.078857+00:00"
   },
@@ -159,9 +143,7 @@
     "ingested_at": "2026-10-31T14:38:07.611549+00:00",
     "summary": "",
     "thumbnail": "thumbnails/5kvxjl.webp",
-    "tags": [
-      "Jean-Christophe Victor"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:49:32.841217+00:00"
   },
   {
@@ -182,35 +164,9 @@
     "summary": "Jacqueline Sauvage peut sortir de prison immédiatement, a annoncé mercredi la présidence de la République, François Hollande ayant décidé de lui...",
     "thumbnail": "thumbnails/5kqpig.webp",
     "tags": [
-      "Jacqueline Sauvage",
-      "François Hollande",
-      "République",
-      "Flash",
-      "Flash Actu"
+      "François Hollande"
     ],
     "analyzed_at": "2026-11-01T09:49:33.763724+00:00"
-  },
-  {
-    "id": "5kpsp5",
-    "title": "Le combo vin/fromage à l'américaine",
-    "url": "https://i.redditmedia.com/ZQZsK10ldy6G8rKzdhVKDCB_j9jxKYnX8bO57jlu7R8.png?w=727&s=0d0326fe6016757cf39b7144aa0f8113",
-    "permalink": "/r/france/comments/5kpsp5/le_combo_vinfromage_à_laméricaine/",
-    "created_at": "2016-12-28T11:26:00+00:00",
-    "score": 87,
-    "num_comments": 72,
-    "subreddit": "france",
-    "author": "Outrageous_chausette",
-    "flair": "Culture",
-    "domain": "i.redditmedia.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/MbWDkFVlDCMOkca-NembPYxDxVFxQLHVZoI0h2QCLLY.png?auto=webp&s=01f47be736c0bd71230dc3f2f4c9e5037852926a",
-    "ingested_at": "2026-10-31T14:47:12.102265+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/5kpsp5.webp",
-    "tags": [
-      "Culture"
-    ],
-    "analyzed_at": "2026-11-01T09:49:33.129839+00:00"
   },
   {
     "id": "5klgnc",
@@ -229,13 +185,7 @@
     "ingested_at": "2026-10-31T14:47:12.102140+00:00",
     "summary": "L'actrice française est décédée à 89 ans dans son sommeil dans la nuit de lundi 26 décembre.",
     "thumbnail": "thumbnails/5klgnc.webp",
-    "tags": [
-      "Louis de Funès",
-      "Claude Gensac",
-      "Alerte",
-      "Fil info",
-      "Fil culture"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:49:33.451781+00:00"
   },
   {
@@ -255,13 +205,7 @@
     "ingested_at": "2026-10-31T14:38:07.611786+00:00",
     "summary": "",
     "thumbnail": "thumbnails/5kl2ub.webp",
-    "tags": [
-      "Monde",
-      "Carrie Fisher",
-      "Leia",
-      "Star Wars",
-      "Culture"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:49:33.347299+00:00"
   },
   {
@@ -282,54 +226,9 @@
     "summary": "",
     "thumbnail": "thumbnails/5kj5bd.webp",
     "tags": [
-      "Société"
+      "Élections"
     ],
     "analyzed_at": "2026-11-01T09:49:38.228611+00:00"
-  },
-  {
-    "id": "5kfgmo",
-    "title": "Quelqu'un sait où en Paris cette photo de ma arrière-grand-mère est prix?",
-    "url": "http://m.imgur.com/YleWBJV",
-    "permalink": "/r/france/comments/5kfgmo/quelquun_sait_où_en_paris_cette_photo_de_ma/",
-    "created_at": "2016-12-26T20:00:31+00:00",
-    "score": 161,
-    "num_comments": 33,
-    "subreddit": "france",
-    "author": "HulloMrEinstein",
-    "flair": "Aide / Help",
-    "domain": "m.imgur.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/4180Mbo70_lVAjRPKsMGEZBMgYcHh4a0ETBiGCWxN4o.jpg?auto=webp&s=057095a5445ee1bdf42f8adfe968fa712356b992",
-    "ingested_at": "2026-10-31T14:38:07.612023+00:00",
-    "summary": "Discover the magic of the internet at Imgur, a community powered entertainment destination. Lift your spirits with funny jokes, trending memes, entertaining gifs, inspiring stories, viral videos, and so much more from users.",
-    "thumbnail": "thumbnails/5kfgmo.webp",
-    "tags": [
-      "Paris",
-      "Aide / Help"
-    ],
-    "analyzed_at": "2026-11-01T09:49:33.671646+00:00"
-  },
-  {
-    "id": "5kdyjl",
-    "title": "Pourquoi continue-t-on de nous imposer des films en 3D alors que personne n’aime ça ?",
-    "url": "https://medium.com/@benoitraphael/pourquoi-continue-t-on-de-nous-imposer-des-films-en-3d-alors-que-personne-naime-%C3%A7a-89541daa400a#.oiksgjx8h",
-    "permalink": "/r/france/comments/5kdyjl/pourquoi_continueton_de_nous_imposer_des_films_en/",
-    "created_at": "2016-12-26T14:33:41+00:00",
-    "score": 109,
-    "num_comments": 78,
-    "subreddit": "france",
-    "author": "Baboeuf",
-    "flair": "Culture",
-    "domain": "medium.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/PWUf1e_3NsKXR9HkZb74uXPya6-yqEXmnQO3GisbOgs.jpeg?auto=webp&s=4a3a2dbec95f399b7c00ba675ee5451c7a5a5ac7",
-    "ingested_at": "2026-10-31T14:38:07.612239+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/5kdyjl.webp",
-    "tags": [
-      "Culture"
-    ],
-    "analyzed_at": "2026-11-01T09:49:38.630690+00:00"
   },
   {
     "id": "5kdavl",
@@ -349,83 +248,9 @@
     "summary": "Ce \"treizième mois\" aurait été versé de 2003 à 2014, selon le site d'information.",
     "thumbnail": "thumbnails/5kdavl.webp",
     "tags": [
-      "UMP",
-      "Mediapart",
-      "Noël",
-      "Sénat"
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T09:49:34.509479+00:00"
-  },
-  {
-    "id": "5kcscz",
-    "title": "Le français se hisserait au 3e rang des langues du commerce au monde d'après une nouvelle étude (2016)",
-    "url": "http://quebec.huffingtonpost.ca/2016/12/18/francais-langue-monde_n_13710946.html?ncid=engmodushpmg00000004",
-    "permalink": "/r/france/comments/5kcscz/le_français_se_hisserait_au_3e_rang_des_langues/",
-    "created_at": "2016-12-26T08:04:01+00:00",
-    "score": 87,
-    "num_comments": 18,
-    "subreddit": "france",
-    "author": "wisi_eu",
-    "flair": "News",
-    "domain": "quebec.huffingtonpost.ca",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/LVvU8G7cia-W_am3y7yqLyfw0yvnBP_g0y9lNq8OI1s.jpg?auto=webp&s=4a2315b9c5daa11671b90f7594049969255367fd",
-    "ingested_at": "2026-10-31T14:47:12.102229+00:00",
-    "summary": "Le français serait la troisième langue en puissance dans le monde selon une nouvelle étude de l'école de commerce INSEAD, et ce, même si la croissance du nombre de locuteurs est plus faible par rapport à d'autres langues.",
-    "thumbnail": "thumbnails/5kcscz.webp",
-    "tags": [
-      "INSEAD",
-      "Kai Chan",
-      "Classement langue",
-      "Langue française",
-      "Québec International"
-    ],
-    "analyzed_at": "2026-11-01T09:49:34.339013+00:00"
-  },
-  {
-    "id": "5kc77p",
-    "title": "Des soldats musulmans irakiens érigent le plus grand arbre de Noël en Irak en solidarité avec les chrétiens",
-    "url": "http://www.muslimpress.com/fr/tiny/news-106954",
-    "permalink": "/r/france/comments/5kc77p/des_soldats_musulmans_irakiens_érigent_le_plus/",
-    "created_at": "2016-12-26T05:17:04+00:00",
-    "score": 97,
-    "num_comments": 16,
-    "subreddit": "france",
-    "author": "Pazaj",
-    "flair": "News",
-    "domain": "muslimpress.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/T0UvUU8HBw0h6BEkrwvMTxKxJ9Cowp2XMpgajLzHmCA.jpg?auto=webp&s=88ce1b60d39e146c03b7aa4b26bb51544b00c6f8",
-    "ingested_at": "2026-10-31T14:38:07.612571+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/5kc77p.webp",
-    "tags": [
-      "Noël",
-      "Irak"
-    ],
-    "analyzed_at": "2026-11-01T09:49:35.360721+00:00"
-  },
-  {
-    "id": "5k9q8z",
-    "title": "En misant sur le bio et le gratuit, Albi est en route vers l’autosuffisance alimentaire",
-    "url": "http://positivr.fr/autosuffisance-alimentaire-albi-agriculture-bio-circuit-court/?utm_source=actus_lilo",
-    "permalink": "/r/france/comments/5k9q8z/en_misant_sur_le_bio_et_le_gratuit_albi_est_en/",
-    "created_at": "2016-12-25T19:30:43+00:00",
-    "score": 102,
-    "num_comments": 23,
-    "subreddit": "france",
-    "author": "wisi_eu",
-    "flair": "News",
-    "domain": "positivr.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/jxvo6rEOBaRI9lRdSY2eC259SC9xXMsR3PSIWw8tSUc.jpeg?auto=webp&s=26883c186f24a91b54eb8c18a3b0c6681595d234",
-    "ingested_at": "2026-10-31T14:38:07.612357+00:00",
-    "summary": "Garantir à tous une alimentation saine et écolo : jamais une aussi grande ville n’avait eu une telle ambition ! Gros plan sur un pari génial et futuriste.",
-    "thumbnail": "thumbnails/5k9q8z.webp",
-    "tags": [
-      "Albi"
-    ],
-    "analyzed_at": "2026-11-01T09:49:37.914579+00:00"
   },
   {
     "id": "5k9f96",
@@ -444,76 +269,8 @@
     "ingested_at": "2026-10-31T14:38:07.612532+00:00",
     "summary": "",
     "thumbnail": "thumbnails/5k9f96.webp",
-    "tags": [
-      "Thomas Coville",
-      "Sport"
-    ],
-    "analyzed_at": "2026-11-01T09:49:33.899063+00:00"
-  },
-  {
-    "id": "5k3az4",
-    "title": "Message d'intérêt public",
-    "url": "http://lawifi.fr",
-    "permalink": "/r/france/comments/5k3az4/message_dintérêt_public/",
-    "created_at": "2016-12-24T14:43:36+00:00",
-    "score": 59,
-    "num_comments": 42,
-    "subreddit": "france",
-    "author": "MairusuPawa",
-    "flair": "",
-    "domain": "lawifi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://b.thumbs.redditmedia.com/lp6l9-QcGnqTPJGAYjfWIeYIWKEk3Llk3RGyWPyFuKM.jpg",
-    "ingested_at": "2026-10-31T14:47:12.102668+00:00",
-    "summary": "Anubis could not load its JavaScript. The server may be overloaded. Please reload the page to try again. This is a measure against bots and malicious requests similar to a CAPTCHA.",
-    "thumbnail": "thumbnails/5k3az4.webp",
     "tags": [],
-    "analyzed_at": "2026-11-01T09:49:34.219129+00:00"
-  },
-  {
-    "id": "5k1jt8",
-    "title": "L'énergie solaire est maintenant la forme d'énergie la moins chère dans près de 60 pays (Article en Anglais)",
-    "url": "http://www.sciencealert.com/solar-power-is-now-the-cheapest-energy-in-the-world",
-    "permalink": "/r/france/comments/5k1jt8/lénergie_solaire_est_maintenant_la_forme_dénergie/",
-    "created_at": "2016-12-24T05:17:18+00:00",
-    "score": 83,
-    "num_comments": 23,
-    "subreddit": "france",
-    "author": "Erlandal",
-    "flair": "News",
-    "domain": "sciencealert.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/6iNxKw3X0tf5pDjzQJvBAmzMaE9AgEkvqpgI8IpaOig.jpeg?auto=webp&s=157842487d62a60e4d1b8d96b7c4ad03cb0ff1d0",
-    "ingested_at": "2026-10-31T14:47:12.102398+00:00",
-    "summary": "It's official: solar became the cheapest source of new energy in lower-income countries this year, giving both companies and governments alike another reason to ditch coal and gas for renewables.",
-    "thumbnail": "thumbnails/5k1jt8.webp",
-    "tags": [
-      "Anglais",
-      "BNEF"
-    ],
-    "analyzed_at": "2026-11-01T09:49:34.437258+00:00"
-  },
-  {
-    "id": "5jwds8",
-    "title": "Attentat de Nice: le terroriste a pu procéder à onze repérages",
-    "url": "http://archive.is/Y0nls",
-    "permalink": "/r/france/comments/5jwds8/attentat_de_nice_le_terroriste_a_pu_procéder_à/",
-    "created_at": "2016-12-23T10:01:01+00:00",
-    "score": 241,
-    "num_comments": 62,
-    "subreddit": "france",
-    "author": "a_capellaluo",
-    "flair": "News",
-    "domain": "archive.is",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/85iM1ZgUg9vbYE3E_kD9hKKfhmEoEoFMKNJjegiloOo.png?auto=webp&s=4b1900b9b5fbf20ffa8f02743e4bf666d8c9cad6",
-    "ingested_at": "2026-10-31T14:38:07.611733+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/5jwds8.webp",
-    "tags": [
-      "Nice"
-    ],
-    "analyzed_at": "2026-11-01T09:49:34.745998+00:00"
+    "analyzed_at": "2026-11-01T09:49:33.899063+00:00"
   },
   {
     "id": "5jwcvi",
@@ -533,7 +290,9 @@
     "summary": "",
     "thumbnail": "thumbnails/5jwcvi.webp",
     "tags": [
-      "Milan"
+      "Police",
+      "Terrorisme",
+      "Médias"
     ],
     "analyzed_at": "2026-11-01T09:49:35.485309+00:00"
   },
@@ -555,9 +314,7 @@
     "summary": "Achetez un numéro ou un dossier du Canard enchainé, abonnez-vous au journal en papier ou en numérique",
     "thumbnail": "thumbnails/5jqmj9.webp",
     "tags": [
-      "Sécu",
-      "Canard",
-      "Politique"
+      "François Fillon"
     ],
     "analyzed_at": "2026-11-01T09:49:34.878103+00:00"
   },
@@ -578,62 +335,8 @@
     "ingested_at": "2026-10-31T14:38:07.612199+00:00",
     "summary": "La Walt Disney Company a officialisé ce mercredi les origines normandes du nom de son fondateur en inaugurant un jardin Walt Disney à Isigny-sur-mer dans le Calvados. Le \"père de Mickey\" est mort il y a 50 ans...",
     "thumbnail": "thumbnails/5jpwb5.webp",
-    "tags": [
-      "Walt Disney",
-      "Normandie",
-      "Isigny",
-      "AJA",
-      "Culture"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:49:36.087267+00:00"
-  },
-  {
-    "id": "5jjlgp",
-    "title": "Moi, Asiatique, j'ai mal devant le spectacle de Kev Adams et Gad Elmaleh - Clique.tv",
-    "url": "http://www.clique.tv/asiatique-honte-kev-adams-et-gad-elmaleh/",
-    "permalink": "/r/france/comments/5jjlgp/moi_asiatique_jai_mal_devant_le_spectacle_de_kev/",
-    "created_at": "2016-12-21T12:12:16+00:00",
-    "score": 67,
-    "num_comments": 181,
-    "subreddit": "france",
-    "author": "[deleted]",
-    "flair": "Humour",
-    "domain": "clique.tv",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/ObYu292OGusUHpUX-wLyg8QX6MAhm3-wnnauKk-ZoT0.jpg?auto=webp&s=240fd460ad9ce08c63d99978fdbf48ab65446da2",
-    "ingested_at": "2026-10-31T14:47:12.102567+00:00",
-    "summary": "Update du 22/12, 09h50 : Suite à des dévoiements nauséabonds de cette tribune, Anthony Cheylan et Mouloud Achour ont publié une mise à jour à lire ici. Vous avez déjà imaginé ce que vous ressentiriez si tout un pays – votre pays – se moquait gratuitement de vous ?",
-    "thumbnail": "thumbnails/5jjlgp.webp",
-    "tags": [
-      "Kev Adams et Gad Elmaleh",
-      "Kev Adams",
-      "Gad Elmaleh",
-      "Adams",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:49:36.723108+00:00"
-  },
-  {
-    "id": "5jiovg",
-    "title": "Le maire de Tassin interdit un rassemblement syndical d'agents de maternelle pour cause d'état d'urgence",
-    "url": "https://rebellyon.info/Le-maire-de-Tassin-interdit-un-17314",
-    "permalink": "/r/france/comments/5jiovg/le_maire_de_tassin_interdit_un_rassemblement/",
-    "created_at": "2016-12-21T07:39:25+00:00",
-    "score": 127,
-    "num_comments": 35,
-    "subreddit": "france",
-    "author": "PiqueAssiette",
-    "flair": "News",
-    "domain": "rebellyon.info",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/STSgEHmxYkuojDv5bdACzmzl-QEngo1fSicmLHK7aCE.jpeg?auto=webp&s=19eeb8638cdb375c8453ca1d9c41a7e252f85227",
-    "ingested_at": "2026-10-31T14:38:07.612137+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/5jiovg.webp",
-    "tags": [
-      "Tassin"
-    ],
-    "analyzed_at": "2026-11-01T09:49:51.680565+00:00"
   },
   {
     "id": "5jd5i5",
@@ -652,10 +355,7 @@
     "ingested_at": "2026-10-31T14:47:12.102588+00:00",
     "summary": "Un couple a été placé en garde à vue lundi à Pantin (Seine-Saint-Denis)…",
     "thumbnail": "thumbnails/5jd5i5.webp",
-    "tags": [
-      "Pantin",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:49:36.095056+00:00"
   },
   {
@@ -676,11 +376,7 @@
     "summary": "L'acteur de Rocky est flatté mais il a décliné la proposition de Donald Trump qui souhaitait le voir diriger une agence culturelle, selon les médias américains. Il aurait préféré un poste aux anciens cambattants.",
     "thumbnail": "thumbnails/5jcn21.webp",
     "tags": [
-      "Administration Trump",
-      "Rocky",
-      "Donald Trump",
-      "Amériques",
-      "Monde"
+      "Donald Trump"
     ],
     "analyzed_at": "2026-11-01T09:49:36.994245+00:00"
   },
@@ -701,37 +397,8 @@
     "ingested_at": "2026-10-31T14:38:07.612179+00:00",
     "summary": "A ffichée en quatre mètres par trois sur les murs des métropoles européennes, cette annonce remplacerait bien des cours d’éducation civique : « Mme Neelie Kroes, conseillère spéciale auprès de la Bank of America Merrill Lynch, ancienne vice-présidente de la Commission européenne chargée de la stratégie numérique et…",
     "thumbnail": "thumbnails/5j8zel.webp",
-    "tags": [
-      "Neelie Kroes",
-      "Uber",
-      "Commissaire Européenne",
-      "Assemblée Nationale Française",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:49:37.954973+00:00"
-  },
-  {
-    "id": "5j8ddx",
-    "title": "Un camion fonce dans un marché de Noël à Berlin, plusieurs blessés",
-    "url": "https://www.rt.com/news/370827-berlin-christmas-market-truck/",
-    "permalink": "/r/france/comments/5j8ddx/un_camion_fonce_dans_un_marché_de_noël_à_berlin/",
-    "created_at": "2016-12-19T19:32:10+00:00",
-    "score": 188,
-    "num_comments": 259,
-    "subreddit": "france",
-    "author": "TangoJager",
-    "flair": "News",
-    "domain": "rt.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/RWGBbyFHfN7g_ha9H9z6i0b1gVjGmyO-V_sB3s2HOnA.jpeg?auto=webp&s=9bc210ba7c0d1665829849e05c1488c4ca7ee066",
-    "ingested_at": "2026-10-31T14:38:07.611915+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/5j8ddx.webp",
-    "tags": [
-      "Noël",
-      "Berlin"
-    ],
-    "analyzed_at": "2026-11-01T09:49:38.078831+00:00"
   },
   {
     "id": "5j6n3v",
@@ -750,10 +417,7 @@
     "ingested_at": "2026-10-31T14:38:07.612512+00:00",
     "summary": "Retrouvez toute l'actualité économique en direct, en photo et en vidéo: social, entreprises, immobilier, consommation, bourse, vie de bureau, emploi",
     "thumbnail": "thumbnails/5j6n3v.webp",
-    "tags": [
-      "Arbitrage Tapie",
-      "Christine Lagarde"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:49:37.273887+00:00"
   },
   {
@@ -774,7 +438,7 @@
     "summary": "La presse allemande accuse le gouvernement d'avoir censuré plusieurs passages d'un rapport très attendu sur la pauvreté. Dans la presse internationale, le",
     "thumbnail": "thumbnails/5j14de.webp",
     "tags": [
-      "Société"
+      "Pauvreté"
     ],
     "analyzed_at": "2026-11-01T09:49:37.517060+00:00"
   },
@@ -796,10 +460,7 @@
     "summary": "Télévision. Retrouvez tous les contenus sur l'actualité du thème Télévision avec Télérama. Découvrez les dernières informations Télévision, les articles et toute l'actualité culturelle sur Telerama.fr",
     "thumbnail": "thumbnails/5j05wx.webp",
     "tags": [
-      "Noël",
-      "FNSEA",
-      "Télévision",
-      "Politique"
+      "Agriculture"
     ],
     "analyzed_at": "2026-11-01T09:49:37.947793+00:00"
   },
@@ -820,31 +481,8 @@
     "ingested_at": "2026-10-31T14:38:07.612465+00:00",
     "summary": "",
     "thumbnail": "thumbnails/5j01of.webp",
-    "tags": [
-      "Yann Barthès",
-      "Société"
-    ],
-    "analyzed_at": "2026-11-01T09:49:39.478398+00:00"
-  },
-  {
-    "id": "5iuvv0",
-    "title": "La pollution empoisonne les vallées alpines",
-    "url": "http://www.skipass.com/news/143026-mannequin-challenge-pollution.html",
-    "permalink": "/r/france/comments/5iuvv0/la_pollution_empoisonne_les_vallées_alpines/",
-    "created_at": "2016-12-17T15:19:59+00:00",
-    "score": 88,
-    "num_comments": 48,
-    "subreddit": "france",
-    "author": "[deleted]",
-    "flair": "News",
-    "domain": "skipass.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/tzdMY71Tw8vBhp_GGOLWi0R81Ta-8xHXpQuL7n7HqIs.jpeg?auto=webp&s=3536dced45ee9c93d99d004ce38a18266d1295c5",
-    "ingested_at": "2026-10-31T14:47:12.102208+00:00",
-    "summary": "@aleyan38 Le pic de pollution actuelle n'a rien à voir avec les 2000 camions/ jour. Les camions ne rejettent plus de particules fines depuis des années et ceci bien avant les voitures.",
-    "thumbnail": "thumbnails/5iuvv0.webp",
     "tags": [],
-    "analyzed_at": "2026-11-01T09:49:40.178242+00:00"
+    "analyzed_at": "2026-11-01T09:49:39.478398+00:00"
   },
   {
     "id": "5ittwt",
@@ -864,61 +502,9 @@
     "summary": "Les députés socialistes ont finalement réussi à faire voter leur amendement pour mettre en place une « taxe YouTube ». Cette dernière qui doit imposer les revenus des plateformes de streaming avait pourtant été déconseillée par le gouvernement. Christian Eckert, Secrétaire d'État au Budget, avait pourtant prévenu les",
     "thumbnail": "thumbnails/5ittwt.webp",
     "tags": [
-      "YouTube",
-      "Dailymotion",
-      "Assemblée",
-      "Christian Eckert",
-      "Secrétaire État"
+      "Budget et fiscalité"
     ],
     "analyzed_at": "2026-11-01T09:49:39.008770+00:00"
-  },
-  {
-    "id": "5in1w2",
-    "title": "Manuel Valls promet qu’une fois élu, il débarrassera la France de Manuel Valls",
-    "url": "http://www.legorafi.fr/2016/12/15/manuel-valls-promet-quune-fois-elu-il-debarrassera-la-france-de-manuel-valls/",
-    "permalink": "/r/france/comments/5in1w2/manuel_valls_promet_quune_fois_élu_il/",
-    "created_at": "2016-12-16T07:36:20+00:00",
-    "score": 220,
-    "num_comments": 20,
-    "subreddit": "france",
-    "author": "RDBX-2901",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/CtUBjBKU4JdcqrqiDMFgr4GiRKJC8NQOttWZFT6TBoQ.jpeg?auto=webp&s=c6b802871fd250e6997e10475bcb31d8ee1e339e",
-    "ingested_at": "2026-10-31T14:38:07.611807+00:00",
-    "summary": "Juste après avoir affiché son intention de supprimer le 49.3, Manuel Valls est allé encore plus loin en se dressant comme le seul rempart crédible contre la possible arrivée au pouvoir de Manuel Valls en 2017",
-    "thumbnail": "thumbnails/5in1w2.webp",
-    "tags": [
-      "Manuel Valls",
-      "France de Manuel Valls",
-      "Jordan Bardella",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:49:38.375114+00:00"
-  },
-  {
-    "id": "5in1jf",
-    "title": "Chirac_dlvv",
-    "url": "http://68.media.tumblr.com/0c14a0cb34fdae8baab1eb3a1296603f/tumblr_oe14tiXjQG1r7k22ko1_1280.png",
-    "permalink": "/r/france/comments/5in1jf/chirac_dlvv/",
-    "created_at": "2016-12-16T07:33:03+00:00",
-    "score": 106,
-    "num_comments": 8,
-    "subreddit": "france",
-    "author": "BringbackMarchais",
-    "flair": "Humour",
-    "domain": "68.media.tumblr.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/m9lJ3230w_hWT81dICpooX1GrVe-sgS2ItwzP0NRsis.png?auto=webp&s=7e8e54ca3fc4bfc51d51dd37e8fb4afa719cde63",
-    "ingested_at": "2026-10-31T14:38:07.612337+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/5in1jf.webp",
-    "tags": [
-      "Chirac Daily",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:49:39.090006+00:00"
   },
   {
     "id": "5iijv4",
@@ -938,11 +524,8 @@
     "summary": "En 2007, la presse avait évoqué l'\"ivresse\" du président français pour expliquer son comportement erratique à l'issue de son entretien avec Vladimir Poutine au cours du G8.",
     "thumbnail": "thumbnails/5iijv4.webp",
     "tags": [
-      "Poutine",
       "Vladimir Poutine",
-      "G8",
-      "LR",
-      "Politique"
+      "Nicolas Sarkozy"
     ],
     "analyzed_at": "2026-11-01T09:49:39.435260+00:00"
   },
@@ -964,7 +547,7 @@
     "summary": "",
     "thumbnail": "thumbnails/5ih0ku.webp",
     "tags": [
-      "Société"
+      "LGBT+"
     ],
     "analyzed_at": "2026-11-01T09:49:39.107575+00:00"
   },
@@ -987,38 +570,9 @@
     "thumbnail": "thumbnails/5igcru.webp",
     "tags": [
       "Manuel Valls",
-      "Flash",
-      "Flash Actu",
-      "Fil",
-      "Politique"
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T09:49:40.113161+00:00"
-  },
-  {
-    "id": "5ia3ob",
-    "title": "AJA que Infrogrames a bien failli s’appeler \"Zboub système\"",
-    "url": "https://fr.wikipedia.org/wiki/Infogrames_Entertainment#Historique",
-    "permalink": "/r/france/comments/5ia3ob/aja_que_infrogrames_a_bien_failli_sappeler_zboub/",
-    "created_at": "2016-12-14T11:30:58+00:00",
-    "score": 74,
-    "num_comments": 43,
-    "subreddit": "france",
-    "author": "Fistonche",
-    "flair": "Culture",
-    "domain": "fr.wikipedia.org",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/Q11IoaQenosktyRunqkNGe_38qf4kEG5GskbP1KCfAs.png?auto=webp&s=46b042bf082614d19ae1ff101ba1820ea11e3c3a",
-    "ingested_at": "2026-10-31T14:47:12.102497+00:00",
-    "summary": "Infogrames Entertainment SA (ou Infogrames , ou IESA ) est une société française de développement , d' édition et de distribution de jeux vidéo , fondée en 1983 par Bruno Bonnell et Christophe Sapet. Infogrames Entertainment SA devient Atari SA en 2009. En 2024, Atari annonce le retour d'Infogrames [ 8 ] .",
-    "thumbnail": "thumbnails/5ia3ob.webp",
-    "tags": [
-      "AJA",
-      "Infrogrames",
-      "Infogrames",
-      "Atari",
-      "Culture"
-    ],
-    "analyzed_at": "2026-11-01T09:49:40.607365+00:00"
   },
   {
     "id": "5i9kac",
@@ -1038,56 +592,9 @@
     "summary": "",
     "thumbnail": "thumbnails/5i9kac.webp",
     "tags": [
-      "Trump",
-      "Société"
+      "Donald Trump"
     ],
     "analyzed_at": "2026-11-01T09:50:02.395542+00:00"
-  },
-  {
-    "id": "5i4133",
-    "title": "Filmer les riches, filmer les pauvres : des ados décryptent deux séquences vidéo tirées de La Rue des Allocs (M6) et d'un reportage France 2 sur la Fête des Voisins - Arrêt sur Images",
-    "url": "https://www.facebook.com/arretsurimages.net/videos/1687004464658747/?hc_ref=NEWSFEED",
-    "permalink": "/r/france/comments/5i4133/filmer_les_riches_filmer_les_pauvres_des_ados/",
-    "created_at": "2016-12-13T15:04:41+00:00",
-    "score": 73,
-    "num_comments": 59,
-    "subreddit": "france",
-    "author": "[deleted]",
-    "flair": "Société",
-    "domain": "facebook.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/OQ1k1yjaqEhDZAwPgPnIXX1doRxINCw9w4bt6iJy5kY.jpg?auto=webp&s=bd79061f50ab5e5d104db413a158ef518ed23e97",
-    "ingested_at": "2026-10-31T14:47:12.102519+00:00",
-    "summary": "Filmer les riches, filmer les pauvres : les ados décryptent \"Rue des Allocs\" (M6) >> Retrouvez tous nos «Classe Télé» ici http://www.arretsurimages.net/emission.php?id=8",
-    "thumbnail": "thumbnails/5i4133.webp",
-    "tags": [
-      "Rue des Allocs",
-      "France 2",
-      "Fête des Voisins",
-      "Images",
-      "Société"
-    ],
-    "analyzed_at": "2026-11-01T09:49:41.291674+00:00"
-  },
-  {
-    "id": "5i2cmk",
-    "title": "LuxLeaks les trois lanceurs d'alerte français jugés en appel depuis hier",
-    "url": "https://fr.headzine.com/2016/12/13/luxleaks-les-trois-lanceurs-d-alerte-francais-juges-en-appel-depuis-hier/",
-    "permalink": "/r/france/comments/5i2cmk/luxleaks_les_trois_lanceurs_dalerte_français/",
-    "created_at": "2016-12-13T07:38:34+00:00",
-    "score": 106,
-    "num_comments": 27,
-    "subreddit": "france",
-    "author": "olivierptdr",
-    "flair": "News",
-    "domain": "fr.headzine.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/rPSg3l06Imzs9sAtGzCZ25q5EjkOMvsL9sQC1Oc3YCM.jpg?auto=webp&s=509cdb0caf73d5d5071f720e1099586443dd61cf",
-    "ingested_at": "2026-10-31T14:38:07.612279+00:00",
-    "summary": "Start your new business venture with a great domain name. A trusted source for domains since 2005.",
-    "thumbnail": "thumbnails/5i2cmk.webp",
-    "tags": [],
-    "analyzed_at": "2026-11-01T09:49:40.366374+00:00"
   },
   {
     "id": "5hxw1b",
@@ -1107,109 +614,9 @@
     "summary": "AssemblÃ©e nationale : les projets de loi de finances, le budget de l'Etat, les textes de loi et la lÃ©gislation franÃ§aise au palais Bourbon. Les dÃ©bats parlementaires, la composition des groupes politiques et la biographie des dÃ©putÃ©s du Parlement franÃ§ais.",
     "thumbnail": "",
     "tags": [
-      "Isabelle Attard",
-      "Assemblée Nationale",
-      "Etat",
-      "Bourbon",
-      "Politique"
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T09:49:40.389296+00:00"
-  },
-  {
-    "id": "5hx7u3",
-    "title": "Ivre, tu laisses tomber les choses futiles de la vie comme manger ou payer ton loyer.",
-    "url": "https://scontent-cdg2-1.xx.fbcdn.net/v/t1.0-9/15541683_1051380134972523_1229697434322446043_n.png?oh=b48cf513f3b99cf59c116f91c55b1a5d&oe=58F9A9C4",
-    "permalink": "/r/france/comments/5hx7u3/ivre_tu_laisses_tomber_les_choses_futiles_de_la/",
-    "created_at": "2016-12-12T15:36:32+00:00",
-    "score": 236,
-    "num_comments": 160,
-    "subreddit": "france",
-    "author": "[deleted]",
-    "flair": "Politique",
-    "domain": "scontent-cdg2-1.xx.fbcdn.net",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/SGsoLYlKc4VwFCVbfG6uK38rKnXKyuew7vOio73GAuM.png?auto=webp&s=e52467343bc917a7f140592f94c8d3a9fbf1e97d",
-    "ingested_at": "2026-10-31T14:38:07.611754+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/5hx7u3.webp",
-    "tags": [
-      "Politique"
-    ],
-    "analyzed_at": "2026-11-01T09:49:41.273238+00:00"
-  },
-  {
-    "id": "5hvmod",
-    "title": "AJA que lors de la bataille de Koufra en 1941 les italiens se persuadèrent que l'artillerie française les encerclaient, alors que l'unique canon français se contentait de se déplacer autour du fort italien.",
-    "url": "https://fr.wikipedia.org/wiki/Bataille_de_Koufra?wprov=sfla1",
-    "permalink": "/r/france/comments/5hvmod/aja_que_lors_de_la_bataille_de_koufra_en_1941_les/",
-    "created_at": "2016-12-12T08:50:45+00:00",
-    "score": 133,
-    "num_comments": 71,
-    "subreddit": "france",
-    "author": "BringbackMarchais",
-    "flair": "Culture",
-    "domain": "fr.wikipedia.org",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/1cy6PMVDDKg7acvlERfq-tXUwYSuhKyU54yNz9Q6s7A.jpg?auto=webp&s=5056cfe7b9957a90439cc32903d8466c5dbbb509",
-    "ingested_at": "2026-10-31T14:38:07.612084+00:00",
-    "summary": "Cet article concerne la Seconde Guerre mondiale. Pour la bataille se déroulant durant la guerre civile libyenne, voir Bataille de Koufra (2012) . La bataille de Koufra est une bataille de la Seconde Guerre mondiale qui eut lieu en Libye du 31 janvier au 2 mars 1941 .",
-    "thumbnail": "thumbnails/5hvmod.webp",
-    "tags": [
-      "Koufra",
-      "AJA",
-      "Leclerc",
-      "Cufra",
-      "Culture"
-    ],
-    "analyzed_at": "2026-11-01T09:49:40.783885+00:00"
-  },
-  {
-    "id": "5hqpu5",
-    "title": "Les Nouveaux Chiens de Garde - à voir et à revoir pour ne pas oublier",
-    "url": "https://vimeo.com/141362885",
-    "permalink": "/r/france/comments/5hqpu5/les_nouveaux_chiens_de_garde_à_voir_et_à_revoir/",
-    "created_at": "2016-12-11T16:06:43+00:00",
-    "score": 180,
-    "num_comments": 44,
-    "subreddit": "france",
-    "author": "Thomus_",
-    "flair": "Politique",
-    "domain": "vimeo.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/F_pOQ6zzzgIbOA9V8rpoGISqKMztn807Qlzcm6mk82U.jpg?auto=webp&s=b87ab84ca895ce4a836d2900576d0aaa98dbfa6f",
-    "ingested_at": "2026-10-31T14:38:07.611895+00:00",
-    "summary": "To continue, please confirm that you're a human (and not a spambot).",
-    "thumbnail": "thumbnails/5hqpu5.webp",
-    "tags": [
-      "Nouveaux Chiens de Garde",
-      "Politique"
-    ],
-    "analyzed_at": "2026-11-01T09:49:41.274955+00:00"
-  },
-  {
-    "id": "5hqalw",
-    "title": "My drawings from Lyon. One of the most beautiful cities I've ever seen",
-    "url": "https://www.instagram.com/p/BN4T_xXgKXb/?taken-by=maxwellillustration",
-    "permalink": "/r/france/comments/5hqalw/my_drawings_from_lyon_one_of_the_most_beautiful/",
-    "created_at": "2016-12-11T14:32:00+00:00",
-    "score": 125,
-    "num_comments": 11,
-    "subreddit": "france",
-    "author": "MaxwellIllustration",
-    "flair": "Culture",
-    "domain": "instagram.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/yCGY_ZBtQqhiZh_j7_UFL6X3z9y-dn9k19F3u5-Vfj8.jpg?auto=webp&s=c9c2bd83911acdce6241bee20bdb0ff6ccbe77d5",
-    "ingested_at": "2026-10-31T14:38:07.612112+00:00",
-    "summary": "240 likes, 6 comments - maxwellillustration on December 11, 2016: \"Lyon is an artwork, avec les artists d'Emile Cohl. The third page from my travel diary. Lyon. An amazing city where I met some even more amazing art students. Each drawing was done on the street.",
-    "thumbnail": "thumbnails/5hqalw.webp",
-    "tags": [
-      "I've",
-      "December 11",
-      "Emile Cohl",
-      "Culture"
-    ],
-    "analyzed_at": "2026-11-01T09:49:42.403169+00:00"
   },
   {
     "id": "5hlubf",
@@ -1228,13 +635,7 @@
     "ingested_at": "2026-10-31T14:47:12.102707+00:00",
     "summary": "La très discrète société a convaincu des investisseurs comme Google, grâce à une technologie de réalité augmentée qui pourrait s'avérer trop ambitieuse.",
     "thumbnail": "thumbnails/5hlubf.webp",
-    "tags": [
-      "Magic Leap",
-      "Microsoft",
-      "ALPHABET A",
-      "Réalité augmentée",
-      "Technos"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:49:41.850801+00:00"
   },
   {
@@ -1254,172 +655,8 @@
     "ingested_at": "2026-10-31T14:47:12.102648+00:00",
     "summary": "",
     "thumbnail": "thumbnails/5hikpm.webp",
-    "tags": [
-      "ZAD de Notre-Dame-des-Landes"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:49:41.763063+00:00"
-  },
-  {
-    "id": "5heq4l",
-    "title": "N'ayez crainte cousin(e)s Français(es), le Québec est derrière vous",
-    "url": "https://www.film.ru/sites/default/files/movies/frames/4727618-815596.jpg",
-    "permalink": "/r/france/comments/5heq4l/nayez_crainte_cousines_françaises_le_québec_est/",
-    "created_at": "2016-12-09T16:35:58+00:00",
-    "score": 348,
-    "num_comments": 14,
-    "subreddit": "france",
-    "author": "Caniapiscau",
-    "flair": "K.K. Krieg",
-    "domain": "film.ru",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/-66WozJLpExUCRau_VoPGl_f993Ba835YSUZMpGaCY8.jpeg?auto=webp&s=65b572119a641a1d48f0c549e6eb83437c60ddc0",
-    "ingested_at": "2026-10-31T14:38:07.611642+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/5heq4l.webp",
-    "tags": [
-      "Français",
-      "Québec",
-      "K.K. Krieg"
-    ],
-    "analyzed_at": "2026-11-01T09:49:42.101444+00:00"
-  },
-  {
-    "id": "5hek0p",
-    "title": "CHROMA S01.09. DOUCE NUIT, SANGLANTE NUIT",
-    "url": "http://www.dailymotion.com/video/x54m781_chroma-s01-09-douce-nuit-sanglante-nuit_shortfilms",
-    "permalink": "/r/france/comments/5hek0p/chroma_s0109_douce_nuit_sanglante_nuit/",
-    "created_at": "2016-12-09T16:07:25+00:00",
-    "score": 100,
-    "num_comments": 21,
-    "subreddit": "france",
-    "author": "SuperGantDeToilette",
-    "flair": "Culture",
-    "domain": "dailymotion.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/_5GSLabVXD8zO_Ze2VqqJmr3oITMyrk_2bxjh-GZjnE.jpg?auto=webp&s=0956ff025f5a4ae30181ff0f924c6181112f6249",
-    "ingested_at": "2026-10-31T14:38:07.612418+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/5hek0p.webp",
-    "tags": [
-      "CHROMA S01 09",
-      "DOUCE NUIT",
-      "SANGLANTE NUIT",
-      "Culture"
-    ],
-    "analyzed_at": "2026-11-01T09:49:41.728603+00:00"
-  },
-  {
-    "id": "5he9fq",
-    "title": "La grande nation? Preußens gloria!",
-    "url": "http://vid.pr0gramm.com/2016/12/08/9b3c786cc099e972.mp4",
-    "permalink": "/r/france/comments/5he9fq/la_grande_nation_preußens_gloria/",
-    "created_at": "2016-12-09T15:15:41+00:00",
-    "score": 146,
-    "num_comments": 9,
-    "subreddit": "france",
-    "author": "Frankonia",
-    "flair": "K.K. Krieg",
-    "domain": "vid.pr0gramm.com",
-    "selftext": "",
-    "reddit_thumbnail": "",
-    "ingested_at": "2026-10-31T14:38:07.612043+00:00",
-    "summary": "",
-    "thumbnail": "",
-    "tags": [
-      "K.K. Krieg"
-    ],
-    "analyzed_at": "2026-11-01T09:49:42.042872+00:00"
-  },
-  {
-    "id": "5hdavn",
-    "title": "Paris heißt seine neuen Besatzer willkommen",
-    "url": "http://cdn1.stuttgarter-zeitung.de/media.media.3f87c769-dc85-4a6b-a67b-4645ac7f9d84.normalized.jpeg",
-    "permalink": "/r/france/comments/5hdavn/paris_heißt_seine_neuen_besatzer_willkommen/",
-    "created_at": "2016-12-09T11:36:12+00:00",
-    "score": 943,
-    "num_comments": 41,
-    "subreddit": "france",
-    "author": "yddeR",
-    "flair": "K.K. Krieg",
-    "domain": "cdn1.stuttgarter-zeitung.de",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/xHKqxRLqWEP2d0wTiWr2AptUAInWCygK_-3UvfVUBU0.jpg?auto=webp&s=591cfc6419152fbc62f4e471fb0e13bee4b73545",
-    "ingested_at": "2026-10-31T14:38:07.611499+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/5hdavn.webp",
-    "tags": [
-      "Besatzer",
-      "K.K. Krieg"
-    ],
-    "analyzed_at": "2026-11-01T09:49:43.381826+00:00"
-  },
-  {
-    "id": "5hdacc",
-    "title": "Faites l'amour, pas la guerre",
-    "url": "http://www.br.de/br-fernsehen/sendungen/rundschau/frankreich-deutschland100~_v-img__16__9__xl_-d31c35f8186ebeb80b0cd843a7c267a0e0c81647.jpg?version=e1f26",
-    "permalink": "/r/france/comments/5hdacc/faites_lamour_pas_la_guerre/",
-    "created_at": "2016-12-09T11:31:30+00:00",
-    "score": 219,
-    "num_comments": 11,
-    "subreddit": "france",
-    "author": "drluv23",
-    "flair": "K.K. Krieg",
-    "domain": "br.de",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/0Ejcad9-ctczjAGpelvdVsXMC9lstf93vg9ck8d7vOs.jpeg?auto=webp&s=7df2cf0af66000f4da18dac867bec2d9186d2b64",
-    "ingested_at": "2026-10-31T14:38:07.611851+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/5hdacc.webp",
-    "tags": [
-      "K.K. Krieg"
-    ],
-    "analyzed_at": "2026-11-01T09:49:42.520776+00:00"
-  },
-  {
-    "id": "5hczkk",
-    "title": "Le carabinier Belge ne mange pas de KK, lui.",
-    "url": "http://a136.idata.over-blog.com/0/53/69/44/998/Fig.-20.jpg",
-    "permalink": "/r/france/comments/5hczkk/le_carabinier_belge_ne_mange_pas_de_kk_lui/",
-    "created_at": "2016-12-09T09:58:33+00:00",
-    "score": 99,
-    "num_comments": 9,
-    "subreddit": "france",
-    "author": "Amiral_Poitou",
-    "flair": "K.K. Krieg",
-    "domain": "a136.idata.over-blog.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/XIrHU74VDTgsn2ELH1LQ1jp9vXnq8lubI4xVnPjQU94.jpeg?auto=webp&s=b310abafcd82308081d45e80f7f0811f77ad09b7",
-    "ingested_at": "2026-10-31T14:38:07.612400+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/5hczkk.webp",
-    "tags": [
-      "Belge",
-      "KK",
-      "K.K. Krieg"
-    ],
-    "analyzed_at": "2026-11-01T09:49:44.357503+00:00"
-  },
-  {
-    "id": "5hb9e8",
-    "title": "Faites confiance au redditer de r/de !",
-    "url": "https://i.reddituploads.com/5c8bf9bf3a0b475d86afb8844228bbbf?fit=max&h=1536&w=1536&s=acecdc0416a9d7a244fc7b1bda6603c0",
-    "permalink": "/r/france/comments/5hb9e8/faites_confiance_au_redditer_de_rde/",
-    "created_at": "2016-12-09T02:27:40+00:00",
-    "score": 85,
-    "num_comments": 27,
-    "subreddit": "france",
-    "author": "Illya-ehrenbourg",
-    "flair": "K.K. Krieg",
-    "domain": "i.reddituploads.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/PE5mvNKIDoUEiBcK6eqhasMyAZW_-vMg_RjMgjcSmlE.jpg?auto=webp&s=57e0794845c4febe1b9e570f8cfcb6822c719b85",
-    "ingested_at": "2026-10-31T14:47:12.102340+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/5hb9e8.webp",
-    "tags": [
-      "K.K. Krieg"
-    ],
-    "analyzed_at": "2026-11-01T09:49:43.843582+00:00"
   },
   {
     "id": "5h9gh1",
@@ -1439,34 +676,9 @@
     "summary": "Auteur d'un doublé face à Dortmund mercredi (2-2), Karim Benzema n'a pas seulement parlé football en zone mixte.",
     "thumbnail": "thumbnails/5h9gh1.webp",
     "tags": [
-      "Dortmund",
-      "Karim Benzema",
-      "La Liga 2016/2017",
-      "Sport"
+      "Budget et fiscalité"
     ],
     "analyzed_at": "2026-11-01T09:49:43.655754+00:00"
-  },
-  {
-    "id": "5h7udr",
-    "title": "100 photos qui n'ont eu aucune influence sur le monde",
-    "url": "http://www.laboiteverte.fr/100-photos-nont-aucune-influence/",
-    "permalink": "/r/france/comments/5h7udr/100_photos_qui_nont_eu_aucune_influence_sur_le/",
-    "created_at": "2016-12-08T16:28:26+00:00",
-    "score": 86,
-    "num_comments": 7,
-    "subreddit": "france",
-    "author": "lanars",
-    "flair": "Culture",
-    "domain": "laboiteverte.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/jRgKYF0bgG1I9v2QTwTtEJAvUceF7ndJFAZcpevrU6U.jpeg?auto=webp&s=6ed4a5ccdf8d0039db2b9c0e1c929174506e9013",
-    "ingested_at": "2026-10-31T14:47:12.102319+00:00",
-    "summary": "Le Time vient de mettre en ligne un mini-site sur les 100 photographies qui ont le plus influencé le monde, accompagnées de leur histoire. La sélection est très pertinente, les images sont fantastiques et variées, il n’y a rien à ajouter.",
-    "thumbnail": "thumbnails/5h7udr.webp",
-    "tags": [
-      "Culture"
-    ],
-    "analyzed_at": "2026-11-01T09:49:42.726053+00:00"
   },
   {
     "id": "5h6btz",
@@ -1486,9 +698,8 @@
     "summary": "",
     "thumbnail": "thumbnails/5h6btz.webp",
     "tags": [
-      "FN",
-      "Marine le Pen",
-      "Politique"
+      "Marine Le Pen",
+      "Éducation"
     ],
     "analyzed_at": "2026-11-01T09:49:45.198442+00:00"
   },
@@ -1510,7 +721,9 @@
     "summary": "",
     "thumbnail": "thumbnails/5h67o1.webp",
     "tags": [
-      "Jérôme Cahuzac"
+      "Jérôme Cahuzac",
+      "Justice",
+      "Budget et fiscalité"
     ],
     "analyzed_at": "2026-11-01T09:49:43.741175+00:00"
   },
@@ -1532,10 +745,7 @@
     "summary": "Confirmant une récente étude du Secours Catholique, le taux de pauvreté, a, selon l'Insee, progressé en France en 2015.",
     "thumbnail": "thumbnails/5gyzj0.webp",
     "tags": [
-      "Français",
-      "Insee",
-      "Secours Catholique",
-      "Politique"
+      "Pauvreté"
     ],
     "analyzed_at": "2026-11-01T09:49:44.140694+00:00"
   },
@@ -1556,108 +766,8 @@
     "ingested_at": "2026-10-31T14:47:12.102746+00:00",
     "summary": "L'Etat a décidé un gel du prix des péages d'autoroutes en 2015. Un faux cadeau : selon un rapport paru hier, les Français vont payer 500 M€",
     "thumbnail": "thumbnails/5gynek.webp",
-    "tags": [
-      "Français"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:49:44.229922+00:00"
-  },
-  {
-    "id": "5gru6m",
-    "title": "La Terre connaît une sixième extinction de masse, et l'humanité en est responsable.",
-    "url": "http://advances.sciencemag.org/content/1/5/e1400253.full",
-    "permalink": "/r/france/comments/5gru6m/la_terre_connaît_une_sixième_extinction_de_masse/",
-    "created_at": "2016-12-06T08:42:38+00:00",
-    "score": 80,
-    "num_comments": 102,
-    "subreddit": "france",
-    "author": "KamiZole",
-    "flair": "Science",
-    "domain": "advances.sciencemag.org",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/pPDI2RIVgxT-nrnttg3Qf-WAEq9sOpNRbojv-7gWKxM.jpg?auto=webp&s=9bad49bf6be8ea908cd81d56bae7bf5595e68489",
-    "ingested_at": "2026-10-31T14:47:12.102458+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/5gru6m.webp",
-    "tags": [
-      "Terre",
-      "Science"
-    ],
-    "analyzed_at": "2026-11-01T09:49:45.246085+00:00"
-  },
-  {
-    "id": "5gpxfm",
-    "title": "Flash-ball: le lycéen nantais jugé co-responsable du tir qui l'a éborgné",
-    "url": "https://lundi.am/flashball-lyceen-juge-coresponsable",
-    "permalink": "/r/france/comments/5gpxfm/flashball_le_lycéen_nantais_jugé_coresponsable_du/",
-    "created_at": "2016-12-06T01:17:13+00:00",
-    "score": 63,
-    "num_comments": 53,
-    "subreddit": "france",
-    "author": "[deleted]",
-    "flair": "News",
-    "domain": "lundi.am",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/qIJ5pT9zFi7IrCSh0z8XnrAuJQtbInQ7XTvtcX9IAdk.jpeg?auto=webp&s=86ce083082f82cc5808c5fadb36f3cc75180defa",
-    "ingested_at": "2026-10-31T14:47:12.102628+00:00",
-    "summary": "31 octobre : qu’attendre de la manifestation sauvage et déguisée ? Norman Ajari & Pacôme Thiellement « Ranger son cœur au frigo pour qu’il ne pourrisse pas trop vite, ne fonde pas au soleil brûlant de la douleur, ranger la mort dans le coin sombre où elle attend.",
-    "thumbnail": "thumbnails/5gpxfm.webp",
-    "tags": [
-      "Nantes",
-      "État",
-      "Pierre Douillard Lefevre"
-    ],
-    "analyzed_at": "2026-11-01T09:49:44.649887+00:00"
-  },
-  {
-    "id": "5gnkqd",
-    "title": "#Fillon : mensonge déjà, la privatisation de la Securite Sociale est bien prévue dans son programme par l’ex PDG d’AXA Assurances qui pourrait devenir un de ses ministres",
-    "url": "https://framasphere.org/posts/2530628",
-    "permalink": "/r/france/comments/5gnkqd/fillon_mensonge_déjà_la_privatisation_de_la/",
-    "created_at": "2016-12-05T18:35:31+00:00",
-    "score": 93,
-    "num_comments": 203,
-    "subreddit": "france",
-    "author": "wisi_eu",
-    "flair": "Politique",
-    "domain": "framasphere.org",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/M2wrus29fUBTngBIdPrT1TW4HpIDN0nkoPNsqA53yBQ.jpeg?auto=webp&s=b3845d5879f078489c66ebbf1717339d03fde9e8",
-    "ingested_at": "2026-10-31T14:38:07.612593+00:00",
-    "summary": "Framasoft is at full capacity, but we are not leaving you: we are part of the collective CHATONS and other members of the network will be delighted to welcome you.",
-    "thumbnail": "thumbnails/5gnkqd.webp",
-    "tags": [
-      "Securite Sociale",
-      "PDG AXA Assurances",
-      "CHATONS",
-      "Politique"
-    ],
-    "analyzed_at": "2026-11-01T09:49:44.735423+00:00"
-  },
-  {
-    "id": "5gkvd1",
-    "title": "AJA l'existence de la pétanque à boules carrées, permettant le jeu dans les villages pentus !",
-    "url": "https://fr.wikipedia.org/wiki/Boules_carr%C3%A9es",
-    "permalink": "/r/france/comments/5gkvd1/aja_lexistence_de_la_pétanque_à_boules_carrées/",
-    "created_at": "2016-12-05T08:30:50+00:00",
-    "score": 107,
-    "num_comments": 52,
-    "subreddit": "france",
-    "author": "BringbackMarchais",
-    "flair": "Culture",
-    "domain": "fr.wikipedia.org",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/l_RnBhYC7GiHVbxXT6g-FjzSU_8uHl07h6dsJcsnzrw.jpeg?auto=webp&s=d46f50ff81ceff60406ff3639e9f802371002570",
-    "ingested_at": "2026-10-31T14:38:07.612219+00:00",
-    "summary": "Le jeu de boules carrées , souvent appelé « pétanque à boules carrées », est un jeu de boules recourant à des boules et un cochonnet de forme cubique et généralement en bois . Il présente comme particularité notable le fait de pouvoir être pratiqué sur des terrains en pente.",
-    "thumbnail": "thumbnails/5gkvd1.webp",
-    "tags": [
-      "AJA",
-      "Lyon",
-      "Duguesclin",
-      "Pêcherie",
-      "Culture"
-    ],
-    "analyzed_at": "2026-11-01T09:49:45.153302+00:00"
   },
   {
     "id": "5gkcxf",
@@ -1676,57 +786,8 @@
     "ingested_at": "2026-10-31T14:47:12.102099+00:00",
     "summary": "",
     "thumbnail": "thumbnails/5gkcxf.webp",
-    "tags": [
-      "Matteo Renzi",
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:49:45.072004+00:00"
-  },
-  {
-    "id": "5gi0ig",
-    "title": "Pour cause d'embargo, les abeilles sont en bonne santé à Cuba",
-    "url": "http://www.tigoo-miel.com/miel-bio-cuba",
-    "permalink": "/r/france/comments/5gi0ig/pour_cause_dembargo_les_abeilles_sont_en_bonne/",
-    "created_at": "2016-12-04T22:01:31+00:00",
-    "score": 106,
-    "num_comments": 7,
-    "subreddit": "france",
-    "author": "apijfm",
-    "flair": "Politique",
-    "domain": "tigoo-miel.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/A4qhD6H2RIcvutP3Ags1D_dmE0JlrqT1mtJNYIxiR5A.jpeg?auto=webp&s=980bdc035b915ecf668a312ec99d4ee6694daa6d",
-    "ingested_at": "2026-10-31T14:38:07.612299+00:00",
-    "summary": "Si l’embargo américain a infligé de lourdes souffrances à la population cubaine, il a eu, paradoxalement, un impact salvateur sur les abeilles. En effet,",
-    "thumbnail": "thumbnails/5gi0ig.webp",
-    "tags": [
-      "Cuba",
-      "Politique"
-    ],
-    "analyzed_at": "2026-11-01T09:49:45.776611+00:00"
-  },
-  {
-    "id": "5ghnuy",
-    "title": "Ah, Noël... son village, ses elfes et son traîneau",
-    "url": "https://framasphere.org/uploads/images/scaled_full_9b3871efdaaf68a80303.jpg",
-    "permalink": "/r/france/comments/5ghnuy/ah_noël_son_village_ses_elfes_et_son_traîneau/",
-    "created_at": "2016-12-04T20:59:11+00:00",
-    "score": 105,
-    "num_comments": 130,
-    "subreddit": "france",
-    "author": "wisi_eu",
-    "flair": "Humour",
-    "domain": "framasphere.org",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/U4MENeoQ1cgeW1LmRNvVyTQWFPX7xnSMQOwL-FeFe58.jpg?auto=webp&s=32cb16e4480288f668b7866f280d6d03aec5f38b",
-    "ingested_at": "2026-10-31T14:38:07.612318+00:00",
-    "summary": "Framasoft is at full capacity, but we are not leaving you: we are part of the collective CHATONS and other members of the network will be delighted to welcome you.",
-    "thumbnail": "thumbnails/5ghnuy.webp",
-    "tags": [
-      "CHATONS",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:49:45.675820+00:00"
   },
   {
     "id": "5ggaru",
@@ -1746,11 +807,8 @@
     "summary": "Le parti d'extrême droite FPÖ a reconnu la défaite de son candidat Norbert Hofer dimanche soir à la présidentielle autrichienne, nettement remportée selon les projections par l'écologiste Alexander Va...",
     "thumbnail": "thumbnails/5ggaru.webp",
     "tags": [
-      "FPÖ",
-      "Norbert Hofer",
-      "Alexander Va",
-      "Bellen",
-      "Flash"
+      "Extrême droite",
+      "Élection présidentielle"
     ],
     "analyzed_at": "2026-11-01T09:49:46.410871+00:00"
   },
@@ -1771,35 +829,8 @@
     "ingested_at": "2026-10-31T14:38:07.611618+00:00",
     "summary": "",
     "thumbnail": "thumbnails/5gftdy.webp",
-    "tags": [
-      "BD Gotlib",
-      "Culture"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:49:50.868279+00:00"
-  },
-  {
-    "id": "5geonq",
-    "title": "Selon l’INSEE, HADOPI a eu pour effet de réduire les entrées au cinéma des films français",
-    "url": "https://tuxicoman.jesuislibre.net/2016/12/hadopi-a-reduit-les-entrees-au-cinema-des-films-francais.html?pk_campaign=feed&pk_kwd=hadopi-a-reduit-les-entrees-au-cinema-des-films-francais",
-    "permalink": "/r/france/comments/5geonq/selon_linsee_hadopi_a_eu_pour_effet_de_réduire/",
-    "created_at": "2016-12-04T09:11:41+00:00",
-    "score": 177,
-    "num_comments": 122,
-    "subreddit": "france",
-    "author": "pepere27",
-    "flair": "Culture",
-    "domain": "tuxicoman.jesuislibre.net",
-    "selftext": "",
-    "reddit_thumbnail": "",
-    "ingested_at": "2026-10-31T14:38:07.611939+00:00",
-    "summary": "Une étude de l’INSEE intitulée « L’effet redistributif de la loi Hadopi sur la part de marché des films américains en salle « , publiée en 2015 a étudié les effets du piratage sur les recettes des films en salle.",
-    "thumbnail": "",
-    "tags": [
-      "HADOPI",
-      "INSEE",
-      "Culture"
-    ],
-    "analyzed_at": "2026-11-01T09:49:45.467293+00:00"
   },
   {
     "id": "5g8z92",
@@ -1818,11 +849,7 @@
     "ingested_at": "2026-10-31T14:47:12.102784+00:00",
     "summary": "",
     "thumbnail": "thumbnails/5g8z92.webp",
-    "tags": [
-      "Téléthon",
-      "Kids United",
-      "Humour"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:49:46.882094+00:00"
   },
   {
@@ -1843,35 +870,9 @@
     "summary": "",
     "thumbnail": "thumbnails/5g8hlu.webp",
     "tags": [
-      "Sport"
+      "Budget et fiscalité"
     ],
     "analyzed_at": "2026-11-01T09:49:46.125423+00:00"
-  },
-  {
-    "id": "5g45bo",
-    "title": "Ex-GUD, ex-FN, ex-MPF, bonne ambiance dans l'équipe Fillon",
-    "url": "https://www.buzzfeed.com/paulaveline/ex-gud-ex-fn-ex-mpf-le-pedigree-tres-reac-de-proches-de-fill",
-    "permalink": "/r/france/comments/5g45bo/exgud_exfn_exmpf_bonne_ambiance_dans_léquipe/",
-    "created_at": "2016-12-02T16:26:40+00:00",
-    "score": 102,
-    "num_comments": 100,
-    "subreddit": "france",
-    "author": "Quentou",
-    "flair": "Politique",
-    "domain": "buzzfeed.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/NpvsV0tp0sx89LVTqgtvhW89K6vSZw5kbpR_rdyORVs.jpeg?auto=webp&s=6888108d63566168435bcac13787945c7b078fee",
-    "ingested_at": "2026-10-31T14:38:07.612381+00:00",
-    "summary": "Hervé Novelli a cofondé le GUD. Anne Méaux a milité au sein de groupuscules d’extrême droite. Gérard Longuet est un ex d’Occident. Valérie Boyer veut inscrire les «racines chrétiennes de la France» dans la Constitution.",
-    "thumbnail": "thumbnails/5g45bo.webp",
-    "tags": [
-      "Fillon",
-      "Hervé Novelli",
-      "Valérie Boyer",
-      "François Fillon",
-      "Politique"
-    ],
-    "analyzed_at": "2026-11-01T09:49:46.081151+00:00"
   },
   {
     "id": "5g2lu9",
@@ -1890,57 +891,7 @@
     "ingested_at": "2026-10-31T14:47:12.102438+00:00",
     "summary": "Le Nouvel Obs - Magazine d’actualité français. Découvrez toutes les analyses en direct de l’actualité politique, sociale, culturelle, en France et dans le monde.",
     "thumbnail": "thumbnails/5g2lu9.webp",
-    "tags": [
-      "Steve Jobs",
-      "Paris",
-      "Nouvel Obs",
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:49:46.356752+00:00"
-  },
-  {
-    "id": "5fvtgj",
-    "title": "AJA qu'il y a un mot français pour « spoiler », et c'est « divulgâcher »",
-    "url": "https://fr.wiktionary.org/wiki/divulg%C3%A2cher",
-    "permalink": "/r/france/comments/5fvtgj/aja_quil_y_a_un_mot_français_pour_spoiler_et_cest/",
-    "created_at": "2016-12-01T10:03:06+00:00",
-    "score": 93,
-    "num_comments": 45,
-    "subreddit": "france",
-    "author": "PoufPoal",
-    "flair": "Culture",
-    "domain": "fr.wiktionary.org",
-    "selftext": "",
-    "reddit_thumbnail": "",
-    "ingested_at": "2026-10-31T14:47:12.102071+00:00",
-    "summary": "divulgâcher \\di.vyl.ɡa.ʃe\\ ou \\di.vyl.ɡɑ.ʃe\\ transitif 1 er groupe ( voir la conjugaison )",
-    "thumbnail": "",
-    "tags": [
-      "AJA",
-      "Culture"
-    ],
-    "analyzed_at": "2026-11-01T09:49:46.317270+00:00"
-  },
-  {
-    "id": "5fvoe9",
-    "title": "Les contradictions de l'électorat de droite",
-    "url": "https://pbs.twimg.com/media/CyfVeomWQAEXQd-.jpg",
-    "permalink": "/r/france/comments/5fvoe9/les_contradictions_de_lélectorat_de_droite/",
-    "created_at": "2016-12-01T09:17:25+00:00",
-    "score": 302,
-    "num_comments": 364,
-    "subreddit": "france",
-    "author": "FabienMartoni",
-    "flair": "Politique",
-    "domain": "pbs.twimg.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/7-x0Y176wgg7S40s16P96Va4XR5NOqeXI3j8KxvKXLs.jpeg?auto=webp&s=fd49ad975f9116d778d5be1fd92f021f21366544",
-    "ingested_at": "2026-10-31T14:38:07.611666+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/5fvoe9.webp",
-    "tags": [
-      "Politique"
-    ],
-    "analyzed_at": "2026-11-01T09:49:47.387753+00:00"
   }
 ]

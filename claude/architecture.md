@@ -30,14 +30,17 @@ données, coût et surface d'attaque minimaux.
 | `store.py` | `NewsStore` : base fichiers JSON (1 fichier/mois), chargée au démarrage, rechargée si les fichiers (ou les alias) changent, écritures atomiques + `flock` ; doublons par URL canonique (`canonical_url`, `UpsertResult`), alias de tags (`apply_aliases`), index par mois, pages de tag, `related` borné |
 | `reddit.py` | Client OAuth2 Reddit minimal (`requests`) : refresh token si présent, sinon `client_credentials` ; `posts_by_id` (`/api/info`) |
 | `archive.py` | Client Arctic Shift : découverte des ids de posts historiques par plage de dates (`backfill_news`) |
-| `ingestion.py` | Filtrage des posts (seuil, liens d'articles uniquement, ni Twitter/X ni YouTube) et conversion en `News` ; `select_backfill` (≥ seuil, top N du mois ou top N du jour) |
-| `analysis/` | `fetch` (HTTP borné, Wayback Machine), `extract` (métadonnées HTML), `text` (tags/résumé heuristiques), `thumbnails` (WebP 640×360), `analyzers` (heuristique / modèle local) |
+| `media.py` | Politique des médias : `ALLOWED_DOMAINS` (liste blanche, active par défaut via `FILNEWS_MEDIA_WHITELIST`) et `BLOCKED_DOMAINS` (toujours refusés : YouTube, réseaux sociaux, satire…), comparaison domaine + sous-domaines |
+| `ingestion.py` | Filtrage des posts (seuil, politique des médias) et conversion en `News` ; `select_backfill` (≥ seuil, top N du mois ou top N du jour) |
+| `vocabulary.py` | Vocabulaire contrôlé des tags : `PERSONALITIES` (regex sensibles à la casse) et `THEMES` (insensibles sauf sigles), `lookup()` donne la sorte d'un tag |
+| `elections.py` | Présidentielle 2027 : `CANDIDATES` (édité à la main), fil d'un candidat (`candidate_news`), fil de la campagne (`election_news`) |
+| `analysis/` | `fetch` (HTTP borné, Wayback Machine), `extract` (métadonnées HTML), `text` (tags par score sur le vocabulaire, résumé), `thumbnails` (WebP 640×360), `analyzers` (heuristique / modèle local) |
 | `timeline.py` | Historique d'un tag : frise horizontale ajustée à l'historique (`build_timeline`, points ou barres, carte au survol) et Fil vertical (`build_thread`, découpé par année via `thread_years`, page du tag) |
 | `views.py`, `urls.py` | Pages, fragment de frise, OAuth Reddit (local uniquement) |
 | `feeds.py`, `sitemaps.py` | RSS et sitemaps (index + une section par fichier) |
 | `templatetags/filnews_tags.py` | URLs absolues, médias, JSON-LD, `has_tag_page` |
 | `assets.py` | Compilation SCSS → CSS (libsass) |
-| `management/commands/` | `ingest_news`, `backfill_news`, `analyze_news`, `build_site`, `publish_pages`, `runserver` (surcharge) |
+| `management/commands/` | `ingest_news`, `backfill_news`, `analyze_news` (`--retag` : tags seuls, hors ligne), `prune_news`, `build_site`, `publish_pages`, `runserver` (surcharge) |
 
 ## Données
 
@@ -56,7 +59,9 @@ sont recalculés paresseusement en mémoire après chaque mutation.
 
 | URL | Contenu |
 |---|---|
-| `/` | Accueil : news la plus populaire des 24 h, 5 dernières news, 10 tags récents, lien RSS |
+| `/` | Accueil : bandeau, news la plus populaire des 24 h, fil du tag le plus actif sur 48 h, 5 dernières news, 7 fils du moment (7 jours), encart présidentielle, lien RSS |
+| `/presidentielle-2027/`, `/presidentielle-2027/<candidat>/` | Candidats et fil de la campagne ; fil d'un candidat depuis 2025 |
+| `/mentions-legales/` | Mentions légales, lien vers le code source |
 | `/news/<slug>-<id>/` | Fiche news (résumé, liens source/Reddit, tags, news liées) |
 | `/archives/` | Mois par année (nombre de news) |
 | `/archives/<AAAA>/<MM>/` | News du mois, jour par jour (`/archives/page/<n>/` → 301 vers `/archives/`, nginx) |
@@ -107,4 +112,10 @@ restauration de `data/media` depuis `pages` (vignettes hors git), `ingest_news
 - **Pas de build incrémental** : avec ~10 000 pages, rendre tout en parallèle
   prend environ une minute, et l'image Docker est reconstruite de zéro de
   toute façon ; le suivi des dépendances entre pages ne vaut pas sa complexité.
+- **Tags en vocabulaire contrôlé** (novembre 2026) : l'extraction d'entités
+  à majuscule produisait des erreurs visibles (« Heures », « Rassemblement »,
+  « Payant »). Les tags sont désormais limités aux personnalités politiques et
+  aux grands thèmes listés à la main ; moins de tags, mais tous pertinents.
+- **Politique des médias en liste blanche** : crédibilité ; `prune_news`
+  supprime les news stockées hors liste (lancé en novembre 2026 : 2 186 news).
 - **Vignettes hors git** : ~200 Mo ; copiées dans l'image, régénérables.

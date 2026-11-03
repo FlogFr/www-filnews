@@ -17,10 +17,8 @@
     "summary": "",
     "thumbnail": "thumbnails/npfe7w.webp",
     "tags": [
-      "NSA",
-      "Danemark",
-      "Merkel",
-      "Politique"
+      "Angela Merkel",
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T09:57:02.649202+00:00"
   },
@@ -42,8 +40,7 @@
     "summary": "Dans un document interne, le numéro un mondial de l’agroalimentaire admet ne réaliser que 37 % de son chiffre d’affaires avec des produits atteignant le seuil d...",
     "thumbnail": "thumbnails/np7a9n.webp",
     "tags": [
-      "Nestlé",
-      "Écologie"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T09:57:02.796708+00:00"
   },
@@ -65,10 +62,8 @@
     "summary": "Militant de longue date, Serge Rader a été admis en réanimation en Guadeloupe. « Il était guéri mais il est ensuite décédé d’un arrêt cardia",
     "thumbnail": "thumbnails/np1un7.webp",
     "tags": [
-      "Serge Rader",
-      "Covid",
-      "Guadeloupe",
-      "Soft paywall"
+      "Covid-19",
+      "Outre-mer"
     ],
     "analyzed_at": "2026-11-01T09:57:03.064007+00:00"
   },
@@ -90,7 +85,8 @@
     "summary": "",
     "thumbnail": "thumbnails/np1rc7.webp",
     "tags": [
-      "Écologie"
+      "Environnement",
+      "Agriculture"
     ],
     "analyzed_at": "2026-11-01T09:57:02.933366+00:00"
   },
@@ -111,7 +107,9 @@
     "ingested_at": "2026-11-01T09:53:38.911817+00:00",
     "summary": "",
     "thumbnail": "thumbnails/noydwc.webp",
-    "tags": [],
+    "tags": [
+      "Immigration"
+    ],
     "analyzed_at": "2026-11-01T09:57:03.331092+00:00"
   },
   {
@@ -131,38 +129,8 @@
     "ingested_at": "2026-11-01T09:53:38.912310+00:00",
     "summary": "Des pèlerins qui défilaient ce samedi en hommage aux ecclésiastiques tués voici 150 ans rue Haxo (20e arrondissement) durant la Commune ont",
     "thumbnail": "thumbnails/nord63.webp",
-    "tags": [
-      "Paris",
-      "Haxo",
-      "Commune",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:57:03.230249+00:00"
-  },
-  {
-    "id": "noi4a6",
-    "title": "\"Le plus grand des périls qui menacent la France est la Diminution de sa Natalité\" par l'Alliance nationale pour l'accroissement de la population française. 1926",
-    "url": "https://histoire-image.org/sites/default/styles/galerie_fullscreen/public/tart20_denatalite_02f.jpg",
-    "permalink": "/r/france/comments/noi4a6/le_plus_grand_des_périls_qui_menacent_la_france/",
-    "created_at": "2021-05-30T19:09:25+00:00",
-    "score": 189,
-    "num_comments": 68,
-    "subreddit": "france",
-    "author": "Johannes_P",
-    "flair": "Culture",
-    "domain": "histoire-image.org",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/HJtR873Z8UDYpZHBJs3SGQI4FRhMu-9ZWry09FLQkfc.jpg?auto=webp&s=87e28c9816ca13937e7e462f5ad1190e4f3637b3",
-    "ingested_at": "2026-11-01T09:53:38.912654+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/noi4a6.webp",
-    "tags": [
-      "Diminution",
-      "Natalité",
-      "Alliance",
-      "Culture"
-    ],
-    "analyzed_at": "2026-11-01T09:57:09.018640+00:00"
   },
   {
     "id": "no6atr",
@@ -181,13 +149,7 @@
     "ingested_at": "2026-11-01T09:53:38.911690+00:00",
     "summary": "L'Equateur a confirm&eacute; mardi, apr&egrave;s des analyses ADN, que la tortue g&eacute;ante d&eacute;couverte en 2019 dans l'archipel des Galapagos appartient bien &agrave; une esp&egrave;ce que...",
     "thumbnail": "thumbnails/no6atr.webp",
-    "tags": [
-      "Galapagos",
-      "Environnement",
-      "ADN",
-      "Chelonoidis",
-      "Equateur"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:57:07.962859+00:00"
   },
   {
@@ -207,13 +169,7 @@
     "ingested_at": "2026-11-01T09:53:38.912052+00:00",
     "summary": "Le chercheur au CNRS à Montpellier a été un des premiers à émettre des doutes sur l’intérêt de l’hydroxychloroquine. Il publie une synthèse qui démonte les études du professeur marseillais.",
     "thumbnail": "thumbnails/nnl20z.webp",
-    "tags": [
-      "Montpelliérain",
-      "Pr Raoult",
-      "CNRS",
-      "Montpellier",
-      "Raoult"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:57:03.610960+00:00"
   },
   {
@@ -234,10 +190,8 @@
     "summary": "Le syndicat mixte des transports du Douaisis a adopté la gratuité des transports en commun dès le 1er janvier 2022. Le réseau Évéole, composé d’une vingtaine de lignes de bus, sera donc accessible à tous gratuitement. Soit...",
     "thumbnail": "thumbnails/nnhusv.webp",
     "tags": [
-      "Douaisis",
-      "Évéole",
-      "Douai",
-      "Écologie"
+      "Transports",
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T09:57:03.807265+00:00"
   },
@@ -259,11 +213,8 @@
     "summary": "La Croatie confirme l'achat de 12 Rafale pour moderniser son armée de l'air, a annoncé le Premier ministre croate, Andrej Plenkovic. Ces appareils d'occasion seront prélevés sur le parc de l'armée de l'Air.",
     "thumbnail": "thumbnails/nmwk9u.webp",
     "tags": [
-      "Rafale",
-      "Croatie",
-      "Premier",
-      "Andrej Plenkovic",
-      "Économie"
+      "Défense",
+      "Cause animale"
     ],
     "analyzed_at": "2026-11-01T09:57:03.788035+00:00"
   },
@@ -284,10 +235,7 @@
     "ingested_at": "2026-11-01T09:53:38.912915+00:00",
     "summary": "",
     "thumbnail": "thumbnails/nmr8eh.webp",
-    "tags": [
-      "Namibie",
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:57:03.733103+00:00"
   },
   {
@@ -307,12 +255,7 @@
     "ingested_at": "2026-11-01T09:53:38.912582+00:00",
     "summary": "Jean-Marc Dutouya, le Landais dont la photo de lui en slip, une pelle à la main, avait fait le tour du web en 2015, demande réparation à Frace Télévisions, qu'il accuse d'avoir porté atteinte à son image.",
     "thumbnail": "thumbnails/nm094i.webp",
-    "tags": [
-      "France Télévisions",
-      "Jean-Marc Dutouya",
-      "Landais",
-      "Frace Télévisions"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:57:03.985415+00:00"
   },
   {
@@ -333,10 +276,7 @@
     "summary": "Il exerçait depuis 45 ans au cœur du quartier populaire des Merisiers, à Mantes-la-Ville. Lundi 24 mai au soir, des inconnus ont vandalisé s",
     "thumbnail": "thumbnails/nm02vb.webp",
     "tags": [
-      "Yvelines",
-      "Merisiers",
-      "Mantes-la-Ville",
-      "Société"
+      "Santé"
     ],
     "analyzed_at": "2026-11-01T09:57:04.129253+00:00"
   },
@@ -357,36 +297,8 @@
     "ingested_at": "2026-11-01T09:53:38.911540+00:00",
     "summary": "Le septuagénaire souffre d'une fracture du tibia et et les médecins soupçonnent une fracture de la mâchoire. Son agresseur a pris la fuite avec sa caméra.",
     "thumbnail": "thumbnails/nlk7gr.webp",
-    "tags": [
-      "Personnes âgées",
-      "Agression",
-      "Écologie",
-      "Incivilités",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:57:06.124874+00:00"
-  },
-  {
-    "id": "nlfptn",
-    "title": "Refuser les cookies doit être aussi simple que de les accepter : une vingtaine d’organismes mis en demeure",
-    "url": "https://www.cnil.fr/fr/cookies-une-vingtaine-organismes-mis-en-demeure",
-    "permalink": "/r/france/comments/nlfptn/refuser_les_cookies_doit_être_aussi_simple_que_de/",
-    "created_at": "2021-05-26T12:24:12+00:00",
-    "score": 689,
-    "num_comments": 89,
-    "subreddit": "france",
-    "author": "RandomGuyWithSixEyes",
-    "flair": "",
-    "domain": "cnil.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://b.thumbs.redditmedia.com/_7D0M8NsCCPQW_RPYy8F8awGxr9KOdCN1NqtduyKkhs.jpg",
-    "ingested_at": "2026-11-01T09:53:38.911223+00:00",
-    "summary": "Comme elle l’avait annoncé en avril 2021, la CNIL a initié des vérifications en ligne pour constater d’éventuels manquements en matière de cookies.",
-    "thumbnail": "thumbnails/nlfptn.webp",
-    "tags": [
-      "CNIL"
-    ],
-    "analyzed_at": "2026-11-01T09:57:07.435100+00:00"
   },
   {
     "id": "nlbw62",
@@ -405,12 +317,7 @@
     "ingested_at": "2026-11-01T09:53:38.912522+00:00",
     "summary": "« Fast and Furious 9 », dans lequel John Cena joue, vient de sortir en Chine et fait un carton au box-office",
     "thumbnail": "thumbnails/nlbw62.webp",
-    "tags": [
-      "Furious 9",
-      "John Cena",
-      "Chine",
-      "Taïwan"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:57:04.578887+00:00"
   },
   {
@@ -430,36 +337,8 @@
     "ingested_at": "2026-11-01T09:53:38.911716+00:00",
     "summary": "",
     "thumbnail": "thumbnails/nla8rf.webp",
-    "tags": [
-      "Économie"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:57:04.654591+00:00"
-  },
-  {
-    "id": "nkvat7",
-    "title": "Agency linked to Russia offered thousands to French influencers to denigrate Pfizer vaccine.",
-    "url": "https://www.connexionfrance.com/index.php/French-news/French-influencers-offered-2-000-to-claim-Pfizer-vaccine-is-dangerous",
-    "permalink": "/r/france/comments/nkvat7/agency_linked_to_russia_offered_thousands_to/",
-    "created_at": "2021-05-25T17:32:34+00:00",
-    "score": 199,
-    "num_comments": 45,
-    "subreddit": "france",
-    "author": "mirsella",
-    "flair": "Actus",
-    "domain": "connexionfrance.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/V7ri1So2A_iZ6uTVYRFPbINyyFKWK_UzT1bFe-skLUU.jpg?auto=webp&s=ccc63c25fe7cd5433addb3d0338ef3fbbaf01e14",
-    "ingested_at": "2026-11-01T09:53:38.912448+00:00",
-    "summary": "French influencers offered €2,000 to claim Pfizer vaccine is dangerous",
-    "thumbnail": "thumbnails/nkvat7.webp",
-    "tags": [
-      "Pfizer",
-      "French",
-      "Russia",
-      "Social media",
-      "Covid-19 vaccine"
-    ],
-    "analyzed_at": "2026-11-01T09:57:09.501812+00:00"
   },
   {
     "id": "nkp80r",
@@ -479,11 +358,7 @@
     "summary": "Le 25 mai 2018, le RGPD entrait en application. Nous célébrions l'espoir qu'il renverse le modèle économique des GAFAM, qui font de nos données personnelles une vulgaire monnaie d'échange. Porté·es par notre enthousiasme, nous déposions immédiatement avec 12 000 personnes cinq plaintes devant la CNI",
     "thumbnail": "thumbnails/nkp80r.webp",
     "tags": [
-      "CNIL",
-      "GAFAM",
-      "RGPD",
-      "DPC",
-      "Société"
+      "Numérique"
     ],
     "analyzed_at": "2026-11-01T09:57:04.919544+00:00"
   },
@@ -504,11 +379,7 @@
     "ingested_at": "2026-11-01T09:53:38.912213+00:00",
     "summary": "Le chanteur Damiano David avait été soupçonné samedi soir d’avoir consommé de la drogue en direct à la télévision après la diffusion sur les réseaux sociaux d'images équivoques.",
     "thumbnail": "thumbnails/nk2cgb.webp",
-    "tags": [
-      "Damiano David",
-      "Måneskin",
-      "Eurovision 2021"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:57:05.054128+00:00"
   },
   {
@@ -529,10 +400,6 @@
     "summary": "Plusieurs youtubeurs et influenceurs ont reçu une proposition de partenariat rémunéré visant à répéter que le taux de décès imputé au vaccin Pfizer «est presque trois fois plus élevé qu’avec AstraZeneca».",
     "thumbnail": "thumbnails/nk0bg4.webp",
     "tags": [
-      "Pfizer",
-      "AstraZeneca",
-      "Coronavirus",
-      "Russie",
       "Covid-19"
     ],
     "analyzed_at": "2026-11-01T09:57:10.809127+00:00"
@@ -554,10 +421,7 @@
     "ingested_at": "2026-11-01T09:53:38.912186+00:00",
     "summary": "",
     "thumbnail": "thumbnails/njazac.webp",
-    "tags": [
-      "Biélorussie",
-      "Minsk"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:57:05.451689+00:00"
   },
   {
@@ -578,11 +442,7 @@
     "summary": "ENTRETIEN. Le secrétaire général du Parti communiste soutient l’énergie nucléaire, au risque de braquer les autres partis de gauche. Il s’en explique.",
     "thumbnail": "thumbnails/nj8dhs.webp",
     "tags": [
-      "Fabien Roussel",
-      "PCF",
-      "LFI",
-      "CGT",
-      "Politique"
+      "Fabien Roussel"
     ],
     "analyzed_at": "2026-11-01T09:57:10.296791+00:00"
   },
@@ -604,10 +464,7 @@
     "summary": "La famille et les fidèles du Pasteur Franklin Ndifor, décédé s'opposent à son inhumation et tentent de le ressusciter. Récit d'une folle journée à Douala.",
     "thumbnail": "thumbnails/nj0ert.webp",
     "tags": [
-      "Dieu",
-      "Pasteur Franklin Ndifor",
-      "Douala",
-      "Bonaberi"
+      "Covid-19"
     ],
     "analyzed_at": "2026-11-01T09:57:06.578503+00:00"
   },
@@ -628,9 +485,7 @@
     "ingested_at": "2026-11-01T09:53:38.912017+00:00",
     "summary": "Le centenaire s’est éteint dans la nuit de vendredi à samedi au terme d’une très longue, très riche et incroyable existence.",
     "thumbnail": "thumbnails/niev1r.webp",
-    "tags": [
-      "Robert Marchand"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:57:06.940487+00:00"
   },
   {
@@ -651,11 +506,7 @@
     "summary": "Murielle Millet, directrice générale de la société Apnyl, située à Izernore dans l'Ain, est soupçonnée d'avoir commandité l'assassinat d'un syndicaliste jugé \"gênant\". Elle a été interpellée et incarcérée à Paris.",
     "thumbnail": "thumbnails/nicjsu.webp",
     "tags": [
-      "AIN",
-      "Murielle Millet",
-      "Paris",
-      "Izernore",
-      "Apnyl"
+      "Grèves et syndicats"
     ],
     "analyzed_at": "2026-11-01T09:57:07.372859+00:00"
   },
@@ -676,13 +527,7 @@
     "ingested_at": "2026-11-01T09:53:38.911078+00:00",
     "summary": "À seulement 25 ans, cet ingénieur dont le site Covidtracker s'est imposé comme une référence d'information sur la progression de la pandémie en France est décoré à «titre exceptionnel».",
     "thumbnail": "thumbnails/nic7s6.webp",
-    "tags": [
-      "Guillaume Rozier",
-      "Covidtracker et Vitemadose",
-      "Covid-19",
-      "Covidtracker",
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:57:08.109990+00:00"
   },
   {
@@ -702,11 +547,7 @@
     "ingested_at": "2026-11-01T09:53:38.913037+00:00",
     "summary": "Selon les policiers du Doubs, l'escroquerie lui a permis de toucher près de 35 000 euros.",
     "thumbnail": "thumbnails/nhocoj.webp",
-    "tags": [
-      "Dubaï",
-      "Doubs",
-      "Faits-divers"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:57:07.787797+00:00"
   },
   {
@@ -727,37 +568,9 @@
     "summary": "Le contrat avec l'Indonésie sur la vente de 36 Rafale à l'Indonésie serait en bonne voie. Selon La Tribune, il a été signé par le ministre de la Défense et n'attend plus qu'un décret présidentiel.",
     "thumbnail": "thumbnails/nhf103.webp",
     "tags": [
-      "Rafale",
-      "Indonésie",
-      "Tribune",
-      "Défense",
-      "Économie"
+      "Défense"
     ],
     "analyzed_at": "2026-11-01T09:57:07.755150+00:00"
-  },
-  {
-    "id": "nh37rx",
-    "title": "Une du Charlie Hebdo du 19 mai 2021: \"Tous en terrasse: les Palestiniens retrouvent les joies du monde d'avant\"",
-    "url": "https://pbs.twimg.com/media/E1rRzhOXoA0YqcJ.jpg",
-    "permalink": "/r/france/comments/nh37rx/une_du_charlie_hebdo_du_19_mai_2021_tous_en/",
-    "created_at": "2021-05-20T15:29:40+00:00",
-    "score": 1720,
-    "num_comments": 277,
-    "subreddit": "france",
-    "author": "[deleted]",
-    "flair": "Politique",
-    "domain": "pbs.twimg.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/dtf3vBUtyaBpCMfScc0dByRYa6zJZSPHnNuso76z3h4.jpeg?auto=webp&s=89c8e3b15079d87b490bda7ecec59636d66b54a0",
-    "ingested_at": "2026-11-01T09:53:38.910971+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/nh37rx.webp",
-    "tags": [
-      "Charlie Hebdo du 19",
-      "Palestiniens",
-      "Politique"
-    ],
-    "analyzed_at": "2026-11-01T09:57:08.487441+00:00"
   },
   {
     "id": "nh2xbd",
@@ -777,9 +590,8 @@
     "summary": "Le ministre de l'Intérieur Gérald Darmanin a immédiatement proposé «d'améliorer les dispositions» de la proposition de loi, suite à cette décision",
     "thumbnail": "thumbnails/nh2xbd.webp",
     "tags": [
-      "Conseil",
-      "Intérieur Gérald Darmanin",
-      "Politique"
+      "Gérald Darmanin",
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T09:57:08.368804+00:00"
   },
@@ -800,56 +612,8 @@
     "ingested_at": "2026-11-01T09:53:38.912081+00:00",
     "summary": "L’idéologue d’extrême-droite a été condamné à quatre mois de prison en semi-liberté pour « provocation à la haine en raison de la religion »",
     "thumbnail": "thumbnails/ngvytg.webp",
-    "tags": [
-      "Alain Soral",
-      "Notre-Dame",
-      "Soft paywall"
-    ],
-    "analyzed_at": "2026-11-01T09:57:08.388785+00:00"
-  },
-  {
-    "id": "ng08cn",
-    "title": "Six ans après, le cauchemar des victimes de Girls Do Porn continue",
-    "url": "https://www.vice.com/fr/article/k78avm/six-ans-apres-le-cauchemar-des-victimes-de-girls-do-porn-continue",
-    "permalink": "/r/france/comments/ng08cn/six_ans_après_le_cauchemar_des_victimes_de_girls/",
-    "created_at": "2021-05-19T08:34:11+00:00",
-    "score": 169,
-    "num_comments": 77,
-    "subreddit": "france",
-    "author": "Derniere-Volonte",
-    "flair": "Société",
-    "domain": "vice.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/cg0pcKrKOc1fLalYmyJOoofvn47eO7DQX7nNf69aq7Q.jpg?auto=webp&s=7073060281774f97ceb0f8e1e27a0aeded659315",
-    "ingested_at": "2026-11-01T09:53:38.912756+00:00",
-    "summary": "« Ces personnes dégoûtantes ont profité de moi, et maintenant, elles ruinent ma carrière. »",
-    "thumbnail": "thumbnails/ng08cn.webp",
-    "tags": [
-      "Girls Do Porn",
-      "Jane",
-      "Société"
-    ],
-    "analyzed_at": "2026-11-01T09:57:10.101236+00:00"
-  },
-  {
-    "id": "nfxumn",
-    "title": "Rochefort-en-Terre, Morbihan, France",
-    "url": "https://live.staticflickr.com/65535/51098633896_17cdb40acf_o.jpg",
-    "permalink": "/r/france/comments/nfxumn/rochefortenterre_morbihan_france/",
-    "created_at": "2021-05-19T06:11:37+00:00",
-    "score": 370,
-    "num_comments": 29,
-    "subreddit": "france",
-    "author": "loulan",
-    "flair": "",
-    "domain": "live.staticflickr.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/d2MDwBrSisTXx_iWT6fHwsIn33edoXj-5aEmuG6CTtE.jpeg?auto=webp&s=8a87d18bf9f9878feb79d06fb80ec120debfa9b7",
-    "ingested_at": "2026-11-01T09:53:38.911588+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/nfxumn.webp",
     "tags": [],
-    "analyzed_at": "2026-11-01T09:57:10.215149+00:00"
+    "analyzed_at": "2026-11-01T09:57:08.388785+00:00"
   },
   {
     "id": "nfi6nl",
@@ -869,11 +633,7 @@
     "summary": "Le ministre de l'Intérieur a accordé une longue à interview à \"L'Express\", à la veille du rassemblement policier prévu mercredi 19 mai.",
     "thumbnail": "thumbnails/nfi6nl.webp",
     "tags": [
-      "Tourcoing",
-      "Insee",
-      "Gérald Darmanin",
-      "Intérieur",
-      "Politique"
+      "Gérald Darmanin"
     ],
     "analyzed_at": "2026-11-01T09:57:08.756302+00:00"
   },
@@ -894,13 +654,7 @@
     "ingested_at": "2026-11-01T09:53:38.911425+00:00",
     "summary": "\"La femme est tellement sexualisée de nos jours\", regrette Maÿlis, agressée à Bordeaux pour avoir allaité son bébé en public.",
     "thumbnail": "thumbnails/nf5fyt.webp",
-    "tags": [
-      "Bordeaux",
-      "Maÿlis",
-      "Nino",
-      "Allaitement",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:57:11.551496+00:00"
   },
   {
@@ -920,9 +674,7 @@
     "ingested_at": "2026-11-01T09:53:38.911251+00:00",
     "summary": "",
     "thumbnail": "thumbnails/nf2bmb.webp",
-    "tags": [
-      "Mila"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:57:09.268587+00:00"
   },
   {
@@ -942,12 +694,7 @@
     "ingested_at": "2026-11-01T09:53:38.911640+00:00",
     "summary": "Tandis que la moyenne mondiale se situe aux alentours de 40 %, la France culmine en tête du classement avec 80 % de milliardaires héritiers",
     "thumbnail": "thumbnails/nebjkx.webp",
-    "tags": [
-      "Forbes",
-      "Economie",
-      "Thématiques",
-      "Home"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:57:09.471638+00:00"
   },
   {
@@ -967,36 +714,8 @@
     "ingested_at": "2026-11-01T09:53:38.912386+00:00",
     "summary": "",
     "thumbnail": "thumbnails/neaf1n.webp",
-    "tags": [
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:57:09.631043+00:00"
-  },
-  {
-    "id": "ndk7ad",
-    "title": "La mission pour sauver Sci-Hub est lancée",
-    "url": "https://korben.info/mission-sauvetage-sci-hub.html",
-    "permalink": "/r/france/comments/ndk7ad/la_mission_pour_sauver_scihub_est_lancée/",
-    "created_at": "2021-05-16T08:58:02+00:00",
-    "score": 545,
-    "num_comments": 134,
-    "subreddit": "france",
-    "author": "[deleted]",
-    "flair": "Science",
-    "domain": "korben.info",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/R9vqUBEivVt6Byw-PpzIgyqOz2B2qZblNsnTdbakTR4.jpg?auto=webp&s=2ce7c8f6c2d4de5ae36de9ccf24a0e223bb8a744",
-    "ingested_at": "2026-11-01T09:53:38.911304+00:00",
-    "summary": "Agir pour sauver SciHub, le plus grand rÃ©servoir de publications en accÃ¨s libre.",
-    "thumbnail": "thumbnails/ndk7ad.webp",
-    "tags": [
-      "Sci-Hub",
-      "SciHub",
-      "Ãªtre",
-      "Alexandra Elbakyan",
-      "Science"
-    ],
-    "analyzed_at": "2026-11-01T09:57:09.726198+00:00"
   },
   {
     "id": "ndiy50",
@@ -1016,8 +735,8 @@
     "summary": "REVELATIONS - Témoignages, expertises informatiques... Un rapport de police dévoile un système centralisé dont Marine Le Pen, la présidente du Rassemblement national, était l'organisatrice et la bénéficiaire.",
     "thumbnail": "thumbnails/ndiy50.webp",
     "tags": [
-      "Marine le Pen",
-      "FN"
+      "Marine Le Pen",
+      "Police"
     ],
     "analyzed_at": "2026-11-01T09:57:11.665062+00:00"
   },
@@ -1039,11 +758,7 @@
     "summary": "\"Le monde sera moins informé sur ce qui se passe à Gaza à cause de ce qui s'est passé aujourd'hui\", le patron de l'agence de presse, Gary Pruitt",
     "thumbnail": "thumbnails/nd0c0q.webp",
     "tags": [
-      "Gaza",
-      "Al-Jazeera",
-      "Associated Press",
-      "Gary Pruitt",
-      "Politique"
+      "Conflit israélo-palestinien"
     ],
     "analyzed_at": "2026-11-01T09:57:10.052434+00:00"
   },
@@ -1064,11 +779,7 @@
     "ingested_at": "2026-11-01T09:53:38.912989+00:00",
     "summary": "",
     "thumbnail": "thumbnails/ncrxu8.webp",
-    "tags": [
-      "Chine",
-      "Zhurong",
-      "Science"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:57:10.083108+00:00"
   },
   {
@@ -1088,13 +799,7 @@
     "ingested_at": "2026-11-01T09:53:38.913062+00:00",
     "summary": "Jeudi 13Â mai 2021, les pompiers sont intervenus dans le quartier de Pontanezen, Ã Brest (FinistÃ¨re), pour Ã©teindre des feux de voiture. Ils se sont retrouvÃ©s face Ã une quarantaine de jeunes Ã©quipÃ©s de mortiers qui ont perturbÃ© leur intervention et tapÃ© sur leurs camions.",
     "thumbnail": "thumbnails/ncaddl.webp",
-    "tags": [
-      "Pontanezen",
-      "Brest",
-      "Ã Brest",
-      "Bretagne",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:57:14.969021+00:00"
   },
   {
@@ -1115,11 +820,8 @@
     "summary": "La journaliste d’investigation Daphne Caruana Galizia s’apprêtait à révéler un scandale autour du plus gros marché public maltais de ces dernières années. Plus de trois ans après son assassinat, Malte peine à sortir des affaires de corruption et des pratiques clientélistes.",
     "thumbnail": "thumbnails/nc6rp2.webp",
     "tags": [
-      "Daphne Caruana Galizia",
-      "Projet Daphne",
-      "Malte",
-      "Joseph Muscat",
-      "Société"
+      "Médias",
+      "Police"
     ],
     "analyzed_at": "2026-11-01T09:57:11.486015+00:00"
   },
@@ -1141,38 +843,9 @@
     "summary": "David Belliard, adjoint (EELV) d’Anne Hidalgo, explique au Parisien comment la Ville veut continuer à réduire la circulation au centre de l",
     "thumbnail": "thumbnails/nbcl4m.webp",
     "tags": [
-      "Paris",
-      "David Belliard",
-      "EELV",
-      "Ville",
-      "Soft paywall"
+      "Anne Hidalgo"
     ],
     "analyzed_at": "2026-11-01T09:57:10.670572+00:00"
-  },
-  {
-    "id": "nbbh10",
-    "title": "Les émissions de la Chine dépassent désormais celles de tous les pays développés réunis",
-    "url": "https://www.gurumed.org/2021/05/10/les-missions-de-la-chine-dpassent-dsormais-celles-de-tous-les-pays-dvelopps-runis/",
-    "permalink": "/r/france/comments/nbbh10/les_émissions_de_la_chine_dépassent_désormais/",
-    "created_at": "2021-05-13T08:03:55+00:00",
-    "score": 330,
-    "num_comments": 132,
-    "subreddit": "france",
-    "author": "jeyreymii",
-    "flair": "Écologie",
-    "domain": "gurumed.org",
-    "selftext": "",
-    "reddit_thumbnail": "https://b.thumbs.redditmedia.com/2rlALS8xh5cxm46hzWHVtcGYQsL90Rb4EUmEnBgclsI.jpg",
-    "ingested_at": "2026-11-01T09:53:38.911664+00:00",
-    "summary": "C'est une puissance en matière d'énergie renouvelable, mais elle dépend encore largement des centrales au charbon. Elle s'est engagée à être neutre en carbone d'ici à 2060, mais n'a présenté aucune feuille de route claire sur la manière d'y parvenir.",
-    "thumbnail": "thumbnails/nbbh10.webp",
-    "tags": [
-      "Chine",
-      "États-Unis",
-      "OCDE",
-      "Écologie"
-    ],
-    "analyzed_at": "2026-11-01T09:57:20.849692+00:00"
   },
   {
     "id": "nalvng",
@@ -1192,9 +865,7 @@
     "summary": "",
     "thumbnail": "thumbnails/nalvng.webp",
     "tags": [
-      "Amazon",
-      "Luxembourg",
-      "Économie"
+      "Justice"
     ],
     "analyzed_at": "2026-11-01T09:57:10.680783+00:00"
   },
@@ -1215,12 +886,7 @@
     "ingested_at": "2026-11-01T09:53:38.912239+00:00",
     "summary": "",
     "thumbnail": "thumbnails/nakq7i.webp",
-    "tags": [
-      "Airbnb",
-      "Instagram",
-      "Snapch",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:57:16.557722+00:00"
   },
   {
@@ -1240,11 +906,7 @@
     "ingested_at": "2026-11-01T09:53:38.911329+00:00",
     "summary": "Avec la campagne de vaccination, Doctolib confirme et renforce sa place désormais stratégique dans le système de soin français. La régulation de cet acteur pri…",
     "thumbnail": "thumbnails/nak2yi.webp",
-    "tags": [
-      "Doctolib",
-      "Social",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:57:11.003087+00:00"
   },
   {
@@ -1264,9 +926,7 @@
     "ingested_at": "2026-11-01T09:53:38.911397+00:00",
     "summary": "Une écrasante majorité des utilisateurs d'iOS refusent de se faire pister. C'est une très mauvaise nouvelle pour le secteur de la publicité en ligne, qui ne s’attendait pas à une telle désaffection.",
     "thumbnail": "thumbnails/nag5fa.webp",
-    "tags": [
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:57:11.650126+00:00"
   },
   {
@@ -1286,10 +946,7 @@
     "ingested_at": "2026-11-01T09:53:38.911841+00:00",
     "summary": "FIGAROVOX/TRIBUNE - Depuis 2006, le 10 mai est la journée nationale des mémoires de la traite et de l'esclavage. L'occasion de revenir sur l'importance de la traite arabo-musulmane, dont l'histoire est sciemment dissimulée, explique Marie-Claude Barbier Mosimann.",
     "thumbnail": "thumbnails/nabb6x.webp",
-    "tags": [
-      "Marie-Claude Barbier Mosimann",
-      "Culture"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:57:11.347534+00:00"
   },
   {
@@ -1332,34 +989,9 @@
     "summary": "Gare aux fraudes, a cependant averti le Ministère de la Santé. La prise de rendez-v...",
     "thumbnail": "thumbnails/n9qfxy.webp",
     "tags": [
-      "Ministère de la Santé",
       "Covid-19"
     ],
     "analyzed_at": "2026-11-01T09:57:12.621909+00:00"
-  },
-  {
-    "id": "n8zcyy",
-    "title": "Emmanuel Macron : « Les classes fermeront au premier cas avéré de gauchisme »",
-    "url": "http://www.legorafi.fr/2021/05/06/emmanuel-macron-les-classes-fermeront-au-premier-cas-avere-de-gauchis",
-    "permalink": "/r/france/comments/n8zcyy/emmanuel_macron_les_classes_fermeront_au_premier/",
-    "created_at": "2021-05-10T08:20:28+00:00",
-    "score": 952,
-    "num_comments": 63,
-    "subreddit": "france",
-    "author": "sylsau",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/jHkppNRoVaHbEfGORjBTdygl-gqJhm83rlwDp-G2bwk.jpg?auto=webp&s=4e8de33c4ed7b86e8f33f3ae23f3c59dfbf4cf27",
-    "ingested_at": "2026-11-01T09:53:38.911104+00:00",
-    "summary": "Noël approche et vous ne savez toujours pas à quel cadeau raté vous correspondez exactement pour vos proches. Il est... Lors d’une chronique radio sur RTL, le célèbre médecin a incité les Français à prendre meilleur soin de leur santé...",
-    "thumbnail": "thumbnails/n8zcyy.webp",
-    "tags": [
-      "Emmanuel Macron",
-      "Français",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:57:12.976408+00:00"
   },
   {
     "id": "n8z9zn",
@@ -1379,34 +1011,9 @@
     "summary": "",
     "thumbnail": "thumbnails/n8z9zn.webp",
     "tags": [
-      "Science Vie"
+      "Médias"
     ],
     "analyzed_at": "2026-11-01T09:57:12.212569+00:00"
-  },
-  {
-    "id": "n8cfki",
-    "title": "AJA que le français Didier Delsalle est le premier et seul humain au monde ayant posé un hélicoptère, l'Écureuil Airbus AS350 B3, au sommet de l'Everest.",
-    "url": "https://fr.wikipedia.org/wiki/Didier_Delsalle",
-    "permalink": "/r/france/comments/n8cfki/aja_que_le_français_didier_delsalle_est_le/",
-    "created_at": "2021-05-09T11:34:46+00:00",
-    "score": 185,
-    "num_comments": 40,
-    "subreddit": "france",
-    "author": "Dall0o",
-    "flair": "",
-    "domain": "fr.wikipedia.org",
-    "selftext": "",
-    "reddit_thumbnail": "https://b.thumbs.redditmedia.com/C58KF-MfKkIZ8RJVQxOMHyTJzm9ADBlx6RT90EQWfVM.jpg",
-    "ingested_at": "2026-11-01T09:53:38.912708+00:00",
-    "summary": "Didier Delsalle né le 6 mai 1957 à Aix-en-Provence est un pilote d'essais sur hélicoptères. C'est le premier (et seul) homme au monde ayant posé un hélicoptère de série, l' Écureuil AS350 B3 , au sommet de l' Everest le 14 mai 2005 .",
-    "thumbnail": "thumbnails/n8cfki.webp",
-    "tags": [
-      "Didier Delsalle",
-      "Everest",
-      "AJA",
-      "Écureuil Airbus AS350 B3"
-    ],
-    "analyzed_at": "2026-11-01T09:57:13.880147+00:00"
   },
   {
     "id": "n8aih2",
@@ -1426,11 +1033,7 @@
     "summary": "If victory eludes us in the row over fishing rights around Jersey, the prospect of Macron at No 10 has much to recommend it",
     "thumbnail": "thumbnails/n8aih2.webp",
     "tags": [
-      "Jersey",
-      "UK",
-      "Macron",
-      "No 10",
-      "Humour"
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T09:57:12.016312+00:00"
   },
@@ -1452,9 +1055,7 @@
     "summary": "Alors que les résultats des élections placent son parti en tête, la leader du SNP, Nicola Sturgeon, s’est exprimée en faveur d’un nouveau référendum",
     "thumbnail": "thumbnails/n7xnoe.webp",
     "tags": [
-      "SNP",
-      "Nicola Sturgeon",
-      "Politique"
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T09:57:12.567217+00:00"
   },
@@ -1476,11 +1077,7 @@
     "summary": "La région a débloqué une enveloppe de 300 millions d'euros pour le développement de neuf itinéraires, dont cinq devraient être prêts pour 2025.",
     "thumbnail": "thumbnails/n7ksvo.webp",
     "tags": [
-      "Île-de-France",
-      "RER Vélo",
-      "Pistes cyclables",
-      "Paris",
-      "Écologie"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T09:57:13.511689+00:00"
   },
@@ -1502,9 +1099,8 @@
     "summary": "Ces six individus ont été arrêtés mardi dans le Doubs et en Alsace. Trois d’entre eux, deux hommes et une femme, vont être déferrés dans la",
     "thumbnail": "thumbnails/n6w8jo.webp",
     "tags": [
-      "Doubs",
-      "Alsace",
-      "Soft paywall"
+      "Terrorisme",
+      "Extrême droite"
     ],
     "analyzed_at": "2026-11-01T09:57:12.928272+00:00"
   },
@@ -1525,11 +1121,7 @@
     "ingested_at": "2026-11-01T09:53:38.911131+00:00",
     "summary": "Le pétrolier a annulé une campagne à 50 000 euros prévue dans les pages du quotidien, à la suite d'une enquête publiée mardi et révélant un système de financement mis en place par le groupe français avec la junte birmane.",
     "thumbnail": "thumbnails/n6soc9.webp",
-    "tags": [
-      "Monde",
-      "Birmanie",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:57:15.210112+00:00"
   },
   {
@@ -1549,13 +1141,7 @@
     "ingested_at": "2026-11-01T09:53:38.911871+00:00",
     "summary": "PORTRAIT - Immolée par le feu par son époux à Mérignac, près de Bordeaux, la jeune femme originaire d'Algérie et âgée de 31 ans était mère de 3 enfants. Elle est la 39e victime d'un meurtre conjugal en France en 2021.",
     "thumbnail": "thumbnails/n6c0qy.webp",
-    "tags": [
-      "Mérignac",
-      "Chahinez B",
-      "Gironde",
-      "Algérie",
-      "Faits divers"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:57:16.317664+00:00"
   },
   {
@@ -1576,8 +1162,7 @@
     "summary": "Suivez l'info en direct pour savoir ce qui se passe maintenant ! Toutes les infos livrées minute par minute par la rédaction, les photos, vidéos, tweets et vos interventions",
     "thumbnail": "thumbnails/n63kgj.webp",
     "tags": [
-      "Covid-19",
-      "Doctolib"
+      "Covid-19"
     ],
     "analyzed_at": "2026-11-01T09:57:13.885368+00:00"
   },
@@ -1599,37 +1184,9 @@
     "summary": "Un policier de la sécurité publique du Vaucluse a été touché par balle ce mercredi 5 mai en fin d’après-midi en plein centre-ville d’Avignon. Les faits se sont produits dans le secteur de la rue des Teinturiers. La victime a été grièvement blessée et rapidement prise en charge par les sapeurs-pompiers d’Avignon.",
     "thumbnail": "thumbnails/n5m74r.webp",
     "tags": [
-      "Avignon",
-      "Vaucluse",
-      "Teinturiers"
+      "Police"
     ],
     "analyzed_at": "2026-11-01T09:57:16.094925+00:00"
-  },
-  {
-    "id": "n5kqt5",
-    "title": "VIDEO « Avec 3000 euros je n'arrive évidemment pas à vivre ! » : Luc Ferry dévoile son salaire et ses fins de mois difficiles",
-    "url": "https://www.voici.fr/news-people/actu-people/avec-3000-euros-je-narrive-evidemment-pas-a-vivre-luc-ferry-devoile-son-salaire-et-ses-fins-de-mois-difficiles-703190",
-    "permalink": "/r/france/comments/n5kqt5/video_avec_3000_euros_je_narrive_évidemment_pas_à/",
-    "created_at": "2021-05-05T16:58:05+00:00",
-    "score": 263,
-    "num_comments": 174,
-    "subreddit": "france",
-    "author": "HellYodan",
-    "flair": "",
-    "domain": "voici.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/I2GWkx_RqN9gtgkHx1TzNSGbEaiw2DUosZJVynzVcWg.jpg?auto=webp&s=ddec35fa1c1a369efa6a2cabb66a1bfbc2b66e97",
-    "ingested_at": "2026-11-01T09:53:38.911980+00:00",
-    "summary": "C'est un Luc Ferry en colère qui s'est exprimé dans l'émission L'instant de Luxe sur la chaîne Non Stop People ce mercredi 5 mai. L'ancien ministre de l'Education nationale a tenu à rétablir la vérité sur son train de vie en dévoilant son salaire et en expliquant qu'il ne bénéficiait d'aucun \"salaire de ministre\".",
-    "thumbnail": "thumbnails/n5kqt5.webp",
-    "tags": [
-      "Luc Ferry",
-      "VIDEO",
-      "Luxe",
-      "Stop People",
-      "Education"
-    ],
-    "analyzed_at": "2026-11-01T09:57:14.576587+00:00"
   },
   {
     "id": "n5cf21",
@@ -1648,9 +1205,7 @@
     "ingested_at": "2026-11-01T09:53:38.912607+00:00",
     "summary": "",
     "thumbnail": "thumbnails/n5cf21.webp",
-    "tags": [
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:57:14.375744+00:00"
   },
   {
@@ -1670,11 +1225,7 @@
     "ingested_at": "2026-11-01T09:53:38.912162+00:00",
     "summary": "Dans un rapport, les députés d'une mission parlementaire sur le cannabis, dont certains membres de la majorité présidentielle, constatent \"l'échec\" de la politique répressive de la France.",
     "thumbnail": "thumbnails/n5c6f0.webp",
-    "tags": [
-      "Drogue et narcotrafic",
-      "Drogue-Addictions",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:57:14.716853+00:00"
   },
   {
@@ -1695,9 +1246,8 @@
     "summary": "En plein examen parlementaire de la loi sur la sécurité globale, le Premier ministre a demandé l'installation d'une commission indépendante pour discuter du très controversé article 24 sur l'enregistrement et la diffusion des images de forces de l'ordre en service. Un rapport, remis le 3 janvier à Jean Castex, aborde",
     "thumbnail": "thumbnails/n5bsdd.webp",
     "tags": [
-      "Premier",
-      "Jean Castex",
-      "Société"
+      "Police",
+      "Jean Castex"
     ],
     "analyzed_at": "2026-11-01T09:57:15.622667+00:00"
   },
@@ -1719,35 +1269,9 @@
     "summary": "Amazon a réussi à soustraire sa filiale luxembourgeoise à l'impôt sur les sociétés en intégrant des pertes à son bilan comptable.",
     "thumbnail": "thumbnails/n4mlap.webp",
     "tags": [
-      "Europe",
-      "Amazon"
+      "Budget et fiscalité"
     ],
     "analyzed_at": "2026-11-01T09:57:15.068683+00:00"
-  },
-  {
-    "id": "n4iyj8",
-    "title": "Le Qatar déprogramme son spectacle de combat à mort d'ouvriers lors de la cérémonie d'ouverture de la coupe du monde 2022",
-    "url": "http://www.legorafi.fr/2021/05/04/le-qatar-deprogramme-son-spectacle-de-combat-a-mort-douvriers-lors-de-la-ceremonie-douverture-de-la-coupe-du-monde-2022/",
-    "permalink": "/r/france/comments/n4iyj8/le_qatar_déprogramme_son_spectacle_de_combat_à/",
-    "created_at": "2021-05-04T08:05:51+00:00",
-    "score": 1070,
-    "num_comments": 53,
-    "subreddit": "france",
-    "author": "sylsau",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/vkvYKv4nN1cEBF9t0BRdW60QXSguQSBP1kMcLHOd6Ms.jpg?auto=webp&s=9ce656abc0b1fefa1617f9c7d39e2603562cbafd",
-    "ingested_at": "2026-11-01T09:53:38.911023+00:00",
-    "summary": "Afin de ne pas faire enfler la polémique, les organisateurs ont décidé d'annuler ce qui devait être le clou du spectacle de la cérémonie d’ouverture.",
-    "thumbnail": "thumbnails/n4iyj8.webp",
-    "tags": [
-      "Qatar",
-      "Gorafi",
-      "Français",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:57:15.315479+00:00"
   },
   {
     "id": "n3yf9w",
@@ -1767,7 +1291,8 @@
     "summary": "",
     "thumbnail": "thumbnails/n3yf9w.webp",
     "tags": [
-      "Jean-Michel Blanquer"
+      "Jean-Michel Blanquer",
+      "Éducation"
     ],
     "analyzed_at": "2026-11-01T09:57:16.509165+00:00"
   },
@@ -1789,37 +1314,9 @@
     "summary": "Ces derniers jours, une circulaire de la police turque suscite l’inquiétude des défenseurs des droits de l’homme et, en particulier, de défense de la liberté de la presse. Elle demande aux forces de…",
     "thumbnail": "thumbnails/n3q5va.webp",
     "tags": [
-      "Turquie",
-      "Droits humains",
-      "Moyen-Orient"
+      "Police"
     ],
     "analyzed_at": "2026-11-01T09:57:15.579428+00:00"
-  },
-  {
-    "id": "n3a83a",
-    "title": "Just wanted to say, merci beaucoup!",
-    "url": "https://www.hindustantimes.com/india-news/france-sends-oxygen-generator-plants-to-back-india-s-covid-response-101619940897117-amp.html",
-    "permalink": "/r/france/comments/n3a83a/just_wanted_to_say_merci_beaucoup/",
-    "created_at": "2021-05-02T16:36:50+00:00",
-    "score": 167,
-    "num_comments": 20,
-    "subreddit": "france",
-    "author": "currymunchah",
-    "flair": "Covid-19",
-    "domain": "hindustantimes.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/hpncwwr7xlXuJEe3pA-s-6gV2kYRu41ZCMdrFYHRcvE.jpg?auto=webp&s=d09723fcdee95e76b3dfa16d14bbbe048f2acf70",
-    "ingested_at": "2026-11-01T09:53:38.912865+00:00",
-    "summary": "This is the first phase of the solidarity mission launched by President Emmanuel Macron to support India as part of the European Union’s coordinated response to the Covid-19 crisis",
-    "thumbnail": "thumbnails/n3a83a.webp",
-    "tags": [
-      "French",
-      "India",
-      "Indian",
-      "President Emmanuel Macron",
-      "Covid-19"
-    ],
-    "analyzed_at": "2026-11-01T09:57:17.860001+00:00"
   },
   {
     "id": "n34e48",
@@ -1838,12 +1335,7 @@
     "ingested_at": "2026-11-01T09:53:38.912782+00:00",
     "summary": "Le nouveau projet de loi antiterroriste du gouvernement français accentue la surveillance d'Internet. Les \"boîtes noires\" des services de...",
     "thumbnail": "thumbnails/n34e48.webp",
-    "tags": [
-      "Internet",
-      "URL",
-      "Bastien le Querrec",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:57:21.401736+00:00"
   },
   {
@@ -1863,36 +1355,7 @@
     "ingested_at": "2026-11-01T09:53:38.912680+00:00",
     "summary": "Une fuite massive de documents au Qatar révèle les largesses financières de l'émirat. En France, des personnalités et une ONG auraient bénéficié de cadeaux de plusieurs millions d'euros. Blast révèle en exclusivité l'histoire de ces liens troubles.",
     "thumbnail": "thumbnails/n2f51t.webp",
-    "tags": [
-      "Carla Bruni-Sarkozy",
-      "BHL et Laurent Platini",
-      "Qatar",
-      "ONG"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:57:25.841188+00:00"
-  },
-  {
-    "id": "n2d6ao",
-    "title": "Le MEDEF soupçonné d’organiser depuis des années des réunions non-mixtes entre riches",
-    "url": "http://www.legorafi.fr/2021/04/27/le-medef-soupconne-dorganiser-depuis-des-annees-des-reunions-non-mixtes-entre-riches/?s=09",
-    "permalink": "/r/france/comments/n2d6ao/le_medef_soupçonné_dorganiser_depuis_des_années/",
-    "created_at": "2021-05-01T07:00:33+00:00",
-    "score": 520,
-    "num_comments": 31,
-    "subreddit": "france",
-    "author": "testing1838291",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/a6oszUCA4Oqg77-o9fcHWVtc7h0ZefYYr0r00MzsUhw.jpg?auto=webp&s=3a807517b32fc4e1f0fa874bdd40cc74f2857c08",
-    "ingested_at": "2026-11-01T09:53:38.911359+00:00",
-    "summary": "Noël approche et vous ne savez toujours pas à quel cadeau raté vous correspondez exactement pour vos proches. Il est... Lors d’une chronique radio sur RTL, le célèbre médecin a incité les Français à prendre meilleur soin de leur santé...",
-    "thumbnail": "thumbnails/n2d6ao.webp",
-    "tags": [
-      "MEDEF",
-      "Français",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:57:17.358145+00:00"
   }
 ]

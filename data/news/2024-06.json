@@ -17,9 +17,7 @@
     "summary": "Des fouilles ont été menées aux sièges de différentes sociétés de l’entreprise, l’un des principaux groupes de défense dans le monde, dans le cadre de deux enquêtes portant sur la vente de matériel militaire à l’étranger",
     "thumbnail": "thumbnails/1ds21ud.webp",
     "tags": [
-      "Thales",
-      "Pays-Bas",
-      "Espagne"
+      "Corruption"
     ],
     "analyzed_at": "2026-11-01T10:59:19.656014+00:00"
   },
@@ -41,11 +39,7 @@
     "summary": "Le président du bureau de vote numéro 116 situé à l'école des Baumettes aurait reçu des coups de la part d'un des assesseurs.",
     "thumbnail": "thumbnails/1drymk3.webp",
     "tags": [
-      "Nice",
-      "Ciotti",
-      "Baumettes",
-      "Alpes-Maritimes",
-      "Fait Divers"
+      "Éric Ciotti"
     ],
     "analyzed_at": "2026-11-01T10:59:19.464897+00:00"
   },
@@ -66,11 +60,7 @@
     "ingested_at": "2026-11-01T10:54:51.732294+00:00",
     "summary": "Les insultes et les agressions physiques font désormais partie du quotidien des agents valoristes, dans les déchetteries.",
     "thumbnail": "thumbnails/1drx76t.webp",
-    "tags": [
-      "Réole",
-      "Environnement",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:59:19.176747+00:00"
   },
   {
@@ -90,13 +80,7 @@
     "ingested_at": "2026-11-01T10:54:51.732345+00:00",
     "summary": "Le destin de Mourad Tsimpou avait basculé à ses 14 ans, lorsqu’il avait reproduit un morceau de Chopin sans jamais avoir pris de cours de mu",
     "thumbnail": "thumbnails/1drf8o1.webp",
-    "tags": [
-      "Mourad",
-      "Parisien",
-      "Mourad Tsimpou",
-      "Chopin",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:59:19.486163+00:00"
   },
   {
@@ -116,10 +100,7 @@
     "ingested_at": "2026-11-01T10:54:51.733268+00:00",
     "summary": "",
     "thumbnail": "thumbnails/1dr3f7n.webp",
-    "tags": [
-      "Europe 1",
-      "Cyril Hanouna"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:59:19.495452+00:00"
   },
   {
@@ -141,10 +122,8 @@
     "thumbnail": "thumbnails/1dqz5ga.webp",
     "tags": [
       "Joe Biden",
-      "New York Times",
-      "Maison-Blanche",
       "Donald Trump",
-      "Politique"
+      "Élection présidentielle"
     ],
     "analyzed_at": "2026-11-01T10:59:19.547026+00:00"
   },
@@ -166,8 +145,8 @@
     "summary": "",
     "thumbnail": "thumbnails/1dqs9d9.webp",
     "tags": [
-      "Montargis",
-      "Société"
+      "Justice",
+      "Racisme"
     ],
     "analyzed_at": "2026-11-01T10:59:20.208663+00:00"
   },
@@ -188,11 +167,7 @@
     "ingested_at": "2026-11-01T10:54:51.733078+00:00",
     "summary": "Cet androïde aidait les habitants de la municipalité de Gumi, dans le centre du pays. La presse locale se demande si «le travail n’était pas trop dur pour le robot».",
     "thumbnail": "thumbnails/1dqmoo2.webp",
-    "tags": [
-      "Corée du Sud",
-      "Gumi",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:59:20.962483+00:00"
   },
   {
@@ -213,11 +188,8 @@
     "summary": "Lors du débat des législatives sur France 2, Jordan Bardella s’est servi de la figure de Jean Moulin, avec ironie, pour tenter de disqualifier la parole d’Olivier Faure, représentant...",
     "thumbnail": "thumbnails/1dqis6t.webp",
     "tags": [
-      "Jean Moulin",
       "Jordan Bardella",
-      "France 2",
-      "Olivier Faure",
-      "Politique"
+      "Olivier Faure"
     ],
     "analyzed_at": "2026-11-01T10:59:20.167529+00:00"
   },
@@ -239,9 +211,7 @@
     "summary": "",
     "thumbnail": "thumbnails/1dqh4cj.webp",
     "tags": [
-      "Marine le Pen",
-      "Russian",
-      "Politique"
+      "Marine Le Pen"
     ],
     "analyzed_at": "2026-11-01T10:59:20.072641+00:00"
   },
@@ -262,13 +232,7 @@
     "ingested_at": "2026-11-01T10:54:51.732977+00:00",
     "summary": "ENTRETIEN - À la veille du premier tour des législatives, Thomas Piketty fustige le déni fiscal de la majorité présidentielle (Renaissance) et celui du bloc de droite (LR, RN, Reconquête).",
     "thumbnail": "thumbnails/1dqexlc.webp",
-    "tags": [
-      "Thomas Piketty",
-      "Nouveau Front Populaire",
-      "RN",
-      "LR",
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:59:20.180401+00:00"
   },
   {
@@ -289,11 +253,7 @@
     "summary": "L’ancien conseiller spécial d’Emmanuel Macron à l’Elysée alerte, dans une tribune que nous publions en intégralité, sa famille politique \"sur la tentation périlleuse du ’ni-ni'\".",
     "thumbnail": "thumbnails/1dqdzuq.webp",
     "tags": [
-      "Philippe Grangeon",
-      "Marche",
-      "RN et LFI",
-      "Emmanuel Macron",
-      "Politique"
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T10:59:20.313011+00:00"
   },
@@ -315,11 +275,7 @@
     "summary": "Cette grève intervient au lendemain de la publication d'un article du journal \"Le Monde\", qui révèle que plusieurs candidats LR-RN aux élections législatives sont issus de la \"galaxie Stérin\".",
     "thumbnail": "thumbnails/1dqdq2i.webp",
     "tags": [
-      "Pierre-Edouard Stérin",
-      "RN",
-      "LR-RN",
-      "Stérin",
-      "Politique"
+      "Grèves et syndicats"
     ],
     "analyzed_at": "2026-11-01T10:59:20.181474+00:00"
   },
@@ -341,10 +297,7 @@
     "summary": "En plein débat pour les législatives, le Premier ministre a annoncé la création d’un simulateur visant à montrer selon lui les défauts du pr",
     "thumbnail": "thumbnails/1dqd41g.webp",
     "tags": [
-      "Nupes",
-      "Nouveau Front Populaire",
-      "CSG",
-      "Trompeur ?"
+      "Retraites"
     ],
     "analyzed_at": "2026-11-01T10:59:20.303662+00:00"
   },
@@ -366,11 +319,9 @@
     "summary": "Joe Biden a manqué une occasion en or de faire taire les critiques sur son âge et son aptitude mentale, jeudi soir à Atlanta, lors de son premier débat face à Donald Trump en vue de la présidentielle…",
     "thumbnail": "thumbnails/1dqcxy7.webp",
     "tags": [
-      "Joe Biden",
       "Donald Trump",
-      "Présidentielle américaine",
-      "Atlanta",
-      "Politique"
+      "Joe Biden",
+      "Élection présidentielle"
     ],
     "analyzed_at": "2026-11-01T10:59:20.529525+00:00"
   },
@@ -392,10 +343,7 @@
     "summary": "",
     "thumbnail": "thumbnails/1dpznt7.webp",
     "tags": [
-      "Cyril Hanouna",
-      "Europe 1",
-      "Arcom",
-      "Société"
+      "Médias"
     ],
     "analyzed_at": "2026-11-01T10:59:21.138417+00:00"
   },
@@ -417,11 +365,8 @@
     "summary": "Investi par le Nouveau Front Populaire dans le Loir-et-Cher, le candidat de la France insoumise a publié de nombreux messages violents pendant plusieurs années.",
     "thumbnail": "thumbnails/1dpsj77.webp",
     "tags": [
-      "LFI",
-      "Reda Belkadi",
-      "Nouveau Front Populaire",
-      "Loir-et-Cher",
-      "Politique"
+      "Antisémitisme",
+      "LGBT+"
     ],
     "analyzed_at": "2026-11-01T10:59:20.603980+00:00"
   },
@@ -442,12 +387,7 @@
     "ingested_at": "2026-11-01T10:54:51.731497+00:00",
     "summary": "Jean-Luc Schaffhauser, l’eurodéputé qui a négocié le prêt russe au RN, dispose d’une fondation qui a touché des centaines de milliers d’euros en échange d’interventions en faveur de Moscou au Parleme…",
     "thumbnail": "thumbnails/1dpp9bf.webp",
-    "tags": [
-      "RN",
-      "Jean-Luc Schaffhauser",
-      "Moscou",
-      "Parleme"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:59:21.131484+00:00"
   },
   {
@@ -468,10 +408,7 @@
     "summary": "La CNCDH, Commission nationale consultative des droits de l’homme, remet chaque ann...",
     "thumbnail": "thumbnails/1dpou6m.webp",
     "tags": [
-      "CNCDH",
-      "Plan",
-      "Lantisémitisme",
-      "Politique"
+      "Antisémitisme"
     ],
     "analyzed_at": "2026-11-01T10:59:21.146432+00:00"
   },
@@ -493,11 +430,7 @@
     "summary": "L’apprenti de la boulangerie, un jeune homme d’origine malienne, était visé, selon les premiers éléments de l’enquête.",
     "thumbnail": "thumbnails/1dpo2vz.webp",
     "tags": [
-      "Avignon",
-      "Faits-divers",
-      "Société",
-      "International",
-      "Fait Divers"
+      "Racisme"
     ],
     "analyzed_at": "2026-11-01T10:59:20.934292+00:00"
   },
@@ -519,7 +452,8 @@
     "summary": "",
     "thumbnail": "thumbnails/1dp2wmf.webp",
     "tags": [
-      "RN"
+      "Racisme",
+      "Antisémitisme"
     ],
     "analyzed_at": "2026-11-01T10:59:21.428065+00:00"
   },
@@ -541,10 +475,7 @@
     "summary": "L'État américain enchaîne les records macabres depuis l'application de cette interdiction.",
     "thumbnail": "thumbnails/1dp0v64.webp",
     "tags": [
-      "Texas",
-      "États",
-      "État",
-      "Société"
+      "Droits des femmes"
     ],
     "analyzed_at": "2026-11-01T10:59:20.934927+00:00"
   },
@@ -565,12 +496,7 @@
     "ingested_at": "2026-11-01T10:54:51.732899+00:00",
     "summary": "L'automobiliste, qui refusait de partir d'une place réservée aux bus scolaires devant une école maternelle, a délibérément percuté le chauffeur de bus au niveau des jambes.",
     "thumbnail": "thumbnails/1dp0j1b.webp",
-    "tags": [
-      "RN",
-      "Val-de-Marne",
-      "Faits-divers",
-      "Fait Divers"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:59:21.093563+00:00"
   },
   {
@@ -591,11 +517,7 @@
     "summary": "Dans une tribune publiée par \"Le Nouvel Obs\", les scientifiques critiquent notamment l'impact du programme du RN sur le climat et l'environnement.",
     "thumbnail": "thumbnails/1dozbgp.webp",
     "tags": [
-      "RN",
-      "Nouvel Obs",
-      "Actualités élections législatives 2024",
-      "Elections en France",
-      "Politique"
+      "Extrême droite"
     ],
     "analyzed_at": "2026-11-01T10:59:21.424551+00:00"
   },
@@ -618,7 +540,7 @@
     "thumbnail": "thumbnails/1doyimg.webp",
     "tags": [
       "Alexandre Benalla",
-      "Politique"
+      "Justice"
     ],
     "analyzed_at": "2026-11-01T10:59:21.494078+00:00"
   },
@@ -640,10 +562,7 @@
     "summary": "Jordan Bardella souhaite maintenir l'abattement de 100.000 euros par enfant pour les donations, mais tous les 10 ans au lieu de tous les 15 ans.",
     "thumbnail": "thumbnails/1dotjdp.webp",
     "tags": [
-      "RN",
-      "Jordan Bardella",
-      "Rassemblement",
-      "Politique"
+      "Jordan Bardella"
     ],
     "analyzed_at": "2026-11-01T10:59:21.244369+00:00"
   },
@@ -665,9 +584,9 @@
     "summary": "",
     "thumbnail": "thumbnails/1docv0t.webp",
     "tags": [
-      "CRS",
-      "WhatsApp",
-      "Société"
+      "Police",
+      "Racisme",
+      "Antisémitisme"
     ],
     "analyzed_at": "2026-11-01T10:59:22.078581+00:00"
   },
@@ -691,9 +610,9 @@
     "tags": [
       "Yannick Jadot",
       "Jean-Luc Mélenchon",
-      "Marine le Pen",
-      "RN",
-      "Politique"
+      "Environnement",
+      "Marine Le Pen",
+      "Élections"
     ],
     "analyzed_at": "2026-11-01T10:59:21.537398+00:00"
   },
@@ -715,11 +634,8 @@
     "summary": "INFO LE PARISIEN. Le chef de l’État et les ténors de la majorité se sont retrouvés ce mardi en début après-midi, en visio, pendant plus d’un",
     "thumbnail": "thumbnails/1do8i8q.webp",
     "tags": [
-      "Macron",
-      "RN",
-      "LFI",
-      "État",
-      "Politique"
+      "Emmanuel Macron",
+      "Élections"
     ],
     "analyzed_at": "2026-11-01T10:59:21.496168+00:00"
   },
@@ -741,9 +657,8 @@
     "summary": "Le slogan et l’affiche de campagne du candidat d’extrême droite de la cinquième circonscription de Meurthe-et-Moselle (Grand Est) suscitent l’indignation.",
     "thumbnail": "thumbnails/1do61ch.webp",
     "tags": [
-      "Meurthe-et-Moselle",
-      "Grand",
-      "Politique"
+      "Extrême droite",
+      "Élections"
     ],
     "analyzed_at": "2026-11-01T10:59:21.671485+00:00"
   },
@@ -764,13 +679,7 @@
     "ingested_at": "2026-11-01T10:54:51.733423+00:00",
     "summary": "Les économistes Elvire Guillaud et Raul Sampognaro ont calculé les conséquences du programme du RN sur le niveau de vie des Français. Le résultat ? Un enrichis…",
     "thumbnail": "thumbnails/1dnz19w.webp",
-    "tags": [
-      "RN",
-      "Elvire Guillaud et Raul Sampognaro",
-      "Français",
-      "Rassemblement",
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:59:21.649735+00:00"
   },
   {
@@ -791,10 +700,7 @@
     "summary": "Ils sont préfet, brigadier-chef, commissaire, CRS ou major et ont, sous couvert d’anonymat, accepté de sortir de leur devoir de réserve. Plusieurs d’entre eux votent RN pour « privilégier les Françai…",
     "thumbnail": "thumbnails/1dnyz4h.webp",
     "tags": [
-      "RN",
-      "CRS",
-      "Françai",
-      "Politique"
+      "Police"
     ],
     "analyzed_at": "2026-11-01T10:59:22.248503+00:00"
   },
@@ -817,7 +723,7 @@
     "thumbnail": "thumbnails/1dnbcc1.webp",
     "tags": [
       "Jordan Bardella",
-      "Politique"
+      "Élections"
     ],
     "analyzed_at": "2026-11-01T10:59:21.919078+00:00"
   },
@@ -839,10 +745,9 @@
     "summary": "",
     "thumbnail": "thumbnails/1dnavol.webp",
     "tags": [
-      "RN",
       "Gabriel Attal",
-      "LFI",
-      "Politique"
+      "Racisme",
+      "Extrême gauche"
     ],
     "analyzed_at": "2026-11-01T10:59:22.372090+00:00"
   },
@@ -865,8 +770,7 @@
     "thumbnail": "thumbnails/1dnauin.webp",
     "tags": [
       "Jordan Bardella",
-      "Rassemblement",
-      "Politique"
+      "Éducation"
     ],
     "analyzed_at": "2026-11-01T10:59:21.611436+00:00"
   },
@@ -887,13 +791,7 @@
     "ingested_at": "2026-11-01T10:54:51.732002+00:00",
     "summary": "Cyril Hanouna anime depuis lundi 17 juin une émission de décryptage politique sur Europe 1. Ce qui a déjà valu à la radio privée – sous pavillon Bolloré – une mise en garde de l’Arcom. Et ce qui a provoqué des gros remous au sein de la rédaction.",
     "thumbnail": "thumbnails/1dn9qw3.webp",
-    "tags": [
-      "Cyril Hanouna",
-      "Europe 1",
-      "ENQUETE FRANCEINFO",
-      "Bolloré",
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:59:21.870698+00:00"
   },
   {
@@ -913,13 +811,7 @@
     "ingested_at": "2026-11-01T10:54:51.733614+00:00",
     "summary": "L’animatrice du « Grand Dimanche soir » sur France Inter, Charline Vanhoenacker...",
     "thumbnail": "thumbnails/1dn807e.webp",
-    "tags": [
-      "Grand",
-      "Charline Vanhoenacker",
-      "France Inter",
-      "Guillaume Meurice",
-      "Culture"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:59:23.012490+00:00"
   },
   {
@@ -939,13 +831,7 @@
     "ingested_at": "2026-11-01T10:54:51.733685+00:00",
     "summary": "VIDÉO - L’ancien Premier ministre, Lionel Jospin, était l’invité de Benjamin Duhamel dans C’est pas tous les jours dimanche, sur BFMTV.",
     "thumbnail": "thumbnails/1dmtecv.webp",
-    "tags": [
-      "Lionel Jospin",
-      "RN",
-      "Premier",
-      "Benjamin Duhamel",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:59:22.078105+00:00"
   },
   {
@@ -966,11 +852,8 @@
     "summary": "VIDÉO - François Hollande, candidat Nouveau Front populaire en Corrèze, était en campagne dans son département ce dimanche.",
     "thumbnail": "thumbnails/1dmmqdk.webp",
     "tags": [
-      "Nouveau Front",
       "François Hollande",
-      "Jean-Luc Mélenchon",
-      "Corrèze",
-      "Politique"
+      "Jean-Luc Mélenchon"
     ],
     "analyzed_at": "2026-11-01T10:59:22.231640+00:00"
   },
@@ -991,12 +874,7 @@
     "ingested_at": "2026-11-01T10:54:51.734240+00:00",
     "summary": "Le premier youtubeur de France a donné une interview au média en ligne Brut, dans laquelle il annonce qu’il accepterait un poste de ministre",
     "thumbnail": "thumbnails/1dmd4k7.webp",
-    "tags": [
-      "Tibo InShape",
-      "Sports",
-      "Brut",
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:59:22.260120+00:00"
   },
   {
@@ -1017,11 +895,8 @@
     "summary": "Les réactions pleuvent depuis la diffusion jeudi soir d’un reportage de l’émiss...",
     "thumbnail": "thumbnails/1dm1xlr.webp",
     "tags": [
-      "Marine le Pen",
-      "Envoyé Spécial",
-      "RN",
-      "« Est-ce",
-      "Politique"
+      "Marine Le Pen",
+      "Racisme"
     ],
     "analyzed_at": "2026-11-01T10:59:23.525638+00:00"
   },
@@ -1043,7 +918,7 @@
     "summary": "",
     "thumbnail": "thumbnails/1dlnteh.webp",
     "tags": [
-      "Politique"
+      "Élections"
     ],
     "analyzed_at": "2026-11-01T10:59:22.990560+00:00"
   },
@@ -1065,10 +940,8 @@
     "summary": "Les prochaines élections législatives, provoquées par Emmanuel Macron, font surgir...",
     "thumbnail": "thumbnails/1dldg3g.webp",
     "tags": [
-      "Divine",
       "Emmanuel Macron",
-      "« Va",
-      "Niche »"
+      "Racisme"
     ],
     "analyzed_at": "2026-11-01T10:59:24.428384+00:00"
   },
@@ -1090,11 +963,8 @@
     "summary": "Le manifeste de défense de la liberté de la presse face à l’extrême-droite provoque des remous à France Télévisions. Au siège parisien de France 3, les membres de la société des journalistes qui ont soutenu le texte subissent des représailles : selon les…",
     "thumbnail": "thumbnails/1dl8b8j.webp",
     "tags": [
-      "BLAST",
-      "France TV",
-      "France Télévisions",
-      "France 3",
-      "Politique"
+      "Extrême droite",
+      "Médias"
     ],
     "analyzed_at": "2026-11-01T10:59:30.931211+00:00"
   },
@@ -1115,7 +985,9 @@
     "ingested_at": "2026-11-01T10:54:51.732129+00:00",
     "summary": "Placé en garde à vue pour un tag « Bardella meurt », le 10 juin, un homme de 31 ans dénonce des injures de la part des policiers et un « comité d’accueil » un peu particulier au commissariat. La préf…",
     "thumbnail": "thumbnails/1dl7fi4.webp",
-    "tags": [],
+    "tags": [
+      "Jordan Bardella"
+    ],
     "analyzed_at": "2026-11-01T10:59:22.932769+00:00"
   },
   {
@@ -1136,11 +1008,8 @@
     "summary": "Si la gauche est absente du second tour des élections législatives, \"nous appellerons à voter contre le Rassemblement national (...) C'est ce que nous avons toujours fait\", a déclaré Mathilde Panot sur BFMTV-RMC.",
     "thumbnail": "thumbnails/1dl46b4.webp",
     "tags": [
-      "RN",
-      "LFI",
-      "Mathilde Panot",
-      "Rassemblement",
-      "Politique"
+      "Élections",
+      "Mathilde Panot"
     ],
     "analyzed_at": "2026-11-01T10:59:22.947321+00:00"
   },
@@ -1162,7 +1031,7 @@
     "summary": "",
     "thumbnail": "thumbnails/1dl23o0.webp",
     "tags": [
-      "RN"
+      "Antisémitisme"
     ],
     "analyzed_at": "2026-11-01T10:59:23.067817+00:00"
   },
@@ -1184,11 +1053,8 @@
     "summary": "Dans une pétition, des chefs d'établissements, inspecteurs pédagogiques, d'académie et généraux, disent craindre pour les valeurs de l'école en cas d'accession au pouvoir du parti d'extrême droite.",
     "thumbnail": "thumbnails/1dkyyvx.webp",
     "tags": [
-      "Education",
-      "RN",
-      "Fonctionnaires Etat",
-      "Rassemblement",
-      "République"
+      "Éducation",
+      "Élections"
     ],
     "analyzed_at": "2026-11-01T10:59:23.353653+00:00"
   },
@@ -1210,39 +1076,9 @@
     "summary": "La fillette, âgée de 10 ans, a été hospitalisée pendant près d’une semaine après avoir été rouée de coups dans sa cour de récréation par cinq élèves qui la harcelaient. La mère de la victime a déposé plainte et soupçonne l’école de vouloir étouffer l’affaire.",
     "thumbnail": "thumbnails/1dkwaf7.webp",
     "tags": [
-      "Marseille",
-      "CM1",
-      "Agression",
-      "École",
-      "Fait Divers"
+      "Éducation"
     ],
     "analyzed_at": "2026-11-01T10:59:23.495957+00:00"
-  },
-  {
-    "id": "1dkhpwg",
-    "title": "\"Si j'ai été déportée c'est parce que l'extrême droite était au pouvoir\" : Ginette Kolinka fustige les propos tenus par Serge Klarsfeld",
-    "url": "https://actu.orange.fr/france/si-j-ai-ete-deportee-c-est-parce-que-l-extreme-droite-etait-au-pouvoir-ginette-kolinka-fustige-les-propos-tenus-par-serge-klarsfeld-magic-CNT000002ecGVy.html",
-    "permalink": "/r/france/comments/1dkhpwg/si_jai_été_déportée_cest_parce_que_lextrême/",
-    "created_at": "2024-06-20T17:44:38+00:00",
-    "score": 426,
-    "num_comments": 121,
-    "subreddit": "france",
-    "author": "roux-cool",
-    "flair": "Culture",
-    "domain": "actu.orange.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/_6q7SqLIanT13nFAtHBbeoNeER2mPfFdBBMGcnUoubM.jpg?auto=webp&s=4ebfba1c9847ccb2d77f9043d63824e14cfcb4a0",
-    "ingested_at": "2026-11-01T10:54:51.732394+00:00",
-    "summary": "Invitée au micro de franceinfo mercredi 19 juin, Ginette Kolinka, rescapée de la Shoah, a rappelé les dangers des extrêmes et réagi aux propos de Serge Klarsfeld qui avait indiqué son intention de voter pour un candidat du Rassemblement national si celui-ci était opposé à la gauche.",
-    "thumbnail": "thumbnails/1dkhpwg.webp",
-    "tags": [
-      "Ginette Kolinka",
-      "Serge Klarsfeld",
-      "Rassemblement",
-      "Shoah",
-      "Culture"
-    ],
-    "analyzed_at": "2026-11-01T10:59:24.538579+00:00"
   },
   {
     "id": "1dkeozo",
@@ -1262,11 +1098,8 @@
     "summary": "L’ancien éditorialiste de CNews Guillaume Bigot défend «l’union des droites» dans le Territoire de Belfort, où ses adversaires locaux ne l’ont pas épargné lors d’un débat.",
     "thumbnail": "thumbnails/1dkeozo.webp",
     "tags": [
-      "RN",
-      "Territoire de Belfort",
-      "Rassemblement national",
-      "CNews Guillaume Bigot",
-      "Politique"
+      "Médias",
+      "Élections"
     ],
     "analyzed_at": "2026-11-01T10:59:24.423275+00:00"
   },
@@ -1288,8 +1121,6 @@
     "summary": "",
     "thumbnail": "thumbnails/1dk9rsj.webp",
     "tags": [
-      "Matthieu Pigasse",
-      "Nouveau Front",
       "Économie"
     ],
     "analyzed_at": "2026-11-01T10:59:23.729175+00:00"
@@ -1313,10 +1144,7 @@
     "thumbnail": "thumbnails/1dk923e.webp",
     "tags": [
       "Gabriel Attal",
-      "Attal",
-      "Premier",
-      "Supplémentaire»",
-      "Politique"
+      "Travail"
     ],
     "analyzed_at": "2026-11-01T10:59:24.730563+00:00"
   },
@@ -1338,8 +1166,7 @@
     "summary": "Une cinquantaine de militants d’extrême droite ont effectué une descente, vendredi 14 juin, après une manifestation contre le RN. Ce n’est pas la première fois que ces démonstrations de force ciblent…",
     "thumbnail": "thumbnails/1dk7fmq.webp",
     "tags": [
-      "Lyon",
-      "RN"
+      "Extrême droite"
     ],
     "analyzed_at": "2026-11-01T10:59:24.919140+00:00"
   },
@@ -1361,11 +1188,8 @@
     "summary": "Candidat promu par Eric Ciotti et soutenu par le Rassemblement National en Meurthe-et-Moselle, Louis-Joseph Pecher a pourtant enchaÃ®nÃ© les tweets antisÃ©mites, racistes, sexistes, homophobes ces derniers mois sur son compte X-Twitter. RÃ©vÃ©lations.",
     "thumbnail": "thumbnails/1dk5p8x.webp",
     "tags": [
-      "Louis-Joseph Pecher",
-      "Ciotti et du RN",
-      "Eric Ciotti",
-      "Â Â",
-      "Politique"
+      "Éric Ciotti",
+      "Antisémitisme"
     ],
     "analyzed_at": "2026-11-01T10:59:23.744614+00:00"
   },
@@ -1387,9 +1211,7 @@
     "summary": "",
     "thumbnail": "thumbnails/1dk4vkc.webp",
     "tags": [
-      "Macron",
-      "RN",
-      "Politique"
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T10:59:24.165758+00:00"
   },
@@ -1411,7 +1233,7 @@
     "summary": "Une vingtaine de militants d’extrême droite montpelliérains accumulent les actes d’intimidation et les agressions violentes. Le 1er juin, ils s’en sont pris à une jeune femme trans avant de passer à …",
     "thumbnail": "thumbnails/1djvk0w.webp",
     "tags": [
-      "Montpellier"
+      "Extrême droite"
     ],
     "analyzed_at": "2026-11-01T10:59:24.741593+00:00"
   },
@@ -1433,11 +1255,7 @@
     "summary": "La vedette de C8, chaîne dans le giron du milliardaire conservateur Vincent Bolloré...",
     "thumbnail": "thumbnails/1djs40x.webp",
     "tags": [
-      "Cyril Hanouna",
-      "Europe 1",
-      "Arcom",
-      "C8",
-      "Vincent Bolloré"
+      "Médias"
     ],
     "analyzed_at": "2026-11-01T10:59:25.846904+00:00"
   },
@@ -1459,9 +1277,7 @@
     "summary": "",
     "thumbnail": "thumbnails/1djrzp7.webp",
     "tags": [
-      "Rassemblement",
-      "Dominique de Villepin",
-      "Politique"
+      "Dominique de Villepin"
     ],
     "analyzed_at": "2026-11-01T10:59:24.998384+00:00"
   },
@@ -1482,12 +1298,7 @@
     "ingested_at": "2026-11-01T10:54:51.733102+00:00",
     "summary": "Dans un désir de « s’adresser à tous les Français », Marc-Olivier Fogiel, le patron de BFMTV, a demandé aux programmateurs de « veiller à l’équilibre des plateaux ». Une liste d’éditorialistes réact…",
     "thumbnail": "thumbnails/1djk93a.webp",
-    "tags": [
-      "BFMTV",
-      "Français",
-      "Marc-Olivier Fogiel",
-      "RN"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:59:25.818404+00:00"
   },
   {
@@ -1507,13 +1318,7 @@
     "ingested_at": "2026-11-01T10:54:51.732027+00:00",
     "summary": "Dans cette période de bouleversement politique, «Libération» est allé prendre la température dans les salles des profs, où le vote s’est droitisé au fil du temps mais où les valeurs de gauche continuent d’animer nombre d’enseignants, effray",
     "thumbnail": "thumbnails/1djgm3b.webp",
-    "tags": [
-      "RN",
-      "Education & Learning",
-      "Extreme-droite",
-      "Legislatives-elections",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:59:28.681627+00:00"
   },
   {
@@ -1534,11 +1339,7 @@
     "summary": "Quelques jours après la déclaration de Serge Klarsfeld qui a choisi de voter à l'extrême droite en cas de duel avec la gauche, Ginette Kolinka confie son inquiétude face à la montée de l'extrême droite en France et en Europe.",
     "thumbnail": "thumbnails/1dje8ii.webp",
     "tags": [
-      "Ginette Kolinka",
-      "Auschwitz-Birkenau",
-      "Serge Klarsfeld",
-      "Auschwitz",
-      "Europe"
+      "Extrême droite"
     ],
     "analyzed_at": "2026-11-01T10:59:25.054665+00:00"
   },
@@ -1559,12 +1360,7 @@
     "ingested_at": "2026-11-01T10:54:51.732156+00:00",
     "summary": "Alors que la police tentait de procéder à un contrôle routier samedi, l’ancien député « a continué sa route, a fait brusquement demi-tour, p",
     "thumbnail": "thumbnails/1djcztl.webp",
-    "tags": [
-      "Paris",
-      "Parisien",
-      "Joachim Son-Forget",
-      "Fait Divers"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:59:25.226442+00:00"
   },
   {
@@ -1585,11 +1381,9 @@
     "summary": "D’après l’hebdomadaire, la nièce de Marine Le Pen aurait grassement rémunéré ses amis avant de prendre la porte du parti d’Eric Zemmour.",
     "thumbnail": "thumbnails/1dj1zdg.webp",
     "tags": [
-      "Reconquête",
       "Marion Maréchal",
-      "Eric Zemmour",
-      "Marine le Pen",
-      "Politique"
+      "Éric Zemmour",
+      "Marine Le Pen"
     ],
     "analyzed_at": "2026-11-01T10:59:27.922588+00:00"
   },
@@ -1612,9 +1406,7 @@
     "thumbnail": "thumbnails/1diyzdt.webp",
     "tags": [
       "Emmanuel Macron",
-      "Sein",
-      "Assemblée",
-      "Politique"
+      "Extrême gauche"
     ],
     "analyzed_at": "2026-11-01T10:59:25.261930+00:00"
   },
@@ -1636,7 +1428,8 @@
     "summary": "",
     "thumbnail": "thumbnails/1div9y9.webp",
     "tags": [
-      "Fait Divers"
+      "Antisémitisme",
+      "Violences sexuelles"
     ],
     "analyzed_at": "2026-11-01T10:59:25.568409+00:00"
   },
@@ -1658,11 +1451,8 @@
     "summary": "Le Rassemblement national a investi au moins quinze candidats qui ont effectué des missions de caution électorale pour la Russie ou des visites à haut niveau à Moscou, ou bien qui ont été à la tête d…",
     "thumbnail": "thumbnails/1dit6bj.webp",
     "tags": [
-      "RN",
-      "Russie de Poutine",
-      "Rassemblement",
-      "Russie",
-      "Moscou"
+      "Vladimir Poutine",
+      "Élections"
     ],
     "analyzed_at": "2026-11-01T10:59:26.080956+00:00"
   },
@@ -1684,11 +1474,7 @@
     "summary": "Initié par un collectif de jeunes chrétiens, ce texte a été signé par 10 000 chrétiens, dont des représentants protestants et plus de 70 prêtres. Ils appellent l’ensemble des fidèles français à « voter massivement » contre le RN aux élections législatives des 30 juin et 7 juillet prochains.",
     "thumbnail": "thumbnails/1dirrs5.webp",
     "tags": [
-      "RN",
-      "Rassemblement",
-      "Position de l'Église",
-      "Catholicisme",
-      "Politique"
+      "Extrême droite"
     ],
     "analyzed_at": "2026-11-01T10:59:25.884344+00:00"
   },
@@ -1711,10 +1497,7 @@
     "thumbnail": "thumbnails/1dinsic.webp",
     "tags": [
       "Emmanuel Macron",
-      "Macron",
-      "Dissolution de l'Assemblée nationale",
-      "Élections législatives",
-      "État"
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T10:59:26.839144+00:00"
   },
@@ -1736,11 +1519,10 @@
     "summary": "Comme à chaque élection, nombre de candidats soutenus par le parti d’extrême droite se distinguent par d’indéfendables propos publics. Révélations sur les possibles futurs députés lepénistes.",
     "thumbnail": "thumbnails/1di5jpm.webp",
     "tags": [
-      "Rassemblement",
-      "RN",
-      "Politics",
-      "Extreme-droite",
-      "Legislatives-elections"
+      "Élections",
+      "Racisme",
+      "Antisémitisme",
+      "Extrême droite"
     ],
     "analyzed_at": "2026-11-01T10:59:39.773943+00:00"
   },
@@ -1761,10 +1543,7 @@
     "ingested_at": "2026-11-01T10:54:51.732468+00:00",
     "summary": "En annonçant, tard dans la soirée, une alliance en vue des législatives anticipées, les partis de gauche ont bousculé les équilibres politiques, mais aussi les plateaux des chaînes d'info en continu. Comment ont réagi à cette nouvelle les éditorialistes de BFMTV, CNews et LCI ? Assez mal.",
     "thumbnail": "thumbnails/1di3v1q.webp",
-    "tags": [
-      "BFMTV",
-      "LCI"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:59:28.351295+00:00"
   },
   {
@@ -1785,11 +1564,8 @@
     "summary": "Son président Samuel Lejoyeux estime que l'historien Serge Klarsfeld est \"tombé dans un piège\" en annonçant qu'il voterait pour le Rassemblement national au second tour des législatives en cas de duel avec La France insoumise.",
     "thumbnail": "thumbnails/1dhypmf.webp",
     "tags": [
-      "RN",
-      "Union",
-      "Samuel Lejoyeux",
-      "Serge Klarsfeld",
-      "Politique"
+      "Élections",
+      "Éducation"
     ],
     "analyzed_at": "2026-11-01T10:59:26.232749+00:00"
   },
@@ -1812,34 +1588,10 @@
     "thumbnail": "thumbnails/1dhul4k.webp",
     "tags": [
       "Éric Ciotti",
-      "Nice",
-      "Républicains",
-      "Anticor",
-      "Politique"
+      "Corruption",
+      "Élections"
     ],
     "analyzed_at": "2026-11-01T10:59:26.585078+00:00"
-  },
-  {
-    "id": "1dhuk0o",
-    "title": "J'ai créé un site open-source pour choisir sa liste aux législatives françaises, basé sur les votes parlementaires",
-    "url": "https://votefinder.fr/",
-    "permalink": "/r/france/comments/1dhuk0o/jai_créé_un_site_opensource_pour_choisir_sa_liste/",
-    "created_at": "2024-06-17T10:08:45+00:00",
-    "score": 396,
-    "num_comments": 168,
-    "subreddit": "france",
-    "author": "arnaudsm",
-    "flair": "Politique",
-    "domain": "votefinder.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/SdSuGM-9cc_fZdj4y2XKIjo0RIvyJDyQFKv1CMY8ZCQ.png?auto=webp&s=7b0b096dd6b445cef96fe079e9da0089e38f5fc6",
-    "ingested_at": "2026-11-01T10:54:51.732604+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/1dhuk0o.webp",
-    "tags": [
-      "Politique"
-    ],
-    "analyzed_at": "2026-11-01T10:59:26.535764+00:00"
   },
   {
     "id": "1dhqt6q",
@@ -1859,9 +1611,7 @@
     "summary": "Samedi soir, un petit groupe de nationalistes armé de bombes lacrymogènes a semé la panique dans une guinguette populaire de la ville. Une personne a été transportée aux urgences.",
     "thumbnail": "thumbnails/1dhqt6q.webp",
     "tags": [
-      "Angers",
-      "Politics",
-      "Extreme-droite"
+      "Extrême droite"
     ],
     "analyzed_at": "2026-11-01T10:59:31.437527+00:00"
   },
@@ -1884,7 +1634,8 @@
     "thumbnail": "thumbnails/1dhea76.webp",
     "tags": [
       "Gabriel Attal",
-      "Politique"
+      "Retraites",
+      "Économie"
     ],
     "analyzed_at": "2026-11-01T10:59:37.955036+00:00"
   },
@@ -1906,11 +1657,7 @@
     "summary": "",
     "thumbnail": "thumbnails/1dhb8x6.webp",
     "tags": [
-      "RN",
-      "LFI",
-      "Vinci et Eiffage",
-      "Bourse",
-      "Politique"
+      "Élections"
     ],
     "analyzed_at": "2026-11-01T10:59:36.480028+00:00"
   },
@@ -1932,11 +1679,7 @@
     "summary": "En conférence de presse à Düsseldorf (Allemagne), dimanche, le capitaine de l'équipe de France a insisté sur le fait qu'il ne voulait pas \"représenter un pays qui ne correspond pas à [ses] valeurs\".",
     "thumbnail": "thumbnails/1dhacll.webp",
     "tags": [
-      "Kylian Mbappé",
-      "Euro 2025",
-      "Düsseldorf",
-      "Sports",
-      "Politique"
+      "Élections"
     ],
     "analyzed_at": "2026-11-01T10:59:28.303905+00:00"
   },
@@ -1959,10 +1702,8 @@
     "thumbnail": "thumbnails/1dgf67m.webp",
     "tags": [
       "Adrien Quatennens",
-      "Amy Bah",
-      "Nouveau Front",
-      "Nord",
-      "Politique"
+      "Droits des femmes",
+      "Élections"
     ],
     "analyzed_at": "2026-11-01T10:59:28.625957+00:00"
   },
@@ -1984,11 +1725,7 @@
     "summary": "\"Il faut se mobiliser pour aller voter\", avait affirmé avant lui Ousmane Dembélé, sans toutefois nommer le parti d'extrême droite.",
     "thumbnail": "thumbnails/1dgf3ai.webp",
     "tags": [
-      "Marcus Thuram",
-      "RN",
-      "Bleus",
-      "Euro 2025",
-      "Politique"
+      "Élections"
     ],
     "analyzed_at": "2026-11-01T10:59:28.746073+00:00"
   },
@@ -2010,11 +1747,7 @@
     "summary": "La France insoumise a investi pour les législatives le député du Nord Adrien Quatennens, condamné pour violences conjugales, tout en écartant plusieurs figures ayant exprimé des critiques contre la direction du parti. Plusieurs personnalités chez LFI dénoncent une \"purge\".",
     "thumbnail": "thumbnails/1dgb55e.webp",
     "tags": [
-      "LFI",
-      "Corbière",
-      "Simonnet",
-      "Nord Adrien Quatennens",
-      "Politique"
+      "Adrien Quatennens"
     ],
     "analyzed_at": "2026-11-01T10:59:28.992217+00:00"
   },
@@ -2036,11 +1769,7 @@
     "summary": "Le célèbre youtubeur a publié une lettre sur ses réseaux sociaux, pour « tous les jeunes qui (le) suivent ».",
     "thumbnail": "thumbnails/1dfrr0n.webp",
     "tags": [
-      "Squeezie",
-      "Voter RN",
-      "YouTube",
-      "Législatives 2024",
-      "Politique"
+      "Extrême droite"
     ],
     "analyzed_at": "2026-11-01T10:59:29.002809+00:00"
   },
@@ -2062,11 +1791,10 @@
     "summary": "Le texte prévoit de \"reconnaître immédiatement l'État de Palestine aux côtés de l'État d'Israël\", de \"décréter un embargo sur les livraisons d'armes à Israël\" et de \"rompre avec le soutien coupable\" de Paris au \"gouvernement suprémaciste d'extrême droite de Netanyahu\"",
     "thumbnail": "thumbnails/1dfqqhk.webp",
     "tags": [
-      "Israël",
-      "Hamas",
-      "Times",
-      "État de Palestine",
-      "Société"
+      "Conflit israélo-palestinien",
+      "Justice",
+      "Terrorisme",
+      "Benyamin Netanyahou"
     ],
     "analyzed_at": "2026-11-01T10:59:31.011982+00:00"
   },
@@ -2088,39 +1816,9 @@
     "summary": "Qu’il ait remis ou non la main sur les codes Twitter du parti, peu importe : Éric Ciotti vient de toute façon d’éparpiller Internet façon puzzle. Petit best of.",
     "thumbnail": "thumbnails/1dfjmaq.webp",
     "tags": [
-      "Éric Ciotti",
-      "Les Républicains",
-      "Twitter",
-      "Internet",
-      "Politique"
+      "Éric Ciotti"
     ],
     "analyzed_at": "2026-11-01T10:59:29.423552+00:00"
-  },
-  {
-    "id": "1dfexsx",
-    "title": "Le Parti Pirate soutient le nouveau Front Populaire",
-    "url": "https://www.entrevue.fr/le-parti-pirate-soutient-le-nouveau-front-populaire/",
-    "permalink": "/r/france/comments/1dfexsx/le_parti_pirate_soutient_le_nouveau_front/",
-    "created_at": "2024-06-14T01:13:47+00:00",
-    "score": 277,
-    "num_comments": 53,
-    "subreddit": "france",
-    "author": "amorpisseur",
-    "flair": "Politique",
-    "domain": "entrevue.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/C1zlwBESUlcvtQXpKBWPGbvuwMofVtQPDzduw5Knuzc.jpeg?auto=webp&s=9ab2b98057c5dcd568d2b494226321530ab3f3e2",
-    "ingested_at": "2026-11-01T10:54:51.733886+00:00",
-    "summary": "Le Parti Pirate a décidé de soutenir le Nouveau Front Populaire pour les élections législatives, afin de contrer la montée du RN.",
-    "thumbnail": "thumbnails/1dfexsx.webp",
-    "tags": [
-      "Parti Pirate",
-      "Front Populaire",
-      "Nouveau Front Populaire",
-      "RN",
-      "Politique"
-    ],
-    "analyzed_at": "2026-11-01T10:59:29.761209+00:00"
   },
   {
     "id": "1dew28u",
@@ -2140,36 +1838,10 @@
     "summary": "L'eurodéputé Les Républicains (LR), François-Xavier Bellamy, a indiqué jeudi qu'il voterait \"bien sûr\" pour le RN face à un candidat de l'alliance de gauche Front populaire s'il était dans une circonscription où LR est absent du second tour des législatives.",
     "thumbnail": "thumbnails/1dew28u.webp",
     "tags": [
-      "LR",
-      "François-Xavier Bellamy",
-      "RN",
-      "Républicains",
-      "Politique"
+      "Élections",
+      "Extrême droite"
     ],
     "analyzed_at": "2026-11-01T10:59:29.713594+00:00"
-  },
-  {
-    "id": "1deu3vp",
-    "title": "Pendant ce temps au 238 rue de Vaugirard",
-    "url": "https://cdn.imgchest.com/files/l4necnmr5v4.jpg",
-    "permalink": "/r/france/comments/1deu3vp/pendant_ce_temps_au_238_rue_de_vaugirard/",
-    "created_at": "2024-06-13T08:33:28+00:00",
-    "score": 788,
-    "num_comments": 70,
-    "subreddit": "france",
-    "author": "Amiral_Poitou",
-    "flair": "Humour",
-    "domain": "cdn.imgchest.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/Xzrj6KBvkh5QgwdnX_bs2tzluE5n3Bt9bDT2yPdboMA.jpeg?auto=webp&s=9ca155dc4776d3915381d5f1443009ac1945deb4",
-    "ingested_at": "2026-11-01T10:54:51.731530+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/1deu3vp.webp",
-    "tags": [
-      "Vaugirard",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T10:59:30.480049+00:00"
   },
   {
     "id": "1detsg4",
@@ -2189,37 +1861,9 @@
     "summary": "",
     "thumbnail": "thumbnails/1detsg4.webp",
     "tags": [
-      "Eric Ciotti",
-      "Vincent Bolloré",
-      "RN"
+      "Éric Ciotti"
     ],
     "analyzed_at": "2026-11-01T10:59:30.116223+00:00"
-  },
-  {
-    "id": "1desz3g",
-    "title": "Cyril Hanouna (TPMP) annonce \"quitter la France si la France Insoumise arrive au pouvoir\"",
-    "url": "https://www.mariefrance.fr/news-people/cyril-hanouna-tpmp-annonce-quitter-france-france-insoumise-arrive-pouvoir-1037498.html",
-    "permalink": "/r/france/comments/1desz3g/cyril_hanouna_tpmp_annonce_quitter_la_france_si/",
-    "created_at": "2024-06-13T07:12:46+00:00",
-    "score": 1419,
-    "num_comments": 416,
-    "subreddit": "france",
-    "author": "kita59",
-    "flair": "Politique",
-    "domain": "mariefrance.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/VRt2q0tAsDDUAvbUGtdisjrz2U1JDIt7ai-_OXYHpuw.jpeg?auto=webp&s=2f1294b7b4a8ed841b8de3de4ea990cc1bd0329b",
-    "ingested_at": "2026-11-01T10:54:51.731393+00:00",
-    "summary": "Lors de l'émission du 12 juin 2024, Cyril Hanouna a annoncé quitter le pays si le parti de Jean-Luc Mélanchon arrivait au pouvoir.",
-    "thumbnail": "thumbnails/1desz3g.webp",
-    "tags": [
-      "Cyril Hanouna",
-      "TPMP",
-      "France Insoumise",
-      "Jean-Luc Mélanchon",
-      "Politique"
-    ],
-    "analyzed_at": "2026-11-01T10:59:30.316800+00:00"
   },
   {
     "id": "1dekh8w",
@@ -2239,61 +1883,9 @@
     "summary": "Le parti Les Républicains, proche de l'implosion, a connu mercredi une journée \"surréaliste\", avec des cadres en guerre ouverte contre leur président Éric Ciotti, isolé dans son choix de s'allier au…",
     "thumbnail": "thumbnails/1dekh8w.webp",
     "tags": [
-      "Éric Ciotti",
-      "LR",
-      "Législatives françaises 2024",
-      "Les Républicains",
-      "Politique"
+      "Éric Ciotti"
     ],
     "analyzed_at": "2026-11-01T10:59:30.643059+00:00"
-  },
-  {
-    "id": "1dehfsm",
-    "title": "Guillaume Meurice annonce qu’il s’exprimera tous les jours sur la BBC depuis Londres",
-    "url": "https://www.legorafi.fr/2024/06/12/guillaume-meurice-annonce-quil-sexprimera-tous-les-jours-sur-la-bbc-depuis-londres/",
-    "permalink": "/r/france/comments/1dehfsm/guillaume_meurice_annonce_quil_sexprimera_tous/",
-    "created_at": "2024-06-12T21:00:44+00:00",
-    "score": 552,
-    "num_comments": 50,
-    "subreddit": "france",
-    "author": "Demondriver",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/H-8FiWdRLmrCHqffMTVMeW-B4hPz-WrTge9jpjhlI5I.png?auto=webp&s=1324640daaa36593f073bf8a6bb61ec274931822",
-    "ingested_at": "2026-11-01T10:54:51.731883+00:00",
-    "summary": "Au lendemain de l'annonce de son licenciement par Radio France suite à une blague sur Benjamin Netanyahou, l'humoriste rebondit outre-Manche dans un billet d'humeur diffusé sur les ondes de la BBC.",
-    "thumbnail": "thumbnails/1dehfsm.webp",
-    "tags": [
-      "BBC",
-      "Guillaume Meurice",
-      "Londres",
-      "Radio France",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T10:59:30.873311+00:00"
-  },
-  {
-    "id": "1deflax",
-    "title": "La stat du jour 🕊️",
-    "url": "https://cdn.imgchest.com/files/j7mmc3rmzp7.png",
-    "permalink": "/r/france/comments/1deflax/la_stat_du_jour/",
-    "created_at": "2024-06-12T19:43:43+00:00",
-    "score": 499,
-    "num_comments": 94,
-    "subreddit": "france",
-    "author": "Amiral_Poitou",
-    "flair": "Politique",
-    "domain": "cdn.imgchest.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/o0VnStNMWnBzKaEhohcHkNufZCKgN9CxZpxIL78zTlo.png?auto=webp&s=5aab60b563b7e805a3a1fb9783f5b792209b43fc",
-    "ingested_at": "2026-11-01T10:54:51.731979+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/1deflax.webp",
-    "tags": [
-      "Politique"
-    ],
-    "analyzed_at": "2026-11-01T10:59:31.465089+00:00"
   },
   {
     "id": "1de9fuj",
@@ -2313,10 +1905,8 @@
     "summary": "INFO LE PARISIEN. Quatre militants d’ultradroite ont été interpellés dans la nuit de dimanche à lundi après une agression ponctuée d’insulte",
     "thumbnail": "thumbnails/1de9fuj.webp",
     "tags": [
-      "RN",
-      "Paris",
-      "PARISIEN",
-      "Fait Divers"
+      "Extrême droite",
+      "LGBT+"
     ],
     "analyzed_at": "2026-11-01T10:59:31.146526+00:00"
   },
@@ -2337,37 +1927,8 @@
     "ingested_at": "2026-11-01T10:54:51.733758+00:00",
     "summary": "Comment lui dire adieu? La chanteuse Françoise Hardy, révélée dans les années 1960 par le tube Tous les garçons et les filles, vient de s'éteindre à l'âge de 80 ans.",
     "thumbnail": "thumbnails/1ddq2gw.webp",
-    "tags": [
-      "Françoise Hardy",
-      "Culture"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:59:31.116580+00:00"
-  },
-  {
-    "id": "1ddo9xg",
-    "title": "Eric Ciotti en 2018 : «Les choses sont claires : jamais d'alliance avec le Front national !» | INA",
-    "url": "https://www.ina.fr/ina-eclaire-actu/eric-ciotti-republicains-alliance-front-national-politique",
-    "permalink": "/r/france/comments/1ddo9xg/eric_ciotti_en_2018_les_choses_sont_claires/",
-    "created_at": "2024-06-11T20:29:25+00:00",
-    "score": 336,
-    "num_comments": 52,
-    "subreddit": "france",
-    "author": "[deleted]",
-    "flair": "Politique",
-    "domain": "ina.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/aeiM0pHuwB8QNej14uFpsVykGFemGSWL9fTY--Vx85k.jpg?auto=webp&s=54d84c95a908d21b4cd7ed513fd8f19b1b6895e6",
-    "ingested_at": "2026-11-01T10:54:51.733343+00:00",
-    "summary": "À Nice, Eric Ciotti est allié avec le RN pour les élections municipales de 2026. Un rapprochement que l'ancien président de LR avait entamé dès 2024. À l'époque, cette décision avait provoqué un séisme au sein de son parti.",
-    "thumbnail": "thumbnails/1ddo9xg.webp",
-    "tags": [
-      "Eric Ciotti",
-      "Front",
-      "INA",
-      "LR",
-      "Politique"
-    ],
-    "analyzed_at": "2026-11-01T10:59:32.161383+00:00"
   },
   {
     "id": "1ddnca4",
@@ -2387,8 +1948,7 @@
     "summary": "En 24 heures, le sort du fondateur de Place publique a complètement basculé, au point que l’union de la gauche est en train de se faire sans lui, voire dans son dos.",
     "thumbnail": "thumbnails/1ddnca4.webp",
     "tags": [
-      "Glucksmann",
-      "Place"
+      "Raphaël Glucksmann"
     ],
     "analyzed_at": "2026-11-01T10:59:32.157641+00:00"
   },
@@ -2409,13 +1969,7 @@
     "ingested_at": "2026-11-01T10:54:51.732829+00:00",
     "summary": "Sur les réseaux sociaux, l’humoriste explique que le licenciement de son confrère aura des conséquences directes sur sa présence à l’antenne.",
     "thumbnail": "thumbnails/1ddcqxd.webp",
-    "tags": [
-      "Guillaume Meurice",
-      "France Inter",
-      "Aymeric Lompret",
-      "Grand",
-      "Culture"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:59:31.415729+00:00"
   },
   {
@@ -2436,8 +1990,7 @@
     "summary": "",
     "thumbnail": "thumbnails/1ddb1fq.webp",
     "tags": [
-      "Luc Rouban",
-      "RN"
+      "Racisme"
     ],
     "analyzed_at": "2026-11-01T10:59:32.034556+00:00"
   },
@@ -2458,13 +2011,7 @@
     "ingested_at": "2026-11-01T10:54:51.731634+00:00",
     "summary": "L’humoriste a été licencié par le groupe ce mardi 11 juin, a-t-il annoncé à l’AFP.",
     "thumbnail": "thumbnails/1dd9j31.webp",
-    "tags": [
-      "Guillaume Meurice",
-      "Radio France",
-      "AFP",
-      "France Inter",
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:59:35.131219+00:00"
   },
   {
@@ -2484,10 +2031,7 @@
     "ingested_at": "2026-11-01T10:54:51.731556+00:00",
     "summary": "",
     "thumbnail": "thumbnails/1dcw4ej.webp",
-    "tags": [
-      "Front Populaire",
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:59:39.928083+00:00"
   },
   {
@@ -2513,30 +2057,6 @@
     "analyzed_at": "2026-11-01T10:59:44.589316+00:00"
   },
   {
-    "id": "1dckvzl",
-    "title": "Le pays qui célébrait le Débarquement contre le fascisme il y a trois jours vote massivement pour le fascisme",
-    "url": "https://www.legorafi.fr/2024/06/10/le-pays-qui-celebrait-le-debarquement-contre-le-fascisme-il-y-a-trois-jours-vote-massivement-pour-le-fascisme/",
-    "permalink": "/r/france/comments/1dckvzl/le_pays_qui_célébrait_le_débarquement_contre_le/",
-    "created_at": "2024-06-10T12:58:53+00:00",
-    "score": 928,
-    "num_comments": 415,
-    "subreddit": "france",
-    "author": "jeyreymii",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/4FFQe6jMhmujXXFZX9slOx2cRUzNLXZWSBhJyr6h2jE.jpeg?auto=webp&s=6609a580c7da97d85cbbaa5e83271b7280ddf851",
-    "ingested_at": "2026-11-01T10:54:51.731468+00:00",
-    "summary": "Par un incroyable concours de circonstances que personne n’avait vu venir, le pays qui célébrait le 80e anniversaire du Débarquement contre les forces fascistes a lui-même voté massivement pour des fascistes, trois jours plus tard.",
-    "thumbnail": "thumbnails/1dckvzl.webp",
-    "tags": [
-      "Débarquement",
-      "Jordan Bardella",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T10:59:32.349567+00:00"
-  },
-  {
     "id": "1dcf2fh",
     "title": "En direct, dissolution de l’Assemblée nationale : Olivier Faure (PS) et Fabien Roussel (PCF) appellent la gauche à constituer « un front populaire », à l’instar de François Ruffin (LFI)",
     "url": "https://www.lemonde.fr/politique/live/2024/06/10/en-direct-dissolution-de-l-assemblee-nationale-apres-le-seisme-de-la-dissolution-une-campagne-eclair-demarre_6238193_823448.html",
@@ -2554,35 +2074,12 @@
     "summary": "",
     "thumbnail": "thumbnails/1dcf2fh.webp",
     "tags": [
-      "Assemblée",
       "Olivier Faure",
-      "PS",
       "Fabien Roussel",
-      "Politique"
+      "François Ruffin",
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T10:59:32.619655+00:00"
-  },
-  {
-    "id": "1dc0qv7",
-    "title": "Ils sont de retour enfin !",
-    "url": "https://www.dailymotion.com/video/x7nw8",
-    "permalink": "/r/france/comments/1dc0qv7/ils_sont_de_retour_enfin/",
-    "created_at": "2024-06-09T18:37:49+00:00",
-    "score": 173,
-    "num_comments": 113,
-    "subreddit": "france",
-    "author": "sitarane",
-    "flair": "Humour",
-    "domain": "dailymotion.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/YESawTERs7GmPgI39ev-Z3pgsJJRj2q6x7VQfYRknwg.jpg?auto=webp&s=56a0e4c77d1651fcd362c7ca5025a5127c3271cc",
-    "ingested_at": "2026-11-01T10:54:51.734523+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/1dc0qv7.webp",
-    "tags": [
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T10:59:32.890932+00:00"
   },
   {
     "id": "1dbst9k",
@@ -2601,92 +2098,8 @@
     "ingested_at": "2026-11-01T10:54:51.732630+00:00",
     "summary": "L’avortement y est déjà interdit, mais au Texas des habitants veulent aller encor...",
     "thumbnail": "thumbnails/1dbst9k.webp",
-    "tags": [
-      "Texas",
-      "États",
-      "Amarillo",
-      "Mark Lee Dickson",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:59:33.888702+00:00"
-  },
-  {
-    "id": "1daymcg",
-    "title": "« Rince-toi la chatte », « Allah Akbar», « Je te prends, je t'encule… je t'enclenche ». 6 Juin, sur la ZAD de la Cal’arbre contre l'autoroute A69, des gendarmes enregistrés en train d'injurier et menacer les militants dans les arbres.",
-    "url": "https://old.reddit.com/r/quefaitlapolice/comments/1dacbxw/rincetoi_la_chatte_allah_akbar_je_te_prends_je/",
-    "permalink": "/r/france/comments/1daymcg/rincetoi_la_chatte_allah_akbar_je_te_prends_je/",
-    "created_at": "2024-06-08T08:57:47+00:00",
-    "score": 593,
-    "num_comments": 169,
-    "subreddit": "france",
-    "author": "MarkWhalbergsSon",
-    "flair": "Société",
-    "domain": "old.reddit.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/ajk4NTNuMTh2NTVkMWvG67I2XwveT74j3CswEPT9Tgx7n0tyCwLbvrTgj3Ae.png?auto=webp&s=57a240daeb27ff37026a475a60e03ab8229cbaa1",
-    "ingested_at": "2026-11-01T10:54:51.731735+00:00",
-    "summary": "Posted in r/quefaitlapolice by u/ManuMacs • 118 points and 10 comments",
-    "thumbnail": "thumbnails/1daymcg.webp",
-    "tags": [
-      "Allah Akbar",
-      "ZAD de la Cal'arbre",
-      "A69",
-      "Reddit.com",
-      "Société"
-    ],
-    "analyzed_at": "2026-11-01T10:59:36.736645+00:00"
-  },
-  {
-    "id": "1dayext",
-    "title": "Guerre en Ukraine : le député LFI Jérôme Legavre déclare que Volodymyr Zelensky \"n’est pas bienvenu en France\"",
-    "url": "https://actu.orange.fr/politique/guerre-en-ukraine-le-depute-lfi-jerome-legavre-declare-que-volodymyr-zelensky-n-est-pas-bienvenu-en-france-magic-CNT000002e63hh.html",
-    "permalink": "/r/france/comments/1dayext/guerre_en_ukraine_le_député_lfi_jérôme_legavre/",
-    "created_at": "2024-06-08T08:42:50+00:00",
-    "score": 346,
-    "num_comments": 493,
-    "subreddit": "france",
-    "author": "Ragarnoy",
-    "flair": "Politique",
-    "domain": "actu.orange.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/k6I1QBRR5I1RYr80_lJVCKfEzi8rZSNpslkv9owAWd4.jpg?auto=webp&s=4636f166df08eac4a30727c776f3179234d69467",
-    "ingested_at": "2026-11-01T10:54:51.733127+00:00",
-    "summary": "Vendredi 7 juin, avant le discours de Volodymyr Zelensky à l’Assemblée nationale, le député Insoumis Jérôme Legavre a publié un texte sur le réseau social X. Il étrille le président ukrainien et sa présence en France.",
-    "thumbnail": "thumbnails/1dayext.webp",
-    "tags": [
-      "Volodymyr Zelensky",
-      "Ukraine",
-      "LFI Jérôme Legavre",
-      "Assemblée",
-      "Politique"
-    ],
-    "analyzed_at": "2026-11-01T10:59:35.442082+00:00"
-  },
-  {
-    "id": "1daww1w",
-    "title": "AUKUS: No refund for $9.4 billion gift to US & UK submarine companies",
-    "url": "https://asiapacificdefencereporter.com/aukus-no-refund-for-9-4-billion-gift-to-us-uk-submarine-companies/",
-    "permalink": "/r/france/comments/1daww1w/aukus_no_refund_for_94_billion_gift_to_us_uk/",
-    "created_at": "2024-06-08T06:56:29+00:00",
-    "score": 256,
-    "num_comments": 139,
-    "subreddit": "france",
-    "author": "toblerownsky",
-    "flair": "Actus",
-    "domain": "asiapacificdefencereporter.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/yrXgEKGjwNcMMH3ZpvEWdI7YXySPylxGTLOns1mhQrU.jpeg?auto=webp&s=207e288ba4777e450e1c5aaac86ef552be4d2a78",
-    "ingested_at": "2026-11-01T10:54:51.734264+00:00",
-    "summary": "Shedding light on the details of the impending $4.7 billion (US $3 billion) transfer to US shipbuilding coffers has always been difficult – but thanks to the Se...",
-    "thumbnail": "thumbnails/1daww1w.webp",
-    "tags": [
-      "US",
-      "VADM Mead",
-      "Sen Shoebridge",
-      "AUKUS",
-      "US UK"
-    ],
-    "analyzed_at": "2026-11-01T10:59:37.121213+00:00"
   },
   {
     "id": "1dawn70",
@@ -2705,13 +2118,7 @@
     "ingested_at": "2026-11-01T10:54:51.732076+00:00",
     "summary": "La Fédération nationale des associations d'usagers des transports a voulu connaître les attentes vis à vis du rail.",
     "thumbnail": "thumbnails/1dawn70.webp",
-    "tags": [
-      "Français",
-      "Fédération",
-      "Fnaut",
-      "Ouigo",
-      "Économie"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:59:36.645436+00:00"
   },
   {
@@ -2732,11 +2139,7 @@
     "summary": "Since the outbreak of war in Ukraine, Paris has been signaling a willingness to be more involved in NATO.",
     "thumbnail": "thumbnails/1dadc2n.webp",
     "tags": [
-      "NATO",
-      "Ukraine",
-      "French",
-      "Putin",
-      "US"
+      "Guerre en Ukraine"
     ],
     "analyzed_at": "2026-11-01T10:59:37.500687+00:00"
   },
@@ -2757,12 +2160,7 @@
     "ingested_at": "2026-11-01T10:54:51.734600+00:00",
     "summary": "Alors que les allergies battent leur plein en cette période printanière, il est quasiment impossible d'obtenir de la ventoline ou des molécules comparables, s'indigne sur France Inter le vice-président de la Fédération de syndicats pharmaceutiques de France.",
     "thumbnail": "thumbnails/1daa5sr.webp",
-    "tags": [
-      "France Inter",
-      "Fédération",
-      "Paris",
-      "Fabrice Camaioni"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:59:37.097684+00:00"
   },
   {
@@ -2783,11 +2181,9 @@
     "summary": "Outre les F-16 de fabrication US, l’armée de l’air de Kiev va percevoir des Mirage 2000-5 français. L’annonce a été faite ce jeudi 6 juin par Emmanuel Macron.",
     "thumbnail": "thumbnails/1d9qnco.webp",
     "tags": [
-      "Mirage",
+      "Guerre en Ukraine",
       "Emmanuel Macron",
-      "Ukraine",
-      "Russie",
-      "Politique"
+      "Cause animale"
     ],
     "analyzed_at": "2026-11-01T10:59:39.292650+00:00"
   },
@@ -2809,9 +2205,7 @@
     "summary": "Une vidéo diffusée par des comptes prorusses sur les réseaux sociaux met en scène la prétendue capture d’un mercenaire français. Les images, pourtant peu convaincantes, ont été relayées par une ambassade russe.",
     "thumbnail": "thumbnails/1d9ldfs.webp",
     "tags": [
-      "Ukraine",
-      "Russie",
-      "guerre en Ukraine"
+      "Guerre en Ukraine"
     ],
     "analyzed_at": "2026-11-01T10:59:38.057983+00:00"
   },
@@ -2833,9 +2227,7 @@
     "summary": "Mediapart a suivi SOS Racisme pendant une nuit de testing à Paris. À plusieurs reprises, l’aQuarium et L’Arc Paris, deux clubs réputés, ont conditionné l’entrée de personnes noires ou maghrébines à d…",
     "thumbnail": "thumbnails/1d9bf8n.webp",
     "tags": [
-      "SOS Racisme",
-      "Paris",
-      "Arc Paris"
+      "Racisme"
     ],
     "analyzed_at": "2026-11-01T10:59:38.059676+00:00"
   },
@@ -2857,11 +2249,9 @@
     "summary": "VIDÉO - Marine Le Pen était l’invitée de BFMTV à quatre jours des élections européennes pour lesquelles la liste du Rassemblement national, menée par Jordan Bardella, est donnée en tête des intentions de vote avec une large avance",
     "thumbnail": "thumbnails/1d9avo0.webp",
     "tags": [
-      "Marine le Pen",
-      "BFMTV",
-      "Rassemblement",
+      "Marine Le Pen",
       "Jordan Bardella",
-      "Politique"
+      "Énergie"
     ],
     "analyzed_at": "2026-11-01T10:59:37.942572+00:00"
   },
@@ -2883,11 +2273,7 @@
     "summary": "Au total, 235 personnalités dont la chanteuse Angèle, l’actrice Adèle Exarchopoulos et le chanteur Renaud appellent dans une tribune Emmanue",
     "thumbnail": "thumbnails/1d8p7y8.webp",
     "tags": [
-      "Palestine",
-      "Léna Situations",
-      "Angèle",
-      "Renaud",
-      "Politique"
+      "Conflit israélo-palestinien"
     ],
     "analyzed_at": "2026-11-01T10:59:38.209637+00:00"
   },
@@ -2908,12 +2294,7 @@
     "ingested_at": "2026-11-01T10:54:51.734547+00:00",
     "summary": "Pour s'inscrire, les Tokyoïtes devront fournir des documents légaux attestant de leur célibat avant de signer un papier déclarant qu'ils sont à la recherche d’une personne dans le but de se marier.",
     "thumbnail": "thumbnails/1d8jj0b.webp",
-    "tags": [
-      "Japon",
-      "Tokyo",
-      "Tokyoïtes",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:59:39.022110+00:00"
   },
   {
@@ -2934,8 +2315,7 @@
     "summary": "Un agent de la police nationale a été violemment pris à partie sur un contre-barrage, à Nouméa, dans le quartier de Tuband. Les faits se sont produits samedi soir, alors qu’il rentrait à pied chez son grand-père. Encore sous le choc, il a porté plainte.",
     "thumbnail": "thumbnails/1d864mw.webp",
     "tags": [
-      "Tuband",
-      "Nouméa"
+      "Police"
     ],
     "analyzed_at": "2026-11-01T10:59:39.596510+00:00"
   },
@@ -2957,9 +2337,7 @@
     "summary": "86% des Français interrogés admettent que le changement climatique est un problème grave.",
     "thumbnail": "thumbnails/1d7pxn3.webp",
     "tags": [
-      "Français",
-      "Crise climatique",
-      "Écologie"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T10:59:38.620930+00:00"
   },
@@ -2981,11 +2359,7 @@
     "summary": "Aux élections européennes de 2019, le parti d'extrême droite Alternative für Deutschland (AfD) a recueilli plus de 25% des voix en Saxe, son meilleur résultat en Allemagne.",
     "thumbnail": "thumbnails/1d71ecc.webp",
     "tags": [
-      "Allemagne",
-      "AfD",
-      "Allemands",
-      "Saxe",
-      "Alternative"
+      "Extrême droite"
     ],
     "analyzed_at": "2026-11-01T10:59:38.724593+00:00"
   },
@@ -3006,13 +2380,7 @@
     "ingested_at": "2026-11-01T10:54:51.732493+00:00",
     "summary": "Claudia Sheinbaum, la candidate du parti de gauche du Mouvement pour la régénération nationale (Morena), a été élue Présidente du Mexique dimanche 2 juin, selon les premiers ré...",
     "thumbnail": "thumbnails/1d6zfa7.webp",
-    "tags": [
-      "Claudia Sheinbaum",
-      "Mexique",
-      "Mouvement",
-      "Présidente du Mexique",
-      "Payant"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:59:40.445990+00:00"
   },
   {
@@ -3053,9 +2421,8 @@
     "summary": "",
     "thumbnail": "thumbnails/1d6dhq6.webp",
     "tags": [
-      "Sophie Binet",
-      "JO",
-      "Politique"
+      "Protection sociale",
+      "Grèves et syndicats"
     ],
     "analyzed_at": "2026-11-01T10:59:39.428270+00:00"
   },
@@ -3076,10 +2443,7 @@
     "ingested_at": "2026-11-01T10:54:51.734500+00:00",
     "summary": "Des eaux usées ont été déversées dans la Seine, dans les Yvelines. En cause, un dysfonctionnement d'un système de pompage.",
     "thumbnail": "thumbnails/1d5vv1o.webp",
-    "tags": [
-      "Seine",
-      "Yvelines"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:59:39.426659+00:00"
   },
   {
@@ -3100,11 +2464,7 @@
     "summary": "La Ligue des droits de l'homme Quimper-Concarneau va déposer plainte.",
     "thumbnail": "thumbnails/1d5lt0k.webp",
     "tags": [
-      "Heil Hitler",
-      "FN",
-      "Bretagne",
-      "Ligue",
-      "Politique"
+      "Extrême droite"
     ],
     "analyzed_at": "2026-11-01T10:59:39.687609+00:00"
   }

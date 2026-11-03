@@ -17,11 +17,8 @@
     "summary": "La ministre est sous le feu des critiques en raison de la scolarité de ses enfants dans l'école privée parisienne Stanislas et ses propos sur l'école publique.",
     "thumbnail": "thumbnails/1afed2l.webp",
     "tags": [
-      "Education",
-      "Polémique Amélie Oudéa-Castéra",
       "Amélie Oudéa-Castéra",
-      "Stanislas",
-      "Sports"
+      "Éducation"
     ],
     "analyzed_at": "2026-11-01T11:00:20.888699+00:00"
   },
@@ -43,11 +40,7 @@
     "summary": "À Ahetze, une octogénaire détachée de l’argent et sensible aux difficultés des jeunes à se loger, a conclu avec le bailleur social HSA un viager libre. Une rareté, qui aboutira à la construction de sept logements à prix modérés",
     "thumbnail": "thumbnails/1afe7cf.webp",
     "tags": [
-      "Ahetze",
-      "HSA",
-      "Pays",
-      "Amélie",
-      "Lausséni Sangaré"
+      "Logement"
     ],
     "analyzed_at": "2026-11-01T11:00:21.440610+00:00"
   },
@@ -68,11 +61,7 @@
     "ingested_at": "2026-11-01T10:49:42.774126+00:00",
     "summary": "Révélé et dénoncé par plusieurs associations de défense des droits des personnes transgenres, un récent arrêté ministériel autorise la création d'un fichier de recensement des changements d'état civil. Accessible par la police et présenté comme une simplification administrative, ce texte aboutit en",
     "thumbnail": "thumbnails/1aeuo92.webp",
-    "tags": [
-      "NIR",
-      "RNIPP",
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:00:21.614045+00:00"
   },
   {
@@ -93,9 +82,7 @@
     "summary": "Bloquée par les agriculteurs depuis jeudi 25 janvier, l'autoroute A480, située au niveau du pont de Catane à Grenoble, s'est transformée en aire piétonne et en piste cyclable pour le plus grand plaisir des habitants.",
     "thumbnail": "thumbnails/1aemjzy.webp",
     "tags": [
-      "Grenoble",
-      "A480",
-      "Catane"
+      "Agriculture"
     ],
     "analyzed_at": "2026-11-01T11:00:21.717885+00:00"
   },
@@ -117,11 +104,7 @@
     "summary": "Suivez toute l'actualité de la guerre en Ukraine, en direct sur ladepeche.fr, ce lundi 29 janvier 2024.",
     "thumbnail": "thumbnails/1ae0w6m.webp",
     "tags": [
-      "Ukraine",
-      "Kiev",
-      "Russie",
-      "État",
-      "Politique"
+      "Guerre en Ukraine"
     ],
     "analyzed_at": "2026-11-01T11:00:22.424417+00:00"
   },
@@ -143,7 +126,7 @@
     "summary": "Près de deux mois avant les députés, les sénateurs ont aussi augmenté en toute d...",
     "thumbnail": "thumbnails/1adxx70.webp",
     "tags": [
-      "Politique"
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T11:00:22.991465+00:00"
   },
@@ -165,11 +148,9 @@
     "summary": "INFO BFM Paris Île-de-France. Ce préavis court à partir du lundi 5 février et jusqu’au lundi 9 septembre, indique le syndicat dans sa lettre adressée au PDG de la RATP, Jean Castex.",
     "thumbnail": "thumbnails/1adworw.webp",
     "tags": [
-      "RATP",
-      "CGT",
-      "BFM Paris Île-de-France",
-      "Jean Castex",
-      "Politique"
+      "Grèves et syndicats",
+      "Transports",
+      "Jean Castex"
     ],
     "analyzed_at": "2026-11-01T11:00:21.854054+00:00"
   },
@@ -191,11 +172,9 @@
     "summary": "Les trois élus avaient pris la pause vendredi dernier devant une pancarte sur laquelle était inscrit un « slogan » misogyne visant Sandrine Rousseau et la secrétaire nationale d’EELV, Marine Tondelier.",
     "thumbnail": "thumbnails/1adw4q5.webp",
     "tags": [
-      "RN",
-      "Sandrine Rousseau",
-      "EELV",
       "Marine Tondelier",
-      "Politique"
+      "Sandrine Rousseau",
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T11:00:22.167236+00:00"
   },
@@ -216,7 +195,10 @@
     "ingested_at": "2026-11-01T10:49:42.774103+00:00",
     "summary": "",
     "thumbnail": "thumbnails/1ad0fbt.webp",
-    "tags": [],
+    "tags": [
+      "Justice",
+      "Immigration"
+    ],
     "analyzed_at": "2026-11-01T11:00:22.674036+00:00"
   },
   {
@@ -237,59 +219,9 @@
     "summary": "Le racisme structurelle n’existe pas en France — c’est uniquement un problème des pays anglophones (USA) — c’est ce que on m’assure régulièrement… Mais: L’un d’entre eux « lui indiquait qu’elle “pouvait rentrer dans son pays” si elle n’était pas satisfaite d’être ici ».",
     "thumbnail": "thumbnails/1acwdax.webp",
     "tags": [
-      "Paris",
-      "Société"
+      "Police"
     ],
     "analyzed_at": "2026-11-01T11:00:22.609531+00:00"
-  },
-  {
-    "id": "1acfeu6",
-    "title": "Les feux LED sont devenus un problème pour nos yeux sur la route, l'Europe sommée d'agir",
-    "url": "https://www.automobile-magazine.fr/toute-l-actualite/article/41640-les-feux-led-sont-devenus-un-probleme-pour-nos-yeux-sur-la-route-leurope-sommee-dagir",
-    "permalink": "/r/france/comments/1acfeu6/les_feux_led_sont_devenus_un_problème_pour_nos/",
-    "created_at": "2024-01-27T17:02:31+00:00",
-    "score": 486,
-    "num_comments": 188,
-    "subreddit": "france",
-    "author": "cepacked",
-    "flair": "Société",
-    "domain": "automobile-magazine.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/F4r15o8tA7Gu6WGdqGqTEhuqxbdc_mm2Q3u5zc-kVoU.jpeg?auto=webp&s=c734af99fac45d5aac9a899c6c341deebd6592d7",
-    "ingested_at": "2026-11-01T10:49:42.772283+00:00",
-    "summary": "Selon une récente étude, une majorité d&#039;automobilistes sont éblouis par les feux LED sur la route. L&#039;Europe pourrait décider d&#039;agir.",
-    "thumbnail": "thumbnails/1acfeu6.webp",
-    "tags": [
-      "LED",
-      "Société"
-    ],
-    "analyzed_at": "2026-11-01T11:00:22.682288+00:00"
-  },
-  {
-    "id": "1ac6dui",
-    "title": "Bernard Arnault dépasse Elon Musk et devient la personne la plus riche du monde.",
-    "url": "https://www.forbes.com.au/news/billionaires/bernard-arnault-overtakes-elon-musk-as-richest-person-in-the-world/",
-    "permalink": "/r/france/comments/1ac6dui/bernard_arnault_dépasse_elon_musk_et_devient_la/",
-    "created_at": "2024-01-27T08:37:04+00:00",
-    "score": 324,
-    "num_comments": 121,
-    "subreddit": "france",
-    "author": "Lejuju86",
-    "flair": "Société",
-    "domain": "forbes.com.au",
-    "selftext": "Allez, tous avec moi! Ber-nard, Ber-nard, Ber-nard...",
-    "reddit_thumbnail": "",
-    "ingested_at": "2026-11-01T10:49:42.772871+00:00",
-    "summary": "Bernard Arnault, the billionaire chairman and CEO of global luxury goods company LVMH—the entity behind dozens of luxury goods brands like Louis Vuitton and Sephora—is now the richest man in the world, passing Elon Musk.",
-    "thumbnail": "thumbnails/1ac6dui.webp",
-    "tags": [
-      "Bernard Arnault",
-      "Elon Musk",
-      "LVMH",
-      "CEO",
-      "Société"
-    ],
-    "analyzed_at": "2026-11-01T11:00:23.963146+00:00"
   },
   {
     "id": "1abi8tt",
@@ -309,9 +241,7 @@
     "summary": "",
     "thumbnail": "thumbnails/1abi8tt.webp",
     "tags": [
-      "Amélie Oudéa-Castéra",
-      "Fédération",
-      "Politique"
+      "Amélie Oudéa-Castéra"
     ],
     "analyzed_at": "2026-11-01T11:00:23.059584+00:00"
   },
@@ -332,10 +262,7 @@
     "ingested_at": "2026-11-01T10:49:42.772493+00:00",
     "summary": "",
     "thumbnail": "thumbnails/1abf3lx.webp",
-    "tags": [
-      "France Télévisions",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:00:23.139138+00:00"
   },
   {
@@ -356,10 +283,7 @@
     "summary": "C&#039;est une quasi-certitude, la France sera confrontée à un réchauffement de +4 °C, au moins, d&#039;ici 2100 par rapport au niveau préindustriel. Pour se préparer et s&#039;adapter aux boulever...",
     "thumbnail": "thumbnails/19fhrkw.webp",
     "tags": [
-      "Réchauffement climatique",
-      "Canicule",
-      "Adaptation au changement climatique",
-      "Écologie"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T11:00:23.037517+00:00"
   },
@@ -381,11 +305,8 @@
     "summary": "Après plus d'un mois de travail, le Conseil constitutionnel a rendu sa décision sur le texte de loi immigration, adopté dans la douleur par le Parlement. Les Sages ont censuré 40% du projet de loi, soit 37 articles sur 86. Les réactions politiques sont très divisées, notamment à droite où l'on...",
     "thumbnail": "thumbnails/19fc0i6.webp",
     "tags": [
-      "Conseil",
-      "Sages",
-      "Parlement",
-      "République",
-      "Politique"
+      "Immigration",
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T11:00:23.571632+00:00"
   },
@@ -407,8 +328,8 @@
     "summary": "",
     "thumbnail": "thumbnails/19f7iqy.webp",
     "tags": [
-      "Paris",
-      "Société"
+      "Police",
+      "Violences sexuelles"
     ],
     "analyzed_at": "2026-11-01T11:00:23.583662+00:00"
   },
@@ -430,11 +351,9 @@
     "summary": "Le bureau de l'Assemblée nationale a décidé mercredi de ne pas prononcer de sanction à l'égard du rapporteur général du Budget.",
     "thumbnail": "thumbnails/19f6ywk.webp",
     "tags": [
-      "Assemblée",
-      "Libération",
-      "Renaissance Jean-René Cazeneuve",
-      "Assemblée nationale",
-      "Politique"
+      "Institutions",
+      "Bernard Cazeneuve",
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T11:00:23.585048+00:00"
   },
@@ -456,10 +375,8 @@
     "summary": "Six mois après le lancement, à la demande du ministère de l'Économie, d'une campagne contre les \"dérives\" de prescription des arrêts de travail, six médecins du Territoire de Belfort ont été ciblés par la CPAM. L'un d'entre...",
     "thumbnail": "thumbnails/19f1ka4.webp",
     "tags": [
-      "Économie",
-      "CPAM",
-      "Territoire de Belfort",
-      "Société"
+      "Santé",
+      "Économie"
     ],
     "analyzed_at": "2026-11-01T11:00:23.778803+00:00"
   },
@@ -481,8 +398,7 @@
     "summary": "",
     "thumbnail": "thumbnails/19eplfj.webp",
     "tags": [
-      "Khan Younès",
-      "Gaza"
+      "Conflit israélo-palestinien"
     ],
     "analyzed_at": "2026-11-01T11:00:29.553899+00:00"
   },
@@ -504,8 +420,8 @@
     "summary": "L’avance des frais de mandat des élus va passer de 5 645 euros à 5 950 euros par mois, en raison de l’inflation.",
     "thumbnail": "thumbnails/19em6kk.webp",
     "tags": [
-      "Assemblée",
-      "Politique"
+      "Économie",
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T11:00:23.966782+00:00"
   },
@@ -527,11 +443,9 @@
     "summary": "Avant de se rendre à Trèbes, Radouane Lakdim s'en est pris à deux premières victimes sur un parking de Carcassonne. Un crime motivé par l'homophobie selon des témoignages.",
     "thumbnail": "thumbnails/19ejpzk.webp",
     "tags": [
-      "Radouane Lakdim",
-      "Trèbes et Carcassonne",
-      "Carcassonne",
-      "Trèbes",
-      "Société"
+      "LGBT+",
+      "Justice",
+      "Terrorisme"
     ],
     "analyzed_at": "2026-11-01T11:00:25.679745+00:00"
   },
@@ -553,34 +467,10 @@
     "summary": "",
     "thumbnail": "thumbnails/19ega3h.webp",
     "tags": [
-      "Parcoursup",
-      "Oudéa-Castéra",
-      "Politique"
+      "Amélie Oudéa-Castéra",
+      "Éducation"
     ],
     "analyzed_at": "2026-11-01T11:00:26.326399+00:00"
-  },
-  {
-    "id": "19edayc",
-    "title": "Village de l'emploi victime de malfaiteurs sur Reddit - village de l'emploi",
-    "url": "https://villageemploi.net/village-de-lemploi-victime-de-malfaiteurs-sur-reddit/",
-    "permalink": "/r/france/comments/19edayc/village_de_lemploi_victime_de_malfaiteurs_sur/",
-    "created_at": "2024-01-24T09:33:23+00:00",
-    "score": 367,
-    "num_comments": 284,
-    "subreddit": "france",
-    "author": "SecretOfPerma",
-    "flair": "Méta",
-    "domain": "villageemploi.net",
-    "selftext": "",
-    "reddit_thumbnail": "https://b.thumbs.redditmedia.com/FlBiHGPOAgc9baCFTQvzgTRGhwlFvD9yftFZJbhbQPk.jpg",
-    "ingested_at": "2026-11-01T10:49:42.772624+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/19edayc.webp",
-    "tags": [
-      "Reddit",
-      "Méta"
-    ],
-    "analyzed_at": "2026-11-01T11:00:28.201982+00:00"
   },
   {
     "id": "19eb259",
@@ -599,12 +489,7 @@
     "ingested_at": "2026-11-01T10:49:42.773192+00:00",
     "summary": "Mariage, ménage, maquillage : elles prônent le retour d'une vie à l'ancienne, débarrassée des tracas éventuels du célibat ou d'une carrière à mener. Entre position réactionnaire et étrange désir de sécurité.",
     "thumbnail": "thumbnails/19eb259.webp",
-    "tags": [
-      "TikTok",
-      "Religion",
-      "Estee Williams",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:00:24.363315+00:00"
   },
   {
@@ -625,11 +510,8 @@
     "summary": "Alors qu'elle était directrice de la Fédération de Française de tennis (FFT) en 2021, Amélie Oudéa-Castéra, l'actuelle ministre de l'Education nationale et des Sports, aurait perçu près de 53 000 euros pour 8 réunions...",
     "thumbnail": "thumbnails/19dxxav.webp",
     "tags": [
-      "FFT",
       "Amélie Oudéa-Castéra",
-      "Polémique Oudéa-Castéra",
-      "Education",
-      "Politique"
+      "Travail"
     ],
     "analyzed_at": "2026-11-01T11:00:25.686504+00:00"
   },
@@ -651,8 +533,7 @@
     "summary": "Alors que des classes mixtes garçons-filles existent à Stanislas, Amélie Oudéa-Castéra a fait le choix, pour ses enfants, de la non-mixité, d’après nos informations. Une décision qui interroge car la…",
     "thumbnail": "thumbnails/19dsyh5.webp",
     "tags": [
-      "Amélie Oudéa-Castéra",
-      "Stanislas"
+      "Amélie Oudéa-Castéra"
     ],
     "analyzed_at": "2026-11-01T11:00:25.327843+00:00"
   },
@@ -674,11 +555,8 @@
     "summary": "Le rappeur de 47 ans s'en est pris à un cancérologue qui critiquait le controversé Pr Raoult, l'accusant de désinformation. À l’origine du désaccord, une thèse reliant les vaccins ARN contre le Covid et l'apparition...",
     "thumbnail": "thumbnails/19dl5ye.webp",
     "tags": [
-      "Covid",
-      "Didier Raoult",
-      "Pr Raoult",
-      "ARN",
-      "Société"
+      "Covid-19",
+      "Santé"
     ],
     "analyzed_at": "2026-11-01T11:00:25.899544+00:00"
   },
@@ -700,11 +578,10 @@
     "summary": "Portée par des sondages records qui la placent depuis plusieurs mois en deuxième position au plan national , devant le parti social-démocrate du chancelier Olaf Scholz, l'extrême droite allemande affiche sa volonté de gouverner.",
     "thumbnail": "thumbnails/19cyg5m.webp",
     "tags": [
-      "AfD",
-      "Allemagne",
-      "UE",
       "Extrême droite",
-      "Politique"
+      "Union européenne",
+      "Institutions",
+      "Olaf Scholz"
     ],
     "analyzed_at": "2026-11-01T11:00:27.469076+00:00"
   },
@@ -747,13 +624,7 @@
     "ingested_at": "2026-11-01T10:49:42.772749+00:00",
     "summary": "Selon la Tribune, l’Élysée envisage de « généraliser un examen gynécologique pour les femmes et un spermogramme pour les hommes » dès l’âge de 25 ans, remboursé par la Sécu",
     "thumbnail": "thumbnails/19cb78j.webp",
-    "tags": [
-      "Élysée",
-      "Tribune",
-      "Sécu",
-      "Féminisme",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:00:26.407897+00:00"
   },
   {
@@ -773,7 +644,11 @@
     "ingested_at": "2026-11-01T10:49:42.773866+00:00",
     "summary": "",
     "thumbnail": "thumbnails/19byja5.webp",
-    "tags": [],
+    "tags": [
+      "Immigration",
+      "Extrême droite",
+      "Médias"
+    ],
     "analyzed_at": "2026-11-01T11:00:26.240967+00:00"
   },
   {
@@ -794,10 +669,8 @@
     "summary": "Le ministère de l’enseignement supérieur vient de rappeler à l’ordre le lycée Stanislas, dans un courrier que Mediapart s’est procuré, évoquant « un contournement » de Parcoursup. Selon des document…",
     "thumbnail": "thumbnails/19bnpm9.webp",
     "tags": [
-      "Parcoursup",
-      "Stanislas",
-      "Oudéa-Castéra",
-      "Politique"
+      "Éducation",
+      "Amélie Oudéa-Castéra"
     ],
     "analyzed_at": "2026-11-01T11:00:26.991646+00:00"
   },
@@ -818,7 +691,9 @@
     "ingested_at": "2026-11-01T10:49:42.772581+00:00",
     "summary": "",
     "thumbnail": "thumbnails/19bcgpd.webp",
-    "tags": [],
+    "tags": [
+      "Éducation"
+    ],
     "analyzed_at": "2026-11-01T11:00:26.583811+00:00"
   },
   {
@@ -838,10 +713,7 @@
     "ingested_at": "2026-11-01T10:49:42.772409+00:00",
     "summary": "",
     "thumbnail": "thumbnails/19aqc6p.webp",
-    "tags": [
-      "HelloWork",
-      "Rennes"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:00:27.828671+00:00"
   },
   {
@@ -862,8 +734,7 @@
     "summary": "Huit députés écologistes et insoumis ont dormi dans la rue dans la nuit de mardi à mercredi à l’invitation de l’association Droit au logement. Sauf que certains ont été aperçus attablés dans une brasserie face du campement une partie de la soirée.",
     "thumbnail": "thumbnails/19agys6.webp",
     "tags": [
-      "Droit",
-      "Politique"
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T11:00:27.900420+00:00"
   },
@@ -884,13 +755,7 @@
     "ingested_at": "2026-11-01T10:49:42.773167+00:00",
     "summary": "Économie en berne, prix qui ont flambé : les Britanniques font grise mine quatre ans après leur choix de sortir de l’Union européenne.",
     "thumbnail": "thumbnails/199vels.webp",
-    "tags": [
-      "Brexit",
-      "Britanniques",
-      "Union",
-      "Londres",
-      "Sadiq Khan"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:00:26.836656+00:00"
   },
   {
@@ -910,12 +775,7 @@
     "ingested_at": "2026-11-01T10:49:42.772675+00:00",
     "summary": "L214 a porté plainte contre l'abattoir de Craon, en Mayenne, où l'association a filmé des scènes \"dignes d'un film d'horreur\".",
     "thumbnail": "thumbnails/199r37a.webp",
-    "tags": [
-      "Mayenne",
-      "L214",
-      "Craon",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:00:27.260585+00:00"
   },
   {
@@ -936,10 +796,9 @@
     "summary": "",
     "thumbnail": "thumbnails/199phe0.webp",
     "tags": [
-      "RN",
       "Jordan Bardella",
-      "Twitter",
-      "Politique"
+      "Racisme",
+      "LGBT+"
     ],
     "analyzed_at": "2026-11-01T11:00:30.520008+00:00"
   },
@@ -960,11 +819,7 @@
     "ingested_at": "2026-11-01T10:49:42.773606+00:00",
     "summary": "",
     "thumbnail": "thumbnails/19978w0.webp",
-    "tags": [
-      "Mairie de Paris",
-      "Stanislas",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:00:27.699826+00:00"
   },
   {
@@ -985,8 +840,7 @@
     "summary": "",
     "thumbnail": "thumbnails/198wh0p.webp",
     "tags": [
-      "Amélie Oudéa-Castéra",
-      "Politique"
+      "Amélie Oudéa-Castéra"
     ],
     "analyzed_at": "2026-11-01T11:00:31.595886+00:00"
   },
@@ -1008,9 +862,7 @@
     "summary": "Revoilà les articles survalorisant un ministre « infatigable » et petit dormeur alors que les Français dorment trop peu.",
     "thumbnail": "thumbnails/198vgtx.webp",
     "tags": [
-      "Gabriel Attal",
-      "Français",
-      "Politique"
+      "Gabriel Attal"
     ],
     "analyzed_at": "2026-11-01T11:00:28.186664+00:00"
   },
@@ -1032,10 +884,8 @@
     "summary": "INFO LE PARISIEN. La jeune femme de 22 ans a été arrêtée mardi matin et placée en garde à vue après des messages diffusés sur X en octobre d",
     "thumbnail": "thumbnails/198tyxl.webp",
     "tags": [
-      "Raquel Garrido et Alexis Corbière",
-      "PARISIEN",
-      "Inès Corbière",
-      "Fait Divers"
+      "Antisémitisme",
+      "Terrorisme"
     ],
     "analyzed_at": "2026-11-01T11:00:28.097461+00:00"
   },
@@ -1057,36 +907,9 @@
     "summary": "Depuis août, le ministère de l’éducation refuse de rendre publique l’enquête administrative visant l’établissement privé catholique où sont scolarisés les enfants de la ministre. Discours homophobes,…",
     "thumbnail": "thumbnails/1988soa.webp",
     "tags": [
-      "Stanislas",
-      "Affaire Oudéa-Castéra"
+      "Amélie Oudéa-Castéra"
     ],
     "analyzed_at": "2026-11-01T11:00:28.886071+00:00"
-  },
-  {
-    "id": "1985s7j",
-    "title": "France maintains its position as world's leading tourist destination with 100 millions visitors.",
-    "url": "https://www.connexionfrance.com/article/French-news/France-maintains-its-position-as-world-s-leading-tourist-destination",
-    "permalink": "/r/france/comments/1985s7j/france_maintains_its_position_as_worlds_leading/",
-    "created_at": "2024-01-16T15:40:19+00:00",
-    "score": 262,
-    "num_comments": 92,
-    "subreddit": "france",
-    "author": "UpgradedSiera6666",
-    "flair": "Économie",
-    "domain": "connexionfrance.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/tMXLfe6DdqttpbV16bjhLfz3W-6qYJSxYVWwydMDUfs.jpeg?auto=webp&s=fa38c08325dbc655c5f2944e1018427143fcf4b2",
-    "ingested_at": "2026-11-01T10:49:42.773424+00:00",
-    "summary": "The country was the “only destination in the world to have returned to pre-Covid-19 figures,” said the Elysée",
-    "thumbnail": "thumbnails/1985s7j.webp",
-    "tags": [
-      "Elysée",
-      "Travel and transport",
-      "Tourist figures",
-      "French news",
-      "Économie"
-    ],
-    "analyzed_at": "2026-11-01T11:00:29.941032+00:00"
   },
   {
     "id": "1982xld",
@@ -1106,11 +929,9 @@
     "summary": "Pour la première fois depuis sa nomination, le nouveau Premier ministre s'est exprimé à l'Assemblée nationale, mardi, à l'occasion de la séance de questions au gouvernement.",
     "thumbnail": "thumbnails/1982xld.webp",
     "tags": [
-      "Education",
       "Amélie Oudéa-Castéra",
-      "Littré",
-      "Emmanuel Macron",
-      "Société"
+      "Éducation",
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T11:00:28.635216+00:00"
   },
@@ -1132,10 +953,7 @@
     "summary": "Après le décès de cet homme de 76 ans en 2022, Michel Herbillon a affirmé qu'il ne s'occupait pas du box en question. Il était mis à disposition de la victime pour qu’il puisse y entreposer son matériel de jardinier....",
     "thumbnail": "thumbnails/197yk0u.webp",
     "tags": [
-      "Michel Herbillon",
-      "Mediapart",
-      "Raymond Sebas",
-      "Politique"
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T11:00:28.602280+00:00"
   },
@@ -1157,8 +975,7 @@
     "summary": "Gabriel Attal, plusieurs fois interpellé, a même reçu une alerte d’un parent d’élève en novembre dernier, sans jamais réagir. Ministre de l’éducation, il a aussi refusé de dévoiler les conclusions de…",
     "thumbnail": "thumbnails/197d9u3.webp",
     "tags": [
-      "Gabriel Attal",
-      "Stanislas"
+      "Gabriel Attal"
     ],
     "analyzed_at": "2026-11-01T11:00:29.548611+00:00"
   },
@@ -1180,11 +997,7 @@
     "summary": "Le député Les Républicains du Val-de-Marne Michel Herbillon était propriétaire d’un box de parking insalubre et sans fenêtres dans lequel a vécu un jardinier pendant des années, s...",
     "thumbnail": "thumbnails/197a7v9.webp",
     "tags": [
-      "LR",
-      "Mediapart",
-      "Michel Herbillon",
-      "Gratuit",
-      "Politique"
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T11:00:30.797887+00:00"
   },
@@ -1205,40 +1018,8 @@
     "ingested_at": "2026-11-01T10:49:42.773216+00:00",
     "summary": "Le nouveau ministre des Affaires Etrangères Stéphane Séjourné a fait plusieurs fautes de français lors de ses récentes déclarations. Des erreurs qui ne sont pas passées inaperçues.",
     "thumbnail": "thumbnails/1976kai.webp",
-    "tags": [
-      "Stéphane Séjourné",
-      "Affaires Etrangères Stéphane Séjourné",
-      "Affaires Etrangères",
-      "Ukraine",
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:00:29.148642+00:00"
-  },
-  {
-    "id": "19752ap",
-    "title": "« 37% des Français se considèrent climato-sceptiques » et cette proportion est en augmentation…",
-    "url": "https://www.nationalgeographic.fr/environnement/sondage-opinion-37-des-francais-se-considerent-climato-sceptiques",
-    "permalink": "/r/france/comments/19752ap/37_des_français_se_considèrent_climatosceptiques/",
-    "created_at": "2024-01-15T09:48:29+00:00",
-    "score": 312,
-    "num_comments": 419,
-    "subreddit": "france",
-    "author": "[deleted]",
-    "flair": "Écologie",
-    "domain": "nationalgeographic.fr",
-    "selftext": "« En un an, la vague climato-sceptique aurait progressé de 8 points en France. On compte 37 % de climatosceptiques dont 29 % considèrent qu’il y a un changement climatique mais pas d’origine humaine ; c'est la plus forte augmentation de ce sondage. Une grande partie de la population française remettrait en question la responsabilité humaine de la crise actuelle. Sur les trente pays sondés, la France est le sixième pays dans lequel le doute sur l’origine humaine du changement climatique a le plus augmenté. »",
-    "reddit_thumbnail": "https://external-preview.redd.it/WtQHe_AhMQ5JYjIb_N4JUYvjU98T_0c1fgWaUIb55fg.jpg?auto=webp&s=5909f5518699e482aacdeed64a8498eeca7d2c2a",
-    "ingested_at": "2026-11-01T10:49:42.772973+00:00",
-    "summary": "Si le pourcentage de Français niant la réalité du changement climatique ne progresse pas, un récent sondage tend à montrer que l’origine humaine de ce changement est de plus en plus remise en question.",
-    "thumbnail": "thumbnails/19752ap.webp",
-    "tags": [
-      "Français",
-      "Environnement",
-      "Changement climatique",
-      "Environment",
-      "Écologie"
-    ],
-    "analyzed_at": "2026-11-01T11:00:30.403426+00:00"
   },
   {
     "id": "196mjqg",
@@ -1258,8 +1039,7 @@
     "summary": "",
     "thumbnail": "thumbnails/196mjqg.webp",
     "tags": [
-      "Amélie Oudéa-Castéra",
-      "Politique"
+      "Amélie Oudéa-Castéra"
     ],
     "analyzed_at": "2026-11-01T11:00:31.955070+00:00"
   },
@@ -1281,11 +1061,7 @@
     "summary": "La maire PS a précisé samedi que la plus grande place de la capitale \"sera offerte à la promenade depuis les Tuileries jusqu'à l'obélisque\".",
     "thumbnail": "thumbnails/196fq04.webp",
     "tags": [
-      "Anne Hidalgo",
-      "Concorde",
-      "JO",
-      "Tuileries",
-      "Société"
+      "Anne Hidalgo"
     ],
     "analyzed_at": "2026-11-01T11:00:29.963671+00:00"
   },
@@ -1307,11 +1083,7 @@
     "summary": "L’actuel vice-président est arrivé en tête de l’élection présidentielle à Taïwan, selon des résultats encore partiels. Son principal adversaire, Hou Yu-ih, a concédé quant à lui sa défaite.",
     "thumbnail": "thumbnails/195m2hn.webp",
     "tags": [
-      "Taïwan",
-      "Pékin",
-      "Lai Ching-te",
-      "États-Unis",
-      "Hou Yu-ih"
+      "Élections"
     ],
     "analyzed_at": "2026-11-01T11:00:30.472066+00:00"
   },
@@ -1333,11 +1105,8 @@
     "summary": "INFO BFMTV. Cet agent de la police aux frontières est suspecté de s’être laissé corrompre pour faciliter la sortie de valises de cocaïne à l’aéroport d’Orly (Val-de-Marne). Il a été interpellé, ce mardi 9 janvier, avant d’être placé en garde à vue.",
     "thumbnail": "thumbnails/195jykk.webp",
     "tags": [
-      "BFMTV",
-      "Orly",
-      "PAF",
-      "ST92",
-      "Société"
+      "Police",
+      "Narcotrafic"
     ],
     "analyzed_at": "2026-11-01T11:00:30.074664+00:00"
   },
@@ -1358,9 +1127,7 @@
     "ingested_at": "2026-11-01T10:49:42.772232+00:00",
     "summary": "",
     "thumbnail": "thumbnails/1951kv5.webp",
-    "tags": [
-      "Éducation"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:00:34.546260+00:00"
   },
   {
@@ -1381,11 +1148,8 @@
     "summary": "Deux jours après la nomination de Gabriel Attal à la fonction de Premier ministre, la liste des principaux membres de son gouvernement a été dévoilée, le 11 jan...",
     "thumbnail": "thumbnails/194rm58.webp",
     "tags": [
-      "Macron",
-      "Attal",
       "Gabriel Attal",
-      "Premier",
-      "Politique"
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T11:00:30.513773+00:00"
   },
@@ -1407,11 +1171,8 @@
     "summary": "Le député de la 1re circonscription des Alpes-Maritimes et président des Républicains présentait ses vœux aux Niçois pendant l’annonce du nouveau gouvernement.",
     "thumbnail": "thumbnails/1949s1t.webp",
     "tags": [
-      "Eric Ciotti",
-      "Culture",
-      "Républicains",
-      "Rachida Dati de LR",
-      "Politique"
+      "Rachida Dati",
+      "Éric Ciotti"
     ],
     "analyzed_at": "2026-11-01T11:00:31.502233+00:00"
   },
@@ -1433,8 +1194,7 @@
     "summary": "Depuis le 1er janvier, refuser à deux reprises un CDI après un CDD ou une mission d’intérim entraîne une privation des allocations-chômage. Les employeurs peuvent, en quelques clics, signaler les sal…",
     "thumbnail": "thumbnails/1947gmn.webp",
     "tags": [
-      "CDI",
-      "CDD"
+      "Travail"
     ],
     "analyzed_at": "2026-11-01T11:00:31.595260+00:00"
   },
@@ -1456,11 +1216,8 @@
     "summary": "INFO BFMTV - Actuellement maire LR du 7e arrondissement de Paris, Rachida Dati a été nommée ministre de la Culture par Gabriel Attal, nouveau Premier ministre.",
     "thumbnail": "thumbnails/1946q4c.webp",
     "tags": [
-      "Rachida Dati",
-      "Gouvernement Attal",
-      "Paris",
-      "BFMTV",
-      "Politique"
+      "Gabriel Attal",
+      "Rachida Dati"
     ],
     "analyzed_at": "2026-11-01T11:00:30.781559+00:00"
   },
@@ -1482,10 +1239,7 @@
     "summary": "Pour développer l'économie du Groenland, la start-up groenlandaise Artic Ice récupère de la glace millénaire dans des fjords pour l'expédier dans des bars de Dubaï. Pour le plaisir des clients mais au détriment de la planète.",
     "thumbnail": "thumbnails/193blgq.webp",
     "tags": [
-      "Groenland",
-      "Dubaï",
-      "Artic Ice",
-      "Écologie"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T11:00:30.722716+00:00"
   },
@@ -1507,36 +1261,9 @@
     "summary": "L’écrivain Grégory Le Floch est aussi professeur de lettres. Il évoque, dans cette tribune à « l’Obs », sa difficulté croissante à aborder des œuvres jugées « immorales » par certains élèves.",
     "thumbnail": "thumbnails/1934omy.webp",
     "tags": [
-      "Grégory le Floch",
-      "Société"
+      "Éducation"
     ],
     "analyzed_at": "2026-11-01T11:00:31.479512+00:00"
-  },
-  {
-    "id": "192k2sf",
-    "title": "Brigitte Macron assurera la Régence le temps que Gabriel Attal soit en âge de gouverner",
-    "url": "https://www.legorafi.fr/2024/01/09/brigitte-macron-assurera-la-regence-le-temps-que-gabriel-attal-soit-en-age-de-gouverner/",
-    "permalink": "/r/france/comments/192k2sf/brigitte_macron_assurera_la_régence_le_temps_que/",
-    "created_at": "2024-01-09T17:24:20+00:00",
-    "score": 868,
-    "num_comments": 64,
-    "subreddit": "france",
-    "author": "SweeneyisMad",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/if5Nq2f9d6GMC4-CoBC_YCpTMLFOM9E2U3HanFOE69M.jpeg?auto=webp&s=223bec9e83f8dbd39431d19d133bdfbdfd5542f2",
-    "ingested_at": "2026-11-01T10:49:42.772106+00:00",
-    "summary": "Quelques heures après avoir nommé Gabriel Attal au poste de Premier ministre, Emmanuel Macron a annoncé que sa femme assurerait la Régence en attendant que le jeune Gabriel soit en âge de gouverner.",
-    "thumbnail": "thumbnails/192k2sf.webp",
-    "tags": [
-      "Régence",
-      "Gabriel Attal",
-      "Brigitte Macron",
-      "Emmanuel Macron",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T11:00:31.021816+00:00"
   },
   {
     "id": "192i80n",
@@ -1556,11 +1283,7 @@
     "summary": "Dans une enquête publiée par le Wall Street Journal, plusieurs collaborateurs craignent que la consommation de drogues d’Elon Musk fasse tanguer leur entreprise.",
     "thumbnail": "thumbnails/192i80n.webp",
     "tags": [
-      "Elon Musk",
-      "SpaceX",
-      "Tesla",
-      "LSD",
-      "Tesla et SpaceX"
+      "Elon Musk"
     ],
     "analyzed_at": "2026-11-01T11:00:32.284048+00:00"
   },
@@ -1582,11 +1305,9 @@
     "summary": "Jusqu'ici ministre de l'Éducation nationale, Gabriel Attal devient ce mardi 9 janvier Premier ministre. Il succède à Élisabeth Borne, qui a présenté la veille la démission de son gouvernement à Emmanuel Macron.",
     "thumbnail": "thumbnails/192cl0d.webp",
     "tags": [
+      "Élisabeth Borne",
       "Gabriel Attal",
-      "Elisabeth Borne",
-      "BFMTV",
-      "Éducation",
-      "Politique"
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T11:00:31.507159+00:00"
   },
@@ -1607,13 +1328,7 @@
     "ingested_at": "2026-11-01T10:49:42.773289+00:00",
     "summary": "Technologie : Le navigateur de la fondation Mozilla ne cumule plus que 2,2 % de parts de marché. Retour sur la chute du célèbre navigateur open source.",
     "thumbnail": "thumbnails/1929g9d.webp",
-    "tags": [
-      "Google Chrome",
-      "Mozilla",
-      "Firefox",
-      "Chrome",
-      "Économie"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:00:31.659223+00:00"
   },
   {
@@ -1634,11 +1349,8 @@
     "summary": "Élisabeth Borne n'est plus Première ministre. La cheffe du gouvernement a présenté sa démission à Emmanuel Macron ce lundi.",
     "thumbnail": "thumbnails/191q3q4.webp",
     "tags": [
-      "Élisabeth Borne",
       "Emmanuel Macron",
-      "France Bleu",
-      "Première",
-      "Politique"
+      "Élisabeth Borne"
     ],
     "analyzed_at": "2026-11-01T11:00:32.276517+00:00"
   },
@@ -1659,9 +1371,7 @@
     "ingested_at": "2026-11-01T10:49:42.773071+00:00",
     "summary": "",
     "thumbnail": "thumbnails/191i5oo.webp",
-    "tags": [
-      "CAC 40"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:00:33.023944+00:00"
   },
   {
@@ -1681,13 +1391,7 @@
     "ingested_at": "2026-11-01T10:49:42.774177+00:00",
     "summary": "FOCUS - L’appareil enchaîne les déconvenues depuis sa mise en service en 2017. Vendredi, une partie du fuselage d’un avion d’Alaska Airlines s’est détachée en plein vol, sans faire de blessés.",
     "thumbnail": "thumbnails/190pjhk.webp",
-    "tags": [
-      "Max",
-      "Boeing",
-      "Aviation",
-      "Boeing 737 MAX",
-      "Alaska Airlines"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:00:32.494026+00:00"
   },
   {
@@ -1707,10 +1411,7 @@
     "ingested_at": "2026-11-01T10:49:42.773907+00:00",
     "summary": "",
     "thumbnail": "thumbnails/190pivm.webp",
-    "tags": [
-      "Boeing 737",
-      "MAX"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:00:33.626226+00:00"
   },
   {
@@ -1730,12 +1431,7 @@
     "ingested_at": "2026-11-01T10:49:42.774250+00:00",
     "summary": "Cette étonnante annonce sur le réseau professionnel reflète la grave crise de recrutement qui sévit au sein de la marine britannique.",
     "thumbnail": "thumbnails/190blll.webp",
-    "tags": [
-      "Royal Navy",
-      "LinkedIn",
-      "Royaume-uni",
-      "Telegraph"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:00:33.363198+00:00"
   },
   {
@@ -1756,9 +1452,7 @@
     "summary": "Ce vendredi 5 janvier sur X, le ministre de la Transformation et de la Fonction publiques, Stanislas Guerini, a annoncé une augmentation du salaire des agents publics de 300 euros bruts par an… soit 25 euros bruts par mois. De quoi susciter l'hilarité – quand ce n'est pas l'indignation – de nombreux internautes.",
     "thumbnail": "thumbnails/18zz0hj.webp",
     "tags": [
-      "Stanislas Guerini",
-      "Transformation et de la Fonction",
-      "Économie"
+      "Travail"
     ],
     "analyzed_at": "2026-11-01T11:00:32.870762+00:00"
   },
@@ -1780,9 +1474,7 @@
     "summary": "Âgé de 30 ans, l'homme est décédé vendredi après-midi après son interpellation à Montfermeil dans la nuit de mercredi à jeudi. D'après le parquet, les policiers ont fait usage de leur pistolet à impulsion électrique face à l'état \"de surexcitation\" et \"d'agressivité\" de la victime.",
     "thumbnail": "thumbnails/18zhiy3.webp",
     "tags": [
-      "Police nationale",
-      "Montfermeil",
-      "Paris"
+      "Police"
     ],
     "analyzed_at": "2026-11-01T11:00:33.113778+00:00"
   },
@@ -1803,9 +1495,7 @@
     "ingested_at": "2026-11-01T10:49:42.774007+00:00",
     "summary": "",
     "thumbnail": "thumbnails/18zantu.webp",
-    "tags": [
-      "Belges"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:00:38.269662+00:00"
   },
   {
@@ -1825,12 +1515,7 @@
     "ingested_at": "2026-11-01T10:49:42.772650+00:00",
     "summary": "La marque de cosmétique fait l’objet d’un «bad buzz» après la commercialisation d’un «sérum prodigieux anti-âge lumière» vendu 650 euros le pot de 50 ml.",
     "thumbnail": "thumbnails/18yiqlt.webp",
-    "tags": [
-      "Guerlain",
-      "Économie",
-      "G Milgram",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:00:33.370082+00:00"
   },
   {
@@ -1851,11 +1536,7 @@
     "summary": "Ces travaux, publiés mardi 2 janvier dans une revue scientifique, analysent le nombre de décès liés à ce médicament controversé, prôné notamment par Didier Raoult. L’estimation est très \"sous-estimée\", précisent les auteurs.",
     "thumbnail": "thumbnails/18ybfa9.webp",
     "tags": [
-      "Didier Raoult",
-      "Covid-19",
-      "Santé",
-      "Sciences et Santé",
-      "Société"
+      "Covid-19"
     ],
     "analyzed_at": "2026-11-01T11:00:33.804800+00:00"
   },
@@ -1876,13 +1557,7 @@
     "ingested_at": "2026-11-01T10:49:42.772384+00:00",
     "summary": "Harcelé dans un lycée du Pays basque en 2000, Alexandre a subi des « olives ». Pour ses bourreaux, c’était une blague potache. Son traumatisme est indélébile. À 40 ans, il a déposé plainte pour viols, en août dernier",
     "thumbnail": "thumbnails/18xg1iq.webp",
-    "tags": [
-      "Pays",
-      "Bayonne",
-      "Faits divers",
-      "Yoann Boffo",
-      "Pyrénées-Atlantiques"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:00:33.847383+00:00"
   },
   {
@@ -1903,10 +1578,7 @@
     "summary": "",
     "thumbnail": "thumbnails/18xflju.webp",
     "tags": [
-      "Visual Evidence Shows Israel Dropped 2",
-      "Bombs Where It Ordered Gaza's Civilians",
-      "Move",
-      "Safety"
+      "Conflit israélo-palestinien"
     ],
     "analyzed_at": "2026-11-01T11:00:39.097632+00:00"
   },
@@ -1928,11 +1600,7 @@
     "summary": "Saleh al-Arouri, le numéro deux du Hamas, a été tué dans une frappe israélienne sur la banlieue de Beyrouth, au Liban, mardi 2 janvier au soir.",
     "thumbnail": "thumbnails/18wv2j4.webp",
     "tags": [
-      "Hamas",
-      "Liban",
-      "Guerre Israël-Hamas",
-      "VIDEO",
-      "Politique"
+      "Conflit israélo-palestinien"
     ],
     "analyzed_at": "2026-11-01T11:00:33.819457+00:00"
   },
@@ -1954,11 +1622,7 @@
     "summary": "Moscou se serait rapproché du parti d'extrême droite pour tenter d'affaiblir le soutien de la France à l'Ukraine, d'après une enquête du \"Washington Post\".",
     "thumbnail": "thumbnails/18wrvt4.webp",
     "tags": [
-      "Russie",
-      "RN",
-      "Ukraine",
-      "Washington Post",
-      "Politique"
+      "Guerre en Ukraine"
     ],
     "analyzed_at": "2026-11-01T11:00:33.909233+00:00"
   },
@@ -1980,10 +1644,6 @@
     "summary": "La quasi-totalité des \"Phryge\", peluches officielles, sort d’usines installées… en Chine. Un crève-cœur pour les défenseurs du patriotisme économique.",
     "thumbnail": "thumbnails/18vx6di.webp",
     "tags": [
-      "Jeux",
-      "China",
-      "Chine",
-      "Entreprises",
       "Économie"
     ],
     "analyzed_at": "2026-11-01T11:00:34.448904+00:00"
@@ -2005,10 +1665,7 @@
     "ingested_at": "2026-11-01T10:49:42.773983+00:00",
     "summary": "Un important tremblement de terre a frappé le centre du Japon ce lundi 1er janvier 2024. Une alerte au tsunami a été enclenchée dans la matinée, avant que la menace ne soit \"largement écartée\" en milieu de journée.",
     "thumbnail": "thumbnails/18vs05u.webp",
-    "tags": [
-      "Japon",
-      "Ishikawa"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:00:34.806012+00:00"
   }
 ]

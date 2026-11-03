@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{% block title %}{{ SITE_NAME }} — {{ SITE_TAGLINE }}{% endblock %}</title>
-  <meta name="description" content="{% block description %}L'actualité vue par les Français de r/france : chaque news résumée et remise dans son contexte, en suivant le fil de ses tags.{% endblock %}">
+  <meta name="description" content="{% block description %}L'actualité vue par r/france : chaque news résumée et remise dans son contexte, en suivant le fil des personnalités et des thèmes qu'elle touche.{% endblock %}">
   <meta name="robots" content="{% block robots %}index, follow, max-image-preview:large{% endblock %}">
   {% block canonical %}<link rel="canonical" href="{{ request.path|absolute }}">{% endblock %}
   <meta name="theme-color" content="#ca2026">
@@ -14,7 +14,7 @@
   <meta property="og:locale" content="fr_FR">
   <meta property="og:type" content="{% block og_type %}website{% endblock %}">
   <meta property="og:title" content="{% block og_title %}{{ SITE_NAME }} — {{ SITE_TAGLINE }}{% endblock %}">
-  <meta property="og:description" content="{% block og_description %}L'actualité vue par les Français, remise dans son contexte : suivez le fil de chaque sujet.{% endblock %}">
+  <meta property="og:description" content="{% block og_description %}L'actualité vue par r/france, remise dans son contexte : suivez le fil de chaque sujet.{% endblock %}">
   <meta property="og:url" content="{{ request.path|absolute }}">
   {% block og_image %}<meta property="og:image" content="{% static 'img/og-default.png' as og %}{{ og|absolute }}">{% endblock %}
   <meta name="twitter:card" content="summary_large_image">
@@ -36,16 +36,17 @@
   <header class="site-header">
     <div class="container site-header__inner">
       <a class="brand" href="{% url 'home' %}" rel="home">
-        <img class="brand__mark" src="{% static 'img/favicon.svg' %}" width="36" height="36" alt="">
+        {% include "partials/icon_logo.html" %}
         <span class="brand__name">Fil<span>News</span></span>
         <span class="brand__tagline">{{ SITE_TAGLINE }}</span>
       </a>
-      {% url 'home' as home_url %}{% url 'archive' as archive_url %}{% url 'tag_index' as tags_url %}{% url 'about' as about_url %}
+      {% url 'home' as home_url %}{% url 'archive' as archive_url %}{% url 'tag_index' as tags_url %}{% url 'election' as election_url %}{% url 'about' as about_url %}
       <nav class="site-nav" aria-label="Navigation principale">
         <ul class="site-nav__list">
           <li><a href="{{ home_url }}"{% if request.path == home_url %} aria-current="page"{% endif %}>Accueil</a></li>
           <li><a href="{{ archive_url }}"{% if request.path == archive_url %} aria-current="page"{% endif %}>Archives</a></li>
-          <li><a href="{{ tags_url }}"{% if request.path == tags_url %} aria-current="page"{% endif %}>Tags</a></li>
+          <li><a href="{{ tags_url }}"{% if request.path == tags_url %} aria-current="page"{% endif %}>Tous les fils</a></li>
+          <li><a href="{{ election_url }}"{% if request.path == election_url %} aria-current="page"{% endif %}>Présidentielle 2027</a></li>
           <li><a href="{{ about_url }}"{% if request.path == about_url %} aria-current="page"{% endif %}>À propos</a></li>
           <li><a class="rss-link" href="{% url 'rss' %}">{% include "partials/icon_rss.html" %}<span>RSS</span></a></li>
           <li><button class="theme-toggle" type="button" aria-pressed="false" hidden>{% include "partials/icon_theme.html" %}<span class="visually-hidden">Thème sombre</span></button></li>
@@ -54,15 +55,20 @@
     </div>
   </header>
 
-  <main id="main" class="container site-main" tabindex="-1">
-    {% block content %}{% endblock %}
+  <main id="main" class="site-main" tabindex="-1">
+    {% block intro %}{% endblock %}
+    <div class="container site-main__inner">
+      {% block content %}{% endblock %}
+    </div>
   </main>
 
   <footer class="site-footer">
     <div class="container site-footer__inner">
-      <p>© {{ current_year }} {{ SITE_NAME }} — l'actualité remise dans son contexte, fil par fil.</p>
+      <p>© {{ current_year }} {{ SITE_NAME }} — l'actualité vue par r/france, fil par fil. Les articles appartiennent à leurs éditeurs.</p>
       <ul class="site-footer__links">
         <li><a href="{% url 'about' %}">À propos</a></li>
+        <li><a href="{% url 'legal' %}">Mentions légales</a></li>
+        <li><a href="{{ SITE_SOURCE_URL }}" rel="noopener">Code source</a></li>
         <li><a href="{% url 'rss' %}">Flux RSS</a></li>
         <li><a href="{% url 'sitemap' %}">Plan du site</a></li>
       </ul>

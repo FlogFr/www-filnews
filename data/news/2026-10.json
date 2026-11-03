@@ -17,8 +17,7 @@
     "summary": "De nouvelles manifestations étaient organisées samedi, dans toute la France, à l’appel de collectifs de Gilets jaunes, d’étudiants et de lycéens. Des cortèges placés sous haute surveillance, avec plu…",
     "thumbnail": "thumbnails/1xknifp.webp",
     "tags": [
-      "Gilets",
-      "Politique"
+      "Manifestations"
     ],
     "analyzed_at": "2026-11-01T12:23:33.851135+00:00"
   },
@@ -40,33 +39,9 @@
     "summary": "Présentés par les autorités comme une alternative graduée aux armes à feu, les lanceurs de balles de défense (LBD), grenades et gaz lacrymogènes occupent aujourd’hui une place centrale dans l’arsenal du maintien de l’ordre en France. Pourtant, certains de ces équipements sont juridiquement classés...",
     "thumbnail": "thumbnails/1xkkvdk.webp",
     "tags": [
-      "LBD"
+      "Police"
     ],
     "analyzed_at": "2026-11-01T12:23:33.621405+00:00"
-  },
-  {
-    "id": "1xkknns",
-    "title": "40 fois moins de vues : TikTok censure les contenus liés aux manifestations main dans la main avec l’État",
-    "url": "https://www.revolutionpermanente.fr/40-fois-moins-de-vues-TikTok-censure-les-contenus-lies-aux-manifestations-sous-pression-du",
-    "permalink": "/r/france/comments/1xkknns/40_fois_moins_de_vues_tiktok_censure_les_contenus/",
-    "created_at": "2026-10-31T20:33:39+00:00",
-    "score": 1139,
-    "num_comments": 40,
-    "subreddit": "france",
-    "author": "SweeneyisMad",
-    "flair": "Société",
-    "domain": "revolutionpermanente.fr",
-    "selftext": "",
-    "reddit_thumbnail": "",
-    "ingested_at": "2026-11-01T12:23:31.457812+00:00",
-    "summary": "Alors que les contenus liés au mouvement en cours étaient largement relayés sur les réseaux sociaux et Tiktok en particulier, leur visibilité a radicalement chuté sur les fils d'actualité.",
-    "thumbnail": "thumbnails/1xkknns.webp",
-    "tags": [
-      "État",
-      "Tiktok",
-      "Société"
-    ],
-    "analyzed_at": "2026-11-01T12:23:33.383831+00:00"
   },
   {
     "id": "1xki1im",
@@ -86,11 +61,8 @@
     "summary": "Le fondateur de Free n'a pas mÃ¢chÃ© ses mots. InterrogÃ© sur X Ã propos de la taxe sur les donnÃ©es numÃ©riques votÃ©e vendredi Ã l'AssemblÃ©e, Xavier Niel a qualifiÃ© ses auteurs d'Â« ignares incompÃ©tents Â». Il aura suffi d'une question d'un internaute.",
     "thumbnail": "thumbnails/1xki1im.webp",
     "tags": [
-      "Xavier Niel",
-      "Free",
-      "X Ã",
-      "Ã AssemblÃ",
-      "Économie"
+      "Budget et fiscalité",
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T12:23:33.560743+00:00"
   },
@@ -112,9 +84,9 @@
     "summary": "Le ministre de l'Intérieur s'est exprimé ce vendredi soir sur le jet d'une grenade par un policier à proximité d'une femme et de trois enfants, à Rouen, le 24 octobre, dans le cadre d'une manifestation.",
     "thumbnail": "thumbnails/1xkhb7o.webp",
     "tags": [
-      "Rouen",
       "Laurent Nuñez",
-      "Intérieur"
+      "Police",
+      "Manifestations"
     ],
     "analyzed_at": "2026-11-01T12:23:33.400050+00:00"
   },
@@ -136,9 +108,7 @@
     "summary": "Le courrier contenait aussi de la poudre blanche qui a nécessité la décontamination du centre de tri de Montigny-le-Bretonneux. La lettre a",
     "thumbnail": "thumbnails/1xkdntm.webp",
     "tags": [
-      "Ali Rabeh",
-      "Montigny-le-Bretonneux",
-      "Politique"
+      "Racisme"
     ],
     "analyzed_at": "2026-11-01T12:10:17.369556+00:00"
   },
@@ -160,8 +130,7 @@
     "summary": "De nouvelles manifestations étaient organisées samedi, dans toute la France, à l’appel de collectifs de Gilets jaunes, d’étudiants et de lycéens. Des cortèges placés sous haute surveillance, avec plu…",
     "thumbnail": "thumbnails/1xkalpn.webp",
     "tags": [
-      "Gilets",
-      "Politique"
+      "Manifestations"
     ],
     "analyzed_at": "2026-11-01T12:23:34.188051+00:00"
   },
@@ -183,11 +152,7 @@
     "summary": "A six mois de la présidentielle où l’extrême droite est donnée favorite, le professeur au Collège de France analyse en quoi le mouvement lycéen et social et le 17 octobre percutent la campagne et constituent une séquence inédite.",
     "thumbnail": "thumbnails/1xkagz3.webp",
     "tags": [
-      "Patrick Boucheron",
-      "Collège de France",
-      "Mobilisation-du-17-octobre",
-      "Manifestation",
-      "Politique"
+      "Éducation"
     ],
     "analyzed_at": "2026-11-01T12:23:34.537911+00:00"
   },
@@ -208,10 +173,7 @@
     "ingested_at": "2026-10-31T12:39:52.609086+00:00",
     "summary": "Après un événement traumatisant au collège, Maëlle Bescond sait qu'elle veut devenir magistrate. Mais malgré sa licence de droit, la jeune femme de 22 ans s'est heurtée à une série de refus sur Mon Master, y compris dans sa formation de cœur, où elle...",
     "thumbnail": "thumbnails/1xk6ea9.webp",
-    "tags": [
-      "Maëlle Bescond",
-      "Blabla"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T12:10:17.373281+00:00"
   },
   {
@@ -232,8 +194,8 @@
     "summary": "Un militant d’ultradroite a posté une vidéo dans laquelle il confirme une collusion entre sa milice et des membres de la police et des CRS lors de la manifestion du 24 octobre à Nice",
     "thumbnail": "thumbnails/1xk4gqp.webp",
     "tags": [
-      "Nice",
-      "CRS"
+      "Police",
+      "Extrême droite"
     ],
     "analyzed_at": "2026-11-01T12:10:17.508812+00:00"
   },
@@ -254,9 +216,7 @@
     "ingested_at": "2026-10-31T12:39:52.608997+00:00",
     "summary": "Samedi 24 octobre, à Toulouse, une cinquantaine de militants d’extrême droite ont tenté de perturber la manifestation, affirmant vouloir « protéger » une basilique de la ville. Jusqu’au soir, ils ont…",
     "thumbnail": "thumbnails/1xk3yaf.webp",
-    "tags": [
-      "Toulouse"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T12:10:17.413857+00:00"
   },
   {
@@ -276,9 +236,7 @@
     "ingested_at": "2026-10-31T12:39:52.608917+00:00",
     "summary": "Douleurs inhabituelles, saignements, retard de règles... Depuis les manifestations des 17 et 24 octobre, de nombreuses femmes signalent des troubles gynécologiques après avoir été exposées plus ou moins longtemps aux gaz lacrymogènes.",
     "thumbnail": "thumbnails/1xk3mhc.webp",
-    "tags": [
-      "Science"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T12:10:17.417382+00:00"
   },
   {
@@ -299,11 +257,8 @@
     "summary": "A Paris, la manifestation s'est globalement déroulée dans le calme, de la porte de Bagnolet à la porte de Charenton. Puis des tensions ont eu lieu au moment de la dispersion.",
     "thumbnail": "thumbnails/1xk3ffo.webp",
     "tags": [
-      "Paris",
-      "Conseil Etat",
-      "Charenton",
-      "Bagnolet",
-      "Politique"
+      "Manifestations",
+      "Police"
     ],
     "analyzed_at": "2026-11-01T12:10:17.414883+00:00"
   },
@@ -325,7 +280,9 @@
     "summary": "",
     "thumbnail": "thumbnails/1xk37cy.webp",
     "tags": [
-      "Écologie"
+      "Environnement",
+      "Énergie",
+      "Logement"
     ],
     "analyzed_at": "2026-11-01T12:10:17.397614+00:00"
   },
@@ -346,11 +303,7 @@
     "ingested_at": "2026-10-31T12:39:52.608818+00:00",
     "summary": "Ce vendredi minuit, le rappeur Orelsan va sortir un nouveau titre, baptisé « XXX », très politique",
     "thumbnail": "thumbnails/1xjt0j9.webp",
-    "tags": [
-      "XXX",
-      "Orelsan",
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T12:10:17.387379+00:00"
   },
   {
@@ -370,10 +323,7 @@
     "ingested_at": "2026-10-31T12:39:52.608692+00:00",
     "summary": "L'info fera plaisir aux dizaines de personnes mutilées par des tirs de LBD ces dernières années en France.",
     "thumbnail": "thumbnails/1xjr4k6.webp",
-    "tags": [
-      "LBD",
-      "Brügger Thomet"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T12:10:17.701498+00:00"
   },
   {
@@ -394,11 +344,7 @@
     "summary": "Le Canada deviendra le premier « membre associé » de l’Union européenne, a déclaré le premier ministre canadien Mark Carney à l'issue d'un sommet à Montréal.",
     "thumbnail": "thumbnails/1xjpn9g.webp",
     "tags": [
-      "Canada",
-      "UE",
-      "Union",
-      "Mark Carney",
-      "Monde"
+      "Union européenne"
     ],
     "analyzed_at": "2026-11-01T12:10:17.828955+00:00"
   },
@@ -421,8 +367,8 @@
     "thumbnail": "thumbnails/1xjn6fy.webp",
     "tags": [
       "Laurent Nuñez",
-      "Bastille-Nation",
-      "Paris"
+      "Manifestations",
+      "Justice"
     ],
     "analyzed_at": "2026-11-01T12:10:17.919477+00:00"
   },
@@ -444,10 +390,7 @@
     "summary": "StreetPress a identifiÃ© 19 cas de blessures graves qui impliquent des grenades employÃ©es par les forces de l'ordre les 17 et 24 octobre. Certaines sont dues Ã des Ã©clats perforants, Ã rebours des positions du MinistÃ¨re de l'IntÃ©rieur et du fabricant.",
     "thumbnail": "thumbnails/1xjmgia.webp",
     "tags": [
-      "IntÃ",
-      "Ã des Ã",
-      "MinistÃ",
-      "Politique"
+      "Police"
     ],
     "analyzed_at": "2026-11-01T12:10:17.852252+00:00"
   },
@@ -469,11 +412,9 @@
     "summary": "Après une nuit de délibération, le Conseil d’État a validé ce samedi 31 octobre l’arrêté du préfet de police. Le cortège parisien pour ce troisième week-end de mobilisati...",
     "thumbnail": "thumbnails/1xjlwzc.webp",
     "tags": [
-      "Paris",
-      "Bastille-Nation",
-      "Conseil État",
-      "Bagnolet",
-      "Payant"
+      "Justice",
+      "Grèves et syndicats",
+      "Manifestations"
     ],
     "analyzed_at": "2026-11-01T12:10:18.337231+00:00"
   },
@@ -495,9 +436,8 @@
     "summary": "",
     "thumbnail": "thumbnails/1xjkc23.webp",
     "tags": [
-      "Halloween",
       "Laurent Nuñez",
-      "Politique"
+      "Manifestations"
     ],
     "analyzed_at": "2026-11-01T12:10:17.774570+00:00"
   },
@@ -519,35 +459,10 @@
     "summary": "« Mediapart » diffuse des extraits d’une conversation dans laquelle l’auteur de l’attentat de Trappes déploie toute sa xénophobie, en 2024. Deux ans avant les faits, ce sympathisant du Rassemblement …",
     "thumbnail": "thumbnails/1xjjie4.webp",
     "tags": [
-      "Kevin Tessier",
-      "Trappes",
-      "Rassemblement"
+      "Immigration",
+      "Racisme"
     ],
     "analyzed_at": "2026-11-01T12:10:17.887977+00:00"
-  },
-  {
-    "id": "1xjigah",
-    "title": "Les députés adoptent une taxe sur la bande passante",
-    "url": "https://www.silicon.fr/business-1367/taxe-bande-passante-230030",
-    "permalink": "/r/france/comments/1xjigah/les_députés_adoptent_une_taxe_sur_la_bande/",
-    "created_at": "2026-10-30T15:29:04+00:00",
-    "score": 385,
-    "num_comments": 477,
-    "subreddit": "france",
-    "author": "Salamafet",
-    "flair": "Tech",
-    "domain": "silicon.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/7-OypGsSHZStdt4zj3D9LNN4RaSVAuJdRiSwKlNHdEo.jpeg?auto=webp&s=ce6235faa3d76dea28ee939d6620ee097c5f524c",
-    "ingested_at": "2026-10-31T12:39:52.608980+00:00",
-    "summary": "Un amendement adopté dans le contexte du PLF 2027 vise à taxer les fournisseurs de contenus sur la base des volumes de données envoyées.",
-    "thumbnail": "thumbnails/1xjigah.webp",
-    "tags": [
-      "PLF 2027",
-      "Business",
-      "Tech"
-    ],
-    "analyzed_at": "2026-11-01T12:10:17.927360+00:00"
   },
   {
     "id": "1xjh5t7",
@@ -567,10 +482,9 @@
     "summary": "",
     "thumbnail": "",
     "tags": [
-      "Trappes",
-      "Attal",
-      "Retailleau",
-      "Politique"
+      "Gabriel Attal",
+      "Bruno Retailleau",
+      "Racisme"
     ],
     "analyzed_at": "2026-11-01T12:10:18.817026+00:00"
   },
@@ -592,7 +506,8 @@
     "summary": "Le président du Département a annoncé vouloir réaliser un « geste social » envers les gendarmes et les policiers en proposant la gratuité du repas ...",
     "thumbnail": "thumbnails/1xjh2wo.webp",
     "tags": [
-      "Département"
+      "Police",
+      "Éducation"
     ],
     "analyzed_at": "2026-11-01T12:10:18.345457+00:00"
   },
@@ -614,9 +529,7 @@
     "summary": "Mis en garde à vue pour comportement déplacé le mardi 27 octobre, Mauricio K. a succombé à des blessures, précisément retrouvées sur des zones de son corps matraquées par la p...",
     "thumbnail": "thumbnails/1xjgof4.webp",
     "tags": [
-      "Mauricio K",
-      "Payant",
-      "Fait Divers"
+      "Police"
     ],
     "analyzed_at": "2026-11-01T12:10:18.600654+00:00"
   },
@@ -638,11 +551,9 @@
     "summary": "De nombreuses publications sur les réseaux sociaux accusent les policiers d'avoir protégé et laissé agir ces groupes. Si l'exécutif nie toute accointance entre forces de l'ordre et militants, franceinfo a recueilli plusieurs témoignages et images qui suggèrent le contraire.",
     "thumbnail": "thumbnails/1xjgczq.webp",
     "tags": [
-      "Montpellier",
-      "ENQUETE FRANCEINFO",
-      "CRS",
-      "Loge",
-      "Manifestations du 31 octobre"
+      "Police",
+      "Manifestations",
+      "Extrême droite"
     ],
     "analyzed_at": "2026-11-01T12:10:18.239182+00:00"
   },
@@ -665,10 +576,8 @@
     "thumbnail": "thumbnails/1xjekym.webp",
     "tags": [
       "Jean-Luc Mélenchon",
-      "France Culture",
-      "Jean-Marie le Pen",
-      "Juifs",
-      "Politique"
+      "Médias",
+      "Jean-Marie Le Pen"
     ],
     "analyzed_at": "2026-11-01T12:10:18.347679+00:00"
   },
@@ -690,11 +599,7 @@
     "summary": "Tandis qu’un hommage se tiendra dans la commune endeuillée ce vendredi soir, l’élu Génération.s appelle à une modification de la Constitution pour rendre la théorie «illégale».",
     "thumbnail": "thumbnails/1xjcmxz.webp",
     "tags": [
-      "Trappes",
-      "Ali Rabeh",
-      "Grand remplacement",
-      "Racisme",
-      "Politique"
+      "Terrorisme"
     ],
     "analyzed_at": "2026-11-01T12:10:18.326126+00:00"
   },
@@ -716,11 +621,7 @@
     "summary": "Tirs de LBD, grenades de désencerclement ou assourdissantes... Au moins 20 enquêtes ont été ouvertes par l'IGPN pour des \"blessures mutilantes\" depuis le début de la mobilisation des lycéens mi-septembre, que ce soit au cours des manifestations ou des débordements qui les ont émaillées.",
     "thumbnail": "thumbnails/1xjazvo.webp",
     "tags": [
-      "IGPN",
-      "RTL",
-      "Blocage des lycées",
-      "Police",
-      "Violences du 17 octobre"
+      "Police"
     ],
     "analyzed_at": "2026-11-01T12:10:18.665750+00:00"
   },
@@ -741,9 +642,7 @@
     "ingested_at": "2026-11-01T12:09:27.160137+00:00",
     "summary": "",
     "thumbnail": "thumbnails/1xjasmi.webp",
-    "tags": [
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T12:10:18.395043+00:00"
   },
   {
@@ -764,11 +663,8 @@
     "summary": "Dans la nuit du 31 octobre au 1er novembre 2025, à Villejuif, Guillaume M., 26 ans, affirme avoir été frappé et couvert d’injures racistes par deux policiers en civil. ...",
     "thumbnail": "thumbnails/1xj9nx1.webp",
     "tags": [
-      "Guillaume",
-      "Halloween",
-      "Villejuif",
-      "Payant",
-      "Société"
+      "Police",
+      "Racisme"
     ],
     "analyzed_at": "2026-11-01T12:10:19.242378+00:00"
   },
@@ -790,11 +686,7 @@
     "summary": "Andy Yen, CEO de Proton, a qualifiÃ© de Â«Â loser thinkingÂ Â» la demande d'un employÃ© qui voulait prendre quelques jours pour tester la sÃ©curitÃ© d'un nouveau code avant sa mise en ligne, rÃ©vÃ¨le 404 Media ce jeudi 29 octobre 2026.",
     "thumbnail": "thumbnails/1xj9ebv.webp",
     "tags": [
-      "IA",
-      "Proton",
-      "CEO",
-      "Andy Yen",
-      "Tech"
+      "Intelligence artificielle"
     ],
     "analyzed_at": "2026-11-01T12:10:18.692758+00:00"
   },
@@ -816,9 +708,8 @@
     "summary": "Depuis le 17 octobre, sous prétexte de « défendre les commerçants » pillés, des milices d’extrême droite ne dissimulent plus leur violence. De leur organisation sur ...",
     "thumbnail": "thumbnails/1xj9cgr.webp",
     "tags": [
-      "Telegram",
-      "Hitler",
-      "Payant"
+      "Extrême droite",
+      "Police"
     ],
     "analyzed_at": "2026-11-01T12:10:19.537400+00:00"
   },
@@ -839,11 +730,7 @@
     "ingested_at": "2026-10-31T13:12:51.897394+00:00",
     "summary": "Selon nos informations, Vincent Bolloré a versé plusieurs dizaines de milliers d’euros à Xenia Fedorova, et envisagerait de plus grosses sommes afin de lui permettre de monter une agence de presse qui concurrencerait l’AFP. Relais en France de la…",
     "thumbnail": "thumbnails/1xj9bw8.webp",
-    "tags": [
-      "Vincent Bolloré",
-      "Xenia Fedorova",
-      "AFP"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T12:10:18.771154+00:00"
   },
   {
@@ -864,11 +751,7 @@
     "summary": "Une pétition mise en ligne en juin dernier pour demander l’interdiction de CNews cartonne depuis quelques jours. Si elle dépasse les 500 000 signataires, elle a une chance d’être di...",
     "thumbnail": "thumbnails/1xj9bsy.webp",
     "tags": [
-      "CNews",
-      "Assemblée Nationale",
-      "Lucas Massoni",
-      "Gratuit",
-      "Politique"
+      "Médias"
     ],
     "analyzed_at": "2026-11-01T12:10:19.577262+00:00"
   },
@@ -890,8 +773,8 @@
     "summary": "Un homme de 63 ans a été condamné pour apologie de terrorisme à douze mois de prison, dont huit ferme, après avoir salué l’action du terroriste de Trappes. « Si je n’avais pas passé autant de temps d…",
     "thumbnail": "thumbnails/1xj86d1.webp",
     "tags": [
-      "Trappes",
-      "Martinique"
+      "Justice",
+      "Outre-mer"
     ],
     "analyzed_at": "2026-11-01T12:10:18.969192+00:00"
   },
@@ -913,9 +796,8 @@
     "summary": "",
     "thumbnail": "thumbnails/1xivvfl.webp",
     "tags": [
-      "Monde",
-      "Edouard Philippe",
-      "Politique"
+      "Édouard Philippe",
+      "Corruption"
     ],
     "analyzed_at": "2026-11-01T12:10:18.900875+00:00"
   },
@@ -936,13 +818,7 @@
     "ingested_at": "2026-10-31T13:12:50.731540+00:00",
     "summary": "",
     "thumbnail": "thumbnails/1xiu2er.webp",
-    "tags": [
-      "Patrick Stewart",
-      "Captain Picard",
-      "Star Trek",
-      "Next Generation",
-      "Culture"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T12:10:23.881351+00:00"
   },
   {
@@ -963,7 +839,9 @@
     "summary": "",
     "thumbnail": "",
     "tags": [
-      "Montpellier"
+      "Police",
+      "Extrême droite",
+      "Manifestations"
     ],
     "analyzed_at": "2026-11-01T12:10:19.825493+00:00"
   },
@@ -985,11 +863,8 @@
     "summary": "Trois jours avant son périple meurtrier à Trappes, Kevin Tessier a frappé un homme noir avant d’être interpellé par des policiers, selon les premiers éléments de l'enquête.",
     "thumbnail": "thumbnails/1ximmvc.webp",
     "tags": [
-      "Yvelines",
-      "Kevin Tessier",
-      "Trappes",
-      "Attentat raciste à Trappes",
-      "Faits-divers"
+      "Racisme",
+      "Terrorisme"
     ],
     "analyzed_at": "2026-11-01T12:10:19.194921+00:00"
   },
@@ -1011,11 +886,8 @@
     "summary": "Dans les années 90, la Serp, société d’édition musicale gérée par Marie-Caroline Le Pen, et dont Marine Le Pen était actionnaire, rééditait des CD de chants de l’armée nazie ou de discours de figures de la collaboration.",
     "thumbnail": "thumbnails/1xiigcz.webp",
     "tags": [
-      "Marine le Pen",
-      "Waffen-SS",
-      "Pen",
-      "Marie-Caroline le Pen",
-      "Politique"
+      "Marine Le Pen",
+      "Antisémitisme"
     ],
     "analyzed_at": "2026-11-01T12:10:25.777006+00:00"
   },
@@ -1037,11 +909,9 @@
     "summary": "Les deux principales formations politiques arabes israéliennes sont en passe de rafler un nombre de sièges inédit dans leur histoire.",
     "thumbnail": "thumbnails/1xiif73.webp",
     "tags": [
-      "Itamar Ben Gvir",
-      "Israël",
-      "Benyamin Nétanyahou",
-      "Elections législatives en Israël",
-      "Monde"
+      "Conflit israélo-palestinien",
+      "Élections",
+      "Extrême droite"
     ],
     "analyzed_at": "2026-11-01T12:10:19.500222+00:00"
   },
@@ -1063,11 +933,7 @@
     "summary": "Fnac Darty collectait et traitait des données personnelles de ses utilisateurs sans recueillir leur consentement ; même lorsqu’ils refusaient…",
     "thumbnail": "thumbnails/1xii2ep.webp",
     "tags": [
-      "Fnac Darty",
-      "CNIL",
-      "Android",
-      "API",
-      "Tech"
+      "Numérique"
     ],
     "analyzed_at": "2026-11-01T12:10:19.528261+00:00"
   },
@@ -1089,11 +955,8 @@
     "summary": "INFO LE PARISIEN. Le collectif d’extrême droite Objectif Remigration appelait une manifestation dimanche à Paris. Un colloque sur la remigra",
     "thumbnail": "thumbnails/1xihkzl.webp",
     "tags": [
-      "Paris",
-      "Plessis-Robinson",
-      "PARISIEN",
-      "Objectif Remigration",
-      "Trappes"
+      "Extrême droite",
+      "Manifestations"
     ],
     "analyzed_at": "2026-11-01T12:10:19.537201+00:00"
   },
@@ -1115,9 +978,7 @@
     "summary": "",
     "thumbnail": "",
     "tags": [
-      "Trappes",
-      "RN",
-      "Politique"
+      "Terrorisme"
     ],
     "analyzed_at": "2026-11-01T12:10:20.885901+00:00"
   },
@@ -1138,10 +999,7 @@
     "ingested_at": "2026-10-31T13:12:51.897183+00:00",
     "summary": "Partout dans le monde, les pratiques autoritaires progressent et contaminent même les démocraties. La France n’est plus à l’abri de cette tendance mondiale. Notre analyse des sept signes des pratiques autoritaires montre pourquoi notre État de droit est aujourd’hui en état d’alerte.",
     "thumbnail": "thumbnails/1xigbko.webp",
-    "tags": [
-      "États-Unis",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T12:10:20.345809+00:00"
   },
   {
@@ -1162,10 +1020,7 @@
     "summary": "La secrétaire nationale des écologistes est venue au secours de l'international français, empêtré dans une polémique avec la Chine après avoir qualifié Mao Zedong de \"dictateur\".",
     "thumbnail": "thumbnails/1xig8ht.webp",
     "tags": [
-      "Kylian Mbappé",
-      "Mao Zedong",
       "Marine Tondelier",
-      "Chine",
       "Élections"
     ],
     "analyzed_at": "2026-11-01T12:10:19.966943+00:00"
@@ -1188,7 +1043,8 @@
     "summary": "",
     "thumbnail": "thumbnails/1xifn3d.webp",
     "tags": [
-      "Société"
+      "Racisme",
+      "Élection présidentielle"
     ],
     "analyzed_at": "2026-11-01T12:10:19.673531+00:00"
   },
@@ -1210,9 +1066,7 @@
     "summary": "",
     "thumbnail": "thumbnails/1xiegzb.webp",
     "tags": [
-      "Jonathan Littell",
-      "Emmanuel Macron",
-      "Politique"
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T12:10:19.769508+00:00"
   },
@@ -1234,39 +1088,10 @@
     "summary": "A l'heure actuelle, une victime de viol subi dans l'enfance peut porter plainte jusqu'à 48 ans, le délai de prescription étant de trente ans à compter de sa majorité, un délai jugé insuffisant par certaines associations de protection de l'enfance.",
     "thumbnail": "thumbnails/1xid6t6.webp",
     "tags": [
-      "Sénat",
       "Violences sexuelles",
-      "Faits-divers",
-      "Mort de Lyhanna",
-      "Politique"
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T12:10:20.057381+00:00"
-  },
-  {
-    "id": "1xi2xza",
-    "title": "24 octobre : un rapport de l'Observatoire des Libertés de Montpellier dénonce \"un groupe type milice\" aux côtés des CRS",
-    "url": "https://lepoing.net/24-octobre-un-rapport-de-lobservatoire-des-libertes-de-montpellier-denonce-un-groupe-type-milice-aux-cotes-des-crs/",
-    "permalink": "/r/france/comments/1xi2xza/24_octobre_un_rapport_de_lobservatoire_des/",
-    "created_at": "2026-10-28T22:41:00+00:00",
-    "score": 855,
-    "num_comments": 39,
-    "subreddit": "france",
-    "author": "Cadderep",
-    "flair": "Actus",
-    "domain": "lepoing.net",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/StJJNzyQ9lvawjWnzObdyhODNOOVBqscFI4fGbKsz5A.jpeg?auto=webp&s=41e61f1847417b13419ac9b583a05de097ed376b",
-    "ingested_at": "2026-10-31T13:12:49.482783+00:00",
-    "summary": "Vidéos découpées image par image à l'appui, l'Observatoire des libertés publiques de Montpellier (OLM) et la Ligue des droits de l'Homme ont présenté ce mercredi 28 octobre leur rapport sur la manifestation du 24 octobre.",
-    "thumbnail": "thumbnails/1xi2xza.webp",
-    "tags": [
-      "CRS",
-      "OLM",
-      "Observatoire des Libertés de Montpellier",
-      "Montpellier",
-      "Ligue"
-    ],
-    "analyzed_at": "2026-11-01T12:10:21.115087+00:00"
   },
   {
     "id": "1xi2gmo",
@@ -1286,11 +1111,7 @@
     "summary": "Mauricio K., 44 ans, est mort mardi 27 octobre en garde à vue au commissariat de Saint-Ouen. Son père a déposé plainte ce mercredi pour violences volontaires ayant entraîné ...",
     "thumbnail": "thumbnails/1xi2gmo.webp",
     "tags": [
-      "Saint-Ouen",
-      "IGPN",
-      "Mauricio K",
-      "Gratuit",
-      "Fait Divers"
+      "Police"
     ],
     "analyzed_at": "2026-11-01T12:10:20.064814+00:00"
   },
@@ -1312,8 +1133,8 @@
     "summary": "Bon Pote révèle des échanges et vidéos prouvant la coordination entre milices d'ultradroite et forces de l'ordre à Nice le 24 octobre.",
     "thumbnail": "thumbnails/1xhxut2.webp",
     "tags": [
-      "Nice le 24",
-      "Politique"
+      "Police",
+      "Extrême droite"
     ],
     "analyzed_at": "2026-11-01T12:10:20.336421+00:00"
   },
@@ -1335,8 +1156,7 @@
     "summary": "",
     "thumbnail": "thumbnails/1xhw1s4.webp",
     "tags": [
-      "ONU",
-      "Politique"
+      "Manifestations"
     ],
     "analyzed_at": "2026-11-01T12:10:20.269251+00:00"
   },
@@ -1358,11 +1178,7 @@
     "summary": "Onze jours après la destruction de l’hôtel de ville de Limoges lors des émeutes du 17 octobre, le maire Guillaume Guérin (DVD), déplore sur le plateau de Points de Vue (Le Figaro TV) le silence du président de la République à propos de cet événement qui a marqué le pays.",
     "thumbnail": "thumbnails/1xhspdj.webp",
     "tags": [
-      "Limoges",
-      "JD Vance",
-      "SMS Emmanuel Macron",
-      "Guillaume Guérin",
-      "Politique"
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T12:10:20.430421+00:00"
   },
@@ -1384,9 +1200,8 @@
     "summary": "VIDÉO - La porte-parole du gouvernement et un journaliste indépendant ont eu un échange musclé ce mercredi lors des questions en fin de compte rendu du Conseil des ministres.",
     "thumbnail": "thumbnails/1xhsfyn.webp",
     "tags": [
-      "Maud Bregeon",
-      "Violences policières",
-      "Conseil"
+      "Police",
+      "Médias"
     ],
     "analyzed_at": "2026-11-01T12:10:20.590260+00:00"
   },
@@ -1407,9 +1222,7 @@
     "ingested_at": "2026-10-31T13:12:53.180372+00:00",
     "summary": "",
     "thumbnail": "thumbnails/1xhs8d9.webp",
-    "tags": [
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T12:10:20.589469+00:00"
   },
   {
@@ -1430,11 +1243,7 @@
     "summary": "Montpellier, Nice, Clermont-Ferrand, Lyon, Rouenâ¦ Le 24 octobre, des groupuscules ont violentÃ© des manifestants dans une dizaine de villes. Ils se sont organisÃ©s sur un rÃ©seau Telegram, noyautÃ© et radicalisÃ© par lâextrÃªme droite.",
     "thumbnail": "thumbnails/1xhqxcp.webp",
     "tags": [
-      "Telegram",
-      "Rouenâ le 24",
-      "Â Ã",
-      "Instagram",
-      "Politique"
+      "Extrême droite"
     ],
     "analyzed_at": "2026-11-01T12:10:20.657795+00:00"
   },
@@ -1456,10 +1265,8 @@
     "summary": "Six centres LGBT+ ont Ã©tÃ© visÃ©s par l'extrÃªme droite en 2026. Ces attaques, souvent rÃ©pÃ©tÃ©es et ciblÃ©es, s'inscrivent dans un contexte plus large dâactes violents visant des personnes ou des lieux queers.Â",
     "thumbnail": "thumbnails/1xhox92.webp",
     "tags": [
-      "LGBTQIA",
-      "LGBT",
-      "Â Â",
-      "Société"
+      "LGBT+",
+      "Extrême droite"
     ],
     "analyzed_at": "2026-11-01T12:10:20.725788+00:00"
   },
@@ -1481,7 +1288,8 @@
     "summary": "Dans plusieurs villes de France, le 24 octobre, des milices d’extrême-droite ont attaqué des manifestants mobilisés contre la vie chère. Vidéos et témoignages laissent apparaître une forme de tolérance, voire de coopération, entre les forces de l’ordre et…",
     "thumbnail": "thumbnails/1xhmbma.webp",
     "tags": [
-      "Politique"
+      "Police",
+      "Manifestations"
     ],
     "analyzed_at": "2026-11-01T12:10:22.266357+00:00"
   },
@@ -1503,9 +1311,7 @@
     "summary": "Les proches de Pengo Bossio Wangi, tué par le terroriste d'extrême droite lors de l'attentat de Trappes, vendredi, ont quitté la salle avant la fin des débats.",
     "thumbnail": "thumbnails/1xhklec.webp",
     "tags": [
-      "Trappes",
-      "Assemblée",
-      "Pengo Bossio Wangi"
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T12:10:20.983615+00:00"
   },
@@ -1526,7 +1332,10 @@
     "ingested_at": "2026-10-31T13:12:49.481765+00:00",
     "summary": "Les députés ont supprimé mardi la reconduction de la surtaxe sur les bénéfices des grandes entreprises. Un manque à gagner potentiel de 5 milliards d'euros pour les finances publiques, alors que l'exécutif cherche à réduire le déficit.",
     "thumbnail": "thumbnails/1xhkct5.webp",
-    "tags": [],
+    "tags": [
+      "Budget et fiscalité",
+      "Institutions"
+    ],
     "analyzed_at": "2026-11-01T12:10:21.125808+00:00"
   },
   {
@@ -1547,11 +1356,8 @@
     "summary": "À travers cette mesure imagée dès 2023 et qui concerne particuliers, entreprises et collectivités, l'exécutif espère réunir 400 millions d'euros. La somme permettra d'aider les assureurs et l'État à payer les dégradations des 17 et 24 octobre, estimées à plus d'un milliard d'euros.",
     "thumbnail": "thumbnails/1xhje8b.webp",
     "tags": [
-      "État",
-      "Mobilisation des lycéens",
-      "Société",
-      "Education",
-      "Mobilisation du 17 octobre"
+      "Manifestations",
+      "Budget et fiscalité"
     ],
     "analyzed_at": "2026-11-01T12:10:21.071485+00:00"
   },
@@ -1573,8 +1379,7 @@
     "summary": "",
     "thumbnail": "thumbnails/1xhig1n.webp",
     "tags": [
-      "Paris",
-      "Politique"
+      "Manifestations"
     ],
     "analyzed_at": "2026-11-01T12:10:21.186169+00:00"
   },
@@ -1596,8 +1401,7 @@
     "summary": "Adopté par le Sénat à une large majorité, le projet de loi « casseurs-payeurs » prévoit d’engager la responsabilité civile des participants à des attroupements violents.",
     "thumbnail": "thumbnails/1xhh8c4.webp",
     "tags": [
-      "Sénat",
-      "Politique"
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T12:10:21.236984+00:00"
   },
@@ -1618,7 +1422,10 @@
     "ingested_at": "2026-10-31T13:12:50.732451+00:00",
     "summary": "Sur les réseaux sociaux, des images de groupuscules d’ultradroite qui agressent des manifestants, en marge de la mobilisation du 24 octobre. Parfois sous les yeux de forces de l’ordre qui semblent étonnamment passives.",
     "thumbnail": "thumbnails/1xhgf7k.webp",
-    "tags": [],
+    "tags": [
+      "Extrême droite",
+      "Manifestations"
+    ],
     "analyzed_at": "2026-11-01T12:10:21.601310+00:00"
   },
   {
@@ -1639,9 +1446,8 @@
     "summary": "En marge des manifestations du samedi 24 octobre, des militants d’ultradroite, identitaires, nationalistes sont venus ajouter au désordre et déclencher des séquences violentes dans plusieurs grandes villes de France. Une passivité, voire une « bienveillance » des forces de l’ordre est dénoncée à gauche.",
     "thumbnail": "thumbnails/1xhgc3b.webp",
     "tags": [
-      "Montpellier",
-      "Social",
-      "Politique"
+      "Police",
+      "Extrême droite"
     ],
     "analyzed_at": "2026-11-01T12:10:21.610749+00:00"
   },
@@ -1663,11 +1469,9 @@
     "summary": "[VIDÉO] Le candidat de droite, défait ce dimanche à l'élection présidentielle, a quitté son pays. Le fils de l'ex-président d'extrême droite Jair Bolsonaro n'a toujours pas reconnu son échec à la présidentielle. Flavio Bolsonaro fait l'objet de plusieurs enquêtes.",
     "thumbnail": "thumbnails/1xh6r6y.webp",
     "tags": [
-      "Brésil",
-      "Flavio Bolsonaro",
+      "Élection présidentielle",
       "Jair Bolsonaro",
-      "Donald Trump",
-      "Politique"
+      "Donald Trump"
     ],
     "analyzed_at": "2026-11-01T12:10:21.557506+00:00"
   },
@@ -1689,7 +1493,8 @@
     "summary": "",
     "thumbnail": "thumbnails/1xh4tpm.webp",
     "tags": [
-      "Rouen"
+      "Police",
+      "Manifestations"
     ],
     "analyzed_at": "2026-11-01T12:10:21.511588+00:00"
   },
@@ -1711,11 +1516,9 @@
     "summary": "Une minute de silence a été observée à l'Assemblée nationale ce mardi 27 octobre en hommage aux victimes de l'attentat raciste de Trappes qui a fait un mort, Pengo Bossio Wangi, et sept blessés.",
     "thumbnail": "thumbnails/1xh10wy.webp",
     "tags": [
-      "Assemblée",
-      "Trappes",
-      "Pengo Bossio Wangi",
-      "République",
-      "Politique"
+      "Racisme",
+      "Terrorisme",
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T12:10:21.719526+00:00"
   },
@@ -1736,34 +1539,8 @@
     "ingested_at": "2026-10-31T13:12:53.179760+00:00",
     "summary": "Maïssa, 17 ans, a reçu une grenade lacrymogène dans l’œil le 17 octobre, alors qu’elle passait l’après-midi dans le centre-ville de Mulhouse avec ses amies. Elle raconte ce qui s’est passé et confie l’impact de ce drame sur sa vie.",
     "thumbnail": "thumbnails/1xgxq0n.webp",
-    "tags": [
-      "Mulhouse"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T12:10:21.708244+00:00"
-  },
-  {
-    "id": "1xgudhc",
-    "title": "Au moins 79 attaques d’extrême droite contre les LGBTQIA+ en 2026",
-    "url": "https://www.problematik-media.com/articles/au-moins-79-attaques-dextreme-droite-contre-les-lgbtqia-en-2026",
-    "permalink": "/r/france/comments/1xgudhc/au_moins_79_attaques_dextrême_droite_contre_les/",
-    "created_at": "2026-10-27T14:41:32+00:00",
-    "score": 935,
-    "num_comments": 129,
-    "subreddit": "france",
-    "author": "SecludedClover",
-    "flair": "Société",
-    "domain": "problematik-media.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/PP0yREjWoeQq6Ld_-gAJpohLdhPDJV6SC6Fg7tVbQCg.jpeg?auto=webp&s=c21cd02ee7e872511b146047e23d7d34b1b3e925",
-    "ingested_at": "2026-10-31T13:12:49.482284+00:00",
-    "summary": "Agressions physiques, menaces contre les associations, dégradations insultantes, cyberharcèlement de figures politiques… En 2026, nous avons décompté 79 attaques et actes LGBTphobes commis par l’extrême droite.",
-    "thumbnail": "thumbnails/1xgudhc.webp",
-    "tags": [
-      "LGBTQIA",
-      "LGBTphobes",
-      "Société"
-    ],
-    "analyzed_at": "2026-11-01T12:10:22.528849+00:00"
   },
   {
     "id": "1xgseeb",
@@ -1783,39 +1560,10 @@
     "summary": "Au cinquième étage d'un immeuble de Rennes, une grenade lacrymogène assourdissante a passé la fenêtre pour finir dans l'appartement de Benjamin et sa colocataire en marge de la manifestation du 24 octobre. L'arme, destinée...",
     "thumbnail": "thumbnails/1xgseeb.webp",
     "tags": [
-      "Breton",
-      "Rennes",
-      "Benjamin",
-      "Maëva",
-      "GM2L"
+      "Manifestations",
+      "Police"
     ],
     "analyzed_at": "2026-11-01T12:10:21.963239+00:00"
-  },
-  {
-    "id": "1xgrtvv",
-    "title": "La bulle de l’IA éclate en Chine, effaçant 480 milliards : l’Amérique est-elle la prochaine ?",
-    "url": "https://fr.finance.yahoo.com/actualites/bulle-l-ia-%C3%A9clate-chine-195630331.html",
-    "permalink": "/r/france/comments/1xgrtvv/la_bulle_de_lia_éclate_en_chine_effaçant_480/",
-    "created_at": "2026-10-27T12:58:32+00:00",
-    "score": 762,
-    "num_comments": 286,
-    "subreddit": "france",
-    "author": "dropssupreme",
-    "flair": "Actus",
-    "domain": "fr.finance.yahoo.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/ey1yYj-fhW5lACdvPAykTi3kZXKmac5Hb17E5zRVpFE.jpeg?auto=webp&s=e600a70a97eee4036e9f54dd96e87458c83ae78d",
-    "ingested_at": "2026-10-31T13:12:50.731280+00:00",
-    "summary": "L'éclatement de la bulle IA en Chine a effacé 480 milliards de dollars. Cette semaine, Microsoft, Alphabet et Amazon testeront l'IA américaine.",
-    "thumbnail": "thumbnails/1xgrtvv.webp",
-    "tags": [
-      "IA",
-      "Chine",
-      "Amazon",
-      "401k",
-      "Business"
-    ],
-    "analyzed_at": "2026-11-01T12:10:22.370262+00:00"
   },
   {
     "id": "1xgqunp",
@@ -1835,11 +1583,7 @@
     "summary": "Dans des messages Facebook Messenger que révèle « Mediapart », Kevin T. confirme son soutien à Marine Le Pen et son obsession de l’immigration. « Je supporte plus d’être envahi et de rien faire contr…",
     "thumbnail": "thumbnails/1xgqunp.webp",
     "tags": [
-      "Trappes",
-      "RN",
-      "Facebook Messenger",
-      "Kevin T",
-      "Marine le Pen"
+      "Marine Le Pen"
     ],
     "analyzed_at": "2026-11-01T12:10:22.006420+00:00"
   },
@@ -1861,10 +1605,7 @@
     "summary": "",
     "thumbnail": "",
     "tags": [
-      "RN",
-      "Tourcoing",
-      "Trappes",
-      "Politique"
+      "Terrorisme"
     ],
     "analyzed_at": "2026-11-01T12:10:23.020746+00:00"
   },
@@ -1886,11 +1627,8 @@
     "summary": "Clémence Guetté, députée la France insoumise du Val-de-Marne et vice-présidente de l'Assemblée nationale, dénonce la responsabilité du gouvernement dans \"la libération de la parole raciste\".",
     "thumbnail": "thumbnails/1xgprcn.webp",
     "tags": [
-      "Yvelines",
-      "Clémence Guetté",
-      "LFI",
-      "Assemblée",
-      "Politique"
+      "Racisme",
+      "Terrorisme"
     ],
     "analyzed_at": "2026-11-01T12:10:22.343792+00:00"
   },
@@ -1912,11 +1650,8 @@
     "summary": "Suspecté de détournement de fonds publics, le député RN José Beaurain est visé par une enquête ouverte par le procureur de Laon. Il est notamment accusé d'avoir exigé de ses assistants qu'ils lui restituent une partie...",
     "thumbnail": "thumbnails/1xgpl8i.webp",
     "tags": [
-      "José Beaurain",
-      "RN",
-      "RN José Beaurain",
-      "Laon",
-      "Politique"
+      "Corruption",
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T12:10:22.354138+00:00"
   },
@@ -1938,11 +1673,8 @@
     "summary": "Selon une enquête de la cellule investigation de Radio France, le Rassemblement national a investi ce député de l'Aisne pour les législatives de 2024 et les municipales de 2026, malgré plusieurs alertes internes.",
     "thumbnail": "thumbnails/1xgnqvg.webp",
     "tags": [
-      "RADIO FRANCE",
-      "RN José Beaurain",
-      "Aisne",
-      "José Beaurain",
-      "Rassemblement national"
+      "Institutions",
+      "Corruption"
     ],
     "analyzed_at": "2026-11-01T12:10:22.525261+00:00"
   },
@@ -1964,7 +1696,7 @@
     "summary": "",
     "thumbnail": "thumbnails/1xgnqm9.webp",
     "tags": [
-      "Fait Divers"
+      "Extrême droite"
     ],
     "analyzed_at": "2026-11-01T12:10:24.804284+00:00"
   },
@@ -1986,10 +1718,8 @@
     "summary": "",
     "thumbnail": "thumbnails/1xglp57.webp",
     "tags": [
-      "Didier Guérin",
-      "Marine le Pen",
-      "Cour",
-      "Politique"
+      "Marine Le Pen",
+      "Justice"
     ],
     "analyzed_at": "2026-11-01T12:10:22.476583+00:00"
   },
@@ -2011,7 +1741,7 @@
     "summary": "",
     "thumbnail": "thumbnails/1xglhp4.webp",
     "tags": [
-      "Politique"
+      "Numérique"
     ],
     "analyzed_at": "2026-11-01T12:10:23.456159+00:00"
   },
@@ -2033,8 +1763,7 @@
     "summary": "Crédits photo/illustration en haut de page : Blast, le souffle de l’info",
     "thumbnail": "thumbnails/1xgb9hd.webp",
     "tags": [
-      "BLAST",
-      "Christophe"
+      "Manifestations"
     ],
     "analyzed_at": "2026-11-01T12:10:22.868012+00:00"
   },
@@ -2056,11 +1785,10 @@
     "summary": "Au micro de France Inter, le chef des députés du Rassemblement national (RN) à l’Assemblée nationale accuse l’organisation syndicale de « dé",
     "thumbnail": "thumbnails/1xg8uwv.webp",
     "tags": [
-      "Rassemblement",
-      "CGT",
+      "Grèves et syndicats",
       "Sébastien Chenu",
-      "RN",
-      "Élections"
+      "Élections",
+      "Élection présidentielle"
     ],
     "analyzed_at": "2026-11-01T12:10:22.715888+00:00"
   },
@@ -2082,9 +1810,7 @@
     "summary": "L’influenceuse fait l’objet d’un contrôle judiciaire et d’une interdiction de manifester sur la voie publique après des propos tenus au suje",
     "thumbnail": "thumbnails/1xg60ow.webp",
     "tags": [
-      "Manon Delcourt",
-      "Orly",
-      "Politique"
+      "Manifestations"
     ],
     "analyzed_at": "2026-11-01T12:10:22.773754+00:00"
   },
@@ -2106,9 +1832,7 @@
     "summary": "",
     "thumbnail": "",
     "tags": [
-      "Arcom",
-      "Christine Kelly",
-      "Société"
+      "Médias"
     ],
     "analyzed_at": "2026-11-01T12:10:30.907567+00:00"
   },
@@ -2130,11 +1854,8 @@
     "summary": "En déplacement à Marseille, le chef de l’État a assuré que l’ordre serait maintenu lors des prochaines manifestations, en espérant que le mouvement puisse « se calmer ». Il a aussi pointé du doigt les réseaux sociaux",
     "thumbnail": "thumbnails/1xfzwkd.webp",
     "tags": [
-      "Marseille",
       "Emmanuel Macron",
-      "Politique",
-      "Home",
-      "Société"
+      "Élection présidentielle"
     ],
     "analyzed_at": "2026-11-01T12:10:23.004260+00:00"
   },
@@ -2156,11 +1877,8 @@
     "summary": "Des internautes et créateurs de contenus affirment que des lives et vidéos tournés lors de la mobilisation du 24 octobre ont été supprimés par les plateformes. Ou que la visibilité de certains contenus a été intentionnellement réduite.",
     "thumbnail": "thumbnails/1xfzb9c.webp",
     "tags": [
-      "Tech / Web",
-      "Réseaux Sociaux",
-      "Manifestations du 31 octobre",
-      "Société",
-      "Politique"
+      "Manifestations",
+      "Numérique"
     ],
     "analyzed_at": "2026-11-01T12:10:23.159417+00:00"
   },
@@ -2183,9 +1901,7 @@
     "thumbnail": "thumbnails/1xfx9eh.webp",
     "tags": [
       "Emmanuel Macron",
-      "République",
-      "Marseille",
-      "Politique"
+      "Numérique"
     ],
     "analyzed_at": "2026-11-01T12:10:23.299067+00:00"
   },
@@ -2208,7 +1924,7 @@
     "thumbnail": "thumbnails/1xft9xi.webp",
     "tags": [
       "Marine Tondelier",
-      "Politique"
+      "Élection présidentielle"
     ],
     "analyzed_at": "2026-11-01T12:10:23.696781+00:00"
   },
@@ -2231,8 +1947,6 @@
     "thumbnail": "thumbnails/1xfralo.webp",
     "tags": [
       "Raphaël Glucksmann",
-      "LFI",
-      "TF1",
       "Élections"
     ],
     "analyzed_at": "2026-11-01T12:10:23.493206+00:00"
@@ -2255,9 +1969,7 @@
     "summary": "Dans un développement sur la \"puissance\" que la candidate RN promet de rendre à la France, Marine Le Pen a affirmé sa volonté de \"valoriser toutes nos ressources, naturelles ou industrielles\".",
     "thumbnail": "thumbnails/1xfr8oz.webp",
     "tags": [
-      "Marine le Pen",
-      "Hulot",
-      "RN",
+      "Marine Le Pen",
       "Élections"
     ],
     "analyzed_at": "2026-11-01T12:10:23.520960+00:00"
@@ -2280,7 +1992,7 @@
     "summary": "Huit personnes ont été tuées ces quatre dernières années par des militants d’extrême droite. Toutes étaient étrangères ou racisées. Seulement deux d’entre elles sont considérées comme victimes de ter…",
     "thumbnail": "thumbnails/1xfobov.webp",
     "tags": [
-      "Société"
+      "Extrême droite"
     ],
     "analyzed_at": "2026-11-01T12:10:23.760007+00:00"
   },
@@ -2302,9 +2014,8 @@
     "summary": "",
     "thumbnail": "thumbnails/1xfi6gq.webp",
     "tags": [
-      "Brésil",
-      "Flavio Bolsonaro",
-      "Monde"
+      "Élections",
+      "Élection présidentielle"
     ],
     "analyzed_at": "2026-11-01T12:10:23.628721+00:00"
   },
@@ -2326,11 +2037,8 @@
     "summary": "Le président Luiz Inacio Lula da Silva s'est exprimé ce dimanche 25 octobre dans un discours où il a déclaré que le Brésil « n'accepte pas d'être la cour arrière de qui que ce soit ». Lula a tenu ces…",
     "thumbnail": "thumbnails/1xfhmw9.webp",
     "tags": [
-      "Brésil",
-      "Flavio Bolsonaro",
-      "Silva",
-      "Jair Bolsonaro",
-      "Monde"
+      "Élection présidentielle",
+      "Jair Bolsonaro"
     ],
     "analyzed_at": "2026-11-01T12:10:24.173623+00:00"
   },
@@ -2351,7 +2059,11 @@
     "ingested_at": "2026-10-31T13:12:49.481659+00:00",
     "summary": "Dans plus d’une dizaine de villes, des groupuscules ont organisé des opérations visant les manifestants contre la vie chère. Auprès de « Mediapart », des maires interrogent la passivité de la police.…",
     "thumbnail": "thumbnails/1xfdz5e.webp",
-    "tags": [],
+    "tags": [
+      "Police",
+      "Manifestations",
+      "Extrême droite"
+    ],
     "analyzed_at": "2026-11-01T12:10:23.959565+00:00"
   },
   {
@@ -2372,8 +2084,7 @@
     "summary": "Plusieurs responsables politiques pointent du doigt le rôle des médias diffusant des discours de haine, après l’attentat raciste survenu à Trappes. Si les chaînes d’info contestent toute responsabili…",
     "thumbnail": "thumbnails/1xfc0fv.webp",
     "tags": [
-      "Trappes",
-      "Société"
+      "Terrorisme"
     ],
     "analyzed_at": "2026-11-01T12:10:24.162129+00:00"
   },
@@ -2395,11 +2106,8 @@
     "summary": "Plusieurs opposants ont déployé une banderole au moment où le président du RN prenait la parole, dimanche. Ils ont alors été violemment pris à partie par des militants RN.",
     "thumbnail": "thumbnails/1xf92gg.webp",
     "tags": [
-      "RN",
       "Jordan Bardella",
-      "Orléans",
-      "Union",
-      "Politique"
+      "Éducation"
     ],
     "analyzed_at": "2026-11-01T12:10:24.155876+00:00"
   },
@@ -2421,11 +2129,8 @@
     "summary": "«Libé» s’est procuré une vidéo qui confirme l’attitude passive voire complaisante de la police à Nancy où des militants d’extrême droite agressaient le cortège syndical. Des descentes ont eu lieu dans plus d'une quinzaine de villes.",
     "thumbnail": "thumbnails/1xf87yh.webp",
     "tags": [
-      "Nancy",
-      "Montpellier",
-      "Politics",
-      "Extreme-droite",
-      "Manifestation"
+      "Extrême droite",
+      "Police"
     ],
     "analyzed_at": "2026-11-01T12:10:27.749784+00:00"
   },
@@ -2447,7 +2152,7 @@
     "summary": "",
     "thumbnail": "thumbnails/1xf7i2l.webp",
     "tags": [
-      "Politique"
+      "Manifestations"
     ],
     "analyzed_at": "2026-11-01T12:10:25.587817+00:00"
   },
@@ -2470,10 +2175,8 @@
     "thumbnail": "thumbnails/1xf3lbj.webp",
     "tags": [
       "Clémentine Autain",
-      "Seine-Saint-Denis",
-      "Nice",
-      "Montpellier",
-      "Intérieur"
+      "Extrême droite",
+      "Manifestations"
     ],
     "analyzed_at": "2026-11-01T12:10:24.482501+00:00"
   },
@@ -2495,11 +2198,8 @@
     "summary": "Quatre journalistes de « Mediapart » ont été physiquement malmenés par le service d’ordre du Rassemblement national lors de son congrès à Orléans samedi. Des violences physiques et une insulte racist…",
     "thumbnail": "thumbnails/1xez7qa.webp",
     "tags": [
-      "RN",
-      "Rassemblement",
-      "Orléans",
-      "Jordan Bardella",
-      "Politique"
+      "Médias",
+      "Jordan Bardella"
     ],
     "analyzed_at": "2026-11-01T12:10:24.978461+00:00"
   },
@@ -2521,10 +2221,8 @@
     "summary": "Repérés dès le début d’après-midi puis refoulés par la police, une cinquantaine de militants identitaires ont fini par fondre sur le cortège. Ils ont ciblé des manifestants d’extrême gauche. Certains ont été violemment frappés. Onze d’entre eux ont été interpellés.",
     "thumbnail": "thumbnails/1xel0id.webp",
     "tags": [
-      "Nice",
-      "Alpes-Maritimes",
-      "Faits divers",
-      "Vidéos"
+      "Extrême droite",
+      "Manifestations"
     ],
     "analyzed_at": "2026-11-01T12:10:24.486932+00:00"
   },
@@ -2546,11 +2244,8 @@
     "summary": "Passionné de MMA, ce jeune sportif de 26 ans, décrit comme \"travailleur et déterminé\" par ses proches, rêvait de devenir combattant professionnel. Une marche blanche doit se tenir dimanche après-midi, à Aubervilliers (Seine-Saint-Denis).",
     "thumbnail": "thumbnails/1xejfqw.webp",
     "tags": [
-      "Pengo Bossio Wangi",
-      "Trappes",
-      "MMA",
-      "Aubervilliers",
-      "Atch Academy"
+      "Racisme",
+      "Terrorisme"
     ],
     "analyzed_at": "2026-11-01T12:10:24.763863+00:00"
   },
@@ -2571,13 +2266,7 @@
     "ingested_at": "2026-10-31T13:12:53.180101+00:00",
     "summary": "Le vol a eu lieu dans la nuit de mercredi à jeudi, pour un préjudice estimé à plusieurs millions d'euros.",
     "thumbnail": "thumbnails/1xehsta.webp",
-    "tags": [
-      "Isère",
-      "Framatome",
-      "Seveso",
-      "Faits-divers",
-      "Fait Divers"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T12:10:25.064839+00:00"
   },
   {
@@ -2598,11 +2287,8 @@
     "summary": "Deux jours avant la manifestation du 24 octobre, le Premier ministre Sébastien Lecornu a demandé à Orange, SFR, Free et Bouygues Telecom de se tenir prêts à couper l’accès à TikTok, Instagram, Snapchat et X. Blast révèle la lettre et le compte rendu de la…",
     "thumbnail": "thumbnails/1xefu3a.webp",
     "tags": [
-      "Blast",
       "Sébastien Lecornu",
-      "Orange",
-      "SFR",
-      "Politique"
+      "Numérique"
     ],
     "analyzed_at": "2026-11-01T12:10:25.307175+00:00"
   },
@@ -2624,11 +2310,7 @@
     "summary": "L’homme politique était l’invité de la chaîne ce samedi à 21 heures. Sa présence à l’antenne a suscité une bronca sur les réseaux sociaux, au lendemain de la tuerie de Trappes.",
     "thumbnail": "thumbnails/1xef440.webp",
     "tags": [
-      "Éric Zemmour",
-      "BFMTV",
-      "Trappes",
-      "Bfm tv",
-      "Société"
+      "Éric Zemmour"
     ],
     "analyzed_at": "2026-11-01T12:10:25.375647+00:00"
   },
@@ -2650,11 +2332,8 @@
     "summary": "Outre la réélection de Jordan Bardella, le premier jour du congrès du Rassemblement national a été marqué par plusieurs scènes qui rappellent son penchant autoritaire.",
     "thumbnail": "thumbnails/1xediza.webp",
     "tags": [
-      "Jordan Bardella",
-      "RN",
-      "Mediapart",
-      "Rassemblement",
-      "Élections"
+      "Élections",
+      "Jordan Bardella"
     ],
     "analyzed_at": "2026-11-01T12:10:25.447047+00:00"
   },
@@ -2676,10 +2355,8 @@
     "summary": "CNews évoque une « erreur » après avoir présenté à tort des images des manifestations en Albanie comme étant celles de la mobilisation porte",
     "thumbnail": "thumbnails/1xecp5y.webp",
     "tags": [
-      "Albanie",
-      "Paris",
-      "Tirana",
-      "Société"
+      "Manifestations",
+      "Médias"
     ],
     "analyzed_at": "2026-11-01T12:10:25.444085+00:00"
   },
@@ -2701,35 +2378,11 @@
     "summary": "",
     "thumbnail": "",
     "tags": [
-      "RN",
-      "Marine le Pen",
-      "Politique"
+      "Marine Le Pen",
+      "Extrême droite",
+      "Médias"
     ],
     "analyzed_at": "2026-11-01T12:10:33.108315+00:00"
-  },
-  {
-    "id": "1xe7in5",
-    "title": "Des députés condamnés pour détournement de fonds publics dénoncent les pillages du 17 octobre",
-    "url": "https://www.legorafi.fr/2026/10/20/des-deputes-condamnes-pour-detournement-de-fonds-publics-denoncent-les-pillages-du-17-octobre/",
-    "permalink": "/r/france/comments/1xe7in5/des_députés_condamnés_pour_détournement_de_fonds/",
-    "created_at": "2026-10-24T12:35:00+00:00",
-    "score": 1030,
-    "num_comments": 35,
-    "subreddit": "france",
-    "author": "OperaChoco",
-    "flair": "Politique",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/ApKHUHi4mpqFPYkna-Q_GTdGY18TZqRTXFR35su4d8c.jpeg?auto=webp&s=f6782e6f11102591d00cf62f228bd7070fbbb74f",
-    "ingested_at": "2026-10-31T13:12:49.481903+00:00",
-    "summary": "Les élus ont été très émus par les vols perpétrés samedi 17 octobre, en marge des manifestations.",
-    "thumbnail": "thumbnails/1xe7in5.webp",
-    "tags": [
-      "Français",
-      "RN",
-      "Politique"
-    ],
-    "analyzed_at": "2026-11-01T12:10:25.616966+00:00"
   },
   {
     "id": "1xe668x",
@@ -2749,7 +2402,8 @@
     "summary": "",
     "thumbnail": "thumbnails/1xe668x.webp",
     "tags": [
-      "Trappes"
+      "Racisme",
+      "Terrorisme"
     ],
     "analyzed_at": "2026-11-01T12:10:25.739860+00:00"
   },
@@ -2771,7 +2425,7 @@
     "summary": "Témoignage d'une punition extra-judiciaire : «Ils m'ont craché dessus, attaqué et tabassé dans leur fourgon»",
     "thumbnail": "thumbnails/1xe5ude.webp",
     "tags": [
-      "Rennes"
+      "Police"
     ],
     "analyzed_at": "2026-11-01T12:10:25.776272+00:00"
   },
@@ -2792,9 +2446,7 @@
     "ingested_at": "2026-10-31T13:12:51.897497+00:00",
     "summary": "Dès le 20 novembre, les hôtes Airbnb ne pourront plus imposer aux voyageurs certaines tâches ménagères. Certaines demandes resteront tout de même possibles. Voici tout ce qu'il faut savoir.",
     "thumbnail": "thumbnails/1xe4bvo.webp",
-    "tags": [
-      "Airbnb"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T12:10:25.887667+00:00"
   },
   {
@@ -2814,10 +2466,7 @@
     "ingested_at": "2026-10-31T13:12:53.179810+00:00",
     "summary": "Interdictions de manifester, déploiement de l'armée en renfort, couvre-feux... Amnesty International dénonce une surenchère sécuritaire et de graves entraves au droit de manifester.",
     "thumbnail": "thumbnails/1xe3vra.webp",
-    "tags": [
-      "Amnesty International",
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T12:10:25.882625+00:00"
   },
   {
@@ -2838,9 +2487,8 @@
     "summary": "Qui a été responsable des premiers affrontements à Paris, avant même que le défilé démarre ? Qui dit vrai entre Laurent Nuñez et les manifestants ? « Mediapart » a retrouvé près d’une centaine de vid…",
     "thumbnail": "thumbnails/1xe3hbm.webp",
     "tags": [
-      "Paris",
-      "République",
-      "Laurent Nuñez"
+      "Laurent Nuñez",
+      "Police"
     ],
     "analyzed_at": "2026-11-01T12:10:26.636929+00:00"
   },
@@ -2861,11 +2509,7 @@
     "ingested_at": "2026-10-31T13:12:50.732089+00:00",
     "summary": "Le commissaire aux droits de l'homme du Conseil de l'Europe a appelé samedi les États secoués par des mouvements de protestation, parfois émaillés de violences, à respecter le droit de manifester et…",
     "thumbnail": "thumbnails/1xe2yxp.webp",
-    "tags": [
-      "Conseil de Europe",
-      "États",
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T12:10:26.188908+00:00"
   },
   {
@@ -2886,8 +2530,8 @@
     "summary": "",
     "thumbnail": "thumbnails/1xdyx0l.webp",
     "tags": [
-      "Olivier Bouygues",
-      "Écologie"
+      "Environnement",
+      "Justice"
     ],
     "analyzed_at": "2026-11-01T12:10:25.919634+00:00"
   },
@@ -2909,11 +2553,7 @@
     "summary": "Suivant la consigne d’Emmanuel Macron, désireux d’éviter de nouvelles scènes de chaos semblables à celles du 17 octobre, de nombreux préfets ont interdit ou drastiquement limité les manifestations prévues…",
     "thumbnail": "thumbnails/1xdqkc1.webp",
     "tags": [
-      "Emmanuel Macron",
-      "État",
-      "Serge Slama",
-      "République",
-      "Politique"
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T12:10:26.175385+00:00"
   },
@@ -2935,9 +2575,7 @@
     "summary": "",
     "thumbnail": "thumbnails/1xdp6ty.webp",
     "tags": [
-      "Conseil État",
-      "Emmanuel Macron",
-      "Politique"
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T12:10:26.576345+00:00"
   },
@@ -2965,29 +2603,6 @@
     "analyzed_at": "2026-11-01T12:10:27.104128+00:00"
   },
   {
-    "id": "1xdkirb",
-    "title": "Les partis de gauche et écologiste déposent ensemble un référé-liberté auprès du Conseil d’État sur la liberté de manifester",
-    "url": "https://lesecologistes.fr/posts/74lngaWp7ExBgkxtgm4a1A/les-partis-de-gauche-et-ecologiste-deposent-ensemble-un-refere-liberte-aupres-du-conseil-d-etat-sur-la-liberte-de-manifester",
-    "permalink": "/r/france/comments/1xdkirb/les_partis_de_gauche_et_écologiste_déposent/",
-    "created_at": "2026-10-23T17:32:51+00:00",
-    "score": 403,
-    "num_comments": 18,
-    "subreddit": "france",
-    "author": "Electrical_Pea_4911",
-    "flair": "Politique",
-    "domain": "lesecologistes.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/JaLZk_PQSsfzGIdZIOFDIgU08_p-JYHumuqdKJ7gybY.jpeg?auto=webp&s=51d2d16b9020e6b4cf7526c322e830a9d01e75b6",
-    "ingested_at": "2026-10-31T13:12:53.180136+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/1xdkirb.webp",
-    "tags": [
-      "Conseil État",
-      "Politique"
-    ],
-    "analyzed_at": "2026-11-01T12:10:26.719028+00:00"
-  },
-  {
     "id": "1xdje0o",
     "title": "DIRECT. Colère sociale: des représentants lycéens appellent à \"continuer à se mobiliser\" après une rencontre avec Emmanuel Macron",
     "url": "https://www.bfmtv.com/politique/direct-colere-sociale-conseil-de-defense-rencontre-avec-les-organisations-lyceennes-et-les-forces-de-l-ordre-la-journee-tres-chargee-d-emmanuel-macron-avant-une-nouvelle-mobilisation-attendue-le-24-octobre_LN-202610230108.html",
@@ -3006,10 +2621,7 @@
     "thumbnail": "thumbnails/1xdje0o.webp",
     "tags": [
       "Emmanuel Macron",
-      "Sébastien Lecornu",
-      "Limoges",
-      "Élysée",
-      "Politique"
+      "Sébastien Lecornu"
     ],
     "analyzed_at": "2026-11-01T12:10:26.610565+00:00"
   },
@@ -3031,11 +2643,8 @@
     "summary": "VIDÉO - Dominique de Villepin, ancien Premier ministre et fondateur de \"La France Humaniste\", est l'invité exceptionnel du Face à BFM ce jeudi 22 octobre présenté par Maxime Switek. Il a répondu aux questions des journalistes de la rédaction, notamment sur la colère sociale.",
     "thumbnail": "thumbnails/1xdhsby.webp",
     "tags": [
-      "Premier",
       "Dominique de Villepin",
-      "Villepin",
-      "France Humaniste",
-      "Politique"
+      "Extrême gauche"
     ],
     "analyzed_at": "2026-11-01T12:10:26.798204+00:00"
   },
@@ -3057,35 +2666,9 @@
     "summary": "Gilets jaunes et organisations étudiantes ont appelé à une nouvelle journée de mobilisation dès ce samedi 24 octobre à laquelle la CGT a apporté son soutien.",
     "thumbnail": "thumbnails/1xdg73y.webp",
     "tags": [
-      "Paris",
-      "LDH",
-      "ONU",
-      "CGT",
-      "Politique"
+      "Grèves et syndicats"
     ],
     "analyzed_at": "2026-11-01T12:10:26.821298+00:00"
-  },
-  {
-    "id": "1xdem2z",
-    "title": "Tribune 22 octobre 2026, Un policier désemparé : « Nous ne sommes pas leur garde prétorienne »",
-    "url": "https://blogs.mediapart.fr/un-policier-desempare/blog/221026/nous-ne-sommes-pas-leur-garde-pretorienne",
-    "permalink": "/r/france/comments/1xdem2z/tribune_22_octobre_2026_un_policier_désemparé/",
-    "created_at": "2026-10-23T13:50:40+00:00",
-    "score": 614,
-    "num_comments": 84,
-    "subreddit": "france",
-    "author": "Ishtu_",
-    "flair": "Politique",
-    "domain": "blogs.mediapart.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/yGi5pakTnhA2y-zcA4KdsnnogGGDt_xRfrYT2XcZ2rI.jpeg?auto=webp&s=08c2b88e4445ce2100ad1b14d9d59a1219da8094",
-    "ingested_at": "2026-10-31T13:12:50.732221+00:00",
-    "summary": "« Écoutez-moi, collègues. Je ne veux pas parler de procédures ni de maintien de l’ordre, mais de ce que nous sommes et refusons de devenir. Nous avons choisi ce métier pour protéger, servir et rendre…",
-    "thumbnail": "thumbnails/1xdem2z.webp",
-    "tags": [
-      "Politique"
-    ],
-    "analyzed_at": "2026-11-01T12:10:27.041730+00:00"
   },
   {
     "id": "1xddp0b",
@@ -3105,11 +2688,8 @@
     "summary": "Un individu a tiré à plusieurs reprises à Trappes et La Verrière, dans les Yvelines, tuant une personne et en blessant au moins quatre autres, ce vendredi 23 octobre. L’homme a été...",
     "thumbnail": "thumbnails/1xddp0b.webp",
     "tags": [
-      "Yvelines",
-      "Trappes et la Verrière",
-      "Trappes",
-      "Gratuit",
-      "Société"
+      "Racisme",
+      "Terrorisme"
     ],
     "analyzed_at": "2026-11-01T12:10:26.929344+00:00"
   },
@@ -3132,7 +2712,7 @@
     "thumbnail": "thumbnails/1xdbnzf.webp",
     "tags": [
       "Gérald Darmanin",
-      "Politique"
+      "Travail"
     ],
     "analyzed_at": "2026-11-01T12:10:26.968323+00:00"
   },
@@ -3153,9 +2733,7 @@
     "ingested_at": "2026-10-31T13:12:51.897888+00:00",
     "summary": "Ahmed, 25 ans, a eu l’artère fémorale sectionnée par une grenade à Paris. Toujours hospitalisé, il a survécu presque par miracle. Des dizaines de manifestants pacifiques ont été grièvement blessés pa…",
     "thumbnail": "thumbnails/1xdaa9n.webp",
-    "tags": [
-      "Paris"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T12:10:27.039774+00:00"
   },
   {
@@ -3177,9 +2755,7 @@
     "thumbnail": "thumbnails/1xd91ou.webp",
     "tags": [
       "Sarah Knafo",
-      "Reconquête",
-      "Samuel Lafont",
-      "Twitter Samuel Lafont",
+      "LGBT+",
       "Élections"
     ],
     "analyzed_at": "2026-11-01T12:10:27.722826+00:00"
@@ -3201,12 +2777,7 @@
     "ingested_at": "2026-10-31T13:12:51.898386+00:00",
     "summary": "Malgré les entraves massives au droit à manifester, malgré le déploiement du Raid et de la BRI, la convergence continue en vue du 24 octobre, même si les craintes sont réelles. L’ancien boxeur et Gil…",
     "thumbnail": "thumbnails/1xd8m53.webp",
-    "tags": [
-      "Christophe Dettinger",
-      "Raid et de la BRI",
-      "Gil",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T12:10:27.298783+00:00"
   },
   {
@@ -3226,7 +2797,10 @@
     "ingested_at": "2026-10-31T13:12:53.180523+00:00",
     "summary": "",
     "thumbnail": "thumbnails/1xd8kyd.webp",
-    "tags": [],
+    "tags": [
+      "Manifestations",
+      "Libertés publiques"
+    ],
     "analyzed_at": "2026-11-01T12:10:27.302473+00:00"
   },
   {
@@ -3246,13 +2820,7 @@
     "ingested_at": "2026-10-31T13:12:50.731662+00:00",
     "summary": "ENQUÊTE - Des quatre coins de la France, des parents de droite racontent leur désarroi face aux choix politiques de leur progéniture qui vote extrême gauche. Un crève-cœur pour certains, une « passade » pour d’autres, une affaire générationnelle, surtout, alors qu’un jeune sur deux...",
     "thumbnail": "thumbnails/1xd6nr1.webp",
-    "tags": [
-      "LFI",
-      "La France Insoumise",
-      "Famille",
-      "Élection présidentielle",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T12:10:27.393433+00:00"
   },
   {
@@ -3274,10 +2842,7 @@
     "thumbnail": "thumbnails/1xd6frl.webp",
     "tags": [
       "Gérald Darmanin",
-      "Intérieur",
-      "Social Issues",
-      "Mobilisation-du-17-octobre",
-      "Politique"
+      "Manifestations"
     ],
     "analyzed_at": "2026-11-01T12:10:33.438514+00:00"
   },
@@ -3299,10 +2864,7 @@
     "summary": "Après une journée de mobilisation contre la vie chère très suivie, mais ternie par des affrontements et des pillages, certains manifestants sont déterminés à exprimer une nouvelle fois leur colère samedi. D'autres ont même été convaincus de rejoindre le mouvement.",
     "thumbnail": "thumbnails/1xd659h.webp",
     "tags": [
-      "Mobilisation du 17 octobre",
-      "Les choix de la rédaction",
-      "Manifestations du 31 octobre",
-      "Politique"
+      "Manifestations"
     ],
     "analyzed_at": "2026-11-01T12:10:27.724130+00:00"
   },
@@ -3325,10 +2887,7 @@
     "thumbnail": "thumbnails/1xcuer2.webp",
     "tags": [
       "Emmanuel Macron",
-      "Conseil Etat",
-      "République",
-      "Etat",
-      "Politique"
+      "Manifestations"
     ],
     "analyzed_at": "2026-11-01T12:10:27.716143+00:00"
   },
@@ -3350,11 +2909,8 @@
     "summary": "La mobilisation lycéenne et contre la vie chère se poursuit avec des manifestations prévues aujourd'hui et ce week-end. La contestation est née dans les lycées en septembre, mais elle a aussi été vite parasitée par des ingérences étrangères, notamment russes.",
     "thumbnail": "thumbnails/1xcslag.webp",
     "tags": [
-      "ONG",
-      "Russie",
-      "Grève et manifestations",
-      "Éco / Conso",
-      "Politique"
+      "Manifestations",
+      "Numérique"
     ],
     "analyzed_at": "2026-11-01T12:10:27.976267+00:00"
   },
@@ -3376,9 +2932,7 @@
     "summary": "Pris d’une fièvre autoritaire, le président de la République assume désormais d’entraver massivement le droit fondamental à manifester. L’apogée de dix ans d’échecs et d’impuissance, durant lesquels …",
     "thumbnail": "thumbnails/1xcrgjs.webp",
     "tags": [
-      "Emmanuel Macron",
-      "République",
-      "Politique"
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T12:10:28.978058+00:00"
   },
@@ -3399,12 +2953,7 @@
     "ingested_at": "2026-10-31T13:12:50.731194+00:00",
     "summary": "",
     "thumbnail": "thumbnails/1xcpu0b.webp",
-    "tags": [
-      "Ligue",
-      "ONU",
-      "Monde",
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T12:10:28.031348+00:00"
   },
   {
@@ -3425,11 +2974,8 @@
     "summary": "Christophe M., 59 ans, est décédé en marge de la manifestation du 17 octobre à Paris. L’avocat de sa famille suspecte les autorités de \"jouer la montre\", déplorant qu’aucune autopsie n’ait encore eu lieu. Il prépare une plainte devant l’IGPN pour \"violences volontaires ayant entraîné la mort sans...",
     "thumbnail": "thumbnails/1xcovvc.webp",
     "tags": [
-      "Christophe",
-      "Paris",
-      "IGPN",
-      "BFMTV",
-      "Politique"
+      "Manifestations",
+      "Police"
     ],
     "analyzed_at": "2026-11-01T12:10:27.969697+00:00"
   },
@@ -3451,11 +2997,9 @@
     "summary": "Le soir du 17 octobre, une compagnie dâintervention parisienne a cassÃ© la baie vitrÃ©e dâun restaurant de burgers et terrorisÃ© les personnes qui sây Ã©taient rÃ©fugiÃ©es. Un employÃ© de lâÃ©tablissement a Ã©tÃ© violentÃ©. LâIGPN a Ã©tÃ© saisie.",
     "thumbnail": "thumbnails/1xcngu6.webp",
     "tags": [
-      "Â Â",
-      "Lâ IGPN",
-      "Blend Burger",
-      "Lila",
-      "Société"
+      "Police",
+      "Travail",
+      "Manifestations"
     ],
     "analyzed_at": "2026-11-01T12:10:28.067808+00:00"
   },
@@ -3478,10 +3022,8 @@
     "thumbnail": "thumbnails/1xcndb4.webp",
     "tags": [
       "Emmanuel Macron",
-      "République",
-      "Serge Slama",
-      "Etat",
-      "Politique"
+      "Grèves et syndicats",
+      "Manifestations"
     ],
     "analyzed_at": "2026-11-01T12:10:28.236451+00:00"
   },
@@ -3503,8 +3045,7 @@
     "summary": "",
     "thumbnail": "thumbnails/1xckxe8.webp",
     "tags": [
-      "Guillaume Meurice",
-      "Belgique"
+      "Police"
     ],
     "analyzed_at": "2026-11-01T12:10:34.277873+00:00"
   },
@@ -3526,37 +3067,10 @@
     "summary": "Depuis la convergence de la lutte étudiante avec le mouvement lycéen, l’extrême droite a attaqué des opérations de blocages à plusieurs reprises. À Paris et à Lille, des étudiant...",
     "thumbnail": "thumbnails/1xcie5w.webp",
     "tags": [
-      "Paris et Lille",
-      "Paris",
-      "Lille",
-      "Payant"
+      "Extrême droite",
+      "Éducation"
     ],
     "analyzed_at": "2026-11-01T12:10:29.017500+00:00"
-  },
-  {
-    "id": "1xchicg",
-    "title": "« Je ne sais plus comment faire pour partir » - À bout, Sébastien Lecornu dépose une motion de censure contre lui-même",
-    "url": "https://www.legorafi.fr/2026/10/22/a-bout-sebastien-lecornu-depose-une-motion-de-censure-contre-lui-meme/",
-    "permalink": "/r/france/comments/1xchicg/je_ne_sais_plus_comment_faire_pour_partir_à_bout/",
-    "created_at": "2026-10-22T12:42:18+00:00",
-    "score": 920,
-    "num_comments": 30,
-    "subreddit": "france",
-    "author": "AllAloneInKyoto",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/562_npSwvBeguNOfbsOQ-9H--ZJ5sbEUjNpYj6oSnzI.jpeg?auto=webp&s=51d04eed721f54d7f54f9ed63121ae6355ca51b9",
-    "ingested_at": "2026-10-31T13:12:49.482401+00:00",
-    "summary": "Après plus d’un an à la tête du gouvernement, le Premier ministre déclare « être au bout du rouleau »",
-    "thumbnail": "thumbnails/1xchicg.webp",
-    "tags": [
-      "Sébastien Lecornu",
-      "Premier",
-      "Emmanuel Macron",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T12:10:28.269983+00:00"
   },
   {
     "id": "1xchfeq",
@@ -3576,10 +3090,9 @@
     "summary": "Le tribunal administratif a autorisé la tenue de la manifestation de ce jeudi, organisée par l’Interfac IDF et initialement interdite par la",
     "thumbnail": "thumbnails/1xchfeq.webp",
     "tags": [
-      "Interfac",
-      "Interfac IDF",
-      "Instagram",
-      "Politique"
+      "Justice",
+      "Manifestations",
+      "Police"
     ],
     "analyzed_at": "2026-11-01T12:10:28.496331+00:00"
   },
@@ -3601,10 +3114,7 @@
     "summary": "Alors que le gouvernement multiplie les économies budgétaires, le projet de loi de finances pour 2027 prévoit une enveloppe de 2,3 millions d’euros pour installer Emmanuel Macron ...",
     "thumbnail": "thumbnails/1xcgv82.webp",
     "tags": [
-      "Macron",
-      "Emmanuel Macron",
-      "Gratuit",
-      "Politique"
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T12:10:28.642135+00:00"
   },
@@ -3627,10 +3137,8 @@
     "thumbnail": "thumbnails/1xcf5k6.webp",
     "tags": [
       "Emmanuel Macron",
-      "République",
-      "Marseille",
-      "Limoges",
-      "Politique"
+      "Manifestations",
+      "Extrême gauche"
     ],
     "analyzed_at": "2026-11-01T12:10:29.015939+00:00"
   },
@@ -3653,10 +3161,9 @@
     "thumbnail": "thumbnails/1xcf0x8.webp",
     "tags": [
       "Emmanuel Macron",
-      "Paris",
-      "IGPN",
-      "Conseil État",
-      "République"
+      "Manifestations",
+      "Police",
+      "Grèves et syndicats"
     ],
     "analyzed_at": "2026-11-01T12:10:29.331588+00:00"
   },
@@ -3678,11 +3185,7 @@
     "summary": "Le gouvernement a annoncé mardi l’envoi de la force Sentinelle, samedi, pour \"des missions de sécurisation statique\" habituellement assurées par des policiers. Des précédents existent mais sont peu nombreux…",
     "thumbnail": "thumbnails/1xce3bu.webp",
     "tags": [
-      "Sentinelle",
-      "Politique française",
-      "Armée française",
-      "Sébastien Lecornu",
-      "Premier"
+      "Sébastien Lecornu"
     ],
     "analyzed_at": "2026-11-01T12:10:29.292685+00:00"
   },
@@ -3704,11 +3207,7 @@
     "summary": "Recevez toutes les Alertes Info de France 24 en temps réel sur Facebook et Twitter : @UrgentF24",
     "thumbnail": "thumbnails/1xcdutj.webp",
     "tags": [
-      "Lyon",
-      "Alertes",
-      "Facebook et Twitter",
-      "Urgent",
-      "Alerte"
+      "Manifestations"
     ],
     "analyzed_at": "2026-11-01T12:10:29.760234+00:00"
   },
@@ -3730,11 +3229,8 @@
     "summary": "Les violences du 17 octobre 2026 ont suscité des critiques sur l’efficacité du dispositif policier. Le maintien de l’ordre s'est durci depuis les années 1990 alors que, après 1968, une approche « pacifiée » avait été adoptée.",
     "thumbnail": "thumbnails/1xcd2ub.webp",
     "tags": [
-      "Gérald Darmanin",
-      "LBD",
-      "Maintien de l'ordre",
-      "Réforme des retraites",
-      "Société"
+      "Police",
+      "Gérald Darmanin"
     ],
     "analyzed_at": "2026-11-01T12:10:29.290966+00:00"
   },
@@ -3756,11 +3252,8 @@
     "summary": "À deux jours de la nouvelle journée de mobilisation, le gouvernement promet un \"dispositif massif\", qui inclut un renfort d'agents non spécialisés dans le maintien de l'ordre. Franceinfo a recueilli le témoignage d'un policier aux frontières réquisitionné samedi.",
     "thumbnail": "thumbnails/1xcb7up.webp",
     "tags": [
-      "Espagne",
-      "Israël",
-      "Grève et manifestations",
-      "Éco / Conso",
-      "Politique"
+      "Police",
+      "Manifestations"
     ],
     "analyzed_at": "2026-11-01T12:10:29.667085+00:00"
   },
@@ -3783,10 +3276,7 @@
     "thumbnail": "thumbnails/1xcaki4.webp",
     "tags": [
       "Sébastien Lecornu",
-      "LFI",
-      "État",
-      "Claude Malhuret",
-      "Politique"
+      "Jean-Luc Mélenchon"
     ],
     "analyzed_at": "2026-11-01T12:10:31.724718+00:00"
   },
@@ -3807,11 +3297,7 @@
     "ingested_at": "2026-10-31T13:12:53.180665+00:00",
     "summary": "Le jeune militant politique a été interpellé alors qu’il venait d’apporter son soutien à des lycéens mobilisés le 1er octobre. Les soutiens de cet habitué des prises de parole provocantes dénoncent u…",
     "thumbnail": "thumbnails/1xbt4b0.webp",
-    "tags": [
-      "Ritchy Thibault",
-      "Élysée",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T12:10:29.727167+00:00"
   },
   {
@@ -3832,11 +3318,7 @@
     "summary": "Dans un communiqué transmis au Figaro, les éditions du Boréal ont annoncé que l’intelligence artificielle avait bien été utilisée pour l’écriture de C’était ça ou mourir. La maison d’édition a annoncé «ne pas réimprimer le roman» et «ne pas publier d’autres livres» de...",
     "thumbnail": "thumbnails/1xbryr9.webp",
     "tags": [
-      "Thélyson Orélien",
-      "Boréal",
-      "IA",
-      "Intelligence artificielle",
-      "Culture"
+      "Intelligence artificielle"
     ],
     "analyzed_at": "2026-11-01T12:10:29.988072+00:00"
   },
@@ -3858,11 +3340,7 @@
     "summary": "Des communiqués CGT, CFDT, SNJ et SUD suite au JT du 18 octobre.",
     "thumbnail": "thumbnails/1xbrxmi.webp",
     "tags": [
-      "France 2",
-      "France TV",
-      "JT",
-      "CGT",
-      "Société"
+      "Grèves et syndicats"
     ],
     "analyzed_at": "2026-11-01T12:10:30.002671+00:00"
   },
@@ -3884,11 +3362,7 @@
     "summary": "Le ministre de l’Intérieur, Laurent Nuñez a annoncé à l’Assemblée nationale ce 20 octobre que les forces militaires Sentinelle seront déployées le 24. ...",
     "thumbnail": "thumbnails/1xbp6os.webp",
     "tags": [
-      "Laurent Nuñez",
-      "BRI",
-      "GIGN",
-      "RAID",
-      "Société"
+      "Laurent Nuñez"
     ],
     "analyzed_at": "2026-11-01T12:10:30.004021+00:00"
   },
@@ -3910,9 +3384,9 @@
     "summary": "Depuis 2023, l'État a ponctionné 14 milliards d'euros dans les recettes de l'Unédic pour répondre à ses difficultés budgétaires.",
     "thumbnail": "thumbnails/1xbmqvh.webp",
     "tags": [
-      "État",
-      "Unédic",
-      "Économie"
+      "Budget et fiscalité",
+      "Protection sociale",
+      "Travail"
     ],
     "analyzed_at": "2026-11-01T12:10:30.248977+00:00"
   },
@@ -3934,11 +3408,10 @@
     "summary": "Le Premier ministre Sébastien Lecornu et les services de renseignement sont conviés à ce rendez-vous qui démarre à 10 heures. Ce direct est terminé.",
     "thumbnail": "thumbnails/1xbkzil.webp",
     "tags": [
-      "Matignon",
-      "CGT",
+      "Grèves et syndicats",
       "Sébastien Lecornu",
-      "Emmanuel Macron",
-      "Politique"
+      "Manifestations",
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T12:10:30.392999+00:00"
   },
@@ -3960,10 +3433,8 @@
     "summary": "Après avoir publié une image générée par IA sur X, la police nationale affirme que la saisie d’objets volés lors des violences à Paris est b",
     "thumbnail": "thumbnails/1xbkxg5.webp",
     "tags": [
-      "IA",
-      "Paris",
-      "Val-d'Oise",
-      "Société"
+      "Intelligence artificielle",
+      "Police"
     ],
     "analyzed_at": "2026-11-01T12:10:30.207244+00:00"
   },
@@ -3985,7 +3456,8 @@
     "summary": "Dénonçant une couverture médiatique qui privilégie les dégradations matérielles et passe sous silence les revendications lycéennes et les violences policières, 780 étudiants de 15 ...",
     "thumbnail": "thumbnails/1xbkju3.webp",
     "tags": [
-      "Gratuit"
+      "Éducation",
+      "Manifestations"
     ],
     "analyzed_at": "2026-11-01T12:10:30.347058+00:00"
   },
@@ -4007,9 +3479,7 @@
     "summary": "« Mediapart » révèle que le milliardaire d’extrême droite a éludé 4,5 millions d’euros d’impôts sur les donations en vendant à ses fils Cyrille et Yannick, à un prix sous-évalué, deux hôtels particul…",
     "thumbnail": "thumbnails/1xbkiwu.webp",
     "tags": [
-      "Vincent Bolloré",
-      "Cyrille et Yannick",
-      "Société"
+      "Budget et fiscalité"
     ],
     "analyzed_at": "2026-11-01T12:10:30.625867+00:00"
   },
@@ -4030,13 +3500,7 @@
     "ingested_at": "2026-10-31T13:12:51.897251+00:00",
     "summary": "",
     "thumbnail": "thumbnails/1xbgcn7.webp",
-    "tags": [
-      "Student Protesters",
-      "France Have",
-      "Strange New Slogan",
-      "What Does It Mean",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T12:10:31.932143+00:00"
   },
   {
@@ -4057,8 +3521,7 @@
     "summary": "",
     "thumbnail": "thumbnails/1xbga3i.webp",
     "tags": [
-      "LFI",
-      "Politique"
+      "Manifestations"
     ],
     "analyzed_at": "2026-11-01T12:10:30.639992+00:00"
   },
@@ -4080,11 +3543,10 @@
     "summary": "Selon un syndicat de police, six camions de CRS ont été mobilisés à Amiens pour protéger la chocolaterie Jean Trogneux, le petit-neveu de Br",
     "thumbnail": "thumbnails/1xb5lh0.webp",
     "tags": [
-      "CRS",
-      "Brigitte Macron",
-      "Amiens",
-      "Jean Trogneux",
-      "Br"
+      "Police",
+      "Emmanuel Macron",
+      "Grèves et syndicats",
+      "Manifestations"
     ],
     "analyzed_at": "2026-11-01T12:10:30.844967+00:00"
   },
@@ -4106,11 +3568,9 @@
     "summary": "En associant dans son discours La France insoumise à l’ultragauche, le gouvernement accuse le parti d’être à l’origine du mouvement lycéen et des scènes de chaos observées le 17 octobre en France. Mais…",
     "thumbnail": "thumbnails/1xb4wch.webp",
     "tags": [
+      "Extrême gauche",
       "Emmanuel Macron",
-      "LFI",
-      "Assimiler LFI",
-      "Sébastien Lecornu",
-      "Politique française"
+      "Sébastien Lecornu"
     ],
     "analyzed_at": "2026-11-01T12:10:31.047567+00:00"
   },
@@ -4131,40 +3591,8 @@
     "ingested_at": "2026-10-31T13:12:51.898124+00:00",
     "summary": "«Si ça se passe une fois, on peut aider à réparer, mais si ça se répète, l’assurance n’est plus là pour protéger», a insisté Thomas Buberl, après les dégradations et les pillages survenus en marge des manifestations du 17 octobre et à quelques jours d’une nouvelle mobilisation.",
     "thumbnail": "thumbnails/1xb2qo1.webp",
-    "tags": [
-      "Axa",
-      "Entreprise",
-      "Assurance",
-      "Thomas Buberl",
-      "Économie"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T12:10:31.041070+00:00"
-  },
-  {
-    "id": "1xaxw0e",
-    "title": "TOUT FEU, TOUT FLAMME : retour sur l'édition spéciale du 20h de France 2, les syndicats de France TV dénoncent la propagande de France 2",
-    "url": "https://www.cfdt-ftv.fr/2026/10/19/tout-feu-tout-flamme-retour-sur-ledition-speciale-du-20h-de-france-2/",
-    "permalink": "/r/france/comments/1xaxw0e/tout_feu_tout_flamme_retour_sur_lédition_spéciale/",
-    "created_at": "2026-10-20T17:08:29+00:00",
-    "score": 492,
-    "num_comments": 15,
-    "subreddit": "france",
-    "author": "tantan66",
-    "flair": "Société",
-    "domain": "cfdt-ftv.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/g9nKQHHIK2AHDtUAP_1B8bePZb3r422h2QfTnEb_USs.jpeg?auto=webp&s=63453990d84f4d3f5a4c2a2ced63f4e8d10e3b1c",
-    "ingested_at": "2026-10-31T13:12:51.897597+00:00",
-    "summary": "COUP DE GUEULE Voilà quelque temps déjà que ce tract couvait. Comme un feu de poubelle.Le traitement des manifestations lycéennes par France Télévisions. Mais, hier soir, comment dire, avec cette édition spéciale « La France sous le choc », France 2 a franchi un cap que même BFM n’aurait imaginé.",
-    "thumbnail": "thumbnails/1xaxw0e.webp",
-    "tags": [
-      "France 2",
-      "FEU",
-      "FLAMME",
-      "France TV",
-      "Société"
-    ],
-    "analyzed_at": "2026-11-01T12:10:33.477400+00:00"
   },
   {
     "id": "1xaxd1l",
@@ -4184,8 +3612,7 @@
     "summary": "Ces 17 et 18 octobre ont Ã©tÃ© marquÃ©s par dâinnombrables scÃ¨nes de violences policiÃ¨res dans toute la France. StreetPress revient sur une cinquantaine de cas, parmi tant dâautres : Åil touchÃ©, traumatisme crÃ¢nien, plaie mutilante sur les jambesâ¦Â",
     "thumbnail": "thumbnails/1xaxd1l.webp",
     "tags": [
-      "Â Â",
-      "Société"
+      "Police"
     ],
     "analyzed_at": "2026-11-01T12:10:31.306839+00:00"
   },
@@ -4207,10 +3634,8 @@
     "summary": "Persuadé que le mouvement s'essoufflerait avec le début des vacances scolaires, le ministère de l'Intérieur n’avait anticipé ni le nombre de manifestants ni…",
     "thumbnail": "thumbnails/1xawfgm.webp",
     "tags": [
-      "Canard",
-      "CRS",
-      "Nuñez",
-      "Intérieur",
+      "Police",
+      "Manifestations",
       "Laurent Nuñez"
     ],
     "analyzed_at": "2026-11-01T12:10:31.338994+00:00"
@@ -4233,10 +3658,8 @@
     "summary": "Selon La France insoumise, l’opération aurait échoué à cause d’une erreur de rame. Le parti dénonce « un coup monté » visant le fondateur de la Jeune Garde.",
     "thumbnail": "thumbnails/1xaup6n.webp",
     "tags": [
-      "Raphaël Arnault",
-      "LFI",
-      "Jeune Garde",
-      "Politique"
+      "Police",
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T12:10:32.134746+00:00"
   },
@@ -4259,9 +3682,7 @@
     "thumbnail": "thumbnails/1xau3fj.webp",
     "tags": [
       "Laurent Nuñez",
-      "Intérieur",
-      "Mobilisation du 17 octobre",
-      "Politique"
+      "Manifestations"
     ],
     "analyzed_at": "2026-11-01T12:10:31.649213+00:00"
   },
@@ -4284,10 +3705,8 @@
     "thumbnail": "thumbnails/1xatjdn.webp",
     "tags": [
       "Rima Hassan",
-      "Tel-Aviv",
-      "RN",
-      "Assemblée",
-      "Politique"
+      "Terrorisme",
+      "Justice"
     ],
     "analyzed_at": "2026-11-01T12:10:31.900493+00:00"
   },
@@ -4308,13 +3727,7 @@
     "ingested_at": "2026-10-31T13:12:48.261258+00:00",
     "summary": "Plusieurs sources au sein des renseignements territoriaux et de la police affirment, auprès de Mediapart, que le ministère de l’Intérieur « demande d’écrire que c’est LFI qu...",
     "thumbnail": "thumbnails/1xat54a.webp",
-    "tags": [
-      "LFI",
-      "Mediapart",
-      "Intérieur",
-      "Gratuit",
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T12:10:31.899154+00:00"
   },
   {
@@ -4334,13 +3747,7 @@
     "ingested_at": "2026-10-31T13:12:50.732107+00:00",
     "summary": "INFO TÉLÉRAMA — L’éditorialiste politique de TF1 et LCI s’est vivement écharpée avec la députée Prisca Thevenot, lundi midi, sur LCI, à propos des manifestations et des violences de samedi en France.",
     "thumbnail": "thumbnails/1xaqmja.webp",
-    "tags": [
-      "LCI",
-      "Prisca Thevenot",
-      "Isabelle Saporta",
-      "TF1 et LCI",
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T12:10:32.219600+00:00"
   },
   {
@@ -4361,35 +3768,10 @@
     "summary": "LFI a annoncé mardi vouloir poursuivre le ministre de l'Intérieur Laurent Nuñez devant la Cour de justice de la République suite à la publication d'un article de Mediapart selon lequel le gouvernement…",
     "thumbnail": "thumbnails/1xapkmn.webp",
     "tags": [
-      "LFI",
-      "Mediapart",
-      "Nuñez",
-      "Cour",
-      "Politique"
+      "Justice",
+      "Laurent Nuñez"
     ],
     "analyzed_at": "2026-11-01T12:10:32.485195+00:00"
-  },
-  {
-    "id": "1xapey5",
-    "title": "Les dirigeants d'un pays dont l'hymne appelle à la révolte inquiets que le peuple se révolte",
-    "url": "https://www.legorafi.fr/2026/10/19/les-dirigeants-dun-pays-dont-lhymne-appelle-a-la-revolte-inquiets-que-le-peuple-se-revolte/",
-    "permalink": "/r/france/comments/1xapey5/les_dirigeants_dun_pays_dont_lhymne_appelle_à_la/",
-    "created_at": "2026-10-20T11:17:43+00:00",
-    "score": 1177,
-    "num_comments": 80,
-    "subreddit": "france",
-    "author": "Anonyme_GT",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/aJtIvMUoTYmUc1SBauBlAiijqZRsDHYrbw7GlDeO9KM.jpeg?auto=webp&s=96f89a12f8f7b935097639a066c4667ceee21c58",
-    "ingested_at": "2026-10-31T13:12:49.481590+00:00",
-    "summary": "Paris – Après les émeutes des dernières heures, plusieurs politiciens d'un pays se sont inquiétés que leur propre hymne national pourrait inciter à une radicalisation du mouvement. Reportage.",
-    "thumbnail": "thumbnails/1xapey5.webp",
-    "tags": [
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T12:10:32.148316+00:00"
   },
   {
     "id": "1xao12t",
@@ -4409,10 +3791,7 @@
     "summary": "Une journaliste du «JDD» avançait dimanche soir, sur la chaîne, que «des kalachnikovs et des pistolets-mitrailleurs» avaient été découverts entre les mains de manifestants, samedi. Présenté comme source, la DGSI infirme «complètement».",
     "thumbnail": "thumbnails/1xao12t.webp",
     "tags": [
-      "DGSI",
-      "CNews",
-      "JDD",
-      "Mobilisation-lyceenne-2026"
+      "Médias"
     ],
     "analyzed_at": "2026-11-01T12:10:35.942880+00:00"
   },
@@ -4434,10 +3813,7 @@
     "summary": "Quand le sage montre les lycéens qui sautent des repas et se dirigent vers un hiver avec des classes à 8°C, l'idiot vous demande de condamner les violences.",
     "thumbnail": "thumbnails/1xambn9.webp",
     "tags": [
-      "Elysée",
-      "Limoges",
-      "Macron",
-      "Société"
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T12:10:32.547294+00:00"
   },
@@ -4460,9 +3836,7 @@
     "thumbnail": "thumbnails/1xal2wh.webp",
     "tags": [
       "David Lisnard",
-      "Seine",
-      "Paris le 17",
-      "Présidentielle 2027",
+      "Élection présidentielle",
       "Élections"
     ],
     "analyzed_at": "2026-11-01T12:10:32.536583+00:00"
@@ -4485,11 +3859,7 @@
     "summary": "La France insoumise \"tient une grande part de responsabilité dans le discours de haine\", assure le président du Sénat, dans les colonnes du \"Figaro\".",
     "thumbnail": "thumbnails/1xa8yzt.webp",
     "tags": [
-      "Sénat",
-      "LFI",
-      "Mobilisation du 17 octobre",
-      "La France insoumise",
-      "Politique"
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T12:10:32.716093+00:00"
   },
@@ -4510,10 +3880,7 @@
     "ingested_at": "2026-10-31T13:12:48.261214+00:00",
     "summary": "Si le gouvernement désigne « l’ultragauche » et LFI comme responsables des nombreux pillages et incendies de ce week-end, des policiers réfutent ces accusations. Un commissaire des services de rensei…",
     "thumbnail": "thumbnails/1xa7l83.webp",
-    "tags": [
-      "LFI",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T12:10:32.899663+00:00"
   },
   {
@@ -4534,11 +3901,7 @@
     "summary": "Le président du RN, auteurs d’écrits antisémites révélés par Mediapart, tenait une conférence de presse ce lundi 19 octobre pour instrumentaliser les violences en marge des ma...",
     "thumbnail": "thumbnails/1x9xn4j.webp",
     "tags": [
-      "Jordan Bardella",
-      "RN",
-      "Mediapart",
-      "Payant",
-      "Politique"
+      "Jordan Bardella"
     ],
     "analyzed_at": "2026-11-01T12:10:33.436293+00:00"
   },
@@ -4560,10 +3923,7 @@
     "summary": "VIDÉO - Markus Lammert, porte-parole de la Commission européenne, s'exprime lundi 19 octobre à Bruxelles et répond à une question sur les manifestations et violences du 17 octobre.",
     "thumbnail": "thumbnails/1x9xbil.webp",
     "tags": [
-      "Markus Lammert",
-      "Commission",
-      "Bruxelles",
-      "Politique"
+      "Union européenne"
     ],
     "analyzed_at": "2026-11-01T12:10:32.928437+00:00"
   },
@@ -4585,9 +3945,7 @@
     "summary": "Un chasseur a tiré sur un promeneur dimanche 18 octobre 2026 à Cassagnas, dans les Cévennes provoquant sa mort. Les secours sont intervenus rapidement après le drame survenu aux alentours de midi.",
     "thumbnail": "thumbnails/1x9uoly.webp",
     "tags": [
-      "Lozère",
-      "Cassagnas",
-      "Cévennes"
+      "Cause animale"
     ],
     "analyzed_at": "2026-11-01T12:10:33.170646+00:00"
   },
@@ -4609,8 +3967,7 @@
     "summary": "Le parquet de Paris a annoncé la mort d'un homme, samedi 17 octobre, au cours des manifestations. Depuis, aucune précision n'a été apportée, laissant se propager des rumeurs sur les réseaux sociaux.",
     "thumbnail": "thumbnails/1x9u36x.webp",
     "tags": [
-      "Paris",
-      "LFI"
+      "Manifestations"
     ],
     "analyzed_at": "2026-11-01T12:10:34.266892+00:00"
   },
@@ -4631,40 +3988,8 @@
     "ingested_at": "2026-10-31T13:12:49.482680+00:00",
     "summary": "Invités de France Inter ce lundi, Emmanuel Grégoire et Benoît Payan ont réclamé des comptes à l’État après les violences du week-end. Tous d",
     "thumbnail": "thumbnails/1x9txqx.webp",
-    "tags": [
-      "État",
-      "Paris et Marseille",
-      "France Inter",
-      "Emmanuel Grégoire et Benoît Payan",
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T12:10:33.515127+00:00"
-  },
-  {
-    "id": "1x9tql0",
-    "title": "Protestors Criticized For Looting Businesses Without Forming Private Equity Firm First",
-    "url": "https://theonion.com/protestors-criticized-for-looting-businesses-without-fo-1843735351/",
-    "permalink": "/r/france/comments/1x9tql0/protestors_criticized_for_looting_businesses/",
-    "created_at": "2026-10-19T10:56:55+00:00",
-    "score": 436,
-    "num_comments": 11,
-    "subreddit": "france",
-    "author": "MairusuPawa",
-    "flair": "Humour",
-    "domain": "theonion.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/U4D0_ZXTHTVdVV_Bof-V-EFyEkGgOwAXEoXCx67iOXs.jpeg?auto=webp&s=8faae3258650fd14d4c3e02942931d793b4bb7b5",
-    "ingested_at": "2026-10-31T13:12:51.898310+00:00",
-    "summary": "MINNEAPOLIS—Calling for a more measured way to express opposition to police brutality, critics slammed demonstrators Thursday for recklessly looting businesses without forming a private equity firm first.",
-    "thumbnail": "thumbnails/1x9tql0.webp",
-    "tags": [
-      "Protestors Criticized",
-      "MINNEAPOLIS Calling",
-      "Thursday",
-      "Facebook",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T12:10:33.579551+00:00"
   },
   {
     "id": "1x9t20h",
@@ -4684,11 +4009,8 @@
     "summary": "Laurent Nuñez s'est déplacé dans la cité phocéenne lundi soir. Il s'est entretenu pendant 45 minutes avec le maire Benoît Payan. Ce direct est désormais terminé.",
     "thumbnail": "thumbnails/1x9t20h.webp",
     "tags": [
-      "Benoît Payan",
       "Laurent Nuñez",
-      "II",
-      "Marseille",
-      "Politique"
+      "Manifestations"
     ],
     "analyzed_at": "2026-11-01T12:10:34.272050+00:00"
   },
@@ -4711,9 +4033,7 @@
     "thumbnail": "thumbnails/1x9ohjh.webp",
     "tags": [
       "Emmanuel Macron",
-      "Laurent Nuñez",
-      "Paris",
-      "Politique"
+      "Laurent Nuñez"
     ],
     "analyzed_at": "2026-11-01T12:10:34.081440+00:00"
   },
@@ -4735,9 +4055,7 @@
     "summary": "Violences du 17 octobre à Marseille : \"Je veux savoir quels ordres ont été donnés aux CRS\", lance Benoît Payan",
     "thumbnail": "thumbnails/1x9efdv.webp",
     "tags": [
-      "Marseille",
-      "CRS",
-      "Benoît Payan"
+      "Police"
     ],
     "analyzed_at": "2026-11-01T12:10:34.366753+00:00"
   },
@@ -4759,9 +4077,7 @@
     "summary": "Une adolescente, Maïssa, a été gravement blessée à l'œil au cours de tirs de lacrymogènes par les forces de l’ordre le 17 octobre à Mulhouse. Elle a reçu un projectile en plein visage, une grenade lacrymogène selon des témoins et ne retrouvera pas la vision de l'œil gauche. La justice a saisi la police des polices.",
     "thumbnail": "thumbnails/1x97o13.webp",
     "tags": [
-      "Mulhouse",
-      "IGPN",
-      "Politique"
+      "Police"
     ],
     "analyzed_at": "2026-11-01T12:10:34.345721+00:00"
   },
@@ -4782,10 +4098,7 @@
     "ingested_at": "2026-10-31T13:12:51.897268+00:00",
     "summary": "Depuis un mois le pouvoir tente d’étouffer la contestation sociale par le mépris, la répression et le discrédit. Au lendemain d’une mobilisation massive marquée par des scènes de chaos sans précédent…",
     "thumbnail": "thumbnails/1x95m0i.webp",
-    "tags": [
-      "LFI",
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T12:10:34.566219+00:00"
   },
   {
@@ -4806,8 +4119,7 @@
     "summary": "17 octobre : un manifestant est mort à Paris après un arrêt cardio-respiratoire",
     "thumbnail": "thumbnails/1x8zb75.webp",
     "tags": [
-      "Paris",
-      "Société"
+      "Manifestations"
     ],
     "analyzed_at": "2026-11-01T12:10:34.365510+00:00"
   },
@@ -4828,11 +4140,7 @@
     "ingested_at": "2026-10-31T13:12:53.180589+00:00",
     "summary": "La Cour de justice de l’Union européenne impose désormais aux banques européennes de rembourser les paiements non autorisés, même en cas de négligence grave de la part du client. Deux exceptions sont toutefois prévues.",
     "thumbnail": "thumbnails/1x8yy1y.webp",
-    "tags": [
-      "Cour",
-      "Union",
-      "Économie"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T12:10:34.566383+00:00"
   },
   {
@@ -4853,11 +4161,7 @@
     "summary": "Bernard Baudoux, maire d'Aulnoye-Aymeries (Nord) a été frappé, samedi 17 octobre, à de nombreuses reprises par des colons israéliens, lors d'une visite diplomatique pour le jumelage de sa commune avec Taybeh, en Cisjordanie.",
     "thumbnail": "thumbnails/1x8y2zf.webp",
     "tags": [
-      "Cisjordanie",
-      "Aulnoye-Aymeries",
-      "Bernard Baudoux",
-      "Taybeh",
-      "Politique"
+      "Conflit israélo-palestinien"
     ],
     "analyzed_at": "2026-11-01T12:10:34.844670+00:00"
   },
@@ -4878,13 +4182,7 @@
     "ingested_at": "2026-10-31T13:12:51.897464+00:00",
     "summary": "Dans une lettre ouverte aux représentants de l’Etat, plus d'une centaine de professionnels de la santé font part de leur inquiétude suite aux violences policières survenues lors des mobilisations lycéenne.",
     "thumbnail": "thumbnails/1x8wm47.webp",
-    "tags": [
-      "Etat",
-      "Mobilisation-lyceenne-2026",
-      "Violences-policieres",
-      "Lycee",
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T12:10:39.646672+00:00"
   },
   {
@@ -4905,8 +4203,7 @@
     "summary": "Le manifestant âgé de 17 ans a été grièvement blessé à la main devant un centre commercial, lorsqu'un groupe faisait face aux forces de l'ordre dans une ambiance tendue.",
     "thumbnail": "thumbnails/1x8dbtk.webp",
     "tags": [
-      "Saint-Etienne",
-      "Politique"
+      "Manifestations"
     ],
     "analyzed_at": "2026-11-01T12:10:34.893369+00:00"
   },
@@ -4928,10 +4225,7 @@
     "summary": "C’est tout un pan de l’histoire de Lyon et de la place Bellecour qui vient de disparaître avec l’incendie volontaire de l’Office de tourisme. ...",
     "thumbnail": "thumbnails/1x8csh7.webp",
     "tags": [
-      "Lyon",
-      "Bellecour",
-      "Office",
-      "Maxime Jegat"
+      "Manifestations"
     ],
     "analyzed_at": "2026-11-01T12:10:35.364606+00:00"
   },
@@ -4953,11 +4247,9 @@
     "summary": "Après avoir rencontré Emmanuel Macron jeudi, le président ukrainien l’a remercié d’avoir tenu son engagement. Un accord publié en juillet pr",
     "thumbnail": "thumbnails/1x83nuq.webp",
     "tags": [
-      "Ukraine",
-      "Emmanuel Macron",
-      "AASM",
+      "Guerre en Ukraine",
       "Volodymyr Zelensky",
-      "Monde"
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T12:10:34.649564+00:00"
   },
@@ -4979,11 +4271,7 @@
     "summary": "Deux adolescents, qui comparaîtront eux-mêmes pour des violences qu'ils nient, témoignent à l'AFP de coups et d'insultes pendant ou après leur interpellation en région parisienne, lors de la mobilisation lycéenne.",
     "thumbnail": "thumbnails/1x7iqfr.webp",
     "tags": [
-      "Blocage des lycées",
-      "Justice",
-      "Police",
-      "Homophobie",
-      "Société"
+      "Police"
     ],
     "analyzed_at": "2026-11-01T12:10:35.285754+00:00"
   },
@@ -5005,10 +4293,7 @@
     "summary": "\"Nous avons volé toutes les données de votre site et de vos membres ainsi que tous vos échanges internes et messages privés\", déclarent les pirates dans un communiqué.",
     "thumbnail": "thumbnails/1x7ds8z.webp",
     "tags": [
-      "Républicains",
-      "Bruno Retailleau",
-      "Les Républicains",
-      "Tech / Web"
+      "Bruno Retailleau"
     ],
     "analyzed_at": "2026-11-01T12:10:35.106447+00:00"
   },
@@ -5030,11 +4315,9 @@
     "summary": "Alors que les études d’opinion donnent régulièrement Marine Le Pen victorieuse de la prochaine élection présidentielle, un sondage de l’Ifop pour Marianne analyse la réaction de la population française dans un tel scénario.",
     "thumbnail": "thumbnails/1x7b0pa.webp",
     "tags": [
-      "Marine le Pen",
-      "Français",
-      "2027",
-      "Ifop",
-      "Élections"
+      "Élections",
+      "Marine Le Pen",
+      "Élection présidentielle"
     ],
     "analyzed_at": "2026-11-01T12:10:35.166663+00:00"
   },
@@ -5056,11 +4339,8 @@
     "summary": "\"Les policiers et gendarmes doivent pouvoir utiliser l'ensemble des armes intermediaires à leur disposition\", a défendu le ministre de l'Intérieur.",
     "thumbnail": "thumbnails/1x7946e.webp",
     "tags": [
-      "LBD",
       "Laurent Nuñez",
-      "Intérieur",
-      "Faits-divers",
-      "Politique"
+      "Manifestations"
     ],
     "analyzed_at": "2026-11-01T12:10:35.282086+00:00"
   },
@@ -5082,8 +4362,7 @@
     "summary": "",
     "thumbnail": "thumbnails/1x78wwu.webp",
     "tags": [
-      "Alliance",
-      "Politique"
+      "Extrême droite"
     ],
     "analyzed_at": "2026-11-01T12:10:35.406397+00:00"
   },
@@ -5105,11 +4384,7 @@
     "summary": "Dans un texte commun, ces élus demandent notamment \"l'inscription du 17 octobre au calendrier officiel des journées nationales et cérémonies officielles\".",
     "thumbnail": "thumbnails/1x6jnv9.webp",
     "tags": [
-      "Etat",
-      "Paris",
-      "Algérie",
-      "PCF",
-      "Politique"
+      "Manifestations"
     ],
     "analyzed_at": "2026-11-01T12:10:35.474254+00:00"
   },
@@ -5132,10 +4407,8 @@
     "thumbnail": "thumbnails/1x6hy1c.webp",
     "tags": [
       "Volodymyr Zelensky",
-      "Ukraine",
-      "Madame le Pen",
-      "RN",
-      "Monde"
+      "Guerre en Ukraine",
+      "Marine Le Pen"
     ],
     "analyzed_at": "2026-11-01T12:10:35.542840+00:00"
   },
@@ -5157,10 +4430,7 @@
     "summary": "En situation de quasi-monopole privé sur nos données de santé, Doctolib accueille Nvidia dans son capital, et le gouvernement applaudit. Loin d’aider au développement d’une IA souveraine européenne, …",
     "thumbnail": "thumbnails/1x6ht8v.webp",
     "tags": [
-      "Nvidia",
-      "Doctolib",
-      "IA",
-      "Économie"
+      "Intelligence artificielle"
     ],
     "analyzed_at": "2026-11-01T12:10:36.406352+00:00"
   },
@@ -5182,11 +4452,8 @@
     "summary": "Volodymyr Zelensky souligne dès lors qu'il n'a plus l'intention d'épargner les raffineries russes",
     "thumbnail": "thumbnails/1x6hfv1.webp",
     "tags": [
-      "Zelensky",
       "Volodymyr Zelensky",
-      "Ukraine",
-      "Russie",
-      "Monde"
+      "Guerre en Ukraine"
     ],
     "analyzed_at": "2026-11-01T12:10:35.488423+00:00"
   },
@@ -5208,11 +4475,8 @@
     "summary": "L'École des hautes études commerciales de Paris, située à Jouy-en-Josas (Yvelines), est perturbée ce jeudi 15 octobre pour la première fois depuis le début du mouvement des lycéens en colère. Ils ont reçu le soutien, plein d'ironie, du chef de file insoumis Jean-Luc Mélenchon.",
     "thumbnail": "thumbnails/1x6ezfb.webp",
     "tags": [
-      "HEC Paris",
-      "Jouy-en-Josas",
-      "Jean-Luc Mélenchon",
-      "Paris",
-      "Politique"
+      "Éducation",
+      "Jean-Luc Mélenchon"
     ],
     "analyzed_at": "2026-11-01T12:10:35.755537+00:00"
   },
@@ -5234,7 +4498,7 @@
     "summary": "Les deux seuls agents hospitalisés connus de ces deux dernières semaines se sont brûlés avec leur propre grenade.",
     "thumbnail": "thumbnails/1x6erac.webp",
     "tags": [
-      "Société"
+      "Police"
     ],
     "analyzed_at": "2026-11-01T12:10:35.703442+00:00"
   },
@@ -5256,11 +4520,8 @@
     "summary": "Dénonçant la politique de maintien de l’ordre face au mouvement lycéen, la sénatrice écologiste Mélanie Vogel demande au gouvernement de renoncer « à l'usage des LBD et des grenades ». Le Premier ministre Sébastien Lecornu lui a reproché de ne jamais dénoncer les violences qui émaillent la contestation.",
     "thumbnail": "thumbnails/1x6dvcb.webp",
     "tags": [
-      "Etat",
-      "Sénat",
-      "Mélanie Vogel et Sébastien Lecornu",
-      "Mélanie Vogel",
-      "Politique"
+      "Sébastien Lecornu",
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T12:10:38.400568+00:00"
   },
@@ -5282,11 +4543,7 @@
     "summary": "Le gouvernement a publié mardi le premier chiffrage officiel des aides publiques apportées aux entreprises. Elles oscillent en 2024 entre 60 milliards et 166 milliards d'euros, selon les méthodes de…",
     "thumbnail": "thumbnails/1x6423j.webp",
     "tags": [
-      "Sébastien Lecornu",
-      "Budget français",
-      "Entreprises françaises",
-      "Politique française",
-      "Économie"
+      "Sébastien Lecornu"
     ],
     "analyzed_at": "2026-11-01T12:10:35.897429+00:00"
   },
@@ -5310,8 +4567,8 @@
     "tags": [
       "Jean-Luc Mélenchon",
       "Fabien Roussel",
-      "Alternative",
-      "Élections"
+      "Élections",
+      "Élection présidentielle"
     ],
     "analyzed_at": "2026-11-01T12:10:35.717008+00:00"
   },
@@ -5334,10 +4591,7 @@
     "thumbnail": "thumbnails/1x606j3.webp",
     "tags": [
       "Jordan Bardella",
-      "Marine le Pen",
-      "FN",
-      "Front",
-      "Politique"
+      "Antisémitisme"
     ],
     "analyzed_at": "2026-11-01T12:10:36.924696+00:00"
   },
@@ -5358,10 +4612,7 @@
     "ingested_at": "2026-10-31T13:12:49.481953+00:00",
     "summary": "",
     "thumbnail": "thumbnails/1x5ma10.webp",
-    "tags": [
-      "Chine",
-      "Monde"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T12:10:35.975413+00:00"
   },
   {
@@ -5382,11 +4633,8 @@
     "summary": "Le parquet de Tours a annoncé mardi soir qu'un policier avait été mis en examen et placé sous contrôle judiciaire pour \"violences aggravées\", après qu'un lycéen a été éborgné le 30 septembre en marge…",
     "thumbnail": "thumbnails/1x5awmp.webp",
     "tags": [
-      "Tours",
-      "Violences policières",
-      "Lycée",
-      "LBD",
-      "Politique"
+      "Police",
+      "Justice"
     ],
     "analyzed_at": "2026-11-01T12:10:36.787997+00:00"
   },
@@ -5408,8 +4656,8 @@
     "summary": "Des observateurs de la Ligue des droits de l’Homme ont été repoussés sans ménagement par des policiers en marge d’une manifestation lycéenne à ...",
     "thumbnail": "thumbnails/1x5a1vd.webp",
     "tags": [
-      "Ligue",
-      "Homme"
+      "Police",
+      "Manifestations"
     ],
     "analyzed_at": "2026-11-01T12:10:36.842150+00:00"
   },
@@ -5431,10 +4679,9 @@
     "summary": "Le think tank progressiste a épluché les propositions de la candidate du RN et relevé de nombreuses erreurs. Au final, les économies réalisé",
     "thumbnail": "thumbnails/1x573p9.webp",
     "tags": [
-      "RN",
-      "Terra Nova",
-      "Marine le Pen et du RN",
-      "Élections"
+      "Élections",
+      "Marine Le Pen",
+      "Économie"
     ],
     "analyzed_at": "2026-11-01T12:10:36.108926+00:00"
   },
@@ -5456,10 +4703,7 @@
     "summary": "Le Conseil supérieur de la magistrature (CSM) a rendu mardi 13 octobre un avis défavorable à la réintégration de Rachida Dati dans la magistrature, invoquant sa mise en cause dans une affaire de corruption et trafic d’influence.",
     "thumbnail": "thumbnails/1x549wj.webp",
     "tags": [
-      "Rachida Dati",
-      "CSM",
-      "Conseil",
-      "Procès et affaire judiciaire"
+      "Rachida Dati"
     ],
     "analyzed_at": "2026-11-01T12:10:36.261537+00:00"
   },
@@ -5480,9 +4724,7 @@
     "ingested_at": "2026-10-31T13:12:51.897989+00:00",
     "summary": "Le gouvernement a une définition différente des aides publiques par rapport à celle des sénateurs qui ont planché sur le sujet lors d'une commission d'enquête.",
     "thumbnail": "thumbnails/1x53sip.webp",
-    "tags": [
-      "Économie"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T12:10:36.306902+00:00"
   },
   {
@@ -5503,8 +4745,7 @@
     "summary": "",
     "thumbnail": "thumbnails/1x52yfd.webp",
     "tags": [
-      "Vincent Duclert",
-      "Science"
+      "Extrême droite"
     ],
     "analyzed_at": "2026-11-01T12:10:36.378492+00:00"
   },
@@ -5526,11 +4767,7 @@
     "summary": "Le parquet de Cahors a ouvert une procédure judiciaire après la diffusion d’une vidéo où un homme recharge un fusil à pompe en interpellant l’eurodéputée Rima Hassan. La procureure annonce mardi 13 octobre 2026 que l’individu,...",
     "thumbnail": "thumbnails/1x51jas.webp",
     "tags": [
-      "Rima Hassan",
-      "Cahors",
-      "Reconquête",
-      "ICI TV",
-      "Politique"
+      "Rima Hassan"
     ],
     "analyzed_at": "2026-11-01T12:10:36.798520+00:00"
   },
@@ -5553,10 +4790,8 @@
     "thumbnail": "thumbnails/1x4ymld.webp",
     "tags": [
       "Jean-Luc Mélenchon",
-      "Mélenchon",
-      "Premier",
-      "LFI",
-      "Politique"
+      "Sébastien Lecornu",
+      "Éducation"
     ],
     "analyzed_at": "2026-11-01T12:10:36.864187+00:00"
   },
@@ -5578,7 +4813,8 @@
     "summary": "",
     "thumbnail": "thumbnails/1x4w448.webp",
     "tags": [
-      "Etat"
+      "Justice",
+      "Budget et fiscalité"
     ],
     "analyzed_at": "2026-11-01T12:10:36.711571+00:00"
   },
@@ -5600,9 +4836,7 @@
     "summary": "",
     "thumbnail": "thumbnails/1x4scwq.webp",
     "tags": [
-      "Hongrie",
-      "Orban",
-      "Monde"
+      "Viktor Orbán"
     ],
     "analyzed_at": "2026-11-01T12:10:36.889806+00:00"
   },
@@ -5623,13 +4857,7 @@
     "ingested_at": "2026-10-31T13:12:49.481675+00:00",
     "summary": "VIDÉO - La militante écologiste suédoise de 23 ans est arrivée devant l’établissement, où sont aussi rassemblés une vingtaine d’avocats venus organiser une «chaîne en robe pour protéger les lycéens».",
     "thumbnail": "thumbnails/1x4rrwz.webp",
-    "tags": [
-      "Greta Thunberg",
-      "Saint-Denis",
-      "Lycées",
-      "AFP",
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T12:10:37.996193+00:00"
   },
   {
@@ -5650,8 +4878,8 @@
     "summary": "Le ministre de l’Intérieur, réputé jusque-là pour ses qualités de négociateur et marqué à gauche, est critiqué pour sa gestion du maintien de l’ordre. Alors que plusieurs adolescents ont été mutilés et que le nombre d’interpellations explose, il défend bec et ongles l’action policière.",
     "thumbnail": "thumbnails/1x4pl61.webp",
     "tags": [
-      "Intérieur",
-      "Laurent Nuñez"
+      "Laurent Nuñez",
+      "Police"
     ],
     "analyzed_at": "2026-11-01T12:10:37.305965+00:00"
   },
@@ -5672,9 +4900,7 @@
     "ingested_at": "2026-10-31T13:12:49.482017+00:00",
     "summary": "Crédits photo/illustration en haut de page : Blast, le souffle de l’info",
     "thumbnail": "thumbnails/1x4nxp4.webp",
-    "tags": [
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T12:10:37.300364+00:00"
   },
   {
@@ -5695,7 +4921,7 @@
     "summary": "Nommé dans un climat de forte défiance à cause de son profil de droite réactionnaire, le défenseur des droits a recruté un conseiller dont les profils en ligne étaient jalonnés de publications xénoph…",
     "thumbnail": "thumbnails/1x4bqvb.webp",
     "tags": [
-      "Politique"
+      "Extrême droite"
     ],
     "analyzed_at": "2026-11-01T12:10:37.823900+00:00"
   },
@@ -5717,8 +4943,7 @@
     "summary": "Dans plusieurs villes, des membres des forces de l'ordre au volant ont eu des comportements dangereux envers les lycéen.nes mobilisés. Des faits graves, qui n'ont guère ému les médias dans l'ensemble.",
     "thumbnail": "thumbnails/1x4403u.webp",
     "tags": [
-      "ICI Isère",
-      "Société"
+      "Police"
     ],
     "analyzed_at": "2026-11-01T12:10:37.325373+00:00"
   },
@@ -5740,11 +4965,8 @@
     "summary": "Sur les pancartes des blocus et des manifestations, une phrase revient partout. Elle viendrait de messages Snapchat attribués à des policiers qui tentaient de se faire passer pour des lycéens. Une infiltration grossière, et un brin raciste, devenue la référence de toute une génération.",
     "thumbnail": "thumbnails/1x404zv.webp",
     "tags": [
-      "Snapchat",
-      "Paris",
-      "Mobilisation des lycéens",
-      "Société",
-      "Politique"
+      "Police",
+      "Manifestations"
     ],
     "analyzed_at": "2026-11-01T12:10:37.411684+00:00"
   },
@@ -5766,11 +4988,9 @@
     "summary": "Le documentaire de Yuval Abraham et Rachel Szor, en salles les 12 et 13 octobre dans les salles de cinéma en France, sera disponible gratuitement en ligne sur le site du journal \"The Guardian\" à partir de novembre.",
     "thumbnail": "thumbnails/1x3z3jz.webp",
     "tags": [
-      "Benjamin Netanyahou",
-      "Yuval Abraham et Rachel Szor",
-      "Guardian",
-      "Benyamin Nétanyahou",
-      "Monde"
+      "Benyamin Netanyahou",
+      "Défense",
+      "Conflit israélo-palestinien"
     ],
     "analyzed_at": "2026-11-01T12:10:37.908091+00:00"
   },
@@ -5792,10 +5012,7 @@
     "summary": "Le coprésident de Place publique a remporté dès le premier tour la primaire organisée par le Parti socialiste. La preuve, aux yeux de ce journal suisse, que cet...",
     "thumbnail": "thumbnails/1x3yk97.webp",
     "tags": [
-      "PS",
-      "Raphaël Glucksmann",
-      "Place",
-      "Monde"
+      "Raphaël Glucksmann"
     ],
     "analyzed_at": "2026-11-01T12:10:37.941224+00:00"
   },
@@ -5817,11 +5034,7 @@
     "summary": "Info « Les Jours ». Ce groupe privé est dans le viseur de la justice après nos premières révélations. Le « média » d’extrême droite qui l’administre continue, lui, à laisser s’y répandre toutes les haines.",
     "thumbnail": "thumbnails/1x3wr0l.webp",
     "tags": [
-      "Frontières",
-      "Groupe Facebook",
-      "Jours",
-      "Erik Tegnér",
-      "Politique"
+      "Racisme"
     ],
     "analyzed_at": "2026-11-01T12:10:37.791948+00:00"
   },
@@ -5843,8 +5056,8 @@
     "summary": "Sur les 230 cadres et parlementaires du RN, plus de la moitié sont pointés du doigt pour des propos ou des actes racistes ou antisémites",
     "thumbnail": "thumbnails/1x3weqd.webp",
     "tags": [
-      "RN",
-      "Politique"
+      "Racisme",
+      "Antisémitisme"
     ],
     "analyzed_at": "2026-11-01T12:10:37.983465+00:00"
   },
@@ -5886,10 +5099,8 @@
     "summary": "L’Ukraine a décidé de répliquer aux attaques russes sur ses centres de données en visant ceux de Moscou. Au même moment, les activités de bo",
     "thumbnail": "thumbnails/1x3vjpu.webp",
     "tags": [
-      "Moscou",
-      "États-Unis",
-      "Kiev",
-      "Trompeur ?"
+      "Guerre en Ukraine",
+      "Numérique"
     ],
     "analyzed_at": "2026-11-01T12:10:38.010132+00:00"
   },
@@ -5912,8 +5123,9 @@
     "thumbnail": "thumbnails/1x3fz9f.webp",
     "tags": [
       "Jean-Luc Mélenchon",
-      "Clermont-Ferrand",
-      "Élections"
+      "Élections",
+      "Éducation",
+      "Élection présidentielle"
     ],
     "analyzed_at": "2026-11-01T12:10:38.323602+00:00"
   },
@@ -5935,9 +5147,7 @@
     "summary": "Les résultats du premier tour de la primaire du Parti socialiste et de Place publique en vue de la présidentielle sont tombés ce dimanche 11 octobre. Raphaël Glucksmann l'a emporté avec 66% des voix et un second tour ne sera donc pas nécessaire. Dans le reste de l'actualité politique, le leader...",
     "thumbnail": "thumbnails/1x3cd16.webp",
     "tags": [
-      "Raphaël Glucksmann",
-      "Primaire Parti",
-      "Paris"
+      "Raphaël Glucksmann"
     ],
     "analyzed_at": "2026-11-01T12:10:38.391136+00:00"
   },
@@ -5960,9 +5170,7 @@
     "thumbnail": "thumbnails/1x3bqxq.webp",
     "tags": [
       "Jean-Luc Mélenchon",
-      "LFI",
-      "Clermont-Ferrand",
-      "Puy-de-Dôme",
+      "Élection présidentielle",
       "Élections"
     ],
     "analyzed_at": "2026-11-01T12:10:38.323330+00:00"
@@ -5985,11 +5193,7 @@
     "summary": "Médaillé de Fields, Hugo Duminil-Copin a déclaré lors d’une conférence organisée par la Société mathématique de France être très inquiet des avancées de l’intelligence artificielle, désormais capable de résoudre des problèmes mathématiques particulièrement complexes.",
     "thumbnail": "thumbnails/1x3a9y2.webp",
     "tags": [
-      "Hugo Duminil-Copin",
-      "Intelligence artificielle",
-      "Fields",
-      "Société",
-      "Science"
+      "Intelligence artificielle"
     ],
     "analyzed_at": "2026-11-01T12:10:38.407828+00:00"
   },
@@ -6011,11 +5215,7 @@
     "summary": "Samedi 10 octobre, lors d’un meeting à Clarksville, dans le Tennessee, le président des États-Unis a suggéré de renommer l’un des deux océans à son nom, ou à celui de son pays.",
     "thumbnail": "thumbnails/1x3a5tw.webp",
     "tags": [
-      "Donald Trump",
-      "Pacifique",
-      "Atlantique",
-      "Océan Trump",
-      "Monde"
+      "Donald Trump"
     ],
     "analyzed_at": "2026-11-01T12:10:38.445690+00:00"
   },
@@ -6038,8 +5238,7 @@
     "thumbnail": "thumbnails/1x36stw.webp",
     "tags": [
       "Emmanuel Macron",
-      "Ipsos BVA-Cesi",
-      "Politique"
+      "Élections"
     ],
     "analyzed_at": "2026-11-01T12:10:38.648199+00:00"
   },
@@ -6061,10 +5260,8 @@
     "summary": "Cécile, 31 ans, dénonce des attouchements qu’elle aurait subis de la part d’un policier alors qu’elle participait à une chaîne humaine devant le lycée Hélène-Boucher.",
     "thumbnail": "thumbnails/1x33f18.webp",
     "tags": [
-      "Paris",
-      "IGPN",
-      "Hélène-Boucher",
-      "AFP"
+      "Police",
+      "Violences sexuelles"
     ],
     "analyzed_at": "2026-11-01T12:10:38.677706+00:00"
   },
@@ -6085,37 +5282,8 @@
     "ingested_at": "2026-10-31T13:12:50.731363+00:00",
     "summary": "En France et en Belgique aujourd’hui, en Inde, en Roumanie, en Italie, au Sénégal… Partout dans le monde, les jeunes se mobilisent depuis des semaines, voire de...",
     "thumbnail": "thumbnails/1x32x6b.webp",
-    "tags": [
-      "Belgique",
-      "Italie",
-      "Inde",
-      "Roumanie",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T12:10:38.781809+00:00"
-  },
-  {
-    "id": "1x2smus",
-    "title": "Strasbourg : l’interpellation de ce lycéen provoque l'indignation sur les réseaux sociaux",
-    "url": "https://pokaa.fr/2026/10/10/strasbourg-linterpellation-de-ce-lyceen-provoque-lindignation-sur-les-reseaux-sociaux/?",
-    "permalink": "/r/france/comments/1x2smus/strasbourg_linterpellation_de_ce_lycéen_provoque/",
-    "created_at": "2026-10-10T23:03:23+00:00",
-    "score": 548,
-    "num_comments": 58,
-    "subreddit": "france",
-    "author": "Yisobel",
-    "flair": "Actus",
-    "domain": "pokaa.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/4yAoMXZBvpbFBUtfczwMj4If2iYRqgeuD_vmT_77Giw.png?auto=webp&s=7e437b22b0c0c5b69ba97b7095066cea152172df",
-    "ingested_at": "2026-10-31T13:12:51.896990+00:00",
-    "summary": "Jeudi 8 octobre, l’interpellation d’un lycéen en marge d’une mobilisation à Strasbourg a provoqué une vague d’indignations sur les réseaux sociaux. Les vidéos des témoins interrogent sur la raison et la méthode employée par les agents de police. Pour Pokaa, la mère d’Adam livre sa version des faits.",
-    "thumbnail": "thumbnails/1x2smus.webp",
-    "tags": [
-      "Adam",
-      "Strasbourg"
-    ],
-    "analyzed_at": "2026-11-01T12:10:38.803517+00:00"
   },
   {
     "id": "1x2mi4w",
@@ -6134,13 +5302,7 @@
     "ingested_at": "2026-10-31T13:12:50.732418+00:00",
     "summary": "Matthieu Valet s’est indigné d’une vidéo publiée par « L’Humanité », accusant le journal de « fake news ». Il s’agissait, en réalité, d’une mise en scène humoristique évidente.",
     "thumbnail": "thumbnails/1x2mi4w.webp",
-    "tags": [
-      "RN",
-      "Matthieu Valet",
-      "Politique",
-      "Rassemblement National (RN)",
-      "Blocus des lycées"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T12:10:38.775724+00:00"
   },
   {
@@ -6160,11 +5322,7 @@
     "ingested_at": "2026-10-31T13:12:51.897956+00:00",
     "summary": "La communication par le parquet, vendredi, des premiers éléments de l’enquête a ...",
     "thumbnail": "thumbnails/1x2m2ct.webp",
-    "tags": [
-      "Lens",
-      "« dément",
-      "Explosé »"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T12:10:39.501501+00:00"
   },
   {
@@ -6187,8 +5345,7 @@
     "tags": [
       "Donald Trump",
       "Volodymyr Zelensky",
-      "Ukraine",
-      "Monde"
+      "Guerre en Ukraine"
     ],
     "analyzed_at": "2026-11-01T12:10:38.860040+00:00"
   },
@@ -6210,8 +5367,7 @@
     "summary": "Dans une note interne dévoilée par « Mediapart », la compagnie aérienne relaie une nouvelle directive israélienne : à la suite d’une tentative d’attaque terroriste, l’État hébreu interdit aux membres…",
     "thumbnail": "thumbnails/1x2jlij.webp",
     "tags": [
-      "Air France",
-      "Monde"
+      "Conflit israélo-palestinien"
     ],
     "analyzed_at": "2026-11-01T12:10:39.303364+00:00"
   },
@@ -6233,10 +5389,7 @@
     "summary": "En plein mois de sensibilisation au dépistage du cancer du sein, la présidente du groupe La France insoumise à l’Assemblée nationale a posté sur X une vidéo où elle affirme ne pas vouloir d’«un Octobre rose, mais d’un Octobre colère».",
     "thumbnail": "thumbnails/1x2j2yc.webp",
     "tags": [
-      "Mathilde Panot",
-      "Octobre rose",
-      "Assemblée",
-      "Politique"
+      "Mathilde Panot"
     ],
     "analyzed_at": "2026-11-01T12:10:39.181546+00:00"
   },
@@ -6257,11 +5410,7 @@
     "ingested_at": "2026-10-31T13:12:50.732131+00:00",
     "summary": "Les habitants du Finistère sont appelés à diminuer leur consommation d'eau par deux afin d'éviter des \"restrictions drastiques\" sous 30 jours, alertent les élus bretons. Ces derniers, très inquiets, annoncent passer en \"alerte...",
     "thumbnail": "thumbnails/1x2fjjl.webp",
-    "tags": [
-      "Finistère",
-      "Brest",
-      "Stéphane Roudaut"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T12:10:39.363789+00:00"
   },
   {
@@ -6282,11 +5431,7 @@
     "summary": "VIDÉO - Emmanuel Macron parle aux entrepreneurs depuis l'événement BPI France \"BIG\", un grand rassemblement d'entrepreneurs en France, à Paris ce jeudi 8 octobre.",
     "thumbnail": "thumbnails/1x2ax2u.webp",
     "tags": [
-      "Emmanuel Macron",
-      "BPI France",
-      "BIG",
-      "Paris",
-      "Politique"
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T12:10:39.090160+00:00"
   },
@@ -6307,10 +5452,7 @@
     "ingested_at": "2026-10-31T13:12:51.896861+00:00",
     "summary": "Elle est le dernier rempart face à notre passivité, à notre impuissance et à nos yeux fermés devant l’inacceptable.",
     "thumbnail": "thumbnails/1x2akvl.webp",
-    "tags": [
-      "Social Issues",
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T12:10:39.372958+00:00"
   },
   {
@@ -6331,9 +5473,7 @@
     "summary": "Pour répondre aux difficultés dans les lycées, plus de 3 000 professeurs remplaçants doivent être déployés dans les prochains jours. Parmi eux, Agathe dénonce une affectation inadaptée à sa formation.",
     "thumbnail": "thumbnails/1x29xv4.webp",
     "tags": [
-      "Education",
-      "Mobilisation des lycéens",
-      "Société"
+      "Éducation"
     ],
     "analyzed_at": "2026-11-01T12:10:39.482233+00:00"
   },
@@ -6355,9 +5495,7 @@
     "summary": "Affecté dans l’Hérault après une grave blessure, Romain Boyer, ancien gendarme de 28 ans, a déposé plainte contre sa hiérarchie, dénonçant d",
     "thumbnail": "thumbnails/1x293b8.webp",
     "tags": [
-      "Romain Boyer",
-      "Hérault",
-      "Société"
+      "Police"
     ],
     "analyzed_at": "2026-11-01T12:10:39.528816+00:00"
   },
@@ -6379,10 +5517,7 @@
     "summary": "Ce vendredi 9 octobre, les étudiants bloquent leur école en solidarité avec les lycéens et les universités. Derrière les pancartes nourries de références artistiques, ils défe...",
     "thumbnail": "thumbnails/1x26ruw.webp",
     "tags": [
-      "Louvre",
-      "École du Louvre",
-      "Payant",
-      "Politique"
+      "Éducation"
     ],
     "analyzed_at": "2026-11-01T12:10:40.070186+00:00"
   },
@@ -6404,9 +5539,7 @@
     "summary": "Des vidéos prises le 5 octobre, lors de la manifestation des élèves du lycée Paul-Langevin, à Beauvais (Oise), montrent des policiers prendr",
     "thumbnail": "thumbnails/1x206zp.webp",
     "tags": [
-      "Beauvais",
-      "Laetitia et Achille",
-      "Paul-Langevin"
+      "Police"
     ],
     "analyzed_at": "2026-11-01T12:10:39.546423+00:00"
   },
@@ -6428,11 +5561,7 @@
     "summary": "Le Haut-Commissariat de l'ONU aux droits de l'homme a dit, vendredi 9 octobre, suivre avec « inquiétude » les « incidents » liés aux manifestations des lycéens en France et a appelé au maintien de rassemblements…",
     "thumbnail": "thumbnails/1x1zlyd.webp",
     "tags": [
-      "ONU",
-      "Éducation",
-      "Questions sociales",
-      "Haut-Commissariat de ONU",
-      "Politique"
+      "Manifestations"
     ],
     "analyzed_at": "2026-11-01T12:10:39.846566+00:00"
   },
@@ -6454,9 +5583,8 @@
     "summary": "",
     "thumbnail": "thumbnails/1x1wr59.webp",
     "tags": [
-      "Kremlin",
-      "Donald Trump et Vladimir Poutine",
-      "Politique"
+      "Donald Trump",
+      "Vladimir Poutine"
     ],
     "analyzed_at": "2026-11-01T12:10:39.911046+00:00"
   },
@@ -6479,8 +5607,7 @@
     "thumbnail": "thumbnails/1x1rqaj.webp",
     "tags": [
       "Éducation",
-      "Édouard Geffray",
-      "Politique"
+      "Manifestations"
     ],
     "analyzed_at": "2026-11-01T12:10:39.874355+00:00"
   },
@@ -6502,7 +5629,7 @@
     "summary": "",
     "thumbnail": "thumbnails/1x1nwft.webp",
     "tags": [
-      "Société"
+      "Manifestations"
     ],
     "analyzed_at": "2026-11-01T12:10:39.968188+00:00"
   },
@@ -6524,7 +5651,7 @@
     "summary": "L’apport-cession, une niche fiscale qui permet aux ultrariches de soustraire des milliards d’euros au fisc, est dans le viseur du gouvernement dans son projet de budget. Mais les députés de la commis…",
     "thumbnail": "thumbnails/1x1nkok.webp",
     "tags": [
-      "Politique"
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T12:10:40.717798+00:00"
   },
@@ -6547,10 +5674,7 @@
     "thumbnail": "thumbnails/1x1lvlm.webp",
     "tags": [
       "Jordan Bardella",
-      "RN",
-      "Twitter",
-      "Messenger",
-      "Politique"
+      "Antisémitisme"
     ],
     "analyzed_at": "2026-11-01T12:10:40.078922+00:00"
   },
@@ -6573,10 +5697,7 @@
     "thumbnail": "thumbnails/1x1l37o.webp",
     "tags": [
       "Jordan Bardella",
-      "Français",
-      "Rassemblement",
-      "Ifop-LCI",
-      "Politique"
+      "Antisémitisme"
     ],
     "analyzed_at": "2026-11-01T12:10:40.099951+00:00"
   },
@@ -6598,11 +5719,8 @@
     "summary": "« Mediapart » a pu établir un lien direct, datant de septembre 2013, entre le compte Twitter officiel du président du RN et le fil de conversation Messenger sur lequel il déversait ses idées antisémi…",
     "thumbnail": "thumbnails/1x1gmd2.webp",
     "tags": [
-      "Messenger",
       "Jordan Bardella",
-      "RN",
-      "Twitter",
-      "Politique"
+      "Antisémitisme"
     ],
     "analyzed_at": "2026-11-01T12:10:40.904841+00:00"
   },
@@ -6624,11 +5742,7 @@
     "summary": "Dans le projet de budget de la Sécurité sociale, le transfert du remboursement des cures thermales aux complémentaires santé permettrait à l'Assurance maladie de réaliser une économie de 200 millions d'euros. Mais le conseil de la Cnam a rejeté le projet de loi à la quasi unanimité.",
     "thumbnail": "thumbnails/1x1f69l.webp",
     "tags": [
-      "Sécurité",
-      "Assurance",
-      "Cnam",
-      "Stéphanie Rist",
-      "Politique"
+      "Budget et fiscalité"
     ],
     "analyzed_at": "2026-11-01T12:10:44.086045+00:00"
   },
@@ -6650,8 +5764,8 @@
     "summary": "« Mediapart » a constaté le contrôle et le tri des slogans, jeudi à Paris. Plusieurs policiers confient avoir reçu des instructions, notamment à l’égard des messages « anti-police » et « anti-État ».…",
     "thumbnail": "thumbnails/1x19l3o.webp",
     "tags": [
-      "Paris",
-      "Politique"
+      "Police",
+      "Manifestations"
     ],
     "analyzed_at": "2026-11-01T12:10:42.038058+00:00"
   },
@@ -6673,11 +5787,7 @@
     "summary": "En marge des mobilisations des lycées, de nombreuses violences sont dénoncées partout en France, notamment de la part des forces de l'ordre. À Bayonne, Hegoa, lycéenne, a dû être hospitalisée. Elle dit s'être fait poursuivre,...",
     "thumbnail": "thumbnails/1x14ia9.webp",
     "tags": [
-      "Bayonne",
-      "CRS",
-      "Hegoa",
-      "Lilia",
-      "Société"
+      "Police"
     ],
     "analyzed_at": "2026-11-01T12:10:40.553806+00:00"
   },
@@ -6700,10 +5810,7 @@
     "thumbnail": "thumbnails/1x13it6.webp",
     "tags": [
       "Rima Hassan",
-      "Israël",
-      "Parlement",
-      "Social Issues",
-      "Politique"
+      "Conflit israélo-palestinien"
     ],
     "analyzed_at": "2026-11-01T12:10:43.985914+00:00"
   },
@@ -6725,8 +5832,7 @@
     "summary": "Le chef de la police municipale a été suspendu mercredi 7 octobre 2026 après avoir été filmé en train de foncer sur des élèves qui manifestaient dans le cadre du mouvement des lycéens. Vendredi, il sera convoqué pour un...",
     "thumbnail": "thumbnails/1x0y7gk.webp",
     "tags": [
-      "Port-de-Bouc",
-      "Politique"
+      "Police"
     ],
     "analyzed_at": "2026-11-01T12:10:40.680663+00:00"
   },
@@ -6748,11 +5854,7 @@
     "summary": "Le journaliste est désormais hospitalisé à Naplouse. L'AFP dénonce \"une attaque grave\" qui n'est pas une première.",
     "thumbnail": "thumbnails/1x0vaqy.webp",
     "tags": [
-      "AFP",
-      "Cisjordanie",
-      "Naplouse",
-      "Palestine",
-      "Monde"
+      "Conflit israélo-palestinien"
     ],
     "analyzed_at": "2026-11-01T12:10:41.078434+00:00"
   },
@@ -6774,7 +5876,7 @@
     "summary": "Alors que se tenaient des mouvements près de l’université de lettres de Besançon, ce vendredi en début d’après-midi, des policiers ont pénétré ...",
     "thumbnail": "thumbnails/1x0qqty.webp",
     "tags": [
-      "Besançon"
+      "Police"
     ],
     "analyzed_at": "2026-11-01T12:10:41.423403+00:00"
   },
@@ -6797,10 +5899,7 @@
     "thumbnail": "thumbnails/1x0mokp.webp",
     "tags": [
       "Bruno Retailleau",
-      "Vendée",
-      "Stéphane Ibarra",
-      "Elections sénatoriales 2026",
-      "Politique"
+      "Élections"
     ],
     "analyzed_at": "2026-11-01T12:10:41.080769+00:00"
   },
@@ -6821,34 +5920,8 @@
     "ingested_at": "2026-10-31T13:12:53.180648+00:00",
     "summary": "",
     "thumbnail": "thumbnails/1x0llju.webp",
-    "tags": [
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T12:10:41.063128+00:00"
-  },
-  {
-    "id": "1x0kz07",
-    "title": "Quand le MEDEF essaie de torpiller la loi sur les violences sexistes et sexuelles - Projet Arcadie",
-    "url": "https://projetarcadie.com/medef-torpille-loi-violences-sexuelles/",
-    "permalink": "/r/france/comments/1x0kz07/quand_le_medef_essaie_de_torpiller_la_loi_sur_les/",
-    "created_at": "2026-10-08T07:51:07+00:00",
-    "score": 434,
-    "num_comments": 43,
-    "subreddit": "france",
-    "author": "B0M_B0M",
-    "flair": "Politique",
-    "domain": "projetarcadie.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/KlDD4SXz7mYCwATwPXnEmLpo0bxvT9wJy3x-6iZaFkQ.jpeg?auto=webp&s=1176f330683b3c615546cbc6d6b3f3314c5ccaf6",
-    "ingested_at": "2026-10-31T13:12:51.898451+00:00",
-    "summary": "Une petite série d’amendements du MEDEF ont mis en lumière sa vision : protéger les victimes de violences sexuelles, mais à moindre coût.",
-    "thumbnail": "thumbnails/1x0kz07.webp",
-    "tags": [
-      "MEDEF",
-      "Palais Bourbon",
-      "Politique"
-    ],
-    "analyzed_at": "2026-11-01T12:10:41.638438+00:00"
   },
   {
     "id": "1x05qmd",
@@ -6868,10 +5941,7 @@
     "summary": "D'après les informations de franceinfo, ces images ne sont pas encore en possession des enquêteurs de l'IGPN, la police des polices, chargée des investigations.",
     "thumbnail": "thumbnails/1x05qmd.webp",
     "tags": [
-      "Lens",
-      "IGPN",
-      "Mobilisation des lycéens",
-      "Education"
+      "Police"
     ],
     "analyzed_at": "2026-11-01T12:10:41.383688+00:00"
   },
@@ -6896,29 +5966,6 @@
     "analyzed_at": "2026-11-01T12:10:41.955905+00:00"
   },
   {
-    "id": "1wzzu2l",
-    "title": "« Ils ont seize ans et on leur brise la mâchoire » : 1200 soutiens au mouvement lycéen",
-    "url": "https://blogs.mediapart.fr/les-invite-es-de-mediapart/blog/061026/ils-ont-seize-ans-et-leur-brise-la-machoire-1200-soutiens-au-mouvement-lyceen",
-    "permalink": "/r/france/comments/1wzzu2l/ils_ont_seize_ans_et_on_leur_brise_la_mâchoire/",
-    "created_at": "2026-10-07T15:40:38+00:00",
-    "score": 582,
-    "num_comments": 35,
-    "subreddit": "france",
-    "author": "Folivao",
-    "flair": "Politique",
-    "domain": "blogs.mediapart.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/64Ni7FbhEhThkzgAN6ts9p8WWQcVql7ZUjrL5XW1POA.jpeg?auto=webp&s=5a387582c2b82e41a797ed9ad9e3c7e7a3bf2ba5",
-    "ingested_at": "2026-10-31T13:12:50.732295+00:00",
-    "summary": "« Depuis le 21 septembre, la jeunesse parle de son avenir, de ses angoisses, de ce qu'elle vit. Et chaque lycée bloqué reçoit la même réponse : la violence policière. Des bras tordus, des mâchoires b…",
-    "thumbnail": "thumbnails/1wzzu2l.webp",
-    "tags": [
-      "Club de Mediapart",
-      "Politique"
-    ],
-    "analyzed_at": "2026-11-01T12:10:41.911519+00:00"
-  },
-  {
     "id": "1wzzdzn",
     "title": "Anna Politkovskaïa, la journaliste morte il y a vingt ans d’avoir compris le régime Poutine avant les autres",
     "url": "https://www.lemonde.fr/international/article/2026/10/05/anna-politkovskaia-la-journaliste-morte-il-y-a-vingt-ans-d-avoir-compris-le-regime-poutine-avant-les-autres_6788480_3210.html",
@@ -6936,9 +5983,8 @@
     "summary": "",
     "thumbnail": "thumbnails/1wzzdzn.webp",
     "tags": [
-      "Anna Politkovskaïa",
-      "Poutine",
-      "Monde"
+      "Vladimir Poutine",
+      "Médias"
     ],
     "analyzed_at": "2026-11-01T12:10:41.565176+00:00"
   },
@@ -6960,11 +6006,7 @@
     "summary": "[VIDÉO] Invité sur LCI ce mercredi, Patrick Martin a estimé qu'une victoire de LFI à la présidentielle pourrait pousser des patrons, dont lui, à \"fuir\". Le président du Medef a aussi salué certaines propositions économiques de Marine Le Pen, tout en pointant des \"zones d'ombre importantes\".",
     "thumbnail": "thumbnails/1wzz408.webp",
     "tags": [
-      "Medef",
-      "LFI",
-      "Patrick Martin",
-      "Marine le Pen",
-      "Politique"
+      "Marine Le Pen"
     ],
     "analyzed_at": "2026-11-01T12:10:41.909774+00:00"
   },
@@ -6986,11 +6028,7 @@
     "summary": "Les vidéos de l’interpellation de l’adolescent de 17 ans avaient beaucoup circulé. Il accuse le policier de lui avoir « maintenu la tête sous l’eau » pour le tuer.",
     "thumbnail": "thumbnails/1wzxjvt.webp",
     "tags": [
-      "Belfort",
-      "Vesoul",
-      "Police - Justice",
-      "Lycée",
-      "Manifestation"
+      "Police"
     ],
     "analyzed_at": "2026-11-01T12:10:41.986973+00:00"
   },
@@ -7012,9 +6050,7 @@
     "summary": "Lors d’un après-midi agité dans l’hémicycle, la gauche s’est insurgée contre la répression policière orchestrée par le gouvernement contre le mouvement lycéen. Le premier ministre et le ministre de l…",
     "thumbnail": "thumbnails/1wzt4jd.webp",
     "tags": [
-      "Lecornu",
-      "Assemblée",
-      "Politique"
+      "Sébastien Lecornu"
     ],
     "analyzed_at": "2026-11-01T12:10:42.967016+00:00"
   },
@@ -7036,11 +6072,8 @@
     "summary": "L'ordre a été donné par le directeur général de la Police nationale, le temps d'éclaircir les circonstances de la main arrachée d'un jeune homme lundi à Lens.",
     "thumbnail": "thumbnails/1wzpukt.webp",
     "tags": [
-      "Lens",
-      "Police",
-      "Education",
-      "Mobilisation des lycéens",
-      "Faits-divers"
+      "Manifestations",
+      "Police"
     ],
     "analyzed_at": "2026-11-01T12:10:42.213780+00:00"
   },
@@ -7062,11 +6095,7 @@
     "summary": "L’AfD voit certains de ses membres flirter avec des sphères impérialistes, qui fantasment un retour des frontières de l’Empire allemand, qui allait de la Moselle à la Pologne.",
     "thumbnail": "thumbnails/1wzp9q2.webp",
     "tags": [
-      "Allemagne",
-      "AfD",
-      "Alsace-Lorraine",
-      "Empire",
-      "Monde"
+      "Extrême droite"
     ],
     "analyzed_at": "2026-11-01T12:10:42.308058+00:00"
   },
@@ -7088,9 +6117,7 @@
     "summary": "Le préfet de l’Aube justifie les images d’un véhicule de police fonçant sur des ados par la nécessité de «préserver l’intégrité physique» des policiers. Mais des vidéos retrouvées par «CheckNews» contredisent cette présentation des faits.",
     "thumbnail": "thumbnails/1wzddxa.webp",
     "tags": [
-      "CheckNews Policiers",
-      "Troyes",
-      "Aube"
+      "Police"
     ],
     "analyzed_at": "2026-11-01T12:10:45.785899+00:00"
   },
@@ -7113,9 +6140,7 @@
     "thumbnail": "thumbnails/1wzbpl6.webp",
     "tags": [
       "Jordan Bardella",
-      "RN",
-      "Jordan Bardel",
-      "Politique"
+      "Antisémitisme"
     ],
     "analyzed_at": "2026-11-01T12:10:43.240483+00:00"
   },
@@ -7137,8 +6162,9 @@
     "summary": "Les députés de La France insoumise ont annoncé le dépôt d'une proposition de résolution visant à créer une commission d'enquête sur \"les violences policières\" dans le cadre de l'action des forces de l'ordre déployées à l'occasion de la mobilisation lycéenne.",
     "thumbnail": "thumbnails/1wz8qe2.webp",
     "tags": [
-      "LFI",
-      "LCP"
+      "Police",
+      "Manifestations",
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T12:10:42.950434+00:00"
   },
@@ -7160,38 +6186,10 @@
     "summary": "Le policier qui a tiré une grenade à bout portant sur un adolescent de 14 ans à Saint-Ouen-l'Aumône a été placé en garde à vue par l'IGPN. Il va être déféré cet après-midi.",
     "thumbnail": "thumbnails/1wz5ea2.webp",
     "tags": [
-      "Val-d'Oise",
-      "IGPN",
-      "Blocage des lycées",
-      "Faits Divers",
-      "Politique"
+      "Police",
+      "Justice"
     ],
     "analyzed_at": "2026-11-01T12:10:43.044580+00:00"
-  },
-  {
-    "id": "1wz39oc",
-    "title": "Pour réaffirmer son soutien aux juifs, Jordan Bardella se fera circoncire en direct sur TF1",
-    "url": "https://www.legorafi.fr/2026/10/06/pour-reaffirmer-son-soutien-aux-juifs-jordan-bardella-se-fera-circoncire-en-direct-sur-tf1/",
-    "permalink": "/r/france/comments/1wz39oc/pour_réaffirmer_son_soutien_aux_juifs_jordan/",
-    "created_at": "2026-10-06T13:56:48+00:00",
-    "score": 1730,
-    "num_comments": 65,
-    "subreddit": "france",
-    "author": "Tipiakeur",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/uvzJcgRyeq8YYOTus7eL422gDUP-0bIPqAyD9tj8ZYY.jpeg?auto=webp&s=d0f7bc59ff3d1c4b10b318c84937a362fb8d5d79",
-    "ingested_at": "2026-10-31T13:12:48.261308+00:00",
-    "summary": "Le président du RN a décidé de faire un geste fort afin de prouver, une fois pour toute, qu’il est le premier bouclier des juifs de France.",
-    "thumbnail": "thumbnails/1wz39oc.webp",
-    "tags": [
-      "Jordan Bardella",
-      "TF1",
-      "RN",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T12:10:43.208949+00:00"
   },
   {
     "id": "1wz34ob",
@@ -7211,11 +6209,7 @@
     "summary": "Le candidat LFI à la présidentielle accuse Emmanuel Moulin d’«appeler implicitement les spéculateurs à sanctionner la France» après qu’il a proposé, fin août, de «foutre la dette au feu».",
     "thumbnail": "thumbnails/1wz34ob.webp",
     "tags": [
-      "Banque de France",
-      "Jean-Luc Mélenchon",
-      "Emmanuel Moulin",
-      "LFI",
-      "Politique"
+      "Jean-Luc Mélenchon"
     ],
     "analyzed_at": "2026-11-01T12:10:43.282144+00:00"
   },
@@ -7237,11 +6231,7 @@
     "summary": "Fabien Roussel aurait aimé en placer une, ce 4 octobre sur BFMTV. Mais Guillaume Daret et Amandine Atalaya avaient d'autres plans : lui demander si, \"oui ou non, la France insoumise attise la violence\" du mouvement des lycéen·nes. Pas une, pas deux, pas cinq, mais dix fois de suite.",
     "thumbnail": "thumbnails/1wz0m9j.webp",
     "tags": [
-      "BFM",
-      "Fabien Roussel",
-      "BFMTV",
-      "Guillaume Daret et Amandine Atalaya",
-      "Politique"
+      "Fabien Roussel"
     ],
     "analyzed_at": "2026-11-01T12:10:45.150786+00:00"
   },
@@ -7263,11 +6253,8 @@
     "summary": "Invitée de la matinale de Public Sénat « Bonjour chez vous », la sénatrice RN, présidente du groupe Union nationale pour les territoires, Edwige Diaz a fustigé la « bordélisation » et ce qu’elle estime être une « récupération politique » de La France insoumise du mouvement lycéen.",
     "thumbnail": "thumbnails/1wyz2dy.webp",
     "tags": [
-      "Edwige Diaz",
-      "RN",
-      "Union",
-      "Sénat",
-      "Politique"
+      "Éducation",
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T12:10:45.189378+00:00"
   },
@@ -7289,11 +6276,8 @@
     "summary": "Dans une vidéo partagée sur les réseaux sociaux, le policier est accusé de maintenir la jeune fille au sol et lui toucher les cheveux et la poitrine. Le représentant légal de la jeune fille, \"également entendu, n'a pas déposé plainte\", a fait savoir le parquet, mardi.",
     "thumbnail": "thumbnails/1wyymz7.webp",
     "tags": [
-      "Metz",
-      "Faits-divers",
-      "Violences sexuelles",
-      "Mobilisation des lycéens",
-      "Politique"
+      "Police",
+      "Violences sexuelles"
     ],
     "analyzed_at": "2026-11-01T12:10:43.542207+00:00"
   },
@@ -7315,11 +6299,8 @@
     "summary": "Le ministre de l’Intérieur Laurent Nuñez défend les interventions des forces de ...",
     "thumbnail": "thumbnails/1wyxypg.webp",
     "tags": [
-      "Nuñez",
-      "Intérieur Laurent Nuñez",
-      "« Je",
-      "Excuses »",
-      "«dans"
+      "Laurent Nuñez",
+      "Police"
     ],
     "analyzed_at": "2026-11-01T12:10:44.164472+00:00"
   },
@@ -7341,37 +6322,10 @@
     "summary": "Plusieurs membres de la France Insoumise ont critiqué, notamment auprès du ministre de l’Intérieur Laurent Nuñez, le comportement d’un polic",
     "thumbnail": "thumbnails/1wyxk1n.webp",
     "tags": [
-      "LFI",
-      "France Insoumise",
-      "Intérieur Laurent Nuñez",
-      "Société"
+      "Laurent Nuñez",
+      "Police"
     ],
     "analyzed_at": "2026-11-01T12:10:43.692694+00:00"
-  },
-  {
-    "id": "1wyx19h",
-    "title": "Laurent Nunez s’oppose à la création des unités spécialisées dans les violences sexistes et sexuelles - Projet Arcadie",
-    "url": "https://projetarcadie.com/nunez-non-unites-specialisees/",
-    "permalink": "/r/france/comments/1wyx19h/laurent_nunez_soppose_à_la_création_des_unités/",
-    "created_at": "2026-10-06T08:11:44+00:00",
-    "score": 497,
-    "num_comments": 48,
-    "subreddit": "france",
-    "author": "B0M_B0M",
-    "flair": "Politique",
-    "domain": "projetarcadie.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/ma5bLrtv0DPV2pFGQtFW4YUCyysptqH26038OCtw6_s.jpeg?auto=webp&s=edc3b98638ea59898bd86c889f5a3e1dca79c335",
-    "ingested_at": "2026-10-31T13:12:51.897480+00:00",
-    "summary": "Le ministre de l’Intérieur s’est opposé à la création des unités spécialisées, dédiées à la lutte contre les violences sexistes et sexuelles. Avec la complicité de certains députés.",
-    "thumbnail": "thumbnails/1wyx19h.webp",
-    "tags": [
-      "Laurent Nunez",
-      "Intérieur",
-      "Palais Bourbon",
-      "Politique"
-    ],
-    "analyzed_at": "2026-11-01T12:10:44.177208+00:00"
   },
   {
     "id": "1wywopf",
@@ -7391,11 +6345,8 @@
     "summary": "La cheffe des députés La France insoumise, Mathilde Panot, dénonce une \"manière d'intimider\" les lycéens, pour les démobiliser, alors que plus de 5 000 personnes ont été interpellées et placées en garde à vue dans le cadre du mouvement lycéen.",
     "thumbnail": "thumbnails/1wywopf.webp",
     "tags": [
-      "Mathilde Panot",
-      "OUI",
-      "Vrai ou faux",
-      "Mobilisation des lycéens",
-      "Société"
+      "Manifestations",
+      "Mathilde Panot"
     ],
     "analyzed_at": "2026-11-01T12:10:44.115828+00:00"
   },
@@ -7417,8 +6368,7 @@
     "summary": "Une fois n’est pas coutume : la colère gronde dans les couloirs de France Télévisions. À chaque mouvement social, les mêmes problèmes semblent se répéter : un traitement de l’information décontextualisé, focalisé sur les violences, au point que les…",
     "thumbnail": "thumbnails/1wyv52i.webp",
     "tags": [
-      "France Télévisions",
-      "Politique"
+      "Médias"
     ],
     "analyzed_at": "2026-11-01T12:10:44.421625+00:00"
   },
@@ -7439,9 +6389,7 @@
     "ingested_at": "2026-10-31T13:12:50.732148+00:00",
     "summary": "La France est le deuxième pays au monde le plus touché par le cancer du sein. Et le nombre de cas augmente encore plus vite chez les moins de 40 ans. Pour expliquer ces chiffres, les comportements in…",
     "thumbnail": "thumbnails/1wytu7i.webp",
-    "tags": [
-      "Science"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T12:10:45.242646+00:00"
   },
   {
@@ -7461,11 +6409,7 @@
     "ingested_at": "2026-10-31T13:12:49.482800+00:00",
     "summary": "Une jeune manifestante de 17 ans a été sérieusement blessée à un œil par le coup de matraque d’un policier, vendredi matin, devant le lycée Clemenceau. Elle envisage de porter plainte.",
     "thumbnail": "thumbnails/1wykiyr.webp",
-    "tags": [
-      "Clemenceau",
-      "Montpellier",
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T12:10:44.486938+00:00"
   },
   {
@@ -7486,9 +6430,8 @@
     "summary": "Après avoir réprimé les lycéen·nes et fermé les établissements en lutte, le gouvernement s'attaque aux étudiant·es à la Sorbonne.",
     "thumbnail": "thumbnails/1wyizvl.webp",
     "tags": [
-      "Sorbonne",
-      "CRS",
-      "Politique"
+      "Police",
+      "Éducation"
     ],
     "analyzed_at": "2026-11-01T12:10:44.441657+00:00"
   },
@@ -7510,11 +6453,7 @@
     "summary": "Le jeune homme de 17 ans a été arrêté à Belfort, dans l'eau, par un policier qui a ensuite été passé à tabac. L'avocat de l'adolescent regrette qu'il n'y ait pas d'enquête sur les conditions de l'interpellation.",
     "thumbnail": "thumbnails/1wyb99w.webp",
     "tags": [
-      "Belfort",
-      "République",
-      "Arié Alimi",
-      "Mobilisation des lycéens",
-      "Fait Divers"
+      "Police"
     ],
     "analyzed_at": "2026-11-01T12:10:44.443464+00:00"
   },
@@ -7537,37 +6476,9 @@
     "thumbnail": "thumbnails/1wy98py.webp",
     "tags": [
       "Gérald Darmanin",
-      "Intérieur Gérald Darmanin",
-      "Intérieur",
-      "Politique"
+      "Agriculture"
     ],
     "analyzed_at": "2026-11-01T12:10:44.637550+00:00"
-  },
-  {
-    "id": "1wy67cw",
-    "title": "Molon Labe, Gunfighters : que signifient ces blasons portés par un policier aux propos sexistes et racistes à Perpignan ?",
-    "url": "https://madeinperpignan.com/molon-labe-gunfighters-blasons-policier-perpignan/",
-    "permalink": "/r/france/comments/1wy67cw/molon_labe_gunfighters_que_signifient_ces_blasons/",
-    "created_at": "2026-10-05T11:33:34+00:00",
-    "score": 433,
-    "num_comments": 120,
-    "subreddit": "france",
-    "author": "C-C_Baxter",
-    "flair": "Politique",
-    "domain": "madeinperpignan.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/oWwhAdk5tdOaJOiTHsi7nizclZFnVKMJmjXwUOIgefo.jpeg?auto=webp&s=00a6eb91e755b1b4632c94de2629a88e1b2b3cfa",
-    "ingested_at": "2026-10-31T13:12:53.179743+00:00",
-    "summary": "Des symboles utilisés dans des milieux identitaires, et des propos évoquant des agressions sexuelles par des \"blédards\". Une étonnante scène devant le lycée Maillol de Perpignan.",
-    "thumbnail": "thumbnails/1wy67cw.webp",
-    "tags": [
-      "Molon Labe",
-      "Perpignan",
-      "Maillol de Perpignan",
-      "RIO",
-      "Politique"
-    ],
-    "analyzed_at": "2026-11-01T12:10:44.715866+00:00"
   },
   {
     "id": "1wy54hi",
@@ -7587,11 +6498,7 @@
     "summary": "Les mobilisations de lycéens ont repris ce lundi 5 octobre devant plusieurs établissements du Nord et du Pas-de-Calais. Un lycéen a perdu une main, arrachée par une grenade assourdissante devant le lycée Behal à Lens, en marge d'un blocage. Une enquête de l'IGPN a été ouverte.",
     "thumbnail": "thumbnails/1wy54hi.webp",
     "tags": [
-      "Lens",
-      "Éducation nationale",
-      "Nord et du Pas-de-Calais",
-      "Behal",
-      "Politique"
+      "Éducation"
     ],
     "analyzed_at": "2026-11-01T12:10:44.820753+00:00"
   },
@@ -7633,9 +6540,7 @@
     "summary": "France Télévisions souhaitait confier des données sensibles sur les préférences politiques de ses téléspectateurs à une entreprise israélienne, dont le PDG développe et commercialise des outils de ci…",
     "thumbnail": "thumbnails/1wy3c5c.webp",
     "tags": [
-      "France Télévisions",
-      "PDG",
-      "Politique"
+      "Conflit israélo-palestinien"
     ],
     "analyzed_at": "2026-11-01T12:10:45.275898+00:00"
   },
@@ -7657,11 +6562,7 @@
     "summary": "Le tribunal de Bobigny a jugé ce jeudi 1er octobre 2026 un policier de la BRI. Lors d'une intevention au Raincy, il avait tiré dans le bras d'une femme.",
     "thumbnail": "thumbnails/1wy2qyt.webp",
     "tags": [
-      "BRI",
-      "Seine-Saint-Denis",
-      "Bobigny",
-      "Raincy",
-      "Vincent P"
+      "Police"
     ],
     "analyzed_at": "2026-11-01T12:10:45.331658+00:00"
   },
@@ -7683,10 +6584,7 @@
     "summary": "Cette analyse menée par une équipe internationale montre comment les 5,5 millions de bénéficiaires de l'association ont basculé dans des situations extrêmement précaires, mais elle ne se limite pas à la France.",
     "thumbnail": "thumbnails/1wy2fox.webp",
     "tags": [
-      "Restos du Cœur",
-      "Restos",
-      "Pauvreté en France",
-      "Société"
+      "Pauvreté"
     ],
     "analyzed_at": "2026-11-01T12:10:45.192256+00:00"
   },
@@ -7708,9 +6606,8 @@
     "summary": "",
     "thumbnail": "thumbnails/1wxjzlj.webp",
     "tags": [
-      "Rohan Rane",
-      "Paris",
-      "Société"
+      "Justice",
+      "Éducation"
     ],
     "analyzed_at": "2026-11-01T12:10:45.149522+00:00"
   },
@@ -7732,7 +6629,7 @@
     "summary": "Un policier a été passé à tabac à Belfort vendredi 2 octobre en marge du mouvement lycéen. Avant cette agression, des vidéos circulant en ligne le montrent aux prises avec un jeune homme au milieu d'un cours d'eau, avant de parvenir à l'immobiliser sur la berge.",
     "thumbnail": "thumbnails/1wxi6ue.webp",
     "tags": [
-      "Belfort"
+      "Police"
     ],
     "analyzed_at": "2026-11-01T12:10:45.715420+00:00"
   },
@@ -7754,7 +6651,8 @@
     "summary": "Le porte-parole de la diplomatie iranienne, juge « injustifiable » la répression du mouvement lycéen en France, qui a provoqué plus de 1 700",
     "thumbnail": "thumbnails/1wxfpay.webp",
     "tags": [
-      "Monde"
+      "Éducation",
+      "Manifestations"
     ],
     "analyzed_at": "2026-11-01T12:10:45.620507+00:00"
   },
@@ -7777,8 +6675,7 @@
     "thumbnail": "thumbnails/1wxewbg.webp",
     "tags": [
       "Laurent Nuñez",
-      "Intérieur Laurent Nuñez",
-      "Politique"
+      "Police"
     ],
     "analyzed_at": "2026-11-01T12:10:45.889102+00:00"
   },
@@ -7800,10 +6697,8 @@
     "summary": "L’homme apostrophé par le député européen Anthony Smith (LFI) lors des manifestations lycéennes, vendredi 2 octobre, à Reims (Marne) était bien un policier, confirme le procureur ce dimanche. Selon le magistrat, il intervenait...",
     "thumbnail": "thumbnails/1wxeofc.webp",
     "tags": [
-      "Anthony Smith",
-      "Reims",
-      "LFI",
-      "Politique"
+      "Police",
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T12:10:45.782368+00:00"
   },
@@ -7826,10 +6721,9 @@
     "thumbnail": "thumbnails/1wwx4ee.webp",
     "tags": [
       "Raphaël Glucksmann",
-      "Jean-Luc Mélenchon et Ségolène Royal",
-      "Media",
-      "Macron",
-      "Politique"
+      "Ségolène Royal",
+      "Jean-Luc Mélenchon",
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T12:10:45.671331+00:00"
   },
@@ -7851,11 +6745,7 @@
     "summary": "Les élus RN de Bergerac ont voté le 30 septembre dernier, contre une délibération du maire qui proposait de baptiser une école de la ville du nom d'Irène Sapir, rescapée de la Shoah. Ils invoquent le militantisme communiste d'Irène Sapir, et son refus de leur serrer la main.",
     "thumbnail": "thumbnails/1wwrmnc.webp",
     "tags": [
-      "Irène Sapir",
-      "RN de Bergerac",
-      "Shoah",
-      "Mairie – Municipalité",
-      "Politique"
+      "Éducation"
     ],
     "analyzed_at": "2026-11-01T12:10:45.757683+00:00"
   },
@@ -7876,11 +6766,7 @@
     "ingested_at": "2026-10-31T13:12:53.180240+00:00",
     "summary": "Près de 200 personnes ont été placées sous observation médicale en Sibérie à la suite de la mort d'une employée de laboratoire, contaminée par la peste.",
     "thumbnail": "thumbnails/1wwlsnj.webp",
-    "tags": [
-      "Sibérie",
-      "Irkoutsk",
-      "Monde"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T12:10:46.333797+00:00"
   },
   {
@@ -7900,10 +6786,7 @@
     "ingested_at": "2026-10-31T13:12:51.897701+00:00",
     "summary": "Les médias sponsorisent un faux lycéen mais un vrai communicant macroniste pour tenter de casser le mouvement.",
     "thumbnail": "thumbnails/1wwl0u5.webp",
-    "tags": [
-      "Nathanaël Combary",
-      "LFI"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T12:10:45.887961+00:00"
   },
   {
@@ -7924,8 +6807,8 @@
     "summary": "Réunis en assemblée générale ce vendredi 2 octobre 2026, les personnels du lycée Pyrène de Pamiers sont revenus sur les incidents de la veille. Ils contestent plusieurs éléments du récit présenté par la préfecture,...",
     "thumbnail": "thumbnails/1wwkna9.webp",
     "tags": [
-      "Pamiers",
-      "Pyrène de Pamiers"
+      "Éducation",
+      "Police"
     ],
     "analyzed_at": "2026-11-01T12:10:46.131926+00:00"
   },
@@ -7947,11 +6830,7 @@
     "summary": "Entre avril et septembre 2026, dans le contexte d’une guerre génocidaire d’Israël contre les Palestiniens, la France a effectué 35 livraisons à Elbit Systems, principal fabricant d�...",
     "thumbnail": "thumbnails/1wwk5r7.webp",
     "tags": [
-      "Israël",
-      "Gaza",
-      "Elbit Systems",
-      "Payant",
-      "Monde"
+      "Conflit israélo-palestinien"
     ],
     "analyzed_at": "2026-11-01T12:10:46.731701+00:00"
   },
@@ -7973,7 +6852,7 @@
     "summary": "La vidéo d'une voiture de police roulant à vive allure face à des manifestants, en diffusant du gaz lacrymogène, a été largement partagée sur les réseaux sociaux ces dernières heures. Les faits ont eu lieu à Troyes, jeudi....",
     "thumbnail": "thumbnails/1wwgyvu.webp",
     "tags": [
-      "Troyes"
+      "Police"
     ],
     "analyzed_at": "2026-11-01T12:10:46.202690+00:00"
   },
@@ -7995,8 +6874,7 @@
     "summary": "Ce vendredi 2 octobre à Belfort, en marge des blocus des lycées, un commandant de police âgé de 59 ans a été passé à tabac par ...",
     "thumbnail": "thumbnails/1ww6dds.webp",
     "tags": [
-      "Belfort",
-      "Politique"
+      "Police"
     ],
     "analyzed_at": "2026-11-01T12:10:46.767095+00:00"
   },
@@ -8037,11 +6915,7 @@
     "ingested_at": "2026-10-31T13:12:49.481919+00:00",
     "summary": "",
     "thumbnail": "thumbnails/1ww1m93.webp",
-    "tags": [
-      "JT de France 2",
-      "France 2",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T12:10:46.234024+00:00"
   },
   {
@@ -8062,8 +6936,7 @@
     "summary": "Crédits photo/illustration en haut de page : Blast, le souffle de l’info",
     "thumbnail": "thumbnails/1wvxqeu.webp",
     "tags": [
-      "Blanc-Mesnil",
-      "Politique"
+      "Police"
     ],
     "analyzed_at": "2026-11-01T12:10:46.928674+00:00"
   },
@@ -8085,9 +6958,8 @@
     "summary": "",
     "thumbnail": "thumbnails/1wvvxy4.webp",
     "tags": [
-      "Kevlar",
-      "Marine le Pen",
-      "Politique"
+      "Marine Le Pen",
+      "Médias"
     ],
     "analyzed_at": "2026-11-01T12:10:46.404068+00:00"
   },
@@ -8109,11 +6981,8 @@
     "summary": "Au lycÃ©e Utrillo de Stains, en Seine-Saint-Denis, des Ã©lÃ¨ves ont Ã©tÃ© victimes de propos discriminatoires dâun prof de sport. Dâautres ont subi des pressions pour avoir dÃ©noncÃ© ces actes tandis que deux enseignantes ont Ã©tÃ© menacÃ©es de mutation.",
     "thumbnail": "thumbnails/1wvvrvz.webp",
     "tags": [
-      "Â Â",
-      "Seine-Saint-Denis",
-      "Utrillo de Stains",
-      "LilouÂ",
-      "Société"
+      "Racisme",
+      "Éducation"
     ],
     "analyzed_at": "2026-11-01T12:10:46.775371+00:00"
   },
@@ -8135,11 +7004,7 @@
     "summary": "Les Forges de Tarbes connaissent depuis plusieurs mois d'importantes difficultés alors qu'il s'agit d'une usine stratégique pour la production en France d'obus de 155 mm.",
     "thumbnail": "thumbnails/1wvufps.webp",
     "tags": [
-      "Caesar",
-      "Forges de Tarbes",
-      "Tarbes",
-      "Europlasma",
-      "Économie"
+      "Travail"
     ],
     "analyzed_at": "2026-11-01T12:10:46.689010+00:00"
   },
@@ -8161,7 +7026,8 @@
     "summary": "",
     "thumbnail": "thumbnails/1wvt3p1.webp",
     "tags": [
-      "Trompeur ?"
+      "Éducation",
+      "Grèves et syndicats"
     ],
     "analyzed_at": "2026-11-01T12:10:58.065708+00:00"
   },
@@ -8183,11 +7049,8 @@
     "summary": "Selon son avocate, le jeune homme âgé de 14 ans a une double fracture de la mâchoire, une enquête de l'IGPN est également ouverte.",
     "thumbnail": "thumbnails/1wvqqh6.webp",
     "tags": [
-      "Défenseur",
-      "IGPN",
-      "Mobilisation des lycéens",
-      "Education",
-      "Fait Divers"
+      "Police",
+      "Éducation"
     ],
     "analyzed_at": "2026-11-01T12:10:46.768680+00:00"
   },
@@ -8209,11 +7072,9 @@
     "summary": "Présent au Sénat ce matin pour l'arrivée des sénateurs LFI, le candidat à l’élection présidentielle, Jean-Luc Mélenchon, réagit aux mouvements des lycéens et répond aux propos tenus par Bruno Retailleau, président des LR et également candidat, qui estime que « la question de l’interdiction de LFI se pose ».",
     "thumbnail": "thumbnails/1wvm4wk.webp",
     "tags": [
-      "LFI",
       "Bruno Retailleau",
       "Jean-Luc Mélenchon",
-      "Sénat",
-      "Politique"
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T12:10:48.329867+00:00"
   },
@@ -8235,7 +7096,8 @@
     "summary": "Rythmées par une présence policière massive, un climat parfois très tendu et des accusations de violences, les manifestations lycéennes ne peuvent ignorer la question, tandis que les éléments de lang…",
     "thumbnail": "thumbnails/1wv9rsy.webp",
     "tags": [
-      "Société"
+      "Police",
+      "Manifestations"
     ],
     "analyzed_at": "2026-11-01T12:10:47.652689+00:00"
   },
@@ -8257,11 +7119,7 @@
     "summary": "S’interposant entre policiers et lycéens, Jonathan Bruneau, conseiller communiste d’Orléans a été insulté, puis molesté par un policier. Partout dans le pays, des élus s’interp...",
     "thumbnail": "thumbnails/1wv4427.webp",
     "tags": [
-      "Orléans",
-      "PCF",
-      "Jonathan Bruneau",
-      "Payant",
-      "Politique"
+      "Police"
     ],
     "analyzed_at": "2026-11-01T12:10:47.488278+00:00"
   },
@@ -8284,8 +7142,8 @@
     "thumbnail": "thumbnails/1wv3lz7.webp",
     "tags": [
       "Jordan Bardella",
-      "Marine le Pen et le Rassemblement",
-      "Politique"
+      "Antisémitisme",
+      "Marine Le Pen"
     ],
     "analyzed_at": "2026-11-01T12:10:47.160491+00:00"
   },
@@ -8307,11 +7165,9 @@
     "summary": "Le coordinateur de LFI Manuel Bompard a reproché jeudi à Matignon, qui a accusé plus tôt La France insoumise «et ses proxys de l’ultragauche» d’être «à l’origine» du mouvement de blocage des lycées, de «sombrer dans le complotisme».",
     "thumbnail": "thumbnails/1wv17ra.webp",
     "tags": [
-      "LFI",
-      "Matignon",
       "Manuel Bompard",
-      "Ultragauche",
-      "Politique"
+      "Extrême gauche",
+      "Éducation"
     ],
     "analyzed_at": "2026-11-01T12:10:47.280458+00:00"
   }

@@ -17,11 +17,7 @@
     "summary": "L’acteur avait signé la pétition parue dans « Le Figaro » et écrite par Yannis Ezziadi. Comme Gérard Darmond, Charles Berling ou Yvan Attal, il dit regretter.",
     "thumbnail": "thumbnails/18vgv5z.webp",
     "tags": [
-      "Pierre Richard",
-      "Depardieu",
-      "Gérard Depardieu",
-      "Figaro",
-      "Culture"
+      "Gabriel Attal"
     ],
     "analyzed_at": "2026-11-01T11:00:34.336795+00:00"
   },
@@ -42,9 +38,7 @@
     "ingested_at": "2026-11-01T10:48:33.565913+00:00",
     "summary": "",
     "thumbnail": "thumbnails/18v49d7.webp",
-    "tags": [
-      "Birmanie"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:00:34.448600+00:00"
   },
   {
@@ -64,12 +58,7 @@
     "ingested_at": "2026-11-01T10:48:33.565301+00:00",
     "summary": "La comédienne a publié le 28 décembre un long texte sur Facebook pour s’insurger contre «des comportements inacceptables».",
     "thumbnail": "thumbnails/18uecwh.webp",
-    "tags": [
-      "Gérard Depardieu",
-      "Vahina Giocante",
-      "Facebook",
-      "Gérard"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:00:34.260612+00:00"
   },
   {
@@ -89,13 +78,7 @@
     "ingested_at": "2026-11-01T10:48:33.564143+00:00",
     "summary": "Angèle, Louane ou encore Waly Dia font notamment partie des 600 signataires qui estiment que \"l'art n’a pas à être fait par des idoles hors de la réalité\".",
     "thumbnail": "thumbnails/18uc3qq.webp",
-    "tags": [
-      "Affaire Gérard Depardieu",
-      "Waly Dia",
-      "Gérard Depardieu",
-      "Violences faites aux femmes",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:00:34.587793+00:00"
   },
   {
@@ -116,37 +99,9 @@
     "summary": "",
     "thumbnail": "thumbnails/18ubopg.webp",
     "tags": [
-      "French",
-      "Ukraine",
-      "Société"
+      "Guerre en Ukraine"
     ],
     "analyzed_at": "2026-11-01T11:00:50.726820+00:00"
-  },
-  {
-    "id": "18ub4xa",
-    "title": "In 2024, please switch to Firefox",
-    "url": "https://roytanck.com/2023/12/23/in-2024-please-switch-to-firefox/",
-    "permalink": "/r/france/comments/18ub4xa/in_2024_please_switch_to_firefox/",
-    "created_at": "2023-12-30T08:36:58+00:00",
-    "score": 542,
-    "num_comments": 250,
-    "subreddit": "france",
-    "author": "fonxtal",
-    "flair": "Politique",
-    "domain": "roytanck.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/CFSRxdd8yiOSkdPWxzUixC_pI3cYQTgdWJYrWy2DlnQ.jpeg?auto=webp&s=88555b07ef4c2f56d7778123ec11cb7d54eb734e",
-    "ingested_at": "2026-11-01T10:48:33.564067+00:00",
-    "summary": "This December, if there's one tech New Year's resolution I'd encourage you to have, it's switching to the only remaining ethical web browser, Firefox. According to recent posts on social media, Firefox's market share is slipping. We should not let that happen. There are two main reasons why switching is important.",
-    "thumbnail": "thumbnails/18ub4xa.webp",
-    "tags": [
-      "Firefox",
-      "This December",
-      "New Year's",
-      "I'd",
-      "Politique"
-    ],
-    "analyzed_at": "2026-11-01T11:00:34.951552+00:00"
   },
   {
     "id": "18u8qbv",
@@ -166,11 +121,8 @@
     "summary": "Plus de 2 000 étudiants doivent faire l'objet de relogements temporaires pendant les Jeux de Paris 2024. Le Crous leur a garanti \"le renouvellement du droit d'occupation\" ainsi que \"diverses aides\", souligne le Conseil d'Etat.",
     "thumbnail": "thumbnails/18u8qbv.webp",
     "tags": [
-      "Conseil Etat",
-      "Crous",
-      "Jeux",
-      "Sports",
-      "Sport"
+      "Éducation",
+      "Logement"
     ],
     "analyzed_at": "2026-11-01T11:00:34.908764+00:00"
   },
@@ -191,12 +143,7 @@
     "ingested_at": "2026-11-01T10:48:33.564092+00:00",
     "summary": "L’actrice, qui a «toujours refusé» de tourner à nouveau avec lui après une mauvaise expérience, dénonce l’hypocrisie du monde du cinéma sur le cas Gérard Depardieu.",
     "thumbnail": "thumbnails/18trufy.webp",
-    "tags": [
-      "Sophie Marceau",
-      "Gérard Depardieu",
-      "François Berléand",
-      "Maurice Pialat"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:00:35.841895+00:00"
   },
   {
@@ -216,9 +163,7 @@
     "ingested_at": "2026-11-01T10:48:33.565352+00:00",
     "summary": "",
     "thumbnail": "thumbnails/18tlrvf.webp",
-    "tags": [
-      "TVA"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:00:35.146027+00:00"
   },
   {
@@ -239,11 +184,7 @@
     "summary": "Cet Etat démocrate du nord-est du pays estime que l'attaque du Capitole en janvier 2021 a été commise \"avec le soutien du président sortant\". Or la Constitution américaine exclut de toute responsabilité publique les personnes s'étant livrées à des actes d'\"insurrection\".",
     "thumbnail": "thumbnails/18tk4la.webp",
     "tags": [
-      "Donald Trump",
-      "Maine",
-      "Colorado",
-      "Etat",
-      "Capitole"
+      "Donald Trump"
     ],
     "analyzed_at": "2026-11-01T11:00:35.585986+00:00"
   },
@@ -264,13 +205,7 @@
     "ingested_at": "2026-11-01T10:48:33.565139+00:00",
     "summary": "Le chanteur de 75 ans aurait perçu 110.000 euros du fonds d’aide à la «création immersive» qu’il dirige. Un choix qui s’est fait dans les règles, estime le CNC.",
     "thumbnail": "thumbnails/18t0ye1.webp",
-    "tags": [
-      "Versailles",
-      "Jean-Michel Jarre",
-      "CNC",
-      "Canard",
-      "Culture"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:00:35.822546+00:00"
   },
   {
@@ -290,13 +225,7 @@
     "ingested_at": "2026-11-01T10:48:33.565815+00:00",
     "summary": "L’initiative populaire \"Oui à l’interdiction d’importer du foie gras\" veut interdire constitutionnellement l’importation de foie gras et de produits à base de cet abat.",
     "thumbnail": "thumbnails/18srqde.webp",
-    "tags": [
-      "Éco / Conso",
-      "Cuisine et Gastronomie",
-      "Alimentation",
-      "Bien-être animal",
-      "Europe"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:00:36.867651+00:00"
   },
   {
@@ -317,9 +246,7 @@
     "summary": "Ce lundi soir, une tribune en soutien à l'acteur français Gérard Depardieu a été publiée sur le site du Figaro. Appelée \" N'effacez pas Depardieu \", cette tribune comporte une cinquantaine de signataires, surtout issus du monde du cinéma.",
     "thumbnail": "thumbnails/18rylce.webp",
     "tags": [
-      "Victoria Abril",
-      "Depardieu",
-      "Lucie Lucas"
+      "Violences sexuelles"
     ],
     "analyzed_at": "2026-11-01T11:00:36.118231+00:00"
   },
@@ -340,12 +267,7 @@
     "ingested_at": "2026-11-01T10:48:33.564748+00:00",
     "summary": "Le modèle Amber dévoilé récemment par le fabricant automobile russe Avtotor est moqué largement sur les réseaux pour son design surprenant, rappelant celui de la Fiat Multipla.",
     "thumbnail": "thumbnails/18rwb1e.webp",
-    "tags": [
-      "Tesla",
-      "Avtotor",
-      "Fiat Multipla",
-      "Amber"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:00:36.239728+00:00"
   },
   {
@@ -366,35 +288,9 @@
     "summary": "Une tribune, signée par une cinquantaine d'artistes, prend la défense de l'acteur accusé d'agressions sexuelles et de viol. Murielle Reus, vice-présidente de MeToo Media, a critiqué cette prise de position, mardi sur franceinfo.",
     "thumbnail": "thumbnails/18rck5e.webp",
     "tags": [
-      "MeToo Media",
-      "Gérard Depardieu",
-      "Murielle Reus",
-      "Affaire Gérard Depardieu",
-      "Culture"
+      "Violences sexuelles"
     ],
     "analyzed_at": "2026-11-01T11:00:36.140416+00:00"
-  },
-  {
-    "id": "18r5iww",
-    "title": "La (nouvelle ?) bannière du sous r/aBoringDystopia",
-    "url": "https://b.thumbs.redditmedia.com/-NC333WJhdAutoHyh0wWQelmMJiMaWlKNA6tuIkCL3I.jpg",
-    "permalink": "/r/france/comments/18r5iww/la_nouvelle_bannière_du_sous_raboringdystopia/",
-    "created_at": "2023-12-26T10:44:09+00:00",
-    "score": 271,
-    "num_comments": 54,
-    "subreddit": "france",
-    "author": "Zergamotte",
-    "flair": "Méta",
-    "domain": "b.thumbs.redditmedia.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/-NC333WJhdAutoHyh0wWQelmMJiMaWlKNA6tuIkCL3I.jpeg?auto=webp&s=f9d7f32d420a6619b5a41d67013e101622d4dfa8",
-    "ingested_at": "2026-11-01T10:48:33.565115+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/18r5iww.webp",
-    "tags": [
-      "Méta"
-    ],
-    "analyzed_at": "2026-11-01T11:00:36.320830+00:00"
   },
   {
     "id": "18qot5d",
@@ -413,12 +309,7 @@
     "ingested_at": "2026-11-01T10:48:33.564384+00:00",
     "summary": "L'Autopilot a-t-il le permis? Si vous êtes du genre à vous arrêter sur un pont parce que vous avez aperçu un accident en contrebas, vous l'avez…",
     "thumbnail": "thumbnails/18qot5d.webp",
-    "tags": [
-      "États-Unis",
-      "Tesla",
-      "LendingTree",
-      "Économie"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:00:36.518158+00:00"
   },
   {
@@ -438,12 +329,7 @@
     "ingested_at": "2026-11-01T10:48:33.564441+00:00",
     "summary": "",
     "thumbnail": "thumbnails/18qham5.webp",
-    "tags": [
-      "Secours Populaire",
-      "Isère",
-      "Noël",
-      "Fait Divers"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:00:36.716498+00:00"
   },
   {
@@ -464,10 +350,7 @@
     "summary": "",
     "thumbnail": "thumbnails/18qfzqu.webp",
     "tags": [
-      "IDF",
-      "Gaza",
-      "Catholic",
-      "Politique"
+      "Conflit israélo-palestinien"
     ],
     "analyzed_at": "2026-11-01T11:00:36.970700+00:00"
   },
@@ -488,13 +371,7 @@
     "ingested_at": "2026-11-01T10:48:33.565326+00:00",
     "summary": "Venu pointer au commissariat vendredi, Ousmane Touré a été arrêté et transféré à Paris, en attendant d’être renvoyé dans son pays. Dans le restaurant où il travaillait depuis trois ans, son patron et ses collègues sont atterrés",
     "thumbnail": "thumbnails/18qf1sk.webp",
-    "tags": [
-      "Rochelle",
-      "Ousmane Touré",
-      "Paris",
-      "Charente-Maritime",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:00:36.628338+00:00"
   },
   {
@@ -514,12 +391,7 @@
     "ingested_at": "2026-11-01T10:48:33.564873+00:00",
     "summary": "André Mondange, maire du Péage-de-Roussillon, a porté plainte, après avoir été agressé, avec sa famille, par plusieurs individus se réclamant de l'extrême droite. Sur BFMTV, il dénonce la \"banalisation\" de la violence, avec les élus en \"première ligne\".",
     "thumbnail": "thumbnails/18pqt67.webp",
-    "tags": [
-      "André Mondange",
-      "BFMTV",
-      "Péage-de-Roussillon",
-      "Fait Divers"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:00:36.868687+00:00"
   },
   {
@@ -539,10 +411,7 @@
     "ingested_at": "2026-11-01T10:48:33.564578+00:00",
     "summary": "Les déclarations de Sabrina Agresti-Roubache à la HATVP ont évolué dans le temps, notamment concernant sa rémunération. Ses émoluments ont été sous-évalués de 2018 à 2022, avant qu'elle ne rectifie le tir dans sa fiche publiée ce jeudi 21 décembre.",
     "thumbnail": "thumbnails/18poz87.webp",
-    "tags": [
-      "Sabrina Agresti-Roubache",
-      "HATVP"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:00:37.079073+00:00"
   },
   {
@@ -563,11 +432,8 @@
     "summary": "La région Auvergne-Rhône-Alpes, présidée par Laurent Wauquiez, a retiré sa subvention allouée à un groupement d'entreprises. En cause, ces organisations s'étaient jointes à un appel d'ONG et d'experts demandant des JO d'hiver 2030 écologiques.",
     "thumbnail": "thumbnails/18p8lvg.webp",
     "tags": [
-      "JO",
       "Laurent Wauquiez",
-      "ONG",
-      "Auvergne-Rhône-Alpes",
-      "Politique"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T11:00:37.712826+00:00"
   },
@@ -588,10 +454,7 @@
     "ingested_at": "2026-11-01T10:48:33.565650+00:00",
     "summary": "",
     "thumbnail": "thumbnails/18p3mfv.webp",
-    "tags": [
-      "Etats",
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:00:37.292698+00:00"
   },
   {
@@ -612,9 +475,7 @@
     "summary": "",
     "thumbnail": "thumbnails/18oangw.webp",
     "tags": [
-      "Guerre Israël-Hamas",
-      "Meyer Habib",
-      "Politique"
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T11:00:37.002080+00:00"
   },
@@ -636,11 +497,7 @@
     "summary": "Selon le site d'information, la nouvelle ministre de la Santé a reçu \"sans les déclarer\" de nombreux cadeaux des laboratoires Urgo, dans l'exercice de sa profession. Le procureur confirme qu'une enquête a été ouverte contre plusieurs pharmaciens.",
     "thumbnail": "thumbnails/18o7phj.webp",
     "tags": [
-      "Agnès Firmin le Bodo",
-      "Urgo",
-      "Gouvernement d'Elisabeth Borne",
-      "Justice",
-      "Politique"
+      "Élisabeth Borne"
     ],
     "analyzed_at": "2026-11-01T11:00:37.269806+00:00"
   },
@@ -662,8 +519,7 @@
     "summary": "Rien qu’en 2022, 6 700 lits d'hospitalisation complète ont été fermés dans le pays, portant ce chiffre à près de 40 000 depuis dix ans, soit une baisse de 9,4%.",
     "thumbnail": "thumbnails/18nugld.webp",
     "tags": [
-      "Hôpital",
-      "Politique"
+      "Santé"
     ],
     "analyzed_at": "2026-11-01T11:00:37.266510+00:00"
   },
@@ -686,10 +542,7 @@
     "thumbnail": "thumbnails/18nt5wy.webp",
     "tags": [
       "François Hollande",
-      "Emmanuel Macron",
-      "Affaire Gérard Depardieu",
-      "Gérard Depardieu",
-      "Société"
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T11:00:37.740696+00:00"
   },
@@ -712,10 +565,7 @@
     "thumbnail": "thumbnails/18njram.webp",
     "tags": [
       "Emmanuel Macron",
-      "Affaire Gérard Depardieu",
-      "Etat",
-      "Légion",
-      "Politique"
+      "Cause animale"
     ],
     "analyzed_at": "2026-11-01T11:00:37.807263+00:00"
   },
@@ -737,8 +587,7 @@
     "summary": "",
     "thumbnail": "thumbnails/18mq4aj.webp",
     "tags": [
-      "Grandjean",
-      "Politique"
+      "Police"
     ],
     "analyzed_at": "2026-11-01T11:00:39.097026+00:00"
   },
@@ -760,10 +609,7 @@
     "summary": "Le trafic de drogue prend des proportions alarmantes en France, engendrant une violence record qui touche l'ensemble du territoire. Les constats de l'Office français des drogues et toxicomanies (OFDT) révèlent une hausse...",
     "thumbnail": "thumbnails/18mptu7.webp",
     "tags": [
-      "Office",
-      "OFDT",
-      "Toulouse",
-      "Société"
+      "Narcotrafic"
     ],
     "analyzed_at": "2026-11-01T11:00:37.935372+00:00"
   },
@@ -785,7 +631,8 @@
     "summary": "",
     "thumbnail": "thumbnails/18medx2.webp",
     "tags": [
-      "Politique"
+      "Immigration",
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T11:00:38.283072+00:00"
   },
@@ -807,11 +654,7 @@
     "summary": "Un couple d'Eure-et-Loir voulait faire annuler la vente d'un masque Fang gabonais, cédé 150 euros à un brocanteur et revendu 4,2 millions aux enchères. Le tribunal d'Alès les a déboutés ce 19 décembre.",
     "thumbnail": "thumbnails/18m9ews.webp",
     "tags": [
-      "Justice",
-      "Alès",
-      "Eure-et-Loir",
-      "Fang",
-      "Fait Divers"
+      "Justice"
     ],
     "analyzed_at": "2026-11-01T11:00:38.283942+00:00"
   },
@@ -832,12 +675,7 @@
     "ingested_at": "2026-11-01T10:48:33.564544+00:00",
     "summary": "Il y a quelques jours, Sophie Cha a adressé une lettre de démission à sa direction. Le 31 décembre, elle quitte ses fonctions de médecin-conseiller à la DRAJES, la délégation \"jeunesse et sport\" de Bretagne. Un geste fort...",
     "thumbnail": "thumbnails/18l9aa9.webp",
-    "tags": [
-      "Sophie Cha",
-      "DRAJES",
-      "Bretagne",
-      "EPS"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:00:38.684475+00:00"
   },
   {
@@ -858,10 +696,7 @@
     "summary": "La Ligue contre le cancer dévoile ce lundi un sondage OpinionWay qui révèle selon elle une banalisation de l’alcool au sein des familles fra",
     "thumbnail": "thumbnails/18l5qn3.webp",
     "tags": [
-      "Français",
-      "Ligue",
-      "OpinionWay",
-      "Société"
+      "Élections"
     ],
     "analyzed_at": "2026-11-01T11:00:38.761036+00:00"
   },
@@ -883,9 +718,7 @@
     "summary": "La caravane des glaciers a amené des glaciologues et des défenseurs de l'environnement à se pencher une nouvelle fois, au cours de l'été 2023, sur l'état de santé de six glaciers italiens, suisses et autrichiens. Leur constat...",
     "thumbnail": "thumbnails/18kd0er.webp",
     "tags": [
-      "Alpes",
-      "Aoste",
-      "Écologie"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T11:00:38.861617+00:00"
   },
@@ -907,8 +740,6 @@
     "summary": "Décédé samedi en marge des frappes israéliennes sur Gaza, il travaillait depuis 2002 au consulat français. Paris a dit exiger «toute la lumière» sur les circonstances de sa mort.",
     "thumbnail": "thumbnails/18k44ty.webp",
     "tags": [
-      "Guerre Israël-Hamas",
-      "Gaza",
       "Conflit israélo-palestinien"
     ],
     "analyzed_at": "2026-11-01T11:00:39.301230+00:00"
@@ -931,11 +762,7 @@
     "summary": "From emissions to road deaths, the trend for ever-bigger SUVs is a disaster. We need regulation to turn the car industry back to smaller vehicles",
     "thumbnail": "thumbnails/18js0le.webp",
     "tags": [
-      "Europe",
-      "Paris",
-      "US-style",
-      "SUVs",
-      "Écologie"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T11:00:38.751798+00:00"
   },
@@ -956,9 +783,7 @@
     "ingested_at": "2026-11-01T10:48:33.564039+00:00",
     "summary": "",
     "thumbnail": "thumbnails/18jq87d.webp",
-    "tags": [
-      "Tsahal"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:00:44.738267+00:00"
   },
   {
@@ -979,7 +804,7 @@
     "summary": "",
     "thumbnail": "thumbnails/18izhdd.webp",
     "tags": [
-      "Eric Ciotti"
+      "Éric Ciotti"
     ],
     "analyzed_at": "2026-11-01T11:00:39.308376+00:00"
   },
@@ -1000,11 +825,7 @@
     "ingested_at": "2026-11-01T10:48:33.563991+00:00",
     "summary": "Depuis les années 1980, le \"team building\" est la solution miracle pour favoriser la cohésion en entreprise. Pourtant, une enquête menée par un sociologue de l’EM Normandie révèle que ces activités rebutent les jeunes diplômés,...",
     "thumbnail": "thumbnails/18ixxxx.webp",
-    "tags": [
-      "EM Normandie",
-      "Xavier Philippe",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:00:39.260284+00:00"
   },
   {
@@ -1024,13 +845,7 @@
     "ingested_at": "2026-11-01T10:48:33.564330+00:00",
     "summary": "Début décembre 2023, plusieurs députés LFI dont le Bas-rhinois Emmanuel Fernandes ont déposé une proposition de loi visant à élargir la loi de séparation des Églises et de l'État à tout le territoire français. Avec dans...",
     "thumbnail": "thumbnails/18ix381.webp",
-    "tags": [
-      "Alsace-Moselle",
-      "France Insoumise",
-      "LFI",
-      "Bas-rhinois Emmanuel Fernandes",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:00:39.332555+00:00"
   },
   {
@@ -1051,9 +866,8 @@
     "summary": "L'actrice aux cinq César Isabelle Adjani a été condamnée jeudi à Paris en son absence à deux ans d'emprisonnement avec sursis et 250.000 euros d'amende pour fraude",
     "thumbnail": "thumbnails/18i8w4l.webp",
     "tags": [
-      "Isabelle Adjani",
-      "César Isabelle Adjani",
-      "Paris"
+      "Justice",
+      "Budget et fiscalité"
     ],
     "analyzed_at": "2026-11-01T11:00:40.310048+00:00"
   },
@@ -1075,11 +889,8 @@
     "summary": "LE POINT SUR LA SITUATION - Ces explosions ont retenti peu après la fin de la grande conférence annuelle de presse de Vladimir Poutine à Moscou.",
     "thumbnail": "thumbnails/18i6he3.webp",
     "tags": [
-      "Ukraine",
-      "Poutine",
-      "Otan",
-      "Moscou",
-      "guerre en Ukraine"
+      "Vladimir Poutine",
+      "Guerre en Ukraine"
     ],
     "analyzed_at": "2026-11-01T11:00:39.991625+00:00"
   },
@@ -1100,13 +911,7 @@
     "ingested_at": "2026-11-01T10:48:33.565598+00:00",
     "summary": "C'est un choix loin de faire l'unanimité. Le nom de la future station de métro \"Serge Gainsbourg\" aux Lilas et à Romainville, au nord de Paris, est contesté par",
     "thumbnail": "thumbnails/18hrjrd.webp",
-    "tags": [
-      "Serge Gainsbourg",
-      "Lilas",
-      "Paris",
-      "Romainville",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:00:39.485676+00:00"
   },
   {
@@ -1127,11 +932,8 @@
     "summary": "INFO LE FIGARO - Cyrielle Chatelain a écrit à Yaël Braun-Pivet pour dénoncer la très vive altercation qui l’a opposée à Jean-René Cazeneuve. L’intéressé nie les propos qui lui sont reprochés par plusieurs témoins de l’incident survenu mardi.",
     "thumbnail": "thumbnails/18hdlf4.webp",
     "tags": [
-      "Assemblée",
-      "Cyrielle Chatelain",
-      "Jean-René Cazeneuve",
-      "Assemblée nationale",
-      "FIGARO"
+      "Bernard Cazeneuve",
+      "Yaël Braun-Pivet"
     ],
     "analyzed_at": "2026-11-01T11:00:39.577444+00:00"
   },
@@ -1153,8 +955,7 @@
     "summary": "",
     "thumbnail": "thumbnails/18gnd0i.webp",
     "tags": [
-      "Frédéric Beigbeder",
-      "Société"
+      "Violences sexuelles"
     ],
     "analyzed_at": "2026-11-01T11:00:40.639583+00:00"
   },
@@ -1175,10 +976,7 @@
     "ingested_at": "2026-11-01T10:48:33.564969+00:00",
     "summary": "",
     "thumbnail": "thumbnails/18ghpfv.webp",
-    "tags": [
-      "Victoire Epic Games",
-      "Google"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:00:40.544816+00:00"
   },
   {
@@ -1199,10 +997,10 @@
     "summary": "",
     "thumbnail": "thumbnails/18g121v.webp",
     "tags": [
-      "Gérald Darmanin",
       "Emmanuel Macron",
-      "Elysée",
-      "Politique"
+      "Gérald Darmanin",
+      "Immigration",
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T11:00:39.832331+00:00"
   },
@@ -1223,11 +1021,7 @@
     "ingested_at": "2026-11-01T10:48:33.564944+00:00",
     "summary": "",
     "thumbnail": "thumbnails/18g0iq9.webp",
-    "tags": [
-      "Français",
-      "Insee",
-      "Économie"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:00:42.618927+00:00"
   },
   {
@@ -1248,8 +1042,7 @@
     "summary": "Des rumeurs de provocations et de racisme de la part d'une enseignante en classe de 6e, toutes fausses, se sont rapidement propagées dans cet établissement. Les professeurs, qui dénoncent un climat délétère depuis la rentrée, ont déposé un préavis de grève pour cette journée de lundi.",
     "thumbnail": "thumbnails/18fxz3g.webp",
     "tags": [
-      "Yvelines",
-      "Société"
+      "Éducation"
     ],
     "analyzed_at": "2026-11-01T11:00:40.100380+00:00"
   },
@@ -1271,11 +1064,7 @@
     "summary": "Evidence from the European Parliament graft investigation provides a record of more than 300 alleged attempts to manipulate EU democracy.",
     "thumbnail": "thumbnails/18ft6h3.webp",
     "tags": [
-      "EU",
-      "Qatargate Files",
-      "Panzeri",
-      "MEPs",
-      "Politique"
+      "Corruption"
     ],
     "analyzed_at": "2026-11-01T11:00:40.846678+00:00"
   },
@@ -1297,8 +1086,7 @@
     "summary": "«Nous savons que la situation va empirer à court terme», a-t-il expliqué, alors que le pays est englué dans une inflation chronique, à 143% sur un an.",
     "thumbnail": "thumbnails/18fqnmy.webp",
     "tags": [
-      "Javier Milei",
-      "Milei"
+      "Javier Milei"
     ],
     "analyzed_at": "2026-11-01T11:00:41.445918+00:00"
   },
@@ -1319,33 +1107,8 @@
     "ingested_at": "2026-11-01T10:48:33.565379+00:00",
     "summary": "Derrière l’émotion suscitée par ce drame survenu en janvier, rien n’a été fait pour savoir si le collège de l’adolescent aurait pu prévenir ce suicide. L’enquête administrative annoncée a été enterré…",
     "thumbnail": "thumbnails/18f8ws8.webp",
-    "tags": [
-      "Lucas"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:00:41.517167+00:00"
-  },
-  {
-    "id": "18ez2cm",
-    "title": "Mer Rouge : la frégate française Languedoc détruit 2 drones qui se dirigeaient droit sur elle",
-    "url": "https://air-cosmos.com/article/mer-rouge-la-fregate-francaise-languedoc-detruit-2-drones-qui-se-dirigeaient-droit-sur-elle-68087",
-    "permalink": "/r/france/comments/18ez2cm/mer_rouge_la_frégate_française_languedoc_détruit/",
-    "created_at": "2023-12-10T08:28:15+00:00",
-    "score": 318,
-    "num_comments": 151,
-    "subreddit": "france",
-    "author": "asimovwasright",
-    "flair": "Actus",
-    "domain": "air-cosmos.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/7WWsZyrRCIVkGxcnYfl1zeVhXf1OVYd-FV7IPW22oHc.jpeg?auto=webp&s=76e8b5bb46a3ba7476eefaa592ebe471d9e9c48f",
-    "ingested_at": "2026-11-01T10:48:33.564798+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/18ez2cm.webp",
-    "tags": [
-      "Mer Rouge",
-      "Languedoc"
-    ],
-    "analyzed_at": "2026-11-01T11:00:41.117888+00:00"
   },
   {
     "id": "18eaol7",
@@ -1365,11 +1128,9 @@
     "summary": "\"Je compte sur la présidence de la COP pour ne pas se laisser impressionner par ces déclarations\", a réagi la ministre de la Transition énergétique, Agnès Pannier-Runacher.",
     "thumbnail": "thumbnails/18eaol7.webp",
     "tags": [
-      "Dubaï",
-      "OPEP",
-      "COP",
-      "Transition",
-      "Écologie"
+      "Environnement",
+      "Énergie",
+      "Agnès Pannier-Runacher"
     ],
     "analyzed_at": "2026-11-01T11:00:41.874013+00:00"
   },
@@ -1390,36 +1151,8 @@
     "ingested_at": "2026-11-01T10:48:33.565889+00:00",
     "summary": "Après le scandale des lettres menaçantes envoyées par le rectorat de Versailles à des parents d’élèves victimes de harcèlement, la cellule investigation de Radio France révèle que dans des cas similaires, des établissements scolaires ont initié des enquêtes sociales contre les parents.",
     "thumbnail": "thumbnails/18eanfs.webp",
-    "tags": [
-      "Radio France",
-      "Versailles",
-      "Marie",
-      "Education",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:00:41.443828+00:00"
-  },
-  {
-    "id": "18dltz1",
-    "title": "Enquête auprès des musulmans sur la place de la laïcité et des religions.",
-    "url": "https://www.ifop.com/publication/abayas-burqa-attentat-darras-enquete-aupres-des-musulmans-sur-la-laicite-et-la-place-des-religions-a-lecole-et-dans-la-societe/",
-    "permalink": "/r/france/comments/18dltz1/enquête_auprès_des_musulmans_sur_la_place_de_la/",
-    "created_at": "2023-12-08T12:31:42+00:00",
-    "score": 319,
-    "num_comments": 250,
-    "subreddit": "france",
-    "author": "LitteralementQui",
-    "flair": "Société",
-    "domain": "ifop.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/HyNMYLzkI32tTVYhLaGD-BQsMHCkmdoAbbK5-qRK7W0.png?auto=webp&s=6ae5f79065dadc2e59aa3b057830e5d47e8b30b8",
-    "ingested_at": "2026-11-01T10:48:33.564772+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/18dltz1.webp",
-    "tags": [
-      "Société"
-    ],
-    "analyzed_at": "2026-11-01T11:00:42.173542+00:00"
   },
   {
     "id": "18dgo4c",
@@ -1438,11 +1171,7 @@
     "ingested_at": "2026-11-01T10:48:33.564415+00:00",
     "summary": "",
     "thumbnail": "thumbnails/18dgo4c.webp",
-    "tags": [
-      "Game Awards",
-      "Baldur's Gate 3",
-      "Culture"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:00:42.657120+00:00"
   },
   {
@@ -1463,10 +1192,8 @@
     "summary": "Selon des révélations du « Canard enchaîné », le parquet de Valence mène l’enquête sur les fuites au sein de la police, dont des agents auraient livré à des militants d’extr...",
     "thumbnail": "thumbnails/18cwj26.webp",
     "tags": [
-      "Valence",
-      "Canard",
-      "Gratuit",
-      "Politique"
+      "Police",
+      "Extrême droite"
     ],
     "analyzed_at": "2026-11-01T11:00:43.336442+00:00"
   },
@@ -1487,10 +1214,7 @@
     "ingested_at": "2026-11-01T10:48:33.565225+00:00",
     "summary": "La municipalité justifie cette mesure par l'affluence parfois trop élevée de certains réfectoires et que cette dernière n'a pour l'heure pas eu à être appliquée.",
     "thumbnail": "thumbnails/18css4v.webp",
-    "tags": [
-      "Tarn",
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:00:41.920109+00:00"
   },
   {
@@ -1511,11 +1235,7 @@
     "summary": "Il y a actuellement 783 000 demandeurs de logement social en Ile-de-France, soit deux fois plus qu'il y a dix ans, pointe la présidente de l'Union sociale pour l'habitat.",
     "thumbnail": "thumbnails/18bzg4i.webp",
     "tags": [
-      "Ile-de-France",
-      "Emmanuelle Cosse",
-      "Union",
-      "Mal-logement",
-      "Société"
+      "Logement"
     ],
     "analyzed_at": "2026-11-01T11:00:42.188326+00:00"
   },
@@ -1536,33 +1256,8 @@
     "ingested_at": "2026-11-01T10:48:33.564197+00:00",
     "summary": "L’homme de 55 ans a été incarcéré, après que les enquêteurs ont retrouvé plusieurs quantités de drogue chez lui et dans son salon de coiffur",
     "thumbnail": "thumbnails/18bu4av.webp",
-    "tags": [
-      "Fait Divers"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:00:42.328396+00:00"
-  },
-  {
-    "id": "18b9ign",
-    "title": "23andMe confirms hackers stole ancestry data on 6.9 million users",
-    "url": "https://techcrunch.com/2023/12/04/23andme-confirms-hackers-stole-ancestry-data-on-6-9-million-users/?guccounter=1",
-    "permalink": "/r/france/comments/18b9ign/23andme_confirms_hackers_stole_ancestry_data_on/",
-    "created_at": "2023-12-05T10:58:11+00:00",
-    "score": 265,
-    "num_comments": 126,
-    "subreddit": "france",
-    "author": "Scared-Conclusion602",
-    "flair": "Actus",
-    "domain": "techcrunch.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/YsuQyNLv7J385xIuMiaNhl_qZ0y6vfU0W__nRuxAEP4.jpg?auto=webp&s=cd13790a46084c2b98bd99f7d0113d762053d246",
-    "ingested_at": "2026-11-01T10:48:33.565166+00:00",
-    "summary": "Genetic testing company 23andMe revealed that its data breach was much worse than previously reported, hitting about half of its total customers.",
-    "thumbnail": "thumbnails/18b9ign.webp",
-    "tags": [
-      "October",
-      "DNA Relatives"
-    ],
-    "analyzed_at": "2026-11-01T11:00:43.470212+00:00"
   },
   {
     "id": "18b8xc4",
@@ -1581,10 +1276,7 @@
     "ingested_at": "2026-11-01T10:48:33.565429+00:00",
     "summary": "",
     "thumbnail": "thumbnails/18b8xc4.webp",
-    "tags": [
-      "Rapport Pisa 2022",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:00:44.153454+00:00"
   },
   {
@@ -1605,11 +1297,7 @@
     "summary": "Selon Léa Filoche, il y a \"à la fois plus de personnes qui appellent le Samu social pour demander de l'hébergement d'urgence et une baisse du nombre de places dans les centres d'hébergement d'urgence à Paris.\"",
     "thumbnail": "thumbnails/18aobeg.webp",
     "tags": [
-      "Paris",
-      "SDF",
-      "Samu",
-      "Léa Filoche",
-      "Politique"
+      "Logement"
     ],
     "analyzed_at": "2026-11-01T11:00:43.252864+00:00"
   },
@@ -1650,9 +1338,7 @@
     "ingested_at": "2026-11-01T10:48:33.564824+00:00",
     "summary": "Intervenus pour un malaise et estimant qu’elle simulait, trois sapeurs-pompiers sont repartis en laissant Aïcha, 13 ans, semi-consciente. Atteinte d’une hémorragie cérébrale, elle est décédée douze j…",
     "thumbnail": "thumbnails/189wstn.webp",
-    "tags": [
-      "Aïcha"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:00:43.928162+00:00"
   },
   {
@@ -1672,10 +1358,7 @@
     "ingested_at": "2026-11-01T10:48:33.565040+00:00",
     "summary": "Un individu qui affirme être tombé dans un guet-apens à Montmagny (Val d'Oise), a poignardé mortellement l'un de ses trois agresseurs présumés. Il a été placé en garde à vue.",
     "thumbnail": "thumbnails/189wol7.webp",
-    "tags": [
-      "Montmagny",
-      "Val Oise"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:00:43.436092+00:00"
   },
   {
@@ -1695,12 +1378,7 @@
     "ingested_at": "2026-11-01T10:48:33.565742+00:00",
     "summary": "",
     "thumbnail": "thumbnails/1890e3q.webp",
-    "tags": [
-      "Thomas",
-      "Crépol",
-      "Romans-sur-Isère",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:00:45.895273+00:00"
   },
   {
@@ -1721,11 +1399,7 @@
     "summary": "Une vingtaine de pays dont les États-Unis, la France et les Émirats arabes unis ont appelé dans une déclaration commune à la COP 28 à triple",
     "thumbnail": "thumbnails/188zcw9.webp",
     "tags": [
-      "COP 28",
-      "États-Unis",
-      "Émirats",
-      "Dubaï",
-      "Économie"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T11:00:43.794165+00:00"
   },
@@ -1747,7 +1421,7 @@
     "summary": "",
     "thumbnail": "thumbnails/188drqc.webp",
     "tags": [
-      "Liban"
+      "Conflit israélo-palestinien"
     ],
     "analyzed_at": "2026-11-01T11:00:44.710968+00:00"
   },
@@ -1769,11 +1443,8 @@
     "summary": "Dans des confidences à Paris Match ce jeudi, la parlementaire Renaissance réplique à la suite de l’affaire Joël Guerriau. «Il faut aussi analyser ce phénomène comme un système, sans rien excuser», explique cette ex-consultante dans le secteur médico-social.",
     "thumbnail": "thumbnails/1888llw.webp",
     "tags": [
-      "Renaissance",
-      "Caroline",
-      "Paris Match",
-      "Joël Guerriau",
-      "Politique"
+      "Narcotrafic",
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T11:00:44.387926+00:00"
   },
@@ -1795,9 +1466,8 @@
     "summary": "",
     "thumbnail": "thumbnails/1888dhz.webp",
     "tags": [
-      "Assemblée",
       "Élisabeth Borne",
-      "Politique"
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T11:00:46.529271+00:00"
   }

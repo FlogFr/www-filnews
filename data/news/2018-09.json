@@ -1,70 +1,5 @@
 [
   {
-    "id": "9kb942",
-    "title": "Convaincu par le télétravail",
-    "url": "http://www.commitstrip.com/fr/2018/09/26/convinced-by-telecommuting/",
-    "permalink": "/r/france/comments/9kb942/convaincu_par_le_télétravail/",
-    "created_at": "2018-09-30T23:48:06+00:00",
-    "score": 29,
-    "num_comments": 15,
-    "subreddit": "france",
-    "author": "AlexConquerFr",
-    "flair": "",
-    "domain": "commitstrip.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/VFj_7ale4ZKbaqmlwWjm1MmTgV_5l0YuPr1qehvDDyI.jpeg?auto=webp&s=ed2c9096caeaf0c89b76e215cc352eff4443ce61",
-    "ingested_at": "2026-10-31T15:13:29.997879+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/9kb942.webp",
-    "tags": [],
-    "analyzed_at": "2026-11-01T09:43:58.776069+00:00"
-  },
-  {
-    "id": "9k4zpn",
-    "title": "French arms sales to Saudi Arabia kill civilians in Yemen",
-    "url": "https://medium.com/@pakanalytics1/french-arms-sales-to-saudi-arabia-kill-civilians-in-yemen-f978ba773ead",
-    "permalink": "/r/france/comments/9k4zpn/french_arms_sales_to_saudi_arabia_kill_civilians/",
-    "created_at": "2018-09-30T09:25:11+00:00",
-    "score": 108,
-    "num_comments": 61,
-    "subreddit": "france",
-    "author": "[deleted]",
-    "flair": "",
-    "domain": "medium.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/yKVMWDgVzf926bI7IvN4GmxsEk9D1hNtJRbwFNXaosw.jpg?auto=webp&s=d0acd4ca3999a8aac60d100faeea15fd8dfed6ef",
-    "ingested_at": "2026-10-31T15:13:29.997691+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/9k4zpn.webp",
-    "tags": [
-      "Saudi Arabia",
-      "Yemen"
-    ],
-    "analyzed_at": "2026-11-01T09:44:03.038339+00:00"
-  },
-  {
-    "id": "9k4fza",
-    "title": "Neuf-Brisach, Haut-Rhin, France",
-    "url": "https://c2.staticflickr.com/2/1941/30049687527_fea352a5a3_o.jpg",
-    "permalink": "/r/france/comments/9k4fza/neufbrisach_hautrhin_france/",
-    "created_at": "2018-09-30T07:19:24+00:00",
-    "score": 632,
-    "num_comments": 21,
-    "subreddit": "france",
-    "author": "loulan",
-    "flair": "Culture",
-    "domain": "c2.staticflickr.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/0KhxbdvrHf56TAjFBDNZtnHG2wjzpokXZuVAlhqupI0.jpg?auto=webp&s=200c1f1c80032cfef688a63889ffebe23e288cd9",
-    "ingested_at": "2026-10-31T15:13:29.996398+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/9k4fza.webp",
-    "tags": [
-      "Culture"
-    ],
-    "analyzed_at": "2026-11-01T09:44:02.329791+00:00"
-  },
-  {
     "id": "9jyn9j",
     "title": "Oui, le gouvernement économise bien sur le handicap",
     "url": "https://www.liberation.fr/france/2018/09/28/oui-le-gouvernement-economise-bien-sur-le-handicap_1681869",
@@ -81,7 +16,9 @@
     "ingested_at": "2026-10-31T15:13:29.997841+00:00",
     "summary": "",
     "thumbnail": "thumbnails/9jyn9j.webp",
-    "tags": [],
+    "tags": [
+      "Handicap"
+    ],
     "analyzed_at": "2026-11-01T09:44:00.119265+00:00"
   },
   {
@@ -102,10 +39,8 @@
     "summary": "Les faits remontent à 2015 et se sont déroulés à Quintal, en Haute-Savoie.",
     "thumbnail": "thumbnails/9jucco.webp",
     "tags": [
-      "Quintal",
-      "Haute-Savoie",
-      "Faits-divers",
-      "Justice"
+      "Justice",
+      "Cause animale"
     ],
     "analyzed_at": "2026-11-01T09:43:59.122926+00:00"
   },
@@ -127,33 +62,9 @@
     "summary": "REPORTAGE - Deux locataires, victimes d’un marchand de sommeil, ont accepté d’ouvrir leurs portes à la presse et de témoigner leur désarroi et même leur «honte» de vivre dans des micro-logements insalubres.",
     "thumbnail": "thumbnails/9jm8a3.webp",
     "tags": [
-      "Fondation Abbé Pierre",
-      "Marchands de sommeil",
-      "Paris"
+      "Logement"
     ],
     "analyzed_at": "2026-11-01T09:44:00.122671+00:00"
-  },
-  {
-    "id": "9jkjpb",
-    "title": "Penne, Tarn, France",
-    "url": "https://www.seigneurs-du-rouergue.fr/wp-content/uploads/%C2%A9Jacques-SIERPINSKI-Chateau-de-Penne-Vue-g%C3%A9n%C3%A9rale.jpg",
-    "permalink": "/r/france/comments/9jkjpb/penne_tarn_france/",
-    "created_at": "2018-09-28T06:18:20+00:00",
-    "score": 689,
-    "num_comments": 46,
-    "subreddit": "france",
-    "author": "loulan",
-    "flair": "Culture",
-    "domain": "seigneurs-du-rouergue.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/UWEArzW2AtPgMv7cJKFwdMRsZfHmNF6oUsRsvJOKGAg.jpg?auto=webp&s=25a2517a1a89fd3ea0da0d64988a2e67e70afbc5",
-    "ingested_at": "2026-10-31T15:13:29.996356+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/9jkjpb.webp",
-    "tags": [
-      "Culture"
-    ],
-    "analyzed_at": "2026-11-01T09:44:02.129792+00:00"
   },
   {
     "id": "9jgdnq",
@@ -173,8 +84,7 @@
     "summary": "L’élu (LR), privé de son siège de député avec le non-cumul des mandats, récupère une indemnité qui correspond au plafond autorisé pour les v",
     "thumbnail": "thumbnails/9jgdnq.webp",
     "tags": [
-      "Patrick Balkany",
-      "LR"
+      "Patrick Balkany"
     ],
     "analyzed_at": "2026-11-01T09:43:59.506453+00:00"
   },
@@ -196,9 +106,7 @@
     "summary": "Me Laurent-Franck Liénard annonce sur Facebook qu'il n'assurera plus la défense d'Alexandre Benalla.",
     "thumbnail": "thumbnails/9jbmmn.webp",
     "tags": [
-      "Alexandre Benalla",
-      "Laurent-Franck Liénard",
-      "Facebook"
+      "Alexandre Benalla"
     ],
     "analyzed_at": "2026-11-01T09:43:59.725697+00:00"
   },
@@ -219,13 +127,7 @@
     "ingested_at": "2026-10-31T15:13:29.997391+00:00",
     "summary": "L’Œil du 20 heures\" s’est penché sur un rapport médical troublant longtemps resté confidentiel. Autour de Druillat, ce village de l’Ain, en quatre ans, 7 bébés sont nés sans bras ou sans main. Une fréquence hors norme selon la structure qui a donné l’alerte, et qui pourtant aujourd’hui est menacée de disparaître.",
     "thumbnail": "thumbnails/9jag7e.webp",
-    "tags": [
-      "Ain",
-      "Druillat",
-      "Remera",
-      "Bébés nés sans bras",
-      "Science"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:43:59.793116+00:00"
   },
   {
@@ -245,13 +147,7 @@
     "ingested_at": "2026-10-31T15:13:29.997628+00:00",
     "summary": "A l'occasion du One Planet Summit, franceinfo a interrogé plusieurs climatologues français et étrangers. Face à des résultats chaque jour plus préoccupants, ils ont souvent l'impression de ne pas être entendus par les décideurs politiques.",
     "thumbnail": "thumbnails/9j01zz.webp",
-    "tags": [
-      "One Planet Summit",
-      "Gilles Ramstein",
-      "Crise climatique",
-      "Environnement",
-      "Monde"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:44:00.574949+00:00"
   },
   {
@@ -271,12 +167,7 @@
     "ingested_at": "2026-10-31T15:13:29.996664+00:00",
     "summary": "Le rapport sur l'alimentation industrielle, rendu mercredi, propose aussi de limiter la teneur en sel des aliments et d'améliorer la qualité des repas à l'école, à l'hôpital et dans les maisons de retraite.",
     "thumbnail": "thumbnails/9izgxp.webp",
-    "tags": [
-      "Nutri-Score",
-      "Alimentation",
-      "Politique de santé",
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:44:00.113130+00:00"
   },
   {
@@ -297,34 +188,9 @@
     "summary": "Le Laboratoire sur les inégalités mondiales, notamment dirigé par Thomas Piketty, a actualisé les données sur les inégalités du système de prélèvement. Alors que la progressivité s'était améliorée entre 2013-2016, elle s'est détériorée depuis l'arrivée de Macron.",
     "thumbnail": "thumbnails/9itri8.webp",
     "tags": [
-      "Macron",
-      "Laboratoire",
-      "Thomas Piketty",
-      "Français"
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T09:44:00.966819+00:00"
-  },
-  {
-    "id": "9irm3g",
-    "title": "La 7e économie mondiale menacée par l’arrivée soudaine de 58 personnes dans un bateau",
-    "url": "http://www.legorafi.fr/2018/09/25/la-7e-economie-mondiale-menacee-par-larrivee-soudaine-de-58-personnes-dans-un-bateau/",
-    "permalink": "/r/france/comments/9irm3g/la_7e_économie_mondiale_menacée_par_larrivée/",
-    "created_at": "2018-09-25T12:18:10+00:00",
-    "score": 543,
-    "num_comments": 254,
-    "subreddit": "france",
-    "author": "death-and-gravity",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/TxX3HLYn3Wo9V6mWxQE3mwupPKnVIzCcCQHurqm8V6o.jpeg?auto=webp&s=6413da99f12b0300b5c27e572d6a8348b6bc09de",
-    "ingested_at": "2026-10-31T15:13:29.996484+00:00",
-    "summary": "Paris – La 7e économie mondiale a réaffirmé ce jour que la survie de sa civilisation et de tout son système économique à court et long terme étaient mis en danger par l'arrivée de 58 personnes dans un bateau. Reportage.",
-    "thumbnail": "thumbnails/9irm3g.webp",
-    "tags": [
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:44:00.508555+00:00"
   },
   {
     "id": "9ipk6r",
@@ -344,10 +210,7 @@
     "summary": "Le film, diffusé mardi 25 septembre à 20h50 sur France 5, donne la parole au personnel soignant de l'hôpital public de Gonesse, dans le Val-d'Oise. Fatigués et inquiets, les employés dénoncent une tutelle économique oppressive et pointent du doigt des dérives néfastes.",
     "thumbnail": "thumbnails/9ipk6r.webp",
     "tags": [
-      "France 5",
-      "Gonesse",
-      "Val-d'Oise",
-      "Société"
+      "Santé"
     ],
     "analyzed_at": "2026-11-01T09:44:00.503245+00:00"
   },
@@ -369,7 +232,7 @@
     "summary": "",
     "thumbnail": "thumbnails/9iil15.webp",
     "tags": [
-      "Londres"
+      "Union européenne"
     ],
     "analyzed_at": "2026-11-01T09:44:00.968890+00:00"
   },
@@ -391,8 +254,7 @@
     "summary": "Suivez l'info en direct pour savoir ce qui se passe maintenant ! Toutes les infos livrées minute par minute par la rédaction, les photos, vidéos, tweets et vos interventions",
     "thumbnail": "thumbnails/9ihwku.webp",
     "tags": [
-      "RUSSIE",
-      "Société"
+      "Éducation"
     ],
     "analyzed_at": "2026-11-01T09:44:01.360392+00:00"
   },
@@ -414,9 +276,7 @@
     "summary": "",
     "thumbnail": "thumbnails/9ihp4y.webp",
     "tags": [
-      "Google",
-      "Qwant",
-      "Technos"
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T09:44:02.151895+00:00"
   },
@@ -438,30 +298,9 @@
     "summary": "Le patronat européen s'oppose à la politique climatique européenne",
     "thumbnail": "thumbnails/9igrog.webp",
     "tags": [
-      "Réchauffement climatique",
-      "Commission européenne"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T09:44:01.413703+00:00"
-  },
-  {
-    "id": "9icitj",
-    "title": "France has one of the lowest costs for quality education in the world rankings",
-    "url": "https://grafiti.io/facts/85143",
-    "permalink": "/r/france/comments/9icitj/france_has_one_of_the_lowest_costs_for_quality/",
-    "created_at": "2018-09-23T22:21:22+00:00",
-    "score": 181,
-    "num_comments": 47,
-    "subreddit": "france",
-    "author": "datadorkdata",
-    "flair": "Forum Libre",
-    "domain": "grafiti.io",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/e8vKuCQz5NiyOy_mP8AX6TPWyuUASCvHs9SsSRbnrlQ.jpg?auto=webp&s=1ab183062ed6289cabb9683eb960546371cb8471",
-    "ingested_at": "2026-10-31T15:13:29.997327+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/9icitj.webp",
-    "tags": [],
-    "analyzed_at": "2026-11-01T09:44:01.939008+00:00"
   },
   {
     "id": "9i93wk",
@@ -480,12 +319,7 @@
     "ingested_at": "2026-10-31T15:13:29.997585+00:00",
     "summary": "Le Conseil de Paris examinera la semaine prochaine cette requête de la Confédération nationale de la boulangerie-pâtisserie française, avant éventuellement de déposer une candidature auprès de l'Unesco.",
     "thumbnail": "thumbnails/9i93wk.webp",
-    "tags": [
-      "Unesco",
-      "Confédération",
-      "Conseil de Paris",
-      "Alimentation"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:44:01.656834+00:00"
   },
   {
@@ -506,60 +340,9 @@
     "summary": "",
     "thumbnail": "thumbnails/9i6lsf.webp",
     "tags": [
-      "IMAGES",
-      "Rennes",
-      "Cora"
+      "Travail"
     ],
     "analyzed_at": "2026-11-01T09:44:02.909213+00:00"
-  },
-  {
-    "id": "9i27dl",
-    "title": "Les yeux de la haine (Alfred Eisenstadt)",
-    "url": "https://scontent-mrs1-1.xx.fbcdn.net/v/t1.0-0/p526x296/41956122_10160896489275204_3723059080181317632_n.jpg?_nc_cat=0&oh=5f8fae076c3b2ddd84a52055354b98ac&oe=5C62570F",
-    "permalink": "/r/france/comments/9i27dl/les_yeux_de_la_haine_alfred_eisenstadt/",
-    "created_at": "2018-09-22T19:08:48+00:00",
-    "score": 308,
-    "num_comments": 65,
-    "subreddit": "france",
-    "author": "thomas-bios",
-    "flair": "Culture",
-    "domain": "scontent-mrs1-1.xx.fbcdn.net",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/DE-ImqfUh4SLYdhu6fHfOMBJQnyui3gZgvxmFaZ2HL8.jpg?auto=webp&s=03de9c0d93cb022dbc2f4f336d22bfcec8d643ec",
-    "ingested_at": "2026-10-31T15:13:29.996798+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/9i27dl.webp",
-    "tags": [
-      "Alfred Eisenstadt",
-      "Culture"
-    ],
-    "analyzed_at": "2026-11-01T09:44:07.151673+00:00"
-  },
-  {
-    "id": "9hxy0v",
-    "title": "An International Space Station astronaut snapped \"this early evening photo of the entire Iberian Peninsula (Spain and Portugal) on July 26, 2014. Part of France can be seen at the top of the image...Strait of Gibraltar is visible at bottom...portion of Morocco visible near the lower right corner.\"",
-    "url": "http://images-assets.nasa.gov/image/iss040e081320/iss040e081320~orig.jpg",
-    "permalink": "/r/france/comments/9hxy0v/an_international_space_station_astronaut_snapped/",
-    "created_at": "2018-09-22T07:34:06+00:00",
-    "score": 687,
-    "num_comments": 36,
-    "subreddit": "france",
-    "author": "trot-trot",
-    "flair": "Technos",
-    "domain": "images-assets.nasa.gov",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/qnOtn9MaN12TaBAdMLXYGbQ6yVF9T0I8PeLV7r0Zz6E.jpg?auto=webp&s=54e6ab063ea476da297975bb628b0cb428682f52",
-    "ingested_at": "2026-10-31T15:13:29.996379+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/9hxy0v.webp",
-    "tags": [
-      "An International Space Station",
-      "Iberian Peninsula",
-      "Portugal",
-      "July 26",
-      "Technos"
-    ],
-    "analyzed_at": "2026-11-01T09:44:04.052196+00:00"
   },
   {
     "id": "9hrjxb",
@@ -579,11 +362,7 @@
     "summary": "LE SCAN POLITIQUE - Pour la première fois, une étude de la Fondation Jean Jaurès établit une radiographie complète des sympathisants LaREM.",
     "thumbnail": "thumbnails/9hrjxb.webp",
     "tags": [
-      "Emmanuel Macron",
-      "Jean Jaures",
-      "Fondation Jean Jaurès",
-      "LaREM",
-      "Politique"
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T09:44:03.117667+00:00"
   },
@@ -604,10 +383,7 @@
     "ingested_at": "2026-10-31T15:13:29.997069+00:00",
     "summary": "",
     "thumbnail": "thumbnails/9hn3xi.webp",
-    "tags": [
-      "Républicains",
-      "Compteur"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:44:03.787917+00:00"
   },
   {
@@ -628,11 +404,7 @@
     "summary": "Le 26 septembre prochain, Emmanuel Macron recevra un curieux titre lors du second \"One Planet Summit\": \"champion of the Earth\", soit \"champion de la terre\". il s'agira d'une récompense pour avoir organisé la première édition de ce rendez-vous international de l'écologie à Paris.",
     "thumbnail": "thumbnails/9hgije.webp",
     "tags": [
-      "New York",
-      "One Planet Summit",
-      "Paris",
-      "Emmanuel Macron",
-      "Politique"
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T09:44:02.713174+00:00"
   },
@@ -654,7 +426,7 @@
     "summary": "",
     "thumbnail": "thumbnails/9hg3q7.webp",
     "tags": [
-      "Société"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T09:44:03.958627+00:00"
   },
@@ -676,11 +448,7 @@
     "summary": "Dans cette affaire, la présidente du Rassemblement national est mise en examen pour \"diffusion d'images violentes\" après avoir posté sur Twitter, en 2015, des photos de l'Etat islamique.",
     "thumbnail": "thumbnails/9hdur9.webp",
     "tags": [
-      "Etat",
-      "Marine le Pen",
-      "Twitter",
-      "Rassemblement",
-      "Politique"
+      "Marine Le Pen"
     ],
     "analyzed_at": "2026-11-01T09:44:03.246690+00:00"
   },
@@ -702,8 +470,8 @@
     "summary": "Le montant de la fraude déclenchant une transmission à la justice est fixé à 100 000 euros.",
     "thumbnail": "thumbnails/9h70it.webp",
     "tags": [
-      "Bercy",
-      "Éco / Conso"
+      "Justice",
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T09:44:03.385613+00:00"
   },
@@ -724,10 +492,7 @@
     "ingested_at": "2026-10-31T15:13:29.997090+00:00",
     "summary": "",
     "thumbnail": "thumbnails/9h3cyl.webp",
-    "tags": [
-      "AJA",
-      "Culture"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:44:06.305515+00:00"
   },
   {
@@ -747,10 +512,7 @@
     "ingested_at": "2026-10-31T15:13:29.996419+00:00",
     "summary": "C’est une nouvelle mesure pour tenter de réduire le nombre de piétons morts sur les routes, qui s’élevait à 519 l’an dernier. Un décret a été publié ce mardi au Journal officiel, à la suite du comité interministériel...",
     "thumbnail": "thumbnails/9h2em7.webp",
-    "tags": [
-      "Dépêche",
-      "Journal"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:44:03.577802+00:00"
   },
   {
@@ -771,63 +533,9 @@
     "summary": "Selon \"le Canard enchaîné\", l'ancien chargé de mission à l'Elysée s'est rendu à Londres avec un proche d'Alexandre Djouhri.",
     "thumbnail": "thumbnails/9gxg7c.webp",
     "tags": [
-      "Londres",
-      "Alexandre Benalla",
-      "Canard",
-      "Alexandre Djouhri",
-      "Elysée"
+      "Alexandre Benalla"
     ],
     "analyzed_at": "2026-11-01T09:44:03.870901+00:00"
-  },
-  {
-    "id": "9gu8xo",
-    "title": "Il traverse la rue et se fait percuter par un emploi",
-    "url": "http://www.legorafi.fr/2018/09/18/il-traverse-la-rue-et-se-fait-percuter-par-un-emploi/",
-    "permalink": "/r/france/comments/9gu8xo/il_traverse_la_rue_et_se_fait_percuter_par_un/",
-    "created_at": "2018-09-18T12:10:21+00:00",
-    "score": 966,
-    "num_comments": 52,
-    "subreddit": "france",
-    "author": "g0sc",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/NNwam9DFl3oyEiGxa7Qx9SJOmeYMEYj9UgRfbSfAwK0.jpg?auto=webp&s=6ee7e870d68b8a1cc51264006e374788081483fd",
-    "ingested_at": "2026-10-31T15:13:29.996286+00:00",
-    "summary": "Lucas n’a pas pris au sérieux les paroles du président Emmanuel Macron et a failli le payer de sa vie.",
-    "thumbnail": "thumbnails/9gu8xo.webp",
-    "tags": [
-      "Emmanuel Macron",
-      "Elysée",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:44:03.841014+00:00"
-  },
-  {
-    "id": "9gkynt",
-    "title": "Etats-Unis : Plusieurs morts suite à la hausse du prix de l'Insuline. Le prix a augmenté de +100% depuis 2012.",
-    "url": "https://abcnews.go.com/Health/insulins-high-cost-leads-deadly-rationing/story?id=57670652",
-    "permalink": "/r/france/comments/9gkynt/etatsunis_plusieurs_morts_suite_à_la_hausse_du/",
-    "created_at": "2018-09-17T14:50:35+00:00",
-    "score": 254,
-    "num_comments": 71,
-    "subreddit": "france",
-    "author": "Thanos_a_raison",
-    "flair": "Actus",
-    "domain": "abcnews.go.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/AvOIBhN20B97yxQrmuvkESSVbtnyifVfpHCEF82qYvA.jpeg?auto=webp&s=33ba9264a44a9b2906493128d2dd68fbb417cfc3",
-    "ingested_at": "2026-10-31T15:13:29.996933+00:00",
-    "summary": "Diabetic ketoacidosis is a terrible way to die. It’s what happens when you don’t have enough insulin.",
-    "thumbnail": "thumbnails/9gkynt.webp",
-    "tags": [
-      "Insuline",
-      "Alec",
-      "Eli Lilly",
-      "Children",
-      "Awards"
-    ],
-    "analyzed_at": "2026-11-01T09:44:04.966718+00:00"
   },
   {
     "id": "9gkmsf",
@@ -846,9 +554,7 @@
     "ingested_at": "2026-10-31T15:13:29.996505+00:00",
     "summary": "",
     "thumbnail": "thumbnails/9gkmsf.webp",
-    "tags": [
-      "Sport"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:44:05.278086+00:00"
   },
   {
@@ -869,36 +575,9 @@
     "summary": "Il avait pourtant affirmé que son épouse Penelope avait produit des travaux écrits dans sa fonction auprès de lui.",
     "thumbnail": "thumbnails/9gj7g5.webp",
     "tags": [
-      "François Fillon",
-      "Justice",
-      "Enquête",
-      "Penelope Fillon",
-      "Politique"
+      "François Fillon"
     ],
     "analyzed_at": "2026-11-01T09:44:04.217720+00:00"
-  },
-  {
-    "id": "9gir9h",
-    "title": "«J'ai 3 boulots différents et je donne mon plasma sanguin pour payer les factures.» Voici à quoi ressemble le métier d'enseignant aux USA.",
-    "url": "http://time.com/magazine/us/5394910/september-24th-2018-vol-192-no-12-u-s/",
-    "permalink": "/r/france/comments/9gir9h/jai_3_boulots_différents_et_je_donne_mon_plasma/",
-    "created_at": "2018-09-17T09:12:40+00:00",
-    "score": 233,
-    "num_comments": 119,
-    "subreddit": "france",
-    "author": "[deleted]",
-    "flair": "Société",
-    "domain": "time.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/W5e_ylo_NUSqVwNGo-3KjB-B5JozwmvE5MdOoMeLchE.jpeg?auto=webp&s=b6841d53684af49def900dcddcdd004bd4b99cd6",
-    "ingested_at": "2026-10-31T15:13:29.997026+00:00",
-    "summary": "Breaking news and analysis from time.com. Politics, world news, photos, video, tech reviews, health, science, and entertainment news.",
-    "thumbnail": "thumbnails/9gir9h.webp",
-    "tags": [
-      "USA",
-      "Société"
-    ],
-    "analyzed_at": "2026-11-01T09:44:05.014289+00:00"
   },
   {
     "id": "9gbxh7",
@@ -917,10 +596,7 @@
     "ingested_at": "2026-10-31T15:13:29.996617+00:00",
     "summary": "",
     "thumbnail": "thumbnails/9gbxh7.webp",
-    "tags": [
-      "Kevin Mayer",
-      "Sport"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:44:05.514809+00:00"
   },
   {
@@ -940,9 +616,7 @@
     "ingested_at": "2026-10-31T15:13:29.997650+00:00",
     "summary": "Deux braqueurs ont semé la pagaille samedi soir au marché aux puces de Marseille, situé dans le 15e arrondissement. Quatre personnes ont été",
     "thumbnail": "thumbnails/9g9al0.webp",
-    "tags": [
-      "Marseille"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:44:04.561119+00:00"
   },
   {
@@ -963,9 +637,8 @@
     "summary": "Le chef de l’Etat a fait la leçon à un jeune homme sans emploi rencontré en marge des Journées du patrimoine.",
     "thumbnail": "thumbnails/9g5a1p.webp",
     "tags": [
-      "Journées",
-      "Etat",
-      "Emmanuel Macron"
+      "Emmanuel Macron",
+      "Travail"
     ],
     "analyzed_at": "2026-11-01T09:44:05.069133+00:00"
   },
@@ -987,37 +660,9 @@
     "summary": "Selon \"Quotidien\", c'est en tout cas ce qu'il a déclaré à la police durant sa garde à vue.",
     "thumbnail": "thumbnails/9g0tqc.webp",
     "tags": [
-      "Élysée",
-      "Alexandre Benalla",
-      "Politique",
-      "Affaire benalla",
-      "Palais de l'Elysée"
+      "Alexandre Benalla"
     ],
     "analyzed_at": "2026-11-01T09:44:05.471004+00:00"
-  },
-  {
-    "id": "9fzwzn",
-    "title": "Le Vieux Moulin à Vernon, Eure, France",
-    "url": "https://c1.staticflickr.com/5/4198/34684478381_243d7240fe_o.jpg",
-    "permalink": "/r/france/comments/9fzwzn/le_vieux_moulin_à_vernon_eure_france/",
-    "created_at": "2018-09-15T08:18:32+00:00",
-    "score": 929,
-    "num_comments": 40,
-    "subreddit": "france",
-    "author": "loulan",
-    "flair": "Culture",
-    "domain": "c1.staticflickr.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/drvZEJ4Gsp7x_kL67NTXspaMNwF9y-CqoXt4XLL-PXY.jpg?auto=webp&s=67b70f781d62619fba0431d35dfbd9231de8cb2f",
-    "ingested_at": "2026-10-31T15:13:29.996309+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/9fzwzn.webp",
-    "tags": [
-      "Vieux Moulin",
-      "Vernon",
-      "Culture"
-    ],
-    "analyzed_at": "2026-11-01T09:44:10.331613+00:00"
   },
   {
     "id": "9frv4p",
@@ -1037,64 +682,11 @@
     "summary": "Le ton monte encore entre la majorité et le Sénat. Christophe Castaner, délégué général de La République En Marche, accuse la commission d’enquête du Sénat sur l’affaire Benalla de chercher à outrepasser son rôle « pour faire tomber » le Président.",
     "thumbnail": "thumbnails/9frv4p.webp",
     "tags": [
-      "République",
-      "Affaire Benalla",
-      "Sénat",
       "Christophe Castaner",
-      "Politique"
+      "Alexandre Benalla",
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T09:44:06.582087+00:00"
-  },
-  {
-    "id": "9fpjh9",
-    "title": "Axel Voss \"n'était pas au courant\" concernant l'interdiction de filmer les évènements sportifs, prévue par la directive sur les droits d'auteurs dont il est à l'origine.",
-    "url": "https://qz.com/1389385/article-11-and-article-13-axel-voss-is-surprised-by-eu-copyright-law/",
-    "permalink": "/r/france/comments/9fpjh9/axel_voss_nétait_pas_au_courant_concernant/",
-    "created_at": "2018-09-14T05:57:41+00:00",
-    "score": 499,
-    "num_comments": 90,
-    "subreddit": "france",
-    "author": "[deleted]",
-    "flair": "",
-    "domain": "qz.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/NBSFunC5nndgIKbGR1rx4rA-8YBrCU9sRTFDKpKDrqQ.jpg?auto=webp&s=212b161369e13a079c9e202a10b768780253881b",
-    "ingested_at": "2026-10-31T15:13:29.996528+00:00",
-    "summary": "The European Union Parliament on Sept. 12 voted to approve new copyright laws that will transform how people in Europe and beyond use and profit from the internet. But even the man behind the legislation, Axel Voss, was apparently unaware of what exactly he voted for.",
-    "thumbnail": "thumbnails/9fpjh9.webp",
-    "tags": [
-      "Axel Voss",
-      "European Union Parliament",
-      "Sept",
-      "Europe"
-    ],
-    "analyzed_at": "2026-11-01T09:44:06.534843+00:00"
-  },
-  {
-    "id": "9fhrjn",
-    "title": "Le plan pauvreté sera entièrement financé par la suppression des APL et du RSA",
-    "url": "http://www.legorafi.fr/2018/09/13/le-plan-pauvrete-sera-entierement-finance-par-la-suppression-des-apl-et-du-rsa/",
-    "permalink": "/r/france/comments/9fhrjn/le_plan_pauvreté_sera_entièrement_financé_par_la/",
-    "created_at": "2018-09-13T13:00:46+00:00",
-    "score": 178,
-    "num_comments": 45,
-    "subreddit": "france",
-    "author": "PoufPoal",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/xz0CJJJ97YdHuLd2hjralGwOagllGjKTpBiQQ1UXgH0.jpeg?auto=webp&s=8e0d7b9e23edb10a2865d823ab4ab7728d35f6a5",
-    "ingested_at": "2026-10-31T15:13:29.997370+00:00",
-    "summary": "Emmanuel Macron a annoncé ce matin depuis le Musée de l'Homme à Paris que le plan pauvreté serait intégralement financé par la suppression des APL et du RSA.",
-    "thumbnail": "thumbnails/9fhrjn.webp",
-    "tags": [
-      "APL et du RSA",
-      "Emmanuel Macron",
-      "Musée de Homme",
-      "Paris",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:44:05.672321+00:00"
   },
   {
     "id": "9fhlzg",
@@ -1113,13 +705,7 @@
     "ingested_at": "2026-10-31T15:13:29.996594+00:00",
     "summary": "What’s so wrong with buttery croissants, stinky cheese, and just-picked tomatoes?",
     "thumbnail": "thumbnails/9fhlzg.webp",
-    "tags": [
-      "French",
-      "French food and drink",
-      "Italian food and drink",
-      "Life and style",
-      "Culture"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:44:05.841568+00:00"
   },
   {
@@ -1140,61 +726,9 @@
     "summary": "A survey of more than 1,000 people conducted this week found a 33 percent drop in the number who believe the United States remains a \"trusted ally\" of France under President Donald Trump since a similar…",
     "thumbnail": "thumbnails/9fgyjh.webp",
     "tags": [
-      "French",
-      "Paris",
-      "US",
-      "United States",
-      "USA"
+      "Donald Trump"
     ],
     "analyzed_at": "2026-11-01T09:44:06.079504+00:00"
-  },
-  {
-    "id": "9ff6gy",
-    "title": "Au service de r/france",
-    "url": "https://gfycat.com/fr/FrequentHandmadeKiskadee",
-    "permalink": "/r/france/comments/9ff6gy/au_service_de_rfrance/",
-    "created_at": "2018-09-13T05:05:18+00:00",
-    "score": 340,
-    "num_comments": 62,
-    "subreddit": "france",
-    "author": "lasoeurdupape",
-    "flair": "Méta",
-    "domain": "gfycat.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://b.thumbs.redditmedia.com/BEyMlM1MfzCIfRWnfT5eme5RmtksHKoRPrrNSNMDKbw.jpg",
-    "ingested_at": "2026-10-31T15:13:29.996752+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/9ff6gy.webp",
-    "tags": [
-      "Méta"
-    ],
-    "analyzed_at": "2026-11-01T09:44:06.882079+00:00"
-  },
-  {
-    "id": "9f93nk",
-    "title": "Mon film « Thunder Road » est sorti en France aujourd'hui, demande moi n'importe quoi! AMA",
-    "url": "http://www.allocine.fr/article/fichearticle_gen_carticle=18675341.html",
-    "permalink": "/r/france/comments/9f93nk/mon_film_thunder_road_est_sorti_en_france/",
-    "created_at": "2018-09-12T16:07:54+00:00",
-    "score": 390,
-    "num_comments": 115,
-    "subreddit": "france",
-    "author": "jimmycthatsme",
-    "flair": "AMA",
-    "domain": "allocine.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/iQoJieSg4dggjnHAOlNv66V_GP-uHIfpDGZ4BOtEcQs.jpg?auto=webp&s=e531bd383c54d639f47267a4b6e3c6171724f245",
-    "ingested_at": "2026-10-31T15:13:29.996639+00:00",
-    "summary": "Primé du Grand Prix au Festival du cinéma américain de Deauville, \"Thunder Road\" sort cette semaine dans les salles. AlloCiné a pu rencontrer son réalisateur Jim Cummings et discuter de ce film lauréa",
-    "thumbnail": "thumbnails/9f93nk.webp",
-    "tags": [
-      "Thunder Road",
-      "AMA",
-      "Jim Cummings",
-      "Grand Prix",
-      "Deauville"
-    ],
-    "analyzed_at": "2026-11-01T09:44:07.737173+00:00"
   },
   {
     "id": "9f6u2s",
@@ -1214,7 +748,8 @@
     "summary": "",
     "thumbnail": "thumbnails/9f6u2s.webp",
     "tags": [
-      "Parlement"
+      "Numérique",
+      "Union européenne"
     ],
     "analyzed_at": "2026-11-01T09:44:06.481932+00:00"
   },
@@ -1235,103 +770,8 @@
     "ingested_at": "2026-10-31T15:13:29.996709+00:00",
     "summary": "",
     "thumbnail": "thumbnails/9evsfm.webp",
-    "tags": [
-      "Humour"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:44:06.694507+00:00"
-  },
-  {
-    "id": "9eu18z",
-    "title": "Not In Our Name: Why European Creators Should Oppose the EU's Proposal To Limit Linking and Censor The Internet",
-    "url": "https://www.eff.org/deeplinks/2018/09/not-our-name-why-european-creators-should-oppose-eus-proposal-limit-linking-and",
-    "permalink": "/r/france/comments/9eu18z/not_in_our_name_why_european_creators_should/",
-    "created_at": "2018-09-11T03:40:20+00:00",
-    "score": 119,
-    "num_comments": 11,
-    "subreddit": "france",
-    "author": "hoj14325",
-    "flair": "",
-    "domain": "eff.org",
-    "selftext": "",
-    "reddit_thumbnail": "",
-    "ingested_at": "2026-10-31T15:13:29.997672+00:00",
-    "summary": "The European Copyright Directive vote is in three days and it will be a doozy: what was once a largely uncontroversial grab bag of fixes to copyright is now a political firestorm, thanks to the actions of Axel Voss, the German MEP who changed the Directive at the last minute, sneaking in two widely...",
-    "thumbnail": "thumbnails/9eu18z.webp",
-    "tags": [
-      "Our Name",
-      "Why European Creators Should Oppose",
-      "EU's Proposal",
-      "Limit Linking",
-      "Axel Voss"
-    ],
-    "analyzed_at": "2026-11-01T09:44:06.789402+00:00"
-  },
-  {
-    "id": "9elive",
-    "title": "La télé turque",
-    "url": "https://framapiaf.org/system/media_attachments/files/001/305/665/original/40a3cc1e66c8ab68.jpg",
-    "permalink": "/r/france/comments/9elive/la_télé_turque/",
-    "created_at": "2018-09-10T09:34:47+00:00",
-    "score": 1896,
-    "num_comments": 235,
-    "subreddit": "france",
-    "author": "Akirami",
-    "flair": "Société",
-    "domain": "framapiaf.org",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/RS6KlDORp19FIXA6w9iymX82ueFL1UjvEART6z605uk.jpg?auto=webp&s=ef7aa55528f1f9899bbc3b7edb1ab740e2a68715",
-    "ingested_at": "2026-10-31T15:13:29.996205+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/9elive.webp",
-    "tags": [
-      "Société"
-    ],
-    "analyzed_at": "2026-11-01T09:44:07.733274+00:00"
-  },
-  {
-    "id": "9ejuro",
-    "title": "Le Drac, Isère, France",
-    "url": "https://c2.staticflickr.com/2/1861/29637199797_fcc37b2429_o.jpg",
-    "permalink": "/r/france/comments/9ejuro/le_drac_isère_france/",
-    "created_at": "2018-09-10T05:00:38+00:00",
-    "score": 165,
-    "num_comments": 21,
-    "subreddit": "france",
-    "author": "loulan",
-    "flair": "",
-    "domain": "c2.staticflickr.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/jA3syVBFpgFtWHV8jOXC3mxXOl2QL-FJAx9ROw4rEVI.jpg?auto=webp&s=f3f4728f245cfdd8537c46d4188b55ba8ee1da13",
-    "ingested_at": "2026-10-31T15:13:29.997458+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/9ejuro.webp",
-    "tags": [
-      "Drac"
-    ],
-    "analyzed_at": "2026-11-01T09:44:12.520077+00:00"
-  },
-  {
-    "id": "9ef7bt",
-    "title": "Le code source du Guardian contient une recette de crêpes bretonnes",
-    "url": "https://github.com/guardian/frontend/blob/master/docs/99-archives/crepes.md",
-    "permalink": "/r/france/comments/9ef7bt/le_code_source_du_guardian_contient_une_recette/",
-    "created_at": "2018-09-09T18:25:33+00:00",
-    "score": 178,
-    "num_comments": 45,
-    "subreddit": "france",
-    "author": "[deleted]",
-    "flair": "Humour",
-    "domain": "github.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/VclmTC1WR6S0T812bdedegk25h9Zq_z1OgBt0YaEJgc.jpeg?auto=webp&s=a6cfe9f2d6219c7b171ecbc63de90824d2e84c8a",
-    "ingested_at": "2026-10-31T15:13:29.997348+00:00",
-    "summary": "The Guardian DotCom. Contribute to guardian/frontend development by creating an account on GitHub.",
-    "thumbnail": "thumbnails/9ef7bt.webp",
-    "tags": [
-      "Guardian DotCom",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:44:08.259726+00:00"
   },
   {
     "id": "9ebsgn",
@@ -1350,51 +790,8 @@
     "ingested_at": "2026-10-31T15:13:29.997606+00:00",
     "summary": "La population allemande, appelée aux urnes le 24 septembre, n’a jamais compté aussi peu de demandeurs d’emploi. Ni autant de précaires. Le démantèlement de la protection sociale au milieu des années 2000 a converti les chômeurs en travailleurs pauvres.",
     "thumbnail": "thumbnails/9ebsgn.webp",
-    "tags": [
-      "Olivier Cyran",
-      "Jobcenter"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:44:07.040763+00:00"
-  },
-  {
-    "id": "9e5qdv",
-    "title": "Thousands march in France to say 'no' to climate change",
-    "url": "https://www.sfchronicle.com/news/article/Thousands-march-in-France-to-say-no-to-climate-13214785.php#photo-16136371",
-    "permalink": "/r/france/comments/9e5qdv/thousands_march_in_france_to_say_no_to_climate/",
-    "created_at": "2018-09-08T17:09:03+00:00",
-    "score": 167,
-    "num_comments": 51,
-    "subreddit": "france",
-    "author": "majoun",
-    "flair": "Paywall",
-    "domain": "sfchronicle.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/2Ym2pTwjdQWEn7NbB1KbBb42SyIa3qCcBz3O9hDD_R8.jpg?auto=webp&s=e641d88f7224686e60ece2a806cc58ca8a407d68",
-    "ingested_at": "2026-10-31T15:13:29.997436+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/9e5qdv.webp",
-    "tags": [],
-    "analyzed_at": "2026-11-01T09:44:09.913041+00:00"
-  },
-  {
-    "id": "9e23gp",
-    "title": "Colmar, Haut-Rhin, France",
-    "url": "https://c2.staticflickr.com/2/1792/43785205742_9706b2296b_o.jpg",
-    "permalink": "/r/france/comments/9e23gp/colmar_hautrhin_france/",
-    "created_at": "2018-09-08T05:59:59+00:00",
-    "score": 578,
-    "num_comments": 32,
-    "subreddit": "france",
-    "author": "loulan",
-    "flair": "",
-    "domain": "c2.staticflickr.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/9oRLnR4R8bjdvDYLV7j_iAC3aRxCsz-L_7GUVOYZ1jg.jpg?auto=webp&s=ab1f72bb8387696eb5a0ec1cac3bf387fa30bd3a",
-    "ingested_at": "2026-10-31T15:13:29.996442+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/9e23gp.webp",
-    "tags": [],
-    "analyzed_at": "2026-11-01T09:44:12.565660+00:00"
   },
   {
     "id": "9ds8a8",
@@ -1414,7 +811,7 @@
     "summary": "",
     "thumbnail": "thumbnails/9ds8a8.webp",
     "tags": [
-      "Société"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T09:44:08.886615+00:00"
   },
@@ -1436,58 +833,9 @@
     "summary": "La ministre de l'Enseignement supérieur, Frédérique Vidal, a annoncé ce jeudi 6 septembre qu'il ne restait qu'\"un peu plus de 3.000 bacheliers sans affectation\" sur la plateforme Parcoursup. Un chiffre qui passe une nouvelle fois sous silence une grande partie de la réalité. Détricotage.",
     "thumbnail": "thumbnails/9dqzoc.webp",
     "tags": [
-      "Parcoursup",
-      "Frédérique Vidal",
-      "Société"
+      "Éducation"
     ],
     "analyzed_at": "2026-11-01T09:44:08.763912+00:00"
-  },
-  {
-    "id": "9dmbte",
-    "title": "Graphique: Les pays où les enseignants sont les mieux payés.",
-    "url": "https://infographic.statista.com/normal/chartoftheday_4102_les_pays_ou_les_enseignants_sont_les_mieux_payes_n.jpg",
-    "permalink": "/r/france/comments/9dmbte/graphique_les_pays_où_les_enseignants_sont_les/",
-    "created_at": "2018-09-06T19:50:00+00:00",
-    "score": 261,
-    "num_comments": 220,
-    "subreddit": "france",
-    "author": "LaBeteDesVosges",
-    "flair": "Société",
-    "domain": "infographic.statista.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/Ei0T_tvgSEAEt6p1cqYT4mD46kYHzhBjT3K5xp4Xdik.jpg?auto=webp&s=79e194b01d2eee7c862a908cce37d1d0ce0e266f",
-    "ingested_at": "2026-10-31T15:13:29.996911+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/9dmbte.webp",
-    "tags": [
-      "Société"
-    ],
-    "analyzed_at": "2026-11-01T09:44:10.195341+00:00"
-  },
-  {
-    "id": "9dko9i",
-    "title": "The future is here today: you can't play Bach on Youtube because Sony says they own his compositions",
-    "url": "https://boingboing.net/2018/09/05/mozart-bach-sorta-mach.html",
-    "permalink": "/r/france/comments/9dko9i/the_future_is_here_today_you_cant_play_bach_on/",
-    "created_at": "2018-09-06T17:07:23+00:00",
-    "score": 246,
-    "num_comments": 37,
-    "subreddit": "france",
-    "author": "skalp69",
-    "flair": "Politique",
-    "domain": "boingboing.net",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/92zbReXvhU-dQFXold-qUPFhp7c1bblIqjStJwDa6Bs.jpg?auto=webp&s=6346feb3c68691266aab7b2f1488132b3637eea2",
-    "ingested_at": "2026-10-31T15:13:29.996983+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/9dko9i.webp",
-    "tags": [
-      "Bach",
-      "Youtube",
-      "Sony",
-      "Politique"
-    ],
-    "analyzed_at": "2026-11-01T09:44:10.646656+00:00"
   },
   {
     "id": "9dg4f3",
@@ -1506,35 +854,8 @@
     "ingested_at": "2026-10-31T15:13:29.997253+00:00",
     "summary": "",
     "thumbnail": "thumbnails/9dg4f3.webp",
-    "tags": [
-      "Cour"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:44:10.026621+00:00"
-  },
-  {
-    "id": "9d71bm",
-    "title": "François de Rugy promet de doubler le nombre de magasins Nature et Découverte",
-    "url": "http://www.legorafi.fr/2018/09/05/francois-de-rugy-promet-de-doubler-le-nombre-de-magasins-nature-et-decouverte/",
-    "permalink": "/r/france/comments/9d71bm/françois_de_rugy_promet_de_doubler_le_nombre_de/",
-    "created_at": "2018-09-05T14:25:34+00:00",
-    "score": 551,
-    "num_comments": 14,
-    "subreddit": "france",
-    "author": "[deleted]",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/ATP2Obi379x0nU2KLmoyikXe1m6KqIRqn1D5y7yPnLA.jpeg?auto=webp&s=ffb84e70da4205a946a74ffc8d985949fd092e5f",
-    "ingested_at": "2026-10-31T15:13:29.996463+00:00",
-    "summary": "À peine nommé, le nouveau ministre de la Transition écologique a publié les détails de sa feuille de route 2018. Un plan qui prévoit entre autres l'ouverture de 80 nouveaux magasins",
-    "thumbnail": "thumbnails/9d71bm.webp",
-    "tags": [
-      "Rugy",
-      "Nature et Découverte",
-      "Transition",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:44:09.008347+00:00"
   },
   {
     "id": "9d667f",
@@ -1553,9 +874,7 @@
     "ingested_at": "2026-10-31T15:13:29.997114+00:00",
     "summary": "",
     "thumbnail": "thumbnails/9d667f.webp",
-    "tags": [
-      "Europe"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:44:09.486258+00:00"
   },
   {
@@ -1576,33 +895,9 @@
     "summary": "",
     "thumbnail": "thumbnails/9cxpbd.webp",
     "tags": [
-      "Laurent Wauquiez",
-      "SMS"
+      "Laurent Wauquiez"
     ],
     "analyzed_at": "2026-11-01T09:44:10.201630+00:00"
-  },
-  {
-    "id": "9csqz0",
-    "title": "Le Grand Som, Isère, France",
-    "url": "https://c2.staticflickr.com/2/1888/43713508334_b6fcb53220_o.jpg",
-    "permalink": "/r/france/comments/9csqz0/le_grand_som_isère_france/",
-    "created_at": "2018-09-04T05:27:51+00:00",
-    "score": 357,
-    "num_comments": 14,
-    "subreddit": "france",
-    "author": "loulan",
-    "flair": "Culture",
-    "domain": "c2.staticflickr.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/tCbOuaIKu-KHNl96Ki1q-Vt8hzqbbqhIgrjS9Q3iLOA.jpg?auto=webp&s=42af92b253d3ebed60641400b40cf2b2b0e43b5c",
-    "ingested_at": "2026-10-31T15:13:29.996730+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/9csqz0.webp",
-    "tags": [
-      "Grand Som",
-      "Culture"
-    ],
-    "analyzed_at": "2026-11-01T09:44:15.067772+00:00"
   },
   {
     "id": "9co18f",
@@ -1622,11 +917,7 @@
     "summary": "Depuis son appartement idéalement situé à l’Esplanade, un écrivain public raconte comment des textes sont écrits à la place des étudiants.",
     "thumbnail": "thumbnails/9co18f.webp",
     "tags": [
-      "Université",
-      "Université de Strasbourg",
-      "Thomas",
-      "Esplanade",
-      "Société"
+      "Éducation"
     ],
     "analyzed_at": "2026-11-01T09:44:11.309867+00:00"
   },
@@ -1647,10 +938,7 @@
     "ingested_at": "2026-10-31T15:13:29.997757+00:00",
     "summary": "",
     "thumbnail": "thumbnails/9ci1kf.webp",
-    "tags": [
-      "Musée National de Rio de Janeiro",
-      "Culture"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:44:10.567202+00:00"
   },
   {
@@ -1670,9 +958,7 @@
     "ingested_at": "2026-10-31T15:13:29.996687+00:00",
     "summary": "",
     "thumbnail": "thumbnails/9ce3va.webp",
-    "tags": [
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:44:10.577431+00:00"
   },
   {
@@ -1692,13 +978,7 @@
     "ingested_at": "2026-10-31T15:13:29.997048+00:00",
     "summary": "124 médecins ont signé une tribune dénonçant des pratiques \"dangereuses\", \"fantaisistes\" et sans aucun fondement scientifique.",
     "thumbnail": "thumbnails/9c73uf.webp",
-    "tags": [
-      "Lille",
-      "SANTÉ",
-      "Ordre",
-      "Life",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:44:10.872492+00:00"
   },
   {
@@ -1719,30 +999,8 @@
     "summary": "",
     "thumbnail": "thumbnails/9c1kxc.webp",
     "tags": [
-      "Europe"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T09:44:10.995447+00:00"
-  },
-  {
-    "id": "9c0qoj",
-    "title": "Gourdon, Alpes-Maritimes, France",
-    "url": "https://c2.staticflickr.com/2/1899/44331757671_f8360cb9d9_o.jpg",
-    "permalink": "/r/france/comments/9c0qoj/gourdon_alpesmaritimes_france/",
-    "created_at": "2018-09-01T05:39:18+00:00",
-    "score": 158,
-    "num_comments": 16,
-    "subreddit": "france",
-    "author": "loulan",
-    "flair": "Culture",
-    "domain": "c2.staticflickr.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/_mgiHuMor_5-G8x1_DTjWMb5_lZCmfWpzKFnigjhSBQ.jpg?auto=webp&s=693740298721382768d7247e98f4988141e183be",
-    "ingested_at": "2026-10-31T15:13:29.997499+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/9c0qoj.webp",
-    "tags": [
-      "Culture"
-    ],
-    "analyzed_at": "2026-11-01T09:44:17.663419+00:00"
   }
 ]

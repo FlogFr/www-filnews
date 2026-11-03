@@ -11,6 +11,7 @@ from urllib.parse import urlparse
 
 from django.utils import timezone
 
+from .media import is_accepted, url_domain
 from .models import News
 from .store import NewsStore, UpsertResult
 
@@ -23,22 +24,6 @@ PERIODS = {
     "month": timedelta(days=31),
 }
 
-# Links that are not news articles (images, videos, Reddit itself).
-EXCLUDED_DOMAINS = {
-    "reddit.com",
-    "i.redd.it",
-    "v.redd.it",
-    "imgur.com",
-    "i.imgur.com",
-    # Tweets and videos: no article to summarize.
-    "twitter.com",
-    "mobile.twitter.com",
-    "x.com",
-    "youtube.com",
-    "m.youtube.com",
-    "youtu.be",
-}
-
 
 @dataclass
 class IngestionReport:
@@ -46,11 +31,6 @@ class IngestionReport:
     updated: int = 0
     skipped: int = 0
     duplicates: int = 0
-
-
-def _domain(url: str) -> str:
-    host = (urlparse(url).hostname or "").lower()
-    return host.removeprefix("www.")
 
 
 def _preview_image(post: dict[str, Any]) -> str:
@@ -73,7 +53,7 @@ def is_news_post(post: dict[str, Any], min_score: int) -> bool:
     try:
         if urlparse(url).scheme not in {"http", "https"}:
             return False
-        return _domain(url) not in EXCLUDED_DOMAINS
+        return is_accepted(url_domain(url))
     except ValueError:  # Malformed URL (e.g. "Invalid IPv6 URL").
         return False
 
@@ -91,7 +71,7 @@ def post_to_news(post: dict[str, Any]) -> News:
         subreddit=post.get("subreddit", ""),
         author=post.get("author", ""),
         flair=(post.get("link_flair_text") or "").strip(),
-        domain=_domain(url),
+        domain=url_domain(url),
         selftext=post.get("selftext", ""),
         reddit_thumbnail=_preview_image(post),
     )

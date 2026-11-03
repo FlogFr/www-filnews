@@ -17,11 +17,8 @@
     "summary": "Le leader de la France insoumise a expliqué que, dans l’islam, le voile était un signe de soumission à Dieu et non aux hommes contrairement, selon lui, au christianisme.",
     "thumbnail": "thumbnails/1logibb.webp",
     "tags": [
-      "Dieu",
       "Jean-Luc Mélenchon",
-      "Islam",
-      "Coran",
-      "Société"
+      "Laïcité"
     ],
     "analyzed_at": "2026-11-01T11:11:30.466687+00:00"
   },
@@ -44,10 +41,7 @@
     "thumbnail": "thumbnails/1lodtri.webp",
     "tags": [
       "Rachida Dati",
-      "Assemblée",
-      "France Télévisions",
-      "Sénat",
-      "Politique"
+      "Médias"
     ],
     "analyzed_at": "2026-11-01T11:11:37.202131+00:00"
   },
@@ -68,11 +62,7 @@
     "ingested_at": "2026-11-01T11:09:27.386801+00:00",
     "summary": "",
     "thumbnail": "thumbnails/1lno47y.webp",
-    "tags": [
-      "Isabelle Prévost-Desprez",
-      "République",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:11:30.500508+00:00"
   },
   {
@@ -93,11 +83,11 @@
     "summary": "Le Premier ministre israélien est accusé dans trois affaires différentes, et son procès a été reporté à plusieurs reprises depuis son ouverture en mai 2020. Son homologue américain appelle à l'annuler, affirmant qu'un \"accord\" est proche avec le Hamas.",
     "thumbnail": "thumbnails/1lnb029.webp",
     "tags": [
-      "Benjamin Netanyahu",
       "Donald Trump",
-      "Premier",
-      "Hamas",
-      "Politique"
+      "Benyamin Netanyahou",
+      "Justice",
+      "Corruption",
+      "Conflit israélo-palestinien"
     ],
     "analyzed_at": "2026-11-01T11:11:30.660329+00:00"
   },
@@ -119,11 +109,8 @@
     "summary": "ÉTUDIER À L'ÈRE DE L'INTELLIGENCE ARTIFICIELLE (2/3) - Oraux, devoirs à la maison, contrôles sur table... En seulement deux ans, l’intelligence artificielle (IA) a bouleversé le quotidien des professeurs et des élèves français. Alors que l'année scolaire se termine, des enseignants du secondaire...",
     "thumbnail": "thumbnails/1lna4gc.webp",
     "tags": [
-      "IA",
-      "ÉTUDIER",
-      "ÈRE de INTELLIGENCE ARTIFICIELLE",
-      "ChatGPT",
-      "Société"
+      "Intelligence artificielle",
+      "Éducation"
     ],
     "analyzed_at": "2026-11-01T11:11:30.897681+00:00"
   },
@@ -144,10 +131,7 @@
     "ingested_at": "2026-11-01T11:09:27.390562+00:00",
     "summary": "",
     "thumbnail": "thumbnails/1ln6gy8.webp",
-    "tags": [
-      "France Télévisions",
-      "Culture"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:11:31.607498+00:00"
   },
   {
@@ -167,12 +151,7 @@
     "ingested_at": "2026-11-01T11:09:27.387799+00:00",
     "summary": "Devenu une star des boissons \"bien-être\" sur les réseaux sociaux, le thé matcha a connu une envolée de presque 200% de son prix au Japon, alimentée par la forte demande mondiale.",
     "thumbnail": "thumbnails/1lmsehj.webp",
-    "tags": [
-      "Japon",
-      "Tokyo",
-      "Masahiro Okutomi",
-      "Monde"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:11:30.899207+00:00"
   },
   {
@@ -193,11 +172,7 @@
     "summary": "Près de 200 000 personnes se sont réunies pour la marche des fiertés dans la capitale hongroise, bravant l’interdit du Premier ministre illibéral.",
     "thumbnail": "thumbnails/1lmrfid.webp",
     "tags": [
-      "Pride",
-      "Budapest",
-      "Orban",
-      "Hongrie",
-      "Monde"
+      "Viktor Orbán"
     ],
     "analyzed_at": "2026-11-01T11:11:40.210331+00:00"
   },
@@ -219,11 +194,8 @@
     "summary": "Info « Les Jours ». Dans sa troisième déclaration d’intérêts, l’élu admet être l’actionnaire principal d’une société d’impression. Il a dit le contraire au déontologue de l’Assemblée.",
     "thumbnail": "thumbnails/1lmra1g.webp",
     "tags": [
-      "Assemblée",
-      "RN Pascal Markowsky",
-      "État",
-      "Pascal Markowsky",
-      "Politique"
+      "Institutions",
+      "Élections"
     ],
     "analyzed_at": "2026-11-01T11:11:31.201898+00:00"
   },
@@ -245,6 +217,7 @@
     "summary": "",
     "thumbnail": "thumbnails/1lmin13.webp",
     "tags": [
+      "Éducation",
       "Santé"
     ],
     "analyzed_at": "2026-11-01T11:11:31.603872+00:00"
@@ -267,7 +240,7 @@
     "summary": "",
     "thumbnail": "thumbnails/1lmg3nx.webp",
     "tags": [
-      "Économie"
+      "Donald Trump"
     ],
     "analyzed_at": "2026-11-01T11:11:32.003971+00:00"
   },
@@ -290,10 +263,8 @@
     "thumbnail": "thumbnails/1lm8euq.webp",
     "tags": [
       "François Ruffin",
-      "Clémentine Autain",
-      "La France Insoumise",
-      "LFI",
-      "Politique"
+      "Élection présidentielle",
+      "Clémentine Autain"
     ],
     "analyzed_at": "2026-11-01T11:11:32.580811+00:00"
   },
@@ -315,11 +286,7 @@
     "summary": "Dans un article publié par le quotidien «Haaretz», des militaires israéliens racontent avoir reçu l’ordre de tirer sur les foules de Gazaouis rassemblés pour recevoir de l’aide alimentaire, alors même qu’ils ne représentaient aucun danger.",
     "thumbnail": "thumbnails/1lm553v.webp",
     "tags": [
-      "Gaza",
-      "Gazaouis",
-      "Israël",
-      "Haaretz",
-      "Monde"
+      "Conflit israélo-palestinien"
     ],
     "analyzed_at": "2026-11-01T11:11:41.328047+00:00"
   },
@@ -342,10 +309,9 @@
     "thumbnail": "thumbnails/1lluf2g.webp",
     "tags": [
       "Rima Hassan",
-      "Palestine",
+      "Conflit israélo-palestinien",
       "Jean-Luc Mélenchon",
-      "Israël",
-      "Politique"
+      "Travail"
     ],
     "analyzed_at": "2026-11-01T11:11:32.354869+00:00"
   },
@@ -366,13 +332,7 @@
     "ingested_at": "2026-11-01T11:09:27.387963+00:00",
     "summary": "Un rapport du Forum parlementaire européen sur les droits sexuels et reproductifs (EPF) alerte sur une explosion des financements anti-genre, en Europe comme dans le monde.",
     "thumbnail": "thumbnails/1llo77j.webp",
-    "tags": [
-      "Hongrie",
-      "EPF",
-      "Forum",
-      "Europe",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:11:44.859755+00:00"
   },
   {
@@ -392,10 +352,7 @@
     "ingested_at": "2026-11-01T11:09:27.386055+00:00",
     "summary": "À chaque évènement météorologique, les scientifiques essuient des vagues de haine en ligne. Des utilisateurs aux idées climatosceptiques – qui remettent en question l’influence de l’homme sur le climat – envoient des...",
     "thumbnail": "thumbnails/1llo25w.webp",
-    "tags": [
-      "Serge Zaka",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:11:33.122004+00:00"
   },
   {
@@ -415,10 +372,7 @@
     "ingested_at": "2026-11-01T11:09:27.390171+00:00",
     "summary": "Les syndicats contestent une décision unilatérale de la direction qui veut réduire à un jour, voire supprimer, le quota de travail à distanc",
     "thumbnail": "thumbnails/1llafnd.webp",
-    "tags": [
-      "Société Générale",
-      "Économie"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:11:33.605622+00:00"
   },
   {
@@ -439,7 +393,6 @@
     "summary": "L'activité se replie de 0,5% en rythme annualisé contre 0,2% attendu lors d'une précédente estimation.",
     "thumbnail": "thumbnails/1ll7u0j.webp",
     "tags": [
-      "PIB",
       "Économie"
     ],
     "analyzed_at": "2026-11-01T11:11:33.831289+00:00"
@@ -462,11 +415,8 @@
     "summary": "Les députés UDR du groupe d'Eric Ciotti, allié du RN, avaient déposé une proposition de loi visant à interdire l'exécution immédiate des peines d'inégibilité. Le texte avait été annoncé dans la foulée de la condamnation de Marine Le Pen dans l'affaire des assistants d'eurodéputés FN.",
     "thumbnail": "thumbnails/1ll3qvg.webp",
     "tags": [
-      "Marine le Pen",
-      "RN",
-      "UDR",
-      "FN",
-      "Politique"
+      "Marine Le Pen",
+      "Éric Ciotti"
     ],
     "analyzed_at": "2026-11-01T11:11:34.375350+00:00"
   },
@@ -488,11 +438,7 @@
     "summary": "Le premier ministre et le président du groupe MoDem à l’Assemblée ont tous les deux menacé de ne pas soutenir la candidature aux municipales à Lille de la députée Violette Spillebout. La raison : cel…",
     "thumbnail": "thumbnails/1lkyc27.webp",
     "tags": [
-      "Bétharram",
-      "Bayrou",
-      "MoDem",
-      "Assemblée",
-      "Politique"
+      "François Bayrou"
     ],
     "analyzed_at": "2026-11-01T11:11:35.058871+00:00"
   },
@@ -514,11 +460,7 @@
     "summary": "La Cour européenne des droits de l’homme a donné raison à Karim Touil jeudi et condamné la France pour un contrôle d'identité discriminatoire estimant qu’il n’avait pas été apporté de \"justification…",
     "thumbnail": "thumbnails/1lky2qo.webp",
     "tags": [
-      "Karim Touil",
-      "Contrôle d'identité",
-      "Immigration",
-      "CEDH",
-      "Politique"
+      "Justice"
     ],
     "analyzed_at": "2026-11-01T11:11:34.683542+00:00"
   },
@@ -540,11 +482,9 @@
     "summary": "Plus de 300 personnes signent une tribune dans \"Le Monde\" pour dénoncer la présence d'un groupuscule d'extrême droite nommé Eros dans la mobilisation prévue samedi 28 juin.",
     "thumbnail": "thumbnails/1lkxjuj.webp",
     "tags": [
-      "LGBT",
-      "Paris",
-      "Eros",
-      "Laurent Nuñez",
-      "Société"
+      "LGBT+",
+      "Police",
+      "Laurent Nuñez"
     ],
     "analyzed_at": "2026-11-01T11:11:35.148034+00:00"
   },
@@ -566,11 +506,8 @@
     "summary": "Des recours avaient été déposés par des militants propalestiniens niçois, tandis que le préfet avait lui aussi demandé au maire de Nice de retirer les drapeaux israéliens.",
     "thumbnail": "thumbnails/1lkxh0b.webp",
     "tags": [
-      "Christian Estrosi",
       "Conflit israélo-palestinien",
-      "Nice",
-      "Hamas",
-      "Politique"
+      "Justice"
     ],
     "analyzed_at": "2026-11-01T11:11:36.100499+00:00"
   },
@@ -592,10 +529,8 @@
     "summary": "La primaire démocrate a désigné Zohran Mamdani comme candidat du parti lors de l’élection du 4 novembre. Encore inconnu il y a six mois, il",
     "thumbnail": "thumbnails/1lkvi0m.webp",
     "tags": [
-      "Zohran Mamdani",
-      "New York",
-      "Donald Trump",
-      "Politique"
+      "Extrême gauche",
+      "Donald Trump"
     ],
     "analyzed_at": "2026-11-01T11:11:35.504670+00:00"
   },
@@ -617,10 +552,7 @@
     "summary": "",
     "thumbnail": "thumbnails/1lkv7jr.webp",
     "tags": [
-      "Rachida Dati",
-      "Parquet",
-      "Ghosn",
-      "Société"
+      "Rachida Dati"
     ],
     "analyzed_at": "2026-11-01T11:11:35.621006+00:00"
   },
@@ -642,9 +574,7 @@
     "summary": "Le nouveau Fairphone vient d’être révélé. Disponible dès maintenant en version unique vendue 599 euros, le nouveau smartphone se modernise allègrement.…",
     "thumbnail": "thumbnails/1lkute2.webp",
     "tags": [
-      "Fairphone 6",
-      "Fairphone",
-      "Écologie"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T11:11:36.076577+00:00"
   },
@@ -666,8 +596,7 @@
     "summary": "Le gouvernement compte réduire les dépenses publiques de 40 milliards d'euros cette année.",
     "thumbnail": "thumbnails/1lktm2h.webp",
     "tags": [
-      "PIB",
-      "Économie"
+      "Budget et fiscalité"
     ],
     "analyzed_at": "2026-11-01T11:11:36.099536+00:00"
   },
@@ -688,13 +617,7 @@
     "ingested_at": "2026-11-01T11:09:27.390614+00:00",
     "summary": "Les équipes de l’émission de France 2 ont dénoncé les « fake news » et le manque de déontologie du média d’extrême droite dans une série de messages sur X.",
     "thumbnail": "thumbnails/1lkfhpg.webp",
-    "tags": [
-      "Cash Investigation",
-      "Élise Lucet",
-      "Frontières",
-      "France 2",
-      "Marc Blata"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:11:36.344638+00:00"
   },
   {
@@ -715,6 +638,7 @@
     "summary": "",
     "thumbnail": "thumbnails/1lk6hj1.webp",
     "tags": [
+      "Environnement",
       "Santé"
     ],
     "analyzed_at": "2026-11-01T11:11:36.623001+00:00"
@@ -737,10 +661,7 @@
     "summary": "Invité de la matinale de RTL, l'ancien Premier ministre et candidat à la prochaine élection présidentielle a estimé que la semaine de 35 heures était \"une très mauvaise idée\".",
     "thumbnail": "thumbnails/1lk4i6g.webp",
     "tags": [
-      "Edouard Philippe",
-      "RTL",
-      "Premier",
-      "Politique"
+      "Édouard Philippe"
     ],
     "analyzed_at": "2026-11-01T11:11:36.319495+00:00"
   },
@@ -761,13 +682,7 @@
     "ingested_at": "2026-11-01T11:09:27.386666+00:00",
     "summary": "Même si onze candidats étaient en lice, la vraie compétition opposait le candidat adoubé, entre autres, par Bernie Sanders, à Andrew Cuomo, ancien gouverneur de New York et pur produit de l’establishment démocrate.",
     "thumbnail": "thumbnails/1lk3l0j.webp",
-    "tags": [
-      "New York",
-      "Zohran Mamdani",
-      "Andrew Cuomo",
-      "Etats-Unis",
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:11:49.109209+00:00"
   },
   {
@@ -787,13 +702,7 @@
     "ingested_at": "2026-11-01T11:09:27.390327+00:00",
     "summary": "Contre lâavis de lâensemble des structures inscrites Ã la Marche des fiertÃ©s de Paris, le groupuscule homonationaliste, connu pour ses obsessions transphobes et xÃ©nophobes, veut organiser une Â«Â contre manifÂ Â» ce samedi 28 juin.",
     "thumbnail": "thumbnails/1lk0ljs.webp",
-    "tags": [
-      "Pride",
-      "Paris",
-      "Eros",
-      "Ã la Marche",
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:11:36.599832+00:00"
   },
   {
@@ -814,11 +723,7 @@
     "summary": "Selon un rapport préliminaire confidentiel du renseignement américain, dont le contenu a été décrit par des sources proches du dossier à des médias, les bombardements par les États-Unis des installations…",
     "thumbnail": "thumbnails/1ljxoui.webp",
     "tags": [
-      "États-Unis",
-      "Iran",
-      "Donald Trump",
-      "Guerre Israël-Iran",
-      "Monde"
+      "Donald Trump"
     ],
     "analyzed_at": "2026-11-01T11:11:37.029872+00:00"
   },
@@ -840,11 +745,7 @@
     "summary": "Sur son réseau Truth Social, le président américain a posté une capture d'écran d'un SMS dithyrambique que lui a envoyé Mark Rutte, le secrétaire général de l'Otan. Un message qualifié d'authentique par un responsable de l'Alliance.",
     "thumbnail": "thumbnails/1ljnz8a.webp",
     "tags": [
-      "Otan",
-      "SMS",
-      "Mark Rutte",
-      "Donald Trump",
-      "Monde"
+      "Donald Trump"
     ],
     "analyzed_at": "2026-11-01T11:11:36.998681+00:00"
   },
@@ -866,11 +767,7 @@
     "summary": "Pris en étau entre la hausse des loyers et des salaires peu éleves, certains jeunes peinent à s'en sortir financièrement en Italie.",
     "thumbnail": "thumbnails/1ljhh9z.webp",
     "tags": [
-      "Italie",
-      "Roumanie",
-      "Milan",
-      "Rome",
-      "Monde"
+      "Travail"
     ],
     "analyzed_at": "2026-11-01T11:11:37.263378+00:00"
   },
@@ -891,13 +788,7 @@
     "ingested_at": "2026-11-01T11:09:27.390691+00:00",
     "summary": "L'opérateur italien indique dans un document avoir déjà versé 200 millions d'euros en quatre ans en péages et estime que leur niveau élevé freine la concurrence (et donc les rentrées d'argent pour le réseau).",
     "thumbnail": "thumbnails/1ljg18e.webp",
-    "tags": [
-      "SNCF",
-      "SNCF Voyageurs",
-      "TGV",
-      "SNCF Réseau",
-      "Économie"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:11:37.293779+00:00"
   },
   {
@@ -918,8 +809,9 @@
     "summary": "",
     "thumbnail": "thumbnails/1ljduqy.webp",
     "tags": [
-      "Bayrou",
-      "Politique"
+      "François Bayrou",
+      "Retraites",
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T11:11:37.430803+00:00"
   },
@@ -941,8 +833,7 @@
     "summary": "",
     "thumbnail": "thumbnails/1lj4s6z.webp",
     "tags": [
-      "Villepin",
-      "Politique"
+      "Dominique de Villepin"
     ],
     "analyzed_at": "2026-11-01T11:11:37.551934+00:00"
   },
@@ -964,8 +855,7 @@
     "summary": "Toulouse veut moderniser son système de « vidéo protection » via l’implémentation de « solutions d’analyse algorithmique », et plus particulièrement l’ «…",
     "thumbnail": "thumbnails/1lj3pwb.webp",
     "tags": [
-      "CNIL",
-      "Tech"
+      "Libertés publiques"
     ],
     "analyzed_at": "2026-11-01T11:11:37.744341+00:00"
   },
@@ -987,8 +877,7 @@
     "summary": "À rebours des appels à la souveraineté numérique, le marché du « listening social » de plusieurs services sensibles de l'État a été confié à une entreprise canadienne sous pavillon américain, en lieu et place d'une société française qui détenait jusqu'à présent ce marché.",
     "thumbnail": "thumbnails/1lit0px.webp",
     "tags": [
-      "État",
-      "Tech"
+      "Numérique"
     ],
     "analyzed_at": "2026-11-01T11:11:38.006833+00:00"
   },
@@ -1010,9 +899,7 @@
     "summary": "L’ancien Premier ministre lance son mouvement et publiera un livre dans les prochains jours, accélérant clairement en vue de la présidentielle de 2027.",
     "thumbnail": "thumbnails/1lijz6u.webp",
     "tags": [
-      "Villepin",
-      "Français",
-      "Politique"
+      "Dominique de Villepin"
     ],
     "analyzed_at": "2026-11-01T11:11:38.361045+00:00"
   },
@@ -1034,7 +921,7 @@
     "summary": "Devant se rendre à l'hôpital, Ludivine avait dû monter dans le train précédent car son train était en retard, et s’était vu infliger une amende de 50 euros",
     "thumbnail": "thumbnails/1lig2yp.webp",
     "tags": [
-      "SNCF"
+      "Transports"
     ],
     "analyzed_at": "2026-11-01T11:11:38.167669+00:00"
   },
@@ -1057,10 +944,7 @@
     "thumbnail": "thumbnails/1libjhh.webp",
     "tags": [
       "Édouard Philippe",
-      "Havre",
-      "En continu",
-      "Politique",
-      "Justice"
+      "Corruption"
     ],
     "analyzed_at": "2026-11-01T11:11:40.234674+00:00"
   },
@@ -1082,8 +966,7 @@
     "summary": "Le rectorat de Versailles a ouvert une enquête administrative après que des professeurs ont alerté sur le fonctionnement et la place de la r",
     "thumbnail": "thumbnails/1lib4rn.webp",
     "tags": [
-      "Versailles",
-      "Société"
+      "Éducation"
     ],
     "analyzed_at": "2026-11-01T11:11:38.367897+00:00"
   },
@@ -1105,11 +988,8 @@
     "summary": "Regroupés pour recevoir de la farine dans l’enclave soumise à un blocus humanitaire, des dizaines de Gazaouis ont été tués et au moins 200 blessés par des tirs de fusils d’assaut et de tanks israéliens à Khan Younès, mardi 17 juin.",
     "thumbnail": "thumbnails/1li16g9.webp",
     "tags": [
-      "Gaza",
-      "Palestiniens",
-      "Gazaouis",
-      "Khan Younès",
-      "Gaza-l-escalade"
+      "Conflit israélo-palestinien",
+      "Pauvreté"
     ],
     "analyzed_at": "2026-11-01T11:11:50.851559+00:00"
   },
@@ -1131,8 +1011,9 @@
     "summary": "Depuis deux ans et demi, des bibliothèques de Toulouse (Haute-Garonne) sont victimes d'actes racistes. Messages islamophobes ou antisémites, manuels de langue arabe aspergés d'urine...Plus de soixante-dix faits ont été recensés,...",
     "thumbnail": "thumbnails/1lhl5im.webp",
     "tags": [
-      "Toulouse",
-      "Société"
+      "Racisme",
+      "Antisémitisme",
+      "Élections"
     ],
     "analyzed_at": "2026-11-01T11:11:38.757148+00:00"
   },
@@ -1154,11 +1035,8 @@
     "summary": "After hitting Iran’s most heavily fortified nuclear installation, President Trump warned of more strikes “if peace does not come quickly.” Iranian ballistic missiles wounded at least 10 in Israel, officials said.",
     "thumbnail": "thumbnails/1lhb67q.webp",
     "tags": [
-      "Iran",
-      "Israel",
-      "Iran's",
-      "Enters War",
-      "Monde"
+      "Conflit israélo-palestinien",
+      "Donald Trump"
     ],
     "analyzed_at": "2026-11-01T11:11:40.642524+00:00"
   },
@@ -1179,11 +1057,7 @@
     "ingested_at": "2026-11-01T11:09:27.388817+00:00",
     "summary": "",
     "thumbnail": "thumbnails/1lh7zt9.webp",
-    "tags": [
-      "Etats-Unis",
-      "B-2",
-      "Monde"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:11:39.091817+00:00"
   },
   {
@@ -1203,11 +1077,7 @@
     "ingested_at": "2026-11-01T11:09:27.387104+00:00",
     "summary": "INFO LE PARISIEN. Ce samedi, le parc d’attractions devait accueillir un mariage. Mais à l’arrivée de la « future mariée », de nationalité uk",
     "thumbnail": "thumbnails/1lh2dzp.webp",
-    "tags": [
-      "Disneyland Paris",
-      "PARISIEN",
-      "Trompeur ?"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:11:39.501725+00:00"
   },
   {
@@ -1227,11 +1097,7 @@
     "ingested_at": "2026-11-01T11:09:27.390431+00:00",
     "summary": "Pendant presque un an, le groupe de Vincent Bolloré a demandé à ses abonnés qui avaient perdu temporairement leurs droits de patienter de dix à quarante minutes, parfois jusqu’à une heure, devant CNe…",
     "thumbnail": "thumbnails/1lh0aut.webp",
-    "tags": [
-      "Cnews",
-      "Vincent Bolloré",
-      "CNe"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:11:40.993958+00:00"
   },
   {
@@ -1251,10 +1117,7 @@
     "ingested_at": "2026-11-01T11:09:27.389865+00:00",
     "summary": "",
     "thumbnail": "thumbnails/1lgzdwn.webp",
-    "tags": [
-      "Française",
-      "Science"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:11:40.537330+00:00"
   },
   {
@@ -1275,11 +1138,7 @@
     "summary": "Pour la première fois, une étude scientifique a tenté de mesurer l'impact d'une utilisation répétée de ChatGPT sur le cerveau.",
     "thumbnail": "thumbnails/1lgwshw.webp",
     "tags": [
-      "IA",
-      "LLM",
-      "MIT",
-      "Grand Continent",
-      "Tech"
+      "Intelligence artificielle"
     ],
     "analyzed_at": "2026-11-01T11:11:40.822996+00:00"
   },
@@ -1301,11 +1160,7 @@
     "summary": "Interrogé par Fox News sur une potentielle nomination en cas d’accord entre l’Iran et Israël, le président américain a estimé qu’il aurait dû avoir le prix Nobel «honnêtement, quatre ou cinq fois» pour sa politique étrangère.",
     "thumbnail": "thumbnails/1lgurh9.webp",
     "tags": [
-      "Donald Trump",
-      "Nobel",
-      "Nucléaire iranien",
-      "Prix Nobel",
-      "Monde"
+      "Donald Trump"
     ],
     "analyzed_at": "2026-11-01T11:11:40.992964+00:00"
   },
@@ -1327,9 +1182,7 @@
     "summary": "",
     "thumbnail": "thumbnails/1lgqtfa.webp",
     "tags": [
-      "ONG",
-      "Etats-Unis",
-      "Monde"
+      "Conflit israélo-palestinien"
     ],
     "analyzed_at": "2026-11-01T11:11:41.096649+00:00"
   },
@@ -1351,10 +1204,7 @@
     "summary": "Alors que l’Iran bombarde Israël dans l’espoir de saturer son système de défense antimissile, les citoyens arabes de l’État hébreux se plaignent de discriminati...",
     "thumbnail": "thumbnails/1lgp4wu.webp",
     "tags": [
-      "Iran",
-      "Israël",
-      "État",
-      "Monde"
+      "Conflit israélo-palestinien"
     ],
     "analyzed_at": "2026-11-01T11:11:41.396927+00:00"
   },
@@ -1377,8 +1227,7 @@
     "thumbnail": "thumbnails/1lgcunp.webp",
     "tags": [
       "Benyamin Netanyahou",
-      "Israël",
-      "Monde"
+      "Conflit israélo-palestinien"
     ],
     "analyzed_at": "2026-11-01T11:11:42.030724+00:00"
   },
@@ -1399,13 +1248,7 @@
     "ingested_at": "2026-11-01T11:09:27.387859+00:00",
     "summary": "Selon les premiers éléments de l'enquête, les coups ont succédé à son refus d'enlever le voile. Une enquête est ouverte.",
     "thumbnail": "thumbnails/1lgctfd.webp",
-    "tags": [
-      "Croix-Rouge",
-      "Reims",
-      "Faits-divers",
-      "Laïcité",
-      "Fait Divers"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:11:41.343565+00:00"
   },
   {
@@ -1426,10 +1269,7 @@
     "summary": "Plusieurs classes du groupe scolaire Chambrun - La Roseraie affichent des températures supérieures à 30 °C. Les enseignants, qui font pour c",
     "thumbnail": "thumbnails/1lg46r5.webp",
     "tags": [
-      "Saint-Denis",
-      "Roseraie",
-      "Chambrun",
-      "Société"
+      "Éducation"
     ],
     "analyzed_at": "2026-11-01T11:11:41.634990+00:00"
   },
@@ -1451,11 +1291,7 @@
     "summary": "Le lycéen a été victime de la chute d'une palette de marchandises dans l'entreprise où il effectuait son stage. Le syndicat pointe notamment les problèmes \"en termes de conditions d'accueil\" pour argumenter sa demande d'y mettre fin.",
     "thumbnail": "thumbnails/1lg3gco.webp",
     "tags": [
-      "Saint-Lô",
-      "Snes-FSU",
-      "Laurent Nuñez",
-      "Education",
-      "Société"
+      "Laurent Nuñez"
     ],
     "analyzed_at": "2026-11-01T11:11:41.672872+00:00"
   },
@@ -1478,10 +1314,9 @@
     "thumbnail": "thumbnails/1lg2s07.webp",
     "tags": [
       "Rachida Dati",
-      "Radio France",
-      "France Télévisions",
-      "INA",
-      "Politique"
+      "Grèves et syndicats",
+      "Travail",
+      "Médias"
     ],
     "analyzed_at": "2026-11-01T11:11:42.240453+00:00"
   },
@@ -1503,7 +1338,6 @@
     "summary": "Bière, soda, thé glacé... Selon une étude diffusée par l'Anses, les boissons vendues dans des bouteilles en verre contiennent davantage de microplastiques que celles dans des bouteilles en plastique.",
     "thumbnail": "thumbnails/1lg1a5l.webp",
     "tags": [
-      "Anses",
       "Santé"
     ],
     "analyzed_at": "2026-11-01T11:11:41.618412+00:00"
@@ -1526,10 +1360,7 @@
     "summary": "",
     "thumbnail": "thumbnails/1lfxmp9.webp",
     "tags": [
-      "Niger",
-      "Orano",
-      "Paris",
-      "Écologie"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T11:11:42.002782+00:00"
   },
@@ -1552,10 +1383,7 @@
     "thumbnail": "thumbnails/1lfwm4r.webp",
     "tags": [
       "François Bayrou",
-      "Biarritz",
-      "Falcon",
-      "Pays",
-      "Écologie"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T11:11:42.086464+00:00"
   },
@@ -1576,11 +1404,7 @@
     "ingested_at": "2026-11-01T11:09:27.390717+00:00",
     "summary": "",
     "thumbnail": "thumbnails/1lfvgkr.webp",
-    "tags": [
-      "Starlink",
-      "État",
-      "Économie"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:11:42.071495+00:00"
   },
   {
@@ -1600,12 +1424,7 @@
     "ingested_at": "2026-11-01T11:09:27.390665+00:00",
     "summary": "16 milliards de mots de passe ont été volés, de nombreux ayant été dérobés chez les géants Meta (Facebook), Google et Apple. Cette fuite historique est partie pour battre absolument tous les records de cybersécurité.",
     "thumbnail": "thumbnails/1lfgv9o.webp",
-    "tags": [
-      "ALERTE",
-      "Apple",
-      "Meta",
-      "Tech"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:11:42.990860+00:00"
   },
   {
@@ -1625,13 +1444,7 @@
     "ingested_at": "2026-11-01T11:09:27.385934+00:00",
     "summary": "\"Discussions are indeed underway\", an OVHcloud spokesperson confirmed after Euractiv sought comment.",
     "thumbnail": "thumbnails/1lfbhw3.webp",
-    "tags": [
-      "OVHcloud",
-      "Commission",
-      "Microsoft Azure",
-      "France's OVHcloud",
-      "Tech"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:11:48.627542+00:00"
   },
   {
@@ -1652,10 +1465,7 @@
     "summary": "Un couple parisien qui revenait du bassin d’Arcachon lundi 16 juin 2025 a été verbalisé pour une erreur de billet TER.",
     "thumbnail": "thumbnails/1lf7ps1.webp",
     "tags": [
-      "SNCF",
-      "TER",
-      "Arcachon",
-      "Article offert"
+      "Transports"
     ],
     "analyzed_at": "2026-11-01T11:11:52.063303+00:00"
   },
@@ -1676,9 +1486,7 @@
     "ingested_at": "2026-11-01T11:09:27.386107+00:00",
     "summary": "",
     "thumbnail": "thumbnails/1lf50n3.webp",
-    "tags": [
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:11:50.546781+00:00"
   },
   {
@@ -1699,8 +1507,8 @@
     "summary": "",
     "thumbnail": "thumbnails/1lf4zun.webp",
     "tags": [
-      "Polytechnique",
-      "Écologie"
+      "Environnement",
+      "Éducation"
     ],
     "analyzed_at": "2026-11-01T11:11:52.107237+00:00"
   },
@@ -1722,7 +1530,8 @@
     "summary": "",
     "thumbnail": "",
     "tags": [
-      "Économie"
+      "Économie",
+      "Retraites"
     ],
     "analyzed_at": "2026-11-01T11:11:44.440201+00:00"
   },
@@ -1744,8 +1553,8 @@
     "summary": "",
     "thumbnail": "thumbnails/1lf3fmm.webp",
     "tags": [
-      "Beer Sheeva",
-      "Monde"
+      "Santé",
+      "Conflit israélo-palestinien"
     ],
     "analyzed_at": "2026-11-01T11:11:54.355515+00:00"
   },
@@ -1767,7 +1576,7 @@
     "summary": "",
     "thumbnail": "thumbnails/1lf2wex.webp",
     "tags": [
-      "Écologie"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T11:11:45.411462+00:00"
   },
@@ -1789,10 +1598,8 @@
     "summary": "Le Rassemblement national, majoritaire dans l’hémicycle après une suspension de séance, a fait adopter l’un de ses amendements visant à rela",
     "thumbnail": "thumbnails/1leng3p.webp",
     "tags": [
-      "Fessenheim",
-      "Rassemblement",
-      "RN",
-      "Politique"
+      "Énergie",
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T11:11:45.886644+00:00"
   },
@@ -1813,13 +1620,7 @@
     "ingested_at": "2026-11-01T11:09:27.388450+00:00",
     "summary": "Skytrax a dévoilé ce mardi son classement annuel à l'occasion du salon du Bourget. La compagnie française gagne une place et est désignée \"meilleure compagnie d'Europe occidentale\".",
     "thumbnail": "thumbnails/1ledrjx.webp",
-    "tags": [
-      "Europe",
-      "Air France",
-      "British Airways",
-      "Swiss",
-      "Bourget"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:11:45.977466+00:00"
   },
   {
@@ -1839,39 +1640,8 @@
     "ingested_at": "2026-11-01T11:09:27.385991+00:00",
     "summary": "Pour éviter que les lycéens ne croisent le présentateur, condamné pour corruption de mineurs, la rédaction a préféré les installer dans une salle de l’entresol.",
     "thumbnail": "thumbnails/1ledfnz.webp",
-    "tags": [
-      "Jean-Marc Morandini",
-      "Europe 1",
-      "Cyril Hanouna",
-      "Vincent Bolloré",
-      "TV & Movies"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:11:58.222358+00:00"
-  },
-  {
-    "id": "1lec8aa",
-    "title": "Emmanuel Macron reconnaîtra finalement l’État palestinien lors d’un dîner entre amis",
-    "url": "https://www.legorafi.fr/2025/06/17/emmanuel-macron-reconnaitra-finalement-letat-palestinien-lors-dun-diner-entre-amis/",
-    "permalink": "/r/france/comments/1lec8aa/emmanuel_macron_reconnaîtra_finalement_létat/",
-    "created_at": "2025-06-18T08:55:06+00:00",
-    "score": 1153,
-    "num_comments": 45,
-    "subreddit": "france",
-    "author": "Caramel_Mou",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/PR9PjpdbktVnslK8Z5KQeun1E9foRIarse9MBpryWZU.jpeg?auto=webp&s=277a343ac4a1cf2c384795e92ada51dd5b7d99b5",
-    "ingested_at": "2026-11-01T11:09:27.385607+00:00",
-    "summary": "L’annonce pourrait avoir lieu à l’occasion d’un dîner avec ses amis d’enfance organisé samedi soir à La Lanterne, sa résidence secondaire versaillaise.",
-    "thumbnail": "thumbnails/1lec8aa.webp",
-    "tags": [
-      "Emmanuel Macron",
-      "État",
-      "Lanterne",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T11:11:48.785300+00:00"
   },
   {
     "id": "1ldzn02",
@@ -1890,12 +1660,7 @@
     "ingested_at": "2026-11-01T11:09:27.389514+00:00",
     "summary": "L'avionneur américain subit violemment les conséquences du crash du 787 Dreamliner d'Air India. Le millésime 2025 du Bourget est parti pour être le pire dans l'histoire récente de Boeing.",
     "thumbnail": "thumbnails/1ldzn02.webp",
-    "tags": [
-      "Boeing",
-      "Bourget",
-      "Dreamliner",
-      "Dreamliner Air India"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:11:48.987619+00:00"
   },
   {
@@ -1917,10 +1682,7 @@
     "thumbnail": "thumbnails/1ldz16h.webp",
     "tags": [
       "Rachida Dati",
-      "Henri Proglio",
-      "Haute Autorité",
-      "Veolia et EDF",
-      "Politique"
+      "Énergie"
     ],
     "analyzed_at": "2026-11-01T11:11:56.540059+00:00"
   },
@@ -1942,9 +1704,7 @@
     "summary": "",
     "thumbnail": "thumbnails/1ldy4yy.webp",
     "tags": [
-      "Iran",
-      "US",
-      "Monde"
+      "Conflit israélo-palestinien"
     ],
     "analyzed_at": "2026-11-01T11:11:50.193833+00:00"
   },
@@ -1966,11 +1726,8 @@
     "summary": "C’est vers eux que les femmes se tournent pour être protégées en cas de violences sexuelles. Mais que se passe-t-il quand les policiers et gendarmes deviennent eux-mêmes les agresseurs ? Une enquête de \"L'Œil du 20 heures\" en collaboration avec Disclose.",
     "thumbnail": "thumbnails/1ldw1r0.webp",
     "tags": [
-      "Disclose",
-      "Laurent",
-      "Violences sexuelles",
-      "Faits-divers",
-      "Société"
+      "Police",
+      "Violences sexuelles"
     ],
     "analyzed_at": "2026-11-01T11:11:50.541444+00:00"
   },
@@ -1992,11 +1749,8 @@
     "summary": "Soutenue par l’UDR, le parti d’Éric Ciotti, cette mesure vise notamment à épauler les maires, qui n’avaient jusque-là aucun moyen de s’opposer ce type d’union.",
     "thumbnail": "thumbnails/1ldpazo.webp",
     "tags": [
-      "Assemblée nationale",
-      "Étrangers",
-      "UDR",
-      "Éric Ciotti",
-      "Politique"
+      "Institutions",
+      "Éric Ciotti"
     ],
     "analyzed_at": "2026-11-01T11:11:50.850384+00:00"
   },
@@ -2019,9 +1773,8 @@
     "thumbnail": "thumbnails/1ldla80.webp",
     "tags": [
       "François Fillon",
-      "Paris",
-      "Penelope Fillon",
-      "Politique"
+      "Justice",
+      "Travail"
     ],
     "analyzed_at": "2026-11-01T11:11:50.974931+00:00"
   },
@@ -2042,10 +1795,7 @@
     "ingested_at": "2026-11-01T11:09:27.386557+00:00",
     "summary": "Après avoir analysé les plans d'un documentaire tourné en Corée du Nord et dont des extraits ont été montrés dans un reportage de \"Complément d'enquête\", un expert a conclu que Gérard Depardieu avait bien tenu des propos visant à sexualiser une petite fille faisant de l'équitation, en 2.",
     "thumbnail": "thumbnails/1ldjsb7.webp",
-    "tags": [
-      "Gérard Depardieu",
-      "Corée du Nord"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:11:51.012067+00:00"
   },
   {
@@ -2066,9 +1816,9 @@
     "summary": "",
     "thumbnail": "thumbnails/1ldihf3.webp",
     "tags": [
-      "RN",
-      "Facebook",
-      "Politique"
+      "Racisme",
+      "Antisémitisme",
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T11:11:51.274128+00:00"
   },
@@ -2090,8 +1840,7 @@
     "summary": "",
     "thumbnail": "thumbnails/1ldeqy4.webp",
     "tags": [
-      "Clara Chappaz",
-      "Politique"
+      "Numérique"
     ],
     "analyzed_at": "2026-11-01T11:12:01.299528+00:00"
   },
@@ -2113,7 +1862,7 @@
     "summary": "",
     "thumbnail": "thumbnails/1ld4g0p.webp",
     "tags": [
-      "Politique"
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T11:11:51.381174+00:00"
   },
@@ -2135,39 +1884,10 @@
     "summary": "Un conseiller d’Emmanuel Macron nous confirme que le général François Lecointre, Grand chancelier de la Légion d’honneur, a pris sa décision sans en référer à la présidence.",
     "thumbnail": "thumbnails/1ld39xm.webp",
     "tags": [
-      "Légion",
-      "Emmanuel Macron",
-      "Sarkozy",
       "Nicolas Sarkozy",
-      "François Lecointre"
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T11:12:01.979834+00:00"
-  },
-  {
-    "id": "1lcw184",
-    "title": "Le Louvre était fermé lundi en raison de son personnel épuisé, qui affirme que l’institution est en train de s’effondrer de l’intérieur.",
-    "url": "https://lactualite.com/actualites/exasperes-les-employes-du-louvre-declenchent-une-greve-spontanee/",
-    "permalink": "/r/france/comments/1lcw184/le_louvre_était_fermé_lundi_en_raison_de_son/",
-    "created_at": "2025-06-16T15:36:29+00:00",
-    "score": 921,
-    "num_comments": 165,
-    "subreddit": "france",
-    "author": "Minouminou9",
-    "flair": "Culture",
-    "domain": "lactualite.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/61wEDM7RaU23asXBfoT4v-oqbiz2p6eSHP4ImoEMUtg.jpeg?auto=webp&s=71607d1310ea123870b250c05fa97ad59a0381e8",
-    "ingested_at": "2026-11-01T11:09:27.385855+00:00",
-    "summary": "Le Louvre, le musée le plus visité au monde et un symbole mondial de l'art, de la beauté et de la pérennité, était fermé lundi, non pas à cause d'une guerre ou d'un attentat terroriste, mais en raison de son personnel épuisé, qui affirme que l'institution est en train de s'effondrer de l'intérieur. C'était un […]",
-    "thumbnail": "thumbnails/1lcw184.webp",
-    "tags": [
-      "Louvre",
-      "Culture",
-      "Joconde",
-      "Affaires",
-      "Arts"
-    ],
-    "analyzed_at": "2026-11-01T11:11:53.238859+00:00"
   },
   {
     "id": "1lcn8j3",
@@ -2187,10 +1907,7 @@
     "summary": "La menace iranienne fait consensus en Israël depuis longtemps et la guerre lancée par Benyamin Nétanyahou ne rencontre pas d’opposition. Rares sont ceux qui brisent cette unanimité. L’historien israé…",
     "thumbnail": "thumbnails/1lcn8j3.webp",
     "tags": [
-      "Iran",
-      "Israël",
-      "Benyamin Nétanyahou",
-      "Politique"
+      "Conflit israélo-palestinien"
     ],
     "analyzed_at": "2026-11-01T11:11:52.998551+00:00"
   },
@@ -2212,8 +1929,7 @@
     "summary": "Cette interdiction devra s’appliquer « partout, y compris à la maison » bien que les autorités « ne soient pas chez les gens pour le vérifie",
     "thumbnail": "thumbnails/1lc5dzf.webp",
     "tags": [
-      "Catherine Vautrin",
-      "Société"
+      "Catherine Vautrin"
     ],
     "analyzed_at": "2026-11-01T11:11:52.584407+00:00"
   },
@@ -2234,11 +1950,7 @@
     "ingested_at": "2026-11-01T11:09:27.391012+00:00",
     "summary": "Alors que la période de gardiennage s’ouvre dans les refuges de montagne, les professionnels déplorent les incivilités. Exemples dans les Pyrénées, au refuge de la Brèche de Roland.",
     "thumbnail": "thumbnails/1lc4236.webp",
-    "tags": [
-      "Brèche de Roland",
-      "Pyrénées",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:11:53.503879+00:00"
   },
   {
@@ -2260,10 +1972,9 @@
     "thumbnail": "thumbnails/1lbynd5.webp",
     "tags": [
       "Jean-Luc Mélenchon",
-      "Parti",
       "Manuel Bompard",
-      "PS Jérôme Guedj",
-      "Politique"
+      "Antisémitisme",
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T11:11:53.302196+00:00"
   },
@@ -2285,8 +1996,7 @@
     "summary": "",
     "thumbnail": "thumbnails/1lbwxhy.webp",
     "tags": [
-      "Europe",
-      "Économie"
+      "Manifestations"
     ],
     "analyzed_at": "2026-11-01T11:11:54.660965+00:00"
   },
@@ -2309,9 +2019,7 @@
     "thumbnail": "thumbnails/1lbt9dl.webp",
     "tags": [
       "Rima Hassan",
-      "Israël",
-      "Gaza",
-      "Politique"
+      "Conflit israélo-palestinien"
     ],
     "analyzed_at": "2026-11-01T11:11:54.335358+00:00"
   },
@@ -2333,11 +2041,7 @@
     "summary": "L’ex-président (2007-2012), également exclu de l’ordre national du Mérite, devient ainsi le deuxième chef d’État français privé de cette distinction après Philippe Pétain.",
     "thumbnail": "thumbnails/1lbml7p.webp",
     "tags": [
-      "Nicolas Sarkozy",
-      "Légion",
-      "État",
-      "Légion d'honneur",
-      "Politique"
+      "Nicolas Sarkozy"
     ],
     "analyzed_at": "2026-11-01T11:11:54.689991+00:00"
   },
@@ -2358,10 +2062,7 @@
     "ingested_at": "2026-11-01T11:09:27.386239+00:00",
     "summary": "Une élue locale du Minnesota et son mari ont été tués, et un autre élu a été blessé, samedi matin dans un 'acte de...",
     "thumbnail": "thumbnails/1lbbchq.webp",
-    "tags": [
-      "Minnesota",
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:11:55.344310+00:00"
   },
   {
@@ -2382,9 +2083,8 @@
     "summary": "Dans l'émission Envoyé spécial diffusée ce jeudi 12 juin sur France 2, des retraités étaient interrogés sur l'éventualité de se voir imposer de nouvelles taxes pour réduire le déficit de la France. Globalement, la réponse est quasi-unanime : c'est non.",
     "thumbnail": "thumbnails/1lbaqkn.webp",
     "tags": [
-      "Envoyé",
-      "France 2",
-      "Société"
+      "Retraites",
+      "Budget et fiscalité"
     ],
     "analyzed_at": "2026-11-01T11:11:55.227635+00:00"
   },
@@ -2406,9 +2106,7 @@
     "summary": "",
     "thumbnail": "thumbnails/1lb6oig.webp",
     "tags": [
-      "Jeune",
-      "Conseil État",
-      "Jean Moulin et Klaus Barbie"
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T11:11:55.171971+00:00"
   },
@@ -2431,10 +2129,7 @@
     "thumbnail": "thumbnails/1lb2da1.webp",
     "tags": [
       "Donald Trump",
-      "Trump",
-      "America250",
-      "Tech & Futurs",
-      "Monde"
+      "Défense"
     ],
     "analyzed_at": "2026-11-01T11:11:55.087306+00:00"
   },
@@ -2456,8 +2151,7 @@
     "summary": "",
     "thumbnail": "thumbnails/1lb26hy.webp",
     "tags": [
-      "Heures du Mans",
-      "Écologie"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T11:11:55.616780+00:00"
   },
@@ -2479,11 +2173,8 @@
     "summary": "La ministre de la Culture et le président du Sénat, Gérard Larcher, ont fait pression pour empêcher la diffusion d’enquêtes les concernant. Mais France Télés…",
     "thumbnail": "thumbnails/1layqqe.webp",
     "tags": [
-      "France Télévisions",
-      "Delphine Ernotte",
-      "Gérard Larcher",
-      "Culture",
-      "Politique"
+      "Rachida Dati",
+      "Gérard Larcher"
     ],
     "analyzed_at": "2026-11-01T11:11:55.672752+00:00"
   },
@@ -2505,8 +2196,9 @@
     "summary": "",
     "thumbnail": "thumbnails/1laqmgl.webp",
     "tags": [
-      "Yanis Mhamdi",
-      "Israël"
+      "Conflit israélo-palestinien",
+      "Prisons",
+      "Médias"
     ],
     "analyzed_at": "2026-11-01T11:12:07.340412+00:00"
   },
@@ -2528,7 +2220,7 @@
     "summary": "",
     "thumbnail": "thumbnails/1lak782.webp",
     "tags": [
-      "Politique"
+      "Antisémitisme"
     ],
     "analyzed_at": "2026-11-01T11:11:55.743820+00:00"
   },
@@ -2550,38 +2242,9 @@
     "summary": "L'opération d'arraisonnement menée lundi par l'armée israélienne sur le voilier de la Coalition de la flottille de la liberté s'est déroulée dans un espace maritime où la souveraineté de l'Etat hébreu ne s'appliquait pas.",
     "thumbnail": "thumbnails/1lahq2z.webp",
     "tags": [
-      "Coalition",
-      "VRAI",
-      "FAUX",
-      "Israël",
-      "Etat"
+      "Conflit israélo-palestinien"
     ],
     "analyzed_at": "2026-11-01T11:11:55.972982+00:00"
-  },
-  {
-    "id": "1lafs2j",
-    "title": "Israël intercepte un banc de daurades au large de Gaza",
-    "url": "https://www.legorafi.fr/2025/06/13/israel-intercepte-un-banc-de-daurades-au-large-de-gaza/",
-    "permalink": "/r/france/comments/1lafs2j/israël_intercepte_un_banc_de_daurades_au_large_de/",
-    "created_at": "2025-06-13T13:21:13+00:00",
-    "score": 519,
-    "num_comments": 24,
-    "subreddit": "france",
-    "author": "Critical_Limit_9057",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/fn7XzrvzEVtU2f5_Q71iqpi_rn-j0PbBHYUl3IqGCa4.jpeg?auto=webp&s=1b4c7eee566dddba25d5d684659a5361e59da6a8",
-    "ingested_at": "2026-11-01T11:09:27.386775+00:00",
-    "summary": "Au total, 14 daurades ont été interceptées par les autorités israéliennes pour comportement suspect.",
-    "thumbnail": "thumbnails/1lafs2j.webp",
-    "tags": [
-      "Gaza",
-      "Hamas",
-      "Emmanuel Macron",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T11:11:55.981989+00:00"
   },
   {
     "id": "1la7zeo",
@@ -2601,8 +2264,8 @@
     "summary": "",
     "thumbnail": "thumbnails/1la7zeo.webp",
     "tags": [
-      "RMC et BFMTV",
-      "Gaza"
+      "Conflit israélo-palestinien",
+      "Grèves et syndicats"
     ],
     "analyzed_at": "2026-11-01T11:12:03.446815+00:00"
   },
@@ -2624,11 +2287,7 @@
     "summary": "L'influenceur masculiniste avait claqué la porte de la commission d'enquête parlementaire sur les effets psychologiques de TikTok sur les mineurs, lors de son audition deux jours plus tôt.",
     "thumbnail": "thumbnails/1la6v52.webp",
     "tags": [
-      "TikTok",
-      "Alex Hitchens",
-      "Jordan Bardella",
-      "Réseaux Sociaux",
-      "Trompeur ?"
+      "Jordan Bardella"
     ],
     "analyzed_at": "2026-11-01T11:11:56.264285+00:00"
   },
@@ -2650,8 +2309,7 @@
     "summary": "",
     "thumbnail": "thumbnails/1la2e2z.webp",
     "tags": [
-      "Iran",
-      "Megafil"
+      "Conflit israélo-palestinien"
     ],
     "analyzed_at": "2026-11-01T11:11:57.015968+00:00"
   },
@@ -2673,9 +2331,8 @@
     "summary": "",
     "thumbnail": "",
     "tags": [
-      "Gaza",
-      "LFI Rima Hassan",
-      "Politique"
+      "Rima Hassan",
+      "Conflit israélo-palestinien"
     ],
     "analyzed_at": "2026-11-01T11:11:57.850157+00:00"
   },
@@ -2697,9 +2354,8 @@
     "summary": "",
     "thumbnail": "thumbnails/1l9s32k.webp",
     "tags": [
-      "Zucman",
-      "Sénat",
-      "Politique"
+      "Institutions",
+      "Budget et fiscalité"
     ],
     "analyzed_at": "2026-11-01T11:11:57.068412+00:00"
   },
@@ -2722,8 +2378,7 @@
     "thumbnail": "thumbnails/1l9mq46.webp",
     "tags": [
       "Bruno Retailleau",
-      "Jeune Garde et de Lyon",
-      "Politique"
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T11:11:57.386060+00:00"
   },
@@ -2745,37 +2400,9 @@
     "summary": "Condamné pour avoir tué un homme gay de trente-sept coups de couteau, le batteur norvégien Bård Eithun se produit le 21 juin à Clisson. Le festival, qui attend 240 000 visiteurs, ouvre grand les bras…",
     "thumbnail": "thumbnails/1l9ktie.webp",
     "tags": [
-      "Hellfest",
-      "Bård Eithun",
-      "Clisson",
-      "Société"
+      "LGBT+"
     ],
     "analyzed_at": "2026-11-01T11:11:58.235998+00:00"
-  },
-  {
-    "id": "1l9i6xa",
-    "title": "La Russie envisage l’envoi de conseillers militaires pour assister l’armée américaine à Los Angeles",
-    "url": "https://www.caporalstrategique.fr/2025/06/12/la-russie-envisage-lenvoi-de-conseillers-militaires-pour-assister-larmee-americaine-a-los-angeles/",
-    "permalink": "/r/france/comments/1l9i6xa/la_russie_envisage_lenvoi_de_conseillers/",
-    "created_at": "2025-06-12T09:35:31+00:00",
-    "score": 252,
-    "num_comments": 60,
-    "subreddit": "france",
-    "author": "Dreynard",
-    "flair": "Humour",
-    "domain": "caporalstrategique.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/GZ5QLPnK01CgiR0fV-l0NiCKc_EeKzY6qHrra1_ATOA.jpeg?auto=webp&s=04bd92b85546e93191ce745f72f51f7b1392e3a1",
-    "ingested_at": "2026-11-01T11:09:27.390960+00:00",
-    "summary": "Depuis plusieurs jours, Los Angeles est le théâtre d’une crise politique et sécuritaire majeure, marquée par l’intervention sans précédent de l’armée américaine dans la gestion de troubles liés à la politique du président Donald Trump.",
-    "thumbnail": "thumbnails/1l9i6xa.webp",
-    "tags": [
-      "Russie",
-      "Los Angeles",
-      "Donald Trump",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T11:11:58.656144+00:00"
   },
   {
     "id": "1l9hnyx",
@@ -2795,7 +2422,7 @@
     "summary": "",
     "thumbnail": "thumbnails/1l9hnyx.webp",
     "tags": [
-      "Science"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T11:11:58.155945+00:00"
   },
@@ -2817,10 +2444,9 @@
     "summary": "",
     "thumbnail": "thumbnails/1l9fq2j.webp",
     "tags": [
-      "Français",
-      "Shein",
       "Christophe Castaner",
-      "Écologie"
+      "Environnement",
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T11:12:03.189500+00:00"
   },
@@ -2842,11 +2468,8 @@
     "summary": "Alors que Rima Hassan et le militant brésilien Tiago Ávila ont été placés à l’isolement ce mercredi 11 juin, l’eurodéputée a annoncé sur X entamer une grève de la faim. F...",
     "thumbnail": "thumbnails/1l9fo4y.webp",
     "tags": [
-      "François Bayrou",
-      "Rima Hassan et Tiago Ávila",
       "Rima Hassan",
-      "Tiago Ávila",
-      "Monde"
+      "François Bayrou"
     ],
     "analyzed_at": "2026-11-01T11:11:59.162689+00:00"
   },
@@ -2868,8 +2491,7 @@
     "summary": "",
     "thumbnail": "thumbnails/1l9eb6j.webp",
     "tags": [
-      "Gouvernement Bayrou",
-      "Politique"
+      "François Bayrou"
     ],
     "analyzed_at": "2026-11-01T11:11:58.635136+00:00"
   },
@@ -2891,10 +2513,7 @@
     "summary": "Malgré des scandales à répétition, des figures du parti continuent de s’illustrer en ligne par leurs propos racistes.",
     "thumbnail": "thumbnails/1l90oqi.webp",
     "tags": [
-      "RN",
-      "Politics",
-      "Extreme-droite",
-      "Politique"
+      "Racisme"
     ],
     "analyzed_at": "2026-11-01T11:12:05.401328+00:00"
   },
@@ -2916,11 +2535,7 @@
     "summary": "La startup française Mistral AI va concevoir une nouvelle offre sur le nuage avec Nvidia dans le but de proposer une infrastructure souveraine en Europe.",
     "thumbnail": "thumbnails/1l8wsyk.webp",
     "tags": [
-      "Mistral",
-      "Europe",
-      "Nvidia",
-      "IA",
-      "Économie"
+      "Intelligence artificielle"
     ],
     "analyzed_at": "2026-11-01T11:11:58.869049+00:00"
   },
@@ -2942,10 +2557,8 @@
     "summary": "Baptiste André faisait partie des 12 personnes à bord du voilier humanitaire \"Madleen\", arraisonné par Israël lundi alors qu'il tentait de rallier la bande de Gaza.",
     "thumbnail": "thumbnails/1l8qozc.webp",
     "tags": [
-      "Gaza",
-      "Israël",
-      "Baptiste André",
-      "Madleen",
+      "Conflit israélo-palestinien",
+      "Santé",
       "Rima Hassan"
     ],
     "analyzed_at": "2026-11-01T11:11:59.281609+00:00"
@@ -2968,11 +2581,7 @@
     "summary": "Parti lundi 9 juin, un convoi de près de 1 500 participants prévoit de traverser la Libye et l’Egypte pour rejoindre Rafah. Son objectif : faire pression sur la communauté internationale et faciliter l’acheminement de l’aide humanitaire.",
     "thumbnail": "thumbnails/1l8qiph.webp",
     "tags": [
-      "Rafah",
-      "Tunis",
-      "Gaza",
-      "Tunisie",
-      "Monde"
+      "Conflit israélo-palestinien"
     ],
     "analyzed_at": "2026-11-01T11:12:06.103248+00:00"
   },
@@ -2994,10 +2603,8 @@
     "summary": "Des clients français assignent Tesla en justice, dénonçant une transformation idéologique de la marque. Pour eux, conduire une Model 3 aujourd’hui, c’est comme afficher un étendard politique qu’ils n’ont jamais voulu brandir.",
     "thumbnail": "thumbnails/1l8pvut.webp",
     "tags": [
-      "Tesla",
       "Elon Musk",
-      "Model 3",
-      "Société"
+      "Extrême droite"
     ],
     "analyzed_at": "2026-11-01T11:11:59.788674+00:00"
   },
@@ -3019,8 +2626,7 @@
     "summary": "Lors de son instauration en 2018, le gouvernement tablait sur un gain de 5 à 10 millions d'euros par an pour les caisses de l'Etat.",
     "thumbnail": "thumbnails/1l8p4r2.webp",
     "tags": [
-      "Etat",
-      "Économie"
+      "Budget et fiscalité"
     ],
     "analyzed_at": "2026-11-01T11:11:59.922656+00:00"
   },
@@ -3042,11 +2648,8 @@
     "summary": "Les deux structures choisies accompagnent des victimes de violences faites aux femmes. Gisèle Pelicot reprochait à l'hebdomadaire d'avoir publié des photographies prises à son insu dans son édition du 17 avril.",
     "thumbnail": "thumbnails/1l8jaqm.webp",
     "tags": [
-      "Gisèle Pelicot",
-      "Paris Match",
-      "Rachida Dati",
-      "Procès des viols de Mazan",
-      "Société"
+      "Justice",
+      "Rachida Dati"
     ],
     "analyzed_at": "2026-11-01T11:12:00.331277+00:00"
   },
@@ -3069,10 +2672,9 @@
     "thumbnail": "thumbnails/1l88wpd.webp",
     "tags": [
       "Emmanuel Macron",
-      "Europe",
-      "François Bayrou",
-      "République",
-      "Politique"
+      "Éducation",
+      "Numérique",
+      "François Bayrou"
     ],
     "analyzed_at": "2026-11-01T11:12:00.596056+00:00"
   },
@@ -3094,11 +2696,7 @@
     "summary": "Dans un rapport rendu public ce mardi matin, une dizaine d’ONG démentent les récents propos du ministre des Armées et dénoncent des livraisons d’armes de la France à Israël. ...",
     "thumbnail": "thumbnails/1l7wfs7.webp",
     "tags": [
-      "Israël",
-      "Armées",
-      "ONG",
-      "Payant",
-      "Politique"
+      "Conflit israélo-palestinien"
     ],
     "analyzed_at": "2026-11-01T11:12:01.300307+00:00"
   },
@@ -3121,10 +2719,7 @@
     "thumbnail": "thumbnails/1l7vnbx.webp",
     "tags": [
       "Rima Hassan",
-      "Français",
-      "Israël",
-      "Greta Thunberg",
-      "Politique"
+      "Conflit israélo-palestinien"
     ],
     "analyzed_at": "2026-11-01T11:12:02.112963+00:00"
   },
@@ -3146,11 +2741,8 @@
     "summary": "Un élève a été arrêté mardi matin après avoir agressé au couteau une assistante d'éducation lors d'un contrôle de gendarmes devant un collège de Haute-Marne. La victime, âgée de 31 ans, a succombé à ses blessures dans la matinée.",
     "thumbnail": "thumbnails/1l7tzu1.webp",
     "tags": [
-      "François Bayrou",
-      "Haute-Marne",
-      "Nogent",
       "Emmanuel Macron",
-      "Fait Divers"
+      "François Bayrou"
     ],
     "analyzed_at": "2026-11-01T11:12:01.668370+00:00"
   },
@@ -3171,10 +2763,7 @@
     "ingested_at": "2026-11-01T11:09:27.387264+00:00",
     "summary": "",
     "thumbnail": "thumbnails/1l7s9h2.webp",
-    "tags": [
-      "Jeux de Paris",
-      "Économie"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:12:03.269039+00:00"
   },
   {
@@ -3195,11 +2784,8 @@
     "summary": "Après avoir été interceptés et arrêtés par l’armée israélienne, les 12 militants à bord du navire humanitaire doivent être remis à la police afin d’être expulsés depuis le port industriel israélien d’Ashdod.",
     "thumbnail": "thumbnails/1l7dk1s.webp",
     "tags": [
-      "Israël",
-      "Rima Hassan",
-      "Ashdod",
-      "Hamas",
-      "Monde"
+      "Conflit israélo-palestinien",
+      "Rima Hassan"
     ],
     "analyzed_at": "2026-11-01T11:12:03.227827+00:00"
   },
@@ -3221,11 +2807,7 @@
     "summary": "Les 16 personnes, toutes membres du groupe « Action des forces opérationnelles », avaient imaginé plusieurs opérations dont l’une qui prévoyait d’empoisonner de la nourriture dans les rayons halal de supermarchés avec du cyanure ou de la mort-aux-rats",
     "thumbnail": "thumbnails/1l7a69a.webp",
     "tags": [
-      "Paris",
-      "AFO",
-      "AFP type GP",
-      "AFP Général",
-      "AFP Priorité 4-BASSE"
+      "Extrême droite"
     ],
     "analyzed_at": "2026-11-01T11:12:02.622278+00:00"
   },
@@ -3247,8 +2829,8 @@
     "summary": "",
     "thumbnail": "thumbnails/1l74g48.webp",
     "tags": [
-      "Emmanuel Macron",
-      "Écologie"
+      "Environnement",
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T11:12:08.691286+00:00"
   },
@@ -3270,9 +2852,8 @@
     "summary": "Les affrontements continuent à Los Angeles, opposant les forces de sécurité à des manifestants contre la politique migratoire du président américain Donald Trump. Les forces de l'ordre ont notamment fait usage de gaz lacrymogènes et de tirs de balles de caoutchouc. Certains journalistes couvrant les...",
     "thumbnail": "thumbnails/1l715cl.webp",
     "tags": [
-      "Los Angeles",
-      "Donald Trump",
-      "Lauren Tomasi"
+      "Médias",
+      "Donald Trump"
     ],
     "analyzed_at": "2026-11-01T11:12:03.385616+00:00"
   },
@@ -3294,9 +2875,7 @@
     "summary": "",
     "thumbnail": "thumbnails/1l70sz4.webp",
     "tags": [
-      "Gaza",
-      "Israël",
-      "Monde"
+      "Conflit israélo-palestinien"
     ],
     "analyzed_at": "2026-11-01T11:12:03.590936+00:00"
   },
@@ -3318,11 +2897,7 @@
     "summary": "Un groupe de législateurs européens a demandé aux organisateurs de l'Eurovision de publier l'intégralité des données relatives aux votes du concours de la chanson de cette année, en raison des inquiétudes croissantes de manipulation soulevées par les diffuseurs de plusieurs pays. #EuropeNews",
     "thumbnail": "thumbnails/1l6ymj9.webp",
     "tags": [
-      "UE",
-      "Eurovision",
-      "Israël",
-      "UER",
-      "Monde"
+      "Union européenne"
     ],
     "analyzed_at": "2026-11-01T11:12:03.601384+00:00"
   },
@@ -3344,11 +2919,7 @@
     "summary": "L’activiste Greta Thunberg était à bord de ce voilier qui entendait «briser le blocus israélien».",
     "thumbnail": "thumbnails/1l6shxl.webp",
     "tags": [
-      "Gaza",
-      "Greta Thunberg",
-      "Israël",
-      "Coalition",
-      "Monde"
+      "Conflit israélo-palestinien"
     ],
     "analyzed_at": "2026-11-01T11:12:05.063699+00:00"
   },
@@ -3370,11 +2941,7 @@
     "summary": "Le ministre des Armées avait annoncé en juin 2025 qu'une \"grande entreprise produisant des voitures françaises\" allait produire des drones pour l'Ukraine, sans préciser laquelle.",
     "thumbnail": "thumbnails/1l6qa9b.webp",
     "tags": [
-      "Ukraine",
-      "Renault",
-      "Armées",
-      "Europe",
-      "Monde"
+      "Guerre en Ukraine"
     ],
     "analyzed_at": "2026-11-01T11:12:03.759611+00:00"
   },
@@ -3396,11 +2963,8 @@
     "summary": "\"Aujourd'hui le champ des personnes capables de tenir ce discours populiste s'est véritablement élargi\", déplore Christophe Soulard, dans un entretien à Mediapart.",
     "thumbnail": "thumbnails/1l6ggxa.webp",
     "tags": [
-      "Christophe Soulard",
-      "Mediapart",
-      "Jordan Bardella",
-      "RN",
-      "Société"
+      "Justice",
+      "Jordan Bardella"
     ],
     "analyzed_at": "2026-11-01T11:12:03.978776+00:00"
   },
@@ -3422,11 +2986,8 @@
     "summary": "Un équipage de douze activistes propalestiniens espère accéder à l’enclave gazaouie par la mer et ouvrir un «corridor maritime». Greta Thunberg fait également partie des passagers.",
     "thumbnail": "thumbnails/1l6amsn.webp",
     "tags": [
-      "Gaza",
-      "Israël",
       "Rima Hassan",
-      "Bande de gaza",
-      "Monde"
+      "Conflit israélo-palestinien"
     ],
     "analyzed_at": "2026-11-01T11:12:04.940285+00:00"
   },
@@ -3447,11 +3008,7 @@
     "ingested_at": "2026-11-01T11:09:27.389994+00:00",
     "summary": "",
     "thumbnail": "thumbnails/1l68k4j.webp",
-    "tags": [
-      "Laurent Marchand",
-      "Ouest France",
-      "Économie"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:12:04.970879+00:00"
   },
   {
@@ -3472,9 +3029,9 @@
     "summary": "",
     "thumbnail": "thumbnails/1l652bw.webp",
     "tags": [
-      "Trump",
-      "Los Angeles",
-      "Monde"
+      "Donald Trump",
+      "Police",
+      "Immigration"
     ],
     "analyzed_at": "2026-11-01T11:12:04.389707+00:00"
   },
@@ -3496,10 +3053,7 @@
     "summary": "Le jeune de 17 ans qui avait annoncé mardi sur les réseaux sociaux vouloir s’en prendre à une camarade a été placé en garde à vue le lendemain à Dijon.",
     "thumbnail": "thumbnails/1l62wh2.webp",
     "tags": [
-      "Dijon",
-      "Social Issues",
-      "Faits-divers",
-      "Fait Divers"
+      "Éducation"
     ],
     "analyzed_at": "2026-11-01T11:12:11.286738+00:00"
   },
@@ -3521,11 +3075,7 @@
     "summary": "Le Royaume-Uni et la France sont sur le point d'abandonner leur projet de reconnaissance d'un État palestinien lors d'une prochaine conférence, selon des sources diplomatiques, a rapporté samedi le...",
     "thumbnail": "thumbnails/1l5y53g.webp",
     "tags": [
-      "État",
-      "Middle East Eye",
-      "Royaume-Uni et la France",
-      "Israël",
-      "MEE"
+      "Conflit israélo-palestinien"
     ],
     "analyzed_at": "2026-11-01T11:12:06.335546+00:00"
   },
@@ -3547,11 +3097,8 @@
     "summary": "Élu à la mairie de Pau, Alexandre Perez utilise sur le réseau social X un compte qui soutient les théories criminelles du « grand remplacement » ou de la « remigration ». Sur Facebook, il attaquait a…",
     "thumbnail": "thumbnails/1l5tf9t.webp",
     "tags": [
-      "Bayrou",
-      "Pau",
-      "Alexandre Perez",
-      "Facebook",
-      "Politique"
+      "François Bayrou",
+      "Racisme"
     ],
     "analyzed_at": "2026-11-01T11:12:05.919541+00:00"
   },
@@ -3573,9 +3120,7 @@
     "summary": "",
     "thumbnail": "thumbnails/1l5ljml.webp",
     "tags": [
-      "Résistance",
-      "IA",
-      "Société"
+      "Intelligence artificielle"
     ],
     "analyzed_at": "2026-11-01T11:12:11.687575+00:00"
   },
@@ -3596,11 +3141,7 @@
     "ingested_at": "2026-11-01T11:09:27.388499+00:00",
     "summary": "Le chanteur français a effectué un long voyage en Russie le mois dernier pour « donner un peu de la France à ceux qui ne comprennent plus no",
     "thumbnail": "thumbnails/1l5j8l7.webp",
-    "tags": [
-      "Russie",
-      "Francis Lalanne",
-      "Kremlin"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:12:05.723769+00:00"
   },
   {
@@ -3621,34 +3162,9 @@
     "summary": "Morgane, 17 ans, lycéenne à Saint-Gaudens, a fait le buzz en remplaçant sa lettre de motivation Parcoursup par… une recette de brownie. En vidéo sur les réseaux sociaux, elle raconte avoir été acceptée en licence de...",
     "thumbnail": "thumbnails/1l4x59u.webp",
     "tags": [
-      "Rectorat de Toulouse",
-      "Saint-Gaudens"
+      "Éducation"
     ],
     "analyzed_at": "2026-11-01T11:12:08.310331+00:00"
-  },
-  {
-    "id": "1l4u8p6",
-    "title": "Elon Musk annonce arrêter la politique pour se consacrer à plein temps au racisme",
-    "url": "https://www.legorafi.fr/2025/06/06/elon-musk-annonce-arreter-la-politique-pour-se-consacrer-a-plein-temps-au-racisme/",
-    "permalink": "/r/france/comments/1l4u8p6/elon_musk_annonce_arrêter_la_politique_pour_se/",
-    "created_at": "2025-06-06T14:45:53+00:00",
-    "score": 2218,
-    "num_comments": 61,
-    "subreddit": "france",
-    "author": "Hibernatusse",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/QcvporjB-VZ24wRs7E4Ql5i-rqsfKsGZdQBdUkE1-vg.jpeg?auto=webp&s=24f732d6f00f44937c731aa15deb947e2f06101e",
-    "ingested_at": "2026-11-01T11:09:27.385480+00:00",
-    "summary": "L’ancien conseiller spécial de Donald Trump ne parvenait plus à concilier toutes ses activités",
-    "thumbnail": "thumbnails/1l4u8p6.webp",
-    "tags": [
-      "Elon Musk",
-      "Donald Trump",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T11:12:06.115233+00:00"
   },
   {
     "id": "1l4tpmz",
@@ -3668,11 +3184,7 @@
     "summary": "Monaco se retrouve une nouvelle fois sous surveillance, déjà pointée du doigt en 2024 par le Groupe d’action financière international, cette fois, c'est la Commission européenne qui a informé les autorités monégasques de sa décision d'inscrire la principauté sur la \"liste des juridictions de pays tiers à haut risque\".",
     "thumbnail": "thumbnails/1l4tpmz.webp",
     "tags": [
-      "Monaco",
-      "Groupe",
-      "Commission",
-      "Éco / Conso",
-      "Monde"
+      "Union européenne"
     ],
     "analyzed_at": "2026-11-01T11:12:06.452910+00:00"
   },
@@ -3694,11 +3206,9 @@
     "summary": "Avigdor Lieberman, leader du parti d’opposition Yisrael Beiteinu et ancien ministre de la Défense, a accusé ce jeudi le gouvernement Netanyahu de livrer des armes à des factions palestiniennes rivales du Hamas. L’ancien ministre cite le groupe d’un certain Yasser Abu Shabab, qui opère dans le sud de la bande de Gaza.",
     "thumbnail": "thumbnails/1l4t9vo.webp",
     "tags": [
-      "Gaza",
-      "Hamas",
-      "Yasser Abu Shabab",
-      "Netanyahu",
-      "Monde"
+      "Benyamin Netanyahou",
+      "Conflit israélo-palestinien",
+      "Terrorisme"
     ],
     "analyzed_at": "2026-11-01T11:12:08.823146+00:00"
   },
@@ -3719,13 +3229,7 @@
     "ingested_at": "2026-11-01T11:09:27.388849+00:00",
     "summary": "Coups de poing, menaces de mort, insultes racistes… Selon nos informations, 15 militants d’ultradroite ont été interpellés et mis en examen pour avoir agressé et insulté le personnel d’origine maghrébine d’une brasserie à Paris et attaqué un local de travailleurs turcs dans le 10e arrondissement. La...",
     "thumbnail": "thumbnails/1l4r09y.webp",
-    "tags": [
-      "Paris",
-      "BFMTV",
-      "Hussards",
-      "Mathieu",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:12:06.560258+00:00"
   },
   {
@@ -3746,9 +3250,7 @@
     "summary": "Selon une source proche du dossier, le parquet antiterroriste français démarre ce vendredi 6 juin une enquête pour complicité de génocide dans le cadre du blocage de l’aide humanitaire à Gaza.",
     "thumbnail": "thumbnails/1l4pri6.webp",
     "tags": [
-      "Gaza",
-      "Guerre-hamas-israel",
-      "Israel"
+      "Conflit israélo-palestinien"
     ],
     "analyzed_at": "2026-11-01T11:12:13.744465+00:00"
   },
@@ -3771,10 +3273,7 @@
     "thumbnail": "thumbnails/1l4ot24.webp",
     "tags": [
       "Rachida Dati",
-      "Paris",
-      "Emmanuel Macron",
-      "VIDEO",
-      "Politique"
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T11:12:06.996064+00:00"
   },
@@ -3796,11 +3295,8 @@
     "summary": "INFO FRANCE 3. Quatre personnes ont été placées en garde à vue ce mercredi 4 juin, après une perquisition dans une très grande propriété du nord de la Sologne, près d'Orléans, appartenant au milliardaire Olivier Bouygues....",
     "thumbnail": "thumbnails/1l4nyqb.webp",
     "tags": [
-      "Olivier Bouygues",
-      "Sologne",
-      "FRANCE 3",
-      "Orléans",
-      "Société"
+      "Justice",
+      "Cause animale"
     ],
     "analyzed_at": "2026-11-01T11:12:07.426924+00:00"
   },
@@ -3822,11 +3318,8 @@
     "summary": "Selon la CGT, il s'agit de 19 palettes de maillons fabriqués par l'entreprise marseillaise Eurolinks à destination d'Haïfa, en Israël.",
     "thumbnail": "thumbnails/1l4kyjx.webp",
     "tags": [
-      "Israël",
-      "Gaza",
-      "Marseille-Fos",
-      "Armées",
-      "Politique"
+      "Conflit israélo-palestinien",
+      "Défense"
     ],
     "analyzed_at": "2026-11-01T11:12:07.667958+00:00"
   },
@@ -3849,38 +3342,9 @@
     "thumbnail": "thumbnails/1l48t4o.webp",
     "tags": [
       "Donald Trump",
-      "Elon Musk",
-      "État",
-      "Tesla et SpaceX",
-      "Politique"
+      "Elon Musk"
     ],
     "analyzed_at": "2026-11-01T11:12:07.666403+00:00"
-  },
-  {
-    "id": "1l48nhz",
-    "title": "Elon Musk claims Donald Trump is in Jeffrey Epstein files : \"That is the real reason they haven’t been made public\"",
-    "url": "https://variety.com/2025/digital/news/elon-musk-donald-trump-jeffrey-epstein-files-1236420466/",
-    "permalink": "/r/france/comments/1l48nhz/elon_musk_claims_donald_trump_is_in_jeffrey/",
-    "created_at": "2025-06-05T19:45:56+00:00",
-    "score": 1028,
-    "num_comments": 142,
-    "subreddit": "france",
-    "author": "ijic",
-    "flair": "Politique",
-    "domain": "variety.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/zT5ce2AohMHuBgHlx-EZEzMcvV1zlX1CTe7wQHb_4h8.jpeg?auto=webp&s=4d417e30c8665339baacd0192af2ae2e9b3559e2",
-    "ingested_at": "2026-11-01T11:09:27.385720+00:00",
-    "summary": "Elon Musk -- amid a real-time escalating feud Thursday with President Trump -- claimed that Trump is \"in the Epstein files.\"",
-    "thumbnail": "thumbnails/1l48nhz.webp",
-    "tags": [
-      "Elon Musk",
-      "Epstein",
-      "Jeffrey Epstein",
-      "Trump",
-      "Politique"
-    ],
-    "analyzed_at": "2026-11-01T11:12:08.790980+00:00"
   },
   {
     "id": "1l4545f",
@@ -3899,39 +3363,8 @@
     "ingested_at": "2026-11-01T11:09:27.390405+00:00",
     "summary": "Pour contourner l’arrêt décidé par ces sites dans l’Hexagone, les internautes se tournent vers ces outils qui leur permettent notamment de se géolocaliser dans d’autres territoires.",
     "thumbnail": "thumbnails/1l4545f.webp",
-    "tags": [
-      "VPN",
-      "Pornhub",
-      "Youporn",
-      "Hexagone",
-      "Tech"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:12:08.615261+00:00"
-  },
-  {
-    "id": "1l44nrr",
-    "title": "Rayen, étudiant en 5e année de médecine, sous OQTF : « Quand j’ai ouvert le courrier, ça m’a anéanti »",
-    "url": "https://www.lequotidiendumedecin.fr/jeunes-medecins/formation-initiale/rayen-etudiant-en-5e-annee-de-medecine-sous-oqtf-quand-jai-ouvert-le-courrier-ca-ma-aneanti",
-    "permalink": "/r/france/comments/1l44nrr/rayen_étudiant_en_5e_année_de_médecine_sous_oqtf/",
-    "created_at": "2025-06-05T17:09:33+00:00",
-    "score": 370,
-    "num_comments": 78,
-    "subreddit": "france",
-    "author": "[deleted]",
-    "flair": "Société",
-    "domain": "lequotidiendumedecin.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/96_m_1Xe4bprya4VkOSS_yDsAT7Y1jhD3aILx9pj6cI.jpeg?auto=webp&s=a3129baf3f113800bae4be824d800a38b3d1fa71",
-    "ingested_at": "2026-11-01T11:09:27.388400+00:00",
-    "summary": "Le 10 mars dernier, Rayen Fakhfakh, étudiant en cinquième année de médecine âgé de 21 ans, sortait d’une longue garde lorsqu’il s’est rendu à la Poste pour récupérer un courrier recommandé provenant de la préfecture. « Je me souviens qu’en chemin, j’étais heureux.",
-    "thumbnail": "thumbnails/1l44nrr.webp",
-    "tags": [
-      "OQTF",
-      "Rayen Fakhfakh",
-      "Poste",
-      "Société"
-    ],
-    "analyzed_at": "2026-11-01T11:12:09.132245+00:00"
   },
   {
     "id": "1l44edq",
@@ -3951,9 +3384,7 @@
     "summary": "",
     "thumbnail": "thumbnails/1l44edq.webp",
     "tags": [
-      "Etat Islamique",
-      "Hamas",
-      "Monde"
+      "Conflit israélo-palestinien"
     ],
     "analyzed_at": "2026-11-01T11:12:10.295273+00:00"
   },
@@ -3975,10 +3406,7 @@
     "summary": "Après avoir évincé le personnel de l’Institut américain pour la paix, l’équipe de Musk aurait laissé les lieux dans un état apocalyptique, suscitant l’indignation et des réparations à six chiffres.",
     "thumbnail": "thumbnails/1l43s8q.webp",
     "tags": [
-      "Musk",
-      "Institut",
-      "Elon Musk",
-      "Politique"
+      "Elon Musk"
     ],
     "analyzed_at": "2026-11-01T11:12:09.847550+00:00"
   },
@@ -3999,7 +3427,10 @@
     "ingested_at": "2026-11-01T11:09:27.389890+00:00",
     "summary": "",
     "thumbnail": "thumbnails/1l3x1ph.webp",
-    "tags": [],
+    "tags": [
+      "Police",
+      "Éducation"
+    ],
     "analyzed_at": "2026-11-01T11:12:09.458542+00:00"
   },
   {
@@ -4020,11 +3451,7 @@
     "summary": "Builder.ai, autrefois valorisée plus d’un milliard d’euros, vient de plier sous le poids d’une imposture sophistiquée. Derrière son « intelligence artificielle » se cachaient en réalité 700 développeurs basés en Inde, révélant les failles de la frénésie d’investissement actuelle autour de l’IA générative.",
     "thumbnail": "thumbnails/1l3rxsc.webp",
     "tags": [
-      "IA",
-      "Microsoft",
-      "Indiens",
-      "Inde",
-      "Natasha"
+      "Intelligence artificielle"
     ],
     "analyzed_at": "2026-11-01T11:12:09.954687+00:00"
   },
@@ -4046,7 +3473,7 @@
     "summary": "",
     "thumbnail": "thumbnails/1l3qoll.webp",
     "tags": [
-      "Société"
+      "Santé"
     ],
     "analyzed_at": "2026-11-01T11:12:09.407973+00:00"
   },
@@ -4067,13 +3494,7 @@
     "ingested_at": "2026-11-01T11:09:27.388301+00:00",
     "summary": "La municipalité de Bidart est la première au Pays Basque à instaurer \"une servitude de résidence principale\" à toutes les constructions nouvelles de sa Zone d'Aménagement Concertée Horizon \"trois couronnes\", dans le centre bourg, en se saisissant de la loi Echaniz-Le Meur votée en novembre dernier.",
     "thumbnail": "thumbnails/1l3bxif.webp",
-    "tags": [
-      "Pays Basque",
-      "Airbnb",
-      "Logement",
-      "Tourisme",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:12:10.085496+00:00"
   },
   {
@@ -4094,9 +3515,7 @@
     "summary": "Alors que la guerre fait rage en Palestine, un cargo israélien doit charger, ce jeudi, 14 tonnes de pièces détachées pour fusils mitrailleurs, au port de Fos-sur-Mer. Les dockers marseillais refusent de participer à ce \"génocide\"...",
     "thumbnail": "thumbnails/1l39m20.webp",
     "tags": [
-      "Israël",
-      "Palestine",
-      "Fos-sur-Mer"
+      "Conflit israélo-palestinien"
     ],
     "analyzed_at": "2026-11-01T11:12:10.031458+00:00"
   },
@@ -4118,11 +3537,8 @@
     "summary": "Sur YouTube, des collaborations troublantes se multiplient. Les riches entrepreneurs dÃ©roulent le tapis rouge Ã des figures bien connues de la fachosphÃ¨re ou du masculinisme, derriÃ¨re des discours sur le dÃ©veloppement personnel et le libÃ©ralisme.",
     "thumbnail": "thumbnails/1l371j3.webp",
     "tags": [
-      "YouTube",
       "Elon Musk",
-      "Oussama Ammar",
-      "Â Â",
-      "Société"
+      "Extrême droite"
     ],
     "analyzed_at": "2026-11-01T11:12:10.237439+00:00"
   },
@@ -4144,11 +3560,7 @@
     "summary": "Un cargo israélien va faire escale, jeudi 5 juin, à Fos-sur-Mer, près de Marseille. Le Contship Era doit embarquer le même jour, et en secret, 14 tonnes de pièces détachées pour fusils mitrailleurs.",
     "thumbnail": "thumbnails/1l332wm.webp",
     "tags": [
-      "Israël",
-      "Disclose",
-      "Contship Era",
-      "Eurolinks",
-      "Fos-sur-Mer"
+      "Conflit israélo-palestinien"
     ],
     "analyzed_at": "2026-11-01T11:12:10.562329+00:00"
   },
@@ -4170,7 +3582,7 @@
     "summary": "Plus de 3.800 sites présentent un \"potentiel de transformation\". D'ici 25 ans, 1,6 million de logements pourraient y être créés.",
     "thumbnail": "thumbnails/1l31iy2.webp",
     "tags": [
-      "Économie"
+      "Logement"
     ],
     "analyzed_at": "2026-11-01T11:12:10.259413+00:00"
   },
@@ -4192,9 +3604,8 @@
     "summary": "",
     "thumbnail": "thumbnails/1l3178n.webp",
     "tags": [
-      "Marine le Pen",
-      "Pas-de-Calais",
-      "Politique"
+      "Marine Le Pen",
+      "Justice"
     ],
     "analyzed_at": "2026-11-01T11:12:11.567884+00:00"
   },
@@ -4216,9 +3627,7 @@
     "summary": "La créatrice de la saga à succès vient d’annoncer la création d’un fonds privé destiné à soutenir les initiatives juridiques transphobes. Celui-ci sera directement financé par sa fortune, issue de ses livres et de leurs adaptations, dont la future série HBO.",
     "thumbnail": "thumbnails/1l30wlp.webp",
     "tags": [
-      "Harry Potter",
-      "HBO",
-      "Société"
+      "LGBT+"
     ],
     "analyzed_at": "2026-11-01T11:12:10.511579+00:00"
   },
@@ -4240,9 +3649,8 @@
     "summary": "",
     "thumbnail": "thumbnails/1l2zxk5.webp",
     "tags": [
-      "Var",
-      "Christophe B",
-      "Société"
+      "Racisme",
+      "Terrorisme"
     ],
     "analyzed_at": "2026-11-01T11:12:10.689464+00:00"
   },
@@ -4263,12 +3671,7 @@
     "ingested_at": "2026-11-01T11:09:27.390935+00:00",
     "summary": "L’ingénieur Jean-Marc Jancovici juge l’abandon de la voiture inévitable à long terme. L’association «40 millions d’automobilistes» dénonce «une vision trop urbaine».",
     "thumbnail": "thumbnails/1l2igy0.webp",
-    "tags": [
-      "Jean-Marc Jancovici",
-      "Écologie",
-      "Voitures électriques",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:12:11.061761+00:00"
   },
   {
@@ -4289,11 +3692,7 @@
     "summary": "L'évolution de ce dispositif réglementaire rendu obligatoire en 2021, n'a pas été suffisamment anticipée, regrette la Cour. Si la fraude caractérisée semble marginale, de nombreuses anomalies ont été constatées parmi les entreprises qui effectuent les diagnostics.",
     "thumbnail": "thumbnails/1l2gmf8.webp",
     "tags": [
-      "Cour",
-      "DPE",
-      "Immobilier",
-      "Éco / Conso",
-      "Économie"
+      "Logement"
     ],
     "analyzed_at": "2026-11-01T11:12:11.032624+00:00"
   },
@@ -4314,11 +3713,7 @@
     "ingested_at": "2026-11-01T11:09:27.390859+00:00",
     "summary": "Plusieurs établissements fréquentés par la communauté juive ont été ciblés à Paris samedi 31 mai par des jets de peinture verte. Trois hommes de nationalité serbe ont été interpellés près d'Antibes ce lundi 2 juin.",
     "thumbnail": "thumbnails/1l2e0c6.webp",
-    "tags": [
-      "Serbes",
-      "Paris",
-      "Antibes"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:12:11.047519+00:00"
   },
   {
@@ -4338,13 +3733,7 @@
     "ingested_at": "2026-11-01T11:09:27.386158+00:00",
     "summary": "La maison mère de ces sites pour adultes, Aylo, basée à Chypre, dénonce l'obligation faite par le gouvernement français de mettre en place des systèmes de vérification d'âge. A la place des vidéos, les plateformes du groupe afficheront un message contre cette loi.",
     "thumbnail": "thumbnails/1l2bdje.webp",
-    "tags": [
-      "Pornhub",
-      "Redtube",
-      "Aylo",
-      "Chypre",
-      "Culture"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:12:11.030651+00:00"
   },
   {
@@ -4365,11 +3754,8 @@
     "summary": "Nahel Merzouk, 17 ans, a été tué le 27 juin 2023 d'une balle tirée à bout portant par un policier qui contrôlait le véhicule qu'il conduisait.",
     "thumbnail": "thumbnails/1l2b6hh.webp",
     "tags": [
-      "Nahel",
-      "Nahel Merzouk",
-      "Mort de Nahel à Nanterre",
-      "Faits-divers",
-      "Justice – Procès"
+      "Police",
+      "Justice"
     ],
     "analyzed_at": "2026-11-01T11:12:11.298330+00:00"
   },
@@ -4391,11 +3777,11 @@
     "summary": "Le média en ligne Les jours révèle l’existence d’un groupe Facebook privé à la gloire de Jordan Bardella. On y retrouve des contenus racistes, islamophobes, homophobes… et neuf d...",
     "thumbnail": "thumbnails/1l2azd8.webp",
     "tags": [
-      "Facebook",
-      "RN",
+      "Racisme",
+      "LGBT+",
       "Jordan Bardella",
-      "Nicolas Dragon",
-      "Politique"
+      "Antisémitisme",
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T11:12:11.844629+00:00"
   },
@@ -4416,10 +3802,7 @@
     "ingested_at": "2026-11-01T11:09:27.389401+00:00",
     "summary": "Un amendement supposé accélérer les projets “d’intérêt national majeur” en les affranchissant de fouilles préventives est à l’étude à l’Assemblée nationale. Les archéologues sont inquiets, dans un secteur déjà fragilisé par le manque de moyens.",
     "thumbnail": "thumbnails/1l2aq99.webp",
-    "tags": [
-      "Assemblée",
-      "Science"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:12:11.420902+00:00"
   },
   {
@@ -4440,9 +3823,7 @@
     "summary": "",
     "thumbnail": "thumbnails/1l24zy8.webp",
     "tags": [
-      "Tunisien",
-      "Var",
-      "Parquet"
+      "Extrême droite"
     ],
     "analyzed_at": "2026-11-01T11:12:11.600446+00:00"
   },
@@ -4463,13 +3844,7 @@
     "ingested_at": "2026-11-01T11:09:27.385801+00:00",
     "summary": "L’association de consommateurs dépose deux plaintes contre le géant de l’agroalimentaire, après les révélations sur la microfiltration illégale des eaux Perrier et les soupçons de dissimulation par l’État.",
     "thumbnail": "thumbnails/1l24nid.webp",
-    "tags": [
-      "Nestlé",
-      "UFC-Que Choisir",
-      "Perrier",
-      "Industrie",
-      "État"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:12:11.627812+00:00"
   },
   {
@@ -4490,11 +3865,7 @@
     "summary": "Le texte a été adopté lundi en première lecture par la totalité des 197 députés présents. Le rapporteur, Charles Sitzenstuhl (Renaissance), a salué un vote \"qui restera dans l'histoire\" et appelé les sénateurs \"à se saisir rapidement du texte\".",
     "thumbnail": "thumbnails/1l1mbe5.webp",
     "tags": [
-      "Alfred Dreyfus",
-      "Charles Sitzenstuhl",
-      "Assemblée",
-      "Assemblée nationale",
-      "Société"
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T11:12:11.619994+00:00"
   },
@@ -4516,11 +3887,7 @@
     "summary": "Un homme se présentant comme militant de Greenpeace a revendiqué le vol. Les militants ont ensuite déposée la statue devant l'ambassade de Russie en signe de protestation contre les liens économiques de la France avec la Russie. Deux personnes ont été interpellées.",
     "thumbnail": "thumbnails/1l1hrdi.webp",
     "tags": [
-      "Russie",
-      "Emmanuel Macron",
-      "Grévin",
-      "Paris",
-      "Greenpeace"
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T11:12:12.195252+00:00"
   },
@@ -4542,11 +3909,9 @@
     "summary": "Un événement de soutien à l’armée israélienne a eu lieu le 27 mai en présence de figures médiatiques et politiques françaises. Le député LFI Aymeric Caron a saisi le parquet p...",
     "thumbnail": "thumbnails/1l1h73f.webp",
     "tags": [
-      "Gaza",
-      "Paris",
-      "LFI Aymeric Caron",
-      "Payant",
-      "Monde"
+      "Conflit israélo-palestinien",
+      "Extrême droite",
+      "Médias"
     ],
     "analyzed_at": "2026-11-01T11:12:12.313926+00:00"
   },
@@ -4568,7 +3933,7 @@
     "summary": "",
     "thumbnail": "thumbnails/1l1f7yc.webp",
     "tags": [
-      "Politique"
+      "Médias"
     ],
     "analyzed_at": "2026-11-01T11:12:12.272322+00:00"
   },
@@ -4590,8 +3955,7 @@
     "summary": "",
     "thumbnail": "thumbnails/1l1d46s.webp",
     "tags": [
-      "Confédération",
-      "Société"
+      "Grèves et syndicats"
     ],
     "analyzed_at": "2026-11-01T11:12:12.185010+00:00"
   },
@@ -4613,11 +3977,7 @@
     "summary": "Cet historien de 42 ans l'emporte au terme d'un scrutin indécis avec 50,89% des voix, alors que le candidat pro-européen Rafal Trzaskowski avait d'abord été donné vainqueur d'une courte tête dans la soirée.",
     "thumbnail": "thumbnails/1l1a0dz.webp",
     "tags": [
-      "Karol Nawrocki",
-      "Pologne",
-      "Rafal Trzaskowski",
-      "Ukraine",
-      "Monde"
+      "Élection présidentielle"
     ],
     "analyzed_at": "2026-11-01T11:12:12.002179+00:00"
   },
@@ -4639,11 +3999,8 @@
     "summary": "Une mission humanitaire a quitté l'Italie en direction de la Palestine, ce dimanche 1er juin. On retrouve notamment à son bord l'eurodéputée Rima Hassan et la militante écologiste Greta Thunberg.",
     "thumbnail": "thumbnails/1l0yz2r.webp",
     "tags": [
-      "Gaza",
       "Rima Hassan",
-      "Greta Thunberg et Rima Hassan",
-      "Greta Thunberg",
-      "Politique"
+      "Conflit israélo-palestinien"
     ],
     "analyzed_at": "2026-11-01T11:12:11.973250+00:00"
   },
@@ -4665,9 +4022,7 @@
     "summary": "Un cinquantenaire a été interpellé samedi soir à Puget-sur-Argens après avoir ouvert le feu sur deux voisins, tuant l'un et blessant l'autre. Avant et après son passage à l'acte, il avait publié des vidéos à caractère raciste...",
     "thumbnail": "thumbnails/1l0yrep.webp",
     "tags": [
-      "Puget-sur-Argens",
-      "SOS Racisme",
-      "Fait Divers"
+      "Racisme"
     ],
     "analyzed_at": "2026-11-01T11:12:12.598002+00:00"
   },
@@ -4689,10 +4044,8 @@
     "summary": "Quatre bases aériennes russes ont été prises pour cible par l’armée ukrainienne, ce dimanche 1er juin.",
     "thumbnail": "thumbnails/1l0osck.webp",
     "tags": [
-      "Russie",
-      "Ukraine",
-      "SBU",
-      "Monde"
+      "Guerre en Ukraine",
+      "Défense"
     ],
     "analyzed_at": "2026-11-01T11:12:12.680848+00:00"
   },
@@ -4713,9 +4066,7 @@
     "ingested_at": "2026-11-01T11:09:27.389785+00:00",
     "summary": "",
     "thumbnail": "thumbnails/1l0kuvv.webp",
-    "tags": [
-      "Culture"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:12:12.710129+00:00"
   },
   {
@@ -4736,11 +4087,7 @@
     "summary": "A Alès, dans le Gard, un groupuscule d'extrême droite, bien connu des services de police, s'est attaqué à des clients du bar Le Prolé, QG de militants communistes ce vendredi 30 mai, vers 22h30. Une vingtaine de personnes...",
     "thumbnail": "thumbnails/1l0gnxe.webp",
     "tags": [
-      "Alès",
-      "Prolé",
-      "Gard",
-      "QG",
-      "Fait Divers"
+      "Extrême droite"
     ],
     "analyzed_at": "2026-11-01T11:12:12.691742+00:00"
   }

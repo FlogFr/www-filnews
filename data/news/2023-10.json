@@ -1,27 +1,5 @@
 [
   {
-    "id": "17kvlu7",
-    "title": "Le présentateur de TPMP Cyril Hanouna affirme que boycotter son émission est \"un acte antisémite\". (déclaration)",
-    "url": "https://imgur.io/a/Bj2k1e1",
-    "permalink": "/r/france/comments/17kvlu7/le_présentateur_de_tpmp_cyril_hanouna_affirme_que/",
-    "created_at": "2023-10-31T21:15:31+00:00",
-    "score": 428,
-    "num_comments": 310,
-    "subreddit": "france",
-    "author": "Starmina",
-    "flair": "Actus",
-    "domain": "imgur.io",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/Fzukk9B9hRmgBT0FG8l1eikLNbR58oLiwfoZVlyiNAc.jpg?auto=webp&s=53d2d553e376a021c7850f04972f69b49939182a",
-    "ingested_at": "2026-11-01T10:46:31.503657+00:00",
-    "summary": "Discover the magic of the internet at Imgur, a community powered entertainment destination. Lift your spirits with funny jokes, trending memes, entertaining gifs, inspiring stories, viral videos, and so much more from users.",
-    "thumbnail": "thumbnails/17kvlu7.webp",
-    "tags": [
-      "TPMP Cyril Hanouna"
-    ],
-    "analyzed_at": "2026-11-01T10:48:40.179656+00:00"
-  },
-  {
     "id": "17kkcpo",
     "title": "Sondage : Jean-Luc Mélenchon devient la personnalité politique la plus rejetée avec 62 % d'opinions défavorables",
     "url": "https://www.publicsenat.fr/actualites/politique/sondage-jean-luc-melenchon-devient-la-personnalite-politique-qui-suscite-le-plus-de-rejet-dans-lopinion",
@@ -40,10 +18,7 @@
     "thumbnail": "thumbnails/17kkcpo.webp",
     "tags": [
       "Jean-Luc Mélenchon",
-      "Français",
-      "Proche-Orient",
-      "Odoxa",
-      "Politique"
+      "Élections"
     ],
     "analyzed_at": "2026-11-01T10:48:41.742354+00:00"
   },
@@ -65,11 +40,8 @@
     "summary": "Le rabbin Delphine Horvilleur a fustigé le parallèle tracé par le chroniqueur de France Inter entre le premier ministre israélien et le nazisme. De nombreux internautes ont pointé «l’antisémitisme» de l’humoriste. L’avocat Gilles-William Goldnadel envisage de porter plainte.",
     "thumbnail": "thumbnails/17kgv2k.webp",
     "tags": [
-      "Guillaume Meurice",
       "Benyamin Netanyahou",
-      "Netanyahou",
-      "Antisémitisme",
-      "Politique"
+      "Antisémitisme"
     ],
     "analyzed_at": "2026-11-01T10:48:41.149302+00:00"
   },
@@ -91,8 +63,7 @@
     "summary": "Les sénateurs ont adopté à 221 voix contre 82 une proposition de loi de la droite visant à « protéger » le français « des dérives de l'écriture dite inclusive ».",
     "thumbnail": "thumbnails/17kfpwf.webp",
     "tags": [
-      "Sénat",
-      "Politique"
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T10:48:41.418995+00:00"
   },
@@ -114,11 +85,8 @@
     "summary": "Â« Ils ont dit quâils rÃ©duiraient les impÃ´ts sur la fortune comme sur les entreprises et quâils rendraient plus facile pour nous de licencier des salariÃ©s.",
     "thumbnail": "thumbnails/17ju1gj.webp",
     "tags": [
-      "Financial Times",
-      "ISF",
-      "Macron",
-      "Wall Street",
-      "Politique"
+      "Budget et fiscalité",
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T10:48:41.531912+00:00"
   },
@@ -140,9 +108,8 @@
     "summary": "",
     "thumbnail": "thumbnails/17joa8k.webp",
     "tags": [
-      "Juifs de France",
-      "Arabes de France",
-      "Hamas"
+      "Conflit israélo-palestinien",
+      "Terrorisme"
     ],
     "analyzed_at": "2026-11-01T10:48:41.131400+00:00"
   },
@@ -164,11 +131,7 @@
     "summary": "Des manifestants se sont introduits sur le tarmac de l'aéroport de Makhatchkala, capitale de la république russe du Daguestan, à la recherche des passagers d'un vol en provenance d'Israël. Les autorités russes ont dû...",
     "thumbnail": "thumbnails/17jdlxv.webp",
     "tags": [
-      "Israël",
-      "Russie",
-      "Makhatchkala",
-      "VIDEO",
-      "Politique"
+      "Conflit israélo-palestinien"
     ],
     "analyzed_at": "2026-11-01T10:48:41.823662+00:00"
   },
@@ -190,10 +153,8 @@
     "summary": "406 personnes ont été interpellées pour des actes antisémites en France depuis l'attaque lancée par le Hamas contre Israël le 7 octobre. Plus de 300 procédures judiciaires ont eu lieu ou sont en cours.",
     "thumbnail": "thumbnails/17iyk42.webp",
     "tags": [
-      "Guerre Israël-Hamas",
-      "Hamas",
-      "Israël le 7",
-      "Société"
+      "Antisémitisme",
+      "Conflit israélo-palestinien"
     ],
     "analyzed_at": "2026-11-01T10:48:41.533263+00:00"
   },
@@ -215,11 +176,7 @@
     "summary": "Selon un récent sondage du quotidien Bild, le parti de gauche anti-immigration de Sahra Wagenknecht atteint les 12% d'intentions de vote. Die Linke récupère des électeurs du parti d'extrême droite AfD.",
     "thumbnail": "thumbnails/17idghk.webp",
     "tags": [
-      "Sahra Wagenknecht",
-      "Die Linke",
-      "AfD",
-      "Bild",
-      "Politique"
+      "Élections"
     ],
     "analyzed_at": "2026-11-01T10:48:42.191447+00:00"
   },
@@ -241,11 +198,8 @@
     "summary": "Iakub Mogouchkov, fiché S et père de l’assaillant d’Arras, qui a tué Dominique Bernard le 13 octobre dernier, a témoigné sur BFMTV et a pointé «l’état mental anormal» de son fils.",
     "thumbnail": "thumbnails/17ibycv.webp",
     "tags": [
-      "Arras",
-      "Attentat Arras",
       "Terrorisme",
-      "Iakub Mogouchkov",
-      "BFMTV"
+      "Justice"
     ],
     "analyzed_at": "2026-11-01T10:48:42.536707+00:00"
   },
@@ -267,8 +221,7 @@
     "summary": "",
     "thumbnail": "thumbnails/17hkq8f.webp",
     "tags": [
-      "SDF",
-      "Société"
+      "Logement"
     ],
     "analyzed_at": "2026-11-01T10:48:42.026304+00:00"
   },
@@ -289,9 +242,7 @@
     "ingested_at": "2026-11-01T10:46:31.504013+00:00",
     "summary": "Ces cinq dernières années, plus de 35 personnes ont été blessées et une tuée par des tirs de lanceur de balles de défense. Pourtant, dans ses instructions, le ministère de l’intérieur a abaissé la di…",
     "thumbnail": "thumbnails/17hk3of.webp",
-    "tags": [
-      "LBD"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:48:42.735468+00:00"
   },
   {
@@ -312,11 +263,10 @@
     "summary": "Le préfet de police, Laurent Nuñez, a annoncé jeudi 26 octobre l’interdiction de la manifestation prévue samedi dans la capitale « en soutien avec le peuple palestinien ». Le collectif Urgence Palestine, qui avait appelé à une manifestation samedi au départ de Châtelet, a maintenu le rendez-vous.",
     "thumbnail": "thumbnails/17hhvuw.webp",
     "tags": [
+      "Police",
+      "Manifestations",
       "Laurent Nuñez",
-      "Urgence Palestine",
-      "Châtelet",
-      "Paris",
-      "Politique"
+      "Conflit israélo-palestinien"
     ],
     "analyzed_at": "2026-11-01T10:48:42.425301+00:00"
   },
@@ -338,11 +288,8 @@
     "summary": "A l'occasion des Jeux olympiques, plus de 2 000 étudiants vont devoir quitter leur logement Crous, réquisitionné pour les pompiers, soignants, forces de l'ordre et membres de la sécurité civile.",
     "thumbnail": "thumbnails/17h47lj.webp",
     "tags": [
-      "Jeux",
-      "JO",
-      "Crous",
-      "Paris",
-      "Société"
+      "Éducation",
+      "Logement"
     ],
     "analyzed_at": "2026-11-01T10:48:43.025411+00:00"
   },
@@ -364,9 +311,7 @@
     "summary": "En détaillant les mesures que le gouvernement compte prendre pour lutter contre les violences urbaines, la Première ministre a annoncé que les mineurs ayant commis des dégradations devront payer les dommages.",
     "thumbnail": "thumbnails/17h24ul.webp",
     "tags": [
-      "Première",
-      "Élisabeth Borne",
-      "Société"
+      "Élisabeth Borne"
     ],
     "analyzed_at": "2026-11-01T10:48:42.634969+00:00"
   },
@@ -388,11 +333,7 @@
     "summary": "Les utilisateurs français de la plateforme YouTube ou de jeux mobile ont été exposés à plusieurs vidéos de propagande issues du ministère israélien des affaires étrangères. Et ce pour un prix estimé à 4,6 millions de dollars.",
     "thumbnail": "thumbnails/17h143l.webp",
     "tags": [
-      "Israël",
-      "Hamas",
-      "Google",
-      "YouTube",
-      "Politique"
+      "Conflit israélo-palestinien"
     ],
     "analyzed_at": "2026-11-01T10:48:44.928171+00:00"
   },
@@ -414,11 +355,9 @@
     "summary": "Depuis lâattaque du Hamas contre IsraÃ«l le 7 octobre dernier, le climat dâantisÃ©mitisme connaÃ®t un regain dans les universitÃ©s franÃ§aises, selon plusieurs Ã©tudiants interrogÃ©s par StreetPress.",
     "thumbnail": "thumbnails/17fzrrq.webp",
     "tags": [
-      "Hamas",
-      "IsraÃ",
-      "Â Â",
-      "LÃ",
-      "Société"
+      "Antisémitisme",
+      "Éducation",
+      "Conflit israélo-palestinien"
     ],
     "analyzed_at": "2026-11-01T10:48:42.782521+00:00"
   },
@@ -440,11 +379,7 @@
     "summary": "Antonio Guterres a appelé à un cessez-le-feu humanitaire immédiat devant le Conseil de sécurité. «Dans quel monde vivez-vous ?» lui a répondu le ministre israélien des Affaires étrangères.",
     "thumbnail": "thumbnails/17fsidr.webp",
     "tags": [
-      "ONU",
-      "Israël",
-      "Hamas",
-      "Conseil",
-      "Politique"
+      "Conflit israélo-palestinien"
     ],
     "analyzed_at": "2026-11-01T10:48:47.489304+00:00"
   },
@@ -466,7 +401,8 @@
     "summary": "",
     "thumbnail": "thumbnails/17fppj9.webp",
     "tags": [
-      "Société"
+      "Immigration",
+      "Travail"
     ],
     "analyzed_at": "2026-11-01T10:48:43.228341+00:00"
   },
@@ -488,11 +424,7 @@
     "summary": "L’attentat commis par un Tunisien clandestin le 16 octobre à Bruxelles a mis en lumière la situation des personnes en situation irrégulière dans la capitale belge. Le chef de la police a révélé que ceux-ci représentent la moitié des individus interpellés le mois dernier.",
     "thumbnail": "thumbnails/17fk2dx.webp",
     "tags": [
-      "Bruxelles",
-      "Belgique",
-      "Immigration clandestine",
-      "Tunisien",
-      "Tijd"
+      "Union européenne"
     ],
     "analyzed_at": "2026-11-01T10:48:43.977910+00:00"
   },
@@ -513,38 +445,8 @@
     "ingested_at": "2026-11-01T10:46:31.505015+00:00",
     "summary": "La Nasa pousse des correctifs logiciels pour ses deux sondes Voyager 1 et 2. Ces ajustements sont censés prolonger la durée de vie de ces deux engins qui évoluent aujourd'hui dans l'espace interstellaire, mais l'agence spatiale américaine admet qu'il y a un risque. Elles ont quitté la Terre depuis quarante-six ans",
     "thumbnail": "thumbnails/17f70i1.webp",
-    "tags": [
-      "Terre",
-      "Nasa",
-      "Voyager",
-      "Voyager 1",
-      "Science"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:48:44.061995+00:00"
-  },
-  {
-    "id": "17eh28q",
-    "title": "Étude : en réponse aux prix élevés les Français font le choix de la déconsommation",
-    "url": "https://www.24matins.fr/etude-en-reponse-aux-prix-eleves-les-francais-font-le-choix-de-la-deconsommation-1365981",
-    "permalink": "/r/france/comments/17eh28q/étude_en_réponse_aux_prix_élevés_les_français/",
-    "created_at": "2023-10-23T10:21:20+00:00",
-    "score": 391,
-    "num_comments": 258,
-    "subreddit": "france",
-    "author": "chou-coco",
-    "flair": "Société",
-    "domain": "24matins.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/3dfM4j_noQ2GzaP0FdOXc6hc0KdF9sPa6o6IXPkEOt4.jpg?auto=webp&s=6dc6443f73d607db776a3ec2e428f954f93b4400",
-    "ingested_at": "2026-11-01T10:46:31.503867+00:00",
-    "summary": "Une étude sur le pouvoir d’achat (d'octobre 2023) remise par 'Que Choisir' montre que sous la contrainte de l’envolée des étiquettes, les ménages ont modifié le",
-    "thumbnail": "thumbnails/17eh28q.webp",
-    "tags": [
-      "Français",
-      "Choisir",
-      "Société"
-    ],
-    "analyzed_at": "2026-11-01T10:48:43.756618+00:00"
   },
   {
     "id": "17eehsm",
@@ -563,10 +465,7 @@
     "ingested_at": "2026-11-01T10:46:31.503279+00:00",
     "summary": "Un label « fait maison » existe en réalité depuis 2014, mais n’est pas obligatoire et donc « peu utilisé ». La ministre déléguée aux PME et",
     "thumbnail": "thumbnails/17eehsm.webp",
-    "tags": [
-      "PME",
-      "Économie"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:48:43.916566+00:00"
   },
   {
@@ -587,11 +486,7 @@
     "summary": "Las de ne pas recevoir l’argent du loyer de l’appartement situé promenade des Anglais qu’il avait mis en location, un Niçois investit le lieu, attend 48 heures, change les serrures et se déclare officiellement squatteur de son propre bien.",
     "thumbnail": "thumbnails/17dpx9k.webp",
     "tags": [
-      "Niçois",
-      "Nice",
-      "Anglais",
-      "Dany",
-      "Fait Divers"
+      "Logement"
     ],
     "analyzed_at": "2026-11-01T10:48:44.406310+00:00"
   },
@@ -612,13 +507,7 @@
     "ingested_at": "2026-11-01T10:46:31.505282+00:00",
     "summary": "Chaque annÃ©e, des millions dâallocataires doivent des sommes faramineuses Ã la Caf ou Ã PÃ´le emploi, souvent en raison dâune erreur de lâorganisme. Parfois Ã tort. Sarah, Pierre ou Adrien racontent Â«Â lâÃ©pÃ©e de DamoclÃ¨s au-dessus de la tÃªteÂ Â».",
     "thumbnail": "thumbnails/17dhhx3.webp",
-    "tags": [
-      "Caf",
-      "DamoclÃ",
-      "Ã la Caf",
-      "Ã PÃ",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:48:44.161321+00:00"
   },
   {
@@ -638,13 +527,7 @@
     "ingested_at": "2026-11-01T10:46:31.505421+00:00",
     "summary": "La mairie veut les éloigner de la Seine pour des raisons de sécurité mais hors de question pour les bouquinistes parisiens de plier bagage. Le métier, séculaire, fait toujours naître de nombreuses vocations.",
     "thumbnail": "thumbnails/17czmt0.webp",
-    "tags": [
-      "Paris",
-      "JO 2024",
-      "Seine",
-      "Sylvie Mathias",
-      "Sports"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:48:44.449900+00:00"
   },
   {
@@ -665,11 +548,7 @@
     "summary": "Karim Benzema, interpellation à Cannes… et la liste n’est pas exhaustive. Très régulièrement, le ministre de l’Intérieur tord la réalité et les statistiques, présente fallacieusement des phénomènes.",
     "thumbnail": "thumbnails/17cv0kn.webp",
     "tags": [
-      "Gérald Darmanin",
-      "Intérieur",
-      "Karim Benzema",
-      "Cannes",
-      "Social Issues"
+      "Gérald Darmanin"
     ],
     "analyzed_at": "2026-11-01T10:48:48.416085+00:00"
   },
@@ -691,10 +570,7 @@
     "summary": "Le chef de l'Etat reconnaît que le logement était un problème pour les étudiants mais a assuré à ses interlocuteurs qu'\"il n'y a[vait] pas un pays qui aid[ait] plus les étudiants que la France sur le plan social\".",
     "thumbnail": "thumbnails/17c9zc0.webp",
     "tags": [
-      "Paris",
-      "Emmanuel Macron",
-      "Etat",
-      "Économie"
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T10:48:44.479592+00:00"
   },
@@ -716,8 +592,7 @@
     "summary": "Les salariés en arrêt maladie continuent-ils à acquérir des congés payés pendant leur absence ? \"Oui\", a récemment tranché la Cour de cassation",
     "thumbnail": "thumbnails/17c7uby.webp",
     "tags": [
-      "Cour",
-      "Société"
+      "Travail"
     ],
     "analyzed_at": "2026-11-01T10:48:45.170636+00:00"
   },
@@ -739,10 +614,7 @@
     "summary": "Ce 18 octobre 2023, le Canard Enchainé a publié un article contenant un mail du directeur général de l'ARS Occitanie à l'attention de ses cadres leur rapportant une présence massive de polluants éternels dans l'eau...",
     "thumbnail": "thumbnails/17c5ah0.webp",
     "tags": [
-      "ARS Occitanie",
-      "Canard Enchainé",
-      "PFAS",
-      "Écologie"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T10:48:44.777114+00:00"
   },
@@ -763,10 +635,7 @@
     "ingested_at": "2026-11-01T10:46:31.504756+00:00",
     "summary": "",
     "thumbnail": "thumbnails/17bmlei.webp",
-    "tags": [
-      "ONU",
-      "Mali"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:48:44.883735+00:00"
   },
   {
@@ -787,11 +656,7 @@
     "summary": "À la suite d’un signalement, la police municipale de Valence est intervenue, demandant l’extinction immédiate de l’enseigne lumineuse. La première lettre éteinte, elle affichait «Hamas Tacos».",
     "thumbnail": "thumbnails/17bgowz.webp",
     "tags": [
-      "Chamas Tacos",
-      "Hamas",
-      "Valence",
-      "Hamas Tacos",
-      "Société"
+      "Conflit israélo-palestinien"
     ],
     "analyzed_at": "2026-11-01T10:48:44.881141+00:00"
   },
@@ -813,10 +678,7 @@
     "summary": "Un amendement déposé par le gouvernement prévoit de maintenir l’exemption de TVA dont bénéficient les locations de type Airbnb. Sous pression face à la crise du logement, le gouvernement a décidé de s’attaquer à la «niche fiscale Airbnb».",
     "thumbnail": "thumbnails/17bfi7s.webp",
     "tags": [
-      "Airbnb",
-      "TVA",
-      "Impots",
-      "Assemblee-nationale"
+      "Budget et fiscalité"
     ],
     "analyzed_at": "2026-11-01T10:48:50.868729+00:00"
   },
@@ -839,7 +701,7 @@
     "thumbnail": "thumbnails/17azqab.webp",
     "tags": [
       "Olivier Véran",
-      "Politique"
+      "Immigration"
     ],
     "analyzed_at": "2026-11-01T10:48:45.511463+00:00"
   },
@@ -861,11 +723,7 @@
     "summary": "INFO LE PARISIEN. Le Ballon d’or 2022 réfléchit à poursuivre en justice le ministre de l’Intérieur qui l’a présenté comme « en lien notoire",
     "thumbnail": "thumbnails/17ax54n.webp",
     "tags": [
-      "Darmanin",
-      "Intérieur",
-      "Ballon",
-      "Karim Benzema",
-      "Société"
+      "Gérald Darmanin"
     ],
     "analyzed_at": "2026-11-01T10:48:45.306907+00:00"
   },
@@ -887,11 +745,9 @@
     "summary": "«Il l'a cherché. C'est mérité», «Moi je vais dire Allah Akbar»... Sur les 179 contestations recensées, 68 relèvent de l’apologie du terrorisme.",
     "thumbnail": "thumbnails/17am5cg.webp",
     "tags": [
-      "Dominique Bernard",
-      "Arras",
-      "Apologie du terrorisme",
-      "École",
-      "Allah Akbar"
+      "Éducation",
+      "Gabriel Attal",
+      "Terrorisme"
     ],
     "analyzed_at": "2026-11-01T10:48:46.288778+00:00"
   },
@@ -913,10 +769,7 @@
     "summary": "\"La haine du juif et la haine flic se rejoignent. Pas par conviction, mais par calcul électoral\", a affirmé ce mardi le ministre de l'Intérieur à Créteil. Des propos qui ont choqué des députés PS et LFI.",
     "thumbnail": "thumbnails/17am43l.webp",
     "tags": [
-      "Intérieur",
-      "Créteil",
-      "PS et LFI",
-      "Politique"
+      "Gérald Darmanin"
     ],
     "analyzed_at": "2026-11-01T10:48:45.521212+00:00"
   },
@@ -938,9 +791,7 @@
     "summary": "La SNCF a annoncé vouloir arrêter sa pratique du cashback en mettant fin à son partenariat avec l'entreprise Webloyalty, spécialisée dans ce genre de techniques marketin. Après avoir payé son billet de train, l'utilisateur se voya...",
     "thumbnail": "thumbnails/17akscd.webp",
     "tags": [
-      "Webloyalty",
-      "SNCF",
-      "eCommerce"
+      "Transports"
     ],
     "analyzed_at": "2026-11-01T10:48:48.366338+00:00"
   },
@@ -962,10 +813,10 @@
     "summary": "La députée La France insoumise (LFI) est vivement critiquée par l'ensemble de la classe politique pour avoir qualifié le Hamas de \"mouvement de résistance\", en distinguant sa branche armée et sa branche politique.",
     "thumbnail": "thumbnails/179ua4h.webp",
     "tags": [
-      "Hamas",
-      "Danièle Obono",
-      "LFI",
-      "Politique"
+      "Conflit israélo-palestinien",
+      "Gérald Darmanin",
+      "Justice",
+      "Terrorisme"
     ],
     "analyzed_at": "2026-11-01T10:48:45.747641+00:00"
   },
@@ -986,9 +837,7 @@
     "ingested_at": "2026-11-01T10:46:31.504979+00:00",
     "summary": "",
     "thumbnail": "thumbnails/179s6ih.webp",
-    "tags": [
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:48:45.963814+00:00"
   },
   {
@@ -1009,9 +858,7 @@
     "summary": "Des images diffusées sur les réseaux sociaux montrent un homme, en gilet fluorescent, tirer à l’arme à feu en pleine rue. Le suspect est en fuite. Les contrôles aux frontières vont être renforcés, indique le ministère de l’Intérieur français.",
     "thumbnail": "thumbnails/179e5zh.webp",
     "tags": [
-      "Bruxelles",
-      "Belgique",
-      "Intérieur"
+      "Union européenne"
     ],
     "analyzed_at": "2026-11-01T10:48:46.782028+00:00"
   },
@@ -1033,11 +880,7 @@
     "summary": "Invité en 2017 dans l’émission, il avait alors fourni un arrêt maladie à son employeur ferroviaire pour justifier son absence. Après enquête",
     "thumbnail": "thumbnails/179azp0.webp",
     "tags": [
-      "SNCF",
-      "Tragédie",
-      "TPMP",
-      "AZ",
-      "Société"
+      "Transports"
     ],
     "analyzed_at": "2026-11-01T10:48:46.240403+00:00"
   },
@@ -1059,11 +902,7 @@
     "summary": "Un étudiant américain de 21 ans vient de parvenir à décrypter pour la première fois un mot entier dans l'un des rouleaux de papyrus d'Herculanum. La prouesse a été réalisée grâce à une intelligence artificielle.",
     "thumbnail": "thumbnails/1794lr1.webp",
     "tags": [
-      "Herculanum",
-      "IA",
-      "Vésuve",
-      "Luke Farritor",
-      "Science"
+      "Intelligence artificielle"
     ],
     "analyzed_at": "2026-11-01T10:48:46.580249+00:00"
   },
@@ -1085,11 +924,7 @@
     "summary": "Les langues se délient au sein des insoumis où certains commencent, aussi, à pointer un problème Mélenchon.",
     "thumbnail": "thumbnails/1794d06.webp",
     "tags": [
-      "Jean-Luc Mélenchon",
-      "Raquel Garrido",
-      "Mélenchon",
-      "Politics",
-      "Lfi"
+      "Jean-Luc Mélenchon"
     ],
     "analyzed_at": "2026-11-01T10:48:52.035690+00:00"
   },
@@ -1110,13 +945,7 @@
     "ingested_at": "2026-11-01T10:46:31.503533+00:00",
     "summary": "L'opposition menée par l'ancien Premier ministre Donald Tusk l'emporte à l'issue des élections législatives de dimanche, selon les sondages réalisés à la sortie des urnes. Les nationalistes ultra-conservateurs du PiS, au pouvoir depuis huit ans, seraient donc battus.",
     "thumbnail": "thumbnails/178n9pk.webp",
-    "tags": [
-      "Pologne",
-      "Donald Tusk",
-      "PiS",
-      "Premier",
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:48:51.967846+00:00"
   },
   {
@@ -1137,9 +966,7 @@
     "summary": "A mesure que la direction de LFI s’enlise de polémique en polémique, François Ruffin apparaît comme le seul autre présidentiable à gauche",
     "thumbnail": "thumbnails/178bjx4.webp",
     "tags": [
-      "François Ruffin",
-      "LFI",
-      "Politique"
+      "François Ruffin"
     ],
     "analyzed_at": "2026-11-01T10:48:47.182151+00:00"
   },
@@ -1161,36 +988,10 @@
     "summary": "INTERVIEW - Hassen Chalghoumi demande plus de fermeté au gouvernement, au lendemain de l’attentat islamiste dans lequel un professeur est mort à Arras.",
     "thumbnail": "thumbnails/177n426.webp",
     "tags": [
-      "Arras",
       "Gérald Darmanin",
-      "Drancy",
-      "Attaque terroriste",
-      "Hassen Chalghoumi"
+      "Terrorisme"
     ],
     "analyzed_at": "2026-11-01T10:48:47.997712+00:00"
-  },
-  {
-    "id": "177m2sd",
-    "title": "L'alerte des climatologues : « Les politiques actuelles nous conduisent vers une planète invivable »",
-    "url": "https://piped.video/watch?v=l5yr_ofS444",
-    "permalink": "/r/france/comments/177m2sd/lalerte_des_climatologues_les_politiques/",
-    "created_at": "2023-10-14T10:00:09+00:00",
-    "score": 255,
-    "num_comments": 95,
-    "subreddit": "france",
-    "author": "Le_Pouffre_Bleu",
-    "flair": "Société",
-    "domain": "piped.video",
-    "selftext": "",
-    "reddit_thumbnail": "",
-    "ingested_at": "2026-11-01T10:46:31.504720+00:00",
-    "summary": "An alternative privacy-friendly YouTube frontend which is efficient by design.",
-    "thumbnail": "thumbnails/177m2sd.webp",
-    "tags": [
-      "YouTube",
-      "Société"
-    ],
-    "analyzed_at": "2026-11-01T10:48:49.406857+00:00"
   },
   {
     "id": "177jluu",
@@ -1210,11 +1011,8 @@
     "summary": "Bien que le ministre français de l'Intérieur Gérald Darmanin ait demandé jeudi aux préfets d'interdire toute manifestation propalestinienne sur le territoire, plusieurs milliers de personnes se sont…",
     "thumbnail": "thumbnails/177jluu.webp",
     "tags": [
-      "Israël",
-      "Gérald Darmanin",
-      "Territoires palestiniens",
-      "Conflit israélo-palestinien",
-      "Société"
+      "Manifestations",
+      "Gérald Darmanin"
     ],
     "analyzed_at": "2026-11-01T10:48:47.790306+00:00"
   },
@@ -1236,11 +1034,8 @@
     "summary": "Two Al Jazeera reporters among group of journalists hit by Israeli artillery strike while reporting in south Lebanon.",
     "thumbnail": "thumbnails/1776pdm.webp",
     "tags": [
-      "Lebanon",
-      "Israeli",
-      "Israel",
-      "AFP",
-      "Liban"
+      "Conflit israélo-palestinien",
+      "Médias"
     ],
     "analyzed_at": "2026-11-01T10:48:49.950372+00:00"
   },
@@ -1262,11 +1057,9 @@
     "summary": "Sortant d’une salle de prière et armé d’un couteau, un homme a été interpellé ce vendredi à Limay près d’un lycée. En déplacement à Arras, Emmanuel Macron a évoqué une «tentative d’attentat».",
     "thumbnail": "thumbnails/17714ll.webp",
     "tags": [
-      "Yvelines",
-      "Arras",
-      "Limay",
-      "Emmanuel Macron",
-      "Fait Divers"
+      "Terrorisme",
+      "Éducation",
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T10:48:48.897738+00:00"
   },
@@ -1288,9 +1081,7 @@
     "summary": "Une attaque au couteau a eu lieu ce vendredi 13 octobre dans un lycée d'Arras.",
     "thumbnail": "thumbnails/176veve.webp",
     "tags": [
-      "Arras",
-      "BFMTV",
-      "Fait Divers"
+      "Éducation"
     ],
     "analyzed_at": "2026-11-01T10:48:48.692007+00:00"
   },
@@ -1312,11 +1103,7 @@
     "summary": "Les Nations unies ont appelé Tel-Aviv à \"annuler\" l'ordre d'évacuation de l'enclave palestinienne. \"Il est impossible qu'un tel mouvement s'opère sans des conséquences humanitaires dévastatrices\", a dit un porte-parole de l'ONU.",
     "thumbnail": "thumbnails/176pqai.webp",
     "tags": [
-      "Gaza",
-      "ONU",
-      "Nations",
-      "Tel-Aviv",
-      "Politique"
+      "Conflit israélo-palestinien"
     ],
     "analyzed_at": "2026-11-01T10:48:48.693846+00:00"
   },
@@ -1338,9 +1125,9 @@
     "summary": "Gérald Darmanin a ordonné jeudi l'interdiction des \"manifestations pro-palestiniennes, parce qu'elles sont susceptibles de générer des troubles à l'ordre public",
     "thumbnail": "thumbnails/1769zp2.webp",
     "tags": [
-      "Hamas",
       "Gérald Darmanin",
-      "Politique"
+      "Manifestations",
+      "Conflit israélo-palestinien"
     ],
     "analyzed_at": "2026-11-01T10:48:49.115816+00:00"
   },
@@ -1362,10 +1149,7 @@
     "summary": "Onze employés de l’agence des Nations unies pour les réfugiés palestiniens (UNRWA) ont été tués dans la bande de Gaza depuis samedi, a annoncé mercredi Stéphane Dujarric, porte-parole du secrétaire général de l’ONU. Il a précisé que 30 élèves des écoles opérées par cette agence avaient également été tués et 8 blessés.",
     "thumbnail": "thumbnails/1760mf3.webp",
     "tags": [
-      "ONU",
-      "Gaza",
-      "Israel",
-      "Times"
+      "Conflit israélo-palestinien"
     ],
     "analyzed_at": "2026-11-01T10:48:53.034909+00:00"
   },
@@ -1387,11 +1171,7 @@
     "summary": "Saisie par plusieurs associations, la plus haute juridiction administrative a rendu mercredi 11 octobre une décision imposant au ministère de l’Intérieur de rendre effectif le port du numéro d’identification des forces de l'ordre.",
     "thumbnail": "thumbnails/175c09z.webp",
     "tags": [
-      "Conseil Etat",
-      "RIO",
-      "Intérieur",
-      "LDH",
-      "Société"
+      "Police"
     ],
     "analyzed_at": "2026-11-01T10:48:57.085468+00:00"
   },
@@ -1413,9 +1193,7 @@
     "summary": "L’institution a adopté le 25 septembre de nouvelles règles pour interdire l’ajout de microplastiques dans les produits de grande consommation. Premières à trinquer dès la semaine prochaines : les paillettes libres, désormais interdites.",
     "thumbnail": "thumbnails/1758te3.webp",
     "tags": [
-      "Commission",
-      "Union-europeenne",
-      "Commission-europeenne"
+      "Union européenne"
     ],
     "analyzed_at": "2026-11-01T10:48:54.962944+00:00"
   },
@@ -1436,13 +1214,7 @@
     "ingested_at": "2026-11-01T10:46:31.504239+00:00",
     "summary": "Une association dénonce notamment l'inadaption des établissements scolaires sur un sujet relevant pourtant \"de la question de l’égalité\". Plus de la moitié des jeunes filles ont déjà manqué l'école à cause de leurs règles.",
     "thumbnail": "thumbnails/1758dpu.webp",
-    "tags": [
-      "Règles Élémentaires",
-      "Laury Gaube",
-      "Enfance et adolescence",
-      "Education",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:48:49.833384+00:00"
   },
   {
@@ -1463,11 +1235,7 @@
     "summary": "L’enquête annuelle « Fractures françaises » d’Ipsos/Sopra Steria révèle que si l’image du RN s’améliore de façon constante dans l’opinion, c",
     "thumbnail": "thumbnails/17511h2.webp",
     "tags": [
-      "RN",
-      "Français",
-      "Sopra Steria",
-      "LFI",
-      "Politique"
+      "Élections"
     ],
     "analyzed_at": "2026-11-01T10:48:50.207303+00:00"
   },
@@ -1490,9 +1258,8 @@
     "thumbnail": "thumbnails/174x1ih.webp",
     "tags": [
       "François Ruffin",
-      "LFI",
-      "Israël",
-      "Politique"
+      "Conflit israélo-palestinien",
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T10:48:50.309514+00:00"
   },
@@ -1513,35 +1280,8 @@
     "ingested_at": "2026-11-01T10:46:31.504496+00:00",
     "summary": "",
     "thumbnail": "thumbnails/174khb8.webp",
-    "tags": [
-      "Paris",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:48:50.621793+00:00"
-  },
-  {
-    "id": "173smxa",
-    "title": "[05/10/2023] LCP : Gérald Darmanin : \"Les biens sont aussi importants que les personnes\"",
-    "url": "https://www.dailymotion.com/video/x8ojxtk",
-    "permalink": "/r/france/comments/173smxa/05102023_lcp_gérald_darmanin_les_biens_sont_aussi/",
-    "created_at": "2023-10-09T14:04:15+00:00",
-    "score": 185,
-    "num_comments": 121,
-    "subreddit": "france",
-    "author": "Le_Pouffre_Bleu",
-    "flair": "Société",
-    "domain": "dailymotion.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/5rrym74_M1jh6QFQ5EDmmyk7w4FvUn-a5BB7iOI0_QM.jpeg?auto=webp&s=866dfe336017786c4f63714bca44df38798fa753",
-    "ingested_at": "2026-11-01T10:46:31.505258+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/173smxa.webp",
-    "tags": [
-      "LCP",
-      "Gérald Darmanin",
-      "Société"
-    ],
-    "analyzed_at": "2026-11-01T10:48:50.693263+00:00"
   },
   {
     "id": "173oftp",
@@ -1561,11 +1301,7 @@
     "summary": "Déguisés en ours polaires et autres otaries, des manifestants ont dénoncé la croisière et son impact environnemental, alors qu’un navire World Traveller débarquait dans le port du Finistère.",
     "thumbnail": "thumbnails/173oftp.webp",
     "tags": [
-      "Bretagne",
-      "Réchauffement climatique",
-      "World Traveller",
-      "Finistère",
-      "Écologie"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T10:48:51.628980+00:00"
   },
@@ -1586,13 +1322,7 @@
     "ingested_at": "2026-11-01T10:46:31.505144+00:00",
     "summary": "Voilà qui fait tâche à moins d’un an des JO. Sur les pelouses de la tour Eiffel, passage obligé des touristes à Paris, fourmillent des vende",
     "thumbnail": "thumbnails/17331iw.webp",
-    "tags": [
-      "Champ-de-Mars",
-      "Eiffel",
-      "Paris",
-      "JO",
-      "Fait Divers"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:48:51.049075+00:00"
   },
   {
@@ -1613,9 +1343,7 @@
     "summary": "",
     "thumbnail": "thumbnails/172zy88.webp",
     "tags": [
-      "Hamas",
-      "Israël",
-      "Etat"
+      "Conflit israélo-palestinien"
     ],
     "analyzed_at": "2026-11-01T10:48:51.239910+00:00"
   },
@@ -1637,11 +1365,7 @@
     "summary": "Si tous les bords ont déploré les attaques menées par le Hamas, la France insoumise a aussi mis en cause la politique israélienne vis-à-vis des Palestiniens.",
     "thumbnail": "thumbnails/1729rft.webp",
     "tags": [
-      "Israël",
-      "Hamas",
-      "LFI",
-      "Marine le Pen",
-      "Politique"
+      "Conflit israélo-palestinien"
     ],
     "analyzed_at": "2026-11-01T10:48:57.719136+00:00"
   },
@@ -1663,11 +1387,7 @@
     "summary": "Le Hamas revendique avoir tiré \"5 000 roquettes\". De son côté, l'armée israélienne a alerté sur l'intrusion de \"terroristes\" sur son territoire.",
     "thumbnail": "thumbnails/1723je1.webp",
     "tags": [
-      "Hamas",
-      "Israël",
-      "Gaza",
-      "Proche-orient",
-      "Monde"
+      "Conflit israélo-palestinien"
     ],
     "analyzed_at": "2026-11-01T10:48:51.716910+00:00"
   },
@@ -1688,13 +1408,7 @@
     "ingested_at": "2026-11-01T10:46:31.503964+00:00",
     "summary": "Le budget de la présidence de la République a «dérapé» de manière inédite en 2023, d’après une note du président de l’Observatoire de l’éthique publique.",
     "thumbnail": "thumbnails/171gjyf.webp",
-    "tags": [
-      "Observatoire",
-      "Elysée",
-      "République",
-      "René Dosière",
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:49:00.446343+00:00"
   },
   {
@@ -1716,10 +1430,8 @@
     "thumbnail": "thumbnails/1719ja2.webp",
     "tags": [
       "Nicolas Sarkozy",
-      "République",
-      "Paris",
-      "Ziad Takieddine",
-      "Politique"
+      "Justice",
+      "Corruption"
     ],
     "analyzed_at": "2026-11-01T10:48:52.158094+00:00"
   },
@@ -1741,33 +1453,9 @@
     "summary": "L’examen à l’Assemblée nationale de la réforme du revenu de solidarité active s’est conclu dans l’indifférence générale. Loin d’une politique ambitieuse de retour à l’emploi, elle conduira à des radi…",
     "thumbnail": "thumbnails/170gv1s.webp",
     "tags": [
-      "RSA",
-      "Assemblée"
+      "Pauvreté"
     ],
     "analyzed_at": "2026-11-01T10:48:53.517769+00:00"
-  },
-  {
-    "id": "170fmna",
-    "title": "Je suis tombé sur ce document de l'armée US qui explique la France et les français aux soldats américains basés en France après la libération.",
-    "url": "http://www.marshallfoundation.org/wp-content/uploads/2014/05/112-gripes-about-the-french.pdf",
-    "permalink": "/r/france/comments/170fmna/je_suis_tombé_sur_ce_document_de_larmée_us_qui/",
-    "created_at": "2023-10-05T11:34:04+00:00",
-    "score": 273,
-    "num_comments": 79,
-    "subreddit": "france",
-    "author": "lisible",
-    "flair": "Culture",
-    "domain": "marshallfoundation.org",
-    "selftext": "Je me dis que ça pourrait vous intéresser. C'est une perspective intéressante et quelque peu amusante.",
-    "reddit_thumbnail": "",
-    "ingested_at": "2026-11-01T10:46:31.504575+00:00",
-    "summary": "Je me dis que ça pourrait vous intéresser. C'est une perspective intéressante et quelque peu amusante.",
-    "thumbnail": "",
-    "tags": [
-      "US",
-      "Culture"
-    ],
-    "analyzed_at": "2026-11-01T10:48:52.315632+00:00"
   },
   {
     "id": "170cfn0",
@@ -1787,8 +1475,7 @@
     "summary": "Un rassemblement était organisé ce week-end en soutien au maire LFI de Grabels, victime d’une agression après une campagne haineuse de l’extrême droite. Cet élu, solidaire des migrants et critique de…",
     "thumbnail": "thumbnails/170cfn0.webp",
     "tags": [
-      "Grabels",
-      "LFI de Grabels"
+      "Extrême droite"
     ],
     "analyzed_at": "2026-11-01T10:48:53.146566+00:00"
   },
@@ -1810,36 +1497,9 @@
     "summary": "La députée LFI, intime de Jean-Luc Mélenchon depuis plus de dix ans, se retrouve dans la tourmente. Prochainement convoquée en vue d'une possible mise en examen pour \"escroquerie aggravée\", son attitude est également dénoncée en interne.",
     "thumbnail": "thumbnails/16zkmyw.webp",
     "tags": [
-      "Sophia Chikirou",
-      "Jean-Luc Mélenchon",
-      "LFI",
-      "Rachel",
-      "Politique"
+      "Jean-Luc Mélenchon"
     ],
     "analyzed_at": "2026-11-01T10:48:52.814164+00:00"
-  },
-  {
-    "id": "16z5k82",
-    "title": "Montpellier met en place la gratuité des transports en commun",
-    "url": "http://carfree.fr/index.php/2023/10/03/montpellier-met-en-place-la-gratuite-des-transports-en-commun/",
-    "permalink": "/r/france/comments/16z5k82/montpellier_met_en_place_la_gratuité_des/",
-    "created_at": "2023-10-03T22:24:48+00:00",
-    "score": 401,
-    "num_comments": 93,
-    "subreddit": "france",
-    "author": "djangogarib",
-    "flair": "Actus",
-    "domain": "carfree.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://b.thumbs.redditmedia.com/OyQgYIqGUBRkEyGD9UrTX1UlhQhWVH7JbjPaSVWwKvA.jpg",
-    "ingested_at": "2026-11-01T10:46:31.503817+00:00",
-    "summary": "Le 21 décembre 2023, Montpellier Méditerranée Métropole deviendra la plus grande métropole européenne à instaurer la gratuité des transports en commun pour tous ses habitants.",
-    "thumbnail": "thumbnails/16z5k82.webp",
-    "tags": [
-      "Montpellier",
-      "Métropole de Montpellier"
-    ],
-    "analyzed_at": "2026-11-01T10:48:53.784355+00:00"
   },
   {
     "id": "16ynz0l",
@@ -1858,11 +1518,7 @@
     "ingested_at": "2026-11-01T10:46:31.505202+00:00",
     "summary": "",
     "thumbnail": "thumbnails/16ynz0l.webp",
-    "tags": [
-      "Nobel",
-      "Autrichien Ferenc Krausz",
-      "Science"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:48:53.466681+00:00"
   },
   {
@@ -1883,11 +1539,8 @@
     "summary": "Des enseignants se disent sous la pression croissante de l’extrême droite et notamment du mouvement \"Parents vigilants\". Cette association, créée par Eric Zemmour, appelle ses militants à se présenter aux élections de parents d’élèves, mi-octobre.",
     "thumbnail": "thumbnails/16ymkf0.webp",
     "tags": [
-      "Eric Zemmour",
-      "ENQUÊTE FRANCEINFO",
-      "Sophie Djigo",
-      "Education",
-      "Société"
+      "Éric Zemmour",
+      "Éducation"
     ],
     "analyzed_at": "2026-11-01T10:48:53.407471+00:00"
   },
@@ -1909,7 +1562,8 @@
     "summary": "Condamné en appel, le polémiste n’avait d’abord écopé que d’une simple amende en décembre 2022.",
     "thumbnail": "thumbnails/16y2hq4.webp",
     "tags": [
-      "Alain Soral"
+      "Justice",
+      "Médias"
     ],
     "analyzed_at": "2026-11-01T10:48:53.748655+00:00"
   },
@@ -1931,11 +1585,7 @@
     "summary": "Les travaux de la scientifique hongroise et du chercheur américain ont ouvert la voie au développement des vaccins contre le Covid-19 grâce à leurs \"découvertes concernant les modifications des bases nucléiques\".",
     "thumbnail": "thumbnails/16xtfbh.webp",
     "tags": [
-      "Prix Nobel",
-      "Katalin Karikó et Drew Weissman",
-      "ARN",
-      "Covid-19",
-      "Science"
+      "Covid-19"
     ],
     "analyzed_at": "2026-11-01T10:48:54.055280+00:00"
   },
@@ -1957,11 +1607,7 @@
     "summary": "En faisant porter aux individus la responsabilité de réduire la pollution et les émissions de GES, les industries pétrolières empêchent un changement profond de leurs pratiques de production.",
     "thumbnail": "thumbnails/16wz10q.webp",
     "tags": [
-      "GES",
-      "Changement climatique",
-      "Environnement",
-      "gaz à effet de serre (GES)",
-      "Société"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T10:48:54.381656+00:00"
   },
@@ -1983,10 +1629,7 @@
     "summary": "Privée de subventions pour l’extension de son école, la maire de Teulat dans le Tarn, se dit victime de représailles pour son engagement contre l’A69.",
     "thumbnail": "thumbnails/16wx4ks.webp",
     "tags": [
-      "Teulat",
-      "Tarn",
-      "A69",
-      "Écologie"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T10:48:54.188728+00:00"
   }

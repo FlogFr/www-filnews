@@ -16,13 +16,7 @@
     "ingested_at": "2026-10-31T15:28:30.094671+00:00",
     "summary": "Dans cette sous-préfecture du Lot-et-Garonne, les commerçants se battent pour assurer leur survie. Mais la mort du petit commerce, constatée dans de nombreuses villes moyennes, n'est que le symptôme d'une crise urbaine bien plus vaste.",
     "thumbnail": "thumbnails/ckfdls.webp",
-    "tags": [
-      "Villeneuve-sur-Lot",
-      "GRAND FORMAT",
-      "Lot-et-Garonne",
-      "Agen",
-      "Économie"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:41:41.516395+00:00"
   },
   {
@@ -43,36 +37,9 @@
     "summary": "Après les arrestations massives de manifestants en Russie, le pays a appelé ce mercredi la France à ne pas lui \"donner de leçon\", l'accusant d'avoir usé de \"toutes les méthodes répressives\" lors du mouvement des \"gilets jaunes\".",
     "thumbnail": "thumbnails/ckb7u4.webp",
     "tags": [
-      "Russie",
-      "Politique"
+      "Manifestations"
     ],
     "analyzed_at": "2026-11-01T09:41:43.007290+00:00"
-  },
-  {
-    "id": "cka4bt",
-    "title": "Steve – Le Premier ministre va saisir l’inspection de l’administration pour déterminer les raisons de la présence de la Loire à Nantes",
-    "url": "http://www.legorafi.fr/2019/07/31/steve-le-premier-ministre-va-saisir-linspection-de-ladministration-pour-determiner-les-raisons-de-la-presence-de-la-loire-a-nantes/",
-    "permalink": "/r/france/comments/cka4bt/steve_le_premier_ministre_va_saisir_linspection/",
-    "created_at": "2019-07-31T15:42:37+00:00",
-    "score": 521,
-    "num_comments": 34,
-    "subreddit": "france",
-    "author": "Thomix2003",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/tN5DTXB94gw55-jQzVq3aStqnGSw1kVncZwGViCHHFk.jpeg?auto=webp&s=8ee3526d3bc7010227b03bff89316240f5a14d97",
-    "ingested_at": "2026-10-31T15:28:30.093003+00:00",
-    "summary": "Nantes – Le Premier ministre s'est engagé à faire toute la vérité sur les conditions de la disparition de Steve Caniço.",
-    "thumbnail": "thumbnails/cka4bt.webp",
-    "tags": [
-      "Loire",
-      "Nantes",
-      "Wilson",
-      "Steve Caniço",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:41:41.740186+00:00"
   },
   {
     "id": "ck7lcx",
@@ -92,11 +59,7 @@
     "summary": "\"Je prends en ce jour la décision de démissionner publiquement à travers cette lettre ouverte !\" Jérémy Désir est un \"quant\", un mot utilisé dans le milieu de la finance pour désigner un analyste quantitatif. Toujours pas clair ?",
     "thumbnail": "thumbnails/ck7lcx.webp",
     "tags": [
-      "HSBC",
-      "Jérémy Désir",
-      "Lettre ouverte",
-      "GIEC",
-      "Écologie"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T09:41:42.303560+00:00"
   },
@@ -118,11 +81,8 @@
     "summary": "Un sondage YouGov pour Le HuffPost montre le peu de confiance des Français envers le gouvernement pour lutter contre le réchauffement climatique.",
     "thumbnail": "thumbnails/ck4xwg.webp",
     "tags": [
-      "Français",
-      "YouGov",
-      "HuffPost",
       "Environnement",
-      "Écologie"
+      "Élections"
     ],
     "analyzed_at": "2026-11-01T09:41:42.298134+00:00"
   },
@@ -144,11 +104,7 @@
     "summary": "Le journaliste Patrick Chassé a chroniqué la 106e édition pour Europe 1 en se fixant une règle : suivre le peloton en utilisant son vélo et les transports en commun afin d'engager une réflexion sur un Tour plus vert.",
     "thumbnail": "thumbnails/cjoyyz.webp",
     "tags": [
-      "Tour de France",
-      "Patrick Chassé",
-      "Tour",
-      "SNCF",
-      "Compteur"
+      "Transports"
     ],
     "analyzed_at": "2026-11-01T09:42:02.847888+00:00"
   },
@@ -169,13 +125,7 @@
     "ingested_at": "2026-10-31T15:28:30.093685+00:00",
     "summary": "Les associations de protection de la nature sont scandalisées : des tranches de requin-renard et la tête du squale étaient proposées en promo à la poissonnerie de l'Intermarché d'Argelès-sur-Mer. S'il est interdit de le pêcher, sa vente n'est pas illégale. Le magasin a pourtant fait marche arrière.",
     "thumbnail": "thumbnails/cjo9b3.webp",
-    "tags": [
-      "Intermarché Argelès",
-      "Biodiversité",
-      "Pêche (Agriculture)",
-      "Poisson",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:41:43.352286+00:00"
   },
   {
@@ -195,13 +145,7 @@
     "ingested_at": "2026-10-31T15:28:30.093071+00:00",
     "summary": "Une information judiciaire \"contre X\" pour \"homicide involontaire\" a été ouverte, selon le procureur de la République de Nantes.",
     "thumbnail": "thumbnails/cjgbk1.webp",
-    "tags": [
-      "Loire",
-      "Steve",
-      "Nantes",
-      "La Loire",
-      "Disparition"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:41:43.108812+00:00"
   },
   {
@@ -222,35 +166,9 @@
     "summary": "Selon plusieurs scientifiques, les prochains mois s'annoncent déterminants dans la diplomatie climatique afin de convaincre les Etats à s'engager réellement dans la lutte contre le réchauffement.",
     "thumbnail": "thumbnails/cj7h59.webp",
     "tags": [
-      "Etats",
-      "Paris",
-      "Crise climatique"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T09:41:43.831380+00:00"
-  },
-  {
-    "id": "citzfa",
-    "title": "Trump souhaite classer les \"antifas\" comme organisation terroriste.",
-    "url": "https://www.tvlibertes.com/actus/donald-trump-souhaite-classer-les-antifas-comme-organisation-terroriste",
-    "permalink": "/r/france/comments/citzfa/trump_souhaite_classer_les_antifas_comme/",
-    "created_at": "2019-07-28T09:41:48+00:00",
-    "score": 101,
-    "num_comments": 328,
-    "subreddit": "france",
-    "author": "jeandrvx",
-    "flair": "",
-    "domain": "tvlibertes.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/8lCL4ZkG1L9xFw8YOWE4f-nreHyhD1L5lOvWXmIUn38.jpeg?auto=webp&s=925d3bdd2df4994a122ededda649d57046b4fb26",
-    "ingested_at": "2026-10-31T15:28:30.094630+00:00",
-    "summary": "Le président américain Donald Trump a déclaré vouloir «faciliter le travail des policiers» face aux «dégonflés de la gauche radicale» en classant les antifas parmi les organisations terroristes.",
-    "thumbnail": "thumbnails/citzfa.webp",
-    "tags": [
-      "Donald Trump",
-      "Public Sénat",
-      "Illustration"
-    ],
-    "analyzed_at": "2026-11-01T09:41:43.725660+00:00"
   },
   {
     "id": "citwdr",
@@ -269,13 +187,7 @@
     "ingested_at": "2026-10-31T15:28:30.094381+00:00",
     "summary": "Le fisc va récupérer l'identité de dizaines de milliers de Français qui cachaient près de 10 milliards d'euros dans les coffres d'UBS.",
     "thumbnail": "thumbnails/citwdr.webp",
-    "tags": [
-      "UBS",
-      "France 40",
-      "Bercy",
-      "Tribunal",
-      "TF"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:41:53.613823+00:00"
   },
   {
@@ -295,12 +207,7 @@
     "ingested_at": "2026-10-31T15:28:30.094652+00:00",
     "summary": "La machine est installée au pied de la route des 17-tournants, terrain de jeu favori des motards, où de nombreuses nuisances sonores sont ob",
     "thumbnail": "thumbnails/cie915.webp",
-    "tags": [
-      "Ile-de-France",
-      "Yvelines",
-      "Jean-Noël Barrot",
-      "Compteur"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:41:44.012062+00:00"
   },
   {
@@ -320,9 +227,7 @@
     "ingested_at": "2026-10-31T15:28:30.094359+00:00",
     "summary": "Les producteurs de lavande ont déjà tout vu dans leurs champs, y compris un tournage de film porno.",
     "thumbnail": "thumbnails/ciai16.webp",
-    "tags": [
-      "Compteur"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:41:44.186485+00:00"
   },
   {
@@ -343,11 +248,9 @@
     "summary": "Barbara Bessot-Ballot leur avait pourtant assuré qu’elle voterait contre le traité de libre-échange entre le Canada et l’UE.",
     "thumbnail": "thumbnails/chzyqk.webp",
     "tags": [
-      "LREM",
-      "Barbara Bessot-Ballot",
-      "Canada et UE",
-      "Haute-Saône",
-      "Compteur"
+      "Agriculture",
+      "Institutions",
+      "Union européenne"
     ],
     "analyzed_at": "2026-11-01T09:41:44.477919+00:00"
   },
@@ -368,13 +271,7 @@
     "ingested_at": "2026-10-31T15:28:30.093346+00:00",
     "summary": "La canicule ne touche pas que la France. 40Â°C sont attendus en Belgique et Allemagne. 37Â°C en Angleterre et en Suisse. Ã GenÃ¨ve oÃ¹ le soleil tape fort aussi, les endroits frais se font rares car il faut une autorisation pour installer une climatisation, considÃ©rÃ©e comme trop gourmande en Ã©nergie.",
     "thumbnail": "thumbnails/chzgpq.webp",
-    "tags": [
-      "Suisse",
-      "Genève",
-      "Ã GenÃ",
-      "Belgique et Allemagne",
-      "Angleterre"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:41:45.653858+00:00"
   },
   {
@@ -395,8 +292,7 @@
     "summary": "Les températures n’étaient jamais montées aussi haut depuis le début des relevés météo.",
     "thumbnail": "thumbnails/choq0d.webp",
     "tags": [
-      "Paris",
-      "Écologie"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T09:41:44.752681+00:00"
   },
@@ -418,57 +314,9 @@
     "summary": "",
     "thumbnail": "thumbnails/chmwms.webp",
     "tags": [
-      "Écologie"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T09:41:45.087479+00:00"
-  },
-  {
-    "id": "chkc4q",
-    "title": "Ces 123 députés ont invité Greta Thunberg et laissé passer le CETA le même jour",
-    "url": "https://blogs.mediapart.fr/raphj/blog/230719/ces-123-deputes-ont-invite-greta-thunberg-et-laisse-passer-le-ceta-le-meme-jour",
-    "permalink": "/r/france/comments/chkc4q/ces_123_députés_ont_invité_greta_thunberg_et/",
-    "created_at": "2019-07-25T07:08:02+00:00",
-    "score": 656,
-    "num_comments": 346,
-    "subreddit": "france",
-    "author": "XSNQP6gBtBEw97cQzq",
-    "flair": "Écologie",
-    "domain": "blogs.mediapart.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/l7JZu6GNLFYLVo9X3VOGz1NQ5NvKAOJRNnmn0wsfneY.png?auto=webp&s=120b80bf180b0c713b018c4681a9ec092d3454c7",
-    "ingested_at": "2026-10-31T15:28:30.092893+00:00",
-    "summary": "Ce mardi, les députés votaient le CETA après avoir reçu Greta Thunberg en audition. L'invitation était à l'initiative des 135 membres de \"accélérons la transition\". Parmi eux, 123 députés (dont 96 LR…",
-    "thumbnail": "thumbnails/chkc4q.webp",
-    "tags": [
-      "CETA",
-      "Greta Thunberg",
-      "LR",
-      "Écologie"
-    ],
-    "analyzed_at": "2026-11-01T09:41:46.189309+00:00"
-  },
-  {
-    "id": "chcafp",
-    "title": "Greta Thunberg abandonne son combat pour l’écologie après avoir découvert l’existence de l’argent et des stock-options",
-    "url": "http://www.legorafi.fr/2019/07/24/greta-thunberg-abandonne-son-combat-pour-lecologie-apres-avoir-decouvert-lexistence-de-largent-et-des-stock-options/",
-    "permalink": "/r/france/comments/chcafp/greta_thunberg_abandonne_son_combat_pour/",
-    "created_at": "2019-07-24T18:52:54+00:00",
-    "score": 531,
-    "num_comments": 50,
-    "subreddit": "france",
-    "author": "Thomix2003",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/SHkuJWtSaakLZBsmUa14DihbU8TtAVjssc59Fv66M5I.jpeg?auto=webp&s=9a952c1dd84f09d7adb8101bc2e43533844e0c12",
-    "ingested_at": "2026-10-31T15:28:30.092984+00:00",
-    "summary": "Paris – Quelques heures seulement après sa déclaration à l'Assemblée nationale, la jeune fille de 16 ans a déclaré qu'elle cessait immédiatement son combat pour réveiller les consciences sur l'urgence climatique. En cause, sa découverte soudaine de l'argent, des stock-options et des plus-values. Reportage.",
-    "thumbnail": "thumbnails/chcafp.webp",
-    "tags": [
-      "Greta Thunberg",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:41:44.969473+00:00"
   },
   {
     "id": "chaulc",
@@ -487,9 +335,7 @@
     "ingested_at": "2026-10-31T15:28:30.092915+00:00",
     "summary": "",
     "thumbnail": "thumbnails/chaulc.webp",
-    "tags": [
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:41:45.339803+00:00"
   },
   {
@@ -530,11 +376,8 @@
     "summary": "Les urgentistes réclament toujours plus de lits, d'embauches et des hausses de salaires, malgré des avancées locales.",
     "thumbnail": "thumbnails/ch39ci.webp",
     "tags": [
-      "Hugo Huon",
-      "Christophe Prudhomme",
-      "Grève aux urgences",
-      "Grève et manifestations",
-      "Éco / Conso"
+      "Santé",
+      "Grèves et syndicats"
     ],
     "analyzed_at": "2026-11-01T09:41:45.723090+00:00"
   },
@@ -556,8 +399,7 @@
     "summary": "Les députés du groupe LREM viennent de déposer une proposition de loi visant à interdire, d’ici à 2022, l’impression systématique des tickets de caisse.…",
     "thumbnail": "thumbnails/cgujj4.webp",
     "tags": [
-      "LREM",
-      "Patricia Mirallès"
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T09:41:46.164446+00:00"
   },
@@ -579,36 +421,9 @@
     "summary": "Le dossier Alstom a tout pour devenir une affaire d’État. Jeudi, le parquet national financier a été saisi suite au signalement du député Olivier Marleix sur la vente du groupe français à General Ele…",
     "thumbnail": "thumbnails/cgpoug.webp",
     "tags": [
-      "Macron",
-      "Alstom",
-      "État",
-      "Olivier Marleix",
-      "Politique"
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T09:41:46.774713+00:00"
-  },
-  {
-    "id": "cgi76k",
-    "title": "La plaque commémorative posée par l'Islande en août... le texte est troublant.",
-    "url": "https://www.icelandreview.com/wp-content/uploads/2019/07/ok_okjokull-monument-e1563548820356.jpg",
-    "permalink": "/r/france/comments/cgi76k/la_plaque_commémorative_posée_par_lislande_en/",
-    "created_at": "2019-07-22T20:02:35+00:00",
-    "score": 2104,
-    "num_comments": 257,
-    "subreddit": "france",
-    "author": "_Zilian",
-    "flair": "Écologie",
-    "domain": "icelandreview.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/Hl5JBVgf5Rx78iZizJhynahBLTjVI_pvyF4MxH26PJY.jpg?auto=webp&s=134825232fb9d72a17626c0a1c2833b64549b0a8",
-    "ingested_at": "2026-10-31T15:28:30.092731+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/cgi76k.webp",
-    "tags": [
-      "Islande",
-      "Écologie"
-    ],
-    "analyzed_at": "2026-11-01T09:41:46.239652+00:00"
   },
   {
     "id": "cgg1yx",
@@ -628,58 +443,9 @@
     "summary": "",
     "thumbnail": "thumbnails/cgg1yx.webp",
     "tags": [
-      "Normandie",
-      "Écologie"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T09:41:46.338250+00:00"
-  },
-  {
-    "id": "cgemjg",
-    "title": "Après voir écouté le discours de Greta Thunberg, le PDG de Total plaque tout et part vivre dans une communauté écoresponsable",
-    "url": "http://www.legorafi.fr/2019/07/22/apres-voir-ecoute-le-discours-de-greta-thunberg-le-pdg-de-total-plaque-tout-et-part-vivre-dans-une-communaute-ecoresponsable/",
-    "permalink": "/r/france/comments/cgemjg/après_voir_écouté_le_discours_de_greta_thunberg/",
-    "created_at": "2019-07-22T15:27:21+00:00",
-    "score": 409,
-    "num_comments": 58,
-    "subreddit": "france",
-    "author": "Thomix2003",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/NKy61Pr0kcXOu6Y-NbzR0YnkfVCbA0xIcdNQ_3cgEhk.png?auto=webp&s=0e44bc1219ea46c3a012e47424ccdede7886b9ab",
-    "ingested_at": "2026-10-31T15:28:30.093191+00:00",
-    "summary": "Première conséquence directe de l'allocution de Greta Thunberg à l'Assemblée nationale. Le PDG de Total, Patrick Pouyanné, a décidé de tout plaquer et va rejoindre une communauté écoresponsable en Lozère, pour être selon ses dires",
-    "thumbnail": "thumbnails/cgemjg.webp",
-    "tags": [
-      "Greta Thunberg",
-      "PDG de Total",
-      "Lozère",
-      "Assemblée",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:41:46.375425+00:00"
-  },
-  {
-    "id": "cgbmzy",
-    "title": "L’individu qui construisait des ronds-points partout en France enfin arrêté",
-    "url": "http://www.legorafi.fr/2019/07/22/lindividu-qui-construisait-des-ronds-points-partout-en-france-enfin-arrete/",
-    "permalink": "/r/france/comments/cgbmzy/lindividu_qui_construisait_des_rondspoints/",
-    "created_at": "2019-07-22T10:46:03+00:00",
-    "score": 352,
-    "num_comments": 82,
-    "subreddit": "france",
-    "author": "gromfe",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/nM-OV7rccdMX4SJ2_jIhw8JqM-drAvlQtVWknh1-xms.jpg?auto=webp&s=33e6cbedf83329a6514d12aee6f9e20838800716",
-    "ingested_at": "2026-10-31T15:28:30.093324+00:00",
-    "summary": "France – Soulagement en France après la capture par les forces de l'ordre de l'individu qui construisait des ronds-points partout en France depuis 40 ans, narguant la police et les municipalités et faisant enrager tous les urbanistes.",
-    "thumbnail": "thumbnails/cgbmzy.webp",
-    "tags": [
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:41:46.464182+00:00"
   },
   {
     "id": "cgb1x4",
@@ -719,39 +485,11 @@
     "summary": "Nicolas Hulot a choisi franceinfo pour diffuser une lettre ouverte, dans laquelle il demande aux députés de ne pas ratifier le Ceta.",
     "thumbnail": "thumbnails/cg9tjy.webp",
     "tags": [
-      "Ceta",
       "Nicolas Hulot",
-      "Canada",
-      "Europe",
-      "Écologie"
+      "Institutions",
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T09:41:46.719607+00:00"
-  },
-  {
-    "id": "cg5vl6",
-    "title": "[Crosspost] Des centaines d'hommes masqués agressent des journalistes, résidents et protestants pro indépendence à Hong Kong, la police locale complice.",
-    "url": "https://www.hongkongfp.com/2019/07/22/just-chaos-bloodshed-hong-kong-district-hundreds-masked-men-assault-protesters-journalists-residents/",
-    "permalink": "/r/france/comments/cg5vl6/crosspost_des_centaines_dhommes_masqués_agressent/",
-    "created_at": "2019-07-21T23:51:29+00:00",
-    "score": 492,
-    "num_comments": 177,
-    "subreddit": "france",
-    "author": "GGTae",
-    "flair": "",
-    "domain": "hongkongfp.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/4FSxTCSEZQoN17akao4u7XN8gVnJU4_rcU01iJUtAE8.jpeg?auto=webp&s=9fa8e71eb32feeacf377d143691e711172b7355a",
-    "ingested_at": "2026-10-31T15:28:30.093026+00:00",
-    "summary": "Hundreds of masked assailants dressed in white have assaulted residents, protesters, journalists and a lawmaker in Yuen Long, hours after an anti-extradition law march ended.",
-    "thumbnail": "thumbnails/cg5vl6.webp",
-    "tags": [
-      "Hong Kong",
-      "Yuen Long",
-      "West Rail Line",
-      "Democratic Party",
-      "Lam Cheuk-ting"
-    ],
-    "analyzed_at": "2026-11-01T09:41:48.735976+00:00"
   },
   {
     "id": "cg2w1f",
@@ -770,9 +508,7 @@
     "ingested_at": "2026-10-31T15:28:30.094140+00:00",
     "summary": "",
     "thumbnail": "thumbnails/cg2w1f.webp",
-    "tags": [
-      "Steve"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:41:48.293251+00:00"
   },
   {
@@ -792,10 +528,7 @@
     "ingested_at": "2026-10-31T15:28:30.094405+00:00",
     "summary": "Pan sur les doigts ! Pour avoir voulu offrir une garantie gratuite de 5 ans sur ses aspirateurs traîneaux, le fabricant Dyson n'est plus présent dans les magasins Darty. Seule une référence reste sur leur site, mais assortie d'une garantie de 2 ans...",
     "thumbnail": "thumbnails/cfwvt8.webp",
-    "tags": [
-      "Dyson",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:41:46.888716+00:00"
   },
   {
@@ -815,11 +548,7 @@
     "ingested_at": "2026-10-31T15:28:30.094539+00:00",
     "summary": "",
     "thumbnail": "thumbnails/cfmwvr.webp",
-    "tags": [
-      "Thibaut Pinot",
-      "Tourmalet",
-      "Sport"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:41:48.002865+00:00"
   },
   {
@@ -840,29 +569,10 @@
     "summary": "",
     "thumbnail": "thumbnails/cfjejq.webp",
     "tags": [
-      "Union"
+      "Énergie",
+      "Union européenne"
     ],
     "analyzed_at": "2026-11-01T09:41:47.089455+00:00"
-  },
-  {
-    "id": "cf6t24",
-    "title": "C'est officiel : on a atteint les 46 °C en France en juin",
-    "url": "http://www.meteofrance.fr/actualites/74345599-c-est-officiel-on-a-atteint-les-46-c-en-france-en-juin",
-    "permalink": "/r/france/comments/cf6t24/cest_officiel_on_a_atteint_les_46_c_en_france_en/",
-    "created_at": "2019-07-19T12:15:00+00:00",
-    "score": 198,
-    "num_comments": 75,
-    "subreddit": "france",
-    "author": "dClauzel",
-    "flair": "Actus",
-    "domain": "meteofrance.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://b.thumbs.redditmedia.com/j895nF-VX_28B2H2viJu4w0I7jwtMZKJFKJp_xYftjE.jpg",
-    "ingested_at": "2026-10-31T15:28:30.094091+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/cf6t24.webp",
-    "tags": [],
-    "analyzed_at": "2026-11-01T09:41:48.518118+00:00"
   },
   {
     "id": "cf63m6",
@@ -881,37 +591,8 @@
     "ingested_at": "2026-10-31T15:28:30.093213+00:00",
     "summary": "Mardi dernier, la Ville de Lyon lan&ccedil;ait fi&egrave;rement son label &quot;Fabriqu&eacute; &agrave; Lyon&quot;.",
     "thumbnail": "thumbnails/cf63m6.webp",
-    "tags": [
-      "Pakistan",
-      "Ville de Lyon",
-      "Lyonmag",
-      "Informations",
-      "Économie"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:41:47.375353+00:00"
-  },
-  {
-    "id": "ceshrg",
-    "title": "Bruno Le Maire fait un affreux cauchemar dans lequel il n’y a plus rien à privatiser",
-    "url": "http://www.legorafi.fr/2019/07/18/bruno-le-maire-fait-un-affreux-cauchemar-dans-lequel-il-ny-a-plus-rien-a-privatiser/",
-    "permalink": "/r/france/comments/ceshrg/bruno_le_maire_fait_un_affreux_cauchemar_dans/",
-    "created_at": "2019-07-18T13:28:31+00:00",
-    "score": 317,
-    "num_comments": 18,
-    "subreddit": "france",
-    "author": "Thomix2003",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/PD3cVF2Ukz87vRQ8AzXY_mvK688LkLByS_YDxWjzfSQ.jpeg?auto=webp&s=e2b0c92dff0acdab0071d25e39bbf74e6081629f",
-    "ingested_at": "2026-10-31T15:28:30.093407+00:00",
-    "summary": "« Mon dieu quelle atrocité économique ! » s'est-il exclamé au sortir de ce rêve étrange et pénétrant dans lequel le ministre de l'économie faisait face à une situation complexe et inédite où il n'y avait absolument plus rien à privatiser. Reportage.",
-    "thumbnail": "thumbnails/ceshrg.webp",
-    "tags": [
-      "Bruno le Maire",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:41:47.670117+00:00"
   },
   {
     "id": "cepkba",
@@ -930,9 +611,7 @@
     "ingested_at": "2026-10-31T15:28:30.092845+00:00",
     "summary": "",
     "thumbnail": "thumbnails/cepkba.webp",
-    "tags": [
-      "Kyoto Animation"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:41:48.156377+00:00"
   },
   {
@@ -952,83 +631,8 @@
     "ingested_at": "2026-10-31T15:28:30.094115+00:00",
     "summary": "Selon cet homme, son amputation n'a rien à voir avec un problème lié au tabac mais est consécutive à une agression. C'est son fils qui a découvert la photo en achetant un paquet de cigarettes au Luxembourg, rapportent nos confrères de France Bleu Lorraine Nord.",
     "thumbnail": "thumbnails/cepjtc.webp",
-    "tags": [
-      "Luxembourg",
-      "France Bleu Lorraine Nord",
-      "Lutte contre le tabagisme",
-      "Drogue-Addictions",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:41:48.277280+00:00"
-  },
-  {
-    "id": "ceoc89",
-    "title": "Allemagne : Un magazine féministe dénonce les agressions sexuelles des migrants « Une société parallèle est en train d’émerger »",
-    "url": "https://lesobservateurs.ch/2019/07/16/allemagne-un-magazine-feministe-denonce-les-agressions-sexuelles-des-migrants-une-societe-parallele-est-en-train-demerger/",
-    "permalink": "/r/france/comments/ceoc89/allemagne_un_magazine_féministe_dénonce_les/",
-    "created_at": "2019-07-18T05:32:00+00:00",
-    "score": 292,
-    "num_comments": 533,
-    "subreddit": "france",
-    "author": "isio47",
-    "flair": "Société",
-    "domain": "lesobservateurs.ch",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/ik-ImjsKPuxLZlj8TgN4e8BJ1d8_AY15wEtyxSZybiI.jpg?auto=webp&s=7d6f717150e0ad3362d327e8cbe8002fcd76562b",
-    "ingested_at": "2026-10-31T15:28:30.093493+00:00",
-    "summary": "Emma est un magazine bimestriel féministe germanophone. Il a été fondé en 1977 par la journaliste féministe allemande Alice Schwarzer . Malgré le nombre considérable d’articles au sujet des agressions sexuelles en France, en Allemagne et même en Suisse, nos médias romands refusent d’en parler.",
-    "thumbnail": "thumbnails/ceoc89.webp",
-    "tags": [
-      "Allemagne",
-      "Société"
-    ],
-    "analyzed_at": "2026-11-01T09:41:48.985371+00:00"
-  },
-  {
-    "id": "ceaf70",
-    "title": "Pour accélérer la transition écologique, Macron remplace François de Rugy par un panneau solaire",
-    "url": "http://www.legorafi.fr/2019/07/17/pour-accelerer-la-transition-ecologique-macron-remplace-francois-de-rugy-par-un-panneau-solaire/",
-    "permalink": "/r/france/comments/ceaf70/pour_accélérer_la_transition_écologique_macron/",
-    "created_at": "2019-07-17T09:15:37+00:00",
-    "score": 251,
-    "num_comments": 15,
-    "subreddit": "france",
-    "author": "Thomix2003",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/D8XqwaSuIGMXvbFGTOQOXZzRet9qFJyapj6kX7gD1ak.jpeg?auto=webp&s=2db06f703420e534177a78179d4c61cc831ba1f6",
-    "ingested_at": "2026-10-31T15:28:30.093622+00:00",
-    "summary": "Le président de la République n'aura pas tardé pour remplacer son ministre démissionnaire. Peu avant minuit, on apprenait en effet que le nouveau ministre de la Transition écologique et solidaire était un panneau solaire.",
-    "thumbnail": "thumbnails/ceaf70.webp",
-    "tags": [
-      "François de Rugy",
-      "République",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:41:48.527325+00:00"
-  },
-  {
-    "id": "ce9qqj",
-    "title": "Merci le France pour le voyage! a bientot merci pour le fromages :)))",
-    "url": "https://www.merveilles-du-monde.com/Tour-Eiffel/images/Repliques/Replique-USA-NV-LasVegas.jpg",
-    "permalink": "/r/france/comments/ce9qqj/merci_le_france_pour_le_voyage_a_bientot_merci/",
-    "created_at": "2019-07-17T07:46:52+00:00",
-    "score": 390,
-    "num_comments": 58,
-    "subreddit": "france",
-    "author": "Amiral_Poitou",
-    "flair": "Méta",
-    "domain": "merveilles-du-monde.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/MDZA2v87jZt9EolcM5Tc3Bsz76JYhoJwDs493g_Ib6o.jpeg?auto=webp&s=ff9db1f47594a960ecf6d51e1e69d3dc2248b8ce",
-    "ingested_at": "2026-10-31T15:28:30.093235+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/ce9qqj.webp",
-    "tags": [
-      "Méta"
-    ],
-    "analyzed_at": "2026-11-01T09:41:48.740794+00:00"
   },
   {
     "id": "ce9d8l",
@@ -1068,11 +672,8 @@
     "summary": "Cette enquête découle d'une plainte collective de 85 participants à la Fête de la musique. Une autre enquête judiciaire a été ouverte au sujet de violences contre les policiers.",
     "thumbnail": "thumbnails/ce8uaf.webp",
     "tags": [
-      "Nantes",
-      "Steve",
-      "Mort de Steve Maia Caniço",
-      "Steve Maia Caniço",
-      "Faits-divers"
+      "Police",
+      "Justice"
     ],
     "analyzed_at": "2026-11-01T09:41:48.840496+00:00"
   },
@@ -1094,7 +695,7 @@
     "summary": "Le ministre de la transition écologique a démissionné ce mardi du gouvernement. Mediapart s’apprêtait à publier cette nouvelle enquête sur l’utilisation de ses frais professionnels comme député. Il …",
     "thumbnail": "thumbnails/cdwtm2.webp",
     "tags": [
-      "Rugy"
+      "François de Rugy"
     ],
     "analyzed_at": "2026-11-01T09:41:49.609099+00:00"
   },
@@ -1116,11 +717,8 @@
     "summary": "Il est au cœur d'une polémique sur des dîners fastueux, et des dépenses de rénovation de son logement de fonction.",
     "thumbnail": "thumbnails/cdwhim.webp",
     "tags": [
-      "Rugy",
-      "François De Rugy",
-      "Édouard Philippe",
-      "Assemblée nationale",
-      "Fil info"
+      "François de Rugy",
+      "Édouard Philippe"
     ],
     "analyzed_at": "2026-11-01T09:41:51.315137+00:00"
   },
@@ -1141,12 +739,7 @@
     "ingested_at": "2026-10-31T15:28:30.093940+00:00",
     "summary": "Depuis le début de la mobilisation contre la privatisation d’ADP, plusieurs tribunes, qui soutiennent le passage de l'exploitant au privé, sont signées par des observateurs… pas tout à fait indépendants.",
     "thumbnail": "thumbnails/cdu1ul.webp",
-    "tags": [
-      "ADP",
-      "Vinci et ADP",
-      "Vinci",
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:41:49.498961+00:00"
   },
   {
@@ -1166,13 +759,7 @@
     "ingested_at": "2026-10-31T15:28:30.094163+00:00",
     "summary": "Gilles Lanio, président de l'Union nationale de l'apiculture française, se réjouit, ce vendredi, de la décision du gouvernement de mentionner l'ensemble des pays d'origine des miels \"de mélange\" sur les pots.",
     "thumbnail": "thumbnails/cde9cx.webp",
-    "tags": [
-      "Gilles Lanio",
-      "Union",
-      "Chine",
-      "Alimentation",
-      "Cuisine et Gastronomie"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:41:49.440786+00:00"
   },
   {
@@ -1192,10 +779,7 @@
     "ingested_at": "2026-10-31T15:28:30.093281+00:00",
     "summary": "Les échauffourées se sont poursuivies jusqu'aux premières heures de la journée lundi dans plusieurs villes de France.",
     "thumbnail": "thumbnails/cddtgh.webp",
-    "tags": [
-      "Algérie",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:41:49.825917+00:00"
   },
   {
@@ -1215,13 +799,7 @@
     "ingested_at": "2026-10-31T15:28:30.094208+00:00",
     "summary": "The jokes in ‘Kaamelott’ are fundamentally impossible to translate from French to English. Watching it in an English-speaking country makes for a strange viewing experience, writes Clémence Michallon",
     "thumbnail": "thumbnails/cd369k.webp",
-    "tags": [
-      "Monty Python",
-      "Holy Grail",
-      "Kaamelott",
-      "TV",
-      "Culture"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:41:49.915945+00:00"
   },
   {
@@ -1241,12 +819,7 @@
     "ingested_at": "2026-10-31T15:28:30.094337+00:00",
     "summary": "Interviewé par Le Journal du Dimanche, le ministre de la Transition écologique et solidaire espère que le dossier sera clôt \"fin juillet\", à l'issue des vérifications réalisées par la déontologue de l'Assemblée nationale.",
     "thumbnail": "thumbnails/ccze6p.webp",
-    "tags": [
-      "Assemblée",
-      "Journal",
-      "Transition",
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:41:50.281685+00:00"
   },
   {
@@ -1268,10 +841,7 @@
     "thumbnail": "thumbnails/ccs5tx.webp",
     "tags": [
       "Emmanuel Macron",
-      "Florence Parly",
-      "Armée et sécurité",
-      "Métiers",
-      "Sciences"
+      "Défense"
     ],
     "analyzed_at": "2026-11-01T09:41:50.127123+00:00"
   },
@@ -1293,7 +863,7 @@
     "summary": "",
     "thumbnail": "thumbnails/ccm3rb.webp",
     "tags": [
-      "Deutsche Bank"
+      "Travail"
     ],
     "analyzed_at": "2026-11-01T09:41:54.043365+00:00"
   },
@@ -1314,11 +884,7 @@
     "ingested_at": "2026-10-31T15:28:30.093919+00:00",
     "summary": "",
     "thumbnail": "thumbnails/ccclxn.webp",
-    "tags": [
-      "Steve",
-      "Nantes",
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:41:50.517906+00:00"
   },
   {
@@ -1339,11 +905,7 @@
     "summary": "[VIDÉO] LÉGISLATION - Le député François-Michel Lambert déposera ce jeudi une proposition de loi relative à \"la légalisation contrôlée de la production, de la vente et de la consommation de cannabis\".",
     "thumbnail": "thumbnails/cc8iky.webp",
     "tags": [
-      "SECA",
-      "François-Michel Lambert",
-      "République",
-      "Assemblée nationale",
-      "Société"
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T09:41:50.721721+00:00"
   },
@@ -1364,37 +926,8 @@
     "ingested_at": "2026-10-31T15:28:30.092961+00:00",
     "summary": "Plusieurs milliers de personnes ont célébré la qualification des Fennecs en demi-finale de la Coupe d'Afrique des nations, et il y a eu quelques débordement après minuit",
     "thumbnail": "thumbnails/cc5w5p.webp",
-    "tags": [
-      "Algérie",
-      "Fennecs",
-      "Coupe Afrique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:41:50.829651+00:00"
-  },
-  {
-    "id": "cbveqx",
-    "title": "Affaires de Rugy – Patrick Balkany se dit « profondément choqué par l’utilisation de l’argent public à des fins personnelles »",
-    "url": "http://www.legorafi.fr/2019/07/11/affaires-de-rugy-patrick-balkany-se-dit-profondement-choque-par-lutilisation-de-largent-public-a-des-fins-personnelles/",
-    "permalink": "/r/france/comments/cbveqx/affaires_de_rugy_patrick_balkany_se_dit/",
-    "created_at": "2019-07-11T12:54:13+00:00",
-    "score": 789,
-    "num_comments": 36,
-    "subreddit": "france",
-    "author": "PoufPoal",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/_--r0d7TFSkEQ6wX3lY5nzGaitAXI5n-7-ukUkqgnOM.jpeg?auto=webp&s=3c56347c9e4ba9dc7a37e829b8e5478d721e53ed",
-    "ingested_at": "2026-10-31T15:28:30.092820+00:00",
-    "summary": "Patrick Balkany est sorti de son silence ce matin après la fin de son procès pour fraude fiscale. Il a déclaré sur France Info être lui-même profondément choqué par l'utilisation de l'argent des contribuables à des fins personnelles. Reportage.",
-    "thumbnail": "thumbnails/cbveqx.webp",
-    "tags": [
-      "Patrick Balkany",
-      "Rugy",
-      "Levallois",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:41:50.404388+00:00"
   },
   {
     "id": "cbsf8q",
@@ -1413,36 +946,8 @@
     "ingested_at": "2026-10-31T15:28:30.093644+00:00",
     "summary": "Après les somptueuses réceptions sur fonds publics des époux Rugy, Mediapart révèle que le ministre de l’écologie, numéro 2 du gouvernement, et sa femme ont fait réaliser plus de 63 000 euros de trav…",
     "thumbnail": "thumbnails/cbsf8q.webp",
-    "tags": [
-      "Rugy"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:41:51.328176+00:00"
-  },
-  {
-    "id": "cblvwx",
-    "title": "U.K. Unable to Find Replacement Ambassador Who Does Not Think Trump Is an Idiot",
-    "url": "https://www.newyorker.com/humor/borowitz-report/uk-unable-to-find-replacement-ambassador-who-does-not-think-trump-is-an-idiot",
-    "permalink": "/r/france/comments/cblvwx/uk_unable_to_find_replacement_ambassador_who_does/",
-    "created_at": "2019-07-10T20:19:51+00:00",
-    "score": 303,
-    "num_comments": 28,
-    "subreddit": "france",
-    "author": "[deleted]",
-    "flair": "Humour",
-    "domain": "newyorker.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/g5T33FF1NaWjWEbDohrBriU0wYthMkmReb8fRPwBCbo.jpg?auto=webp&s=e47bb443cad64bbff50bfee4f7cba4cbfbe2e39e",
-    "ingested_at": "2026-10-31T15:28:30.093450+00:00",
-    "summary": "“We will search high and low until we find someone in this country who doesn’t think Donald Trump is a nitwit,” the Prime Minister said.",
-    "thumbnail": "thumbnails/cblvwx.webp",
-    "tags": [
-      "Donald Trump",
-      "U K",
-      "United Kingdom",
-      "Prime Minister",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:41:54.196204+00:00"
   },
   {
     "id": "cblqef",
@@ -1462,37 +967,10 @@
     "summary": "La directrice de cabinet de François de Rugy au ministère de la transition écologique, la préfète Nicole Klein, « occupe » un logement HLM depuis 2001 à Paris, selon une enquête de Mediapart. Elle a …",
     "thumbnail": "thumbnails/cblqef.webp",
     "tags": [
-      "HLM",
-      "Rugy",
-      "François de Rugy",
-      "Nicole Klein",
-      "Paris"
+      "Logement",
+      "François de Rugy"
     ],
     "analyzed_at": "2026-11-01T09:41:51.668694+00:00"
-  },
-  {
-    "id": "cbkspr",
-    "title": "Polémique des dîners – François de Rugy se défend en assurant que “le champagne et les homards étaient bios”",
-    "url": "http://www.legorafi.fr/2019/07/10/polemique-des-diners-francois-de-rugy-se-defend-en-assurant-que-le-champagne-et-les-homards-etaient-bios/",
-    "permalink": "/r/france/comments/cbkspr/polémique_des_dîners_françois_de_rugy_se_défend/",
-    "created_at": "2019-07-10T18:56:00+00:00",
-    "score": 225,
-    "num_comments": 28,
-    "subreddit": "france",
-    "author": "Thomix2003",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/les5woS5k6aFyEe7zBK1GH1qSuXW9vl3Mtpmq4H_Heo.jpeg?auto=webp&s=59869d97ba44d054b20400361bce508d0b5c2933",
-    "ingested_at": "2026-10-31T15:28:30.093896+00:00",
-    "summary": "Le ministre de l’écologie a tenté de calmer la polémique provoquée par les dîners luxueux, organisés aux frais de l’Assemblée nationale, en arguant que les produits étaient bios.",
-    "thumbnail": "thumbnails/cbkspr.webp",
-    "tags": [
-      "Rugy",
-      "Assemblée",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:41:51.006231+00:00"
   },
   {
     "id": "cbd6b4",
@@ -1512,10 +990,7 @@
     "summary": "François de Rugy et sa femme ont multiplié, entre 2017 et 2018, aux frais de la République, des agapes entre amis dignes de grands dîners d’État, selon notre enquête. Le ministre parle de « dîners in…",
     "thumbnail": "thumbnails/cbd6b4.webp",
     "tags": [
-      "Rugy",
-      "État",
-      "République",
-      "Politique"
+      "François de Rugy"
     ],
     "analyzed_at": "2026-11-01T09:41:52.185664+00:00"
   },
@@ -1536,11 +1011,7 @@
     "ingested_at": "2026-10-31T15:28:30.093665+00:00",
     "summary": "Avant le déremboursement total, la prise en charge passera de 30 à 15% en 2020.",
     "thumbnail": "thumbnails/cb4hn3.webp",
-    "tags": [
-      "Agnès Buzyn",
-      "Homéopathie",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:41:52.436874+00:00"
   },
   {
@@ -1560,9 +1031,7 @@
     "ingested_at": "2026-10-31T15:28:30.094231+00:00",
     "summary": "",
     "thumbnail": "thumbnails/cazuv1.webp",
-    "tags": [
-      "Compteur"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:41:53.324475+00:00"
   },
   {
@@ -1583,11 +1052,7 @@
     "summary": "LE SCAN POLITIQUE - Jean-Baptiste Djebbari, député LREM spécialiste des transports, propose de créer une société publique qui gèrerait les autoroutes à la fin des concessions dans les années 2030 et pourrait dès 2020 emprunter 600 millions d’euros par an grâce aux bénéfices futurs.",
     "thumbnail": "thumbnails/canypi.webp",
     "tags": [
-      "LREM",
-      "Jean-Baptiste Djebbari",
-      "SCAN POLITIQUE",
-      "État",
-      "Société"
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T09:41:52.691988+00:00"
   },
@@ -1609,9 +1074,8 @@
     "summary": "Le brigadier Karim M., 45 ans, a été mis en examen et écroué en juin, soupçonné d’avoir mis sur pied un système de racket massif de dealers",
     "thumbnail": "thumbnails/cajk4z.webp",
     "tags": [
-      "Karim",
-      "BAC",
-      "Paris"
+      "Police",
+      "Corruption"
     ],
     "analyzed_at": "2026-11-01T09:41:52.710342+00:00"
   },
@@ -1632,13 +1096,7 @@
     "ingested_at": "2026-10-31T15:28:30.094471+00:00",
     "summary": "Il est le premier et le plus célèbre interprète du standard \"The Girl from Ipanema\", de son titre original \"A Garota de Ipanema\", une chanson de Tom Jobim et Vinícius de Moraes, les deux autres fondateurs de la bossa nova.",
     "thumbnail": "thumbnails/ca42fc.webp",
-    "tags": [
-      "Joao Gilberto",
-      "Garota de Ipanema",
-      "Girl",
-      "Ipanema",
-      "Tom Jobim et Vinícius de Moraes"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:41:53.967720+00:00"
   },
   {
@@ -1679,7 +1137,7 @@
     "summary": "",
     "thumbnail": "thumbnails/c9uq9t.webp",
     "tags": [
-      "Société"
+      "Éducation"
     ],
     "analyzed_at": "2026-11-01T09:41:53.144309+00:00"
   },
@@ -1701,35 +1159,9 @@
     "summary": "",
     "thumbnail": "thumbnails/c9qup8.webp",
     "tags": [
-      "IGN"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T09:41:53.648413+00:00"
-  },
-  {
-    "id": "c9q1bj",
-    "title": "Un nouveau trophée pour le sport français ! Les filles sont championnes du monde de pêche à la carpe",
-    "url": "https://comptoirdespecheurs.com/France/conseils-et-techniques/7440-%C3%89quipe-de-France-F%C3%A9minine-:-Un-premier-titre-mondial-",
-    "permalink": "/r/france/comments/c9q1bj/un_nouveau_trophée_pour_le_sport_français_les/",
-    "created_at": "2019-07-06T05:37:48+00:00",
-    "score": 256,
-    "num_comments": 35,
-    "subreddit": "france",
-    "author": "__jonAtan",
-    "flair": "Sport",
-    "domain": "comptoirdespecheurs.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/vhRoldyWT7XLt6SZltgrztyWdUuYtP41WZpIj4VsJRo.jpeg?auto=webp&s=8d337480e9635eec61ea5a1914fabd9602dc16a9",
-    "ingested_at": "2026-10-31T15:28:30.093579+00:00",
-    "summary": "Cocorico ! L'équipe de France Féminine Carpe a brillée au premier championnat du monde féminin organisé en France. Les filles se sont mesurées à des compétitrices redoutables venues des 4 coins d'Europe et n'ont pas déméritées pour décrocher cette victoire ...",
-    "thumbnail": "thumbnails/c9q1bj.webp",
-    "tags": [
-      "France Féminine Carpe",
-      "Europe",
-      "Pêche en mer",
-      "Apprendre à pêcher",
-      "Sport"
-    ],
-    "analyzed_at": "2026-11-01T09:41:53.678179+00:00"
   },
   {
     "id": "c9kdcq",
@@ -1748,12 +1180,7 @@
     "ingested_at": "2026-10-31T15:28:30.093750+00:00",
     "summary": "Le gouvernement tunisien a décidé vendredi d'interdire pour des raisons de sécurité le port du niqab dans les institutions publiques, signe du climat sécuritaire tendu dans le pays, une semaine après un double attentat suicide meurtrier perpétré à Tunis.",
     "thumbnail": "thumbnails/c9kdcq.webp",
-    "tags": [
-      "Tunisie",
-      "Tunis",
-      "Monde",
-      "Technologie"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:41:54.216162+00:00"
   },
   {
@@ -1774,8 +1201,7 @@
     "summary": "Cette étude a été menée dans 27 pays, sur un échantillon de 19 541 personnes.",
     "thumbnail": "thumbnails/c9darb.webp",
     "tags": [
-      "Français",
-      "Éco / Conso"
+      "Médias"
     ],
     "analyzed_at": "2026-11-01T09:41:54.125801+00:00"
   },
@@ -1797,11 +1223,9 @@
     "summary": "Quelques dizaines de militants écologistes ont occupé, mardi, le siège du géant de la vente en ligne. Des journalistes affirment avoir été évacués manu militari par des gendarmes.",
     "thumbnail": "thumbnails/c90fv4.webp",
     "tags": [
-      "Amazon",
-      "Clichy",
-      "Crise climatique",
       "Médias",
-      "Politique"
+      "Police",
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T09:41:55.316614+00:00"
   },
@@ -1822,9 +1246,7 @@
     "ingested_at": "2026-10-31T15:28:30.093823+00:00",
     "summary": "",
     "thumbnail": "thumbnails/c8zbxk.webp",
-    "tags": [
-      "Compteur"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:41:55.753340+00:00"
   },
   {
@@ -1844,7 +1266,9 @@
     "ingested_at": "2026-10-31T15:28:30.093985+00:00",
     "summary": "",
     "thumbnail": "thumbnails/c8z8h9.webp",
-    "tags": [],
+    "tags": [
+      "Environnement"
+    ],
     "analyzed_at": "2026-11-01T09:41:54.541591+00:00"
   },
   {
@@ -1864,7 +1288,9 @@
     "ingested_at": "2026-10-31T15:28:30.094254+00:00",
     "summary": "",
     "thumbnail": "thumbnails/c8p1cz.webp",
-    "tags": [],
+    "tags": [
+      "Justice"
+    ],
     "analyzed_at": "2026-11-01T09:41:54.455320+00:00"
   },
   {
@@ -1885,9 +1311,8 @@
     "summary": "Alors que la loi contre la haine sur Internet entre en discussion ce mercredi 3 juillet, les parlementaires rivalisent d'amendements pour autoriser les plateformes comme Facebook, Twitter ou YouTube à censurer sans autre forme de procès le plus de propos possibles.",
     "thumbnail": "thumbnails/c8l54h.webp",
     "tags": [
-      "Internet",
-      "Facebook",
-      "YouTube"
+      "Numérique",
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T09:41:55.281135+00:00"
   },
@@ -1912,30 +1337,6 @@
     "analyzed_at": "2026-11-01T09:41:54.748477+00:00"
   },
   {
-    "id": "c882ez",
-    "title": "BFM TV contraint de licencier 120 journalistes en raison de la fin de la canicule",
-    "url": "http://www.legorafi.fr/2019/07/02/bfm-tv-contraint-de-licencier-120-journalistes-en-raison-de-la-fin-de-la-canicule/",
-    "permalink": "/r/france/comments/c882ez/bfm_tv_contraint_de_licencier_120_journalistes_en/",
-    "created_at": "2019-07-02T11:24:15+00:00",
-    "score": 354,
-    "num_comments": 24,
-    "subreddit": "france",
-    "author": "Thomix2003",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/-iHsVhF_91QOHrM7lU0It1qPHTTwoOzgGEgjGZQPquQ.jpeg?auto=webp&s=93a2d7814266ce01a1391ed9731f9a88644afe09",
-    "ingested_at": "2026-10-31T15:28:30.093302+00:00",
-    "summary": "La fin de la canicule n'est pas un soulagement pour tout le monde. BFMTV a en effet annoncé ce matin lors d'une conférence de presse organisée pour l'occasion que 120 journalistes avaient reçu leur lettre de licenciement.",
-    "thumbnail": "thumbnails/c882ez.webp",
-    "tags": [
-      "BFM TV",
-      "BFMTV",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:41:54.646642+00:00"
-  },
-  {
     "id": "c7tryt",
     "title": "France's Richest People Get Richer Faster Than Everyone Else",
     "url": "https://www.bloomberg.com/news/articles/2019-07-01/france-s-richest-people-get-richer-faster-than-everyone-else",
@@ -1952,13 +1353,7 @@
     "ingested_at": "2026-10-31T15:28:30.093258+00:00",
     "summary": "The first half of 2019 brought continued civil unrest to France, with throngs of protesters taking to the streets to demand higher wages and pensions amid widening wealth inequality. But for the nation’s richest citizens, the first six months have been filled with good fortune.",
     "thumbnail": "thumbnails/c7tryt.webp",
-    "tags": [
-      "Asia",
-      "Bernard Arnault",
-      "China",
-      "Equality",
-      "Économie"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:41:58.263133+00:00"
   },
   {
@@ -1979,11 +1374,8 @@
     "summary": "La vidéo de cet échange, au cours duquel la conseillère de Donald Trump semble ignorée par plusieurs dirigeants, a été publiée samedi par le compte Instagram de l'Elysée.",
     "thumbnail": "thumbnails/c7rsdv.webp",
     "tags": [
-      "Ivanka Trump",
-      "G20",
-      "Emmanuel Macron",
       "Donald Trump",
-      "Instagram de Elysée"
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T09:41:55.135594+00:00"
   }

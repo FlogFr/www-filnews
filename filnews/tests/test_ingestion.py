@@ -2,10 +2,38 @@ import json
 from datetime import timedelta
 from unittest import mock
 
+from django.test import SimpleTestCase, override_settings
+
 from filnews.ingestion import ingest, is_news_post, post_to_news
+from filnews.media import is_accepted
 from filnews.reddit import RedditClient
 
 from .helpers import NOW, DataDirTestCase, reddit_post
+
+
+class MediaPolicyTests(SimpleTestCase):
+    def test_blocked_domains_are_always_refused(self):
+        for domain in ("youtube.com", "m.youtube.com", "youtu.be", "x.com"):
+            self.assertFalse(is_accepted(domain, whitelist=False), domain)
+        # A blocked subdomain wins over an allowed parent.
+        self.assertTrue(is_accepted("mediapart.fr"))
+        self.assertFalse(is_accepted("blogs.mediapart.fr"))
+
+    def test_whitelist_accepts_known_media_and_their_subdomains(self):
+        self.assertTrue(is_accepted("lemonde.fr"))
+        self.assertTrue(is_accepted("france3-regions.francetvinfo.fr"))
+        self.assertFalse(is_accepted("unknown-blog.example"))
+        self.assertFalse(is_accepted("notlemonde.fr"))
+        self.assertTrue(is_accepted("unknown-blog.example", whitelist=False))
+
+    @override_settings(FILNEWS_MEDIA_WHITELIST=False)
+    def test_whitelist_can_be_disabled(self):
+        self.assertTrue(
+            is_news_post(reddit_post("a", 500, url="https://blog.example/a"), 0)
+        )
+        self.assertFalse(
+            is_news_post(reddit_post("b", 500, url="https://youtube.com/watch?v=1"), 0)
+        )
 
 
 class IngestionTests(DataDirTestCase):
@@ -29,13 +57,15 @@ class IngestionTests(DataDirTestCase):
             reddit_post("self", score=800, is_self=True),
             reddit_post("img", score=700, url="https://i.redd.it/abc.jpg"),
             reddit_post("nsfw", score=600, over_18=True),
+            reddit_post("video", score=550, url="https://www.youtube.com/watch?v=x"),
+            reddit_post("blog", score=520, url="https://unknown-blog.example/a"),
             reddit_post("ok", score=500),
         ]
         with self.store.transaction():
             report = ingest(
                 posts, self.store, min_score=100, since=NOW - timedelta(days=1)
             )
-        self.assertEqual(report.skipped, 4)
+        self.assertEqual(report.skipped, 6)
         self.assertEqual([n.id for n in self.store.all()], ["ok"])
 
     def test_reingesting_updates_score(self):

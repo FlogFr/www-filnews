@@ -12,7 +12,7 @@
   <p>Une actualité isolée se comprend mal : qui sont les acteurs, que s'est-il passé avant, où en est le sujet ? Le but de {{ SITE_NAME }} est de <strong>remettre du contexte autour de chaque article</strong>, en le replaçant dans le <strong>fil</strong> de l'actualité dont il fait partie.</p>
   <p>Les news proviennent de la communauté <a href="https://www.reddit.com/r/{{ subreddit }}/" rel="noopener">r/{{ subreddit }}</a>. Un algorithme objectif, identique pour tous les sujets, retient les articles qui ont suscité le plus d'intérêt : aucun choix éditorial, aucune ligne politique.</p>
   <h2>Suivre un sujet dans son fil</h2>
-  <p>Chaque article est rattaché à des <a href="{% url 'tag_index' %}">tags</a> : personnes, lieux, organisations, thèmes. Chaque tag forme un <strong>fil</strong>, la frise chronologique de toutes les news qui en parlent. En partant d'un article, il suffit de suivre ses tags pour remonter le fil : les événements qui l'ont précédé, ceux qui ont suivi, et les sujets qui s'y croisent.</p>
+  <p>Chaque article est rattaché à des <a href="{% url 'tag_index' %}">fils</a> : les personnalités politiques et les grands thèmes politiques et de société dont il parle. Chaque fil est la frise chronologique de toutes les news qui en parlent. En partant d'un article, il suffit de suivre ses fils pour remonter le temps : les événements qui l'ont précédé, ceux qui ont suivi, et les sujets qui s'y croisent.</p>
   <h2>Comment ça marche ?</h2>
   <ol>
     <li><strong>Sélection</strong> : plusieurs fois par jour, l'algorithme retient les liens d'actualité qui ont suscité le plus d'intérêt.</li>
@@ -22,6 +22,8 @@
   <h2>Suivre les news</h2>
   <p>Toutes les news sont disponibles dans le <a href="{% url 'rss' %}">flux RSS</a>, de la plus récente à la plus ancienne.</p>
   <h2>Sources</h2>
-  <p>Les articles appartiennent à leurs éditeurs respectifs : {{ SITE_NAME }} n'en publie qu'un court résumé et renvoie systématiquement vers la source.</p>
+  <p>Les articles appartiennent à leurs éditeurs respectifs : {{ SITE_NAME }} n'en publie qu'un court résumé et renvoie systématiquement vers la source. Seuls les liens vers des médias reconnus sont retenus : pas de vidéos YouTube, de réseaux sociaux, de blogs ni de sites satiriques.</p>
+  <h2>Transparence</h2>
+  <p>r/{{ subreddit }} ne représente pas l'ensemble des Français : {{ SITE_NAME }} montre l'actualité telle que cette communauté la partage et la discute. Tout le code du site, la liste des médias retenus et le vocabulaire des fils sont publics sur <a href="{{ source_url }}" rel="noopener">GitHub</a>. Voir aussi les <a href="{% url 'legal' %}">mentions légales</a>.</p>
 </article>
 {% endblock %}

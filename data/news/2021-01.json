@@ -17,11 +17,7 @@
     "summary": "Le plafond annuel de la dotation matérielle des députés (DMD), qui permet aux élus de couvrir une partie de leurs frais de mandat (téléphonie, taxis/VTC, affranchissement), va passer de 18.950 euros à 21.700 euros. Une décision qui provoque des remous au sein même du collège des questeurs de l’Assemblée.",
     "thumbnail": "thumbnails/l9epzn.webp",
     "tags": [
-      "DMD",
-      "Assemblée",
-      "VTC",
-      "Florian Bachelier",
-      "Politique"
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T09:57:49.661166+00:00"
   },
@@ -44,36 +40,9 @@
     "thumbnail": "thumbnails/l9ct18.webp",
     "tags": [
       "Benoît Hamon",
-      "BenoÃ",
-      "Hamon",
-      "Sciences et Savoirs",
-      "Politique"
+      "Pauvreté"
     ],
     "analyzed_at": "2026-11-01T09:57:51.838192+00:00"
-  },
-  {
-    "id": "l8sctw",
-    "title": "La fondation Bill Gates rappelle près d'un million de doses de vaccin en raison de nanopuces 5G défaillantes",
-    "url": "http://www.legorafi.fr/2021/01/28/la-fondation-bill-gates-rappelle-pres-dun-million-de-doses-de-vaccin-en-raison-de-nanopuces-5g-defaillantes/",
-    "permalink": "/r/france/comments/l8sctw/la_fondation_bill_gates_rappelle_près_dun_million/",
-    "created_at": "2021-01-30T18:40:25+00:00",
-    "score": 949,
-    "num_comments": 48,
-    "subreddit": "france",
-    "author": "[deleted]",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/OnxXkIpPM5Do4z2L-pO_w4Gbbi8t-roZjQS3jLjGA5U.jpg?auto=webp&s=3abaad9a6377b8bee440060c94fa7b0be4bfa0a6",
-    "ingested_at": "2026-11-01T09:48:28.315968+00:00",
-    "summary": "Des nanopuces qui sont susceptibles de s'enflammer, de crasher voire même de prendre le contrôle total de l'individu dans l'optique d'une révolte globale des machines.",
-    "thumbnail": "thumbnails/l8sctw.webp",
-    "tags": [
-      "Bill Gates",
-      "Gorafi",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:57:49.258025+00:00"
   },
   {
     "id": "l8qup2",
@@ -93,9 +62,7 @@
     "summary": "Deux clients d'un supermarché du 20ème arrondissement de Paris témoignent avoir été verbalisés alors qu'ils terminaient de faire leurs courses, mercredi 27 janvier 2021 à 18h06.",
     "thumbnail": "thumbnails/l8qup2.webp",
     "tags": [
-      "Paris",
-      "Arnaud Cosson",
-      "Franprix"
+      "Police"
     ],
     "analyzed_at": "2026-11-01T09:57:49.608616+00:00"
   },
@@ -117,9 +84,7 @@
     "summary": "Une loi autorisant « la mort médicalement assistée » devrait être adoptée ce vendredi 29 janvier 2021 par le Parlement portugais.",
     "thumbnail": "thumbnails/l830wm.webp",
     "tags": [
-      "Portugal",
-      "Parlement",
-      "Etat"
+      "Fin de vie"
     ],
     "analyzed_at": "2026-11-01T09:57:49.857376+00:00"
   },
@@ -141,7 +106,7 @@
     "summary": "",
     "thumbnail": "thumbnails/l7ma7l.webp",
     "tags": [
-      "Société"
+      "Éducation"
     ],
     "analyzed_at": "2026-11-01T09:57:53.004140+00:00"
   },
@@ -162,63 +127,8 @@
     "ingested_at": "2026-11-01T09:48:28.316909+00:00",
     "summary": "The retailer's share price reached as high as $380 on Wednesday, up from $18 a few weeks ago after those on the subreddit r/WallStreetBets invested in the company.",
     "thumbnail": "thumbnails/l6ypbd.webp",
-    "tags": [
-      "Robinhood Stops GME",
-      "AMC Stock Trading",
-      "Outraging Investors",
-      "GameStop",
-      "Wednesday"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:57:51.452602+00:00"
-  },
-  {
-    "id": "l6spj2",
-    "title": "Emmaüs lance sa plateforme solidaire Trëmma, pour concurrencer Vinted et Le Bon Coin",
-    "url": "https://www.novethic.fr/actualite/economie/isr-rse/emma-s-lance-sa-plateforme-solidaire-de-vente-de-seconde-main-pour-concurrencer-vinted-et-le-bon-coin-149445.html",
-    "permalink": "/r/france/comments/l6spj2/emmaüs_lance_sa_plateforme_solidaire_trëmma_pour/",
-    "created_at": "2021-01-28T09:31:46+00:00",
-    "score": 210,
-    "num_comments": 41,
-    "subreddit": "france",
-    "author": "[deleted]",
-    "flair": "Actus",
-    "domain": "novethic.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/Nh33B09805EIBjXH_K2y03nvFPkr11d-hZ46fyD5SVg.jpg?auto=webp&s=2ef96426c3659350667f8386ea3314079e603882",
-    "ingested_at": "2026-11-01T09:48:28.317060+00:00",
-    "summary": "[Mise à jour le 11 février] Emmaüs s’adapte. La célèbre association, qui collecte des vêtements auprès des particuliers pour les revendre dans ses centres, propose désormais une plateforme en ligne solidaire baptisée Trëmma.",
-    "thumbnail": "thumbnails/l6spj2.webp",
-    "tags": [
-      "Trëmma",
-      "Vinted et le Bon Coin",
-      "Emmaüs"
-    ],
-    "analyzed_at": "2026-11-01T09:57:50.810381+00:00"
-  },
-  {
-    "id": "l6pwd5",
-    "title": "GameStop et les robins des bois des temps modernes",
-    "url": "https://www.factornews.com/article/gamestop-et-les-robins-des-bois-des-temps-modernes-page-1-47289.html",
-    "permalink": "/r/france/comments/l6pwd5/gamestop_et_les_robins_des_bois_des_temps_modernes/",
-    "created_at": "2021-01-28T06:21:03+00:00",
-    "score": 257,
-    "num_comments": 362,
-    "subreddit": "france",
-    "author": "Yolteotl",
-    "flair": "Économie",
-    "domain": "factornews.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/XjcSApCqTRSmxHpuxbwOVqqep2MChUuIroRcE_nc5Z8.jpg?auto=webp&s=e9602767cb56cb00d1e2ef95c369cf415c3e3216",
-    "ingested_at": "2026-11-01T09:48:28.316681+00:00",
-    "summary": "On accueille ici la deuxième collaboration de Yolteotl. Comme celle de The Real Phoenix l'an passé, elle aborde un sujet pointu traité par un passionné. Si un sujet en rapport avec le...",
-    "thumbnail": "thumbnails/l6pwd5.webp",
-    "tags": [
-      "Yolteotl",
-      "Real Phoenix",
-      "GameStop",
-      "Économie"
-    ],
-    "analyzed_at": "2026-11-01T09:57:50.506266+00:00"
   },
   {
     "id": "l61efn",
@@ -238,8 +148,8 @@
     "summary": "",
     "thumbnail": "thumbnails/l61efn.webp",
     "tags": [
-      "Darmanin",
-      "Société"
+      "Gérald Darmanin",
+      "Violences sexuelles"
     ],
     "analyzed_at": "2026-11-01T09:57:55.680042+00:00"
   },
@@ -262,10 +172,7 @@
     "thumbnail": "thumbnails/l615lm.webp",
     "tags": [
       "Alexandre Benalla",
-      "Benalla",
-      "Emmanuel Macron",
-      "Elysée",
-      "Justice"
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T09:57:51.234660+00:00"
   },
@@ -286,7 +193,10 @@
     "ingested_at": "2026-11-01T09:48:28.316097+00:00",
     "summary": "",
     "thumbnail": "thumbnails/l5zx25.webp",
-    "tags": [],
+    "tags": [
+      "Terrorisme",
+      "Défense"
+    ],
     "analyzed_at": "2026-11-01T09:57:51.287916+00:00"
   },
   {
@@ -307,11 +217,7 @@
     "summary": "Dans les départements concernés depuis le début du mois de janvier par un couvre-feu à 18 heures, l'indicateur référence du taux d'incidence a, dans un premier temps, diminué. Mais désormais, il remonte.",
     "thumbnail": "thumbnails/l5z85z.webp",
     "tags": [
-      "Covid-19",
-      "Renaud Piarroux",
-      "Les choix de la rédaction",
-      "Maladie",
-      "Société"
+      "Covid-19"
     ],
     "analyzed_at": "2026-11-01T09:57:51.596469+00:00"
   },
@@ -333,7 +239,8 @@
     "summary": "Mediapart a eu accès à de nouveaux éléments de l’enquête pour viol visant Gérald Darmanin. Des documents contredisent plusieurs aspects de sa défense. Lors de son audition chez les juges, mi-décembre…",
     "thumbnail": "thumbnails/l5lshr.webp",
     "tags": [
-      "Gérald Darmanin"
+      "Gérald Darmanin",
+      "Violences sexuelles"
     ],
     "analyzed_at": "2026-11-01T09:57:52.432673+00:00"
   },
@@ -355,10 +262,7 @@
     "summary": "Au début de ce mois, un groupe de travailleurs de Google et de sous-traitants a formé un syndicat après plusieurs années dactivisme au sein de lentreprise.",
     "thumbnail": "thumbnails/l59mmg.webp",
     "tags": [
-      "Google",
-      "Alpha Global",
-      "Alphabet",
-      "Société"
+      "Grèves et syndicats"
     ],
     "analyzed_at": "2026-11-01T09:57:51.841579+00:00"
   },
@@ -379,80 +283,8 @@
     "ingested_at": "2026-11-01T09:48:28.315856+00:00",
     "summary": "C’est toujours la même consternation quand paraissent les statistiques de l’Insee sur les déplacements quotidiens. Selon ce document issu des recensements annuels et rendu public le 19 …",
     "thumbnail": "thumbnails/l4p0qr.webp",
-    "tags": [
-      "Insee"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:57:52.025706+00:00"
-  },
-  {
-    "id": "l4l6xs",
-    "title": "La grande braderie de vos données personnelles sur Le Bon Coin | Pixel de tracking",
-    "url": "https://www.pixeldetracking.com/fr/home/le-bon-coin-donnees-personnelles-rgpd",
-    "permalink": "/r/france/comments/l4l6xs/la_grande_braderie_de_vos_données_personnelles/",
-    "created_at": "2021-01-25T10:24:13+00:00",
-    "score": 306,
-    "num_comments": 73,
-    "subreddit": "france",
-    "author": "Neker",
-    "flair": "",
-    "domain": "pixeldetracking.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/blBrYVnwkIyc8Neo_M77-qxODF5FFXjv_8sXLttp0CY.jpg?auto=webp&s=5fc360fbf2e7f5090cb50cb7663bf4b637faab0a",
-    "ingested_at": "2026-11-01T09:48:28.316577+00:00",
-    "summary": "Un blog sur le capitalisme de surveillance, avec un zoom sur le tracking publicitaire",
-    "thumbnail": "thumbnails/l4l6xs.webp",
-    "tags": [
-      "Bon Coin",
-      "Weborama",
-      "Safari"
-    ],
-    "analyzed_at": "2026-11-01T09:57:52.365927+00:00"
-  },
-  {
-    "id": "l4hfmc",
-    "title": "TIL when France increased the price of cigarettes by 66% over an eight-year period, the smoking rate among French executives and professionals declined. However, the smoking rate among manual laborers remained about the same and among the unemployed, it increased.",
-    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2672354/",
-    "permalink": "/r/france/comments/l4hfmc/til_when_france_increased_the_price_of_cigarettes/",
-    "created_at": "2021-01-25T06:02:43+00:00",
-    "score": 311,
-    "num_comments": 217,
-    "subreddit": "france",
-    "author": "MrMad100",
-    "flair": "",
-    "domain": "ncbi.nlm.nih.gov",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/mdgLNJC-IP-f3g0_kXaAuK-s1qKbr7wKnPDYGvTl8Dw.jpg?auto=webp&s=12103263d39335ab43e7564d31cdb5a839110fd7",
-    "ingested_at": "2026-11-01T09:48:28.316539+00:00",
-    "summary": "",
-    "thumbnail": "",
-    "tags": [
-      "TIL",
-      "French"
-    ],
-    "analyzed_at": "2026-11-01T09:57:52.924270+00:00"
-  },
-  {
-    "id": "l44h72",
-    "title": "Le Dictionnaire des francophones va bientôt voir le jour; inspiré du français pratiqué sur 6 continents, il contiendra ~400 000 mots et 600 000 définitions",
-    "url": "https://www.dictionnairedesfrancophones.org/",
-    "permalink": "/r/france/comments/l44h72/le_dictionnaire_des_francophones_va_bientôt_voir/",
-    "created_at": "2021-01-24T18:08:16+00:00",
-    "score": 243,
-    "num_comments": 27,
-    "subreddit": "france",
-    "author": "wisi_eu",
-    "flair": "Culture",
-    "domain": "dictionnairedesfrancophones.org",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/5V0sXc_4-nRXqDvdTP_KSpT5Nocbep0ncUVxkdkWrIM.jpg?auto=webp&s=9e3d84f5a08f002a5b25edd0d2776fd8e7fecf29",
-    "ingested_at": "2026-11-01T09:48:28.316733+00:00",
-    "summary": "Comprendre et partager les mots avec plusieurs dictionnaires du français parlé partout dans le monde.",
-    "thumbnail": "thumbnails/l44h72.webp",
-    "tags": [
-      "Dictionnaire",
-      "Culture"
-    ],
-    "analyzed_at": "2026-11-01T09:57:54.360903+00:00"
   },
   {
     "id": "l3wcd3",
@@ -471,37 +303,8 @@
     "ingested_at": "2026-11-01T09:48:28.317433+00:00",
     "summary": "Cinq ex-assistants parlementaires accusent notamment la porte-parole de LREM d'humiliations, harcèlements et abus de pouvoir.",
     "thumbnail": "thumbnails/l3wcd3.webp",
-    "tags": [
-      "Laetitia Avia",
-      "LREM",
-      "Harcèlement moral",
-      "Paris"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:57:53.152396+00:00"
-  },
-  {
-    "id": "l386fy",
-    "title": "Jean Castex, tu lui mets des cheveux et une pelle, c'est Bernie Noël !",
-    "url": "https://lelombrik.net/comment/600a6d9940357.jpg",
-    "permalink": "/r/france/comments/l386fy/jean_castex_tu_lui_mets_des_cheveux_et_une_pelle/",
-    "created_at": "2021-01-23T08:09:29+00:00",
-    "score": 355,
-    "num_comments": 27,
-    "subreddit": "france",
-    "author": "packrist",
-    "flair": "Humour",
-    "domain": "lelombrik.net",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/-Js_y4o_l000HD3aNk2hfzdAGWeRX5RUNO3YAnTxZ-U.jpeg?auto=webp&s=2f631077c34059d50b715be2ec05c123e896d673",
-    "ingested_at": "2026-11-01T09:48:28.316357+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/l386fy.webp",
-    "tags": [
-      "Jean Castex",
-      "Bernie Noël",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:57:52.798742+00:00"
   },
   {
     "id": "l31gq4",
@@ -540,10 +343,7 @@
     "ingested_at": "2026-11-01T09:48:28.316859+00:00",
     "summary": "Un adolescent âgé de 14 ans a été victime d'une agression, vendredi 15 janvier 2021 dans le 15ème arrondissement de Paris. Selon ses proches, il se trouve en coma artificiel.",
     "thumbnail": "thumbnails/l2sirj.webp",
-    "tags": [
-      "Paris",
-      "Yuriy"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:57:53.339635+00:00"
   },
   {
@@ -564,10 +364,7 @@
     "summary": "Le célèbre caricaturiste, dont le premier dessin publié dans Le Monde remonte à 1972, quitte le journal. Il assure que sa décision n'a pas été prise à cause de l'affaire Gorce.",
     "thumbnail": "thumbnails/l2jm8k.webp",
     "tags": [
-      "Monde",
-      "Plantu",
-      "Gorce",
-      "Culture"
+      "Retraites"
     ],
     "analyzed_at": "2026-11-01T09:57:54.801359+00:00"
   },
@@ -588,36 +385,8 @@
     "ingested_at": "2026-11-01T09:48:28.316306+00:00",
     "summary": "",
     "thumbnail": "thumbnails/l1xsaq.webp",
-    "tags": [
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:57:54.439093+00:00"
-  },
-  {
-    "id": "l1u62n",
-    "title": "The US is officially back into the Paris Agreement climate deal",
-    "url": "https://www.9news.com.au/world/joe-biden-paris-agreement-coronavirus-executive-actions-president/1a5f7759-6986-4721-a4e4-39bea0c381bd",
-    "permalink": "/r/france/comments/l1u62n/the_us_is_officially_back_into_the_paris/",
-    "created_at": "2021-01-21T08:11:41+00:00",
-    "score": 1851,
-    "num_comments": 172,
-    "subreddit": "france",
-    "author": "npjprods",
-    "flair": "Actus",
-    "domain": "9news.com.au",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/GlkD8p8CZTHlDvcJDNad8tMYSoNzVWK7OQ8A52butTg.jpg?auto=webp&s=b86db01bd77e21e83f0b890188438bf2d04a6efd",
-    "ingested_at": "2026-11-01T09:48:28.315735+00:00",
-    "summary": "Joe Biden has begun the work of president, signing a series of executive orders that will undo much of Donald Trump's legacy.",
-    "thumbnail": "thumbnails/l1u62n.webp",
-    "tags": [
-      "Joe Biden",
-      "Paris Agreement",
-      "US",
-      "Donald Trump's",
-      "AP"
-    ],
-    "analyzed_at": "2026-11-01T09:57:54.924057+00:00"
   },
   {
     "id": "l1gczh",
@@ -637,60 +406,9 @@
     "summary": "C'est l'histoire belge, mais pas forcément marrante, d'un cluster géant lancé par une mère de famille partie skier en Suisse. Celle-ci a contaminé sa fille, laquelle a contaminé ses camarades de classe, lesquels...",
     "thumbnail": "thumbnails/l1gczh.webp",
     "tags": [
-      "Suisse",
-      "Edegem",
       "Covid-19"
     ],
     "analyzed_at": "2026-11-01T09:57:53.632468+00:00"
-  },
-  {
-    "id": "l1g0zz",
-    "title": "Pour sa deuxième année au haut niveau, Mathieu \"ZywOo\" Herbaut vient d'être désigné meilleur joueur du monde sur CS:GO une seconde fois consécutive",
-    "url": "https://www.hltv.org/news/31024/top-20-players-of-2020-zywoo-1",
-    "permalink": "/r/france/comments/l1g0zz/pour_sa_deuxième_année_au_haut_niveau_mathieu/",
-    "created_at": "2021-01-20T19:08:41+00:00",
-    "score": 417,
-    "num_comments": 88,
-    "subreddit": "france",
-    "author": "JeanneHusse",
-    "flair": "Culture",
-    "domain": "hltv.org",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/y5YFtc4yjjDM7wXmviFz_NeIKPekQ6UlV9YXEEpqGkA.jpeg?auto=webp&s=63cf6aa61756860d0c4a4e56eaaddbcf491a92f3",
-    "ingested_at": "2026-11-01T09:48:28.316254+00:00",
-    "summary": "Unparalleled impact in the biggest matches and stunning consistency see Mathieu \"ZywOo\" Herbaut take the top spot in our ranking of the top 20 players of 2020, powered by GG.BET and Xtrfy , in a neck-and-neck race for the crown.",
-    "thumbnail": "thumbnails/l1g0zz.webp",
-    "tags": [
-      "CS",
-      "GO",
-      "Mathieu",
-      "GG BET",
-      "Culture"
-    ],
-    "analyzed_at": "2026-11-01T09:57:54.521176+00:00"
-  },
-  {
-    "id": "l0hgys",
-    "title": "Twitter shuts down account of Sci-Hub, the pirated-papers website",
-    "url": "https://www.sciencemag.org/news/2021/01/twitter-shuts-down-account-sci-hub-pirated-papers-website",
-    "permalink": "/r/france/comments/l0hgys/twitter_shuts_down_account_of_scihub_the/",
-    "created_at": "2021-01-19T10:45:33+00:00",
-    "score": 449,
-    "num_comments": 83,
-    "subreddit": "france",
-    "author": "CapriiiCestFiniiiii",
-    "flair": "Science",
-    "domain": "sciencemag.org",
-    "selftext": "",
-    "reddit_thumbnail": "https://b.thumbs.redditmedia.com/66F1xTAZIs0QlM9XwNVz5N-o0dJZFIWjmi-sPygFRPE.jpg",
-    "ingested_at": "2026-11-01T09:48:28.316148+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/l0hgys.webp",
-    "tags": [
-      "Sci-Hub",
-      "Science"
-    ],
-    "analyzed_at": "2026-11-01T09:57:54.908077+00:00"
   },
   {
     "id": "l0gsqt",
@@ -709,12 +427,7 @@
     "ingested_at": "2026-11-01T09:48:28.316809+00:00",
     "summary": "Un amendement déposé par des députés La République En Marche (LREM) puis jugé irrecevable a remis sur la table le débat sur le port du voile par les fillettes. Marianne en parle avec Fatiha Agag-Boudjahlat, enseignante et auteure d'un ouvrage sur cette pratique.",
     "thumbnail": "thumbnails/l0gsqt.webp",
-    "tags": [
-      "Fatiha Agag-Boudjahlat",
-      "République",
-      "Marche",
-      "LREM"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:57:54.462430+00:00"
   },
   {
@@ -734,11 +447,7 @@
     "ingested_at": "2026-11-01T09:48:28.316280+00:00",
     "summary": "D’un côté, l’idéologie sécuritaire augmente la répression que subissent les classes populaires. De l’autre, police et justice se désintéressent de la criminalité des puissants, qu’il s’agisse de représentants de l’État ou d’intérêts privés.",
     "thumbnail": "thumbnails/l0fivb.webp",
-    "tags": [
-      "État",
-      "Vincent Sizaire",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:57:56.606718+00:00"
   },
   {
@@ -758,12 +467,7 @@
     "ingested_at": "2026-11-01T09:48:28.316229+00:00",
     "summary": "L'acteur, scénariste et dramaturge Jean-Pierre Bacri vient de mourir d'un cancer, à l'âge de 69 ans.",
     "thumbnail": "thumbnails/kzx3y4.webp",
-    "tags": [
-      "Jean-Pierre Bacri",
-      "Agnès Jaoui",
-      "Goût",
-      "Culture"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:57:54.901784+00:00"
   },
   {
@@ -783,12 +487,7 @@
     "ingested_at": "2026-11-01T09:48:28.316603+00:00",
     "summary": "Devant le collège Les Battières, qui rassemble quelque 500 élèves, dans le 5e arrondissement de Lyon, les écoliers que l’on interviewe ce matin-là au hasard à leur sortie des cours connaissent tous le professeur d’histoire-géo qui vient de partir.",
     "thumbnail": "thumbnails/kzr6t4.webp",
-    "tags": [
-      "Lyon",
-      "Charlie Hebdo",
-      "Battières",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:57:57.071064+00:00"
   },
   {
@@ -809,11 +508,8 @@
     "summary": "Des salariés de Canal+ racontent sous couvert d'anonymat le climat qui règne dans l'entreprise de Vincent Bolloré après les licenciements des deux figures de l'antenne.",
     "thumbnail": "thumbnails/kz84lv.webp",
     "tags": [
-      "Canal",
-      "Vincent Bolloré",
-      "Guy et Thoen",
-      "HuffPost",
-      "Culture"
+      "Environnement",
+      "Travail"
     ],
     "analyzed_at": "2026-11-01T09:57:54.982076+00:00"
   },
@@ -834,11 +530,7 @@
     "ingested_at": "2026-11-01T09:48:28.317678+00:00",
     "summary": "Paris - \"Vous avez vu la vue ?\": tout sourire dans son sweat blanc à capuche, \"Fatou\" montre à travers la fenêtre le Sacré Coeur illuminé dans la nuit, visible depuis l'\"Escale\", une colocation pour lesbiennes exilées en errance.",
     "thumbnail": "thumbnails/kz412w.webp",
-    "tags": [
-      "Paris",
-      "Sacré Coeur",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:57:56.960423+00:00"
   },
   {
@@ -858,12 +550,7 @@
     "ingested_at": "2026-11-01T09:48:28.317704+00:00",
     "summary": "Child was buried at beginning of first century surrounded by vases and animal offerings",
     "thumbnail": "thumbnails/kyjt2k.webp",
-    "tags": [
-      "Archaeology",
-      "Europe",
-      "Science",
-      "World news"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:57:55.384753+00:00"
   },
   {
@@ -904,37 +591,9 @@
     "summary": "Pour aider les familles britanniques les plus démunies ayant des enfants scolarisés à faire face au nouveau confinement du pays, le gouvernement de Boris Johnson a fait envoyer un panier-repas qui consterne l'opinion.",
     "thumbnail": "thumbnails/kxto1w.webp",
     "tags": [
-      "Royaume-Uni",
-      "Boris Johnson",
-      "Chartwells"
+      "Boris Johnson"
     ],
     "analyzed_at": "2026-11-01T09:57:55.756039+00:00"
-  },
-  {
-    "id": "kxq6xh",
-    "title": "Wikipedia fête ses 20 ans aujourd'hui !",
-    "url": "https://fr.wikipedia.org/wiki/Wikip%C3%A9dia",
-    "permalink": "/r/france/comments/kxq6xh/wikipedia_fête_ses_20_ans_aujourdhui/",
-    "created_at": "2021-01-15T08:12:23+00:00",
-    "score": 1702,
-    "num_comments": 127,
-    "subreddit": "france",
-    "author": "RSVive",
-    "flair": "",
-    "domain": "fr.wikipedia.org",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/CUh-w9nYEwO6v-JQgz7vSu37EeapZvwYlqZsB2GFoiA.jpg?auto=webp&s=4c69a780cb08706057be3efa8bfa6f44b7a4c11b",
-    "ingested_at": "2026-11-01T09:48:28.315795+00:00",
-    "summary": "Pour les articles homonymes, voir WP et Wikipedia (homonymie) . Wikipédia (mot prononcé [ w i . k i . p e . d j a ] Écouter ⓘ ) est une encyclopédie en ligne collaborative et multilingue créée par Jimmy Wales et Larry Sanger le 15 janvier 2001 .",
-    "thumbnail": "thumbnails/kxq6xh.webp",
-    "tags": [
-      "Wikipedia",
-      "Nupedia",
-      "Larry Sanger",
-      "Wikimédia",
-      "Bomis"
-    ],
-    "analyzed_at": "2026-11-01T09:57:58.237230+00:00"
   },
   {
     "id": "kxa2dw",
@@ -976,10 +635,7 @@
     "ingested_at": "2026-11-01T09:48:28.316487+00:00",
     "summary": "Grâce à la détermination de son patron, en grève de la faim depuis le 3 janvier, et à la médiatisation de son dossier, Laye Fodé Traoré va p",
     "thumbnail": "thumbnails/kx8vc6.webp",
-    "tags": [
-      "Laye Fodé Traoré",
-      "Laye"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:57:55.836183+00:00"
   },
   {
@@ -999,13 +655,7 @@
     "ingested_at": "2026-11-01T09:48:28.315914+00:00",
     "summary": "\"Câest extraordinaire que jâaie une voix aussi traÃ®narde, jamais je lâaurais cru ! On ne sâentend pas, absolument !\" Dans ce document unique en son genre, un Parisien rÃ©agit Ã l'Ã©coute de son propre accent, celui du 14e arrondissement, en 1912. Il est interviewÃ© par le linguiste Ferdinand Brunot.",
     "thumbnail": "thumbnails/kx2bps.webp",
-    "tags": [
-      "Ferdinand Brunot",
-      "Paris",
-      "Ã Ã",
-      "Sciences et Savoirs",
-      "Culture Prime"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:57:56.409393+00:00"
   },
   {
@@ -1025,61 +675,8 @@
     "ingested_at": "2026-11-01T09:48:28.316461+00:00",
     "summary": "",
     "thumbnail": "",
-    "tags": [
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:57:56.474538+00:00"
-  },
-  {
-    "id": "kx0igz",
-    "title": "Après deux années, 992 signalements, des jours et des nuits, des rencontres partout, des déboires et des victoires, allo place Beauvau s’arrête.",
-    "url": "http://www.davduf.net/allo-place-beauvau-c-est-pour-un-signalement",
-    "permalink": "/r/france/comments/kx0igz/après_deux_années_992_signalements_des_jours_et/",
-    "created_at": "2021-01-14T06:56:08+00:00",
-    "score": 511,
-    "num_comments": 32,
-    "subreddit": "france",
-    "author": "[deleted]",
-    "flair": "Société",
-    "domain": "davduf.net",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/Ha7_oj7jwsQaFfGN-XoNcfiKtdy4F7VbtVaAmEDxkkE.jpg?auto=webp&s=6201537c0c8c5cecf104d7bce0fc249468d27573",
-    "ingested_at": "2026-11-01T09:48:28.316047+00:00",
-    "summary": "Après deux années, 993 signalements, des jours et des nuits, des rencontres partout, des déboires et des victoires, allo place Beauvau s'arrête. Place à de nouvelles initiatives ! Quelques…",
-    "thumbnail": "thumbnails/kx0igz.webp",
-    "tags": [
-      "Beauvau",
-      "Allo Place Beauvau",
-      "Gilets Jaunes",
-      "Maintien de l'ordre",
-      "Société"
-    ],
-    "analyzed_at": "2026-11-01T09:57:56.099061+00:00"
-  },
-  {
-    "id": "kwlpph",
-    "title": "La vente de semences du domaine public aux utilisateurs non professionnels est enfin libre",
-    "url": "https://www.artemisia-lawyers.com/fran%C3%A7ais/publications-et-interventions/la-vente-de-semences-du-domaine-public-aux-utilisateurs-non-professionnels-est-enfin-libre/",
-    "permalink": "/r/france/comments/kwlpph/la_vente_de_semences_du_domaine_public_aux/",
-    "created_at": "2021-01-13T17:49:09+00:00",
-    "score": 190,
-    "num_comments": 75,
-    "subreddit": "france",
-    "author": "wisi_eu",
-    "flair": "Actus",
-    "domain": "artemisia-lawyers.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/PTAM5VIgdd2zQsa_xUehC4R_DfYW8NKUXO6_m7oMKtk.jpg?auto=webp&s=7a2ca532cfd14e02c60edc196499681771df93eb",
-    "ingested_at": "2026-11-01T09:48:28.317305+00:00",
-    "summary": "La vente de semences du domaine public aux utilisateurs non professionnels enfin libre - Changements concrets - Exemption de l'obligation d'inscription des variétés au catalogue officiel - Obligation de se conformer aux règles sanitaires et à certaines exigences en matière d'étiquetage - La loi Biodiversité et la…",
-    "thumbnail": "thumbnails/kwlpph.webp",
-    "tags": [
-      "Conseil",
-      "Commission",
-      "EGalim",
-      "Règlement 2016"
-    ],
-    "analyzed_at": "2026-11-01T09:57:56.184363+00:00"
   },
   {
     "id": "kwbsnx",
@@ -1098,10 +695,7 @@
     "ingested_at": "2026-11-01T09:48:28.317382+00:00",
     "summary": "",
     "thumbnail": "thumbnails/kwbsnx.webp",
-    "tags": [
-      "Samuel Paty",
-      "Humour"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:57:56.569844+00:00"
   },
   {
@@ -1121,10 +715,7 @@
     "ingested_at": "2026-11-01T09:48:28.316408+00:00",
     "summary": "Le sextoy connecté a pris en otage le pénis de certains utilisateurs et montré une nouvelle fois le danger de certains objets connectés via Internet, qui présentent des failles majeures de sécurité.",
     "thumbnail": "thumbnails/kvp9jc.webp",
-    "tags": [
-      "Internet",
-      "Science"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:57:56.414200+00:00"
   },
   {
@@ -1144,12 +735,7 @@
     "ingested_at": "2026-11-01T09:48:28.317131+00:00",
     "summary": "",
     "thumbnail": "thumbnails/kvp4q3.webp",
-    "tags": [
-      "Paris",
-      "Diary Sow",
-      "Sénégal",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:57:56.851309+00:00"
   },
   {
@@ -1169,13 +755,7 @@
     "ingested_at": "2026-11-01T09:48:28.316122+00:00",
     "summary": "Selon plusieurs médias, l’exécutif envisage des amendes pour les entreprises qui ne contrôlent pas suffisamment leurs chaînes d’approvisionn",
     "thumbnail": "thumbnails/kvp1k2.webp",
-    "tags": [
-      "Ouïghours",
-      "Royaume-Uni",
-      "Chine",
-      "Xinjiang",
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:57:57.092255+00:00"
   },
   {
@@ -1196,11 +776,7 @@
     "summary": "Un boulanger bisontin a entamé dimanche 3 janvier une grève de la faim pour soutenir son apprenti guinéen menacé d'expulsion. Le jeune homme de 18 ans est en train de passer son CAP de boulanger, il devrait obtenir bientôt son diplôme, mais depuis sa majorité il peut être expulsé à tout moment.",
     "thumbnail": "thumbnails/kuz243.webp",
     "tags": [
-      "Besançon",
-      "Immigration",
-      "Solidarité",
-      "CAP",
-      "Stéphane Ravacley"
+      "Grèves et syndicats"
     ],
     "analyzed_at": "2026-11-01T09:57:57.326436+00:00"
   },
@@ -1222,7 +798,8 @@
     "summary": "",
     "thumbnail": "thumbnails/kuyqww.webp",
     "tags": [
-      "IGPN"
+      "Police",
+      "Justice"
     ],
     "analyzed_at": "2026-11-01T09:57:57.224939+00:00"
   },
@@ -1243,11 +820,7 @@
     "ingested_at": "2026-11-01T09:48:28.316174+00:00",
     "summary": "Créateur du célèbre magazine consacré à la mer, Georges Pernoud en avait été la voix off à partir de 1975, avant de passer devant la caméra à partir de 1980.",
     "thumbnail": "thumbnails/kuwx8g.webp",
-    "tags": [
-      "Georges Pernoud",
-      "BD",
-      "Culture"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:57:57.185499+00:00"
   },
   {
@@ -1268,38 +841,9 @@
     "summary": "Dans une entreprise d'informatique lyonnaise, les salariés vont travailler 32 heures par semaine au lieu de 35 heures auparavant. Le tout sans baisse de salaire. Le patron de l'entreprise explique les raisons de cette décision.",
     "thumbnail": "thumbnails/kuclpi.webp",
     "tags": [
-      "Lyon",
-      "IT Partner",
-      "Emploi",
-      "Éco / Conso"
+      "Travail"
     ],
     "analyzed_at": "2026-11-01T09:57:57.376726+00:00"
-  },
-  {
-    "id": "kuajtd",
-    "title": "Biden en octobre 2004 : « Chirac has an ego as big as this room. He's an interesting guy. We all understand the French have been less than helpful, and they've been a pain in the you-know-what. »",
-    "url": "https://www.cfr.org/event/conversation-joseph-r-biden-jr",
-    "permalink": "/r/france/comments/kuajtd/biden_en_octobre_2004_chirac_has_an_ego_as_big_as/",
-    "created_at": "2021-01-10T08:11:19+00:00",
-    "score": 355,
-    "num_comments": 357,
-    "subreddit": "france",
-    "author": "dogmaticidiot",
-    "flair": "",
-    "domain": "cfr.org",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/_fwjyXzubDQkgajEKce0KYG9U0y_DL5nnd5yQHD-6U8.png?auto=webp&s=1b224f919281efdf58b2b30071f2a9c56d1c46da",
-    "ingested_at": "2026-11-01T09:48:28.316332+00:00",
-    "summary": "The Council on Foreign Relations (CFR) is an independent, nonpartisan member organization, think tank, and publisher.",
-    "thumbnail": "thumbnails/kuajtd.webp",
-    "tags": [
-      "French",
-      "John Kerry",
-      "Council",
-      "Foreign Relations",
-      "CFR"
-    ],
-    "analyzed_at": "2026-11-01T09:57:57.492236+00:00"
   },
   {
     "id": "ktqytq",
@@ -1318,62 +862,8 @@
     "ingested_at": "2026-11-01T09:48:28.317408+00:00",
     "summary": "Des femmes kurdes auraient été transférées en Libye pour servir d’esclaves sexuelles auprès des combattants pro-turc. Ces femmes seraient enlevées depuis le début de l’occupation de la ville d’Afrin…",
     "thumbnail": "thumbnails/ktqytq.webp",
-    "tags": [
-      "Libye",
-      "Turquie",
-      "Enlèvements",
-      "Afrin",
-      "Afrique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:57:57.421058+00:00"
-  },
-  {
-    "id": "ktekcq",
-    "title": "Twitter : Permanent suspension of @realDonaldTrump",
-    "url": "https://blog.twitter.com/en_us/topics/company/2020/suspension.html",
-    "permalink": "/r/france/comments/ktekcq/twitter_permanent_suspension_of_realdonaldtrump/",
-    "created_at": "2021-01-08T23:24:41+00:00",
-    "score": 210,
-    "num_comments": 495,
-    "subreddit": "france",
-    "author": "dClauzel",
-    "flair": "Politique",
-    "domain": "blog.twitter.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/JTaDXRDc91IEh9T1BlT9SoBMG85IrA7wcrhJ_0r23hU.jpg?auto=webp&s=b7c13b3dd5c107cdcf5e9bb3814f2d0e5bfc7c44",
-    "ingested_at": "2026-11-01T09:48:28.317036+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/ktekcq.webp",
-    "tags": [
-      "Politique"
-    ],
-    "analyzed_at": "2026-11-01T09:57:59.769904+00:00"
-  },
-  {
-    "id": "kt3qra",
-    "title": "French cinemas outperformed most other European markets in 2020, helped by a more coordinated reopening and less reliance on the output of US studios",
-    "url": "https://www.screendaily.com/features/french-cinemas-outperformed-most-other-european-markets-in-2020/5156079.article",
-    "permalink": "/r/france/comments/kt3qra/french_cinemas_outperformed_most_other_european/",
-    "created_at": "2021-01-08T14:42:02+00:00",
-    "score": 193,
-    "num_comments": 39,
-    "subreddit": "france",
-    "author": "pigamey",
-    "flair": "Culture",
-    "domain": "screendaily.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/bliTjObEhYCWp2bfA59cio_pk5FyXh8yS6TEkrYfoac.jpeg?auto=webp&s=58f2c7e1a603fac05024ca0510bea70ee335cf47",
-    "ingested_at": "2026-11-01T09:48:28.317281+00:00",
-    "summary": "The territory was helped by a more co-ordinated reopening in June post‑lockdown, and less reliance on the output of US studios.",
-    "thumbnail": "thumbnails/kt3qra.webp",
-    "tags": [
-      "US",
-      "European",
-      "June",
-      "French",
-      "Culture"
-    ],
-    "analyzed_at": "2026-11-01T09:57:58.080192+00:00"
   },
   {
     "id": "ksyf71",
@@ -1393,58 +883,9 @@
     "summary": "La victime est morte en août 2019 mais l'information vient tout juste d'être rendue publique. Un patient du CHU de Limoges (Haute-Vienne) est décédé d'une",
     "thumbnail": "thumbnails/ksyf71.webp",
     "tags": [
-      "CHU de Limoges",
-      "Écologie"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T09:57:57.534354+00:00"
-  },
-  {
-    "id": "ksh4ch",
-    "title": "600 casques bleus africains envoyés aux USA pour protéger la démocratie",
-    "url": "https://secretnews.fr/lafrique-envoie-600-casques-bleus-aux-usa-pour-proteger-la-democratie/",
-    "permalink": "/r/france/comments/ksh4ch/600_casques_bleus_africains_envoyés_aux_usa_pour/",
-    "created_at": "2021-01-07T16:46:06+00:00",
-    "score": 201,
-    "num_comments": 13,
-    "subreddit": "france",
-    "author": "smurlikon",
-    "flair": "Humour",
-    "domain": "secretnews.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/An1fZkXS5LLLk52bLpIAweQgxQVCNVEHVrAYIFt96uM.jpg?auto=webp&s=60978b1e8b005eb929d152f182e7b22bc561bc0b",
-    "ingested_at": "2026-11-01T09:48:28.317179+00:00",
-    "summary": "Le président Ivoirien Alassane Ouattar a indiqué que son pays et d’autres nations africaines étaient",
-    "thumbnail": "thumbnails/ksh4ch.webp",
-    "tags": [
-      "USA",
-      "Ivoirien Alassane Ouattar",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:57:57.699061+00:00"
-  },
-  {
-    "id": "ksbagg",
-    "title": "Un énième pays du tiers-monde expérimente avec difficulté la démocratie",
-    "url": "http://www.legorafi.fr/2021/01/07/un-enieme-pays-du-tiers-monde-experimente-avec-difficulte-la-democratie/",
-    "permalink": "/r/france/comments/ksbagg/un_énième_pays_du_tiersmonde_expérimente_avec/",
-    "created_at": "2021-01-07T11:15:23+00:00",
-    "score": 949,
-    "num_comments": 77,
-    "subreddit": "france",
-    "author": "kekwill",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/nUcAueo8o1vVAuUCZYgL71qIOg5M5KIpxoGOQsgUbLs.jpeg?auto=webp&s=912208f76230c3ec73a0226c4c27c05f9ba0b37d",
-    "ingested_at": "2026-11-01T09:48:28.315940+00:00",
-    "summary": "Le monde avait les yeux rivés sur un petit pays nord-américain en développement cette nuit après que les partisans d'un président déchu ont tenté de prendre d'assaut le bâtiment du corps législatif pour contester les résultats de l'élection présidentielle.",
-    "thumbnail": "thumbnails/ksbagg.webp",
-    "tags": [
-      "Donald Trump",
-      "Gorafi",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:57:57.636417+00:00"
   },
   {
     "id": "krvh1v",
@@ -1465,10 +906,7 @@
     "thumbnail": "thumbnails/krvh1v.webp",
     "tags": [
       "Donald Trump",
-      "Trump",
-      "Biden",
-      "Washington",
-      "Etats-Unis"
+      "Joe Biden"
     ],
     "analyzed_at": "2026-11-01T09:57:58.647577+00:00"
   },
@@ -1489,10 +927,7 @@
     "ingested_at": "2026-11-01T09:48:28.317204+00:00",
     "summary": "",
     "thumbnail": "thumbnails/krkqja.webp",
-    "tags": [
-      "Brésil",
-      "Bolsonaro"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:57:58.043939+00:00"
   },
   {
@@ -1512,10 +947,7 @@
     "ingested_at": "2026-11-01T09:48:28.316961+00:00",
     "summary": "",
     "thumbnail": "thumbnails/krhrt1.webp",
-    "tags": [
-      "Hongkong",
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:57:58.083408+00:00"
   },
   {
@@ -1536,9 +968,8 @@
     "summary": "Un professeur, victime d'une agression verbale de la part d'un parent d'élèves, se voit contraint de changer d'établissement. \"Un traitement indigne et scandaleux\", estiment ses collègues du collège des Battières à Lyon....",
     "thumbnail": "thumbnails/kr3634.webp",
     "tags": [
-      "Lyon",
-      "Battières",
-      "Samuel Paty"
+      "Éducation",
+      "Grèves et syndicats"
     ],
     "analyzed_at": "2026-11-01T09:57:58.180477+00:00"
   },
@@ -1560,37 +991,9 @@
     "summary": "Le 30 décembre, le cadavre d’un lynx a été découvert dans une forêt du massif jurassien. Le troisième en quelques mois. Le centre Athénas, association de défense de la faune sauvage, dénonce un nouveau braconnage et...",
     "thumbnail": "thumbnails/kqtwv4.webp",
     "tags": [
-      "Jura",
-      "Athénas",
-      "Société"
+      "Cause animale"
     ],
     "analyzed_at": "2026-11-01T09:57:58.383472+00:00"
-  },
-  {
-    "id": "kqehtp",
-    "title": "Le célèbre milliardaire chinois Jack Ma n’a plus donné signe de vie depuis octobre dernier. Le fondateur d’Alibaba a disparu peu après un discours critique à l’égard du régime de Pékin.",
-    "url": "https://f24.my/7E8P",
-    "permalink": "/r/france/comments/kqehtp/le_célèbre_milliardaire_chinois_jack_ma_na_plus/",
-    "created_at": "2021-01-04T18:24:51+00:00",
-    "score": 438,
-    "num_comments": 159,
-    "subreddit": "france",
-    "author": "AzuNetia",
-    "flair": "Actus",
-    "domain": "f24.my",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/WaxPWk2VTDTzxV-EfyqwxinLjw3tRgvtLD8kUvaxuk0.jpeg?auto=webp&s=3fff8e31f9444aa171279fba87e2b5d7cd8a5a91",
-    "ingested_at": "2026-11-01T09:48:28.316200+00:00",
-    "summary": "Le célèbre milliardaire chinois Jack Ma n’a plus donné signe de vie depuis octobre dernier. Le fondateur d’Alibaba a disparu peu après un discours critique à l’égard du régime de Pékin.",
-    "thumbnail": "thumbnails/kqehtp.webp",
-    "tags": [
-      "Jack",
-      "Alibaba",
-      "Pékin",
-      "Chine",
-      "Jack Ma"
-    ],
-    "analyzed_at": "2026-11-01T09:57:59.366699+00:00"
   },
   {
     "id": "kq6swz",
@@ -1610,9 +1013,7 @@
     "summary": "",
     "thumbnail": "thumbnails/kq6swz.webp",
     "tags": [
-      "Julian Assange",
-      "Etats-Unis",
-      "Politique"
+      "Justice"
     ],
     "analyzed_at": "2026-11-01T09:57:58.624393+00:00"
   },
@@ -1633,9 +1034,7 @@
     "ingested_at": "2026-11-01T09:48:28.316935+00:00",
     "summary": "Militants occasionnels ou aguerris, certains abandonnent leur droit de défiler, effrayés par les stratégies de maintien de l'ordre.",
     "thumbnail": "thumbnails/kq66zo.webp",
-    "tags": [
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:57:58.587951+00:00"
   },
   {
@@ -1656,9 +1055,7 @@
     "summary": "Une majorité d’Ecossais sont en faveur de l’indépendance, selon un dernier sondage",
     "thumbnail": "thumbnails/kppt4z.webp",
     "tags": [
-      "UE",
-      "Ecossais",
-      "Politique"
+      "Union européenne"
     ],
     "analyzed_at": "2026-11-01T09:57:58.657450+00:00"
   },
@@ -1680,9 +1077,7 @@
     "summary": "Et d'ici 2025, la ville italienne ambitionne d'interdire totalement la cigarette, dans le cadre d'un vaste plan de lutte contre la pollution.",
     "thumbnail": "thumbnails/kppmv7.webp",
     "tags": [
-      "Milan",
-      "Environnement",
-      "Italie"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T09:57:58.827284+00:00"
   },
@@ -1703,9 +1098,7 @@
     "ingested_at": "2026-11-01T09:48:28.316758+00:00",
     "summary": "",
     "thumbnail": "thumbnails/kow6ky.webp",
-    "tags": [
-      "Kazakhstan"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:57:58.879476+00:00"
   },
   {
@@ -1725,9 +1118,7 @@
     "ingested_at": "2026-11-01T09:48:28.317532+00:00",
     "summary": "",
     "thumbnail": "thumbnails/kosd4m.webp",
-    "tags": [
-      "Bretagne"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:57:59.006836+00:00"
   },
   {
@@ -1747,10 +1138,7 @@
     "ingested_at": "2026-11-01T09:48:28.315825+00:00",
     "summary": "La décision du déremboursement des granules avaient été décidée il y a un an et demi par l'ancienne ministre de la santé Agnès Buzyn. Tous les recours en justice des industriels ont échoué.",
     "thumbnail": "thumbnails/kok0uj.webp",
-    "tags": [
-      "Agnès Buzyn",
-      "Médicament"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:57:59.004949+00:00"
   },
   {
@@ -1770,11 +1158,7 @@
     "ingested_at": "2026-11-01T09:48:28.316073+00:00",
     "summary": "",
     "thumbnail": "thumbnails/koa8gl.webp",
-    "tags": [
-      "From Brexit",
-      "Islamist",
-      "Paris"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:58:00.329980+00:00"
   },
   {
@@ -1794,13 +1178,7 @@
     "ingested_at": "2026-11-01T09:48:28.316629+00:00",
     "summary": "Un habitant du Bas-Rhin, âgé de 25 ans, est mort dans la nuit de la Saint-Sylvestre. Ce dernier, alors qu'il manipulait un mortier d'artifice, a eu la tête arrachée.",
     "thumbnail": "thumbnails/ko8bhv.webp",
-    "tags": [
-      "Alsace",
-      "Bas-Rhin",
-      "Saint-Sylvestre",
-      "Strasbourg",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:57:59.003231+00:00"
   }
 ]

@@ -16,11 +16,7 @@
     "ingested_at": "2026-11-01T10:06:59.028611+00:00",
     "summary": "Un cran plus haut dans la menace. Début mars, les autorités militaires suédoises nous apprenaient que quatre aéronefs russes, deux Sukhoi 27 et deux…",
     "thumbnail": "thumbnails/ttclnb.webp",
-    "tags": [
-      "Sukhoi 27",
-      "Russie",
-      "Otan"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:07:58.003163+00:00"
   },
   {
@@ -40,13 +36,7 @@
     "ingested_at": "2026-11-01T10:06:59.028385+00:00",
     "summary": "ENTRETIEN - Trente patrons appellent dans une tribune publiée par Challenges à ce que les mathématiques retrouvent leur place dans le «tronc commun» du lycée, dont le PDG de Thales Patrice Caine.",
     "thumbnail": "thumbnails/ttcdmf.webp",
-    "tags": [
-      "Patrice Caine",
-      "PDG de Thales",
-      "Thales",
-      "CAC 40",
-      "Challenges"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:07:58.038515+00:00"
   },
   {
@@ -88,13 +78,7 @@
     "ingested_at": "2026-11-01T10:06:59.028097+00:00",
     "summary": "Le couple de gérants de l’Intermarché de Verdun-sur-Garonne (Tarn-et-Garonne) a décidé de lutter à leur façon contre des équipes de voleurs à l’étalage en exposant les photos des suspects. Des clichés de \"voleurs...",
     "thumbnail": "thumbnails/tst9of.webp",
-    "tags": [
-      "VIDEO",
-      "DEPECHE",
-      "Intermarché du Tarn-et-Garonne",
-      "Intermarché de Verdun-sur-Garonne",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:07:58.229629+00:00"
   },
   {
@@ -115,8 +99,7 @@
     "summary": "La ministre déléguée à la Citoyenneté sortira en juin un nouveau livre aux éditions de L'Observatoire.",
     "thumbnail": "thumbnails/ts9614.webp",
     "tags": [
-      "Citoyenneté",
-      "Observatoire"
+      "Marlène Schiappa"
     ],
     "analyzed_at": "2026-11-01T10:07:58.041409+00:00"
   },
@@ -138,33 +121,9 @@
     "summary": "Un rapport d’Attac et du syndicat Solidaires montre que l’effort contre la fraude fiscale se réduit, malgré les discours officiels. En revanche, les bénéficiaires de prestations sociales sont de plus…",
     "thumbnail": "thumbnails/ts25qd.webp",
     "tags": [
-      "Attac",
-      "Solidaires"
+      "Budget et fiscalité"
     ],
     "analyzed_at": "2026-11-01T10:07:58.983135+00:00"
-  },
-  {
-    "id": "tqun6y",
-    "title": "Il y a du boulot : l’analyse des propositions des candidats sur le climat par le Shift Project",
-    "url": "https://theshiftproject.org/article/climat-energie-analyse-shift-presidentielles/",
-    "permalink": "/r/france/comments/tqun6y/il_y_a_du_boulot_lanalyse_des_propositions_des/",
-    "created_at": "2022-03-29T07:51:58+00:00",
-    "score": 184,
-    "num_comments": 76,
-    "subreddit": "france",
-    "author": "OPI-OMI",
-    "flair": "Politique",
-    "domain": "theshiftproject.org",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/xAOCxCMnfnh7RORPs1eDv6YGkuqQFSpC-HxBEUzlshQ.jpg?auto=webp&s=d9405800e2851d5dcf061afb16684b64fee05cab",
-    "ingested_at": "2026-11-01T10:06:59.028336+00:00",
-    "summary": "Notre analyse de l'approche des candidats à la présidentielle sur leur mise en œuvre de la sortie des énergies fossiles.",
-    "thumbnail": "thumbnails/tqun6y.webp",
-    "tags": [
-      "Shift Project",
-      "Politique"
-    ],
-    "analyzed_at": "2026-11-01T10:07:58.247980+00:00"
   },
   {
     "id": "tqucjr",
@@ -184,7 +143,7 @@
     "summary": "Après avoir subi des brimades racistes pendant quatre ans, six gendarmes du même escadron ont alerté leur hiérarchie et le Défenseur des droits. Deux d’entre eux portent aujourd’hui l’affaire devant …",
     "thumbnail": "thumbnails/tqucjr.webp",
     "tags": [
-      "Défenseur"
+      "Police"
     ],
     "analyzed_at": "2026-11-01T10:08:00.063720+00:00"
   },
@@ -207,10 +166,7 @@
     "thumbnail": "thumbnails/tqac97.webp",
     "tags": [
       "Yannick Jadot",
-      "C8",
-      "UE",
-      "Politique",
-      "Europe"
+      "Élections"
     ],
     "analyzed_at": "2026-11-01T10:07:58.576112+00:00"
   },
@@ -232,10 +188,7 @@
     "summary": "Interdictions d’assister à des meetings, exclusions sans explication... Plusieurs militants dénoncent les pratiques du parti d’Éric Zemmour. À Nice, le coordinateur de Reconquête, Benoît Kandel, vien…",
     "thumbnail": "thumbnails/tq3cyn.webp",
     "tags": [
-      "Reconquête",
-      "Éric Zemmour",
-      "Benoît Kandel",
-      "Nice"
+      "Éric Zemmour"
     ],
     "analyzed_at": "2026-11-01T10:08:01.769949+00:00"
   },
@@ -257,11 +210,7 @@
     "summary": "Le président candidat a défendu le recours à des cabinets externes et expliqué que chaque contrat «respecte la règle des marchés publics».",
     "thumbnail": "thumbnails/tpmgal.webp",
     "tags": [
-      "McKinsey",
-      "Emmanuel Macron",
-      "Affaire McKinsey",
-      "Macron",
-      "Société"
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T10:07:59.056659+00:00"
   },
@@ -282,10 +231,7 @@
     "ingested_at": "2026-11-01T10:06:59.028073+00:00",
     "summary": "",
     "thumbnail": "thumbnails/tpfg3e.webp",
-    "tags": [
-      "McKinsey",
-      "Caisse"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:07:58.831418+00:00"
   },
   {
@@ -306,9 +252,7 @@
     "summary": "Pour contrer la percée du candidat Insoumis, la présidente du Rassemblement National, Marine Le Pen, agite la menace islamogauchiste.",
     "thumbnail": "thumbnails/tp2lnq.webp",
     "tags": [
-      "Marine le Pen",
-      "Insoumis",
-      "Rassemblement National"
+      "Marine Le Pen"
     ],
     "analyzed_at": "2026-11-01T10:07:58.792370+00:00"
   },
@@ -329,12 +273,7 @@
     "ingested_at": "2026-11-01T10:06:59.028145+00:00",
     "summary": "Entretien. Souvent perÃ§us comme des assistÃ©s, de mauvais gestionnaires, les pauvres ont en fait des stratÃ©gies rationnelles pour leurs dÃ©penses, explique le sociologue Denis Colombi.",
     "thumbnail": "thumbnails/tomgp3.webp",
-    "tags": [
-      "Denis Colombi",
-      "Ãconomie",
-      "SociÃ©tÃ©",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:08:00.054776+00:00"
   },
   {
@@ -356,34 +295,10 @@
     "thumbnail": "thumbnails/tni2jk.webp",
     "tags": [
       "Nicolas Sarkozy",
-      "Serge Tournaire",
-      "Sarkozy et Fillon",
-      "Paris",
-      "Monde"
+      "François Fillon",
+      "Éric Dupond-Moretti"
     ],
     "analyzed_at": "2026-11-01T10:07:59.274657+00:00"
-  },
-  {
-    "id": "tngj3g",
-    "title": "Forteresse de Penne, Tarn, France",
-    "url": "https://live.staticflickr.com/65535/51423691246_33f9f03592_o.jpg",
-    "permalink": "/r/france/comments/tngj3g/forteresse_de_penne_tarn_france/",
-    "created_at": "2022-03-25T07:23:00+00:00",
-    "score": 814,
-    "num_comments": 49,
-    "subreddit": "france",
-    "author": "loulan",
-    "flair": "",
-    "domain": "live.staticflickr.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/c16GtQhtN5W9SwSWYkDbRIHw2AHPA1CZG75vgAD594w.jpeg?auto=webp&s=936f8cae0faea682d5c876afafcd578b5bfe14cf",
-    "ingested_at": "2026-11-01T10:06:59.026622+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/tngj3g.webp",
-    "tags": [
-      "Penne"
-    ],
-    "analyzed_at": "2026-11-01T10:08:03.090498+00:00"
   },
   {
     "id": "tn7u2o",
@@ -402,13 +317,7 @@
     "ingested_at": "2026-11-01T10:06:59.027496+00:00",
     "summary": "L'Italie a chuté à domicile contre la Macédoine du Nord jeudi en demi-finales des qualifications pour la Coupe du Monde 2022 (1-0) au Qatar. Alexandre Trajkovski a marqué l'unique but de la rencontre dans le temps additionnel.",
     "thumbnail": "thumbnails/tn7u2o.webp",
-    "tags": [
-      "Macédoine du Nord",
-      "Italie",
-      "Mondial 2022",
-      "Qualif. CM Europe",
-      "Sport"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:08:02.190684+00:00"
   },
   {
@@ -429,11 +338,7 @@
     "summary": "Avec 11% des exportations mondiales d'armement, le pays a presque doublé son poids dans le commerce mondial du matériel militaire, principalement grâce aux ventes de Rafale.",
     "thumbnail": "thumbnails/tm2v6k.webp",
     "tags": [
-      "Chine",
-      "Rafale",
-      "Russie",
-      "États-Unis",
-      "Économie"
+      "Défense"
     ],
     "analyzed_at": "2026-11-01T10:07:59.265182+00:00"
   },
@@ -454,33 +359,8 @@
     "ingested_at": "2026-11-01T10:06:59.027923+00:00",
     "summary": "En 2021, l’État a payé plus d’un milliard d’euros de prestations à des cabinets de conseil. Dans un rapport publié jeudi, une commission d’enquête sénatoriale s’alarme et appelle à encadrer le recour…",
     "thumbnail": "thumbnails/tlzpmc.webp",
-    "tags": [
-      "État"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:08:00.664721+00:00"
-  },
-  {
-    "id": "tkszc3",
-    "title": "Sandrine Rousseau propose un « délit de non-partage des tâches domestiques »",
-    "url": "https://www.elle.fr/Societe/News/Sandrine-Rousseau-propose-un-delit-de-non-partage-des-taches-domestiques-4010668",
-    "permalink": "/r/france/comments/tkszc3/sandrine_rousseau_propose_un_délit_de_nonpartage/",
-    "created_at": "2022-03-23T12:38:07+00:00",
-    "score": 266,
-    "num_comments": 413,
-    "subreddit": "france",
-    "author": "sgdbdjos",
-    "flair": "Politique",
-    "domain": "elle.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/QfLWPbVjc9KLgPJcTvh6wUVqWlFJgdy4pXJNg6-FI9c.jpeg?auto=webp&s=4988691b28642140bdab5cd63c66d4f81a361722",
-    "ingested_at": "2026-11-01T10:06:59.027622+00:00",
-    "summary": "La finaliste de la primaire écologiste Sandrine Rousseau a proposé de sanctionner le non-partage des tâches domestiques, majoritairement réalisées par des femmes.",
-    "thumbnail": "thumbnails/tkszc3.webp",
-    "tags": [
-      "Sandrine Rousseau",
-      "Politique"
-    ],
-    "analyzed_at": "2026-11-01T10:07:59.610053+00:00"
   },
   {
     "id": "tkr3su",
@@ -500,11 +380,8 @@
     "summary": "TF1 ne consacrera pas toute sa soirée au premier tour de l'élection présidentielle, une première pour la chaîne.",
     "thumbnail": "thumbnails/tkr3su.webp",
     "tags": [
-      "TF1",
-      "Visiteurs",
-      "Médias",
-      "Élections présidentielles",
-      "Elections"
+      "Élections",
+      "Élection présidentielle"
     ],
     "analyzed_at": "2026-11-01T10:08:00.051151+00:00"
   },
@@ -525,13 +402,7 @@
     "ingested_at": "2026-11-01T10:06:59.027396+00:00",
     "summary": "Le militant d’extrême droite, qui aurait ouvert le feu sur l’ex-joueur argentin samedi à Paris, a été arrêté dans la nuit de mardi à mercredi. Son complice présumé a, lui, été interpellé mercredi midi dans la Sarthe.",
     "thumbnail": "thumbnails/tkphfq.webp",
-    "tags": [
-      "Paris",
-      "Loïk le Priol",
-      "Hongrie",
-      "Aramburu",
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:08:07.376384+00:00"
   },
   {
@@ -552,11 +423,9 @@
     "summary": "D'après notre nouveau sondage Opinion 2022 réalisé par l'institut Elabe, une majorité de Français jugent négativement le programme présenté par le président-candidat jeudi dernier.",
     "thumbnail": "thumbnails/tkojxj.webp",
     "tags": [
-      "Français",
-      "Macron",
-      "SONDAGE BFMTV",
-      "Opinion 2022",
-      "Politique"
+      "Élections",
+      "Emmanuel Macron",
+      "Élection présidentielle"
     ],
     "analyzed_at": "2026-11-01T10:08:00.380845+00:00"
   },
@@ -579,7 +448,7 @@
     "thumbnail": "thumbnails/tkoa54.webp",
     "tags": [
       "Jean-Luc Mélenchon",
-      "Ère"
+      "Justice"
     ],
     "analyzed_at": "2026-11-01T10:08:01.239547+00:00"
   },
@@ -601,9 +470,7 @@
     "summary": "The “ad hoc” alliance between Macron and Sánchez, which adds to the support he received last Friday from “Club Med” at a mini-summit in Rome, puts more pressure on the European Commission to open that ‘Pandora box’, EURACTIV’s partner EFE reported.",
     "thumbnail": "thumbnails/tkm24j.webp",
     "tags": [
-      "Spanish",
-      "European Commission",
-      "EFE"
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T10:08:07.708296+00:00"
   },
@@ -624,10 +491,7 @@
     "ingested_at": "2026-11-01T10:06:59.027193+00:00",
     "summary": "",
     "thumbnail": "thumbnails/tkbwm9.webp",
-    "tags": [
-      "Texas",
-      "Etats-Unis"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:08:00.969260+00:00"
   },
   {
@@ -647,11 +511,7 @@
     "ingested_at": "2026-11-01T10:06:59.027371+00:00",
     "summary": "Même si la pratique flirte avec l’illégalité, l’astrologie – dont c’est la Journée internationale ce dimanche – est parfois utilisée dans les processus de recrutement",
     "thumbnail": "thumbnails/tk28wz.webp",
-    "tags": [
-      "Scorpion",
-      "Journée",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:08:01.275277+00:00"
   },
   {
@@ -671,13 +531,7 @@
     "ingested_at": "2026-11-01T10:06:59.027997+00:00",
     "summary": "Federico MartÃ­n AramburÃº, rugbyman argentin Ã la retraite, a Ã©tÃ© abattu Ã Paris. Le militant nÃ©ofasciste passÃ© par le Gud Paris, LoÃ¯k Le Priol, soupÃ§onnÃ© dâÃªtre le meurtrier a Ã©tÃ© arrÃªtÃ© en Hongrie. StreetPress dresse son portrait.",
     "thumbnail": "thumbnails/tjzv76.webp",
-    "tags": [
-      "Priol",
-      "Loïk le Priol",
-      "Federico Martín Aramburú",
-      "AramburÃº",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:08:01.315836+00:00"
   },
   {
@@ -698,9 +552,7 @@
     "summary": "Les universités françaises font face à un gros problème de financement, depuis des années, avec des conditions d’enseignement qui se détériorent. Exemple à Brest.",
     "thumbnail": "thumbnails/tjy7l3.webp",
     "tags": [
-      "Brest",
-      "Education",
-      "Société"
+      "Éducation"
     ],
     "analyzed_at": "2026-11-01T10:08:02.327973+00:00"
   },
@@ -722,11 +574,10 @@
     "summary": "Le candidat de Reconquête ne récolte que 9% des intentions de vote dans le dernier baromètre OpinionWay pour Les Échos et Radio classique. Ce mauvais score bénéficie à Marine Le Pen qui se rapproche des 20%.",
     "thumbnail": "thumbnails/tjlexh.webp",
     "tags": [
-      "Reconquête",
-      "Marine le Pen",
-      "OpinionWay",
-      "Échos et Radio",
-      "Elections"
+      "Élections",
+      "Éric Zemmour",
+      "Élection présidentielle",
+      "Marine Le Pen"
     ],
     "analyzed_at": "2026-11-01T10:08:01.464545+00:00"
   },
@@ -747,10 +598,7 @@
     "ingested_at": "2026-11-01T10:06:59.027696+00:00",
     "summary": "",
     "thumbnail": "thumbnails/tj8clr.webp",
-    "tags": [
-      "X-Fab",
-      "Économie"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:08:01.785070+00:00"
   },
   {
@@ -771,11 +619,8 @@
     "summary": "Trois ans après la précédente, SOS Racisme a mené une nouvelle campagne de testing. L'association constate que les discriminations raciales pour les locations sont encore très répandues.",
     "thumbnail": "thumbnails/tj63a7.webp",
     "tags": [
-      "SOS Racisme",
       "Racisme",
-      "Immobilier",
-      "Éco / Conso",
-      "Société"
+      "Logement"
     ],
     "analyzed_at": "2026-11-01T10:08:01.855718+00:00"
   },
@@ -797,11 +642,8 @@
     "summary": "L’ex-rugbyman a été tué par balle samedi matin en sortant d’un établissement de nuit de Saint-Germain-des-Prés. Une altercation avait précédé le meurtre.",
     "thumbnail": "thumbnails/tihsyi.webp",
     "tags": [
-      "Saint-Germain-des-Prés",
-      "Paris",
-      "Meurtre Aramburu",
-      "Priol",
-      "Homicide"
+      "Police",
+      "Extrême droite"
     ],
     "analyzed_at": "2026-11-01T10:08:09.855312+00:00"
   },
@@ -824,10 +666,7 @@
     "thumbnail": "thumbnails/tigxyl.webp",
     "tags": [
       "Boris Johnson",
-      "Brexit",
-      "Ukraine",
-      "Ukraine et le Brexit",
-      "Politique"
+      "Guerre en Ukraine"
     ],
     "analyzed_at": "2026-11-01T10:08:02.285404+00:00"
   },
@@ -849,10 +688,7 @@
     "summary": "La calotte glaciaire orientale de l’Antarctique, l’un des endroits les plus froids sur Terre, a connu ces derniers jours un épisode de chaleur sans précédent. Le thermomètre affichait des températures de 40°C au-dessus de la moyenne.",
     "thumbnail": "thumbnails/ti4uup.webp",
     "tags": [
-      "Antarctique",
-      "Terre",
-      "Rechauffement-climatique",
-      "Écologie"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T10:08:04.939948+00:00"
   },
@@ -873,12 +709,7 @@
     "ingested_at": "2026-11-01T10:06:59.027295+00:00",
     "summary": "Une nouvelle polémique secoue vendredi le très compétitif milieu sportif universitaire américain au lendemain de la victoire historique de la nageuse transgenre Lia Thomas aux championnats universitaires de natation",
     "thumbnail": "thumbnails/thrz7p.webp",
-    "tags": [
-      "Lia Thomas",
-      "Etats-Unis",
-      "Thomas",
-      "Sport"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:08:03.828926+00:00"
   },
   {
@@ -899,36 +730,9 @@
     "summary": "InterrogÃ© le 18 janvier sur la situation fiscale du cabinet McKinsey, son directeur associÃ© a fait des dÃ©clarations qui \"sont susceptibles de constituer un faux tÃ©moignage devant une commission dâenquÃªte\", d'aprÃ¨s nos informations.",
     "thumbnail": "thumbnails/thayfo.webp",
     "tags": [
-      "McKinsey",
-      "SÃ",
-      "Politique",
-      "Gouvernement franÃ§ais"
+      "Budget et fiscalité"
     ],
     "analyzed_at": "2026-11-01T10:08:03.943045+00:00"
-  },
-  {
-    "id": "thafw9",
-    "title": "Bernard-Henri Lévy sur son voyage à Odessa: \"J'ai tagué sur une barricade les trois mots de la devise républicaine française : liberté, égalité, fraternité\"",
-    "url": "https://actu.orange.fr/monde/videos/bernard-henri-levy-sur-son-voyage-a-odessa-j-ai-tague-sur-une-barricade-les-trois-mots-de-la-devise-republicaine-francaise-liberte-egalite-fraternite-CNT000001KN1j7.html",
-    "permalink": "/r/france/comments/thafw9/bernardhenri_lévy_sur_son_voyage_à_odessa_jai/",
-    "created_at": "2022-03-18T18:07:54+00:00",
-    "score": 247,
-    "num_comments": 157,
-    "subreddit": "france",
-    "author": "Klan10",
-    "flair": "Politique",
-    "domain": "actu.orange.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/lr8l_uH69Phj94Nw9Gn8y0xsm0qe4t1Luw-Hmh0wiVk.jpg?auto=webp&s=674e22e4fbcf75f63ebf6994ca202bdfaa4fe517",
-    "ingested_at": "2026-11-01T10:06:59.027824+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/thafw9.webp",
-    "tags": [
-      "Bernard-Henri Lévy",
-      "Odessa",
-      "Politique"
-    ],
-    "analyzed_at": "2026-11-01T10:08:04.250088+00:00"
   },
   {
     "id": "th2kzz",
@@ -948,11 +752,8 @@
     "summary": "Exilés à Kiev, de jeunes membres d’une confrérie d’extrême droite voyaient en l’Ukraine leur Terre promise identitaire et en Vladimir Poutine leur allié. Depuis le 24 février, les bombes russes ont dynamité leurs certitudes.",
     "thumbnail": "thumbnails/th2kzz.webp",
     "tags": [
-      "Ukraine",
-      "Français",
-      "Kiev",
-      "Terre",
-      "Société"
+      "Guerre en Ukraine",
+      "Vladimir Poutine"
     ],
     "analyzed_at": "2026-11-01T10:08:03.702948+00:00"
   },
@@ -973,9 +774,7 @@
     "ingested_at": "2026-11-01T10:06:59.027972+00:00",
     "summary": "",
     "thumbnail": "thumbnails/tgx2gq.webp",
-    "tags": [
-      "Etat"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:08:04.157416+00:00"
   },
   {
@@ -996,8 +795,9 @@
     "summary": "Alors que de nombreux réfugiés ukrainiens arrivent dans notre pays, certains en profitent à leurs dépens.",
     "thumbnail": "thumbnails/tgwidi.webp",
     "tags": [
-      "Belgique",
-      "Société"
+      "Immigration",
+      "Guerre en Ukraine",
+      "Travail"
     ],
     "analyzed_at": "2026-11-01T10:08:05.004482+00:00"
   },
@@ -1019,8 +819,7 @@
     "summary": "",
     "thumbnail": "thumbnails/tgcmte.webp",
     "tags": [
-      "RSA",
-      "Politique"
+      "Pauvreté"
     ],
     "analyzed_at": "2026-11-01T10:08:04.286423+00:00"
   },
@@ -1042,7 +841,7 @@
     "summary": "",
     "thumbnail": "thumbnails/tg7b7b.webp",
     "tags": [
-      "McKinsey"
+      "Budget et fiscalité"
     ],
     "analyzed_at": "2026-11-01T10:08:04.501645+00:00"
   },
@@ -1064,11 +863,9 @@
     "summary": "D'après cette enquête Ipsos-Sopra Steria pour France Télévisions, les personnes interrogées affichent des positions très fluctuantes sur ce sujet.",
     "thumbnail": "thumbnails/tg5lko.webp",
     "tags": [
-      "Français",
-      "Ipsos-Sopra Steria",
-      "France Télévisions",
-      "LREM",
-      "Politique"
+      "Immigration",
+      "Élections",
+      "Élection présidentielle"
     ],
     "analyzed_at": "2026-11-01T10:08:04.545211+00:00"
   },
@@ -1090,63 +887,9 @@
     "summary": "Cette forte concentration des logements possédés par des particuliers dérègle le marché immobilier et \"accentue le creusement des inégalités\", selon la Fondation Abbé-Pierre.",
     "thumbnail": "thumbnails/tg49o7.webp",
     "tags": [
-      "ENQUÊTE FRANCEINFO",
-      "Fondation Abbé-Pierre",
-      "Le coût du logement",
-      "Les choix de la rédaction",
-      "Pouvoir d'achat"
+      "Logement"
     ],
     "analyzed_at": "2026-11-01T10:08:04.926595+00:00"
-  },
-  {
-    "id": "tfg8fy",
-    "title": "La Bretagne annonce une «opération militaire spéciale» visant à «dénormandifier» le Mont Saint-Michel",
-    "url": "https://www.legorafi.fr/2022/03/16/la-bretagne-annonce-une-operation-militaire-speciale-visant-a-denormandifier-le-mont-saint-michel/",
-    "permalink": "/r/france/comments/tfg8fy/la_bretagne_annonce_une_opération_militaire/",
-    "created_at": "2022-03-16T12:11:59+00:00",
-    "score": 1320,
-    "num_comments": 109,
-    "subreddit": "france",
-    "author": "[deleted]",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/-fRUHN7l6AUz-DFIAcce-9AT2eaEJvmw1Z1MN91On4M.jpeg?auto=webp&s=e76d765c61077a6c09237a7b7410be2e6724a0c7",
-    "ingested_at": "2026-11-01T10:06:59.026438+00:00",
-    "summary": "Selon plusieurs observateurs, les forces armées bretonnes se seraient positionnées à proximité des frontières normandes et ceci pourrait être l'amorce d'une invasion prochaine.",
-    "thumbnail": "thumbnails/tfg8fy.webp",
-    "tags": [
-      "Bretagne",
-      "Mont Saint-Michel",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T10:08:04.845865+00:00"
-  },
-  {
-    "id": "tffet6",
-    "title": "Le nouveau président de la Corée du Sud veut pouvoir faire travailler les Coréens 120 heures par semaine, ce qui fait 17 heures par jour",
-    "url": "https://www.gqmagazine.fr/pop-culture/article/le-nouveau-president-de-la-coree-du-sud-veut-pouvoir-faire-travailler-les-coreens-120-heures-par-semaine-ce-qui-fait-17-heures-par-jour",
-    "permalink": "/r/france/comments/tffet6/le_nouveau_président_de_la_corée_du_sud_veut/",
-    "created_at": "2022-03-16T11:24:39+00:00",
-    "score": 437,
-    "num_comments": 286,
-    "subreddit": "france",
-    "author": "Tavek",
-    "flair": "Politique",
-    "domain": "gqmagazine.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/vNP-Tgs8thvJUYPk6hySKfOGeuRPZLuB_3j2Ar7fkNs.jpeg?auto=webp&s=4c395f11a4f0fef3d7416aa9df16b0f8140ce8ea",
-    "ingested_at": "2026-11-01T10:06:59.026989+00:00",
-    "summary": "Yoon Seok-youl a été élu président de la Corée du Sud le 10 mars. Il a critiqué la semaine de 52h de travail et estime que les gens peuvent aller jusqu'à 120h.",
-    "thumbnail": "thumbnails/tffet6.webp",
-    "tags": [
-      "Corée du Sud",
-      "Coréens 120",
-      "Yoon Seok-youl",
-      "Corée du Sud le 10",
-      "Politique"
-    ],
-    "analyzed_at": "2026-11-01T10:08:05.523460+00:00"
   },
   {
     "id": "tenjae",
@@ -1165,10 +908,7 @@
     "ingested_at": "2026-11-01T10:06:59.027446+00:00",
     "summary": "",
     "thumbnail": "thumbnails/tenjae.webp",
-    "tags": [
-      "Mali",
-      "Wagner"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:08:05.335318+00:00"
   },
   {
@@ -1188,10 +928,7 @@
     "ingested_at": "2026-11-01T10:06:59.028122+00:00",
     "summary": "Un décret gouvernemental autorise les compagnies aériennes russes à s'approprier quelque 500 Airbus et Boeing appartenant à des loueurs américains et européens. Une décision contraire au droit international, qui isolera durablement les compagnies aériennes russes.",
     "thumbnail": "thumbnails/tejpv5.webp",
-    "tags": [
-      "Occidentaux",
-      "Airbus et Boeing"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:08:12.137750+00:00"
   },
   {
@@ -1212,39 +949,9 @@
     "summary": "La macronie aimerait bien voir l’Insoumis se qualifier pour le second tour pour deux raisons : une victoire facile annoncée pour le président-sortant et un entre-deux-tours qui promet d’être moins nauséabond.",
     "thumbnail": "thumbnails/tdtrv4.webp",
     "tags": [
-      "LREM",
-      "Macron-Mélenchon",
-      "Insoumis",
-      "Politics",
-      "Elections"
+      "Élections"
     ],
     "analyzed_at": "2026-11-01T10:08:08.249197+00:00"
-  },
-  {
-    "id": "tdn2ua",
-    "title": "Des militants français ont saisi la villa de la fille de Poutine pour les réfugiés d'Ukraine",
-    "url": "https://globalhappenings.com/top-global-news/123795.html",
-    "permalink": "/r/france/comments/tdn2ua/des_militants_français_ont_saisi_la_villa_de_la/",
-    "created_at": "2022-03-14T02:35:10+00:00",
-    "score": 387,
-    "num_comments": 92,
-    "subreddit": "france",
-    "author": "bretsko",
-    "flair": "",
-    "domain": "globalhappenings.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/EZAV3UEiKzqbVmBSixwOJKHFl5L2jgYigHRj3YrgC7w.jpg?auto=webp&s=b86dfc3594463e55b9ecd59061328647ea43a0b8",
-    "ingested_at": "2026-11-01T10:06:59.027065+00:00",
-    "summary": "One person was killed and three were injured when an 18-year-old suspect launched a sword attack at Brinell high school in Fagersta, central Sweden.",
-    "thumbnail": "thumbnails/tdn2ua.webp",
-    "tags": [
-      "Poutine",
-      "Ukraine",
-      "Brinell",
-      "Fagersta",
-      "Sweden"
-    ],
-    "analyzed_at": "2026-11-01T10:08:05.524980+00:00"
   },
   {
     "id": "tdcn5h",
@@ -1264,11 +971,11 @@
     "summary": "Si la grande majorité des interrogés ont une mauvaise opinion du président russe, ils sont tout de même 23% chez les sympathisants de Jean-Luc Mélenchon, 17% chez ceux d'Éric Zemmour et 14% parmi ceux de Marine Le Pen à garder une bonne image du maître du Kremlin selon un sondage Ifop.",
     "thumbnail": "thumbnails/tdcn5h.webp",
     "tags": [
-      "Français",
       "Vladimir Poutine",
-      "Ukraine",
-      "Kremlin",
-      "Ifop"
+      "Élections",
+      "Guerre en Ukraine",
+      "Jean-Luc Mélenchon",
+      "Marine Le Pen"
     ],
     "analyzed_at": "2026-11-01T10:08:05.612844+00:00"
   },
@@ -1290,10 +997,8 @@
     "summary": "Lors de sa visite dans la commune de Moissac, le candidat du parti d'extrême droite Reconquête! rencontre des supposés citoyens dans une station-service : il s'agit en fait d'une mise en scène.",
     "thumbnail": "thumbnails/td4rld.webp",
     "tags": [
-      "Moissac",
-      "Eric Zemmour",
-      "Reconquête",
-      "Elections"
+      "Éric Zemmour",
+      "Élections"
     ],
     "analyzed_at": "2026-11-01T10:08:05.974062+00:00"
   },
@@ -1315,8 +1020,8 @@
     "summary": "",
     "thumbnail": "thumbnails/tcjoyx.webp",
     "tags": [
-      "Look Up",
-      "Politique"
+      "Environnement",
+      "Élection présidentielle"
     ],
     "analyzed_at": "2026-11-01T10:08:05.947340+00:00"
   },
@@ -1338,10 +1043,7 @@
     "summary": "Tandis que Patrick Balkany est incarcéré et son épouse hospitalisée, un ou plusieurs malfaiteur(s) se sont introduits dans la demeure des an",
     "thumbnail": "thumbnails/tca7qh.webp",
     "tags": [
-      "Balkany",
-      "Patrick Balkany",
-      "Levallois",
-      "Société"
+      "Patrick Balkany"
     ],
     "analyzed_at": "2026-11-01T10:08:06.179564+00:00"
   },
@@ -1363,35 +1065,9 @@
     "summary": "L'homme pourra effectuer la partie ferme de sa peine sous surveillance électronique à son domicile. Il a aussi été soumis à une obligation de soins et à l'interdiction d'exercer une activité en lien avec des mineurs.",
     "thumbnail": "thumbnails/tbpouu.webp",
     "tags": [
-      "Fait Divers"
+      "Justice"
     ],
     "analyzed_at": "2026-11-01T10:08:06.252380+00:00"
-  },
-  {
-    "id": "tbpcr5",
-    "title": "Le ministre anti corruption ukrainien envoie un courrier formel au ministère de la défense russe pour le remercier du détournement des fonds alloués à l’armée russe",
-    "url": "https://www.businessinsider.com/ukraine-anti-corruption-minister-thanks-russian-military-for-being-corrupt-2022-3",
-    "permalink": "/r/france/comments/tbpcr5/le_ministre_anti_corruption_ukrainien_envoie_un/",
-    "created_at": "2022-03-11T12:45:18+00:00",
-    "score": 277,
-    "num_comments": 50,
-    "subreddit": "france",
-    "author": "ItsACaragor",
-    "flair": "Actus",
-    "domain": "businessinsider.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/Q4r4XIII5QmcdRH2hllr5qNpKd-LIVk2yinojLhAUM4.jpeg?auto=webp&s=12fb65cb287c480d4e4c06451e9e31767ea1a28f",
-    "ingested_at": "2026-11-01T10:06:59.027547+00:00",
-    "summary": "In a letter, the head of Ukraine's National Agency on Corruption Prevention cited alleged examples of corruption that have hampered Russia's military.",
-    "thumbnail": "thumbnails/tbpcr5.webp",
-    "tags": [
-      "Ukraine's National Agency",
-      "Corruption Prevention",
-      "Russia's",
-      "Military & Defense",
-      "International"
-    ],
-    "analyzed_at": "2026-11-01T10:08:06.411668+00:00"
   },
   {
     "id": "tbl7oc",
@@ -1412,9 +1088,7 @@
     "thumbnail": "thumbnails/tbl7oc.webp",
     "tags": [
       "Jean-Luc Mélenchon",
-      "Elysée de la France",
-      "Etat",
-      "Politique"
+      "Élection présidentielle"
     ],
     "analyzed_at": "2026-11-01T10:08:13.250499+00:00"
   },
@@ -1436,11 +1110,9 @@
     "summary": "Pour la Journée internationale des Droits des Femmes, Eric Zemmour a réuni ses soutiens à Vincennes, dans l’Est parisien. Le candidat d’extrême droite a moqué l’étiquette de misogyne qui lui colle à la peau, et n’a pas évoqué les accusations d’agressions sexuelles à son encontre.",
     "thumbnail": "thumbnails/tb4wqj.webp",
     "tags": [
-      "Eric Zemmour",
-      "Droits des Femmes",
-      "Vincennes",
-      "Journée",
-      "Politique"
+      "Éric Zemmour",
+      "Violences sexuelles",
+      "Droits des femmes"
     ],
     "analyzed_at": "2026-11-01T10:08:06.626998+00:00"
   },
@@ -1462,11 +1134,7 @@
     "summary": "Alors que de nombreuses marques occidentales suspendent leur activité en Russie, les enseignes du groupe nordiste poursuivent la leur. Les dirigeants protègent les 90.000 salariés locaux qui servent la population. Dans le même temps, Auchan continue de servir et d'aider les Ukrainiens.",
     "thumbnail": "thumbnails/tatxvg.webp",
     "tags": [
-      "Russie",
-      "Leroy Merlin",
-      "Mulliez",
-      "Ukrainiens",
-      "Économie"
+      "Guerre en Ukraine"
     ],
     "analyzed_at": "2026-11-01T10:08:17.198153+00:00"
   },
@@ -1488,11 +1156,9 @@
     "summary": "Indiscrétions piquantes, maladresses vaches ou douces confessions : chaque jour, retrouvez les brèves qui auscultent le monde politique.",
     "thumbnail": "thumbnails/ta6vq1.webp",
     "tags": [
-      "Pen",
-      "Zemmour",
-      "Melenchon",
-      "Marine le Pen",
-      "Politique"
+      "Jean-Luc Mélenchon",
+      "Éric Zemmour",
+      "Marine Le Pen"
     ],
     "analyzed_at": "2026-11-01T10:08:14.199542+00:00"
   },
@@ -1514,9 +1180,7 @@
     "summary": "Invité du 8h30 de France Info ce matin, le député de La France Insoumise a dévoilé que la France avait envoyé \"des gilets pare-balles et quelques missiles antichars\". Une information pourtant classée secret-défense....",
     "thumbnail": "thumbnails/ta6cej.webp",
     "tags": [
-      "Ukraine",
-      "Alexis Corbière",
-      "France Insoumise"
+      "Guerre en Ukraine"
     ],
     "analyzed_at": "2026-11-01T10:08:07.759026+00:00"
   },
@@ -1538,9 +1202,8 @@
     "summary": "Après un audit, le gouvernement allemand affirme qu'une prolongation des trois dernières centrales du pays \"ne pourrait apporter qu'une contribution très limitée à la résolution du problème\" de la dépendance énergétique à la Russie.",
     "thumbnail": "thumbnails/ta20my.webp",
     "tags": [
-      "Ukraine",
-      "Russie",
-      "Écologie"
+      "Guerre en Ukraine",
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T10:08:07.989370+00:00"
   },
@@ -1563,10 +1226,8 @@
     "thumbnail": "thumbnails/t9yi7i.webp",
     "tags": [
       "Valérie Pécresse",
-      "Marine le Pen",
-      "Haute",
-      "HATVP",
-      "Politique"
+      "Élection présidentielle",
+      "Marine Le Pen"
     ],
     "analyzed_at": "2026-11-01T10:08:08.078160+00:00"
   },
@@ -1588,11 +1249,11 @@
     "summary": "Ce mardi, notre nouveau sondage Opinion 2022 réalisé par l'institut Elabe reflète les intentions de vote au premier tour de la présidentielle. En pleine invasion russe en Ukraine, la cote d'Emmanuel Macron a augmenté et le président-candidat est largement en tête. Jean-Luc Mélenchon continue sa...",
     "thumbnail": "thumbnails/t9rhbd.webp",
     "tags": [
-      "SONDAGE BFMTV",
-      "Pen",
-      "Mélenchon",
+      "Élections",
       "Emmanuel Macron",
-      "Elections"
+      "Jean-Luc Mélenchon",
+      "Élection présidentielle",
+      "Marine Le Pen"
     ],
     "analyzed_at": "2026-11-01T10:08:08.144672+00:00"
   },
@@ -1614,7 +1275,8 @@
     "summary": "Pendant plusieurs mois, Mediapart a enquêté et recueilli le témoignage de huit femmes qui accusent le candidat d’extrême droite de comportements inappropriés et d’agressions sexuelles pour des faits …",
     "thumbnail": "thumbnails/t9f8wu.webp",
     "tags": [
-      "Éric Zemmour"
+      "Éric Zemmour",
+      "Violences sexuelles"
     ],
     "analyzed_at": "2026-11-01T10:08:09.078344+00:00"
   },
@@ -1635,13 +1297,7 @@
     "ingested_at": "2026-11-01T10:06:59.028410+00:00",
     "summary": "Cette liste comprend notamment les pays de l'Union européenne, les Etats-Unis, le Royaume-Uni ou encore le Japon.",
     "thumbnail": "thumbnails/t8plcs.webp",
-    "tags": [
-      "Union",
-      "Etats-Unis",
-      "Royaume-Uni",
-      "Japon",
-      "Économie"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:08:08.391405+00:00"
   },
   {
@@ -1662,7 +1318,8 @@
     "summary": "",
     "thumbnail": "thumbnails/t8k8y6.webp",
     "tags": [
-      "Politique"
+      "Racisme",
+      "Antisémitisme"
     ],
     "analyzed_at": "2026-11-01T10:08:09.007652+00:00"
   },
@@ -1684,11 +1341,7 @@
     "summary": "Sandrine Rousseau était de passage à Toulouse ce samedi dans le cadre d’un grand débat autour des questions féministes dans les cités. Si elle a éludé les questions sur son éviction de l'équipe de campagne de Yannick...",
     "thumbnail": "thumbnails/t7w5x4.webp",
     "tags": [
-      "Sandrine Rousseau",
-      "Toulouse",
-      "Ku Klux Klan",
-      "Yannick",
-      "Politique"
+      "Sandrine Rousseau"
     ],
     "analyzed_at": "2026-11-01T10:08:10.106236+00:00"
   },
@@ -1709,12 +1362,7 @@
     "ingested_at": "2026-11-01T10:06:59.027346+00:00",
     "summary": "Témoin d'un grave accident dans la soirée du 3 février, Charly a contrecarré un délit de fuite. Son assurance l'estime en tort et ne veut pas l'indemniser.",
     "thumbnail": "thumbnails/t7v5qv.webp",
-    "tags": [
-      "Loire",
-      "Presqu'île",
-      "Charly",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:08:09.433105+00:00"
   },
   {
@@ -1735,8 +1383,7 @@
     "summary": "Techniquement, les installations fonctionnent en mode automatique, mais il n’est plus possible de les diriger à distance.",
     "thumbnail": "thumbnails/t7j80v.webp",
     "tags": [
-      "Ukraine",
-      "Russie"
+      "Numérique"
     ],
     "analyzed_at": "2026-11-01T10:08:10.136746+00:00"
   },
@@ -1757,34 +1404,10 @@
     "ingested_at": "2026-11-01T10:06:59.028480+00:00",
     "summary": "En un an, le nombre de lyc&eacute;ens suivant des enseignements en sciences de l&rsquo;ing&eacute;nieur en g&eacute;n&eacute;ral ou dans les fili&egrave;res technologiques a grandement...-l-usine-campus",
     "thumbnail": "thumbnails/t75bx4.webp",
-    "tags": [],
-    "analyzed_at": "2026-11-01T10:08:15.741309+00:00"
-  },
-  {
-    "id": "t6tmo7",
-    "title": "Un garagiste de Monfavet sur r/watchpeopledieinside",
-    "url": "https://gfycat.com/softdecimalaurochs",
-    "permalink": "/r/france/comments/t6tmo7/un_garagiste_de_monfavet_sur_rwatchpeopledieinside/",
-    "created_at": "2022-03-04T21:37:48+00:00",
-    "score": 244,
-    "num_comments": 26,
-    "subreddit": "france",
-    "author": "candycane7",
-    "flair": "Humour",
-    "domain": "gfycat.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://b.thumbs.redditmedia.com/Nl08si7dt2AciH9OQA-UEpMhqa2Ym2gbAO-oWmFOEDQ.jpg",
-    "ingested_at": "2026-11-01T10:06:59.027873+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/t6tmo7.webp",
     "tags": [
-      "Monfavet",
-      "Lawyer GIFs",
-      "Gif",
-      "Animated",
-      "Humour"
+      "Éducation"
     ],
-    "analyzed_at": "2026-11-01T10:08:19.712491+00:00"
+    "analyzed_at": "2026-11-01T10:08:15.741309+00:00"
   },
   {
     "id": "t6hfzn",
@@ -1803,66 +1426,8 @@
     "ingested_at": "2026-11-01T10:06:59.026914+00:00",
     "summary": "Un radar anti-bruit sera installé sur un lampadaire du quartier de la Roseraie. Stigmatisant et inacceptable pour Pablo le délégué de la Fédérations des bikers de France en Haute-Garonne.",
     "thumbnail": "thumbnails/t6hfzn.webp",
-    "tags": [
-      "Toulouse",
-      "Info trafic – Circulation routière",
-      "Protection de l'environnement",
-      "Radars automatiques",
-      "Santé publique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:08:11.176205+00:00"
-  },
-  {
-    "id": "t6gxzo",
-    "title": "French nuclear aircraft carrier, Charles de Gaulle, currently in the Mediterranean, to be repositioned closer to Romania",
-    "url": "https://www.romaniajournal.ro/society-people/french-nuclear-aircraft-carrier-charles-de-gaulle-currently-in-the-mediterranean-to-be-repositioned-closer-to-romania/",
-    "permalink": "/r/france/comments/t6gxzo/french_nuclear_aircraft_carrier_charles_de_gaulle/",
-    "created_at": "2022-03-04T11:29:54+00:00",
-    "score": 376,
-    "num_comments": 130,
-    "subreddit": "france",
-    "author": "fatadelatara",
-    "flair": "Politique",
-    "domain": "romaniajournal.ro",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/K1pqTwByjOFEg6qTVLlz1THBltf2aXwxIolhXnTObAU.jpg?auto=webp&s=18ea2e844e5a311d667b31dde9df259ad634902a",
-    "ingested_at": "2026-11-01T10:06:59.027117+00:00",
-    "summary": "France has decided to reposition its nuclear aircraft carrier Charles de Gaulle, located in the Mediterranean Sea, closer to Romania, in the context of the war in Ukraine, bfmtv.com reports.The reason why the aircraft carrier will move closer to Roma",
-    "thumbnail": "thumbnails/t6gxzo.webp",
-    "tags": [
-      "Romania",
-      "Gaulle",
-      "Mediterranean",
-      "Charles de Gaulle",
-      "Politique"
-    ],
-    "analyzed_at": "2026-11-01T10:08:13.840414+00:00"
-  },
-  {
-    "id": "t624ij",
-    "title": "Après la Géorgie et l’Ukraine, le Royaume-Uni demande « à entrer sans délais » dans l’UE",
-    "url": "https://www.legorafi.fr/2022/03/03/apres-la-georgie-et-lukraine-le-royaume-uni-demande-a-entrer-sans-delais-dans-lue/",
-    "permalink": "/r/france/comments/t624ij/après_la_géorgie_et_lukraine_le_royaumeuni/",
-    "created_at": "2022-03-03T21:24:52+00:00",
-    "score": 742,
-    "num_comments": 37,
-    "subreddit": "france",
-    "author": "IncipitParodia",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/geenfp6PgmtB699Ivo_ExZIsxVymEKIYTS4DMbzuJ-o.jpeg?auto=webp&s=e91c3b2ed22e89795055fc1c502ec4ccf25fadc0",
-    "ingested_at": "2026-11-01T10:06:59.026730+00:00",
-    "summary": "Les représentants du Royaume-Uni ont déposé ce jour une demande pour exiger une entrée rapide de leur pays dans l'Union européenne.",
-    "thumbnail": "thumbnails/t624ij.webp",
-    "tags": [
-      "Royaume-Uni",
-      "UE",
-      "Géorgie et Ukraine",
-      "Union",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T10:08:11.431016+00:00"
   },
   {
     "id": "t5nf6h",
@@ -1881,13 +1446,7 @@
     "ingested_at": "2026-11-01T10:06:59.027947+00:00",
     "summary": "Une grotte datant de l’âge du Bronze (2200-800 av J-C) a été découverte à Saint-Projet. A l’intérieur, des vestiges archéologiques intacts. Une découverte de dimension internationale.",
     "thumbnail": "thumbnails/t5nf6h.webp",
-    "tags": [
-      "Saint-Projet",
-      "Jérôme Primault",
-      "Bronze",
-      "J-C",
-      "Science"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:08:11.771085+00:00"
   },
   {
@@ -1907,37 +1466,8 @@
     "ingested_at": "2026-11-01T10:06:59.026509+00:00",
     "summary": "Le journaliste a succombé ce mercredi à un cancer à 71 ans, un an et demi après sa retraite du JT, alors qu’il présentait toujours une émiss",
     "thumbnail": "thumbnails/t542st.webp",
-    "tags": [
-      "Jean-Pierre Pernaut",
-      "JT"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:08:12.085274+00:00"
-  },
-  {
-    "id": "t4znax",
-    "title": "Gérald Darmanin demande aux réfugiés de Calais de donner leur tente aux réfugiés ukrainiens",
-    "url": "https://www.legorafi.fr/2022/03/01/gerald-darmanin-demande-aux-refugies-de-calais-de-donner-leur-tente-aux-refugies-ukrainiens/",
-    "permalink": "/r/france/comments/t4znax/gérald_darmanin_demande_aux_réfugiés_de_calais_de/",
-    "created_at": "2022-03-02T13:01:04+00:00",
-    "score": 258,
-    "num_comments": 16,
-    "subreddit": "france",
-    "author": "Folivao",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/9Ug8za-Rr6nndd0v2OCqdEe4shlHvzBdaZ73EHM_koo.jpeg?auto=webp&s=15b2f32a3c5859a4693d87079178fd712e8c7297",
-    "ingested_at": "2026-11-01T10:06:59.027722+00:00",
-    "summary": "Bien loin de l’image d’homme dur et flirtant avec la xénophobie qu’on lui connaît, Gérald Darmanin s’est senti tout particulièrement ému de la situation des réfugiés ukrainiens qui affluent en Europe.",
-    "thumbnail": "thumbnails/t4znax.webp",
-    "tags": [
-      "Gérald Darmanin",
-      "Calais",
-      "Europe",
-      "Emmanuel Macron",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T10:08:12.250027+00:00"
   },
   {
     "id": "t4xzrs",
@@ -1958,35 +1488,10 @@
     "thumbnail": "thumbnails/t4xzrs.webp",
     "tags": [
       "Christiane Taubira",
-      "Elections"
+      "Élections",
+      "Élection présidentielle"
     ],
     "analyzed_at": "2026-11-01T10:08:12.519726+00:00"
-  },
-  {
-    "id": "t4wq90",
-    "title": "Emmanuel Macron menace de couper aux Russes l’accès à Salto",
-    "url": "https://www.legorafi.fr/2022/03/02/emmanuel-macron-menace-de-couper-aux-russes-lacces-a-salto/",
-    "permalink": "/r/france/comments/t4wq90/emmanuel_macron_menace_de_couper_aux_russes/",
-    "created_at": "2022-03-02T09:49:31+00:00",
-    "score": 534,
-    "num_comments": 47,
-    "subreddit": "france",
-    "author": "Burukainu",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/G-hB1RO4IR4pfqqdZTpo75rIrzZvBP5MHLki8JspoXc.jpeg?auto=webp&s=be801358b8552da39fc4e97d7116eafe5664487e",
-    "ingested_at": "2026-11-01T10:06:59.026864+00:00",
-    "summary": "Suite à l’échec des pourparlers avec la Russie, Emmanuel Macron a haussé le ton lors de son appel téléphonique avec Vladimir Poutine en menaçant de couper brutalement l’accès des Russes à Salto. Vladimir Poutine aurait gardé le silence quelques secondes avant de raccrocher froidement.",
-    "thumbnail": "thumbnails/t4wq90.webp",
-    "tags": [
-      "Emmanuel Macron",
-      "Salto",
-      "Vladimir Poutine",
-      "Russie",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T10:08:12.403626+00:00"
   },
   {
     "id": "t4uq82",
@@ -2005,12 +1510,7 @@
     "ingested_at": "2026-11-01T10:06:59.027218+00:00",
     "summary": "Les oiseaux ont été aperçus à proximité de leur nid, sur une falaise, en train de couver et de protéger les oeufs à tour de rôle.",
     "thumbnail": "thumbnails/t4uq82.webp",
-    "tags": [
-      "Vercors",
-      "Espèces menacées",
-      "Environnement",
-      "Monde"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:08:13.118376+00:00"
   },
   {
@@ -2030,13 +1530,7 @@
     "ingested_at": "2026-11-01T10:06:59.027899+00:00",
     "summary": "Les chaînes YouTube des médias russes RT et Sputnik ont été bloquées dans toute l'Europe par la plateforme de vidéos",
     "thumbnail": "thumbnails/t43p87.webp",
-    "tags": [
-      "RT et Sputnik",
-      "Europe",
-      "YouTube",
-      "Ukraine",
-      "Diplomatie"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:08:13.513531+00:00"
   },
   {
@@ -2057,9 +1551,7 @@
     "summary": "",
     "thumbnail": "thumbnails/t42xen.webp",
     "tags": [
-      "Ukraine",
-      "Russie",
-      "Économie"
+      "Guerre en Ukraine"
     ],
     "analyzed_at": "2026-11-01T10:08:13.851556+00:00"
   }

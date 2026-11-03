@@ -1,31 +1,5 @@
 [
   {
-    "id": "r5sbc7",
-    "title": "French Parliament passes resolution supporting Taiwan’s participation in global organizations",
-    "url": "https://en.rti.org.tw/news/view/id/2006573",
-    "permalink": "/r/france/comments/r5sbc7/french_parliament_passes_resolution_supporting/",
-    "created_at": "2021-11-30T17:23:00+00:00",
-    "score": 545,
-    "num_comments": 121,
-    "subreddit": "france",
-    "author": "Exastiken",
-    "flair": "Politique",
-    "domain": "en.rti.org.tw",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/uyZuNdOq3irsjnMFfZakwJSWMBiEau2DGxwkTsIktEM.jpg?auto=webp&s=6ffc261e1b71b3b0fd31f58562a2483b4b74016d",
-    "ingested_at": "2026-11-01T10:00:52.779609+00:00",
-    "summary": "The foreign ministry on Tuesday said both chambers of the French Parliament have passed a pro-Taiwan resolution for the first time within six months.&...",
-    "thumbnail": "thumbnails/r5sbc7.webp",
-    "tags": [
-      "French Parliament",
-      "Taiwan's",
-      "Tuesday",
-      "Rti",
-      "Politique"
-    ],
-    "analyzed_at": "2026-11-01T10:02:59.240132+00:00"
-  },
-  {
     "id": "r5r6b1",
     "title": "Affaire Paty : un prof suspendu pour avoir mis en cause l’Éducation nationale se dit \"estomaqué\"",
     "url": "https://www.lexpress.fr/actualite/societe/affaire-paty-un-prof-suspendu-pour-avoir-mis-en-cause-l-education-nationale-se-dit-estomaque_2163393.html",
@@ -43,9 +17,7 @@
     "summary": "Un enseignant, suspendu pour avoir évoqué l'absence de soutien de l'institution auprès du professeur assassiné, dénonce une \"atteinte à la liberté d'expression\".",
     "thumbnail": "thumbnails/r5r6b1.webp",
     "tags": [
-      "Éducation",
-      "Affaire Paty",
-      "Société"
+      "Éducation"
     ],
     "analyzed_at": "2026-11-01T10:02:53.883292+00:00"
   },
@@ -67,7 +39,7 @@
     "summary": "",
     "thumbnail": "thumbnails/r51wql.webp",
     "tags": [
-      "Affaire Fillon"
+      "François Fillon"
     ],
     "analyzed_at": "2026-11-01T10:02:53.670036+00:00"
   },
@@ -108,13 +80,7 @@
     "ingested_at": "2026-11-01T10:00:52.781325+00:00",
     "summary": "The European Commission's vice president Margaritis Schinas has told Britain it has to sort out its own migrant problems post-Brexit, as the war of words between France and UK over migration and fishing…",
     "thumbnail": "thumbnails/r47m13.webp",
-    "tags": [
-      "UK",
-      "EU",
-      "Britain",
-      "Brexit",
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:02:54.202027+00:00"
   },
   {
@@ -135,11 +101,7 @@
     "summary": "Le manque de médecins prend une tournure dramatique dans le Sud Sarthe. Un patient qui était venu à l'hôpital du Bailleul (situé entre Sablé et La Flèche) est mort car il n'y avait pas de médecin anesthésiste présent pour réaliser l'opération urgente dont il avait besoin.",
     "thumbnail": "thumbnails/r3zeh1.webp",
     "tags": [
-      "Bailleul",
-      "Campagne – Ruralité",
-      "Santé publique",
-      "Sud Sarthe",
-      "Sablé et la Flèche"
+      "Santé"
     ],
     "analyzed_at": "2026-11-01T10:02:54.566837+00:00"
   },
@@ -161,10 +123,7 @@
     "summary": "",
     "thumbnail": "thumbnails/r3mo0o.webp",
     "tags": [
-      "Manche",
-      "Europe",
-      "Londres",
-      "Politique"
+      "Immigration"
     ],
     "analyzed_at": "2026-11-01T10:02:54.778952+00:00"
   },
@@ -186,10 +145,6 @@
     "summary": "Les passagers testés positifs ont été placés en quarantaine dans un hôtel proche de l’aéroport d’Amsterdam-Schipol",
     "thumbnail": "thumbnails/r3c37y.webp",
     "tags": [
-      "Afrique du Sud",
-      "Amsterdam",
-      "Covid",
-      "Amsterdam-Schipol",
       "Covid-19"
     ],
     "analyzed_at": "2026-11-01T10:02:54.890885+00:00"
@@ -212,9 +167,8 @@
     "summary": "Un chasseur avait tué l'animal lors d'une battue, samedi 20 novembre, dans une réserve domaniale. Blessé aux jambes par l'ourse, il avait dû être hospitalisé.",
     "thumbnail": "thumbnails/r2kjn0.webp",
     "tags": [
-      "Ariège",
-      "Chasse et braconnage",
-      "Écologie"
+      "Cause animale",
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T10:02:55.250953+00:00"
   },
@@ -255,10 +209,7 @@
     "ingested_at": "2026-11-01T10:00:52.779762+00:00",
     "summary": "Jugé pour six tentatives de vol et vols chez des particuliers au tribunal correctionnel de Cahors jeudi, M. C. est toujours recherché au niveau du parquet. Absent donc à son procès malgré la présence de trois de ses...",
     "thumbnail": "thumbnails/r2hm9e.webp",
-    "tags": [
-      "Cahors",
-      "Méta"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:02:56.908416+00:00"
   },
   {
@@ -279,10 +230,6 @@
     "summary": "Alors que la 5e vague du Covid s’intensifie, des pays reviennent au télétravail obligatoire. En Belgique, par exemple, c’est quatre jours obligatoires par semaine. Mais en France, le gouvernement ne veut pas renforcer le télétravail. Le décryptage de Fanny Guinochet.",
     "thumbnail": "thumbnails/r2hhyf.webp",
     "tags": [
-      "Covid",
-      "Belgique",
-      "Fanny Guinochet",
-      "Éco / Conso",
       "Covid-19"
     ],
     "analyzed_at": "2026-11-01T10:02:55.341009+00:00"
@@ -304,32 +251,10 @@
     "ingested_at": "2026-11-01T10:00:52.780895+00:00",
     "summary": "",
     "thumbnail": "thumbnails/r1zdcn.webp",
-    "tags": [],
-    "analyzed_at": "2026-11-01T10:03:00.741169+00:00"
-  },
-  {
-    "id": "r1yf6q",
-    "title": "AJA qu’il existe un mot pour désigner les vieux messieurs qui regardent les chantiers",
-    "url": "https://fr.m.wikipedia.org/wiki/Umarell",
-    "permalink": "/r/france/comments/r1yf6q/aja_quil_existe_un_mot_pour_désigner_les_vieux/",
-    "created_at": "2021-11-25T15:01:11+00:00",
-    "score": 288,
-    "num_comments": 34,
-    "subreddit": "france",
-    "author": "laviolence",
-    "flair": "Culture",
-    "domain": "fr.m.wikipedia.org",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/TBuBpDGtkTY4QO_KJqIoJPd8q98CrYrQx4rPY4WSroY.jpg?auto=webp&s=00dd0cd7c0e85f505da667748ed78e354c1deb99",
-    "ingested_at": "2026-11-01T10:00:52.780130+00:00",
-    "summary": "Umarell ( prononcé : [umaˈrɛl] ; emprunt italien à la langue bolonaise umarèl [ u m a ˈ r ɛ ː l ] ) est un terme populaire à Bologne décrivant spécifiquement les hommes à l'âge de la retraite , qui passent le temps à regarder les chantiers de construction, en particulier les travaux routiers, et ayant comme postures…",
-    "thumbnail": "thumbnails/r1yf6q.webp",
     "tags": [
-      "AJA",
-      "Bologne",
-      "Culture"
+      "Éducation"
     ],
-    "analyzed_at": "2026-11-01T10:02:55.854818+00:00"
+    "analyzed_at": "2026-11-01T10:03:00.741169+00:00"
   },
   {
     "id": "r1x53n",
@@ -349,8 +274,7 @@
     "summary": "« C’est un choix souverain, le contrat que nous avons signé ce matin, c’est un choix historique », a déclaré Emmanuel Macron",
     "thumbnail": "thumbnails/r1x53n.webp",
     "tags": [
-      "Croatie",
-      "Rafale",
+      "Défense",
       "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T10:02:56.001471+00:00"
@@ -374,10 +298,7 @@
     "thumbnail": "thumbnails/r1v9zv.webp",
     "tags": [
       "Covid-19",
-      "Olivier Véran",
-      "Passe sanitaire",
-      "HAS",
-      "Français"
+      "Olivier Véran"
     ],
     "analyzed_at": "2026-11-01T10:02:56.447679+00:00"
   },
@@ -398,9 +319,7 @@
     "ingested_at": "2026-11-01T10:00:52.779976+00:00",
     "summary": "Publié le 24 novembre 2021 à 15h10 , mis à jour le 24 novembre 2021 à 15h34 De la marijuana (photo d’illustration). USA TODAY NETWORK/SIPA USA/SIPA / USA TODAY NETWORK/SIPA USA/SIPA S’abonner permet de commenter les articles. Et pas que : vous pouvez les consulter et les offrir à vos proches.",
     "thumbnail": "thumbnails/r17hhn.webp",
-    "tags": [
-      "Allemagne"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:02:56.897093+00:00"
   },
   {
@@ -420,34 +339,8 @@
     "ingested_at": "2026-11-01T10:00:52.781182+00:00",
     "summary": "La jeune femme a été contrôlée lundi à Quimper avec un taux d’alcool de 1,1 gramme par litre de sang",
     "thumbnail": "thumbnails/r13680.webp",
-    "tags": [
-      "Quimper",
-      "Fait Divers"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:02:56.449014+00:00"
-  },
-  {
-    "id": "r0ggg1",
-    "title": "UN crowns nuclear as lowest carbon electricity source",
-    "url": "https://www.cityam.com/un-crowns-nuclear-as-lowest-carbon-electricity-source/",
-    "permalink": "/r/france/comments/r0ggg1/un_crowns_nuclear_as_lowest_carbon_electricity/",
-    "created_at": "2021-11-23T16:03:13+00:00",
-    "score": 211,
-    "num_comments": 25,
-    "subreddit": "france",
-    "author": "UltimateComb",
-    "flair": "",
-    "domain": "cityam.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/kC1xdSiPQkj_qBzK_7c4UhpT4mWrNd5K-ardlwIEzdg.jpg?auto=webp&s=145d4ad90fa175d5b4691a61a063ce6f4c28b260",
-    "ingested_at": "2026-11-01T10:00:52.780798+00:00",
-    "summary": "Nuclear power has been ranked as the lowest carbon electricity source and appears to back UK plans to expand its infrastructure",
-    "thumbnail": "thumbnails/r0ggg1.webp",
-    "tags": [
-      "UK",
-      "CO2"
-    ],
-    "analyzed_at": "2026-11-01T10:02:57.157227+00:00"
   },
   {
     "id": "r07yjz",
@@ -467,8 +360,7 @@
     "summary": "Le gouvernement, trois syndicats et la Fédération hospitalière de France ont trouvé un accord concernant les sages-femmes, qui implique une",
     "thumbnail": "thumbnails/r07yjz.webp",
     "tags": [
-      "Fédération",
-      "Société"
+      "Grèves et syndicats"
     ],
     "analyzed_at": "2026-11-01T10:02:56.844334+00:00"
   },
@@ -489,13 +381,7 @@
     "ingested_at": "2026-11-01T10:00:52.780749+00:00",
     "summary": "À partir du 1er juillet 2022, les nouveaux modèles de voitures devront obligatoirement être équipés d’un système d’adaptation de la vitesse",
     "thumbnail": "thumbnails/qzp5qv.webp",
-    "tags": [
-      "AIV",
-      "Caradisiac",
-      "Auto-moto",
-      "Economie",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:02:57.668507+00:00"
   },
   {
@@ -516,11 +402,7 @@
     "summary": "Le \"candidat des riches\" à l'élection présidentielle de 2022 pourrait être le polémiste d'extrême droite.",
     "thumbnail": "thumbnails/qzjicm.webp",
     "tags": [
-      "Paris",
-      "Zemmour",
-      "Éric Zemmour",
-      "ISF",
-      "Politique"
+      "Éric Zemmour"
     ],
     "analyzed_at": "2026-11-01T10:02:57.347962+00:00"
   },
@@ -542,8 +424,7 @@
     "summary": "Les ménages les plus riches parmi les plus riches sont ceux qui ont le plus profité des mesures sociales et fiscales décidées par le gouvernement depuis 2017, …",
     "thumbnail": "thumbnails/qzgbyg.webp",
     "tags": [
-      "IPP",
-      "Economie"
+      "Budget et fiscalité"
     ],
     "analyzed_at": "2026-11-01T10:02:57.129999+00:00"
   },
@@ -564,7 +445,9 @@
     "ingested_at": "2026-11-01T10:00:52.780379+00:00",
     "summary": "",
     "thumbnail": "thumbnails/qzew7r.webp",
-    "tags": [],
+    "tags": [
+      "Éducation"
+    ],
     "analyzed_at": "2026-11-01T10:02:57.580366+00:00"
   },
   {
@@ -585,11 +468,7 @@
     "summary": "À peine parue, le 28 octobre 2020, en Une de Charlie, le dessin d’Alice était habillé pour l’hiver par un procureur turc qui estimait que cette caricature « n’entre d’aucune manière dans le cadre de la liberté d’expression ou de la presse ».",
     "thumbnail": "thumbnails/qyrc2j.webp",
     "tags": [
-      "Erdogan",
-      "Charlie Hebdo",
-      "Charlie",
-      "Alice",
-      "Culture"
+      "Recep Tayyip Erdoğan"
     ],
     "analyzed_at": "2026-11-01T10:02:58.887016+00:00"
   },
@@ -611,7 +490,7 @@
     "summary": "",
     "thumbnail": "thumbnails/qyplwx.webp",
     "tags": [
-      "GIGN et du RAID"
+      "Outre-mer"
     ],
     "analyzed_at": "2026-11-01T10:02:57.658542+00:00"
   },
@@ -632,13 +511,7 @@
     "ingested_at": "2026-11-01T10:00:52.779583+00:00",
     "summary": "Quatre essais à trois, les Bleus ont renversé la Nouvelle-Zélande (40-25), samedi au Stade de France, en clôture de la tournée d'automne, avec un doublé du talonneur Peato Mauvaka et un carton plein de Melvyn Jaminet dans les tirs au but.",
     "thumbnail": "thumbnails/qyfkus.webp",
-    "tags": [
-      "XV de France",
-      "All Blacks",
-      "Nouvelle-Zélande",
-      "Romain Ntamack",
-      "Rugby"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:03:01.912617+00:00"
   },
   {
@@ -658,11 +531,7 @@
     "ingested_at": "2026-11-01T10:00:52.780601+00:00",
     "summary": "L'essayiste Rachel Khan est l'objet d'une pétition exigeant son renvoi de la codirection de La Place, un centre culturel dédié au hip-hop à Paris. En cause : ses prises de position contre certains travers du militantisme antiraciste.",
     "thumbnail": "thumbnails/qy2q69.webp",
-    "tags": [
-      "Rachel Khan",
-      "Place",
-      "Paris"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:02:58.473270+00:00"
   },
   {
@@ -688,32 +557,6 @@
     "analyzed_at": "2026-11-01T10:02:58.044975+00:00"
   },
   {
-    "id": "qx6k6a",
-    "title": "L'Allemagne devrait légaliser le cannabis à l'investiture du nouveau chancelier",
-    "url": "https://www.express.co.uk/news/world/1523645/germany-news-legalise-cannabis-economy-angela-merkel",
-    "permalink": "/r/france/comments/qx6k6a/lallemagne_devrait_légaliser_le_cannabis_à/",
-    "created_at": "2021-11-19T02:57:39+00:00",
-    "score": 220,
-    "num_comments": 95,
-    "subreddit": "france",
-    "author": "Vcz33",
-    "flair": "",
-    "domain": "express.co.uk",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/ZKDguTUc8nv9f1rauQ3wWWyTsrfSdUvl7hoqzqog7M0.jpeg?auto=webp&s=58244db6e24adaa3ed0dc8b015fbc0ee38e836e8",
-    "ingested_at": "2026-11-01T10:00:52.780673+00:00",
-    "summary": "GERMANY will decriminalise certain sale and consumption rules of cannabis in a significant drug policy change for the ruling coalition government, according to reports.",
-    "thumbnail": "thumbnails/qx6k6a.webp",
-    "tags": [
-      "Germany",
-      "Headlines",
-      "Health",
-      "Laws",
-      "Angela Merkel"
-    ],
-    "analyzed_at": "2026-11-01T10:02:58.135670+00:00"
-  },
-  {
     "id": "qwpkrr",
     "title": "De peur d'offenser leurs élèves, des écoles canadiennes censurent Nadia Murad, prix Nobel de la paix 2018",
     "url": "https://www.lefigaro.fr/culture/de-peur-d-offenser-leurs-eleves-des-ecoles-canadiennes-censurent-nadia-murad-nobel-de-la-paix-2018-20211118",
@@ -731,11 +574,7 @@
     "summary": "Le conseil scolaire de Toronto a retiré son soutien à un club de lecture dédié aux jeunes filles. La présence du prix Nobel de la paix, engagée pour la cause yézidie, pourrait, selon ses représentants, offenser les élèves musulmans.",
     "thumbnail": "thumbnails/qwpkrr.webp",
     "tags": [
-      "Toronto",
-      "Nobel",
-      "Nadia Murad",
-      "Canada",
-      "Culture"
+      "Éducation"
     ],
     "analyzed_at": "2026-11-01T10:02:58.960866+00:00"
   },
@@ -757,7 +596,8 @@
     "summary": "",
     "thumbnail": "thumbnails/qwjjos.webp",
     "tags": [
-      "Eric Zemmour"
+      "Éric Zemmour",
+      "Justice"
     ],
     "analyzed_at": "2026-11-01T10:02:58.410154+00:00"
   },
@@ -778,13 +618,7 @@
     "ingested_at": "2026-11-01T10:00:52.780941+00:00",
     "summary": "Lorsque Scott Morrison annonça en septembre dernier l'annulation du contrat pour la construction de sous-marins à propulsion conventionnelle de la classe",
     "thumbnail": "thumbnails/qw11wq.webp",
-    "tags": [
-      "Collins",
-      "Lorsque Scott Morrison",
-      "Cie Saab",
-      "Royal Australian Navy",
-      "Scott Morrison"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:03:01.884997+00:00"
   },
   {
@@ -805,11 +639,7 @@
     "summary": "C’est une décision inédite pour faire face à une situation hors norme. Decathlon...",
     "thumbnail": "thumbnails/qvzcd8.webp",
     "tags": [
-      "Manche",
-      "Calais",
-      "Decathlon Calais",
-      "Decathlon",
-      "Pas-de-Calais"
+      "Immigration"
     ],
     "analyzed_at": "2026-11-01T10:03:00.047839+00:00"
   },
@@ -831,11 +661,7 @@
     "summary": "Le pronom personnel inclusif a fait son arrivée sur le site Internet du Robert, fin octobre. La nouvelle n’a pas manqué de faire réagir, à commencer par Jean-Michel Blanquer",
     "thumbnail": "thumbnails/qvx062.webp",
     "tags": [
-      "Jean-Michel Blanquer",
-      "Internet du Robert",
-      "Robert",
-      "Société",
-      "Home"
+      "Jean-Michel Blanquer"
     ],
     "analyzed_at": "2026-11-01T10:02:58.986298+00:00"
   },
@@ -857,9 +683,7 @@
     "summary": "Depuis qu'elle a accusé, le 2 novembre, l’ancien vice-Premier ministre Zhang Gaoli de viol, Peng Shuai, une joueuse de tennis chinoise, n’a plus donné signe de vie. Ce type de disparition est loin d’être un cas unique en Chine.",
     "thumbnail": "thumbnails/qvvxel.webp",
     "tags": [
-      "Peng Shuai",
-      "Zhang Gaoli",
-      "Chine"
+      "Violences sexuelles"
     ],
     "analyzed_at": "2026-11-01T10:02:59.938560+00:00"
   },
@@ -880,11 +704,7 @@
     "ingested_at": "2026-11-01T10:00:52.780180+00:00",
     "summary": "Blame a looming election, the structure of the state and an innate Gallic gloom",
     "thumbnail": "thumbnails/qvusg4.webp",
-    "tags": [
-      "French",
-      "Gallic",
-      "Germany"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:03:03.631061+00:00"
   },
   {
@@ -905,7 +725,7 @@
     "summary": "",
     "thumbnail": "thumbnails/qvgnsw.webp",
     "tags": [
-      "Vincent Bolloré"
+      "Élection présidentielle"
     ],
     "analyzed_at": "2026-11-01T10:02:59.516822+00:00"
   },
@@ -927,8 +747,8 @@
     "summary": "Ouverture de l'enseignement aux lycéens des filières technologiques, développement de l'option en sixième… Le ministre a dévoilé plusieurs mesures dans un entretien au \"Point\".",
     "thumbnail": "thumbnails/quzw12.webp",
     "tags": [
-      "Education",
       "Jean-Michel Blanquer",
+      "Éducation",
       "Laurent Nuñez"
     ],
     "analyzed_at": "2026-11-01T10:02:59.711509+00:00"
@@ -950,9 +770,7 @@
     "ingested_at": "2026-11-01T10:00:52.780548+00:00",
     "summary": "Face à la multiplication des arnaques sur le Compte personnel de Formation (CPF), le gouvernement va déposer un amendement pour interdire le démarchage téléphonique.",
     "thumbnail": "thumbnails/qufxwl.webp",
-    "tags": [
-      "CPF"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:02:59.965456+00:00"
   },
   {
@@ -974,10 +792,8 @@
     "thumbnail": "thumbnails/qud1cg.webp",
     "tags": [
       "François Fillon",
-      "Penelope Fillon",
-      "Marc Joulaud",
-      "Penelope",
-      "Politique"
+      "Justice",
+      "Corruption"
     ],
     "analyzed_at": "2026-11-01T10:03:01.040449+00:00"
   },
@@ -999,11 +815,7 @@
     "summary": "La voix tremblante et les larmes aux yeux, le président de la Cop 26 Alok Sharma n’a pas su cacher sa déception à la fermeture du congrès mondial pour l’environnement à Glasgow.",
     "thumbnail": "thumbnails/qtvl7l.webp",
     "tags": [
-      "Cop26",
-      "Glasgow",
-      "Cop 26",
-      "Alok Sharma",
-      "Écologie"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T10:03:01.946517+00:00"
   },
@@ -1024,9 +836,7 @@
     "ingested_at": "2026-11-01T10:00:52.779790+00:00",
     "summary": "",
     "thumbnail": "thumbnails/qtlotx.webp",
-    "tags": [
-      "Loire-Atlantique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:03:01.238844+00:00"
   },
   {
@@ -1047,8 +857,9 @@
     "summary": "EXCLUSIF. Après plusieurs accidents en forêt, le chef de file des chasseurs propose un partenariat aux maires ruraux. Il imagine ses troupes en relais des gendarmes pour lutter contre la délinquance environnementale.",
     "thumbnail": "thumbnails/qtb42v.webp",
     "tags": [
-      "Willy Schraen",
-      "Écologie"
+      "Environnement",
+      "Police",
+      "Cause animale"
     ],
     "analyzed_at": "2026-11-01T10:03:02.769096+00:00"
   },
@@ -1069,10 +880,7 @@
     "ingested_at": "2026-11-01T10:00:52.780649+00:00",
     "summary": "L'auteur principal présumé de l'homicide commis dimanche dernier dans le quartier de l'île de Nantes avait porté plusieurs coups de barre de fer sur un automobiliste en juillet dernier. Il était placé sous contrôle judiciaire.",
     "thumbnail": "thumbnails/qsyp5k.webp",
-    "tags": [
-      "Nantes",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:03:01.677072+00:00"
   },
   {
@@ -1092,40 +900,8 @@
     "ingested_at": "2026-11-01T10:00:52.779556+00:00",
     "summary": "Un rÃ©seau de faux profils Twitter s'est fait passer ces derniÃ¨res semaines pour des militants fÃ©ministes, Ã©cologistes ou antiracistes. Ces faux comptes, parfois assez sophistiquÃ©s, tiennent des propos proches des discours militants, mais les caricaturent. Dans le viseur : les \"woke\".",
     "thumbnail": "thumbnails/qsxdg4.webp",
-    "tags": [
-      "Twitter",
-      "Ouverture",
-      "Ãªtre",
-      "Victor Baissait",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:03:02.830117+00:00"
-  },
-  {
-    "id": "qsdm0u",
-    "title": "La COP 26 s’engage à recycler les promesses des autres COP",
-    "url": "https://www.legorafi.fr/2021/11/08/la-cop-26-sengage-a-recycler-les-promesses-des-autres-cop/",
-    "permalink": "/r/france/comments/qsdm0u/la_cop_26_sengage_à_recycler_les_promesses_des/",
-    "created_at": "2021-11-12T15:28:43+00:00",
-    "score": 275,
-    "num_comments": 6,
-    "subreddit": "france",
-    "author": "Anarchiste-mouton",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/XlJ3EG-l0T8inoIk7xuazgkauIEo8hAaobzYcitfG_8.jpg?auto=webp&s=3f61cbea96780359975e6a385553fbeba46492a2",
-    "ingested_at": "2026-11-01T10:00:52.780229+00:00",
-    "summary": "C'est un accord sans précédent qui a clôturé aujourd'hui la COP 26 : les Etats se sont en effet engagés à recycler toutes les promesses des COP précédentes.",
-    "thumbnail": "thumbnails/qsdm0u.webp",
-    "tags": [
-      "COP",
-      "COP 26",
-      "Etats",
-      "Emmanuel Macron",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T10:03:01.593871+00:00"
   },
   {
     "id": "qs6bke",
@@ -1145,9 +921,7 @@
     "summary": "",
     "thumbnail": "thumbnails/qs6bke.webp",
     "tags": [
-      "Eric Zemmour",
-      "Vichy",
-      "République"
+      "Éric Zemmour"
     ],
     "analyzed_at": "2026-11-01T10:03:02.048334+00:00"
   },
@@ -1169,11 +943,9 @@
     "summary": "Le tribunal administratif de Paris a débouté le parti de Marine Le Pen, qui sollicitait l'annulation d'une dette fiscale contractée dans le cadre de l'affaire des « kits de campagne ». Une décision qui n'arrange pas les finances du RN déjà bien dégradées.",
     "thumbnail": "thumbnails/qrsygk.webp",
     "tags": [
-      "RN",
-      "Marine le Pen",
-      "Paris",
-      "Jeanne",
-      "Rassemblement National"
+      "Justice",
+      "Budget et fiscalité",
+      "Marine Le Pen"
     ],
     "analyzed_at": "2026-11-01T10:03:02.096820+00:00"
   },
@@ -1195,36 +967,9 @@
     "summary": "Le« peuple de gauche » ne se reconnaît que minoritairement dans l’offre politique qui lui est destinée. Une rupture sociologique qui profite d’abord à Emmanuel Macron, selon notre sondage Odoxa-Saegus-« l’Obs ».",
     "thumbnail": "thumbnails/qrrrab.webp",
     "tags": [
-      "Emmanuel Macron",
-      "Odoxa-Saegus",
-      "Politique"
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T10:03:02.386344+00:00"
-  },
-  {
-    "id": "qqtda4",
-    "title": "Un chasseur mordu par un randonneur qui l’avait confondu avec sa barre énergétique",
-    "url": "https://www.legorafi.fr/2021/11/10/un-chasseur-mordu-par-un-randonneur-qui-lavait-confondu-avec-sa-barre-energetique/",
-    "permalink": "/r/france/comments/qqtda4/un_chasseur_mordu_par_un_randonneur_qui_lavait/",
-    "created_at": "2021-11-10T12:31:11+00:00",
-    "score": 969,
-    "num_comments": 38,
-    "subreddit": "france",
-    "author": "Tayme-kappa",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/HbTeOfAD4-8-zGXoikiMBVeHQcqwq4JY6ajVYJFxnBk.jpg?auto=webp&s=679156a850b82a529da0cad35802ca563bc22821",
-    "ingested_at": "2026-11-01T10:00:52.779468+00:00",
-    "summary": "LANDES - L'homme qui participait à une battue au sanglier sur la commune de Montfort-en-Chalosse dans les Landes s'est vu prescrire une ITT de quatre jours suite à un accident impliquant un randonneur.",
-    "thumbnail": "thumbnails/qqtda4.webp",
-    "tags": [
-      "LANDES",
-      "Montfort-en-Chalosse",
-      "ITT",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T10:03:02.217137+00:00"
   },
   {
     "id": "qqpcgi",
@@ -1244,9 +989,7 @@
     "summary": "Ce week-end, un accident de chasse aurait pu coûter très cher à Sébastien Prieto.",
     "thumbnail": "thumbnails/qqpcgi.webp",
     "tags": [
-      "Normandie",
-      "Sébastien Prieto",
-      "Fait Divers"
+      "Cause animale"
     ],
     "analyzed_at": "2026-11-01T10:03:02.415495+00:00"
   },
@@ -1269,35 +1012,9 @@
     "thumbnail": "thumbnails/qqbh0w.webp",
     "tags": [
       "Emmanuel Macron",
-      "République",
-      "EPR",
-      "EDF",
-      "Écologie"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T10:03:02.434021+00:00"
-  },
-  {
-    "id": "qpy1zs",
-    "title": "La population «non vaccinée par choix» de Singapour ne recevra plus de traitement gratuit contre le Covid-19 à partir du 8 décembre",
-    "url": "https://fr.businessam.be/singapour-prend-une-mesure-drastique-envers-les-derniers-recalcitrants-a-la-vaccination/",
-    "permalink": "/r/france/comments/qpy1zs/la_population_non_vaccinée_par_choix_de_singapour/",
-    "created_at": "2021-11-09T06:57:37+00:00",
-    "score": 641,
-    "num_comments": 352,
-    "subreddit": "france",
-    "author": "Noips",
-    "flair": "Covid-19",
-    "domain": "fr.businessam.be",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/v-f1bR-o22R2InuP3OB4Sk8g-REFx74gAryOMOFI440.jpg?auto=webp&s=c7aebf46ccc3592a1ab584b1f28671b868dd1b9d",
-    "ingested_at": "2026-11-01T10:00:52.779499+00:00",
-    "summary": "Face à une forte hausse des contaminations qui a culminé à la fin du mois d'octobre, la cité-État de Singapour a décidé de pénaliser les non-vaccinés en",
-    "thumbnail": "thumbnails/qpy1zs.webp",
-    "tags": [
-      "Singapour",
-      "Covid-19"
-    ],
-    "analyzed_at": "2026-11-01T10:03:02.961183+00:00"
   },
   {
     "id": "qpvscp",
@@ -1317,8 +1034,8 @@
     "summary": "Les pétitions ayant recueilli au moins 100 000 signatures sur ce site dans un délai de six mois sont transmises à la conférence des présidents.",
     "thumbnail": "thumbnails/qpvscp.webp",
     "tags": [
-      "Sénat",
-      "Chasse et braconnage"
+      "Institutions",
+      "Cause animale"
     ],
     "analyzed_at": "2026-11-01T10:03:02.964991+00:00"
   },
@@ -1339,12 +1056,7 @@
     "ingested_at": "2026-11-01T10:00:52.781066+00:00",
     "summary": "Partout en France des centaines d'étudiantes disent avoir été droguées à leur insu ces derniers mois avec du GHB, dite \"drogue du violeur\". Des enquêtes difficiles à mener.",
     "thumbnail": "thumbnails/qpbm8g.webp",
-    "tags": [
-      "GHB",
-      "Clara",
-      "Drogue et narcotrafic",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:03:02.963758+00:00"
   },
   {
@@ -1365,7 +1077,7 @@
     "summary": "",
     "thumbnail": "thumbnails/qp9nuq.webp",
     "tags": [
-      "Écologie"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T10:03:03.000527+00:00"
   },
@@ -1387,8 +1099,7 @@
     "summary": "L'ancien ministre socialiste a déclaré vouloir \"taper au portefeuille\", estimant par ailleurs que la France ne parvenait \"plus à intégrer\".",
     "thumbnail": "thumbnails/qopvyo.webp",
     "tags": [
-      "Arnaud Montebourg",
-      "Politique"
+      "Arnaud Montebourg"
     ],
     "analyzed_at": "2026-11-01T10:03:03.207756+00:00"
   },
@@ -1410,9 +1121,7 @@
     "summary": "Pendant une soirée d’Halloween à Tours, un cambrioleur s’est introduit dans un appartement. Les fêtards ont réussi à le prendre au piège, mais la police nationale était déjà occupée ailleurs.",
     "thumbnail": "thumbnails/qolyxq.webp",
     "tags": [
-      "Halloween",
-      "Tours",
-      "Fait Divers"
+      "Police"
     ],
     "analyzed_at": "2026-11-01T10:03:03.864355+00:00"
   },
@@ -1434,9 +1143,8 @@
     "summary": "Suivez l'actualité internationale et toute l'info dans le monde avec le JDD. Découvrez tous nos décryptages d'actu.",
     "thumbnail": "thumbnails/qnwij1.webp",
     "tags": [
-      "UE",
-      "JDD",
-      "Écologie"
+      "Environnement",
+      "Union européenne"
     ],
     "analyzed_at": "2026-11-01T10:03:03.885609+00:00"
   },
@@ -1458,9 +1166,7 @@
     "summary": "« L’usager ne s’y retrouve ni en matière de qualité de service ni en matière de prix », pointe Julien Lambert. Le syndicaliste, qui appelle à un retour de la maîtrise p...",
     "thumbnail": "thumbnails/qnvwey.webp",
     "tags": [
-      "Julien Lambert",
-      "Payant",
-      "Société"
+      "Énergie"
     ],
     "analyzed_at": "2026-11-01T10:03:04.178451+00:00"
   },
@@ -1483,10 +1189,7 @@
     "thumbnail": "thumbnails/qnbm0t.webp",
     "tags": [
       "Alexandre Benalla",
-      "Élysée",
-      "Affaire Benalla",
-      "Justice",
-      "Paris"
+      "Justice"
     ],
     "analyzed_at": "2026-11-01T10:03:03.282883+00:00"
   },
@@ -1508,11 +1211,7 @@
     "summary": "La messe du 24 octobre du «Jour du Seigneur» a notamment été célébrée par un prêtre condamné pour atteinte sexuelle sur mineur en 2007, quelques semaines après la publication du rapport choc de la Ciase sur la pédocriminalité dans l’Eglise.",
     "thumbnail": "thumbnails/qn9a2t.webp",
     "tags": [
-      "France 2",
-      "Eglise",
-      "Seigneur",
-      "Ciase",
-      "Religion & Spirituality"
+      "Justice"
     ],
     "analyzed_at": "2026-11-01T10:03:05.370893+00:00"
   },
@@ -1534,10 +1233,11 @@
     "summary": "Selon Arnaud Montebourg, candidat à l'élection présidentielle, l'indemnité inflation de 100 euros voulue par Emmanuel Macron est de la \"corruption électorale\". Cette indemnité sera remise à 38 millions de Français...",
     "thumbnail": "thumbnails/qn61gt.webp",
     "tags": [
+      "Élections",
       "Arnaud Montebourg",
-      "Français",
-      "Emmanuel Macron",
-      "Elections"
+      "Corruption",
+      "Économie",
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T10:03:03.445067+00:00"
   },
@@ -1559,11 +1259,7 @@
     "summary": "[Courrier de l'Ouest] ​L’homme de 67 ans, originaire de Champtoceaux (Orée-d’Anjou), blessé par balles alors qu’il circulait sur la quatre voies entre Nantes et Rennes, est décédé des suites de ses blessures, jeudi 4 novembre 2021.",
     "thumbnail": "thumbnails/qmstum.webp",
     "tags": [
-      "Champtoceaux",
-      "Maine-et-Loire",
-      "Nantes et Rennes",
-      "Ouest",
-      "Angers"
+      "Cause animale"
     ],
     "analyzed_at": "2026-11-01T10:03:06.645702+00:00"
   },
@@ -1585,11 +1281,8 @@
     "summary": "Le dirigeant britannique est critiqué de toutes parts après son retour en avion de la COP26 pour rejoindre un dîner privé, indique le « Daily Mirror ».",
     "thumbnail": "thumbnails/qmm2kh.webp",
     "tags": [
-      "COP26",
-      "Boris Johnson",
-      "Glasgow",
-      "Daily Mirror",
-      "Écologie"
+      "Environnement",
+      "Boris Johnson"
     ],
     "analyzed_at": "2026-11-01T10:03:10.684934+00:00"
   },
@@ -1611,8 +1304,7 @@
     "summary": "L'ancien animateur, qui a avoué ne pas être un grand gestionnaire, craint de \"mourir dans la rue\".",
     "thumbnail": "thumbnails/qmioa5.webp",
     "tags": [
-      "Patrice Laffont",
-      "Société"
+      "Retraites"
     ],
     "analyzed_at": "2026-11-01T10:03:03.661633+00:00"
   },
@@ -1633,40 +1325,8 @@
     "ingested_at": "2026-11-01T10:00:52.780026+00:00",
     "summary": "Une campagne du Conseil de l'Europe mettant en avant le voile islamique a créé la polémique sur les réseaux sociaux. En remontant le fil, « Marianne » a pu établir que deux associations européennes réputées proches de l'idéologie des Frères musulmans y ont contribué.",
     "thumbnail": "thumbnails/qlth65.webp",
-    "tags": [
-      "Conseil de Europe",
-      "Europe",
-      "Femyso",
-      "Marianne",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:03:04.448104+00:00"
-  },
-  {
-    "id": "qlpqru",
-    "title": "Derrière les records, le ZEvent 2021 soulève une nouvelle fois la question du sexisme sur Twitch",
-    "url": "https://www.gamekult.com/actualite/derriere-les-records-le-zevent-2021-souleve-une-nouvelle-fois-la-question-du-sexisme-sur-twitch-3050844239.html",
-    "permalink": "/r/france/comments/qlpqru/derrière_les_records_le_zevent_2021_soulève_une/",
-    "created_at": "2021-11-03T08:04:28+00:00",
-    "score": 218,
-    "num_comments": 330,
-    "subreddit": "france",
-    "author": "idee_fx2",
-    "flair": "Société",
-    "domain": "gamekult.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/SMWmpVte7DUCc00uneZABo2K6-Z6hvdr3ogTcEd12YA.jpg?auto=webp&s=58de6f8c67606519a0bde6ac2312aea65483fb02",
-    "ingested_at": "2026-11-01T10:00:52.780725+00:00",
-    "summary": "Dix millions d&#039;euros pour la bonne cause, mais un évènement à l&#039;image écornée",
-    "thumbnail": "thumbnails/qlpqru.webp",
-    "tags": [
-      "Twitch",
-      "ZEvent 2021",
-      "ZEvent",
-      "Action Contre la Faim",
-      "Société"
-    ],
-    "analyzed_at": "2026-11-01T10:03:06.295910+00:00"
   },
   {
     "id": "qlnt2t",
@@ -1685,13 +1345,7 @@
     "ingested_at": "2026-11-01T10:00:52.779662+00:00",
     "summary": "L’animateur de « Questions pour un champion » a été banni pour trois jours de la plateforme Twitch. Lors de sa revue de presse quotidienne, vendredi 29 octobre, Samuel Étienne a montré un article illustré par une capture d’écran d’un film de 1961.",
     "thumbnail": "thumbnails/qlnt2t.webp",
-    "tags": [
-      "Twitch",
-      "Samuel Étienne",
-      "Twitter",
-      "Médias",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:03:06.297270+00:00"
   },
   {
@@ -1712,11 +1366,8 @@
     "summary": "Plusieurs affiches mises à disposition du grand public ont présenté le hijab comme un «un choix» et «un droit humain». La campagne, co-financée par l'Union européenne, est accusée de promouvoir le voile islamique.",
     "thumbnail": "thumbnails/ql6cdl.webp",
     "tags": [
-      "Conseil de Europe",
-      "UE",
-      "Conseil de l'Europe",
-      "Voile islamique",
-      "Union"
+      "Laïcité",
+      "Union européenne"
     ],
     "analyzed_at": "2026-11-01T10:03:04.174529+00:00"
   },
@@ -1738,9 +1389,7 @@
     "summary": "Business Insider tells the global tech, finance, stock market, media, economy, lifestyle, real estate, AI and innovative stories you want to know.",
     "thumbnail": "thumbnails/ql47wc.webp",
     "tags": [
-      "Jeff Bezos",
-      "COP26",
-      "Écologie"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T10:03:04.442247+00:00"
   },
@@ -1761,12 +1410,7 @@
     "ingested_at": "2026-11-01T10:00:52.780474+00:00",
     "summary": "Une crypto douteuse surfant sur la popularité de la série Netflix Squid Game a bénéficié d'une grande médiatisation. Mais l'affaire s'est vite révélée être une arnaque. Les utilisateurs n'ont pas pu revendre la crypto une fois celle-ci achetée, et la plateforme a fermé ses portes sans donner la moindre explication.",
     "thumbnail": "thumbnails/ql18ix.webp",
-    "tags": [
-      "Squid Game",
-      "Netflix Squid Game",
-      "Netflix",
-      "CoinMarket Cap"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:03:05.263998+00:00"
   },
   {
@@ -1786,11 +1430,7 @@
     "ingested_at": "2026-11-01T10:00:52.780500+00:00",
     "summary": "L'homme âgé de cinquante ans aurait été pris à partie vendredi soir après une dispute dans un restaurant. Il aurait reçu des coups sous les yeux de sa femme, avant de décéder dimanche des suites de ses blessures.",
     "thumbnail": "thumbnails/qkxptw.webp",
-    "tags": [
-      "Montauban",
-      "Emmanuel Cueff",
-      "Fait Divers"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:03:05.485097+00:00"
   },
   {
@@ -1811,11 +1451,7 @@
     "summary": "« Nous sommes en train de creuser notre propre tombe », a prévenu lundi le chef de l'ONU, António Guterres, à l’ouverture du Sommet des dirigeants mondiaux au deuxième jour de la Conférence des Nations Unies sur le climat, la COP26, à Glasgow, au Royaume-Uni.",
     "thumbnail": "thumbnails/qkn05s.webp",
     "tags": [
-      "ONU",
-      "António Guterres",
-      "Sommet",
-      "Conférence des Nations Unies",
-      "Écologie"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T10:03:06.954191+00:00"
   },
@@ -1837,11 +1473,8 @@
     "summary": "Le 2 décembre dernier, en plein confinement, Morgan Keane, 25 ans, a été abattu par un chasseur alors qu’il coupait du bois dans son jardin. Le tireur l’aurait “confondu” avec un sanglier. Morgan. Un prénom qui vient s’ajouter à ceux de Gaël, Annie, Mark, Samuel, Frank, Marcel, et tant d’autres.",
     "thumbnail": "thumbnails/qkbze1.webp",
     "tags": [
-      "Sénat",
-      "État",
-      "Morgan Keane",
-      "Gaël",
-      "Société"
+      "Institutions",
+      "Cause animale"
     ],
     "analyzed_at": "2026-11-01T10:03:05.658635+00:00"
   }

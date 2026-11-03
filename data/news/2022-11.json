@@ -36,11 +36,7 @@
     "ingested_at": "2026-11-01T10:26:28.971755+00:00",
     "summary": "12 millions de Français en achètent chaque jour, elle est reconnue et vantée dans le monde entier: les savoir-faire artisanaux et la culture de la baguette font désormais partie du patrimoine immatériel de l'Unesco. Pour les 33.000 boulangeries françaises, c'est une véritable récompense.",
     "thumbnail": "thumbnails/z8o9ib.webp",
-    "tags": [
-      "Unesco",
-      "Français",
-      "Culture"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:44:31.610286+00:00"
   },
   {
@@ -60,7 +56,9 @@
     "ingested_at": "2026-11-01T10:26:28.973774+00:00",
     "summary": "Dans un livre à paraître jeudi 1er décembre, six fonctionnaires de police sortent de l’anonymat pour dénoncer, à visage découvert, les infractions dont ils ont été témoins et victimes de la part de l…",
     "thumbnail": "thumbnails/z8lzzr.webp",
-    "tags": [],
+    "tags": [
+      "Police"
+    ],
     "analyzed_at": "2026-11-01T10:44:32.524859+00:00"
   },
   {
@@ -80,13 +78,7 @@
     "ingested_at": "2026-11-01T10:26:28.972857+00:00",
     "summary": "Le secrétaire général de l'Elysée Alexis Kohler est poursuivi pour \"prise illégale d'intérêts\" dans le cadre de l'information judiciaire visant ses liens familiaux et professionnels avec l'armateur MSC.",
     "thumbnail": "thumbnails/z8li9d.webp",
-    "tags": [
-      "MSC",
-      "Alexis Kohler",
-      "Elysée Alexis Kohler",
-      "Affaire Alexis Kohler",
-      "Affaires"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:44:32.609033+00:00"
   },
   {
@@ -107,8 +99,7 @@
     "summary": "",
     "thumbnail": "thumbnails/z8ktgw.webp",
     "tags": [
-      "Covid-19",
-      "Société"
+      "Covid-19"
     ],
     "analyzed_at": "2026-11-01T10:44:32.003665+00:00"
   },
@@ -129,12 +120,7 @@
     "ingested_at": "2026-11-01T10:26:28.973869+00:00",
     "summary": "Mi-Coluche, mi-héritier de Bolloré, l'animateur de C8 impressionne jusqu'au monde politique. Ses armes ? Les deux millions de personnes qu'il captive... et son penchant pour l'intimidation.",
     "thumbnail": "thumbnails/z868v4.webp",
-    "tags": [
-      "Hanouna",
-      "C8",
-      "Bolloré",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:44:32.541380+00:00"
   },
   {
@@ -154,10 +140,7 @@
     "ingested_at": "2026-11-01T10:26:28.972617+00:00",
     "summary": "La chaîne de magasins avait suspendu la vente du jeu de société \"Antifa\" après plusieurs critiques émanant notamment de l'extrême droite.",
     "thumbnail": "thumbnails/z81yz8.webp",
-    "tags": [
-      "Fnac",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:44:32.145279+00:00"
   },
   {
@@ -177,13 +160,7 @@
     "ingested_at": "2026-11-01T10:26:28.972080+00:00",
     "summary": "Peu après la pause du match Portugal-Uruguay, un homme a surgi sur la pelouse pour faire passer plusieurs messages.",
     "thumbnail": "thumbnails/z78x99.webp",
-    "tags": [
-      "LGBT",
-      "Qatar",
-      "Coupe du monde 2022",
-      "Portugal-Uruguay",
-      "Fait Divers"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:44:33.144628+00:00"
   },
   {
@@ -203,9 +180,7 @@
     "ingested_at": "2026-11-01T10:26:28.972981+00:00",
     "summary": "",
     "thumbnail": "thumbnails/z70ly9.webp",
-    "tags": [
-      "Londres et Paris"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:44:33.237335+00:00"
   },
   {
@@ -226,9 +201,7 @@
     "summary": "Alors qu’Elon Musk s’apprête à rouvrir les comptes Twitter bannis, d’autres comptes progressistes, dont celui d’un expert en cybersécurité qui dénonce une fuite de données minimisée, sont bloqués.",
     "thumbnail": "thumbnails/z6t2e8.webp",
     "tags": [
-      "Twitter",
-      "Musk",
-      "Politique"
+      "Elon Musk"
     ],
     "analyzed_at": "2026-11-01T10:44:32.890854+00:00"
   },
@@ -249,11 +222,7 @@
     "ingested_at": "2026-11-01T10:26:28.972129+00:00",
     "summary": "Épinglée par un syndicat de commissaires et plusieurs élus RN sur les réseaux sociaux ce dimanche 27 novembre, la Fnac a retiré de son site internet un jeu de société \"antifa\" proposant aux joueurs d'animer un groupe...",
     "thumbnail": "thumbnails/z6qmp5.webp",
-    "tags": [
-      "Fnac",
-      "RN",
-      "Culture"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:44:32.654888+00:00"
   },
   {
@@ -274,8 +243,7 @@
     "summary": "",
     "thumbnail": "thumbnails/z688sn.webp",
     "tags": [
-      "Bruxelles",
-      "Belgique-Maroc"
+      "Union européenne"
     ],
     "analyzed_at": "2026-11-01T10:44:33.286842+00:00"
   },
@@ -297,11 +265,8 @@
     "summary": "Selon l'Elysée, une quinzaine de projets sont en cours de développement \"partout en France\", notamment dans la région de Lille, de Bordeaux, autour de Lyon ou encore d'Aix-Marseille.",
     "thumbnail": "thumbnails/z67y27.webp",
     "tags": [
-      "RER",
       "Emmanuel Macron",
-      "Elysée",
-      "Lille",
-      "Écologie"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T10:44:33.007014+00:00"
   },
@@ -322,36 +287,8 @@
     "ingested_at": "2026-11-01T10:26:28.973670+00:00",
     "summary": "Le texte propose de tripler les sanctions encourues par les squatteurs jusqu'à 3 ans de prison et 45.000 euros d'amende",
     "thumbnail": "thumbnails/z562qa.webp",
-    "tags": [
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:44:33.345525+00:00"
-  },
-  {
-    "id": "z55spd",
-    "title": "Manuel Valls condamné a 277 000€ d'amende pour financement irrégulier de sa campagne municipales de 2019.",
-    "url": "https://www.naciodigital.cat/noticia/242609/tribunal-comptes-multa-manuel-valls-financar-irregularment-campanya-municipals",
-    "permalink": "/r/france/comments/z55spd/manuel_valls_condamné_a_277_000_damende_pour/",
-    "created_at": "2022-11-26T11:54:09+00:00",
-    "score": 928,
-    "num_comments": 97,
-    "subreddit": "france",
-    "author": "EnolaGuy",
-    "flair": "Actus",
-    "domain": "naciodigital.cat",
-    "selftext": "",
-    "reddit_thumbnail": "https://b.thumbs.redditmedia.com/cN-HHfWvTMQqCi97Pro6PdiPSNgYw2o5u1NqW5q88CU.jpg",
-    "ingested_at": "2026-11-01T10:26:28.971728+00:00",
-    "summary": "Notícies, reportatges i opinions sobre la política, societat, economia, cultura i esports de Catalunya i del món.",
-    "thumbnail": "thumbnails/z55spd.webp",
-    "tags": [
-      "Manuel Valls",
-      "Catalunya",
-      "NacióDigitalNotícia",
-      "Actualitat",
-      "Diari Digital"
-    ],
-    "analyzed_at": "2026-11-01T10:44:33.488637+00:00"
   },
   {
     "id": "z54yye",
@@ -371,9 +308,8 @@
     "summary": "Alors qu'il manifestait, à Lyon, contre la réforme des retraites, Arthur Naciri avait été victime de violences policières en décembre 2019. Les deux fonctionnaires de police ont été condamnés à douze mois de prison. Ils...",
     "thumbnail": "thumbnails/z54yye.webp",
     "tags": [
-      "Arthur Naciri",
-      "Lyon",
-      "Fait Divers"
+      "Police",
+      "Manifestations"
     ],
     "analyzed_at": "2026-11-01T10:44:33.392108+00:00"
   },
@@ -395,11 +331,7 @@
     "summary": "EU officials attack Joe Biden over sky-high gas prices, weapons sales and trade as Vladimir Putin’s war threatens to destroy Western unity.",
     "thumbnail": "thumbnails/z4a6sb.webp",
     "tags": [
-      "EU",
-      "Joe Biden",
-      "European",
-      "États-Unis",
-      "Europe"
+      "Joe Biden"
     ],
     "analyzed_at": "2026-11-01T10:44:33.528509+00:00"
   },
@@ -421,10 +353,7 @@
     "summary": "Un steward d'Air France s'était vu interdire de porter des tresses africaines, alors que cette coiffure est autorisée pour les hôtesses de l'air. Débouté aux Prud'hommes et en appel, il a obtenu gain de cause en cassation.",
     "thumbnail": "thumbnails/z41m19.webp",
     "tags": [
-      "Air France",
-      "Cour",
-      "Prud'hommes",
-      "Société"
+      "Justice"
     ],
     "analyzed_at": "2026-11-01T10:44:33.600100+00:00"
   },
@@ -446,8 +375,8 @@
     "summary": "",
     "thumbnail": "thumbnails/z3o6vc.webp",
     "tags": [
-      "LFI",
-      "Politique"
+      "Santé",
+      "Cause animale"
     ],
     "analyzed_at": "2026-11-01T10:44:35.719287+00:00"
   },
@@ -468,11 +397,7 @@
     "ingested_at": "2026-11-01T10:26:28.972658+00:00",
     "summary": "Des militants dénonçant la tenue du Mondial de foot au Qatar éteignent des télévisions dans des bars parisiens à l'aide d'une télécommande pirate.",
     "thumbnail": "thumbnails/z3nabk.webp",
-    "tags": [
-      "Qatar",
-      "Mondial",
-      "Sport"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:44:33.587711+00:00"
   },
   {
@@ -493,11 +418,7 @@
     "summary": "INFO LE PARISIEN. Trois juges d’instruction enquêtent sur la sincérité des comptes des campagnes victorieuses d’Emmanuel Macron en 2017 et e",
     "thumbnail": "thumbnails/z3kymr.webp",
     "tags": [
-      "Emmanuel Macron",
-      "McKinsey",
-      "Affaire McKinsey",
-      "PARISIEN",
-      "Soft paywall"
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T10:44:34.002120+00:00"
   },
@@ -519,11 +440,7 @@
     "summary": "Jean-Marc Jancovici, ingÃ©nieur, professeur Ã l'Ãcole des Mines, fondateur du cabinet de conseil Carbone 4 et prÃ©sident du think tank The Shift Project, est l'invitÃ© du Grand entretien de France Inter ce jeudi.",
     "thumbnail": "thumbnails/z3fp50.webp",
     "tags": [
-      "Jean-Marc Jancovici",
-      "Ã Ã",
-      "Mines",
-      "Carbone 4",
-      "Écologie"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T10:44:34.662250+00:00"
   },
@@ -545,9 +462,7 @@
     "summary": "Deux policiers de la ville ont été révoqués après avoir tenté de dissimuler des violences sur mineurs lors d’une interpellation en mars 2021. L’un d’eux, désormais en poste au Blanc-Mesnil, est aussi…",
     "thumbnail": "thumbnails/z2rky4.webp",
     "tags": [
-      "Saint-Ouen",
-      "Blanc-Mesnil",
-      "Fait Divers"
+      "Police"
     ],
     "analyzed_at": "2026-11-01T10:44:34.475238+00:00"
   },
@@ -568,13 +483,7 @@
     "ingested_at": "2026-11-01T10:26:28.972956+00:00",
     "summary": "Cette ingénieure âgée de 40 ans est officier de l'armée de l'air. Elle était déjà la première femme pilote d'essais d'hélicoptères.",
     "thumbnail": "thumbnails/z2rgzp.webp",
-    "tags": [
-      "Sophie Adenot",
-      "Claudie Haigneré",
-      "ESA",
-      "Espace",
-      "Science"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:44:33.964199+00:00"
   },
   {
@@ -595,11 +504,8 @@
     "summary": "Dans un communiqué, Céline Quatennens réfute tout \"contexte d'agressivité mutuelle\" au sein du couple.",
     "thumbnail": "thumbnails/z2ncob.webp",
     "tags": [
-      "Céline Quatennens",
       "Adrien Quatennens",
-      "Affaire Adrien Quatennens",
-      "Céline",
-      "Politique"
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T10:44:33.987973+00:00"
   },
@@ -620,13 +526,7 @@
     "ingested_at": "2026-11-01T10:26:28.973750+00:00",
     "summary": "L’entrée de l’équipe de France dans la Coupe du monde 2022 a rassemblé 12,5 millions de téléspectateurs. Une audience très élevée, de bon au",
     "thumbnail": "thumbnails/z2kqtp.webp",
-    "tags": [
-      "Bleus",
-      "Audiences TV",
-      "TF1",
-      "Coupe",
-      "Soft paywall"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:44:34.283587+00:00"
   },
   {
@@ -647,8 +547,7 @@
     "summary": "Les mesures pérennes ont augmenté jusqu’à 470 euros le niveau de vie des ménages les plus aisés, relate l’institut dans un rapport publié ce",
     "thumbnail": "thumbnails/z2k8hh.webp",
     "tags": [
-      "Insee",
-      "Économie"
+      "Budget et fiscalité"
     ],
     "analyzed_at": "2026-11-01T10:44:34.478566+00:00"
   },
@@ -670,34 +569,9 @@
     "summary": "La réfutation par le vulgarisateur scientifique d'une partie des accusations « annexes » compilées par Mediapart le concernant dans un plaidoyer vidéo publié ce samedi 19 novembre pose une question à la fois déontologique et stratégique pour les médias enquêtant sur les violences sexistes et sexuelles.",
     "thumbnail": "thumbnails/z2hpm6.webp",
     "tags": [
-      "Léo Grasset",
-      "Mediapart",
-      "Société"
+      "Violences sexuelles"
     ],
     "analyzed_at": "2026-11-01T10:44:34.430248+00:00"
-  },
-  {
-    "id": "z22ohq",
-    "title": "Interdisons la chasse au renard : ce prédateur de rongeurs favorise l'agriculture sans pesticides",
-    "url": "https://lejournalminimal.fr/interdisons-la-chasse-au-renard-ce-predateur-de-rongeurs-favorise-lagriculture-sans-pesticides/",
-    "permalink": "/r/france/comments/z22ohq/interdisons_la_chasse_au_renard_ce_prédateur_de/",
-    "created_at": "2022-11-22T19:35:58+00:00",
-    "score": 427,
-    "num_comments": 103,
-    "subreddit": "france",
-    "author": "wisi_eu",
-    "flair": "Écologie",
-    "domain": "lejournalminimal.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/H-6V2a-bS-3As7fYImQDRCnNgQ9o2kj5y5fgIgvhrhk.jpeg?auto=webp&s=91a41f3ece5227929c3d774cf354001366f2a5d2",
-    "ingested_at": "2026-11-01T10:26:28.972278+00:00",
-    "summary": "Auteur d'une tribune pour défendre le renard, l'agronome Christophe Gattineau explique au journal minimal pourquoi il faut interdire l'abattage de cet (...)",
-    "thumbnail": "thumbnails/z22ohq.webp",
-    "tags": [
-      "Christophe Gattineau",
-      "Écologie"
-    ],
-    "analyzed_at": "2026-11-01T10:44:37.599163+00:00"
   },
   {
     "id": "z20xy6",
@@ -716,13 +590,7 @@
     "ingested_at": "2026-11-01T10:26:28.972056+00:00",
     "summary": "Dimanche matin, les passagers de la navette Aix-Marseille ont écouté des versets du Coran diffusés par un chauffeur. La Métropole Aix-Marseille mène l'enquête.",
     "thumbnail": "thumbnails/z20xy6.webp",
-    "tags": [
-      "Coran",
-      "Aix et Marseille",
-      "Enquêtes – Investigation",
-      "Religions",
-      "Fait Divers"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:44:35.304061+00:00"
   },
   {
@@ -763,8 +631,7 @@
     "summary": "",
     "thumbnail": "thumbnails/z1thk7.webp",
     "tags": [
-      "Claude Guéant",
-      "Politique"
+      "Justice"
     ],
     "analyzed_at": "2026-11-01T10:44:34.833485+00:00"
   },
@@ -806,11 +673,8 @@
     "summary": "La Première ministre a déclenché le 49.3 après seulement trois heures de débat sur le projet de budget 2023 de la Sécurité sociale, examiné en nouvelle lecture à l’Assemblée nationale.",
     "thumbnail": "thumbnails/z1lhub.webp",
     "tags": [
-      "Sécu",
-      "LFI",
-      "Assemblée",
-      "Première",
-      "Politique"
+      "Budget et fiscalité",
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T10:44:34.845339+00:00"
   },
@@ -832,11 +696,7 @@
     "summary": "Les deux équipes figurent dans le groupe B du Mondial, dans lequel l'Angleterre a largement dominé l'Iran lundi après-midi.",
     "thumbnail": "thumbnails/z0yzd4.webp",
     "tags": [
-      "Iran",
-      "B du Mondial",
-      "Angleterre",
-      "Qatar",
-      "Sport"
+      "Manifestations"
     ],
     "analyzed_at": "2026-11-01T10:44:35.166537+00:00"
   },
@@ -858,10 +718,7 @@
     "summary": "Saisi par l’avocat de Gaël Perdriau, le président du tribunal judiciaire de Paris a fait injonction à Mediapart de ne pas publier de nouvelles révélations sur les pratiques politiques du maire de Sai…",
     "thumbnail": "thumbnails/z0ymml.webp",
     "tags": [
-      "Gaël Perdriau",
-      "Paris",
-      "Sai",
-      "Politique"
+      "Justice"
     ],
     "analyzed_at": "2026-11-01T10:44:35.136752+00:00"
   },
@@ -883,11 +740,8 @@
     "summary": "Le ministre de la Santé a indiqué dimanche attendre deux nouveaux avis, dont celui de la Haute Autorité de Santé, avant de statuer sur un retour ou non de ces personnels. Selon leur syndicat, près d'un millier d'infirmières et infirmiers ne sont pas vaccinés contre le Covid-19.",
     "thumbnail": "thumbnails/z0vyuw.webp",
     "tags": [
-      "Covid-19",
-      "Haute Autorité de Santé",
-      "Covid",
-      "Vaccin contre le Covid-19",
-      "Maladie"
+      "Santé",
+      "Covid-19"
     ],
     "analyzed_at": "2026-11-01T10:44:35.218828+00:00"
   },
@@ -909,8 +763,7 @@
     "summary": "",
     "thumbnail": "thumbnails/z0753s.webp",
     "tags": [
-      "Français",
-      "Société"
+      "Immigration"
     ],
     "analyzed_at": "2026-11-01T10:44:36.611359+00:00"
   },
@@ -932,9 +785,7 @@
     "summary": "Il \"est entré dans la boîte et a immédiatement commencé à tirer\" : un homme de 22 ans a fait au moins cinq morts et 18 blessés dans la nuit de samedi à dimanche dans",
     "thumbnail": "thumbnails/z022zm.webp",
     "tags": [
-      "États-Unis",
-      "LGBTQ",
-      "Colorado Springs"
+      "LGBT+"
     ],
     "analyzed_at": "2026-11-01T10:44:35.694400+00:00"
   },
@@ -956,11 +807,8 @@
     "summary": "Les forces de sécurité iraniennes prennent désormais les cadavres des protestataires qu’elles ont tués pour les enterrer dans des endroits tenus secrets",
     "thumbnail": "thumbnails/yzjwat.webp",
     "tags": [
-      "ONG",
-      "AFP type GP",
-      "AFP Général",
-      "AFP Priorité 4-BASSE",
-      "Moyen-Orient"
+      "Police",
+      "Manifestations"
     ],
     "analyzed_at": "2026-11-01T10:44:35.876099+00:00"
   },
@@ -982,10 +830,7 @@
     "summary": "Ce samedi, Gianni Infantino a tenu sa conférence de presse d'avant-Mondial en délivrant un certain nombre de messages... Et de critiques.",
     "thumbnail": "thumbnails/yz99pq.webp",
     "tags": [
-      "Fifa",
-      "Gianni Infantino",
-      "Qatar",
-      "Mondial"
+      "Immigration"
     ],
     "analyzed_at": "2026-11-01T10:44:36.219684+00:00"
   },
@@ -1006,11 +851,7 @@
     "ingested_at": "2026-11-01T10:26:28.971979+00:00",
     "summary": "",
     "thumbnail": "thumbnails/yykarc.webp",
-    "tags": [
-      "Cyril Hanouna",
-      "Lola",
-      "C8"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:44:35.686472+00:00"
   },
   {
@@ -1030,11 +871,7 @@
     "ingested_at": "2026-11-01T10:26:28.973340+00:00",
     "summary": "",
     "thumbnail": "thumbnails/yye2as.webp",
-    "tags": [
-      "Laure Beccuau",
-      "Paris",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:44:36.121332+00:00"
   },
   {
@@ -1055,9 +892,7 @@
     "summary": "Alors que leur nouveau patron leur demandait de «se donner à fond ou partir», de nombreux employés auraient choisi la seconde option jeudi, faisant craindre pour la stabilité de la plateforme dans les prochains jours.",
     "thumbnail": "thumbnails/yycv9c.webp",
     "tags": [
-      "Twitter",
-      "Elon Musk",
-      "Reuters"
+      "Elon Musk"
     ],
     "analyzed_at": "2026-11-01T10:44:36.748822+00:00"
   },
@@ -1081,7 +916,7 @@
     "tags": [
       "Olivier Véran",
       "Covid-19",
-      "Société"
+      "Santé"
     ],
     "analyzed_at": "2026-11-01T10:44:36.643866+00:00"
   },
@@ -1103,11 +938,7 @@
     "summary": "Le président de la République estime que \"politiser le sport\" est une \"très mauvaise idée\", alors que les critiques sont nombreuses sur l'attribution de la Coupe du monde 2022 au Qatar",
     "thumbnail": "thumbnails/yxi174.webp",
     "tags": [
-      "Qatar",
-      "République",
-      "Coupe",
-      "Emmanuel Macron",
-      "Politique"
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T10:44:36.146882+00:00"
   },
@@ -1128,36 +959,8 @@
     "ingested_at": "2026-11-01T10:26:28.973386+00:00",
     "summary": "Les personnes arrêtées sont soupçonnées de consultation massive de contenus pédopornographiques parfois \"particulièrement violents\".",
     "thumbnail": "thumbnails/yx0y4y.webp",
-    "tags": [
-      "Faits-divers"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:44:36.631519+00:00"
-  },
-  {
-    "id": "ywqlmu",
-    "title": "Les nazis n'étaient pas socialistes : ils étaient hypercapitalistes",
-    "url": "https://www.contretemps.eu/nazis-hitler-hypercapitalisme-liberalisme-socialisme/",
-    "permalink": "/r/france/comments/ywqlmu/les_nazis_nétaient_pas_socialistes_ils_étaient/",
-    "created_at": "2022-11-16T11:08:30+00:00",
-    "score": 359,
-    "num_comments": 398,
-    "subreddit": "france",
-    "author": "Irkam",
-    "flair": "Société",
-    "domain": "contretemps.eu",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/GHvwkCQw5A3ra9lwe0-8KwVC6H3DzNQQmzN6iEulghI.jpg?auto=webp&s=fae2cf215acafd2b17c1a4fbb7881612fbc13a1d",
-    "ingested_at": "2026-11-01T10:26:28.972785+00:00",
-    "summary": "Les droites libérales et conservatrices aiment insister sur le fait que les membres du parti d'Adolf Hitler étaient socialistes. Mais la politique économique du nazisme soutenait des principes hypercapitalistes ancrés dans les idées du \"darwinisme social\" sur la valeur de la vie humaine.",
-    "thumbnail": "thumbnails/ywqlmu.webp",
-    "tags": [
-      "Ishay Landa",
-      "Adolf Hitler",
-      "Nils Schniederjann",
-      "Hitler",
-      "Société"
-    ],
-    "analyzed_at": "2026-11-01T10:44:42.511315+00:00"
   },
   {
     "id": "ywa4lt",
@@ -1176,37 +979,8 @@
     "ingested_at": "2026-11-01T10:26:28.972881+00:00",
     "summary": "Le groupe d'Ehpad présente ce mardi un plan destiné à redresser ses comptes et son image après les révélations sur des cas de maltraitances. Mais pour Laurent Garcia, les intérêts des résidents sont incompatibles avec ceux des \"investisseurs\".",
     "thumbnail": "thumbnails/ywa4lt.webp",
-    "tags": [
-      "Bourse",
-      "Laurent Garcia",
-      "Ehpad",
-      "Orpea",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:44:36.704182+00:00"
-  },
-  {
-    "id": "yw6pzj",
-    "title": "Un missile russe atteint un village en Pologne, deux morts",
-    "url": "https://www.i24news.tv/fr/actu/conflit-en-ukraine/1668539098-un-missile-russe-atteint-un-village-en-pologne-deux-morts",
-    "permalink": "/r/france/comments/yw6pzj/un_missile_russe_atteint_un_village_en_pologne/",
-    "created_at": "2022-11-15T19:15:12+00:00",
-    "score": 387,
-    "num_comments": 314,
-    "subreddit": "france",
-    "author": "arthurguillaume",
-    "flair": "Trompeur ?",
-    "domain": "i24news.tv",
-    "selftext": "",
-    "reddit_thumbnail": "https://b.thumbs.redditmedia.com/vsS7zCitBMB3NBtQiL0pRh9Pk3tUW_KU21QZgl86IPE.jpg",
-    "ingested_at": "2026-11-01T10:26:28.972453+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/yw6pzj.webp",
-    "tags": [
-      "Pologne",
-      "Trompeur ?"
-    ],
-    "analyzed_at": "2026-11-01T10:44:36.807844+00:00"
   },
   {
     "id": "yw0gva",
@@ -1226,38 +1000,9 @@
     "summary": "A la veille de l'examen en commission du texte d'Aymeric Caron, l'exécutif appelle, mardi, à \"respecter ce qui fait l'identité de certains territoires\".",
     "thumbnail": "thumbnails/yw0gva.webp",
     "tags": [
-      "Aymeric Caron",
-      "Bien-être animal",
-      "Animaux",
-      "Politique"
+      "Cause animale"
     ],
     "analyzed_at": "2026-11-01T10:44:37.691676+00:00"
-  },
-  {
-    "id": "yvzj7u",
-    "title": "Le patron de la FIFA rappelle que « des gens sont morts pour qu’on ait le droit de regarder la Coupe du monde au Qatar »",
-    "url": "https://www.legorafi.fr/2022/11/10/le-patron-de-la-fifa-rappelle-que-des-gens-sont-morts-pour-quon-ait-le-droit-de-regarder-la-coupe-du-monde-au-qatar/",
-    "permalink": "/r/france/comments/yvzj7u/le_patron_de_la_fifa_rappelle_que_des_gens_sont/",
-    "created_at": "2022-11-15T14:56:51+00:00",
-    "score": 1299,
-    "num_comments": 73,
-    "subreddit": "france",
-    "author": "OrdinaryMidnight5",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/M-xsB6aoItgBLNS9Sih_98t-Q75Qy62liCICGqZ_t1w.jpeg?auto=webp&s=9fa8b7ca41716f671ef470d5cbc01da2b24c125d",
-    "ingested_at": "2026-11-01T10:26:28.971605+00:00",
-    "summary": "Le président de la FIFA, Gianni Infantino, a défendu dans nos colonnes la Coupe du Monde au Qatar tant décriée. Rencontre.",
-    "thumbnail": "thumbnails/yvzj7u.webp",
-    "tags": [
-      "FIFA",
-      "Qatar",
-      "Gianni Infantino",
-      "Coupe du Monde",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T10:44:36.937617+00:00"
   },
   {
     "id": "yvxtf8",
@@ -1277,11 +1022,8 @@
     "summary": "Une chercheuse du CRNS a disséqué « Touche pas à mon poste » sur C8. Elle conclut à « l’extrême-droitisation des temps de parole politique »",
     "thumbnail": "thumbnails/yvxtf8.webp",
     "tags": [
-      "Cyril Hanouna",
-      "C8",
-      "CRNS",
-      "Claire Sécail",
-      "Politique"
+      "Extrême droite",
+      "Élection présidentielle"
     ],
     "analyzed_at": "2026-11-01T10:44:37.133080+00:00"
   },
@@ -1303,11 +1045,8 @@
     "summary": "Pris à partie jeudi par l’animateur Cyril Hanouna sur C8 après avoir évoqué des affaires judiciaires de Vincent Bolloré, propriétaire du groupe Canal + et ami du présentateur vedette, le député LFI Louis Boyard va porter plainte",
     "thumbnail": "thumbnails/yv6ts2.webp",
     "tags": [
-      "LFI Louis Boyard",
-      "Cyril Hanouna",
-      "TPMP",
-      "C8",
-      "Société"
+      "Louis Boyard",
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T10:44:37.365268+00:00"
   },
@@ -1328,11 +1067,7 @@
     "ingested_at": "2026-11-01T10:26:28.973821+00:00",
     "summary": "Lors d’une soirée-débat qui vient de se dérouler à Belfort, Hervé Maillart, représentant de la filière nucléaire, a estimé à 300 000 le nombre ...",
     "thumbnail": "thumbnails/yuuews.webp",
-    "tags": [
-      "Belfort",
-      "Hervé Maillart",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:44:37.738253+00:00"
   },
   {
@@ -1352,10 +1087,7 @@
     "ingested_at": "2026-11-01T10:26:28.972303+00:00",
     "summary": "Alors que la maison familiale était squattée depuis plusieurs mois et devant l'immobilisme des autorités, une famille de Bobigny a décidé d'expulser elle-même les squatteurs. Avant que tous les membres de la famille ne soient placés en garde à vue.",
     "thumbnail": "thumbnails/ytvbgt.webp",
-    "tags": [
-      "Bobigny",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:44:37.651691+00:00"
   },
   {
@@ -1396,11 +1128,10 @@
     "summary": "Tapis rouge pour Zemmour, complaisance pour Le Pen, invisibilisation de Mélenchon… Claire Sécail dévoile aux « Jours » son étude sur « TPMP » et la présidentielle.",
     "thumbnail": "thumbnails/yt452d.webp",
     "tags": [
-      "Bolloré",
-      "Claire Sécail",
-      "Cyril Hanouna",
-      "Vincent Bolloré",
-      "Emmanuel Macron"
+      "Emmanuel Macron",
+      "Jean-Luc Mélenchon",
+      "Marine Le Pen",
+      "Éric Zemmour"
     ],
     "analyzed_at": "2026-11-01T10:44:37.510162+00:00"
   },
@@ -1422,11 +1153,9 @@
     "summary": "Une violente altercation entre le député et Cyril Hanouna, le présentateur de \"Touche pas à mon poste\", s'est produit jeudi, lors d'une discussion qui portait sur le navire \"Ocean Viking\".",
     "thumbnail": "thumbnails/yt1a4n.webp",
     "tags": [
-      "Vincent Bolloré",
-      "Cyril Hanouna",
       "Louis Boyard",
-      "Ocean Viking",
-      "LFI"
+      "Institutions",
+      "Médias"
     ],
     "analyzed_at": "2026-11-01T10:44:37.661141+00:00"
   },
@@ -1448,11 +1177,8 @@
     "summary": "Selon Alexis Lévrier, le violent échange entre l'animateur et le député du Val-de-Marne montre que tous les bords politiques ne sont pas traités de la même manière sur le plateau de l'émission de C8.",
     "thumbnail": "thumbnails/ysfkut.webp",
     "tags": [
-      "Alexis Lévrier",
-      "Cyril Hanouna et Louis Boyard",
-      "C8",
-      "Val-de-Marne",
-      "Société"
+      "Louis Boyard",
+      "Médias"
     ],
     "analyzed_at": "2026-11-01T10:44:38.253497+00:00"
   },
@@ -1473,37 +1199,8 @@
     "ingested_at": "2026-11-01T10:26:28.973127+00:00",
     "summary": "Alors que nos prisons sont surpeuplées,et que les taux de récidive après un séjour en prison interrogent, coup de projecteur sur la confiscation. Une autre peine que les juges prononcent de plus en plus.",
     "thumbnail": "thumbnails/ys53ln.webp",
-    "tags": [
-      "État",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:44:38.753974+00:00"
-  },
-  {
-    "id": "ys1xvy",
-    "title": "Mondial: La FIFA interdit les maillots pro-droits humains du Danemark",
-    "url": "https://www.blick.ch/fr/sport/football/coupe-du-monde/dix-jours-avant-la-competition-la-fifa-interdit-les-maillots-pro-droits-humains-du-danemark-id18042062.html",
-    "permalink": "/r/france/comments/ys1xvy/mondial_la_fifa_interdit_les_maillots_prodroits/",
-    "created_at": "2022-11-11T05:15:18+00:00",
-    "score": 286,
-    "num_comments": 68,
-    "subreddit": "france",
-    "author": "LeBoulu777",
-    "flair": "Sport",
-    "domain": "blick.ch",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/kRQFJnAXQw6YnCGFnUoJB60aRZZL2wi7m8OBTyd6kR0.jpeg?auto=webp&s=e74167d5fda824928c2d7a41896abe0a5d51195b",
-    "ingested_at": "2026-11-01T10:26:28.973316+00:00",
-    "summary": "La FIFA a interdit au Danemark de s'entraîner avec des maillots pro-droits humains lors de la Coupe du monde au Qatar. La fédération danoise l'a annoncé jeudi, à dix jours du début de la compétition.",
-    "thumbnail": "thumbnails/ys1xvy.webp",
-    "tags": [
-      "FIFA",
-      "Danemark",
-      "Qatar",
-      "Coupe",
-      "Sport"
-    ],
-    "analyzed_at": "2026-11-01T10:44:40.176635+00:00"
   },
   {
     "id": "yrn85o",
@@ -1523,11 +1220,7 @@
     "summary": "En pleine COP27, cette action s'inscrit dans le cadre d'une campagne internationale appelée \"Make Them Pay\" (\"Faites-les payer\"). Elle porte trois revendications : \"interdire les jets privés, taxer les grands voleurs, et faire payer les ultrariches pollueurs\".",
     "thumbnail": "thumbnails/yrn85o.webp",
     "tags": [
-      "Dassault Aviation",
-      "COP27",
-      "Make Them Pay",
-      "Crise climatique",
-      "Dassault"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T10:44:39.797781+00:00"
   },
@@ -1549,11 +1242,7 @@
     "summary": "L’ancien directeur de l’Institut Montaigne, Laurent Bigorgne, est accusé d’avoir glissé de la MDMA dans le verre de la responsable du pôle « politique publique » de ce think tank",
     "thumbnail": "thumbnails/yr94ep.webp",
     "tags": [
-      "Emmanuel Macron",
-      "Institut Montaigne",
-      "Laurent Bigorgne",
-      "MDMA",
-      "Politique"
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T10:44:38.287121+00:00"
   },
@@ -1575,8 +1264,8 @@
     "summary": "Le 20 juin, un CRS a reçu deux gifles de la part d’un collègue qui lui a lancé « j’aime pas les Arabes » devant témoins, lors d’un pot à la caserne. L’incident a donné lieu à une plainte et une enquê…",
     "thumbnail": "thumbnails/yqp3tk.webp",
     "tags": [
-      "Arabes",
-      "CRS"
+      "Police",
+      "Racisme"
     ],
     "analyzed_at": "2026-11-01T10:44:38.751679+00:00"
   },
@@ -1598,11 +1287,7 @@
     "summary": "Un député du Rassemblement national (RN, ex-FN) a proposé sur les bancs de l'Assemblée nationale de revenir sur la présence du manga au sein du Pass culture. Il n'a pas été suivi, pour le bonheur des libraires qui expliquent...",
     "thumbnail": "thumbnails/yqekw7.webp",
     "tags": [
-      "Pass",
-      "RN",
-      "Rassemblement",
-      "Assemblée",
-      "Culture"
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T10:44:38.417391+00:00"
   },
@@ -1624,8 +1309,7 @@
     "summary": "",
     "thumbnail": "thumbnails/ypgcg9.webp",
     "tags": [
-      "Jean-Pierre Ricard",
-      "Société"
+      "Violences sexuelles"
     ],
     "analyzed_at": "2026-11-01T10:44:38.679976+00:00"
   },
@@ -1647,11 +1331,8 @@
     "summary": "Agnès Pannier-Runacher est liée à une société détenue par son père et ses enfants mineurs. Baptisée Arjunem, l'entreprise familiale partage des intérêts financiers avec Perenco, numéro 2 du pétrole en France, et détient plus de 1 million d'euros dans des paradis fiscaux.",
     "thumbnail": "thumbnails/ypeent.webp",
     "tags": [
-      "Perenco",
       "Agnès Pannier-Runacher",
-      "Baptisée Arjunem",
-      "Arjunem",
-      "Jean-Michel Runacher"
+      "Énergie"
     ],
     "analyzed_at": "2026-11-01T10:44:38.677387+00:00"
   },
@@ -1672,10 +1353,7 @@
     "ingested_at": "2026-11-01T10:26:28.972031+00:00",
     "summary": "Métiers de la crèche, de l'école maternelle ou de la garde d'enfants en bas âge... Les hommes sont sous-représentés, pour ne pas dire absents. Et pour cause, de nombreux obstacles entravent toujours cette volonté d'ouvrir ces métiers au sexe masculin, comme l'ont expliqué à BFMTV.com des parents et...",
     "thumbnail": "thumbnails/yotvyn.webp",
-    "tags": [
-      "BFMTV",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:44:38.956594+00:00"
   },
   {
@@ -1696,8 +1374,7 @@
     "summary": "",
     "thumbnail": "thumbnails/yorfd7.webp",
     "tags": [
-      "Cour",
-      "Société"
+      "Justice"
     ],
     "analyzed_at": "2026-11-01T10:44:39.077093+00:00"
   },
@@ -1718,7 +1395,9 @@
     "ingested_at": "2026-11-01T10:26:28.971697+00:00",
     "summary": "",
     "thumbnail": "thumbnails/yojpq5.webp",
-    "tags": [],
+    "tags": [
+      "Environnement"
+    ],
     "analyzed_at": "2026-11-01T10:44:39.056192+00:00"
   },
   {
@@ -1739,11 +1418,7 @@
     "summary": "Entre 2006 et 2021, le nombre d'enseignants d'allemand dans l'Hexagone a été divisé par presque deux. Une dynamique qui inquiète, en totale contradiction avec les discours politiques prônant l'amitié entre Paris et Berlin.",
     "thumbnail": "thumbnails/yojbdn.webp",
     "tags": [
-      "Hexagone",
-      "Paris et Berlin",
-      "Capes",
-      "ADEAF",
-      "Société"
+      "Éducation"
     ],
     "analyzed_at": "2026-11-01T10:44:38.975884+00:00"
   },
@@ -1764,13 +1439,7 @@
     "ingested_at": "2026-11-01T10:26:28.972405+00:00",
     "summary": "Dans une lettre commune, dix associations nationales réaffirment leur volonté de défendre les droits humains et des travailleurs migrants et d’obliger la FIFA à tenir les engagements pris dans le cadre de la Coupe du monde, qui débute le 20 novembre",
     "thumbnail": "thumbnails/yohsje.webp",
-    "tags": [
-      "FIFA",
-      "Coupe",
-      "Qatar",
-      "Coupe du monde 2022",
-      "Sport"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:44:39.864944+00:00"
   },
   {
@@ -1790,12 +1459,7 @@
     "ingested_at": "2026-11-01T10:26:28.973696+00:00",
     "summary": "Une enquête des médias britanniques « The Sunday Times » et The Bureau of Investigative Journalism affirme que le Qatar aurait tenté de pirater plusieurs personnalités et journalistes jugés trop crit…",
     "thumbnail": "thumbnails/ynzsq5.webp",
-    "tags": [
-      "Qatar",
-      "Bureau",
-      "Investigative Journalism",
-      "Sunday Times"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:44:40.196881+00:00"
   },
   {
@@ -1815,9 +1479,7 @@
     "ingested_at": "2026-11-01T10:26:28.972503+00:00",
     "summary": "Selon une étude, 68% des Français accepteraient de rouler à 110 km/h sur les autoroutes au lieu de 130 km/h pour lutter contre le réchauffement climatique.",
     "thumbnail": "thumbnails/ynqy6t.webp",
-    "tags": [
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:44:39.657421+00:00"
   },
   {
@@ -1837,9 +1499,7 @@
     "ingested_at": "2026-11-01T10:26:28.973175+00:00",
     "summary": "Selon un sondage, 61% des Français estiment que les services publics sont défaillants dans le pays.",
     "thumbnail": "thumbnails/ynnfaz.webp",
-    "tags": [
-      "Français"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:44:39.636178+00:00"
   },
   {
@@ -1860,7 +1520,7 @@
     "summary": "",
     "thumbnail": "thumbnails/ynkysp.webp",
     "tags": [
-      "Paris"
+      "Justice"
     ],
     "analyzed_at": "2026-11-01T10:44:40.892800+00:00"
   },
@@ -1882,7 +1542,7 @@
     "summary": "INFO JDD - Une dépêche interministérielle, datée de mai 2021, incite les magistrats à classer sans suite les affaires jugées trop anciennes ou pour lesquelles aucune enquête n'a été menée.",
     "thumbnail": "thumbnails/ynjm0a.webp",
     "tags": [
-      "JDD"
+      "Justice"
     ],
     "analyzed_at": "2026-11-01T10:44:40.342116+00:00"
   },
@@ -1903,10 +1563,7 @@
     "ingested_at": "2026-11-01T10:26:28.973914+00:00",
     "summary": "Le documentaire \"Des vaccins et des hommes\", diffusé le 18 octobre sur Arte, devait proposer un débat apaisé sur la vaccination.",
     "thumbnail": "thumbnails/ymndt4.webp",
-    "tags": [
-      "Arte",
-      "Marina Fabre Soundron"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:44:42.101978+00:00"
   },
   {
@@ -1927,9 +1584,8 @@
     "summary": "",
     "thumbnail": "thumbnails/ymm2er.webp",
     "tags": [
-      "SONDAGE",
-      "Français",
-      "Société"
+      "Élections",
+      "Énergie"
     ],
     "analyzed_at": "2026-11-01T10:44:40.643795+00:00"
   },
@@ -1951,11 +1607,8 @@
     "summary": "La censure avec exclusion temporaire, votée par les députés vendredi, implique aussi la privation, pendant deux mois, de la moitié de l’indemnité parlementaire allouée au député.",
     "thumbnail": "thumbnails/ym2db6.webp",
     "tags": [
-      "Assemblée",
-      "RN Grégoire de Fournas",
-      "RN",
-      "Assemblée nationale",
-      "Politique"
+      "Institutions",
+      "Racisme"
     ],
     "analyzed_at": "2026-11-01T10:44:40.596812+00:00"
   },
@@ -1977,10 +1630,8 @@
     "summary": "Cette mesure pourrait être inscrite dans le projet de loi sur l'immigration prévu pour début 2023.",
     "thumbnail": "thumbnails/ylxpzd.webp",
     "tags": [
-      "Gérald Darmanin",
-      "OQTF",
       "Immigration",
-      "Politique"
+      "Gérald Darmanin"
     ],
     "analyzed_at": "2026-11-01T10:44:41.652592+00:00"
   },
@@ -2002,11 +1653,8 @@
     "summary": "Le député RN a provoqué un tollé jeudi en criant \"Qu'ils retournent en Afrique !\", tandis que Carlos Martens Bilongo, député LFI noir et d'origine congolaise, posait une question au gouvernement sur les migrants.",
     "thumbnail": "thumbnails/yl9bi0.webp",
     "tags": [
-      "Assemblée",
-      "RN",
-      "RN Grégoire de Fournas",
-      "Afrique",
-      "Politique"
+      "Institutions",
+      "Racisme"
     ],
     "analyzed_at": "2026-11-01T10:44:40.679534+00:00"
   },
@@ -2027,10 +1675,7 @@
     "ingested_at": "2026-11-01T10:26:28.973589+00:00",
     "summary": "Aucun dommage n'a été découvert sur le tableau mais la justice a jugé l'acte \"choquant\" pour de nombreuses personnes et a pointé que cela aurait pu \"mal tourner\".",
     "thumbnail": "thumbnails/yks4ta.webp",
-    "tags": [
-      "Jeune Fille",
-      "Perle"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:44:40.589989+00:00"
   },
   {
@@ -2050,11 +1695,7 @@
     "ingested_at": "2026-11-01T10:26:28.973456+00:00",
     "summary": "L'actualité sciences et santé en France et dans le monde par la rédaction de L'Express : actualités scientifiques, progrès et innovations médicales…",
     "thumbnail": "thumbnails/ykeb2w.webp",
-    "tags": [
-      "CV",
-      "Idriss Aberkane",
-      "Express"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:44:40.965783+00:00"
   },
   {
@@ -2074,10 +1715,7 @@
     "ingested_at": "2026-11-01T10:26:28.973053+00:00",
     "summary": "",
     "thumbnail": "thumbnails/ykc8jd.webp",
-    "tags": [
-      "Monde 2022",
-      "Qatar"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:44:41.209298+00:00"
   },
   {
@@ -2098,10 +1736,7 @@
     "summary": "En septembre, le Crous de Bretagne avait reconnu que certaines recettes n'étaient pas \"suffisamment rassasiantes\", et allaient être \"revues\".",
     "thumbnail": "thumbnails/yk7v2s.webp",
     "tags": [
-      "Crous",
-      "Bretagne",
-      "Crous de Bretagne",
-      "Société"
+      "Éducation"
     ],
     "analyzed_at": "2026-11-01T10:44:40.934321+00:00"
   },
@@ -2123,7 +1758,7 @@
     "summary": "",
     "thumbnail": "thumbnails/yjx9v4.webp",
     "tags": [
-      "Écologie"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T10:44:42.658433+00:00"
   },
@@ -2164,13 +1799,7 @@
     "ingested_at": "2026-11-01T10:26:28.972687+00:00",
     "summary": "S'il est possible d'être inhumé avec son animal de compagnie en Allemagne, au Royaume-Uni et en Suisse, la pratique est formellement interdite en France.",
     "thumbnail": "thumbnails/yj3sep.webp",
-    "tags": [
-      "Français",
-      "Chiens",
-      "Allemagne",
-      "Royaume-Uni",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:44:42.114127+00:00"
   }
 ]

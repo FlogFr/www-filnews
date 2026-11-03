@@ -17,11 +17,7 @@
     "summary": "Alors que les mouvements sociaux s’enchaînent depuis plusieurs semaines, Patrice Vergriete se veut optimiste à moins de 60 jours des Jeux olympiques.",
     "thumbnail": "thumbnails/1d4s4z4.webp",
     "tags": [
-      "JO",
-      "Jeux",
-      "JO 2024",
-      "Patrice Vergriete",
-      "Politique"
+      "Grèves et syndicats"
     ],
     "analyzed_at": "2026-11-01T10:59:40.488140+00:00"
   },
@@ -43,39 +39,10 @@
     "summary": "Après la France, c’est au tour de l’Union européenne d’interdire la destruction, y compris le recyclage, des invendus de vêtements et de chaussures.",
     "thumbnail": "thumbnails/1d4qip5.webp",
     "tags": [
-      "UE",
-      "Union",
-      "Union européenne (UE)",
-      "Textile-habillement",
-      "Écologie"
+      "Union européenne",
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T10:59:39.914501+00:00"
-  },
-  {
-    "id": "1d4c5jn",
-    "title": "Après sa violente altercation avec Meyer Habib, David Guiraud présente ses excuses \"à tous les cochons de France\" sur BFMTV",
-    "url": "https://www.ozap.com/actu/apres-sa-violente-altercation-avec-meyer-habib-david-guiraud-presente-ses-excuses-a-tous-les-cochons-de-france-sur-bfmtv/644170",
-    "permalink": "/r/france/comments/1d4c5jn/après_sa_violente_altercation_avec_meyer_habib/",
-    "created_at": "2024-05-30T19:24:45+00:00",
-    "score": 630,
-    "num_comments": 254,
-    "subreddit": "france",
-    "author": "Freavene",
-    "flair": "Politique",
-    "domain": "ozap.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/2M7QwNSLG43mUIHZ67O44jJ8q9rmAADEGVVk_F9EdVk.jpeg?auto=webp&s=45d671883f5a52efe09c731e945d13dc42fa96da",
-    "ingested_at": "2026-11-01T10:53:40.953908+00:00",
-    "summary": "Le député de la France insoumise était l&#039;invité ce mardi 28 mai 2024 dans l&#039;émission d&#039;Alice Darfeuille sur BFMTV.",
-    "thumbnail": "thumbnails/1d4c5jn.webp",
-    "tags": [
-      "BFMTV",
-      "David Guiraud",
-      "Meyer Habib",
-      "Alice Darfeuille",
-      "Politique"
-    ],
-    "analyzed_at": "2026-11-01T10:59:40.165947+00:00"
   },
   {
     "id": "1d43mkx",
@@ -95,11 +62,7 @@
     "summary": "Le groupe TF1 a annoncé ce jeudi 30 mai la diffusion dans la soirée d’un entretien exclusif de 30 minutes avec le Premier ministre israélien Benyamin Netanyahou. Dans la foulée, des appels à manifester devant les...",
     "thumbnail": "thumbnails/1d43mkx.webp",
     "tags": [
-      "Benyamin Netanyahou",
-      "Paris",
-      "TF1 et LCI",
-      "TF1",
-      "Politique"
+      "Benyamin Netanyahou"
     ],
     "analyzed_at": "2026-11-01T10:59:40.059720+00:00"
   },
@@ -121,11 +84,7 @@
     "summary": "Le projet du RN passé au crible. Mondialisation, énergie, impôts, retraites… Avant les Européennes, Challenges a demandé au Cercle des économistes d’éplucher le programme du Rassemblement national.",
     "thumbnail": "thumbnails/1d43g2y.webp",
     "tags": [
-      "RN",
-      "Jordan Bardella et du RN",
-      "Jordan Bardella",
-      "Cercle",
-      "Économie"
+      "Jordan Bardella"
     ],
     "analyzed_at": "2026-11-01T10:59:40.797093+00:00"
   },
@@ -147,11 +106,7 @@
     "summary": "L'institution a proposé une batterie de mesures pour réaliser entre \"500 millions et un milliard d'euros\" d'économies sur le budget de la Sécurité sociale.",
     "thumbnail": "thumbnails/1d3ggc1.webp",
     "tags": [
-      "Cour",
-      "Laurent Nuñez",
-      "Santé au travail",
-      "Vie-professionnelle",
-      "Carrière"
+      "Laurent Nuñez"
     ],
     "analyzed_at": "2026-11-01T10:59:40.568531+00:00"
   },
@@ -173,7 +128,7 @@
     "summary": "Nous sommes nombreux à en avoir conscience : adopter des modes de vie plus écologiques est devenu une nécessité. Pour autant, nous n’agissons pas de manière écologiquement vertueuse en toutes circonstances (loin de là), et, surtout, nous nous accordons, parfois inconsciemment, des « écarts » après avoir fourni une",
     "thumbnail": "thumbnails/1d353t2.webp",
     "tags": [
-      "Société"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T10:59:40.703043+00:00"
   },
@@ -195,36 +150,11 @@
     "summary": "L'indemnité de l'élu des Bouches-du-Rhône est également partiellement suspendue.",
     "thumbnail": "thumbnails/1d2lacs.webp",
     "tags": [
-      "Assemblée",
-      "LFI Sébastien Delogu",
-      "Bouches-du-Rhône",
       "Sébastien Delogu",
-      "Politique"
+      "Institutions",
+      "Conflit israélo-palestinien"
     ],
     "analyzed_at": "2026-11-01T10:59:40.575551+00:00"
-  },
-  {
-    "id": "1d2gpdf",
-    "title": "Ce chiffre de l'Insee montre que les jeunes paient trop de cotisations à de riches retraités",
-    "url": "https://www.journaldunet.com/patrimoine/finances-personnelles/1530557-hf1-injustice-en-france/",
-    "permalink": "/r/france/comments/1d2gpdf/ce_chiffre_de_linsee_montre_que_les_jeunes_paient/",
-    "created_at": "2024-05-28T10:59:57+00:00",
-    "score": 582,
-    "num_comments": 423,
-    "subreddit": "france",
-    "author": "InvestisseurPrive",
-    "flair": "Économie",
-    "domain": "journaldunet.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/saNuQxCeTVUqtxGJNUoxtE8weyg_wL4y1HRhX6J-Jac.jpeg?auto=webp&s=dfe2774e3258e7d2d56c64f69f68eb7773735b37",
-    "ingested_at": "2026-11-01T10:53:40.954037+00:00",
-    "summary": "Une injustice en France permet aux retraités de s'enrichir sur le dos des jeunes travailleurs.",
-    "thumbnail": "thumbnails/1d2gpdf.webp",
-    "tags": [
-      "Insee",
-      "Économie"
-    ],
-    "analyzed_at": "2026-11-01T10:59:40.721720+00:00"
   },
   {
     "id": "1d2bjvm",
@@ -244,10 +174,7 @@
     "summary": "Le 25 mai 2024, le site d’investigation Mediapart a publié une enquête sur la porte-parole du gouvernement Prisca Thevenot et déplore le manque de réponse de Gabriel Attal. Plusieurs collaborateurs ont dénoncé les...",
     "thumbnail": "thumbnails/1d2bjvm.webp",
     "tags": [
-      "Prisca Thevenot",
-      "Mediapart",
-      "Gabriel Attal",
-      "Politique"
+      "Gabriel Attal"
     ],
     "analyzed_at": "2026-11-01T10:59:40.859276+00:00"
   },
@@ -268,10 +195,7 @@
     "ingested_at": "2026-11-01T10:53:40.955485+00:00",
     "summary": "Plus la peine de débourser 1 euro pour se soulager. IDFM prend désormais en charge le coût de l’accès aux toilettes des grandes gares parisi",
     "thumbnail": "thumbnails/1d1n583.webp",
-    "tags": [
-      "Navigo",
-      "IDFM"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:59:40.964755+00:00"
   },
   {
@@ -293,10 +217,7 @@
     "thumbnail": "thumbnails/1d1m5ra.webp",
     "tags": [
       "Emmanuel Macron",
-      "Français",
-      "République",
-      "Allemagne",
-      "Politique"
+      "Extrême droite"
     ],
     "analyzed_at": "2026-11-01T10:59:40.814841+00:00"
   },
@@ -318,6 +239,7 @@
     "summary": "Gabriel Attal a dévoilé les mesures de la nouvelle réforme de l’assurance-chômage qui entrera en vigueur le 1er décembre 2024. Les conditions pour ouvrir des droits seront encore durcies, la durée d’…",
     "thumbnail": "thumbnails/1d0x4f9.webp",
     "tags": [
+      "Protection sociale",
       "Gabriel Attal"
     ],
     "analyzed_at": "2026-11-01T10:59:41.742434+00:00"
@@ -341,7 +263,8 @@
     "thumbnail": "thumbnails/1d0u2kb.webp",
     "tags": [
       "Gabriel Attal",
-      "Société"
+      "Protection sociale",
+      "Travail"
     ],
     "analyzed_at": "2026-11-01T10:59:46.269524+00:00"
   },
@@ -363,11 +286,7 @@
     "summary": "Toutes vos données publiques sur Instagram et Facebook vont servir à Meta pour entraîner son IA. Cette nouvelle politique doit être lancée à partir du 27 mai 2025. Cependant, les internautes peuvent s'opposer à ce traitement de leurs données personnelles. Avec, toutefois, certaines limites. C'est un message que vous",
     "thumbnail": "thumbnails/1d0c13u.webp",
     "tags": [
-      "IA",
-      "Facebook et Instagram",
-      "Meta",
-      "Instagram et Facebook",
-      "Économie"
+      "Intelligence artificielle"
     ],
     "analyzed_at": "2026-11-01T10:59:41.715407+00:00"
   },
@@ -389,10 +308,7 @@
     "summary": "",
     "thumbnail": "thumbnails/1d04176.webp",
     "tags": [
-      "Cyril Hanouna",
-      "Louis Boyard",
-      "Conseil Etat",
-      "C8"
+      "Louis Boyard"
     ],
     "analyzed_at": "2026-11-01T10:59:41.713060+00:00"
   },
@@ -414,7 +330,8 @@
     "summary": "",
     "thumbnail": "thumbnails/1czpr5i.webp",
     "tags": [
-      "Sébastien Cauet"
+      "Justice",
+      "Violences sexuelles"
     ],
     "analyzed_at": "2026-11-01T10:59:41.115511+00:00"
   },
@@ -435,10 +352,7 @@
     "ingested_at": "2026-11-01T10:53:40.954787+00:00",
     "summary": "",
     "thumbnail": "thumbnails/1czgl99.webp",
-    "tags": [
-      "Internet",
-      "Culture"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:59:41.517655+00:00"
   },
   {
@@ -458,12 +372,7 @@
     "ingested_at": "2026-11-01T10:53:40.954089+00:00",
     "summary": "La chanteuse Hoshi, cible de menaces homophobes depuis 4 ans, passe à l'offensive. Elle dévoile des profils d'hommes ayant publié des messages haineux et menaçants sur internet sur ses réseaux sociaux. Comme à Saint-Brieuc...",
     "thumbnail": "thumbnails/1czf8gm.webp",
-    "tags": [
-      "Hoshi",
-      "Saint-Brieuc",
-      "Mathilde Gerner",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:59:41.599579+00:00"
   },
   {
@@ -483,39 +392,8 @@
     "ingested_at": "2026-11-01T10:53:40.954459+00:00",
     "summary": "Ces manœuvres sont présentées par Pékin comme une \"punition\" contre le nouveau président de l'île et les forces \"indépendantistes\".",
     "thumbnail": "thumbnails/1czecxr.webp",
-    "tags": [
-      "Chine",
-      "Taïwan",
-      "Pékin",
-      "Lai Ching-te",
-      "Monde"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:59:41.662617+00:00"
-  },
-  {
-    "id": "1cz6rux",
-    "title": "Un Malien lynché pour s’être opposé à son statut d’esclave",
-    "url": "https://www.dw.com/fr/un-malien-lynche-pour-setre-oppose-a-son-statut-desclave/a-69104750",
-    "permalink": "/r/france/comments/1cz6rux/un_malien_lynché_pour_sêtre_opposé_à_son_statut/",
-    "created_at": "2024-05-23T23:23:28+00:00",
-    "score": 259,
-    "num_comments": 59,
-    "subreddit": "france",
-    "author": "parkas1",
-    "flair": "Actus",
-    "domain": "dw.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/Gjwrr_vpiED9M-tiTEiQA9DxZMuHBLiEiewGu9HEDrc.jpeg?auto=webp&s=d3678c2229527e29d7ce24747ecd3343e75e55b6",
-    "ingested_at": "2026-11-01T10:53:40.955242+00:00",
-    "summary": "Oumar Konaté, membre d’une association anti-esclavage, a été tué par les habitants de son village dans l'ouest du Mali.",
-    "thumbnail": "thumbnails/1cz6rux.webp",
-    "tags": [
-      "Malien",
-      "Oumar Konaté",
-      "Mali",
-      "Kayes"
-    ],
-    "analyzed_at": "2026-11-01T10:59:43.059838+00:00"
   },
   {
     "id": "1cyrp0h",
@@ -535,10 +413,7 @@
     "summary": "Dans une enquête conjointe de Mediapart et de Cheek, six femmes décrivent des faits de harcèlement sexuel et d’agression sexuelle. Le comédien Édouard Baer ne se “reconnaît pas” dans ces accusations et présente “toutes [s]es excuses”.",
     "thumbnail": "thumbnails/1cyrp0h.webp",
     "tags": [
-      "Édouard Baer",
-      "Mediapart et de Cheek",
-      "Payant",
-      "Société"
+      "Violences sexuelles"
     ],
     "analyzed_at": "2026-11-01T10:59:41.806464+00:00"
   },
@@ -560,7 +435,7 @@
     "summary": "Arrêté puis placé en garde à vue mardi 21 mai, un homme âgé de 26 ans, inconnu des services de police, a reconnu son aversion pour les femmes et sa volonté de perpétrer une tuerie de masse. L’attenta…",
     "thumbnail": "thumbnails/1cypywj.webp",
     "tags": [
-      "Bordeaux"
+      "Extrême droite"
     ],
     "analyzed_at": "2026-11-01T10:59:42.374660+00:00"
   },
@@ -582,10 +457,7 @@
     "summary": "Le président du Conseil régional d’Auvergne-Rhône-Alpes Laurent Wauquiez (LR) a été sommé, ce mercredi 22 mai, par le tribunal administratif de ...",
     "thumbnail": "thumbnails/1cyn3z2.webp",
     "tags": [
-      "Laurent Wauquiez",
-      "LR",
-      "Auvergne-Rhône-Alpes Laurent Wauquiez",
-      "Politique"
+      "Laurent Wauquiez"
     ],
     "analyzed_at": "2026-11-01T10:59:43.089291+00:00"
   },
@@ -606,9 +478,7 @@
     "ingested_at": "2026-11-01T10:53:40.953800+00:00",
     "summary": "La cour d’assises du Bas-Rhin juge mardi et mercredi un homme de 45 ans qui avait étranglé son ex-compagne en décembre 2020 sous les yeux de leurs enfants, après des années de violences conjugales jamais traitées par les autorités.",
     "thumbnail": "thumbnails/1cyhjpu.webp",
-    "tags": [
-      "Bas-Rhin"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:59:43.194833+00:00"
   },
   {
@@ -629,9 +499,7 @@
     "summary": "",
     "thumbnail": "thumbnails/1cy6o2w.webp",
     "tags": [
-      "Anne Hidalgo",
-      "Seine le 23",
-      "Politique"
+      "Anne Hidalgo"
     ],
     "analyzed_at": "2026-11-01T10:59:42.175408+00:00"
   },
@@ -652,10 +520,7 @@
     "ingested_at": "2026-11-01T10:53:40.954164+00:00",
     "summary": "",
     "thumbnail": "thumbnails/1cxxgoh.webp",
-    "tags": [
-      "Guillaume Meurice",
-      "France Inter"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:59:42.220763+00:00"
   },
   {
@@ -675,9 +540,7 @@
     "ingested_at": "2026-11-01T10:53:40.954286+00:00",
     "summary": "",
     "thumbnail": "thumbnails/1cx6kmo.webp",
-    "tags": [
-      "Eli Copter"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:59:46.405716+00:00"
   },
   {
@@ -698,7 +561,8 @@
     "summary": "",
     "thumbnail": "thumbnails/1cx5d44.webp",
     "tags": [
-      "Politique"
+      "Gérald Darmanin",
+      "Police"
     ],
     "analyzed_at": "2026-11-01T10:59:47.711502+00:00"
   },
@@ -720,11 +584,7 @@
     "summary": "Si la demande de logements à louer sur les plateformes de location touristique a augmenté pour la période des Jeux olympiques, l'offre s'est envolée. Une désillusion pour beaucoup de propriétaires.",
     "thumbnail": "thumbnails/1cx3qwh.webp",
     "tags": [
-      "JO",
-      "Jeux",
-      "Paris",
-      "Airbnb",
-      "Société"
+      "Logement"
     ],
     "analyzed_at": "2026-11-01T10:59:42.539763+00:00"
   },
@@ -746,11 +606,8 @@
     "summary": "Le procureur de la CPI a réclamé un mandat d’arrêt pour crime de guerre et contre l’humanité envers le Premier ministre israélien pour la gu",
     "thumbnail": "thumbnails/1cwrj45.webp",
     "tags": [
-      "Cour",
-      "Netanyahou",
-      "CPI",
-      "Premier",
-      "Gaza"
+      "Benyamin Netanyahou",
+      "Conflit israélo-palestinien"
     ],
     "analyzed_at": "2026-11-01T10:59:42.992931+00:00"
   },
@@ -772,11 +629,8 @@
     "summary": "Le procureur général de la Cour pénale internationale a requis lundi 20 mai des mandats d'arrêt pour «crimes de guerre» à Gaza. Une décision accueillie avec colère par les autorités israéliennes.",
     "thumbnail": "thumbnails/1cwdbi9.webp",
     "tags": [
-      "Israël",
-      "Gaza",
-      "Netanyahu",
-      "Cour pénale internationale",
-      "Trompeur ?"
+      "Benyamin Netanyahou",
+      "Conflit israélo-palestinien"
     ],
     "analyzed_at": "2026-11-01T10:59:43.399290+00:00"
   },
@@ -797,7 +651,9 @@
     "ingested_at": "2026-11-01T10:53:40.955036+00:00",
     "summary": "",
     "thumbnail": "thumbnails/1cwatx7.webp",
-    "tags": [],
+    "tags": [
+      "LGBT+"
+    ],
     "analyzed_at": "2026-11-01T10:59:52.001953+00:00"
   },
   {
@@ -819,9 +675,7 @@
     "thumbnail": "thumbnails/1cvydon.webp",
     "tags": [
       "Raphaël Glucksmann",
-      "PS",
-      "BFMTV",
-      "Politique"
+      "Immigration"
     ],
     "analyzed_at": "2026-11-01T10:59:43.447142+00:00"
   },
@@ -842,11 +696,7 @@
     "ingested_at": "2026-11-01T10:53:40.954887+00:00",
     "summary": "Étudiants mais aussi salariés, parfois au-delà de la trentaine, ils sont près de cinq millions à ne pas pouvoir se loger, contraints de rester dans le foyer familial.",
     "thumbnail": "thumbnails/1cvim6k.webp",
-    "tags": [
-      "Immobilier",
-      "FAP",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:59:44.804993+00:00"
   },
   {
@@ -867,10 +717,7 @@
     "summary": "Attaqué en justice par Didier Raoult pour diffamation et injure publique, Guillaume Limousin a été relaxé, mardi 14 mai, par le tribunal correctionnel de Marseille. Sur Twitter, ce professeur de mathématiques isérois, reprochait...",
     "thumbnail": "thumbnails/1cvhsuv.webp",
     "tags": [
-      "Didier Raoult",
-      "Guillaume Limousin",
-      "Marseille",
-      "Science"
+      "Éducation"
     ],
     "analyzed_at": "2026-11-01T10:59:43.961846+00:00"
   },
@@ -892,11 +739,7 @@
     "summary": "L’exploitation d’hydrocarbures au pôle Sud est interdite, mais Londres s’inquiète des buts cachés de Moscou dans la région.",
     "thumbnail": "thumbnails/1cuvh5q.webp",
     "tags": [
-      "Russie",
-      "Antarctique",
-      "Sud",
-      "Moscou",
-      "Écologie"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T10:59:45.381074+00:00"
   },
@@ -918,11 +761,8 @@
     "summary": "Lors d’un discours devant les étudiants le 16 mai en présence du leader Insoumis, le populaire premier ministre sénégalais a condamné les «velléités extérieures de nous imposer l'importation de modes de vie et de pensée contraires à nos valeurs», notamment sur les droits LGBT.",
     "thumbnail": "thumbnails/1cuslim.webp",
     "tags": [
-      "LGBT",
-      "Jean-Luc Mélenchon",
-      "Sénégal",
-      "Sonko",
-      "Trompeur"
+      "LGBT+",
+      "Jean-Luc Mélenchon"
     ],
     "analyzed_at": "2026-11-01T10:59:46.513929+00:00"
   },
@@ -944,11 +784,8 @@
     "summary": "Après la diffusion d'une vidéo sur TikTok, Ambroise Méjean, candidat en 20e position sur la liste de Valérie Hayer pour les élections européennes, embarrasse un exécutif s'apprêtant à réformer une nouvelle fois l'assurance-chômage.",
     "thumbnail": "thumbnails/1cu7grh.webp",
     "tags": [
-      "Jeunes",
-      "Macron",
-      "Ambroise Méjean",
-      "TikTok",
-      "Valérie Hayer"
+      "Emmanuel Macron",
+      "Travail"
     ],
     "analyzed_at": "2026-11-01T10:59:45.893168+00:00"
   },
@@ -969,38 +806,8 @@
     "ingested_at": "2026-11-01T10:53:40.953935+00:00",
     "summary": "TÉMOIGNAGES - «Khamjat», «chienne», «crains Allah»... Plusieurs Français d’origine maghrébine se sont confiés au Figaro sur les remontrances, insultes et agressions qu’ils ont subies de la part de musulmans radicaux, voire d’islamistes.",
     "thumbnail": "thumbnails/1ctx6e5.webp",
-    "tags": [
-      "Français",
-      "Coran",
-      "Islam",
-      "Islamisme",
-      "Figaro"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:59:46.346882+00:00"
-  },
-  {
-    "id": "1ctvzsz",
-    "title": "« The World » : ce gigantesque archipel artificiel a coûté 11 milliards d'euros, il est aujourd'hui à l'abandon",
-    "url": "https://www.demotivateur.fr/article/dubai-le-pharaonique-projet-the-world-cet-archipel-artificiel-qui-a-coute-11-milliards-d-euros-a-l-abandon-39232",
-    "permalink": "/r/france/comments/1ctvzsz/the_world_ce_gigantesque_archipel_artificiel_a/",
-    "created_at": "2024-05-17T03:46:42+00:00",
-    "score": 359,
-    "num_comments": 185,
-    "subreddit": "france",
-    "author": "Zergamotte",
-    "flair": "Écologie",
-    "domain": "demotivateur.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/O6_8X4yaj6na039M2fLBCGKTG6-JBRZYLu2w5ceTYeU.jpeg?auto=webp&s=41d747aefb931b17817a08a6e8e3019c29fb3a62",
-    "ingested_at": "2026-11-01T10:53:40.954485+00:00",
-    "summary": "Parmi la multitude de projets pharaoniques en cours à Dubaï, il en est un qui reste au point mort malgré la fortune colossale qu'il a coûtée. Tout le monde...",
-    "thumbnail": "thumbnails/1ctvzsz.webp",
-    "tags": [
-      "World",
-      "Dubaï",
-      "Écologie"
-    ],
-    "analyzed_at": "2026-11-01T10:59:45.566605+00:00"
   },
   {
     "id": "1ctlen2",
@@ -1020,7 +827,9 @@
     "summary": "",
     "thumbnail": "thumbnails/1ctlen2.webp",
     "tags": [
-      "Damien Abad"
+      "Justice",
+      "Violences sexuelles",
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T10:59:49.593503+00:00"
   },
@@ -1042,8 +851,8 @@
     "summary": "",
     "thumbnail": "thumbnails/1cth60t.webp",
     "tags": [
-      "CEDH",
-      "Société"
+      "Laïcité",
+      "Éducation"
     ],
     "analyzed_at": "2026-11-01T10:59:46.270659+00:00"
   },
@@ -1065,11 +874,8 @@
     "summary": "Le Premier ministre a également déclaré que des militaires allaient être déployés « pour sécuriser » les ports et l’aéroport de Nouvelle-Calédonie.",
     "thumbnail": "thumbnails/1cstj6r.webp",
     "tags": [
-      "Nouvelle-Calédonie",
-      "TikTok",
-      "Attal",
-      "Gabriel Attal",
-      "Politique"
+      "Outre-mer",
+      "Gabriel Attal"
     ],
     "analyzed_at": "2026-11-01T10:59:46.661415+00:00"
   },
@@ -1090,10 +896,7 @@
     "ingested_at": "2026-11-01T10:53:40.955110+00:00",
     "summary": "Les élus du personnel de l’hebdomadaire ont appris mardi que leur actuel actionnaire, le magnat tchèque Daniel Kretinsky, souhaitait s’engager dans des négociations exclusives pour vendre le titre à …",
     "thumbnail": "thumbnails/1csia9b.webp",
-    "tags": [
-      "Pierre-Édouard Stérin",
-      "Daniel Kretinsky"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:59:46.721095+00:00"
   },
   {
@@ -1114,35 +917,9 @@
     "summary": "Alors que 23% des salariés envisagent de changer d'employeur d’ici la fin de l’année, 16% ont déjà sauté le pas au cours des 6 derniers mois, selon une étude Randstad. Les motifs qui poussent à changer d'employeur varient toutefois en fonction de l'âge.",
     "thumbnail": "thumbnails/1crt2e8.webp",
     "tags": [
-      "Génération Z",
-      "Emploi",
-      "Salaires",
-      "Randstad",
-      "Société"
+      "Travail"
     ],
     "analyzed_at": "2026-11-01T10:59:47.378474+00:00"
-  },
-  {
-    "id": "1crp719",
-    "title": "J'ai créé un site open-source pour choisir son candidat aux européennes, basé sur les votes parlementaires plutôt que les programmes",
-    "url": "https://votefinder.eu/",
-    "permalink": "/r/france/comments/1crp719/jai_créé_un_site_opensource_pour_choisir_son/",
-    "created_at": "2024-05-14T10:51:48+00:00",
-    "score": 676,
-    "num_comments": 264,
-    "subreddit": "france",
-    "author": "arnaudsm",
-    "flair": "Politique",
-    "domain": "votefinder.eu",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/G4-gKqYoQ1_4bVqRfJona_did7x0WTgEKGTcLwcAz7k.png?auto=webp&s=bfb555a99be8fee4dfda1d926773ab0d07fc643f",
-    "ingested_at": "2026-11-01T10:53:40.953852+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/1crp719.webp",
-    "tags": [
-      "Politique"
-    ],
-    "analyzed_at": "2026-11-01T10:59:46.678323+00:00"
   },
   {
     "id": "1croqfx",
@@ -1162,11 +939,7 @@
     "summary": "Un échange de tirs a eu lieu, mardi matin, sur l'A154 au niveau du péage d'Incarville. Un trafiquant, détenu pour tentative de meurtre, est parvenu à s'évader.",
     "thumbnail": "thumbnails/1croqfx.webp",
     "tags": [
-      "Eure",
-      "Incarville",
-      "A154",
-      "Paris",
-      "Faits-divers"
+      "Prisons"
     ],
     "analyzed_at": "2026-11-01T10:59:46.912460+00:00"
   },
@@ -1187,12 +960,7 @@
     "ingested_at": "2026-11-01T10:53:40.955728+00:00",
     "summary": "The Line, le projet de ville de 170 km de long et de 500 mètres de hauteur dans le désert saoudien, pourrait se doter d'un Hyperloop. Mais la technologie, qui devait permettre de révolutionner les transports à grande vitesse, est toujours en phase de test depuis plus de 10 ans. The Line, la ville dystopique dans le",
     "thumbnail": "thumbnails/1cr3p8j.webp",
-    "tags": [
-      "Line",
-      "Neom",
-      "Hyperloops",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:59:47.735618+00:00"
   },
   {
@@ -1213,8 +981,7 @@
     "summary": "Plus de 1 000 psychologues, psychiatres, psychanalystes, profs et étudiants en psychologie s'opposent à la proposition de loi des Républicains sur l'interdiction des transitions pour les mineurs et défendent l'autodétermination des personnes trans.",
     "thumbnail": "thumbnails/1cqxylk.webp",
     "tags": [
-      "Républicains",
-      "Société"
+      "Éducation"
     ],
     "analyzed_at": "2026-11-01T10:59:46.957352+00:00"
   },
@@ -1236,10 +1003,7 @@
     "summary": "Lors de la finale de l’Eurovision ce samedi, le public d’un peu moins de la moitié des pays votants a donné 12 points à Israël, alors que du",
     "thumbnail": "thumbnails/1cq5rxx.webp",
     "tags": [
-      "Israël",
-      "Eurovision",
-      "Eden Golan",
-      "Politique"
+      "Conflit israélo-palestinien"
     ],
     "analyzed_at": "2026-11-01T10:59:47.325641+00:00"
   },
@@ -1260,13 +1024,7 @@
     "ingested_at": "2026-11-01T10:53:40.955864+00:00",
     "summary": "La finale de l'Eurovision 2024 a vu ce samedi 11 mai à Malmö la victoire de Nemo, repésentant de la Suisse. Slimane, qui défendait les couleurs de la France, a fini à la quatrième place.",
     "thumbnail": "thumbnails/1cptjab.webp",
-    "tags": [
-      "Suisse",
-      "Nemo",
-      "Malmö",
-      "Eurovision 2024",
-      "Culture"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:59:47.344988+00:00"
   },
   {
@@ -1287,10 +1045,7 @@
     "summary": "Le Parlement fédéral belge a voté, au début du mois de mai, une loi qui va permettre aux prostituées qui le souhaitent de bénéficier d’un contrat de travail et donc d'un vrai statut, une première mondiale.",
     "thumbnail": "thumbnails/1cpesf1.webp",
     "tags": [
-      "Belgique",
-      "Parlement",
-      "Europe",
-      "Société"
+      "Travail"
     ],
     "analyzed_at": "2026-11-01T10:59:47.475492+00:00"
   },
@@ -1312,8 +1067,8 @@
     "summary": "",
     "thumbnail": "thumbnails/1cpenlu.webp",
     "tags": [
-      "Paris",
-      "Politique"
+      "Justice",
+      "Manifestations"
     ],
     "analyzed_at": "2026-11-01T10:59:50.901173+00:00"
   },
@@ -1335,11 +1090,7 @@
     "summary": "L'Assemblée générale de l'ONU a massivement voté en faveur d'une adhésion de la Palestine. Un vote symbolique qui a provoqué l'ire de l'ambassadeur israélien qui a déchiré à la tribune un exemplaire de la charte des Nations unies.",
     "thumbnail": "thumbnails/1cotxrs.webp",
     "tags": [
-      "ONU",
-      "Nations",
-      "Palestiniens",
-      "Guerre Israël-Hamas",
-      "Société"
+      "Conflit israélo-palestinien"
     ],
     "analyzed_at": "2026-11-01T10:59:48.312687+00:00"
   },
@@ -1360,40 +1111,8 @@
     "ingested_at": "2026-11-01T10:53:40.954333+00:00",
     "summary": "En Île-de-France, de nombreux appartements mis à la location à des tarifs excessifs pour la période des Jeux olympiques n'ont pas encore trouvé preneurs.",
     "thumbnail": "thumbnails/1comf1u.webp",
-    "tags": [
-      "Île-de-France",
-      "Jeux",
-      "Sports",
-      "Société",
-      "Éco / Conso"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:59:47.756320+00:00"
-  },
-  {
-    "id": "1co8c06",
-    "title": "Le Luxembourg commande à la France 2.6 milliards d'euros de véhicules blindés de combats et de logistique.",
-    "url": "https://gouvernement.lu/fr/actualites/toutes_actualites/communiques/2024/05-mai/08-backes-presentation-materiel-roulant.html",
-    "permalink": "/r/france/comments/1co8c06/le_luxembourg_commande_à_la_france_26_milliards/",
-    "created_at": "2024-05-09T21:19:33+00:00",
-    "score": 206,
-    "num_comments": 63,
-    "subreddit": "france",
-    "author": "LapinTade",
-    "flair": "Économie",
-    "domain": "gouvernement.lu",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/1ClW7cssOIvqIgpaNiBpW9t3NyOsFfxeTUTlFl2pdAo.jpeg?auto=webp&s=c1f56b18171fea8a56ce02f090f88ac9c9a1168f",
-    "ingested_at": "2026-11-01T10:53:40.955692+00:00",
-    "summary": "Le 8 mai 2024, après avoir informé la commission de la Défense de la Chambre des députés, la ministre de la Défense, Yuriko Backes, ensemble avec le général Steve Thull, chef d'état-major de l'armée, a présenté le détail du projet de loi autorisant le gouvernement à financer l'acquisition et le soutien logistique du…",
-    "thumbnail": "thumbnails/1co8c06.webp",
-    "tags": [
-      "Luxembourg",
-      "France 2",
-      "Yuriko Backes",
-      "Défense de la Chambre",
-      "Économie"
-    ],
-    "analyzed_at": "2026-11-01T10:59:48.077362+00:00"
   },
   {
     "id": "1cnshr6",
@@ -1413,9 +1132,7 @@
     "summary": "La ministre de l’Éducation nationale Nicole Belloubet confirme que l’expérimentation de laisser le portable à l’entrée au collège va commencer à la rentrée de septembre.",
     "thumbnail": "thumbnails/1cnshr6.webp",
     "tags": [
-      "Nicole Belloubet",
-      "Éducation",
-      "Politique"
+      "Éducation"
     ],
     "analyzed_at": "2026-11-01T10:59:49.108121+00:00"
   },
@@ -1437,11 +1154,7 @@
     "summary": "Les Vingt-Sept sont parvenus mercredi à \"un accord de principe\" sur l'utilisation des revenus provenant des avoirs de la Russie gelés dans l'Union...",
     "thumbnail": "thumbnails/1cn89b9.webp",
     "tags": [
-      "Ukraine",
-      "Russie",
-      "Etats",
-      "UE",
-      "Vingt-Sept"
+      "Guerre en Ukraine"
     ],
     "analyzed_at": "2026-11-01T10:59:49.082385+00:00"
   },
@@ -1463,9 +1176,7 @@
     "summary": "",
     "thumbnail": "thumbnails/1cmxpqg.webp",
     "tags": [
-      "Affaire Depardieu",
-      "Emmanuel Macron",
-      "Politique"
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T10:59:48.320643+00:00"
   },
@@ -1487,8 +1198,7 @@
     "summary": "L'extrême gauche allemande souhaite voter une loi qui plafonnerait le prix des kebabs dont le prix a presque doublé depuis deux ans. Plusieurs fois interpellé sur le sujet par des jeunes allemands, le chancelier Olaf Scholz exclut toute intervention étatique pour subventionner le sandwich le plus...",
     "thumbnail": "thumbnails/1cmcu7l.webp",
     "tags": [
-      "Olaf Scholz",
-      "Économie"
+      "Olaf Scholz"
     ],
     "analyzed_at": "2026-11-01T10:59:48.403950+00:00"
   },
@@ -1509,11 +1219,7 @@
     "ingested_at": "2026-11-01T10:53:40.954689+00:00",
     "summary": "",
     "thumbnail": "thumbnails/1cm9g95.webp",
-    "tags": [
-      "Fred Dewilde",
-      "Bataclan",
-      "BD"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:59:50.072823+00:00"
   },
   {
@@ -1533,11 +1239,7 @@
     "ingested_at": "2026-11-01T10:53:40.954383+00:00",
     "summary": "",
     "thumbnail": "thumbnails/1climwn.webp",
-    "tags": [
-      "Bernard Pivot",
-      "Lire",
-      "Culture"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:59:51.246514+00:00"
   },
   {
@@ -1558,10 +1260,7 @@
     "summary": "Alors que le président Xi Jinping est en France pour une visite officielle, franceinfo a rencontré des Parisiens de la diaspora chinoise. Certains continuent de craindre le régime, même à l'autre bout du monde.",
     "thumbnail": "thumbnails/1clbemc.webp",
     "tags": [
-      "Xi Jinping",
-      "Chine",
-      "Paris",
-      "Parisiens"
+      "Xi Jinping"
     ],
     "analyzed_at": "2026-11-01T10:59:48.820926+00:00"
   },
@@ -1582,13 +1281,7 @@
     "ingested_at": "2026-11-01T10:53:40.955415+00:00",
     "summary": "Avec plus de cinquante ans d'existence, l'émission présentée par Laurent Romejko était le plus ancien jeu télévisé de France.",
     "thumbnail": "thumbnails/1ckohot.webp",
-    "tags": [
-      "France Télévisions",
-      "Laurent Romejko",
-      "Stéphane Sitbon-Gomez",
-      "Céline Dion",
-      "Culture"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:59:49.084057+00:00"
   },
   {
@@ -1608,10 +1301,7 @@
     "ingested_at": "2026-11-01T10:53:40.954138+00:00",
     "summary": "Une employée de la société 2theloo a été licenciée après avoir été filmée en train de prendre un euro de pourboire d'un client. Une pratique interdite par cette entreprise de sous-traitance.",
     "thumbnail": "thumbnails/1ckndzz.webp",
-    "tags": [
-      "Montparnasse",
-      "Fait Divers"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:59:49.428316+00:00"
   },
   {
@@ -1632,8 +1322,8 @@
     "summary": "",
     "thumbnail": "thumbnails/1cjycyb.webp",
     "tags": [
-      "Ghassan Abu Sitta",
-      "Gaza"
+      "Conflit israélo-palestinien",
+      "Santé"
     ],
     "analyzed_at": "2026-11-01T10:59:49.418724+00:00"
   },
@@ -1654,9 +1344,7 @@
     "ingested_at": "2026-11-01T10:53:40.953961+00:00",
     "summary": "",
     "thumbnail": "thumbnails/1cjxuwt.webp",
-    "tags": [
-      "RTT"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:59:49.531996+00:00"
   },
   {
@@ -1677,8 +1365,7 @@
     "summary": "Un ancien agent du centre de supervision urbain (CSU) de la police municipale de Marseille a décidé de dénoncer vendredi 3 mai, les agissements de certains employés du service. Ils couvriraient les violences commises...",
     "thumbnail": "thumbnails/1cjjqqv.webp",
     "tags": [
-      "Marseille",
-      "CSU"
+      "Police"
     ],
     "analyzed_at": "2026-11-01T10:59:49.831016+00:00"
   },
@@ -1699,9 +1386,7 @@
     "ingested_at": "2026-11-01T10:53:40.954911+00:00",
     "summary": "",
     "thumbnail": "thumbnails/1cj5r2q.webp",
-    "tags": [
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:59:53.883744+00:00"
   },
   {
@@ -1721,13 +1406,7 @@
     "ingested_at": "2026-11-01T10:53:40.954261+00:00",
     "summary": "DÉCRYPTAGE - Le ministre allemand de l’Économie, Robert Habeck, a pris la plume pour critiquer le futur système de satellites jusqu’à demander la suspension de l’appel d’offres. Une manière de faire inédite en Europe.",
     "thumbnail": "thumbnails/1cj3tav.webp",
-    "tags": [
-      "UE",
-      "Iris2",
-      "Allemagne",
-      "Espace",
-      "Satellite"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:59:49.905389+00:00"
   },
   {
@@ -1748,9 +1427,7 @@
     "summary": "",
     "thumbnail": "thumbnails/1cimk8m.webp",
     "tags": [
-      "Guillaume Meurice",
-      "Radio France",
-      "Société"
+      "Travail"
     ],
     "analyzed_at": "2026-11-01T10:59:50.024418+00:00"
   },
@@ -1771,10 +1448,7 @@
     "ingested_at": "2026-11-01T10:53:40.954408+00:00",
     "summary": "",
     "thumbnail": "thumbnails/1ciim5u.webp",
-    "tags": [
-      "Léa Salamé",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:59:53.624083+00:00"
   },
   {
@@ -1795,7 +1469,7 @@
     "summary": "",
     "thumbnail": "thumbnails/1chvlll.webp",
     "tags": [
-      "Économie"
+      "Budget et fiscalité"
     ],
     "analyzed_at": "2026-11-01T10:59:50.226477+00:00"
   },
@@ -1817,8 +1491,7 @@
     "summary": "Pour protéger la biodiversité, les naturalistes incitent à laisser votre tondeuse à l'arrêt, notamment durant le printemps, alors que près de 80% des insectes ont disparu ces 30 dernières années.",
     "thumbnail": "thumbnails/1chl8yl.webp",
     "tags": [
-      "Environnement",
-      "Écologie"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T10:59:50.664057+00:00"
   },
@@ -1841,33 +1514,8 @@
     "thumbnail": "thumbnails/1chj87u.webp",
     "tags": [
       "Raphaël Glucksmann",
-      "Saint-Etienne",
-      "Politique"
+      "Manifestations"
     ],
     "analyzed_at": "2026-11-01T10:59:50.437667+00:00"
-  },
-  {
-    "id": "1chfe82",
-    "title": "Sophie Adenot devient officiellement astronaute",
-    "url": "https://www.defense.gouv.fr/actualites/sophie-adenot-devient-officiellement-astronaute",
-    "permalink": "/r/france/comments/1chfe82/sophie_adenot_devient_officiellement_astronaute/",
-    "created_at": "2024-05-01T06:39:29+00:00",
-    "score": 261,
-    "num_comments": 43,
-    "subreddit": "france",
-    "author": "thom986",
-    "flair": "Science",
-    "domain": "defense.gouv.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/gjm9upJ3cShDiq-PVnk6J1ifhJP8YIje3i80_C3XX2I.jpeg?auto=webp&s=e80dc4696e03a9b3cd7ba048e2d988cb27941cd5",
-    "ingested_at": "2026-11-01T10:53:40.955159+00:00",
-    "summary": "Après plus d’un an d’entraînement en Allemagne, la colonel Sophie Adenot a officiellement reçu son diplôme d’astronaute le 22 avril 2024.",
-    "thumbnail": "thumbnails/1chfe82.webp",
-    "tags": [
-      "Sophie Adenot",
-      "Allemagne",
-      "Science"
-    ],
-    "analyzed_at": "2026-11-01T10:59:50.566084+00:00"
   }
 ]

@@ -1,0 +1,30 @@
+{% extends "base.html" %}
+{% load filnews_tags %}
+
+{% block title %}{{ candidate.name }} : le fil de sa campagne présidentielle 2027 — {{ SITE_NAME }}{% endblock %}
+{% block description %}{{ candidate.name }} ({{ candidate.party }}) et la présidentielle 2027 : {{ thread|length }} news depuis {{ campaign_start|date:"F Y" }}, vues par r/france.{% endblock %}
+{% block og_title %}{{ candidate.name }} — {{ election_name }} — {{ SITE_NAME }}{% endblock %}
+{% block og_description %}Le fil de {{ candidate.name }} pour la présidentielle 2027.{% endblock %}
+{% block structured_data %}{% url 'election' as election_url %}{% breadcrumb_ld "Accueil" "/" "Présidentielle 2027" election_url candidate.name request.path %}{% endblock %}
+
+{% block content %}
+{% include "partials/breadcrumb.html" with section="Présidentielle 2027" section_url_name="election" current=candidate.name %}
+<header class="page-header">
+  <h1 class="page-title"><span class="page-title__kicker">{{ election_name }} · {% if candidate.is_declared %}candidature déclarée{% else %}candidature pressentie{% endif %}</span> {{ candidate.name }}</h1>
+  <p class="page-intro">{{ candidate.party }}. {{ thread|length }} news depuis {{ campaign_start|date:"F Y" }}.</p>
+  {% if tags %}
+  <p class="page-intro">Tout l'historique, avant la campagne :</p>
+  {% include "partials/tag_list.html" with tags=tags label="Fils associés" %}
+  {% endif %}
+</header>
+
+<section aria-labelledby="thread-title">
+  <h2 class="section-title" id="thread-title">Le fil de campagne</h2>
+  {% if thread %}
+  {% include "partials/thread.html" %}
+  {% else %}
+  <p>Pas encore de news depuis le début de la campagne.</p>
+  {% endif %}
+  <p><a class="button button--ghost" href="{% url 'election' %}">Tous les candidats</a></p>
+</section>
+{% endblock %}

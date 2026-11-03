@@ -222,6 +222,17 @@ class NewsStore:
             entry.analyzed_at = analyzed.analyzed_at
             self._mark_dirty(entry)
 
+    def set_tags(self, news_id: str, tags: list[str]) -> bool:
+        """Replace the tags of a news. Returns True if they changed."""
+        with self._lock:
+            entry = self._news[news_id]
+            tags = apply_aliases(tags, self.aliases)
+            if entry.tags == tags:
+                return False
+            entry.tags = tags
+            self._mark_dirty(entry)
+            return True
+
     def _mark_dirty(self, entry: News) -> None:
         self._dirty_months.add(entry.month_key)
         self._invalidate()

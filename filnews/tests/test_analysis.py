@@ -7,7 +7,8 @@ from PIL import Image
 from filnews.analysis import HeuristicAnalyzer, LocalModelAnalyzer
 from filnews.analysis.extract import ArticleMetadata, extract_metadata
 from filnews.analysis.fetch import FetchError
-from filnews.analysis.text import candidate_entities, extract_tags, summarize
+from filnews.analysis.text import extract_tags, summarize
+from filnews.vocabulary import lookup
 
 from .helpers import DataDirTestCase, make_news
 
@@ -50,37 +51,70 @@ class ExtractionTests(SimpleTestCase):
 
 
 class TextHeuristicsTests(SimpleTestCase):
-    def test_candidate_entities(self):
-        entities = candidate_entities(
-            "Législatives : Mathilde Panot promet une reconnaissance de l'État de Palestine"
+    def test_tags_come_from_the_vocabulary_only(self):
+        tags = extract_tags(
+            title="Fâché contre TF1 après l'interview d'Édouard Philippe, "
+            "Jean-Luc Mélenchon annule sa venue au 20 Heures",
+            description="Le leader de LFI dénonce le traitement des médias.",
+            publisher_keywords=["RN", "Rassemblement national"],
+            flair="Payant",
         )
-        self.assertEqual(entities, ["Mathilde Panot", "État de Palestine"])
+        self.assertEqual(tags[:2], ["Édouard Philippe", "Jean-Luc Mélenchon"])
+        for noise in ("Heures", "TF1", "Rassemblement", "RN", "Payant", "LFI"):
+            self.assertNotIn(noise, tags)
+
+    def test_themes_need_the_title_or_two_signals(self):
+        title = "Des militants assignés à résidence et empêchés de manifester"
+        self.assertNotIn("Police", extract_tags(title=title, description="La police."))
+        self.assertIn(
+            "Police",
+            extract_tags(
+                title=title,
+                description="La police a interpellé des militants.",
+                publisher_keywords=["Police"],
+            ),
+        )
+        self.assertIn(
+            "Manifestations", extract_tags(title="Les manifestations du 31 octobre")
+        )
+
+    def test_names_are_case_sensitive_themes_are_not(self):
+        self.assertEqual(extract_tags(title="La poutine québécoise"), [])
         self.assertEqual(
-            candidate_entities("Le PSG gagne en Ligue 1"), ["PSG", "Ligue 1"]
+            extract_tags(title="Vladimir Poutine menace l'Ukraine"),
+            ["Vladimir Poutine", "Guerre en Ukraine"],
+        )
+        self.assertEqual(extract_tags(title="L'ENVIRONNEMENT"), ["Environnement"])
+        self.assertEqual(
+            extract_tags(title="Le climat, grand absent de la campagne"),
+            ["Environnement"],
         )
 
-    def test_extract_tags_ranks_entities_and_adds_flair(self):
-        tags = extract_tags(
-            title="La SNCF annonce une grève, Emmanuel Macron réagit",
-            description="Emmanuel Macron a commenté la grève de la SNCF.",
-            publisher_keywords=["actualité", "transports"],
-            flair="Société",
-            limit=5,
-        )
-        self.assertEqual(tags[:2], ["SNCF", "Emmanuel Macron"])
-        self.assertIn("Société", tags)
-        self.assertIn("Transports", tags)
-        self.assertNotIn("Actualité", tags)  # Generic keyword.
+    def test_longest_name_wins(self):
+        tags = extract_tags(title="Jean-Marie Le Pen et sa fille Marine Le Pen")
+        self.assertEqual(sorted(tags), ["Jean-Marie Le Pen", "Marine Le Pen"])
+        self.assertEqual(extract_tags(title="Le Pen fait appel"), ["Marine Le Pen"])
 
-    def test_extract_tags_drops_common_nouns(self):
-        tags = extract_tags(
-            title="Union européenne : accord trouvé",
-            text="Cette union est historique. Union Pacifique.",
+    def test_body_mentions_count_a_little(self):
+        text = "Gabriel Attal a parlé. " * 4
+        self.assertEqual(
+            extract_tags(title="Un discours", text=text), ["Gabriel Attal"]
         )
-        self.assertNotIn("Union", tags)
+        self.assertEqual(extract_tags(title="Un discours", text="Attal a parlé."), [])
 
-    def test_generic_flair_is_ignored(self):
-        self.assertNotIn("Paywall", extract_tags(title="Une news", flair="Paywall"))
+    def test_flair_maps_to_a_theme(self):
+        self.assertEqual(
+            extract_tags(
+                title="Une news", description="Le climat change.", flair="Écologie"
+            ),
+            ["Environnement"],
+        )
+        self.assertEqual(extract_tags(title="Une news", flair="Politique"), [])
+
+    def test_lookup_gives_the_kind(self):
+        self.assertEqual(lookup("Emmanuel Macron").kind_label, "Personnalité")
+        self.assertEqual(lookup("police").kind_label, "Thème")
+        self.assertIsNone(lookup("Heures"))
 
     def test_summarize_cuts_on_sentence_boundary(self):
         text = "Première phrase assez longue pour être un résumé correct. " * 10
@@ -107,7 +141,9 @@ class HeuristicAnalyzerTests(DataDirTestCase):
             analyzer.analyze(news)
 
         self.assertIn("Mathilde Panot", news.tags)
-        self.assertIn("Politique", news.tags)
+        self.assertIn("Élections", news.tags)  # "Législatives" + "élections".
+        self.assertIn("Conflit israélo-palestinien", news.tags)
+        self.assertNotIn("Politique", news.tags)  # Flair too broad.
         self.assertIn("Val-de-Marne", news.summary)
         self.assertEqual(news.thumbnail, "thumbnails/abc.webp")
         self.assertIsNotNone(news.analyzed_at)
@@ -128,7 +164,7 @@ class HeuristicAnalyzerTests(DataDirTestCase):
             ),
         ):
             analyzer.analyze(news)
-        self.assertEqual(news.tags, ["Emmanuel Macron", "Marseille"])
+        self.assertEqual(news.tags, ["Emmanuel Macron"])
         self.assertEqual(news.thumbnail, "")
         self.assertIsNotNone(news.analyzed_at)
 
@@ -181,7 +217,7 @@ class HeuristicAnalyzerTests(DataDirTestCase):
 
 
 class LocalModelAnalyzerTests(DataDirTestCase):
-    def test_model_tags_use_source_spans_and_shared_filters(self):
+    def test_model_keywords_only_feed_the_vocabulary(self):
         # Bypass __init__: no transformers/torch needed to test the merging.
         analyzer = LocalModelAnalyzer.__new__(LocalModelAnalyzer)
         analyzer.max_tags = 4
@@ -195,6 +231,8 @@ class LocalModelAnalyzerTests(DataDirTestCase):
             ]
 
         analyzer._keywords = fake_keywords
-        news = make_news("x", title="France : Laurent Nuñez réagit à Marseille")
+        news = make_news(
+            "x", title="France : Laurent Nuñez réagit à la grève des policiers"
+        )
         tags = analyzer.tags(news, ArticleMetadata(site_name="franceinfo"))
-        self.assertEqual(tags, ["Nuñez", "Laurent Nuñez", "Marseille"])
+        self.assertEqual(tags, ["Laurent Nuñez", "Police", "Grèves et syndicats"])

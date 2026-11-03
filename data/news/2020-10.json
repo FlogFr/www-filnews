@@ -17,10 +17,8 @@
     "summary": "« La police française tire et tue un homme après une attaque meurtrière au couteau dans la rue » : c’est avec ce titre que le New York Times a fait état de la décapitation de Samuel Paty, assassiné par un islamiste pour avoir donné un cours sur la liberté d’expression. Après une vague d’indignation sur les […]",
     "thumbnail": "thumbnails/jlmzs9.webp",
     "tags": [
-      "Charlie Hebdo",
-      "New York Times",
-      "Samuel Paty",
-      "Société"
+      "Terrorisme",
+      "Médias"
     ],
     "analyzed_at": "2026-11-01T09:58:23.384293+00:00"
   },
@@ -41,7 +39,9 @@
     "ingested_at": "2026-11-01T09:44:12.408320+00:00",
     "summary": "",
     "thumbnail": "thumbnails/jll3wg.webp",
-    "tags": [],
+    "tags": [
+      "Laïcité"
+    ],
     "analyzed_at": "2026-11-01T09:58:21.511559+00:00"
   },
   {
@@ -61,35 +61,8 @@
     "ingested_at": "2026-11-01T09:44:12.408271+00:00",
     "summary": "Un prêtre orthodoxe a été blessé par balle ce samedi après-midi dans le septième arrondissement de Lyon.",
     "thumbnail": "thumbnails/jll1pe.webp",
-    "tags": [
-      "Lyon",
-      "BFMTV",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:58:21.414621+00:00"
-  },
-  {
-    "id": "jliim3",
-    "title": "As a French",
-    "url": "https://imgflip.com/i/4kizsk",
-    "permalink": "/r/france/comments/jliim3/as_a_french/",
-    "created_at": "2020-10-31T13:38:50+00:00",
-    "score": 332,
-    "num_comments": 47,
-    "subreddit": "france",
-    "author": "Stone___Island",
-    "flair": "Méta",
-    "domain": "imgflip.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/yntwqqpf3qYU4UPAJr_H7h-tk4Ku_aBVhqb9mtET2BU.jpg?auto=webp&s=dbce4b076ded3ebbd7db9d5c6eda12c6b6290e13",
-    "ingested_at": "2026-11-01T09:44:12.408111+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/jliim3.webp",
-    "tags": [
-      "French",
-      "Méta"
-    ],
-    "analyzed_at": "2026-11-01T09:58:21.872911+00:00"
   },
   {
     "id": "jlhmq3",
@@ -108,13 +81,7 @@
     "ingested_at": "2026-11-01T09:44:12.408680+00:00",
     "summary": "He was the first to bring James Bond to the big screen and played the role seven times.",
     "thumbnail": "thumbnails/jlhmq3.webp",
-    "tags": [
-      "James Bond",
-      "Sean Connery",
-      "Bond",
-      "Sir Sean",
-      "Culture"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:58:21.855079+00:00"
   },
   {
@@ -135,10 +102,9 @@
     "summary": "Un enseignant belge ayant montré des caricatures de Mahomet nu à ses élèves près de Bruxelles a été suspendu. La direction de l'établissement assure que c'est l'obscénité de l'image et non son caractère religieux qui...",
     "thumbnail": "thumbnails/jleh49.webp",
     "tags": [
-      "Mahomet",
-      "Bruxelles",
-      "Macron",
-      "Société"
+      "Éducation",
+      "Union européenne",
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T09:58:21.949737+00:00"
   },
@@ -159,36 +125,8 @@
     "ingested_at": "2026-11-01T09:44:12.408806+00:00",
     "summary": "Ce vendredi matin, l'archevêque de Toulouse Mgr Robert Le Gall a estimé que la liberté d'expression \"a ses limites\", se prononçant contre la liberté de blasphémer. Une déclaration qui fait polémique. \"Ce n'est pas...",
     "thumbnail": "thumbnails/jledyg.webp",
-    "tags": [
-      "Toulouse",
-      "Occitanie",
-      "Toulouse Mgr Robert le Gall",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:58:21.971969+00:00"
-  },
-  {
-    "id": "jl7h2f",
-    "title": "Pour faire fuir les brigades d'Hindous extrêmistes",
-    "url": "https://americankahani.com/wp-content/uploads/2020/09/kali.jpg",
-    "permalink": "/r/france/comments/jl7h2f/pour_faire_fuir_les_brigades_dhindous_extrêmistes/",
-    "created_at": "2020-10-30T23:12:56+00:00",
-    "score": 355,
-    "num_comments": 280,
-    "subreddit": "france",
-    "author": "[deleted]",
-    "flair": "Méta",
-    "domain": "americankahani.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/slVld5Y_PZECVSlw0MjseqzNoMGE1W907AYk5WV-B0o.jpeg?auto=webp&s=7d4b18a49ebf86fd55f180da90d68c8d21695848",
-    "ingested_at": "2026-11-01T09:44:12.407958+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/jl7h2f.webp",
-    "tags": [
-      "Hindous",
-      "Méta"
-    ],
-    "analyzed_at": "2026-11-01T09:58:22.080442+00:00"
   },
   {
     "id": "jkte42",
@@ -208,10 +146,7 @@
     "summary": "Les gouvernements doivent continuer à aider les plus vulnérables pendant cette crise mais pour répondre aux besoins croissants de ressources financières, ils pourraient augmenter les impôts des familles et des entreprises les plus riches, recommande le Fonds monétaire international mercredi.",
     "thumbnail": "thumbnails/jkte42.webp",
     "tags": [
-      "FMI",
-      "Fonds Monétaire International",
-      "Covid-19",
-      "Économie"
+      "Budget et fiscalité"
     ],
     "analyzed_at": "2026-11-01T09:58:22.788493+00:00"
   },
@@ -232,13 +167,7 @@
     "ingested_at": "2026-11-01T09:44:12.407720+00:00",
     "summary": "Cet été, à Lyon, une escouade de jeunes Franco-Turcs s’est illustrée dans des échauffourées lors d’une manifestation proarménienne. Ils se revendiquaient des Loups gris, la branche armée du MHP, le parti ultranationaliste turc. De quoi inquiéter les autorités françaises. Enquête.",
     "thumbnail": "thumbnails/jkt4fg.webp",
-    "tags": [
-      "Loups",
-      "MHP",
-      "Lyon",
-      "Franco-Turcs",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:58:22.767072+00:00"
   },
   {
@@ -259,36 +188,9 @@
     "summary": "Lors d'un référendum, ils ont approuvé à plus de 65% une législation déjà validée par le Parlement qui autorise une dose médicamenteuse létale pour les malades incurables.",
     "thumbnail": "thumbnails/jksel9.webp",
     "tags": [
-      "Jacinda Ardern",
-      "Nouvelle-Zélande",
-      "Néo-Zélandais",
-      "Euthanasie",
-      "Société"
+      "Fin de vie"
     ],
     "analyzed_at": "2026-11-01T09:58:23.150632+00:00"
-  },
-  {
-    "id": "jkrpow",
-    "title": "Les Palestiniens appellent à une \"journée de la rage\" pour protester contre E. Macron et les caricatures de Charlie Hebdo",
-    "url": "https://www.i24news.tv/fr/actu/international/moyen-orient/1603982768-les-palestiniens-appellent-a-une-journee-de-la-colere-pour-protester-contre-e-macron-et-les-caricatures-de-charlie-hebdo",
-    "permalink": "/r/france/comments/jkrpow/les_palestiniens_appellent_à_une_journée_de_la/",
-    "created_at": "2020-10-30T06:28:59+00:00",
-    "score": 226,
-    "num_comments": 256,
-    "subreddit": "france",
-    "author": "iamafraidicantdothat",
-    "flair": "Actus",
-    "domain": "i24news.tv",
-    "selftext": "",
-    "reddit_thumbnail": "https://b.thumbs.redditmedia.com/4gBCE6jZVaGbkUAlsCCl3PB6PS0cWFK4n5nqYU1PqFE.jpg",
-    "ingested_at": "2026-11-01T09:44:12.408992+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/jkrpow.webp",
-    "tags": [
-      "Palestiniens",
-      "Charlie Hebdo"
-    ],
-    "analyzed_at": "2026-11-01T09:58:22.230552+00:00"
   },
   {
     "id": "jkrp2k",
@@ -307,10 +209,7 @@
     "ingested_at": "2026-11-01T09:44:12.408519+00:00",
     "summary": "",
     "thumbnail": "thumbnails/jkrp2k.webp",
-    "tags": [
-      "Bangladesh",
-      "Coran"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:58:22.456676+00:00"
   },
   {
@@ -330,36 +229,8 @@
     "ingested_at": "2026-11-01T09:44:12.408606+00:00",
     "summary": "«J'essaie d'agir à mon niveau pour soutenir la liberté d'expression.» Gérard*, 48 ans, est commerçant. Il est installé dans une ville de...",
     "thumbnail": "thumbnails/jkmfab.webp",
-    "tags": [
-      "Charlie Hebdo",
-      "Seine-Saint-Denis",
-      "Commerçants",
-      "Islamisme",
-      "Gérard"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:58:23.302469+00:00"
-  },
-  {
-    "id": "jkk274",
-    "title": "Alea jacta est",
-    "url": "https://cdn.discordapp.com/attachments/713351537392615446/771415818026221628/image0_1.png",
-    "permalink": "/r/france/comments/jkk274/alea_jacta_est/",
-    "created_at": "2020-10-29T22:13:17+00:00",
-    "score": 497,
-    "num_comments": 7,
-    "subreddit": "france",
-    "author": "Nymeriea",
-    "flair": "Humour",
-    "domain": "cdn.discordapp.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/PEPx5T9htG_4k3m-mzc5P9iA5Zbu7yudQmhe5MKLjlo.png?auto=webp&s=a5653748802c9453eefb6bb6c94127b62c9e178a",
-    "ingested_at": "2026-11-01T09:44:12.407771+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/jkk274.webp",
-    "tags": [
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:58:23.635092+00:00"
   },
   {
     "id": "jk9iqn",
@@ -378,11 +249,7 @@
     "ingested_at": "2026-11-01T09:44:12.408942+00:00",
     "summary": "Selon nos informations, il a été repéré rue Victor-Hugo, alors qu’il brandissait un couteau avec une lame de trente centimètres. L'individu avait fait l'objet d'un signalement aux services de renseignement. Une enquête est ouverte par le parquet de Lyon pour port d’arme prohibé et menaces avec arme.",
     "thumbnail": "thumbnails/jk9iqn.webp",
-    "tags": [
-      "Lyon",
-      "Victor-Hugo",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:58:23.820775+00:00"
   },
   {
@@ -402,36 +269,8 @@
     "ingested_at": "2026-11-01T09:44:12.407506+00:00",
     "summary": "Jeudi matin, vers 9h, un homme a attaqué plusieurs personnes dans la basilique Notre-Dame de Nice. Trois personnes sont mortes, dont une femme, qui a été décapitée",
     "thumbnail": "thumbnails/jk6cg1.webp",
-    "tags": [
-      "Notre-Dame de Nice",
-      "Jean-François Ricard",
-      "Nice"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:58:23.368678+00:00"
-  },
-  {
-    "id": "jk5fh6",
-    "title": "Peaceful Armenian Demonstration In France Attacked By Knife, Hammer-Wielding Turkish Nationals",
-    "url": "https://torontohye.ca/peaceful-armenian-demonstration-in-france-attacked-by-knife-hammer-wielding-turkish-nationals/?fbclid=IwAR0BwfYdZ_8974Dy2j6cwYi_O7B85I5vEw9a2t1cMwoJ6B_ZGHm7mjUF8GI",
-    "permalink": "/r/france/comments/jk5fh6/peaceful_armenian_demonstration_in_france/",
-    "created_at": "2020-10-29T07:05:33+00:00",
-    "score": 785,
-    "num_comments": 190,
-    "subreddit": "france",
-    "author": "JeanJauresJr",
-    "flair": "",
-    "domain": "torontohye.ca",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/gopFPC-onRAEv8nRkcL3Kf0oiefR46yB1sE55Wqt87Q.jpg?auto=webp&s=ec6ec612a4308e048d01878a040079be1f9e4763",
-    "ingested_at": "2026-11-01T09:44:12.407665+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/jk5fh6.webp",
-    "tags": [
-      "Peaceful Armenian Demonstration",
-      "France Attacked By Knife",
-      "Hammer-Wielding Turkish Nationals"
-    ],
-    "analyzed_at": "2026-11-01T09:58:25.081443+00:00"
   },
   {
     "id": "jjritb",
@@ -451,8 +290,8 @@
     "summary": "",
     "thumbnail": "thumbnails/jjritb.webp",
     "tags": [
-      "Manchester",
-      "Société"
+      "Racisme",
+      "Terrorisme"
     ],
     "analyzed_at": "2026-11-01T09:58:24.545780+00:00"
   },
@@ -473,11 +312,7 @@
     "ingested_at": "2026-11-01T09:44:12.408916+00:00",
     "summary": "Ce mardi, le président du conseil français du culte musulman (CFCM), Mohammed Moussaoui, a estimé que la liberté de caricaturer en France devait être mesurée, au nom de la \"fraternité\". Des propos qui n'ont pas manqué...",
     "thumbnail": "thumbnails/jjkvyf.webp",
-    "tags": [
-      "Mohammed Moussaoui",
-      "CFCM",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:58:23.476611+00:00"
   },
   {
@@ -497,13 +332,7 @@
     "ingested_at": "2026-11-01T09:44:12.408344+00:00",
     "summary": "C'est le nouveau combat de la SPA. Interdire la vente des animaux de compagnie dans les animaleries et entre particuliers sur internet. L'idée de la société de protection des animaux est de durcir les conditions d'achats et ainsi limiter les abandons de chiens, chats et autres reptiles.",
     "thumbnail": "thumbnails/jizefj.webp",
-    "tags": [
-      "SPA",
-      "Animaux de compagnie",
-      "Élevage",
-      "L214 Éthique & Animaux",
-      "Xavier Bonnard"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:58:23.569684+00:00"
   },
   {
@@ -544,11 +373,9 @@
     "summary": "Recep Tayyip Erdogan a appelé les Turcs à boycotter les produits français, accusant Emmanuel Macron de mener une \"campagne de haine\" contre les musulmans.",
     "thumbnail": "thumbnails/jigsy6.webp",
     "tags": [
-      "Macron",
-      "Turquie et la France",
-      "Conte",
       "Emmanuel Macron",
-      "Recep Tayyip Erdogan"
+      "Recep Tayyip Erdoğan",
+      "Angela Merkel"
     ],
     "analyzed_at": "2026-11-01T09:58:23.853974+00:00"
   },
@@ -569,36 +396,8 @@
     "ingested_at": "2026-11-01T09:44:12.408468+00:00",
     "summary": "",
     "thumbnail": "thumbnails/jie8ui.webp",
-    "tags": [
-      "Soft paywall"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:58:26.590077+00:00"
-  },
-  {
-    "id": "jiauh9",
-    "title": "French parliamentary delegation visits Armenian Genocide Memorial in Yerevan",
-    "url": "https://armenpress.am/eng/news/1032688.html?fbclid=IwAR3rWA8Q3sitCPlBYsTlJW6bBqbTXuVuo2gkrx76MIoWltKOoznj_OIX2rA",
-    "permalink": "/r/france/comments/jiauh9/french_parliamentary_delegation_visits_armenian/",
-    "created_at": "2020-10-26T08:24:18+00:00",
-    "score": 324,
-    "num_comments": 42,
-    "subreddit": "france",
-    "author": "JeanJauresJr",
-    "flair": "",
-    "domain": "armenpress.am",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/vT7MFy0FvTNI0F_95GQW0FHjUHgq8eUa2mPGMOln-Oo.jpeg?auto=webp&s=09a58a23659984b4f1d78a07cc556f24e268a9fd",
-    "ingested_at": "2026-11-01T09:44:12.408163+00:00",
-    "summary": "The French parliamentary delegation visited today the Armenian Genocide Memorial in Yerevan. The delegation members were accompanied by MP of the Armenian...",
-    "thumbnail": "thumbnails/jiauh9.webp",
-    "tags": [
-      "Armenian Genocide Memorial",
-      "Yerevan",
-      "French",
-      "MP",
-      "Armenian"
-    ],
-    "analyzed_at": "2026-11-01T09:58:24.031010+00:00"
   },
   {
     "id": "jhziqm",
@@ -617,9 +416,7 @@
     "ingested_at": "2026-11-01T09:44:12.407746+00:00",
     "summary": "Les Indiens contre-attaquent. En réponse aux appels au boycott de produits français dans plusieurs pays musulmans, des internautes indiens ont lancé une offensive",
     "thumbnail": "thumbnails/jhziqm.webp",
-    "tags": [
-      "StandwithFrance"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:58:23.970616+00:00"
   },
   {
@@ -640,61 +437,9 @@
     "summary": "Un kamikaze s'est fait exploser à l'entrée d'un centre éducatif, dans un quartier de Kaboul régulièrement visé par le groupe Etat islamique.",
     "thumbnail": "thumbnails/jho1jk.webp",
     "tags": [
-      "Etat",
-      "Kaboul",
-      "Afghanistan",
-      "Etat islamique",
-      "Société"
+      "Terrorisme"
     ],
     "analyzed_at": "2026-11-01T09:58:24.244178+00:00"
-  },
-  {
-    "id": "jhd8bl",
-    "title": "France Recalls Ambassador From Turkey After Erdoğan Says Macron Needs \"mental Treatment\"",
-    "url": "https://greekcitytimes.com/2020/10/25/france-turkey-erdogan-macron/",
-    "permalink": "/r/france/comments/jhd8bl/france_recalls_ambassador_from_turkey_after/",
-    "created_at": "2020-10-24T17:48:02+00:00",
-    "score": 259,
-    "num_comments": 52,
-    "subreddit": "france",
-    "author": "JeanJauresJr",
-    "flair": "Politique",
-    "domain": "greekcitytimes.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/dLY3agpHaO3EpzqPMxIJ38ckcXdl18uDnnU5wJC-mnM.jpg?auto=webp&s=865a6f091643cf8453637205b92971e707f338ed",
-    "ingested_at": "2026-11-01T09:44:12.408494+00:00",
-    "summary": "Latest Greek news and analysis from Greek City Times — politics, Cyprus, business, culture and diaspora stories, updated daily.",
-    "thumbnail": "thumbnails/jhd8bl.webp",
-    "tags": [
-      "Treatment",
-      "Latest Greek",
-      "Politique"
-    ],
-    "analyzed_at": "2026-11-01T09:58:25.074171+00:00"
-  },
-  {
-    "id": "jh61st",
-    "title": "Le dépôt Github de youtube-dl, base de tous les outils permettant de télécharger des vidéos sur divers sites, vient d'être mis hors ligne suite à une requête DMCA",
-    "url": "https://github.com/github/dmca/blob/master/2020/10/2020-10-23-RIAA.md",
-    "permalink": "/r/france/comments/jh61st/le_dépôt_github_de_youtubedl_base_de_tous_les/",
-    "created_at": "2020-10-24T09:24:50+00:00",
-    "score": 283,
-    "num_comments": 57,
-    "subreddit": "france",
-    "author": "Ailothaen",
-    "flair": "",
-    "domain": "github.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/ortMBiWafrFOYrU99LbE-22KzaK4ozOQ3-BEljNw4g4.png?auto=webp&s=27de405232ee12a9ab6ccc697609d94ae4a18a8e",
-    "ingested_at": "2026-11-01T09:44:12.408393+00:00",
-    "summary": "Repository with text of DMCA takedown notices as received. GitHub does not endorse or adopt any assertion contained in the following notices. Users identified in the notices are presumed innocent u...",
-    "thumbnail": "thumbnails/jh61st.webp",
-    "tags": [
-      "DMCA",
-      "YouTube",
-      "RIAA"
-    ],
-    "analyzed_at": "2026-11-01T09:58:24.756192+00:00"
   },
   {
     "id": "jgnbbb",
@@ -714,8 +459,9 @@
     "summary": "",
     "thumbnail": "thumbnails/jgnbbb.webp",
     "tags": [
-      "Macron",
-      "Politique"
+      "Emmanuel Macron",
+      "Éducation",
+      "Libertés publiques"
     ],
     "analyzed_at": "2026-11-01T09:58:24.582045+00:00"
   },
@@ -736,9 +482,7 @@
     "ingested_at": "2026-11-01T09:44:12.407879+00:00",
     "summary": "",
     "thumbnail": "",
-    "tags": [
-      "Besnier"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:58:24.368747+00:00"
   },
   {
@@ -759,34 +503,10 @@
     "summary": "En 2018, le témoignage de Mounia Rabbouj avait amené le théologien, alors détenu, à admettre pour la première fois des relations extraconjugales, selon lui \"consenties\".",
     "thumbnail": "thumbnails/jg6h08.webp",
     "tags": [
-      "Tariq Ramadan",
-      "Mounia Rabbouj",
       "Justice",
-      "Violences faites aux femmes"
+      "Violences sexuelles"
     ],
     "analyzed_at": "2026-11-01T09:58:24.713364+00:00"
-  },
-  {
-    "id": "jfz7bd",
-    "title": "On a pas ça en France",
-    "url": "https://gfycat.com/entiretinybobwhite",
-    "permalink": "/r/france/comments/jfz7bd/on_a_pas_ça_en_france/",
-    "created_at": "2020-10-22T13:03:04+00:00",
-    "score": 313,
-    "num_comments": 152,
-    "subreddit": "france",
-    "author": "[deleted]",
-    "flair": "Société",
-    "domain": "gfycat.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://b.thumbs.redditmedia.com/1gVKrL_1Eubsl8Y_NadyKM6ggdmYCmBJc0Ho_K6W6OU.jpg",
-    "ingested_at": "2026-11-01T09:44:12.408247+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/jfz7bd.webp",
-    "tags": [
-      "Société"
-    ],
-    "analyzed_at": "2026-11-01T09:58:26.965048+00:00"
   },
   {
     "id": "jfwbjt",
@@ -807,8 +527,7 @@
     "thumbnail": "thumbnails/jfwbjt.webp",
     "tags": [
       "Jean-Michel Blanquer",
-      "Education",
-      "Politique"
+      "Éducation"
     ],
     "analyzed_at": "2026-11-01T09:58:25.249760+00:00"
   },
@@ -829,9 +548,7 @@
     "ingested_at": "2026-11-01T09:44:12.408705+00:00",
     "summary": "Une enseignante qui avait abordé la thématique du port du voile en France aurait été menacée par des élèves, à la suite de ce cours. Elle a porté plainte et sept jeunes ont été placés en garde à vue ce lundi 20 octobre.",
     "thumbnail": "thumbnails/jfgz46.webp",
-    "tags": [
-      "Toulouse"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:58:25.342195+00:00"
   },
   {
@@ -852,36 +569,9 @@
     "summary": "Dans un documentaire projeté en avant-première mercredi au Festival international du film de Rome, le pape François confie soutenir le mariage civil homosexuel, rapporte l'agence de presse américaine Associated Press (AP).",
     "thumbnail": "thumbnails/jff0mf.webp",
     "tags": [
-      "François",
-      "Dieu",
-      "Festival",
-      "Rome",
-      "Société"
+      "LGBT+"
     ],
     "analyzed_at": "2026-11-01T09:58:25.388244+00:00"
-  },
-  {
-    "id": "jf8w1p",
-    "title": "Fermeture des bars : un parisien choqué après avoir découvert le vrai prix d’une bière au supermarché",
-    "url": "http://www.legorafi.fr/2020/10/21/fermeture-des-bars-un-parisien-choque-apres-avoir-decouvert-le-vrai-prix-dune-biere-au-supermarche/",
-    "permalink": "/r/france/comments/jf8w1p/fermeture_des_bars_un_parisien_choqué_après_avoir/",
-    "created_at": "2020-10-21T08:16:28+00:00",
-    "score": 1733,
-    "num_comments": 250,
-    "subreddit": "france",
-    "author": "bcorwin",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/JZlntUSL4FgjxdVNmOUm-oV8RsJyfT-Z8y-3rGJxnbk.jpeg?auto=webp&s=5d0d75dc6c05ddb5c0c245751efe7239fa23ec44",
-    "ingested_at": "2026-11-01T09:44:12.407477+00:00",
-    "summary": "Lundi soir, Gabin veut fêter l’obtention de son alternance dans le cabinet d’architecture dirigé par son père. Il appelle alors ses amis « Balthazar, Myrtille, Frida et Matisse » quatre parisiens nés dans le 11ème arrondissement comme lui.",
-    "thumbnail": "thumbnails/jf8w1p.webp",
-    "tags": [
-      "Gorafi",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:58:25.315070+00:00"
   },
   {
     "id": "jf7su9",
@@ -900,11 +590,7 @@
     "ingested_at": "2026-11-01T09:44:12.408033+00:00",
     "summary": "",
     "thumbnail": "",
-    "tags": [
-      "Laitière",
-      "Président",
-      "Lactalis"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:58:25.194009+00:00"
   },
   {
@@ -925,9 +611,7 @@
     "summary": "INFO BFMTV. Le père de famille, auteur de la vidéo dans lequel il s'indignait du cours sur les caricatures animé par Samuel Paty, et le terroriste présumé ont échangé via la messagerie WhatsApp dans les jours précédant l'attentat.",
     "thumbnail": "thumbnails/jeocay.webp",
     "tags": [
-      "Samuel Paty",
-      "BFMTV",
-      "WhatsApp"
+      "Terrorisme"
     ],
     "analyzed_at": "2026-11-01T09:58:25.724459+00:00"
   },
@@ -969,10 +653,9 @@
     "summary": "L’assassinat du professeur Samuel Paty bouleverse le corps enseignant. Après le sentiment de révolte, il y a cette peur de se frotter aux sujets interdits : religion, caricatures et liberté d’expression.",
     "thumbnail": "thumbnails/jdybrc.webp",
     "tags": [
-      "Charlie Hebdo",
-      "Samuel Paty",
-      "Mahomet",
-      "Société"
+      "Éducation",
+      "Libertés publiques",
+      "Extrême droite"
     ],
     "analyzed_at": "2026-11-01T09:58:25.874912+00:00"
   },
@@ -994,8 +677,8 @@
     "summary": "",
     "thumbnail": "thumbnails/jdvmk1.webp",
     "tags": [
-      "Abdouallakh Anzorov",
-      "Samuel Paty"
+      "Terrorisme",
+      "Éducation"
     ],
     "analyzed_at": "2026-11-01T09:58:25.818623+00:00"
   },
@@ -1017,9 +700,7 @@
     "summary": "Gérald Darmanin veut frapper fort après l'assassinat du professeur Samuel Paty, décapité vendredi soir pour avoir montré à ses élèves des caricatures de Mahomet dans",
     "thumbnail": "thumbnails/jdfhnf.webp",
     "tags": [
-      "Gérald Darmanin",
-      "Samuel Paty",
-      "Mahomet"
+      "Gérald Darmanin"
     ],
     "analyzed_at": "2026-11-01T09:58:26.276392+00:00"
   },
@@ -1041,11 +722,8 @@
     "summary": "FIGAROVOX/GRAND ENTRETIEN - Un an après le 13 novembre et à l'ocasion de la sortie de son dernier livre, Détruire le fascisme islamique, Zineb El Rhazoui a accordé un entretien fleuve au FigaroVox. Selon elle, on ne pourra pas vaincre le terrorisme sans s'attaquer à l'idéologie qui le sous-tend.",
     "thumbnail": "thumbnails/jd6m95.webp",
     "tags": [
-      "Zineb El Rhazoui",
-      "Attentat terroriste",
-      "Classe Politique",
-      "Islamisme",
-      "GRAND ENTRETIEN"
+      "Laïcité",
+      "Terrorisme"
     ],
     "analyzed_at": "2026-11-01T09:58:25.817432+00:00"
   },
@@ -1067,10 +745,7 @@
     "summary": "Abdelhakim Sefrioui, prédicateur islamiste connu du renseignement, a été placé en garde à vue dans l'enquête sur l'assassinat de Samuel Paty, décapité à Conflans. Le 8 octobre, il avait appelé à la mobilisation contre l'enseignant. Son CV dévoile un profil d'islamiste expert de l'agit-prop.",
     "thumbnail": "thumbnails/jcx6gu.webp",
     "tags": [
-      "Abdelhakim Sefrioui",
-      "Samuel Paty",
-      "Conflans",
-      "CV"
+      "Éducation"
     ],
     "analyzed_at": "2026-11-01T09:58:26.027624+00:00"
   },
@@ -1092,9 +767,7 @@
     "summary": "Quelques jours avant d'être tué par un Tchétchène de 18 ans, Samuel Paty avait porté plainte pour diffamation et dénonciation calomnieuse après le cours où il avait montré des caricatures de Mahomet.",
     "thumbnail": "thumbnails/jcsgi8.webp",
     "tags": [
-      "Samuel Paty",
-      "Mahomet",
-      "Tchétchène de 18"
+      "Éducation"
     ],
     "analyzed_at": "2026-11-01T09:58:26.400973+00:00"
   },
@@ -1117,7 +790,7 @@
     "thumbnail": "thumbnails/jc7lj8.webp",
     "tags": [
       "Nicolas Sarkozy",
-      "Politique"
+      "Justice"
     ],
     "analyzed_at": "2026-11-01T09:58:27.430817+00:00"
   },
@@ -1139,8 +812,6 @@
     "summary": "Le ministre allemand du Travail lavait déjà fait savoir lors dune sortie au cours du mois davril de lannée en cours : les employés devraient avoir le droit de travailler depuis leur domicile, ce, surtout que la pandémie de coronavirus limpose désormais.",
     "thumbnail": "thumbnails/jc64iw.webp",
     "tags": [
-      "Travail",
-      "Hubertus Heil",
       "Covid-19"
     ],
     "analyzed_at": "2026-11-01T09:58:26.229207+00:00"
@@ -1163,10 +834,7 @@
     "summary": "Emmanuel Macron a rejeté un renforcement de la réglementation pour développer le télétravail, s’en remettant au dialogue social dans les entreprises.",
     "thumbnail": "thumbnails/jbihi6.webp",
     "tags": [
-      "Emmanuel Macron",
-      "Coronavirus",
-      "Économie française",
-      "Économie"
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T09:58:26.661005+00:00"
   },
@@ -1188,10 +856,6 @@
     "summary": "La demande émanait notamment de la Convention citoyenne pour le climat et de WWF France qui avait appelé à \"faire rentrer la question du poids\" de ces véhicules, \"dans le bonus-malus\".",
     "thumbnail": "thumbnails/jbhv0q.webp",
     "tags": [
-      "SUV",
-      "WWF France",
-      "Pollution aux particules fines",
-      "Impôts",
       "Environnement"
     ],
     "analyzed_at": "2026-11-01T09:58:26.730732+00:00"
@@ -1213,13 +877,7 @@
     "ingested_at": "2026-11-01T09:44:12.407932+00:00",
     "summary": "Un peu plus tôt cette semaine, le comité judiciaire de la Chambre a publié ses conclusions sur la question de savoir si Amazon, Facebook, Apple et Google enfreignent la loi antitrust.",
     "thumbnail": "thumbnails/jb8bvq.webp",
-    "tags": [
-      "PDG de ProtonMail",
-      "App Store",
-      "Chambre",
-      "Amazon",
-      "Google"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:58:26.616513+00:00"
   },
   {
@@ -1240,9 +898,6 @@
     "summary": "",
     "thumbnail": "thumbnails/jb6138.webp",
     "tags": [
-      "Ile-de-France",
-      "Lille",
-      "Montpellier",
       "Covid-19"
     ],
     "analyzed_at": "2026-11-01T09:58:26.922034+00:00"
@@ -1265,8 +920,8 @@
     "summary": "",
     "thumbnail": "thumbnails/jaygth.webp",
     "tags": [
-      "Norvège",
-      "Société"
+      "Justice",
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T09:58:26.975926+00:00"
   },
@@ -1288,37 +943,10 @@
     "summary": "De mystérieuses boîtes censées recueillir les bulletins des électeurs qui souhaitent voter de manière anticipée sont apparues en Californie. Les démocrates dénoncent une fraude.",
     "thumbnail": "thumbnails/jawsw3.webp",
     "tags": [
-      "Californie",
-      "Etat",
-      "New York Times",
-      "Donald Trump",
-      "Présidentielle américaine 2024"
+      "Élection présidentielle",
+      "Donald Trump"
     ],
     "analyzed_at": "2026-11-01T09:58:27.224706+00:00"
-  },
-  {
-    "id": "javvo8",
-    "title": "76 % des conseillers d’orientation affirment avoir été eux-mêmes mal orientés",
-    "url": "http://www.legorafi.fr/2013/10/14/76-des-conseillers-dorientation-affirment-avoir-ete-eux-memes-mal-orientes/",
-    "permalink": "/r/france/comments/javvo8/76_des_conseillers_dorientation_affirment_avoir/",
-    "created_at": "2020-10-14T07:05:38+00:00",
-    "score": 1206,
-    "num_comments": 255,
-    "subreddit": "france",
-    "author": "C_kloug",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/EuLYjmcUfe9AqHT5j4yFjO6xUjF9Mko26ZJIdWj3U9E.jpg?auto=webp&s=23828b2844961c19b91f13926957c8627b5197fc",
-    "ingested_at": "2026-11-01T09:44:12.407532+00:00",
-    "summary": "Cela sonne comme une malédiction sans fin. Une étude quantitative menée sur le territoire français entre 2010 et 2013 vient confirmer ce que de nombreux Français pensaient secrètement jusque là : les conseillers d’orientation ne savent pas non plus comment ils en sont arrivés là.",
-    "thumbnail": "thumbnails/javvo8.webp",
-    "tags": [
-      "Ipsos",
-      "Philippe Boileau",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:58:26.947514+00:00"
   },
   {
     "id": "ja8p6s",
@@ -1338,8 +966,8 @@
     "summary": "",
     "thumbnail": "thumbnails/ja8p6s.webp",
     "tags": [
-      "Emmanuel Macron",
-      "Écologie"
+      "Environnement",
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T09:58:27.317968+00:00"
   },
@@ -1361,11 +989,8 @@
     "summary": "Jean Castex a écarté l'idée d'une revalorisation du RSA et de la création d'un revenu minimum pour les moins de 25 ans. Pour Christophe Robert, \"les propos du Premier ministre résonnent durement\".",
     "thumbnail": "thumbnails/ja6uyz.webp",
     "tags": [
-      "Premier",
-      "RSA",
-      "Fondation Abbé Pierre",
-      "Jean Castex",
-      "Société"
+      "Pauvreté",
+      "Jean Castex"
     ],
     "analyzed_at": "2026-11-01T09:58:27.359768+00:00"
   },
@@ -1386,12 +1011,7 @@
     "ingested_at": "2026-11-01T09:44:12.409231+00:00",
     "summary": "ArrÃªts maladies, burnout et licenciements Ã la chaÃ®ne. Depuis 2017, la terreur rÃ¨gne au siÃ¨ge franÃ§ais du gÃ©ant McDonaldâs oÃ¹ 10% des postes ont disparu. De nombreux salariÃ©s dÃ©noncent un plan social dÃ©guisÃ©. EnquÃªte et rÃ©vÃ©lations.",
     "thumbnail": "thumbnails/j9nlnh.webp",
-    "tags": [
-      "McDonaldâ",
-      "McDonald's",
-      "Â Â",
-      "DRH"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:58:27.329446+00:00"
   },
   {
@@ -1412,9 +1032,8 @@
     "summary": "Le président de la République sera interviewé mercredi soir à la télévision. Il s'exprimera notamment sur la crise sanitaire alors que le coronavirus poursuit sa propagation sur le territoire national.",
     "thumbnail": "thumbnails/j9n9ai.webp",
     "tags": [
-      "Emmanuel Macron",
-      "République",
-      "Covid-19"
+      "Covid-19",
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T09:58:27.323042+00:00"
   },
@@ -1435,11 +1054,7 @@
     "ingested_at": "2026-11-01T09:44:12.408781+00:00",
     "summary": "Dans une étude publiée vendredi 9 octobre, le think tank Terra Nova s’intéresse aux policiers chargés de mener la répression et dont les actions seraient trop souvent vaines.",
     "thumbnail": "thumbnails/j93ois.webp",
-    "tags": [
-      "Trafic de drogue",
-      "Terra Nova",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:58:28.187273+00:00"
   },
   {
@@ -1459,13 +1074,7 @@
     "ingested_at": "2026-11-01T09:44:12.409018+00:00",
     "summary": "Samples of pork and poultry showed high levels of salmonella and E coli in new study",
     "thumbnail": "thumbnails/j9096u.webp",
-    "tags": [
-      "US",
-      "UK",
-      "Channel 4",
-      "FSIS",
-      "Food & drink industry"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:58:27.376426+00:00"
   },
   {
@@ -1486,32 +1095,9 @@
     "summary": "",
     "thumbnail": "thumbnails/j8h2te.webp",
     "tags": [
-      "Villepinte",
-      "Iran"
+      "Terrorisme"
     ],
     "analyzed_at": "2026-11-01T09:58:27.675477+00:00"
-  },
-  {
-    "id": "j88g6n",
-    "title": "Léodagan 2022",
-    "url": "https://ih1.redbubble.net/image.805495179.0360/fposter,small,wall_texture,product,750x1000.u9.jpg",
-    "permalink": "/r/france/comments/j88g6n/léodagan_2022/",
-    "created_at": "2020-10-09T22:06:53+00:00",
-    "score": 1064,
-    "num_comments": 54,
-    "subreddit": "france",
-    "author": "wisi_eu",
-    "flair": "Humour",
-    "domain": "ih1.redbubble.net",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/a7fHmutjfYUvghIKcnC7sLmce_fXoLxOSU7q1jQjdlw.jpg?auto=webp&s=f23e46774f721732c4093e3634eb437c7f1534d1",
-    "ingested_at": "2026-11-01T09:44:12.407585+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/j88g6n.webp",
-    "tags": [
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:58:27.653775+00:00"
   },
   {
     "id": "j85y9d",
@@ -1530,9 +1116,7 @@
     "ingested_at": "2026-11-01T09:44:12.409535+00:00",
     "summary": "Une petite ligne ajoutée aux contrats d'utilisation de PayPal a attiré notre attention : l'entreprise ajoute des frais d'inactivité, aux conditions tout à fait raisonnables. C'est le moment de faire le ménage dans vos comptes PayPal. Le 29 septembre, l'entreprise a effectué une mise à jour de ses contrats",
     "thumbnail": "thumbnails/j85y9d.webp",
-    "tags": [
-      "PayPal"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:58:28.254669+00:00"
   },
   {
@@ -1552,12 +1136,7 @@
     "ingested_at": "2026-11-01T09:44:12.409093+00:00",
     "summary": "Dans le cadre d’un recours visant la suspension du Health Data Hub, projet de plateforme pour centraliser nos données de santé, le gendarme de la vie privée a transmis au Conseil d’État un mémoire de…",
     "thumbnail": "thumbnails/j7v0yq.webp",
-    "tags": [
-      "Microsoft",
-      "Cnil",
-      "Conseil État",
-      "Health Data Hub"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:58:29.410582+00:00"
   },
   {
@@ -1577,10 +1156,7 @@
     "ingested_at": "2026-11-01T09:44:12.409356+00:00",
     "summary": "",
     "thumbnail": "thumbnails/j7j64t.webp",
-    "tags": [
-      "Parlement",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:58:27.839695+00:00"
   },
   {
@@ -1601,35 +1177,9 @@
     "summary": "",
     "thumbnail": "thumbnails/j7dpef.webp",
     "tags": [
-      "ISF"
+      "Budget et fiscalité"
     ],
     "analyzed_at": "2026-11-01T09:58:28.189069+00:00"
-  },
-  {
-    "id": "j6orxc",
-    "title": "Le prix Nobel de chimie décerné à Olivier Véran pour ses travaux sur l'élargissement de la palette de la couleur rouge",
-    "url": "http://www.legorafi.fr/2020/10/07/le-prix-nobel-de-chimie-decerne-a-olivier-veran-pour-ses-travaux-sur-lelargissement-de-la-palette-de-la-couleur-rouge/",
-    "permalink": "/r/france/comments/j6orxc/le_prix_nobel_de_chimie_décerné_à_olivier_véran/",
-    "created_at": "2020-10-07T10:57:50+00:00",
-    "score": 821,
-    "num_comments": 24,
-    "subreddit": "france",
-    "author": "bcorwin",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/IC9v0ySk86QTEw9Rrrggy7fggFweLHj9n92IPAJe5V8.jpeg?auto=webp&s=48d7377310ca20a684d9c6d4955fdf4abb4719d9",
-    "ingested_at": "2026-11-01T09:44:12.407637+00:00",
-    "summary": "L'accomplissement d'une carrière pour le ministre de la Santé. Il voit ses derniers travaux sur l'analyse et l’élargissement du spectre de la couleur rouge enfin récompensés.",
-    "thumbnail": "thumbnails/j6orxc.webp",
-    "tags": [
-      "Nobel",
-      "Olivier Véran",
-      "Santé",
-      "Gorafi",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:58:27.743194+00:00"
   },
   {
     "id": "j6oa3i",
@@ -1649,39 +1199,10 @@
     "summary": "Pour la cour pénale d'Athènes, le parti néonazi Aube dorée est une \"organisation criminelle\". Le fondateur et chef du parti, Nikos Michaloliakos, a été reconnu coupable mercredi de \"direction d'une organisation…",
     "thumbnail": "thumbnails/j6oa3i.webp",
     "tags": [
-      "Aube",
-      "Athènes",
-      "Nikos Michaloliakos",
-      "Grèce",
-      "Politique"
+      "Extrême droite",
+      "Justice"
     ],
     "analyzed_at": "2026-11-01T09:58:28.111544+00:00"
-  },
-  {
-    "id": "j6cc34",
-    "title": "Mort du guitariste Eddie Van Halen, à 65 ans",
-    "url": "https://www.goodmorningamerica.com/culture/story/eddie-van-halen-dead-65-73457786?cid=social_twitter_abcn",
-    "permalink": "/r/france/comments/j6cc34/mort_du_guitariste_eddie_van_halen_à_65_ans/",
-    "created_at": "2020-10-06T19:59:57+00:00",
-    "score": 130,
-    "num_comments": 42,
-    "subreddit": "france",
-    "author": "gasconne",
-    "flair": "Culture",
-    "domain": "goodmorningamerica.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/2YydNL7lnqx7c2Hfs3Eroeu1nCaBwuSkFa3Wc9Y7quw.jpeg?auto=webp&s=5494d60cf8ef050ab88b3cc404c412d2f54f57f6",
-    "ingested_at": "2026-11-01T09:44:12.409407+00:00",
-    "summary": "The Van Halen guitarist had been battling cancer, his son said.",
-    "thumbnail": "thumbnails/j6cc34.webp",
-    "tags": [
-      "Eddie Van Halen",
-      "Van Halen",
-      "Van Halen's",
-      "Abcnews",
-      "Culture"
-    ],
-    "analyzed_at": "2026-11-01T09:58:28.735993+00:00"
   },
   {
     "id": "j5zkas",
@@ -1700,9 +1221,7 @@
     "ingested_at": "2026-11-01T09:44:12.408656+00:00",
     "summary": "Le gouvernement évoque seulement une « intensification » du télétravail, sans contrainte",
     "thumbnail": "thumbnails/j5zkas.webp",
-    "tags": [
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:58:28.228030+00:00"
   },
   {
@@ -1743,11 +1262,7 @@
     "summary": "Interdite sur la voie publique en France, la reconnaissance faciale en temps réel fait malgré tout son chemin. Plusieurs municipalités testent des dispositifs qui s’en rapprochent, avant sa possible autorisation pour les Jeux olympiques de Paris en 2024. [...] À Marseille (Bouches-du-Rhône), la Cann",
     "thumbnail": "thumbnails/j5eoln.webp",
     "tags": [
-      "Quadrature du Net",
-      "Jeux",
-      "Paris",
-      "Marseille",
-      "Société"
+      "Libertés publiques"
     ],
     "analyzed_at": "2026-11-01T09:58:28.618864+00:00"
   },
@@ -1769,9 +1284,8 @@
     "summary": "Emmanuel Macron a dit accueillir la victoire du « non » à l’indépendance de la Nouvelle-Calédonie lors du référendum d’autodétermination ce",
     "thumbnail": "thumbnails/j4z4md.webp",
     "tags": [
-      "Nouvelle-Calédonie",
-      "Emmanuel Macron",
-      "Soft paywall"
+      "Outre-mer",
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T09:58:28.450411+00:00"
   },
@@ -1793,30 +1307,9 @@
     "summary": "Les habitants de la Nouvelle-Calédonie ont choisi de rester en France à 53,26 % lors du deuxième référendum d'autodétermination organisé ce dimanche.",
     "thumbnail": "thumbnails/j4xtm0.webp",
     "tags": [
-      "Nouvelle-Calédonie",
-      "Nouméa"
+      "Outre-mer"
     ],
     "analyzed_at": "2026-11-01T09:58:28.552725+00:00"
-  },
-  {
-    "id": "j4cwn6",
-    "title": "Arte lance sa plateforme de série gratuite",
-    "url": "https://anotherwhiskyformisterbukowski.com/2020/10/03/arte-lance-sa-plateforme-de-serie-gratuite/",
-    "permalink": "/r/france/comments/j4cwn6/arte_lance_sa_plateforme_de_série_gratuite/",
-    "created_at": "2020-10-03T09:27:27+00:00",
-    "score": 206,
-    "num_comments": 23,
-    "subreddit": "france",
-    "author": "LongjumpingSlip",
-    "flair": "",
-    "domain": "anotherwhiskyformisterbukowski.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/awzUT2XYmhyYR925Fu82v7Vbdj2ZaHAnpFGWYNMBovo.png?auto=webp&s=d3c2a12d7e7d269373b0eb079660d5670245723b",
-    "ingested_at": "2026-11-01T09:44:12.409042+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/j4cwn6.webp",
-    "tags": [],
-    "analyzed_at": "2026-11-01T09:58:32.276807+00:00"
   },
   {
     "id": "j4ao6a",
@@ -1835,31 +1328,10 @@
     "ingested_at": "2026-11-01T09:44:12.408136+00:00",
     "summary": "",
     "thumbnail": "thumbnails/j4ao6a.webp",
-    "tags": [],
-    "analyzed_at": "2026-11-01T09:58:28.727935+00:00"
-  },
-  {
-    "id": "j3wnfm",
-    "title": "Un ancien catcheur contrôlé positif à la COVID-19",
-    "url": "https://lasueur.com/wp-content/uploads/2016/09/12418041_1130111177008526_7205231270672089717_n.jpg",
-    "permalink": "/r/france/comments/j3wnfm/un_ancien_catcheur_contrôlé_positif_à_la_covid19/",
-    "created_at": "2020-10-02T15:31:27+00:00",
-    "score": 231,
-    "num_comments": 4,
-    "subreddit": "france",
-    "author": "CamusAquarius",
-    "flair": "Méta",
-    "domain": "lasueur.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/koK_fhRehZZOguaR3d5jhEnrsAo7ZTMNXot8Z5maPdg.jpg?auto=webp&s=0a5023d8400535b857222238e71714d3b04e3ebf",
-    "ingested_at": "2026-11-01T09:44:12.408861+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/j3wnfm.webp",
     "tags": [
-      "COVID-19",
-      "Méta"
+      "Numérique"
     ],
-    "analyzed_at": "2026-11-01T09:58:30.837304+00:00"
+    "analyzed_at": "2026-11-01T09:58:28.727935+00:00"
   },
   {
     "id": "j3ohso",
@@ -1879,8 +1351,8 @@
     "summary": "",
     "thumbnail": "thumbnails/j3ohso.webp",
     "tags": [
-      "Donald Trump",
-      "Covid-19"
+      "Covid-19",
+      "Donald Trump"
     ],
     "analyzed_at": "2026-11-01T09:58:28.797325+00:00"
   },
@@ -1902,9 +1374,7 @@
     "summary": "La Cour suprême du pays a jugé que la teneur en sucre du pain était environ cinq fois trop élevée pour être admissible à la norme qualifiant ce qu'est du pain.",
     "thumbnail": "thumbnails/j38b3e.webp",
     "tags": [
-      "Subway",
-      "Irlande",
-      "Cour"
+      "Justice"
     ],
     "analyzed_at": "2026-11-01T09:58:28.876914+00:00"
   },
@@ -1926,11 +1396,7 @@
     "summary": "On Baltic trip, French president urges Continent to regain strategic independence.",
     "thumbnail": "thumbnails/j356g4.webp",
     "tags": [
-      "Europe",
-      "US",
-      "Baltic",
-      "Continent",
-      "China"
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T09:58:29.388875+00:00"
   }

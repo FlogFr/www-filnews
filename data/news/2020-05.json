@@ -17,11 +17,7 @@
     "summary": "[VIDÉO] INTERPELLATION - Derek Chauvin, le policier accusé d'avoir étouffé George Floyd lors de son arrestation, a été interpellé ce vendredi pour homicide involontaire. Il avait fait l'objet de 18 plaintes en interne mais celles-ci n'avaient jamais donné lieu à sanction.",
     "thumbnail": "thumbnails/gu4oc6.webp",
     "tags": [
-      "Derek Chauvin",
-      "George Floyd",
-      "Etats-Unis",
-      "Minneapolis",
-      "vidéo International"
+      "Police"
     ],
     "analyzed_at": "2026-11-01T09:40:12.722199+00:00"
   },
@@ -44,33 +40,9 @@
     "thumbnail": "thumbnails/gu3i50.webp",
     "tags": [
       "Donald Trump",
-      "Politique"
+      "Terrorisme"
     ],
     "analyzed_at": "2026-11-01T09:40:12.409059+00:00"
-  },
-  {
-    "id": "gth4lz",
-    "title": "En 2020, un virus peut-il banaliser la surveillance de masse globale ? (L'analyse du Parti Pirate sur StopCovid, très complète pour le coup et sourcée)",
-    "url": "https://partipirate.org/en-2020-un-virus-peut-il-banaliser-la-surveillance-de-masse-globale/",
-    "permalink": "/r/france/comments/gth4lz/en_2020_un_virus_peutil_banaliser_la_surveillance/",
-    "created_at": "2020-05-30T16:38:02+00:00",
-    "score": 193,
-    "num_comments": 52,
-    "subreddit": "france",
-    "author": "Deeoon",
-    "flair": "COVID-19",
-    "domain": "partipirate.org",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/orS0AqPvfaP4IzhwwKSajCFOsQZxwTUF-HzqNfdHDrU.jpg?auto=webp&s=659dd4faf669ce0f55579451642b155106b71679",
-    "ingested_at": "2026-11-01T09:37:54.451138+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/gth4lz.webp",
-    "tags": [
-      "Parti Pirate",
-      "StopCovid",
-      "COVID-19"
-    ],
-    "analyzed_at": "2026-11-01T09:40:14.016246+00:00"
   },
   {
     "id": "gtg3ry",
@@ -90,35 +62,10 @@
     "summary": "Cette dame, qui vient d'avoir 100 ans, symbolise un nouveau combat en faveur de l’euthanasie.",
     "thumbnail": "thumbnails/gtg3ry.webp",
     "tags": [
-      "Hélène",
-      "Léon XIV",
       "Fin de vie",
-      "Société"
+      "Grèves et syndicats"
     ],
     "analyzed_at": "2026-11-01T09:40:12.485672+00:00"
-  },
-  {
-    "id": "gtbu25",
-    "title": "Malgré la pandémie, le projet ITER franchit une étape capitale dans son parcours",
-    "url": "https://trustmyscience.com/projet-iter-franchit-etape-capitale-dans-son-evolution/",
-    "permalink": "/r/france/comments/gtbu25/malgré_la_pandémie_le_projet_iter_franchit_une/",
-    "created_at": "2020-05-30T09:59:22+00:00",
-    "score": 180,
-    "num_comments": 38,
-    "subreddit": "france",
-    "author": "Savoie_libre",
-    "flair": "Science",
-    "domain": "trustmyscience.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/CR7e-KHpZDUMCNblsC43qH22hFBZUEUHW2-tvKgRX3k.jpeg?auto=webp&s=9dec44cb12ab40b6cb204022bb94aa2210def70a",
-    "ingested_at": "2026-11-01T09:37:54.451337+00:00",
-    "summary": "Débuté en 2007, impliquant un budget de 20 milliards d’euros et réunissant l’expertise de 35 pays, ITER est un projet de réacteur à fusion nucléaire expérimental de type tokamak basé en France.",
-    "thumbnail": "thumbnails/gtbu25.webp",
-    "tags": [
-      "ITER",
-      "Science"
-    ],
-    "analyzed_at": "2026-11-01T09:40:12.582245+00:00"
   },
   {
     "id": "gt9e5r",
@@ -138,7 +85,8 @@
     "summary": "",
     "thumbnail": "thumbnails/gt9e5r.webp",
     "tags": [
-      "Eric Ciotti"
+      "Éric Ciotti",
+      "Police"
     ],
     "analyzed_at": "2026-11-01T09:40:12.751445+00:00"
   },
@@ -160,36 +108,9 @@
     "summary": "Un policier de la Direction départementale de la sécurité publique (DDSP) a été suspendu pour des faits de violation et recel du secret professionnel, en lien avec les révélations de Mediapart.",
     "thumbnail": "thumbnails/gsqsy0.webp",
     "tags": [
-      "Mediapart",
-      "Nice",
-      "Affaire Legay",
-      "Direction",
-      "DDSP"
+      "Police"
     ],
     "analyzed_at": "2026-11-01T09:40:13.110759+00:00"
-  },
-  {
-    "id": "gsozqh",
-    "title": "Loi Avia : pourtant décédé avant le vote, la voix d'un député LREM comptabilisée",
-    "url": "https://actu.orange.fr/politique/loi-avia-pourtant-decede-avant-le-vote-la-voix-d-un-depute-lrem-comptabilisee-magic-CNT000001qtKPg.html",
-    "permalink": "/r/france/comments/gsozqh/loi_avia_pourtant_décédé_avant_le_vote_la_voix/",
-    "created_at": "2020-05-29T08:28:51+00:00",
-    "score": 268,
-    "num_comments": 66,
-    "subreddit": "france",
-    "author": "Draazith",
-    "flair": "",
-    "domain": "actu.orange.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/FPWESMbQRVod6GQ46Fgx55ktdRF92VJT_xN90H54PtU.jpg?auto=webp&s=8a97ca8126ad55587af6e5ebb8569b5369f1e089",
-    "ingested_at": "2026-11-01T09:37:54.450548+00:00",
-    "summary": "Soyez informé(e) des dernières actualités politiques en France et dans le monde. Restez à jour sur les événements clés avec Orange Actualités.",
-    "thumbnail": "thumbnails/gsozqh.webp",
-    "tags": [
-      "Loi Avia",
-      "LREM"
-    ],
-    "analyzed_at": "2026-11-01T09:40:14.099399+00:00"
   },
   {
     "id": "gs97aw",
@@ -208,10 +129,7 @@
     "ingested_at": "2026-11-01T09:37:54.450423+00:00",
     "summary": "",
     "thumbnail": "thumbnails/gs97aw.webp",
-    "tags": [
-      "Guy Bedos",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:40:18.152690+00:00"
   },
   {
@@ -231,11 +149,7 @@
     "ingested_at": "2026-11-01T09:37:54.450871+00:00",
     "summary": "13 ans après le plan social et 6 ans après la fermeture de l'usine Goodyear d'Amiens, les prud'hommes ont donné raison aux plus de 800 anciens salariés, injustement licenciés et victimes d'un préjudice psychologique.",
     "thumbnail": "thumbnails/gs705h.webp",
-    "tags": [
-      "Amiens",
-      "Goodyear Amiens",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:40:13.264333+00:00"
   },
   {
@@ -255,9 +169,7 @@
     "ingested_at": "2026-11-01T09:37:54.450929+00:00",
     "summary": "",
     "thumbnail": "thumbnails/gs4orq.webp",
-    "tags": [
-      "Soft paywall"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:40:15.341418+00:00"
   },
   {
@@ -278,11 +190,8 @@
     "summary": "Pour Jordan Bardella, \"Didier Raoult, c'est le sanitairement incorrect\". L'infectiologue qui défend l'hydroxochloroquine aurait, selon lui, quelques ressemblances avec le Rassemblement national.",
     "thumbnail": "thumbnails/gs4kmi.webp",
     "tags": [
-      "Didier Raoult",
-      "Rassemblement",
-      "Jordan Bardela",
       "Jordan Bardella",
-      "Politique"
+      "Covid-19"
     ],
     "analyzed_at": "2026-11-01T09:40:13.102323+00:00"
   },
@@ -306,35 +215,9 @@
     "tags": [
       "Élisabeth Borne",
       "Covid-19",
-      "Économie",
-      "Transport",
-      "Société"
+      "Budget et fiscalité"
     ],
     "analyzed_at": "2026-11-01T09:40:13.553912+00:00"
-  },
-  {
-    "id": "gs1edp",
-    "title": "AJA que des agences de communication sont spécialisées dans l'édition d'articles sur Wikipédia (Wikipédia:Bulletin des administrateurs/2020/Semaine 22/)",
-    "url": "https://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Bulletin_des_administrateurs/2020/Semaine_22/Agences_de_communication_sur_Wikip%C3%A9dia",
-    "permalink": "/r/france/comments/gs1edp/aja_que_des_agences_de_communication_sont/",
-    "created_at": "2020-05-28T07:08:03+00:00",
-    "score": 184,
-    "num_comments": 45,
-    "subreddit": "france",
-    "author": "Linsorld",
-    "flair": "",
-    "domain": "fr.wikipedia.org",
-    "selftext": "",
-    "reddit_thumbnail": "https://b.thumbs.redditmedia.com/fuj3M0brPT3hYkngfh7rHoXl4XCWfAAHjesxl3yId8E.jpg",
-    "ingested_at": "2026-11-01T09:37:54.451289+00:00",
-    "summary": "Pour mémoire, il est arrivé plusieurs fois ces dernières années que soient mis au jour des comptes utilisateur appartenant à des agences de communication : Ces différentes séries de compte ont été croisées à plusieurs reprises durant les présentes investigations.",
-    "thumbnail": "thumbnails/gs1edp.webp",
-    "tags": [
-      "Wikipédia",
-      "AJA",
-      "BCW"
-    ],
-    "analyzed_at": "2026-11-01T09:40:17.767904+00:00"
   },
   {
     "id": "grov82",
@@ -354,11 +237,7 @@
     "summary": "Le présentateur de la matinale de RMC s'est vu retirer son permis de conduire après un gros excès de vitesse dimanche dernier dans le Cantal. Il a également été verbalisé pour non-respect de la limite des 100 km instaurée lors du plan de déconfinement.",
     "thumbnail": "thumbnails/grov82.webp",
     "tags": [
-      "RMC",
-      "Jean-Jacques Bourdin",
-      "A75",
-      "Saint-Flour",
-      "Autoroutes – Péages"
+      "Médias"
     ],
     "analyzed_at": "2026-11-01T09:40:14.233617+00:00"
   },
@@ -380,9 +259,7 @@
     "summary": "Le gouvernement français a abrogé mercredi les dispositions autorisant la prescription de l'hydroxychloroquine contre le Covid-19 à l'hôpital, hors essais cliniques. Une décision prise à la suite d'un…",
     "thumbnail": "thumbnails/grfp64.webp",
     "tags": [
-      "Covid-19",
-      "Chloroquine",
-      "Coronavirus"
+      "Covid-19"
     ],
     "analyzed_at": "2026-11-01T09:40:13.965858+00:00"
   },
@@ -404,10 +281,8 @@
     "summary": "Avec cette nouvelle condamnation à de la prison ferme, ce mercredi matin, c'est la fin d'un long parcours judiciaire pour Patrick et Isabelle Balkany. Les époux, anciens maires et adjointes de Levallois-Perret, ont...",
     "thumbnail": "thumbnails/grf8tn.webp",
     "tags": [
-      "Isabelle Balkany",
-      "Levallois-Perret",
-      "Patrick et Isabelle Balkany",
-      "Balkany"
+      "Patrick Balkany",
+      "Justice"
     ],
     "analyzed_at": "2026-11-01T09:40:14.375522+00:00"
   },
@@ -429,9 +304,7 @@
     "summary": "La journaliste de Mediapart Pascale Pascariello, qui avait permis de démontrer les mensonges du président de la République dans une affaire de violences policières, a été entendue comme suspecte, mar…",
     "thumbnail": "thumbnails/gr2urg.webp",
     "tags": [
-      "Affaire Legay",
-      "Mediapart Pascale Pascariello",
-      "République"
+      "Police"
     ],
     "analyzed_at": "2026-11-01T09:40:15.125686+00:00"
   },
@@ -453,11 +326,7 @@
     "summary": "Le Costa Rica devient de fait le 29e pays au monde à autoriser le mariage entre conjoints de même sexe.",
     "thumbnail": "thumbnails/gr0cs5.webp",
     "tags": [
-      "Costa Rica",
-      "Amérique",
-      "LGBT",
-      "Cour",
-      "Société"
+      "LGBT+"
     ],
     "analyzed_at": "2026-11-01T09:40:14.602601+00:00"
   },
@@ -479,9 +348,9 @@
     "summary": "",
     "thumbnail": "thumbnails/gqwex4.webp",
     "tags": [
-      "Stéphane Trompille",
-      "LREM",
-      "Soft paywall"
+      "Justice",
+      "Violences sexuelles",
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T09:40:17.156889+00:00"
   },
@@ -503,31 +372,9 @@
     "summary": "",
     "thumbnail": "thumbnails/gqvkop.webp",
     "tags": [
-      "Etat"
+      "Travail"
     ],
     "analyzed_at": "2026-11-01T09:40:14.740106+00:00"
-  },
-  {
-    "id": "gqsliw",
-    "title": "Framasoft lance son crowfunding pour la V3 de peertube, la feuille de route disponible !",
-    "url": "https://joinpeertube.org/roadmap",
-    "permalink": "/r/france/comments/gqsliw/framasoft_lance_son_crowfunding_pour_la_v3_de/",
-    "created_at": "2020-05-26T07:40:49+00:00",
-    "score": 191,
-    "num_comments": 39,
-    "subreddit": "france",
-    "author": "Zeiko-Fr",
-    "flair": "Actus",
-    "domain": "joinpeertube.org",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/EH2OKJVz-ec_6l8OGFc9jO9OcTwPnQvUrAxYp1ugvD0.jpg?auto=webp&s=5d2658d6c8cedba6a017047cef317cef91ee9606",
-    "ingested_at": "2026-11-01T09:37:54.451209+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/gqsliw.webp",
-    "tags": [
-      "V3"
-    ],
-    "analyzed_at": "2026-11-01T09:40:17.021417+00:00"
   },
   {
     "id": "gqi6s5",
@@ -547,112 +394,9 @@
     "summary": "Elle est allée à Paris pour la deuxième fois afin de manifester avec les Gilets jaunes. Grièvement blessée au visage par un tir de LBD40, Vanessa Langard, 36 ans, raconte sa mutilation dans le documentaire “Ma blessure d’âge adulte”, disponible sur France.tv.",
     "thumbnail": "thumbnails/gqi6s5.webp",
     "tags": [
-      "Vanessa Langard",
-      "Paris",
-      "Gilets",
-      "LBD40",
-      "Politique"
+      "Police"
     ],
     "analyzed_at": "2026-11-01T09:40:14.919272+00:00"
-  },
-  {
-    "id": "gq8grc",
-    "title": "La France dans le top 10 de la transition... grâce au nucléaire",
-    "url": "https://www.transitionsenergies.com/france-top-10-transition-grace-nucleaire/",
-    "permalink": "/r/france/comments/gq8grc/la_france_dans_le_top_10_de_la_transition_grâce/",
-    "created_at": "2020-05-25T10:09:49+00:00",
-    "score": 162,
-    "num_comments": 138,
-    "subreddit": "france",
-    "author": "C_kloug",
-    "flair": "Écologie",
-    "domain": "transitionsenergies.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/23kCCUbnVAQwkfiJt9VL4x9VC4t_Xs6xHzH7WIl9Big.jpeg?auto=webp&s=cbf167188cf05679b0943f136da37b5305dbc7fb",
-    "ingested_at": "2026-11-01T09:37:54.451523+00:00",
-    "summary": "La publication d'un article mettant en avant le fait que la France était le quatrième pays le plus vert selon un classement de la MIT Technology review ayant provoqué une polémique, nous republions un article de 2020 sur un classement tout aussi flatteur de la France par le World Economic Forum.",
-    "thumbnail": "thumbnails/gq8grc.webp",
-    "tags": [
-      "MIT Technology",
-      "World Economic Forum",
-      "CO2",
-      "Écologie"
-    ],
-    "analyzed_at": "2026-11-01T09:40:14.983478+00:00"
-  },
-  {
-    "id": "gpxs0m",
-    "title": "Thread by @franceinfoplus: \"Un crime\", \"c'est urgent\", \"les gens meurent\"... Quand les politiques défendaient l'usage de la chloroquine pour lutter contre le Covid-19.…",
-    "url": "https://threadreaderapp.com/thread/1264558908829466631.html",
-    "permalink": "/r/france/comments/gpxs0m/thread_by_franceinfoplus_un_crime_cest_urgent_les/",
-    "created_at": "2020-05-24T21:27:22+00:00",
-    "score": 173,
-    "num_comments": 104,
-    "subreddit": "france",
-    "author": "[deleted]",
-    "flair": "COVID-19",
-    "domain": "threadreaderapp.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/MKVrBDhpTY5VlfhtniLPs8Nsg7ji2haLdXxh42uMaZk.jpeg?auto=webp&s=1d19d9c664a746505306aa9f7b15361aad5dc3de",
-    "ingested_at": "2026-11-01T09:37:54.451414+00:00",
-    "summary": "Thread by @franceinfoplus: \"Un crime\", \"c'est urgent\", \"les gens meurent\"... Quand les politiques dÃ©fendaient l'usage de la chloroquine pour e le Covid-19. Bruno Retailleau, prÃ©sident du groupe LR au SÃ©nat, sur Europe 1, le 22 mars 2020. AFP Donald Trumpâ¦",
-    "thumbnail": "thumbnails/gpxs0m.webp",
-    "tags": [
-      "Covid-19",
-      "Bruno Retailleau",
-      "LR",
-      "SÃ",
-      "Europe 1"
-    ],
-    "analyzed_at": "2026-11-01T09:40:17.257107+00:00"
-  },
-  {
-    "id": "gpsabk",
-    "title": "Ségolène Royal supprime tous ses tweets liés à la chloroquine, désormais sur la sellette",
-    "url": "https://www.gala.fr/l_actu/news_de_stars/segolene-royal-supprime-tous-ses-tweets-lies-a-la-chloroquine-desormais-sur-la-sellette_448825",
-    "permalink": "/r/france/comments/gpsabk/ségolène_royal_supprime_tous_ses_tweets_liés_à_la/",
-    "created_at": "2020-05-24T16:09:49+00:00",
-    "score": 565,
-    "num_comments": 117,
-    "subreddit": "france",
-    "author": "GrenobleLyon",
-    "flair": "Covid-19",
-    "domain": "gala.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/Mi2bc0fDu9NqTBZI_cgqveuK5VrbWswwQ92h2DgZCZg.jpeg?auto=webp&s=ead7168ff8b0757ff74cebb5f80d7536610b9cd0",
-    "ingested_at": "2026-11-01T09:37:54.450015+00:00",
-    "summary": "Alors que l'utilisation de la chloroquine pour soigner le coronavirus a été remise en cause dans une vaste étude médicale, Ségolène Royal a discrètement supprimé ses tweets dans lequel elle demandait que le gouvernement autorise ce traitement au plus vite.",
-    "thumbnail": "thumbnails/gpsabk.webp",
-    "tags": [
-      "Ségolène Royal",
-      "Didier Raoult",
-      "Polémique",
-      "Covid-19"
-    ],
-    "analyzed_at": "2026-11-01T09:40:15.809587+00:00"
-  },
-  {
-    "id": "gpcbgt",
-    "title": "Admirez: \"l'Enfer\", un ancien cabaret de montmartre fondé en 1892 puis démoli en 1950 afin d'agrandir un Monoprix.",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Cabaret_de_L%27Enfer_customers.jpg",
-    "permalink": "/r/france/comments/gpcbgt/admirez_lenfer_un_ancien_cabaret_de_montmartre/",
-    "created_at": "2020-05-23T20:46:24+00:00",
-    "score": 378,
-    "num_comments": 29,
-    "subreddit": "france",
-    "author": "byParallax",
-    "flair": "Culture",
-    "domain": "upload.wikimedia.org",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/Cca0MiNvU0XWQtMobcyYyU7TMx8piAbGjt65RGBn9eE.jpg?auto=webp&s=77280913b566c0c5e8f452552b3169e720819a68",
-    "ingested_at": "2026-11-01T09:37:54.450202+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/gpcbgt.webp",
-    "tags": [
-      "Monoprix",
-      "Culture"
-    ],
-    "analyzed_at": "2026-11-01T09:40:15.830442+00:00"
   },
   {
     "id": "gp6wvf",
@@ -673,10 +417,7 @@
     "thumbnail": "thumbnails/gp6wvf.webp",
     "tags": [
       "Covid-19",
-      "Olivier Véran",
-      "HCQ",
-      "Covid",
-      "Maladie"
+      "Olivier Véran"
     ],
     "analyzed_at": "2026-11-01T09:40:15.579583+00:00"
   },
@@ -697,7 +438,9 @@
     "ingested_at": "2026-11-01T09:37:54.450898+00:00",
     "summary": "",
     "thumbnail": "thumbnails/gosj94.webp",
-    "tags": [],
+    "tags": [
+      "Police"
+    ],
     "analyzed_at": "2026-11-01T09:40:17.200704+00:00"
   },
   {
@@ -717,12 +460,7 @@
     "ingested_at": "2026-11-01T09:37:54.450653+00:00",
     "summary": "Cette rétention pourra être suivie d'une suspension du permis de conduire pour une durée maximale de six mois, annonce la Sécurité routière.",
     "thumbnail": "thumbnails/gokfc1.webp",
-    "tags": [
-      "Sécurité",
-      "Sécurité routière",
-      "Transports",
-      "Éco / Conso"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:40:16.448206+00:00"
   },
   {
@@ -743,9 +481,7 @@
     "summary": "Inès Léraud a enquêté sur l’agroalimentaire en Bretagne, ses impacts sociaux et environnementaux, mais aussi sur les méthodes de certaines entreprises. L'une d'elles l'attaque en diffamation. Un collectif lance une pétition...",
     "thumbnail": "thumbnails/gof73u.webp",
     "tags": [
-      "Inès Léraud",
-      "Bretagne",
-      "Société"
+      "Justice"
     ],
     "analyzed_at": "2026-11-01T09:40:16.371614+00:00"
   },
@@ -767,11 +503,7 @@
     "summary": "Avec le coronavirus, universitÃ©s et Ã©coles sont obligÃ©es de repenser l'organisation de leurs examens. Ã HEC, on a optÃ© pour des examens Ã domicile, avec un systÃ¨me de surveillance que les Ã©tudiants estiment intrusif.",
     "thumbnail": "thumbnails/gnv8i8.webp",
     "tags": [
-      "HEC",
-      "Enseignement",
-      "Ã HEC",
-      "Proctorio",
-      "Société"
+      "Éducation"
     ],
     "analyzed_at": "2026-11-01T09:40:20.874372+00:00"
   },
@@ -792,13 +524,7 @@
     "ingested_at": "2026-11-01T09:37:54.451908+00:00",
     "summary": "Bénin, Burkina Faso, Côte d'Ivoire, Guinée-Bissau, Mali, Niger, Sénégal et Togo n’ont plus comme monnaie ce «vestige de la Françafrique».",
     "thumbnail": "thumbnails/gnkskp.webp",
-    "tags": [
-      "CFA",
-      "Afrique de Ouest",
-      "Burkina Faso",
-      "Côte Ivoire",
-      "Soft paywall"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:40:16.906289+00:00"
   },
   {
@@ -818,11 +544,7 @@
     "ingested_at": "2026-11-01T09:37:54.451033+00:00",
     "summary": "Mise à jour, 20 mai 20h : Avec le recul de l'analyse juridique minutieuse - incompatible avec la pression de l'urgence médiatique - cette décision pourrait constituer une victoire nettement plus modeste. La censure prononcée par le Conseil constitutionnel nous a conduit à penser, dans le feu de",
     "thumbnail": "thumbnails/gnc2u2.webp",
-    "tags": [
-      "HADOPI",
-      "Quadrature du Net",
-      "Conseil"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:40:17.897774+00:00"
   },
   {
@@ -842,11 +564,7 @@
     "ingested_at": "2026-11-01T09:37:54.450604+00:00",
     "summary": "Une victoire pour les associations qui dénonçaient depuis plusieurs années la nocivité de ces cigarettes crées dans les années 70-80 pour séduire une clientèle féminine et jeune.",
     "thumbnail": "thumbnails/gn5v59.webp",
-    "tags": [
-      "Europe",
-      "Hervé Martini",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:40:18.189668+00:00"
   },
   {
@@ -867,10 +585,8 @@
     "summary": "INVITÉE RTL - L'impôt de solidarité sur la fortune, supprimé en 2018, est un impôt \"raisonnable\", selon l'économiste.",
     "thumbnail": "thumbnails/gmljiz.webp",
     "tags": [
-      "ISF",
-      "Nobel Économie Esther Duflo",
-      "Coronavirus",
-      "Impôts",
+      "Budget et fiscalité",
+      "Covid-19",
       "Économie"
     ],
     "analyzed_at": "2026-11-01T09:40:17.635445+00:00"
@@ -892,10 +608,7 @@
     "ingested_at": "2026-11-01T09:37:54.451383+00:00",
     "summary": "",
     "thumbnail": "thumbnails/gmjt37.webp",
-    "tags": [
-      "LREM",
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:40:19.249034+00:00"
   },
   {
@@ -917,7 +630,6 @@
     "thumbnail": "thumbnails/gmj1ao.webp",
     "tags": [
       "Emmanuel Macron",
-      "Politique",
       "Covid-19"
     ],
     "analyzed_at": "2026-11-01T09:40:17.886889+00:00"
@@ -940,11 +652,7 @@
     "summary": "De nouveaux cas ont été enregistrés dans la province de Jilin, au nord-est de la Chine, poussant les autorités à instaurer une nouvelle quarantaine.",
     "thumbnail": "thumbnails/gm330j.webp",
     "tags": [
-      "Chine",
-      "Covid-19",
-      "Jilin",
-      "Asie - Pacifique",
-      "Santé"
+      "Covid-19"
     ],
     "analyzed_at": "2026-11-01T09:40:18.455089+00:00"
   },
@@ -966,11 +674,7 @@
     "summary": "INFO BFMTV - Une avocate a annoncé auprès de notre antenne ce lundi matin qu'elle avait été chargée par plusieurs anciens collaborateurs parlementaires de la députée de La République en marche Laetitia Avia de déposer plainte en leur nom contre la femme politique.",
     "thumbnail": "thumbnails/glz13z.webp",
     "tags": [
-      "Affaire Laetitia Avia",
-      "Laetitia Avia",
-      "République",
-      "BFMTV",
-      "Politique"
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T09:40:18.046229+00:00"
   },
@@ -992,7 +696,7 @@
     "summary": "Le 31 mars 2020 disparaîtra l'étiquetage mentionnant l'origine des viandes et du lait dans les produits transformés. C'était une dérogation obtenue par les acteurs des filières auprès de Bruxelles. Ces derniers ne souhaitent...",
     "thumbnail": "thumbnails/glims3.webp",
     "tags": [
-      "Bruxelles"
+      "Union européenne"
     ],
     "analyzed_at": "2026-11-01T09:40:18.394745+00:00"
   },
@@ -1014,9 +718,7 @@
     "summary": "Depuis le début de l'épidémie, plusieurs pays et certaines communes françaises comme Nice ont eu recours à cette technique controversée.",
     "thumbnail": "thumbnails/glbt3h.webp",
     "tags": [
-      "OMS",
-      "Covid-19",
-      "Nice"
+      "Covid-19"
     ],
     "analyzed_at": "2026-11-01T09:40:18.396609+00:00"
   },
@@ -1037,10 +739,7 @@
     "ingested_at": "2026-11-01T09:37:54.451740+00:00",
     "summary": "",
     "thumbnail": "thumbnails/gkzm4p.webp",
-    "tags": [
-      "Félicien Kabuga",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:40:18.406523+00:00"
   },
   {
@@ -1062,32 +761,10 @@
     "thumbnail": "thumbnails/gkt5ng.webp",
     "tags": [
       "Emmanuel Macron",
-      "Pitié-Salpêtrière",
+      "Santé",
       "Covid-19"
     ],
     "analyzed_at": "2026-11-01T09:40:18.801620+00:00"
-  },
-  {
-    "id": "gkcumd",
-    "title": "Le nouveau nucléaire doit faire partie du plan de relance de l'économie française - SFEN",
-    "url": "https://new.sfen.org/avis/le-nouveau-nucleaire-doit-faire-partie-du-plan-de-relance-de-leconomie-francaise/",
-    "permalink": "/r/france/comments/gkcumd/le_nouveau_nucléaire_doit_faire_partie_du_plan_de/",
-    "created_at": "2020-05-15T16:55:24+00:00",
-    "score": 137,
-    "num_comments": 185,
-    "subreddit": "france",
-    "author": "233C",
-    "flair": "",
-    "domain": "new.sfen.org",
-    "selftext": "",
-    "reddit_thumbnail": "https://b.thumbs.redditmedia.com/lxmubl7dQnD0aN4-LWNd0reXlLS173ojB5nCC9vEhmk.jpg",
-    "ingested_at": "2026-11-01T09:37:54.451634+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/gkcumd.webp",
-    "tags": [
-      "SFEN"
-    ],
-    "analyzed_at": "2026-11-01T09:40:19.459322+00:00"
   },
   {
     "id": "gk537x",
@@ -1108,31 +785,9 @@
     "thumbnail": "thumbnails/gk537x.webp",
     "tags": [
       "Elon Musk",
-      "Tesla"
+      "Covid-19"
     ],
     "analyzed_at": "2026-11-01T09:40:18.859171+00:00"
-  },
-  {
-    "id": "gjhsdf",
-    "title": "Une personne montre que 5 personnes contrôlent 92 subreddits des 500 sub les plus populaires - puis se fait censurer",
-    "url": "https://np.reddit.com/r/interestingasfuck/comments/gitwbo/pointing_out_how_much_power_few_people_have_gets/",
-    "permalink": "/r/france/comments/gjhsdf/une_personne_montre_que_5_personnes_contrôlent_92/",
-    "created_at": "2020-05-14T07:45:30+00:00",
-    "score": 729,
-    "num_comments": 201,
-    "subreddit": "france",
-    "author": "diffperception",
-    "flair": "Méta",
-    "domain": "np.reddit.com",
-    "selftext": "",
-    "reddit_thumbnail": "",
-    "ingested_at": "2026-11-01T09:37:54.449927+00:00",
-    "summary": "",
-    "thumbnail": "",
-    "tags": [
-      "Méta"
-    ],
-    "analyzed_at": "2026-11-01T09:40:18.495759+00:00"
   },
   {
     "id": "gjgyib",
@@ -1151,13 +806,7 @@
     "ingested_at": "2026-11-01T09:37:54.450361+00:00",
     "summary": "Trois anciens collaborateurs de la députée LaREM Laetitia Avia confirment auprès de BFMTV les témoignages l'accusant de racisme, d'homophobie ou encore d'humiliations, publiés mardi par Mediapart. Ils dénoncent également la non-réaction des autorités de l'Assemblée nationale, que certains disent...",
     "thumbnail": "thumbnails/gjgyib.webp",
-    "tags": [
-      "Assemblée",
-      "Laetitia Avia",
-      "Mediapart",
-      "BFMTV",
-      "LaREM Laetitia Avia"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:40:18.689871+00:00"
   },
   {
@@ -1178,11 +827,8 @@
     "summary": "Pour le docteur Olivier Milleron, membre du collectif Inter-hôpitaux, ces annonces sont une provocation. \"On demande une revalorisation des salaires, on ne veut pas de prime. Emmanuel Macron s'était engagé à ça, il doit le faire\".",
     "thumbnail": "thumbnails/gjfzrd.webp",
     "tags": [
-      "Emmanuel Macron",
       "Covid-19",
-      "Olivier Milleron",
-      "Hôpital",
-      "Déconfinement"
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T09:40:18.882638+00:00"
   },
@@ -1203,37 +849,8 @@
     "ingested_at": "2026-11-01T09:37:54.450978+00:00",
     "summary": "Porté par la députée LREM Laetitia Avia, le projet est jugé liberticide par ses détracteurs.",
     "thumbnail": "thumbnails/gj344v.webp",
-    "tags": [
-      "LREM Laetitia Avia",
-      "Conseil",
-      "Politique",
-      "LREM",
-      "La République en Marche"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:40:18.893673+00:00"
-  },
-  {
-    "id": "give87",
-    "title": "Une famille qui recueille des animaux, terrorisée par des chasseurs",
-    "url": "https://www.30millionsdamis.fr/actualites/article/18924-une-famille-qui-recueille-des-animaux-terrorisee-par-des-chasseurs/",
-    "permalink": "/r/france/comments/give87/une_famille_qui_recueille_des_animaux_terrorisée/",
-    "created_at": "2020-05-13T09:01:35+00:00",
-    "score": 191,
-    "num_comments": 159,
-    "subreddit": "france",
-    "author": "Niafron",
-    "flair": "Actus",
-    "domain": "30millionsdamis.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/qFo7EQd2QTNSufoRZGOpAqcKppyfSUSVJLA4P0-zfRU.jpeg?auto=webp&s=f128bd33f96c02475efc80c461c50c3710f11c4f",
-    "ingested_at": "2026-11-01T09:37:54.451186+00:00",
-    "summary": "Un couple de trentenaires qui s'occupe d'animaux sur un terrain classé \"refuge LPO\" affirme avoir subi des violences aggravées, violation de domicile et harcèlement de la part d’un « clan de chasseurs ». Après des menaces sur leur...",
-    "thumbnail": "thumbnails/give87.webp",
-    "tags": [
-      "Nathalia",
-      "LPO"
-    ],
-    "analyzed_at": "2026-11-01T09:40:19.886087+00:00"
   },
   {
     "id": "giswpz",
@@ -1252,36 +869,8 @@
     "ingested_at": "2026-11-01T09:37:54.450082+00:00",
     "summary": "",
     "thumbnail": "thumbnails/giswpz.webp",
-    "tags": [
-      "Chine",
-      "Taïwan",
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:40:21.715312+00:00"
-  },
-  {
-    "id": "gic19u",
-    "title": "Thread by @CabaneARatons : J'ai eu aujourd'hui la pire journée de ma vie professionnelle #Deconfinementjour1",
-    "url": "https://threadreaderapp.com/thread/1259948305599082496.html",
-    "permalink": "/r/france/comments/gic19u/thread_by_cabanearatons_jai_eu_aujourdhui_la_pire/",
-    "created_at": "2020-05-12T14:16:34+00:00",
-    "score": 289,
-    "num_comments": 228,
-    "subreddit": "france",
-    "author": "Poglosaurus",
-    "flair": "Société",
-    "domain": "threadreaderapp.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/AfOCSJjK0oEJny_FNLsK0T4_McTrIjE9BGRzSvqkJzw.jpg?auto=webp&s=783ab2d8ed6755f5443f9c4b2f35d71d6e593f8e",
-    "ingested_at": "2026-11-01T09:37:54.450477+00:00",
-    "summary": "Thread by @CabaneARatons: #Deconfinementjour1 J'ai eu aujourd'hui la pire journÃ©e de ma vie professionnelle. Si vous avez Ã©tÃ© un des gens querire dans ce thread, allez vous faire tondre. Depuis quelques mois, je travaille dans l'atelier d'un magasin d'unâ¦",
-    "thumbnail": "thumbnails/gic19u.webp",
-    "tags": [
-      "CabaneARatons",
-      "Deconfinementjour1",
-      "Société"
-    ],
-    "analyzed_at": "2026-11-01T09:40:21.412785+00:00"
   },
   {
     "id": "gi4kun",
@@ -1300,58 +889,8 @@
     "ingested_at": "2026-11-01T09:37:54.451849+00:00",
     "summary": "",
     "thumbnail": "thumbnails/gi4kun.webp",
-    "tags": [
-      "ARTE",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:40:22.687623+00:00"
-  },
-  {
-    "id": "ghklo5",
-    "title": "Mise à jour Coronavirus 11-05-2020",
-    "url": "https://plague20.blogspot.com/2020/05/updates-11-05-2020-jour-du.html?m=1",
-    "permalink": "/r/france/comments/ghklo5/mise_à_jour_coronavirus_11052020/",
-    "created_at": "2020-05-11T09:47:36+00:00",
-    "score": 221,
-    "num_comments": 182,
-    "subreddit": "france",
-    "author": "Knowonething",
-    "flair": "COVID-19",
-    "domain": "plague20.blogspot.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/zFBJMGKYd056_fkVHpSmtK4bM_83rdSdD3c0b7yMHGY.jpeg?auto=webp&s=1951d2365940eb2c48092d3940c1de20bf8fda6a",
-    "ingested_at": "2026-11-01T09:37:54.450841+00:00",
-    "summary": "Mise à jour à 10h30: 4 194 833 cas et 284 022 décès. Mise à jour à 21h22: 4 234 821 cas et 285 913 décès. Aujourd'hui France C'est j...",
-    "thumbnail": "thumbnails/ghklo5.webp",
-    "tags": [
-      "Coronavirus",
-      "Aujourd'hui France",
-      "COVID-19"
-    ],
-    "analyzed_at": "2026-11-01T09:40:20.409269+00:00"
-  },
-  {
-    "id": "ghitep",
-    "title": "Le monde d'après",
-    "url": "http://www.noelshack.com/2020-20-1-1589173561-image0-png.jpeg",
-    "permalink": "/r/france/comments/ghitep/le_monde_daprès/",
-    "created_at": "2020-05-11T07:11:58+00:00",
-    "score": 2903,
-    "num_comments": 422,
-    "subreddit": "france",
-    "author": "Rep_That_West",
-    "flair": "Société",
-    "domain": "noelshack.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/XSUW1HQoLJQsQKQC0PJtzlSzNsHx59rPqviUCPr8Pbw.jpg?auto=webp&s=e7f7edc8918be2ec9e293dbea3089a58ac1ec833",
-    "ingested_at": "2026-11-01T09:37:54.449784+00:00",
-    "summary": "Vous avez des images? Envoyez-les et partagez-les super rapidement avec NoelShack!",
-    "thumbnail": "thumbnails/ghitep.webp",
-    "tags": [
-      "NoelShack",
-      "Société"
-    ],
-    "analyzed_at": "2026-11-01T09:40:19.632169+00:00"
   },
   {
     "id": "ggx7ky",
@@ -1371,11 +910,7 @@
     "summary": "Technologie : Cette tendance ressort des données sur le rythme de travail issues de 40 000 comptes d'organisations payants sur GitHub.",
     "thumbnail": "thumbnails/ggx7ky.webp",
     "tags": [
-      "GitHub",
-      "Covid-19",
-      "Microsoft",
-      "Développement informatique",
-      "Technologie"
+      "Covid-19"
     ],
     "analyzed_at": "2026-11-01T09:40:19.697477+00:00"
   },
@@ -1397,35 +932,9 @@
     "summary": "Karine Granger, coiffeuse à Clichy-la-Garenne, dans les Hauts-de-Seine, a décidé d'ouvrir son salon de coiffure ce lundi à 00h01.",
     "thumbnail": "thumbnails/ggx6ct.webp",
     "tags": [
-      "Hauts-de-Seine",
-      "Karine Granger",
-      "Clichy-la-Garenne",
       "Covid-19"
     ],
     "analyzed_at": "2026-11-01T09:40:19.980873+00:00"
-  },
-  {
-    "id": "ggi5kc",
-    "title": "François Asselineau accusé de harcèlement sexuel : «Je lui dis d’arrêter, mais ça le fait marrer»",
-    "url": "https://www.msn.com/fr-ch/actualite/monde/fran%C3%A7ois-asselineau-accus%C3%A9-de-harc%C3%A8lement-sexuel-%C2%ABje-lui-dis-darr%C3%AAter-mais-%C3%A7a-le-fait-marrer%C2%BB/ar-BB13Pwre?li=BBqiMbH",
-    "permalink": "/r/france/comments/ggi5kc/françois_asselineau_accusé_de_harcèlement_sexuel/",
-    "created_at": "2020-05-09T16:12:37+00:00",
-    "score": 119,
-    "num_comments": 134,
-    "subreddit": "france",
-    "author": "BPlastik",
-    "flair": "Société",
-    "domain": "msn.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://a.thumbs.redditmedia.com/82ZQomixI-NMdKjJX4FAjyQXSnqSZnASwGVH3dkm8t8.jpg",
-    "ingested_at": "2026-11-01T09:37:54.451815+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/ggi5kc.webp",
-    "tags": [
-      "François Asselineau",
-      "Société"
-    ],
-    "analyzed_at": "2026-11-01T09:40:19.899701+00:00"
   },
   {
     "id": "ggafec",
@@ -1445,7 +954,7 @@
     "summary": "Les sénateurs socialistes avaient fait rajouter un article à la loi sur l'état d'urgence sanitaire afin d'exonérer les plus modestes des commissions bancaires pendant le confinement. L'exécutif a réclamé la suppression de cet ajout.",
     "thumbnail": "thumbnails/ggafec.webp",
     "tags": [
-      "Sénat"
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T09:40:20.461635+00:00"
   },
@@ -1467,36 +976,10 @@
     "summary": "Why the French aren’t cutting Macron any slack over his response to the epidemic.",
     "thumbnail": "thumbnails/gfv14v.webp",
     "tags": [
-      "French",
-      "Macron",
-      "Emmanuel Macron",
-      "French politics",
-      "COVID-19"
+      "Covid-19",
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T09:40:20.681816+00:00"
-  },
-  {
-    "id": "gfq9g5",
-    "title": "Mise à jour Coronavirus 08-05-2020",
-    "url": "https://plague20.blogspot.com/2020/05/updates-08-05-2020.html?m=1",
-    "permalink": "/r/france/comments/gfq9g5/mise_à_jour_coronavirus_08052020/",
-    "created_at": "2020-05-08T09:52:00+00:00",
-    "score": 236,
-    "num_comments": 53,
-    "subreddit": "france",
-    "author": "Knowonething",
-    "flair": "COVID-19",
-    "domain": "plague20.blogspot.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/U-a6OgFB5Y3NOMXaPU3-aJv9CoM6SxWnsWQBaGGydR8.jpg?auto=webp&s=45588e176920b71ac505e2ccefe429bf8d585ba8",
-    "ingested_at": "2026-11-01T09:37:54.450679+00:00",
-    "summary": "Mise à jour à 10h15: 3 918 898 cas et 270 770 décès officiels. Mise à jour à 17h45: 3 954 252 cas et 271 975 décès officiels. Mise à jour...",
-    "thumbnail": "thumbnails/gfq9g5.webp",
-    "tags": [
-      "Coronavirus",
-      "COVID-19"
-    ],
-    "analyzed_at": "2026-11-01T09:40:21.208258+00:00"
   },
   {
     "id": "gffd6k",
@@ -1516,7 +999,8 @@
     "summary": "Nous avons authentifié quinze vidéos qui témoignent d’un usage de la force illégal de certains membres des forces de l’ordre pendant le confinement.",
     "thumbnail": "thumbnails/gffd6k.webp",
     "tags": [
-      "Société"
+      "Police",
+      "Covid-19"
     ],
     "analyzed_at": "2026-11-01T09:40:21.282990+00:00"
   },
@@ -1538,11 +1022,7 @@
     "summary": "Premier pays à avoir lancé le pistage du virus par smartphone de manière volontaire, Singapour lance un nouveau service liberticide, baptisé SafeEntry. La Suisse peut en tirer des leçons",
     "thumbnail": "thumbnails/gfch65.webp",
     "tags": [
-      "Singapour",
-      "Suisse",
-      "SafeEntry",
-      "TraceTogether",
-      "Singapouriens"
+      "Libertés publiques"
     ],
     "analyzed_at": "2026-11-01T09:40:21.371601+00:00"
   },
@@ -1563,38 +1043,8 @@
     "ingested_at": "2026-11-01T09:37:54.451549+00:00",
     "summary": "",
     "thumbnail": "thumbnails/geo8sa.webp",
-    "tags": [
-      "Florian Schneider",
-      "Kraftwerk",
-      "Culture"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:40:21.941992+00:00"
-  },
-  {
-    "id": "gem161",
-    "title": "Décision de la Cour d'Appel de Paris condamnant ISOSET (Le Village de l'Emploi) à verser 7000€ de dommages et intérêts pour préjudice financier et moral à une de ses anciennes stagiaires",
-    "url": "https://www.doctrine.fr/d/CA/Paris/2017/C89AB66D8D376FAEE9B31",
-    "permalink": "/r/france/comments/gem161/décision_de_la_cour_dappel_de_paris_condamnant/",
-    "created_at": "2020-05-06T15:22:11+00:00",
-    "score": 999,
-    "num_comments": 68,
-    "subreddit": "france",
-    "author": "canarti-froid",
-    "flair": "",
-    "domain": "doctrine.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/04zD5uIzwUqE1YDbVUvrP54gkeQ25X4KPZHravC0maw.png?auto=webp&s=b554a7e1dddd8ae4e095fe6888481611662cf3b6",
-    "ingested_at": "2026-11-01T09:37:54.449868+00:00",
-    "summary": "Grosses délivrées RÉPUBLIQUE FRANÇAISE aux parties le : AU NOM DU PEUPLE FRANÇAIS COUR D’APPEL DE PARIS Pôle 2 – Chambre 2 ARRÊT DU 02 NOVEMBRE 2017 (n°2017- , 6 pages) Numéro d’inscription au répertoire général : 16/04068 Décision déférée à la Cour…",
-    "thumbnail": "thumbnails/gem161.webp",
-    "tags": [
-      "Iso Set",
-      "Cour Appel de Paris",
-      "ISOSET",
-      "Village de Emploi",
-      "RÉPUBLIQUE FRANÇAISE"
-    ],
-    "analyzed_at": "2026-11-01T09:40:21.415115+00:00"
   },
   {
     "id": "gdz6i8",
@@ -1636,60 +1086,9 @@
     "summary": "En expliquant maladroitement son refus de rouvrir les églises, le ministre de l'Intérieur a jeté un froid avec les fidèles catholiques.",
     "thumbnail": "thumbnails/gdttug.webp",
     "tags": [
-      "Christophe Castaner",
-      "Coronavirus",
-      "Intérieur",
-      "Société"
+      "Christophe Castaner"
     ],
     "analyzed_at": "2026-11-01T09:40:22.690887+00:00"
-  },
-  {
-    "id": "gdkzqf",
-    "title": "Dérives sectaires inquiétantes sur Youtube",
-    "url": "https://threadreaderapp.com/thread/1257303477874683904.html",
-    "permalink": "/r/france/comments/gdkzqf/dérives_sectaires_inquiétantes_sur_youtube/",
-    "created_at": "2020-05-04T21:51:42+00:00",
-    "score": 392,
-    "num_comments": 239,
-    "subreddit": "france",
-    "author": "[deleted]",
-    "flair": "",
-    "domain": "threadreaderapp.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/MSWwXqywP0Px_pREcRYpPRmbjCT9-jtSHHyxqZqfr8w.jpeg?auto=webp&s=7995e44a9154a30070e263d09467ed176d30cc45",
-    "ingested_at": "2026-11-01T09:37:54.450142+00:00",
-    "summary": "Thread by @l_extracteur: Demain, un direct rÃ©unissant complotisme et pseudosciences aura lieu sur Youtube : Casasnovas, Schaller, Trotta et COn pourrait y voir une occasion de sâen amuser. Mais moi Ã§a ne me fait plus rire du tout. Ãa me fait trÃ¨s peur auâ¦",
-    "thumbnail": "thumbnails/gdkzqf.webp",
-    "tags": [
-      "Youtube",
-      "COn"
-    ],
-    "analyzed_at": "2026-11-01T09:40:23.501613+00:00"
-  },
-  {
-    "id": "gdi28s",
-    "title": "Le monde de la paléontologie secoué par l’annonce de la découverte d’ADN de dinosaure",
-    "url": "https://sciencepost.fr/le-monde-de-la-paleontologie-secoue-par-lannonce-de-la-decouverte-dadn-de-dinosaure/",
-    "permalink": "/r/france/comments/gdi28s/le_monde_de_la_paléontologie_secoué_par_lannonce/",
-    "created_at": "2020-05-04T19:17:06+00:00",
-    "score": 324,
-    "num_comments": 73,
-    "subreddit": "france",
-    "author": "Exogalaxies",
-    "flair": "Science",
-    "domain": "sciencepost.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/wwWEA9Bm90vtmlgKhriv4aBtq_Vl3elLnZ56DeZM-jg.jpeg?auto=webp&s=4b78563493df6672a8c384b38d55490bdbb5f363",
-    "ingested_at": "2026-11-01T09:37:54.450312+00:00",
-    "summary": "Une étude le confirme : on aurait enfin retrouvé de l'ADN de dinosaure dans un crâne de bébé hadrosaure, retrouvé en 1988 aux États-Unis.",
-    "thumbnail": "thumbnails/gdi28s.webp",
-    "tags": [
-      "ADN",
-      "États-Unis",
-      "Alida Bailleul",
-      "Science"
-    ],
-    "analyzed_at": "2026-11-01T09:40:21.846123+00:00"
   },
   {
     "id": "gdenwp",
@@ -1708,10 +1107,7 @@
     "ingested_at": "2026-11-01T09:37:54.450525+00:00",
     "summary": "",
     "thumbnail": "thumbnails/gdenwp.webp",
-    "tags": [
-      "Al-Sissi",
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:40:22.838480+00:00"
   },
   {
@@ -1732,57 +1128,10 @@
     "summary": "Mise à jour du 5 mai à 21h : dans une première décision, le tribunal administratif de Paris rejette notre recours. Il n'aborde aucun de nos arguments, se contentant d'un débat hors-propos sur la présence ou non de données personnelles. La Quadrature du Net a décidé de faire appel pour obtenir dans l",
     "thumbnail": "thumbnails/gdbel1.webp",
     "tags": [
-      "Paris",
-      "LQDN",
-      "Quadrature du Net",
-      "Covid-19"
+      "Covid-19",
+      "Police"
     ],
     "analyzed_at": "2026-11-01T09:40:22.177856+00:00"
-  },
-  {
-    "id": "gcvcqx",
-    "title": "r/LateStageCapitalism : en échange de la création d'un compte fidélité sur intermarche.com on peut réserver un lot de 50 masques",
-    "url": "https://www.intermarche.com/enseigne/bons-plans/masques",
-    "permalink": "/r/france/comments/gcvcqx/rlatestagecapitalism_en_échange_de_la_création/",
-    "created_at": "2020-05-03T18:18:35+00:00",
-    "score": 250,
-    "num_comments": 135,
-    "subreddit": "france",
-    "author": "GrenobleLyon",
-    "flair": "Covid-19",
-    "domain": "intermarche.com",
-    "selftext": "",
-    "reddit_thumbnail": "",
-    "ingested_at": "2026-11-01T09:37:54.450629+00:00",
-    "summary": "",
-    "thumbnail": "",
-    "tags": [
-      "Covid-19"
-    ],
-    "analyzed_at": "2026-11-01T09:40:25.854989+00:00"
-  },
-  {
-    "id": "gcuqme",
-    "title": "La Boucle Verte, startup de collecte d'emballage recyclables, arrête ses activités et publie une réflexion sur l'ampleur du problème et le changement de perspective nécessaire [Février 2020]",
-    "url": "https://laboucleverte.fr/arret-dactivite/",
-    "permalink": "/r/france/comments/gcuqme/la_boucle_verte_startup_de_collecte_demballage/",
-    "created_at": "2020-05-03T17:43:35+00:00",
-    "score": 216,
-    "num_comments": 109,
-    "subreddit": "france",
-    "author": "rakoo",
-    "flair": "Écologie",
-    "domain": "laboucleverte.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/EvnVUQPYr-gg9tTMP-rX3Drw4-dLhUovW6hakfRybU4.jpg?auto=webp&s=cff25475a6dd20d67722641fa3b6a5a3b03283f8",
-    "ingested_at": "2026-11-01T09:37:54.450954+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/gcuqme.webp",
-    "tags": [
-      "Boucle Verte",
-      "Écologie"
-    ],
-    "analyzed_at": "2026-11-01T09:40:23.241526+00:00"
   },
   {
     "id": "gcsqua",
@@ -1801,102 +1150,10 @@
     "ingested_at": "2026-11-01T09:37:54.451241+00:00",
     "summary": "",
     "thumbnail": "thumbnails/gcsqua.webp",
-    "tags": [],
+    "tags": [
+      "Éducation"
+    ],
     "analyzed_at": "2026-11-01T09:40:22.370375+00:00"
-  },
-  {
-    "id": "gcsgwd",
-    "title": "Mise à jour Coronavirus 03-05-2020",
-    "url": "https://plague20.blogspot.com/2020/05/updates-03-05-2020.html?m=1",
-    "permalink": "/r/france/comments/gcsgwd/mise_à_jour_coronavirus_03052020/",
-    "created_at": "2020-05-03T15:29:23+00:00",
-    "score": 315,
-    "num_comments": 82,
-    "subreddit": "france",
-    "author": "Knowonething",
-    "flair": "COVID-19",
-    "domain": "plague20.blogspot.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/ZR29EhfkmzkTFq9r9kuhVVDv-PgHC_imqbnnfXoUxkY.jpg?auto=webp&s=817f8005a787cf5d8ca352563df2483725ce14be",
-    "ingested_at": "2026-11-01T09:37:54.450386+00:00",
-    "summary": "Mise à jour à 16h30: 3 508 820 cas et 245 290 décès. Il semble que finalement, l'origine de ce bazar n'est peut-être pas un gars qui a bou...",
-    "thumbnail": "thumbnails/gcsgwd.webp",
-    "tags": [
-      "Coronavirus",
-      "COVID-19"
-    ],
-    "analyzed_at": "2026-11-01T09:40:23.205944+00:00"
-  },
-  {
-    "id": "gcpuh8",
-    "title": "La désillusion d’une start-up de l’économie circulaire",
-    "url": "https://www.linkedin.com/pulse/la-d%C3%A9sillusion-dune-start-up-de-l%C3%A9conomie-circulaire-charles-dauzet/",
-    "permalink": "/r/france/comments/gcpuh8/la_désillusion_dune_startup_de_léconomie/",
-    "created_at": "2020-05-03T12:32:57+00:00",
-    "score": 196,
-    "num_comments": 149,
-    "subreddit": "france",
-    "author": "ledernierdescons",
-    "flair": "",
-    "domain": "linkedin.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/J-seNW_UkzWkLxy4F2IPHYYogNPYM-Ssl1kJSVzCiTI.jpeg?auto=webp&s=6f7280e24b6df6e08672c1e7cfd00202d864fdd3",
-    "ingested_at": "2026-11-01T09:37:54.451114+00:00",
-    "summary": "Annonce d’arrêt d’activité et bilan - La Boucle Verte En ce début février 2020, nous avons fait le choix de cesser définitivement notre activité d’économie circulaire portant sur la collecte innovante d’emballages. Après plus de 3 ans, nous n’avons pas su rendre notre entreprise pérenne et surtout,",
-    "thumbnail": "thumbnails/gcpuh8.webp",
-    "tags": [
-      "Boucle Verte"
-    ],
-    "analyzed_at": "2026-11-01T09:40:23.557258+00:00"
-  },
-  {
-    "id": "gcld62",
-    "title": "\"The Black Spot\" - this painting by Albert Bettannier shows a class of French students at a military school being taught about the German-occupied provinces of Alsace and Lorraine, shown in black on French maps. [France, 1887]",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Bettannier_La_tache_noire.jpg",
-    "permalink": "/r/france/comments/gcld62/the_black_spot_this_painting_by_albert_bettannier/",
-    "created_at": "2020-05-03T05:36:20+00:00",
-    "score": 570,
-    "num_comments": 105,
-    "subreddit": "france",
-    "author": "loulan",
-    "flair": "",
-    "domain": "upload.wikimedia.org",
-    "selftext": "",
-    "reddit_thumbnail": "https://b.thumbs.redditmedia.com/zvgzOpFV2oAwDTWYP8CmoAtyHCfbwLh1imcPvCV8kgI.jpg",
-    "ingested_at": "2026-11-01T09:37:54.449988+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/gcld62.webp",
-    "tags": [
-      "French",
-      "Black Spot",
-      "Albert Bettannier",
-      "German-occupied",
-      "Alsace"
-    ],
-    "analyzed_at": "2026-11-01T09:40:23.038852+00:00"
-  },
-  {
-    "id": "gc8wgb",
-    "title": "Mise à jour Coronavirus 02-05-2020",
-    "url": "https://plague20.blogspot.com/2020/05/updates-02-05-2020.html?m=1",
-    "permalink": "/r/france/comments/gc8wgb/mise_à_jour_coronavirus_02052020/",
-    "created_at": "2020-05-02T16:04:33+00:00",
-    "score": 210,
-    "num_comments": 46,
-    "subreddit": "france",
-    "author": "Knowonething",
-    "flair": "COVID-19",
-    "domain": "plague20.blogspot.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/wWC0yHnVihWKU8p0dJPAmHRDi_br4KUHkwUzWn17fWg.jpg?auto=webp&s=756a8e81c210b57350a1b99a59ab2fcbcd98d681",
-    "ingested_at": "2026-11-01T09:37:54.451003+00:00",
-    "summary": "Mise à jour à 17h00: 3 426 413 cas et 240 497 décès. Après avoir expliqué depuis février aux pays asiatiques, qui peaufinaient leur plan d...",
-    "thumbnail": "thumbnails/gc8wgb.webp",
-    "tags": [
-      "Coronavirus",
-      "COVID-19"
-    ],
-    "analyzed_at": "2026-11-01T09:40:23.592668+00:00"
   },
   {
     "id": "gc2soj",
@@ -1916,36 +1173,9 @@
     "summary": "Aux Etats-Unis, berceau de la culture de la célébrité, les internautes se rebellent contre des stars, moquées et pointées du doigt pour leur train de vie luxueux, jugé indécent en pleine crise sanitaire et économique.",
     "thumbnail": "thumbnails/gc2soj.webp",
     "tags": [
-      "Covid-19",
-      "Etats-Unis",
-      "Maladie",
-      "Les choix de la rédaction"
+      "Covid-19"
     ],
     "analyzed_at": "2026-11-01T09:40:23.576597+00:00"
-  },
-  {
-    "id": "gbkz1z",
-    "title": "Mise à jour Coronavirus 01-05-2020",
-    "url": "https://plague20.blogspot.com/2020/05/updates-01-05-2020.html?m=1",
-    "permalink": "/r/france/comments/gbkz1z/mise_à_jour_coronavirus_01052020/",
-    "created_at": "2020-05-01T16:10:56+00:00",
-    "score": 384,
-    "num_comments": 112,
-    "subreddit": "france",
-    "author": "Knowonething",
-    "flair": "COVID-19",
-    "domain": "plague20.blogspot.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/OWg7_744kChpVZ3Pt9OuC_fIL6gs5DeILinguzUDRj4.jpeg?auto=webp&s=9c77ccd489417cda2b2052078d4e06122063a7cb",
-    "ingested_at": "2026-11-01T09:37:54.450167+00:00",
-    "summary": "Mise à jour à 3 335 283 cas et 235 233 décès. Plus d'un million de personnes sont officiellement guéries. Le Royaume-Uni a commencé à inté...",
-    "thumbnail": "thumbnails/gbkz1z.webp",
-    "tags": [
-      "Coronavirus",
-      "Royaume-Uni",
-      "COVID-19"
-    ],
-    "analyzed_at": "2026-11-01T09:40:24.497489+00:00"
   },
   {
     "id": "gbkx5v",
@@ -1965,11 +1195,8 @@
     "summary": "Deux semaines plus tôt, Donald Trump appelait les Américains à “libérer” leur État confiné.",
     "thumbnail": "thumbnails/gbkx5v.webp",
     "tags": [
-      "Capitole du Michigan",
-      "Américains",
-      "Donald Trump",
-      "État",
-      "Covid-19"
+      "Covid-19",
+      "Donald Trump"
     ],
     "analyzed_at": "2026-11-01T09:40:23.898606+00:00"
   }

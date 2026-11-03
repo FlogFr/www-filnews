@@ -16,12 +16,7 @@
     "ingested_at": "2026-11-01T10:10:26.609507+00:00",
     "summary": "",
     "thumbnail": "thumbnails/v23g3v.webp",
-    "tags": [
-      "Rafael Nadal",
-      "Novak Djokovic",
-      "Roland-Garros",
-      "Sport"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:17:03.327131+00:00"
   },
   {
@@ -42,11 +37,8 @@
     "summary": "Les incidents du Stade de France samedi lors de la finale de la Ligue des Champions semblent avoir laissé des séquelles. Les syndicats de la RATP appellent à la grève sur le RER B à l'approche d'une rencontre des Bleus face au Danemark vendredi.",
     "thumbnail": "thumbnails/v1mg4d.webp",
     "tags": [
-      "RATP",
-      "RER B",
-      "France-Danemark",
-      "Equipe de France de Football",
-      "Stade de France"
+      "Grèves et syndicats",
+      "Transports"
     ],
     "analyzed_at": "2026-11-01T10:16:58.923858+00:00"
   },
@@ -68,11 +60,8 @@
     "summary": "La majorité et la Nupes sont au coude à coude à l'approche des élections législatives des 12 et 19 juin prochains.",
     "thumbnail": "thumbnails/v1kft3.webp",
     "tags": [
-      "NUPES",
-      "Élections législatives",
-      "La France insoumise",
-      "Vote",
-      "Politique"
+      "Élections",
+      "Élection présidentielle"
     ],
     "analyzed_at": "2026-11-01T10:16:58.476310+00:00"
   },
@@ -93,11 +82,7 @@
     "ingested_at": "2026-11-01T10:10:26.608485+00:00",
     "summary": "Après la gestion chaotique et violente par les forces de l’ordre des supporters aux abords du Stade de France lors de la finale de la Ligue des champions, le ministre de l’intérieur reprend les décla…",
     "thumbnail": "thumbnails/v161me.webp",
-    "tags": [
-      "Stade de France",
-      "Lallement",
-      "Ligue"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:16:58.936178+00:00"
   },
   {
@@ -118,11 +103,7 @@
     "summary": "La rédaction de BFMTV a l'immense douleur d'annoncer la disparition de Frédéric Leclerc-Imhoff, journaliste reporter d'images, tué en Ukraine.",
     "thumbnail": "thumbnails/v1429l.webp",
     "tags": [
-      "BFMTV",
-      "UKRAINE",
-      "JOURNALISTE REPORTER IMAGES",
-      "TUÉ",
-      "Frédéric Leclerc-Imhoff"
+      "Médias"
     ],
     "analyzed_at": "2026-11-01T10:16:58.270014+00:00"
   },
@@ -165,9 +146,7 @@
     "ingested_at": "2026-11-01T10:10:26.608569+00:00",
     "summary": "",
     "thumbnail": "thumbnails/v0vqfs.webp",
-    "tags": [
-      "Stade de France"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:16:59.059335+00:00"
   },
   {
@@ -187,11 +166,7 @@
     "ingested_at": "2026-11-01T10:10:26.607381+00:00",
     "summary": "Apparue le 30 mai 1992, la chaîne franco-allemande, qui célèbre cette année ses 30 ans, a su utiliser le numérique pour devenir une plateforme culturelle européenne créative, traduite en six langues.",
     "thumbnail": "thumbnails/v0j3uz.webp",
-    "tags": [
-      "Relations franco-allemande",
-      "Programme et critique TV",
-      "Médias et presse"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:16:58.926672+00:00"
   },
   {
@@ -211,13 +186,7 @@
     "ingested_at": "2026-11-01T10:10:26.609312+00:00",
     "summary": "Depuis le rachat de la branche énergie d’Alstom, en 2015, la multinationale américaine aurait mis en place un vaste système d’évasion fiscale entre la France, la Suisse et le Delaware. Avec la bénédiction de Bercy.",
     "thumbnail": "thumbnails/v0hkcx.webp",
-    "tags": [
-      "General Electric",
-      "Alstom",
-      "Bercy",
-      "Belfort",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:16:58.925427+00:00"
   },
   {
@@ -237,13 +206,7 @@
     "ingested_at": "2026-11-01T10:10:26.609068+00:00",
     "summary": "Le Stade rochelais a battu le Leinster (24-21) en finale au bout du suspense, samedi 28 mai à Marseille. Il succède au Stade toulousain au palmarès.",
     "thumbnail": "thumbnails/uzslao.webp",
-    "tags": [
-      "Rochelle",
-      "Europe",
-      "Stade",
-      "Rugby",
-      "Sport"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:16:59.065205+00:00"
   },
   {
@@ -264,8 +227,7 @@
     "summary": "Les diplômés universitaires d'aujourd'hui peuvent devenir la génération qui réussira « là où ma génération a échoué », a déclaré mardi le chef de l'ONU, exhortant la promotion de 2022 à ne pas travailler pour les « démolisseurs du climat » dans des industries qui continuent de tirer profit des combustibles fossiles.",
     "thumbnail": "thumbnails/uzlm8u.webp",
     "tags": [
-      "ONU",
-      "Société"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T10:17:01.586789+00:00"
   },
@@ -286,7 +248,9 @@
     "ingested_at": "2026-11-01T10:10:26.608855+00:00",
     "summary": "",
     "thumbnail": "thumbnails/uyw1yl.webp",
-    "tags": [],
+    "tags": [
+      "Extrême droite"
+    ],
     "analyzed_at": "2026-11-01T10:16:59.464822+00:00"
   },
   {
@@ -306,13 +270,7 @@
     "ingested_at": "2026-11-01T10:10:26.607981+00:00",
     "summary": "En 2020, 4368 enfants et adolescents jusqu'à 19 ans sont décédés de blessures causées par une arme à feu, un taux de 5,4 pour 100.000 personnes de cette population, selon un tableau publié par les Centres de prévention et de lutte contre les maladies (CDC).",
     "thumbnail": "thumbnails/uytccf.webp",
-    "tags": [
-      "Texas",
-      "États-Unis",
-      "Américains",
-      "CDC",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:16:59.789344+00:00"
   },
   {
@@ -333,7 +291,8 @@
     "summary": "Des militaires russes ont refusé de se rendre en Ukraine pour prendre part à la guerre, ce qui est officiellement une première.",
     "thumbnail": "thumbnails/uybwbg.webp",
     "tags": [
-      "Ukraine"
+      "Guerre en Ukraine",
+      "Défense"
     ],
     "analyzed_at": "2026-11-01T10:16:59.334359+00:00"
   },
@@ -354,9 +313,7 @@
     "ingested_at": "2026-11-01T10:10:26.609411+00:00",
     "summary": "",
     "thumbnail": "thumbnails/uy4pef.webp",
-    "tags": [
-      "Soft paywall"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:17:01.496474+00:00"
   },
   {
@@ -377,8 +334,8 @@
     "summary": "",
     "thumbnail": "thumbnails/uxeyce.webp",
     "tags": [
-      "Monde",
-      "Marc Fesneau"
+      "Environnement",
+      "Agriculture"
     ],
     "analyzed_at": "2026-11-01T10:16:59.173222+00:00"
   },
@@ -400,34 +357,9 @@
     "summary": "Selon l'actrice Sand Van Roy, les expertises prouvant ses blessures après le rapport qu'elle aurait eu avec le réalisateur n'ont pas été prises en compte par la justice.",
     "thumbnail": "thumbnails/uxclfh.webp",
     "tags": [
-      "Luc Besson",
-      "Sand Van Roy",
-      "Police - Justice",
-      "Société"
+      "Justice"
     ],
     "analyzed_at": "2026-11-01T10:16:59.685416+00:00"
-  },
-  {
-    "id": "uxciwd",
-    "title": "Déprimé et jamais content, un homme de 37 ans se voit diagnostiquer « Français »",
-    "url": "https://www.legorafi.fr/2022/05/25/deprime-et-jamais-content-un-homme-de-37-ans-se-voit-diagnostiquer-francais/",
-    "permalink": "/r/france/comments/uxciwd/déprimé_et_jamais_content_un_homme_de_37_ans_se/",
-    "created_at": "2022-05-25T08:08:03+00:00",
-    "score": 816,
-    "num_comments": 82,
-    "subreddit": "france",
-    "author": "DonDaDaTape",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/0fJmzCJEYm6ZXN3Sd6oAZa8GMayJIB9imlZEM8HCkuM.jpeg?auto=webp&s=a8991a4587077d127a959a4a6cd8c11e03d1925e",
-    "ingested_at": "2026-11-01T10:10:26.607316+00:00",
-    "summary": "Jérémie va devoir maintenant apprendre à vivre avec cette terrible affection .",
-    "thumbnail": "thumbnails/uxciwd.webp",
-    "tags": [
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T10:16:59.509344+00:00"
   },
   {
     "id": "uxaq1k",
@@ -447,10 +379,7 @@
     "summary": "La majorité des pays riches créent des conditions de vie délétères et dangereuses pour les enfants du monde entier, selon un nouveau rapport publié mardi par le Centre de recherche Innocenti du Fonds des Nations Unies pour l’enfance (UNICEF).",
     "thumbnail": "thumbnails/uxaq1k.webp",
     "tags": [
-      "Centre",
-      "Innocenti du Fonds des Nations Unies",
-      "UNICEF",
-      "Écologie"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T10:17:01.921763+00:00"
   },
@@ -472,9 +401,7 @@
     "summary": "Depuis plusieurs semaines, la propagande de la télévision d'État russe s'intensifie et fait feu de tout bois pour montrer la détermination du Kremlin à sortir victorieux de la guerre en Ukraine.",
     "thumbnail": "thumbnails/uxa25x.webp",
     "tags": [
-      "Ukraine",
-      "Etat",
-      "Kremlin"
+      "Guerre en Ukraine"
     ],
     "analyzed_at": "2026-11-01T10:16:59.956772+00:00"
   },
@@ -496,11 +423,7 @@
     "summary": "Ces six hommes et femmes âgés de 19 à 39 ans, dont trois mères de famille, étaient jugés à Paris pour avoir posté sur le réseau social des m",
     "thumbnail": "thumbnails/uwy091.webp",
     "tags": [
-      "Twitter",
-      "Affaire Mila",
-      "Paris",
-      "Mila",
-      "Fait Divers"
+      "Justice"
     ],
     "analyzed_at": "2026-11-01T10:17:00.108157+00:00"
   },
@@ -522,10 +445,7 @@
     "summary": "Lancée en 2023, cette liaison, d'une durée de sept heures, proposera, dans les premiers temps, un aller-retour quotidien. Un second pourrait être ajouté ultérieurement. Les deux entreprises s'appuient sur l'intérêt renouvelé pour le ferroviaire longue distance.",
     "thumbnail": "thumbnails/uwurwi.webp",
     "tags": [
-      "SNCF et Deutsche Bahn",
-      "TGV",
-      "Paris et Berlin",
-      "Soft paywall"
+      "Transports"
     ],
     "analyzed_at": "2026-11-01T10:17:05.423761+00:00"
   },
@@ -547,33 +467,9 @@
     "summary": "ENTRETIEN - Dans son livre «Pourquoi nos étudiants ne savent-ils plus écrire?» Aude Denizot, dresse un bilan catastrophique du niveau des étudiants français. L’enseignante a imposé des cours d’orthographe à l’université.",
     "thumbnail": "thumbnails/uwlcd8.webp",
     "tags": [
-      "Aude Denizot"
+      "Éducation"
     ],
     "analyzed_at": "2026-11-01T10:17:00.357719+00:00"
-  },
-  {
-    "id": "uwkf3r",
-    "title": "Non, votre enfant n'est pas HPI, vous êtes juste riche",
-    "url": "https://www.ladn.eu/nouveaux-usages/non-votre-enfant-nest-pas-hpi-vous-etes-juste-riche/",
-    "permalink": "/r/france/comments/uwkf3r/non_votre_enfant_nest_pas_hpi_vous_êtes_juste/",
-    "created_at": "2022-05-24T06:28:18+00:00",
-    "score": 508,
-    "num_comments": 717,
-    "subreddit": "france",
-    "author": "Balthazarde",
-    "flair": "",
-    "domain": "ladn.eu",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/vPBHksuUcb1oBLMOH3ZeYvH1-yL4KZbPguDaypsTtAI.jpg?auto=webp&s=ce683e456574e2ac868b44c39e1137d5691848d8",
-    "ingested_at": "2026-11-01T10:10:26.607468+00:00",
-    "summary": "Les enfants dits HPI sont-ils naturellement plus intelligents que les autres ?",
-    "thumbnail": "thumbnails/uwkf3r.webp",
-    "tags": [
-      "HPI",
-      "Wilfried Lignier",
-      "QI"
-    ],
-    "analyzed_at": "2026-11-01T10:17:01.526861+00:00"
   },
   {
     "id": "uw2fvh",
@@ -593,10 +489,8 @@
     "summary": "Il est placée depuis samedi en détention provisoire, mis en examen, entre autres, pour traite d'êtres humains mineurs et viols sur mineurs.",
     "thumbnail": "thumbnails/uw2fvh.webp",
     "tags": [
-      "PDG",
-      "Faits Divers",
-      "Justice",
-      "Fil info"
+      "Violences sexuelles",
+      "Justice"
     ],
     "analyzed_at": "2026-11-01T10:17:00.813293+00:00"
   },
@@ -619,10 +513,7 @@
     "thumbnail": "thumbnails/uvvvex.webp",
     "tags": [
       "Emmanuel Macron",
-      "Jean-Marc Jancovici",
-      "VIDEO",
-      "Shift Project",
-      "Espagne"
+      "Énergie"
     ],
     "analyzed_at": "2026-11-01T10:17:01.500514+00:00"
   },
@@ -644,10 +535,7 @@
     "summary": "",
     "thumbnail": "thumbnails/uvvt4a.webp",
     "tags": [
-      "Joe Biden",
-      "Etats-Unis",
-      "Taïwan",
-      "Chine"
+      "Joe Biden"
     ],
     "analyzed_at": "2026-11-01T10:17:01.976357+00:00"
   },
@@ -669,8 +557,7 @@
     "summary": "",
     "thumbnail": "thumbnails/uvuuou.webp",
     "tags": [
-      "Damien Abad",
-      "LR"
+      "Violences sexuelles"
     ],
     "analyzed_at": "2026-11-01T10:17:05.328085+00:00"
   },
@@ -691,10 +578,7 @@
     "ingested_at": "2026-11-01T10:10:26.609289+00:00",
     "summary": "Radhia Novat de son vrai nom est décédée dimanche d’une maladie. Elle était connue pour ses silhouettes de femmes brunes, sexy et poétiques",
     "thumbnail": "thumbnails/uvfiq1.webp",
-    "tags": [
-      "Radhia Novat",
-      "Culture"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:17:01.923327+00:00"
   },
   {
@@ -715,35 +599,9 @@
     "summary": "À l’aéroport Roissy-Charles-de-Gaulle, nous avons rencontré ce samedi des expatriés français, parvenus à quitter Shanghai, où ils ont vécu u",
     "thumbnail": "thumbnails/uv5j5v.webp",
     "tags": [
-      "Chine",
-      "Shanghai",
-      "Roissy-Charles-de-Gaulle"
+      "Covid-19"
     ],
     "analyzed_at": "2026-11-01T10:17:02.051118+00:00"
-  },
-  {
-    "id": "uuix1f",
-    "title": "Suisse : un concours de fellation déclenche la colère des habitants",
-    "url": "https://www.demotivateur.fr/insolite/suisse-une-commune-se-dresse-contre-l-organisation-d-un-concours-de-fellation-29476",
-    "permalink": "/r/france/comments/uuix1f/suisse_un_concours_de_fellation_déclenche_la/",
-    "created_at": "2022-05-21T08:31:01+00:00",
-    "score": 92,
-    "num_comments": 66,
-    "subreddit": "france",
-    "author": "jeyreymii",
-    "flair": "",
-    "domain": "demotivateur.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/eTPsGEct_gKjQaC1duCVcsCVjhDpkx6iezydtBfLNW4.jpeg?auto=webp&s=532bb02d208228023aab67a342d4ef0bda9295d8",
-    "ingested_at": "2026-11-01T10:10:26.609482+00:00",
-    "summary": "Un « championnat de pipe » à l’issue duquel sera élue « Miss Fellation » a suscité la polémique en Suisse. À première vue, la petite ville d’Oberentfelden,...",
-    "thumbnail": "thumbnails/uuix1f.webp",
-    "tags": [
-      "Oberentfelden",
-      "Miss Fellation",
-      "Suisse"
-    ],
-    "analyzed_at": "2026-11-01T10:17:02.099411+00:00"
   },
   {
     "id": "uua5te",
@@ -762,11 +620,7 @@
     "ingested_at": "2026-11-01T10:10:26.609459+00:00",
     "summary": "",
     "thumbnail": "thumbnails/uua5te.webp",
-    "tags": [
-      "Melvin Capital",
-      "GameStop",
-      "Économie"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:17:10.640494+00:00"
   },
   {
@@ -786,7 +640,9 @@
     "ingested_at": "2026-11-01T10:10:26.607353+00:00",
     "summary": "",
     "thumbnail": "thumbnails/utv9zk.webp",
-    "tags": [],
+    "tags": [
+      "Médias"
+    ],
     "analyzed_at": "2026-11-01T10:17:02.254556+00:00"
   },
   {
@@ -807,31 +663,10 @@
     "summary": "",
     "thumbnail": "thumbnails/uttzz8.webp",
     "tags": [
-      "Jérôme Lambert",
-      "Paris Habitat",
-      "Politique"
+      "Logement",
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T10:17:02.462815+00:00"
-  },
-  {
-    "id": "utmcra",
-    "title": "Beynac-et-Cazenac, Dordogne, France",
-    "url": "https://live.staticflickr.com/2838/9019142084_92ca967d7c_o.jpg",
-    "permalink": "/r/france/comments/utmcra/beynacetcazenac_dordogne_france/",
-    "created_at": "2022-05-20T05:37:12+00:00",
-    "score": 329,
-    "num_comments": 6,
-    "subreddit": "france",
-    "author": "loulan",
-    "flair": "",
-    "domain": "live.staticflickr.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/pkO3GcNOatpoT5YemCzY5mqJ2kYW35ByFFlUYn78LKQ.jpg?auto=webp&s=559edd7184786ca2ed7f11dca11a3869eced6f69",
-    "ingested_at": "2026-11-01T10:10:26.608162+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/utmcra.webp",
-    "tags": [],
-    "analyzed_at": "2026-11-01T10:17:15.024501+00:00"
   },
   {
     "id": "ut9ili",
@@ -850,9 +685,7 @@
     "ingested_at": "2026-11-01T10:10:26.608032+00:00",
     "summary": "",
     "thumbnail": "thumbnails/ut9ili.webp",
-    "tags": [
-      "Blade Runner"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:17:02.636612+00:00"
   },
   {
@@ -873,10 +706,7 @@
     "summary": "Samedi 14 mai, une soixantaine de personnes ont assisté à un rassemblement à Sainte-Croix-aux-Mines pour rendre hommage à des SS français tués par l'armée française en 1945. Une ancienne membre de cette communauté d'ultradroite témoigne de son expérience de ces rassemblements.",
     "thumbnail": "thumbnails/ut3iyh.webp",
     "tags": [
-      "Sainte-Croix-aux-Mines",
-      "SS",
-      "Fachosphère",
-      "Société"
+      "Extrême droite"
     ],
     "analyzed_at": "2026-11-01T10:17:03.804327+00:00"
   },
@@ -898,35 +728,10 @@
     "summary": "L'ancien locataire de la Maison Blanche a commis une bourde, mercredi, en voulant dénoncer la décision de Vladimir Poutine d'attaquer l'Ukraine mais il a surtout rappelé sa propre décision en 2003.",
     "thumbnail": "thumbnails/usxhur.webp",
     "tags": [
-      "Ukraine",
-      "George W",
-      "Irak",
-      "Maison Blanche",
+      "Guerre en Ukraine",
       "Vladimir Poutine"
     ],
     "analyzed_at": "2026-11-01T10:17:03.552006+00:00"
-  },
-  {
-    "id": "us72st",
-    "title": "Pour les anciens, a quel âge avez vous compris que c'était une contrepèterie ?",
-    "url": "https://upload.wikimedia.org/wikipedia/fr/e/e2/Mammouth_logo_1.jpg",
-    "permalink": "/r/france/comments/us72st/pour_les_anciens_a_quel_âge_avez_vous_compris_que/",
-    "created_at": "2022-05-18T07:06:25+00:00",
-    "score": 211,
-    "num_comments": 120,
-    "subreddit": "france",
-    "author": "tyanu_khah",
-    "flair": "Méta",
-    "domain": "upload.wikimedia.org",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/E-a_pJoRSOyPkB7WpV5lL4Qb3dPTUyYa1X6MgtB2k3g.jpg?auto=webp&s=e55894374460289067a4ac950b5afa89e18acc3c",
-    "ingested_at": "2026-11-01T10:10:26.608926+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/us72st.webp",
-    "tags": [
-      "Méta"
-    ],
-    "analyzed_at": "2026-11-01T10:17:04.007086+00:00"
   },
   {
     "id": "us55ut",
@@ -947,10 +752,7 @@
     "thumbnail": "thumbnails/us55ut.webp",
     "tags": [
       "Emmanuel Macron",
-      "Conseil",
-      "COR",
-      "Français",
-      "Économie"
+      "Retraites"
     ],
     "analyzed_at": "2026-11-01T10:17:03.895752+00:00"
   },
@@ -972,10 +774,7 @@
     "summary": "Une poignée d'élèves d'un collège du centre-ville de Toulouse ont quitté un cours de musique parce que leur enseignante leur faisait écouter un morceau des Beatles durant la période du Ramadan. Ils ont été recadrés...",
     "thumbnail": "thumbnails/urjhiw.webp",
     "tags": [
-      "Beatles",
-      "Ramadan",
-      "Toulouse",
-      "Société"
+      "Éducation"
     ],
     "analyzed_at": "2026-11-01T10:17:04.232717+00:00"
   },
@@ -996,10 +795,7 @@
     "ingested_at": "2026-11-01T10:10:26.609044+00:00",
     "summary": "Retrouvez toute l'actualité économique, entreprise, financière, des technologies et des transformations en France et à l'international avec l'Express.",
     "thumbnail": "thumbnails/urge7y.webp",
-    "tags": [
-      "Express",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:17:04.197093+00:00"
   },
   {
@@ -1020,11 +816,9 @@
     "summary": "Reçue à l'Élysée en fin d'après-midi, Élisabeth Borne a été nommée première ministre par le président de la République et chargée de former un gouvernement. Jean Castex a présenté sa démission lundi à Emmanuel Macron.",
     "thumbnail": "thumbnails/uqzq5c.webp",
     "tags": [
-      "Elisabeth Borne",
-      "Jean Castex",
-      "République",
+      "Élisabeth Borne",
       "Emmanuel Macron",
-      "Politique"
+      "Jean Castex"
     ],
     "analyzed_at": "2026-11-01T10:17:05.370630+00:00"
   },
@@ -1046,11 +840,7 @@
     "summary": "L’absence d’Idrissa Gueye contre Montpellier ce week-end était bien liée à la journée de lutte contre l’homophobie",
     "thumbnail": "thumbnails/uqqdk7.webp",
     "tags": [
-      "Montpellier",
-      "PSG",
-      "Gueye",
-      "Idrissa Gueye",
-      "Sport"
+      "LGBT+"
     ],
     "analyzed_at": "2026-11-01T10:17:04.905455+00:00"
   },
@@ -1072,11 +862,7 @@
     "summary": "Confronté à une canicule longue et extrême et à de mauvaises récoltes, le deuxième producteur mondial de blé a décidé ce samedi de sécuriser l'approvisionnement de ses 1,4 milliard d'habitants.",
     "thumbnail": "thumbnails/uqcyip.webp",
     "tags": [
-      "Inde",
-      "G7",
-      "International",
-      "Alimentation",
-      "Écologie"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T10:17:04.808323+00:00"
   },
@@ -1099,10 +885,8 @@
     "thumbnail": "thumbnails/uq6b7h.webp",
     "tags": [
       "Jean-Luc Mélenchon",
-      "France 3",
-      "Actualités élections législatives 2024",
-      "Elections en France",
-      "Politique"
+      "Élections",
+      "Travail"
     ],
     "analyzed_at": "2026-11-01T10:17:04.553854+00:00"
   },
@@ -1124,11 +908,7 @@
     "summary": "Depuis plusieurs semaines, les habitants de ces deux pays sont confrontés à des épisodes de canicule. Au Pakistan, les températures ont même dépassé les 50 degrés.",
     "thumbnail": "thumbnails/upng2x.webp",
     "tags": [
-      "Pakistan",
-      "IMAGES",
-      "Inde",
-      "Karachi",
-      "Écologie"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T10:17:05.280164+00:00"
   },
@@ -1150,8 +930,7 @@
     "summary": "",
     "thumbnail": "thumbnails/upftzv.webp",
     "tags": [
-      "Monde",
-      "Société"
+      "Guerre en Ukraine"
     ],
     "analyzed_at": "2026-11-01T10:17:05.267668+00:00"
   },
@@ -1173,33 +952,9 @@
     "summary": "Contactés par la chaîne suédoise SVT, certains hôtels qataris n’autoriseent pas les homosexuels à réserver de chambres chez eux. Ils sont pourtant listés sur le site officiel de la Coupe du monde.",
     "thumbnail": "thumbnails/uopep1.webp",
     "tags": [
-      "QATAR",
-      "COUPE du MONDE 2022",
-      "HÔTELS REFUSENT ACCUEILLIR",
-      "Coupe",
-      "SVT"
+      "LGBT+"
     ],
     "analyzed_at": "2026-11-01T10:17:05.309159+00:00"
-  },
-  {
-    "id": "uol218",
-    "title": "Pont-en-Royans, Isère, France",
-    "url": "https://live.staticflickr.com/65535/51822887407_bc96dc6aee_o.jpg",
-    "permalink": "/r/france/comments/uol218/pontenroyans_isère_france/",
-    "created_at": "2022-05-13T06:00:10+00:00",
-    "score": 658,
-    "num_comments": 60,
-    "subreddit": "france",
-    "author": "loulan",
-    "flair": "",
-    "domain": "live.staticflickr.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/O6A_WVXzKD-Jx5uciFuVmI7Vvyyop53gr-Vd1cFOiYM.jpeg?auto=webp&s=0d22d090b3baaee8147749a22feaeab3622cb3bc",
-    "ingested_at": "2026-11-01T10:10:26.607410+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/uol218.webp",
-    "tags": [],
-    "analyzed_at": "2026-11-01T10:17:09.043137+00:00"
   },
   {
     "id": "unzri5",
@@ -1219,11 +974,7 @@
     "summary": "Des vagues de chaleur inhabituelles frappent l'Inde et le Pakistan depuis deux mois maintenant. Or, la chaleur et le taux d'humidité dépassent désormais le seuil limite de survie des personnes se trouvant à l'extérieur.",
     "thumbnail": "thumbnails/unzri5.webp",
     "tags": [
-      "Inde",
-      "Pakistan",
-      "Homme",
-      "Inde et le Pakistan",
-      "Écologie"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T10:17:05.769992+00:00"
   },
@@ -1245,10 +996,7 @@
     "summary": "L’affaire du porno français » ou « french bukkake » a conduit à une mission d’information du Sénat sur les dérives de l’industrie pornographique. Ce mercredi, les deux plus grands producteurs français, Dorcel et Jacquie et Michel ont été mis en difficultés par les questions des sénatrices.",
     "thumbnail": "thumbnails/unvofl.webp",
     "tags": [
-      "Sénat",
-      "Dorcel",
-      "Michel",
-      "Jacquie et Michel"
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T10:17:07.005459+00:00"
   },
@@ -1270,11 +1018,10 @@
     "summary": "[VIDÉO] À un mois du premier tour des élections législatives, l'alliance des principales formations de gauche fait la course en tête. Selon notre sondage Ifop-Fiducial pour LCI, la Nupes obtiendrait 28% des suffrages au premier tour, contre 27% pour le camp d'Emmanuel Macron, et 22% pour le Rassemblement national.",
     "thumbnail": "thumbnails/unvha9.webp",
     "tags": [
+      "Élections",
       "Emmanuel Macron",
-      "Jean-Luc Mélenchon",
-      "Rassemblement",
-      "Nupes",
-      "Politique"
+      "Élection présidentielle",
+      "Jean-Luc Mélenchon"
     ],
     "analyzed_at": "2026-11-01T10:17:06.027649+00:00"
   },
@@ -1296,11 +1043,7 @@
     "summary": "INFO BFMTV - LFI a reçu un signalement concernant Taha Bouhafs, un temps investi candidat de la Nouvelle union populaire écologique et sociale dans le Rhône. Le mouvement a lancé une enquête en interne après ces accusations.",
     "thumbnail": "thumbnails/un7xl7.webp",
     "tags": [
-      "Taha Bouhafs",
-      "Rhône",
-      "BFMTV",
-      "Nouvelle",
-      "Politique"
+      "Violences sexuelles"
     ],
     "analyzed_at": "2026-11-01T10:17:05.536873+00:00"
   },
@@ -1341,35 +1084,8 @@
     "ingested_at": "2026-11-01T10:10:26.608006+00:00",
     "summary": "Dans un podcast relayé notamment sur Twitter, la fondatrice d'une marque de compléments alimentaires s'est emportée contre le temps de travail légal des stagiaires et les demandes salariales des jeunes diplômés. Le retour de bâton a été violent sur les réseaux sociaux.",
     "thumbnail": "thumbnails/umjjp2.webp",
-    "tags": [
-      "Twitter",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:17:05.730136+00:00"
-  },
-  {
-    "id": "umipxc",
-    "title": "Les chiffres révèlent que les SUV sont la deuxième cause d'augmentation des émissions de CO2 dans le monde. (article en anglais)",
-    "url": "https://www.conserve-energy-future.com/figures-reveal-suvs-2nd-largest-contributor-co2-emissions-globally.php",
-    "permalink": "/r/france/comments/umipxc/les_chiffres_révèlent_que_les_suv_sont_la/",
-    "created_at": "2022-05-10T13:27:44+00:00",
-    "score": 431,
-    "num_comments": 245,
-    "subreddit": "france",
-    "author": "DrFolAmour007",
-    "flair": "Écologie",
-    "domain": "conserve-energy-future.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/fay5tOexUnAmZ0kDzBlqYxltoyxuVezpuoJ7vgdNsU8.jpg?auto=webp&s=aec42e019f3027754bcd67abdb4beddfa29926e6",
-    "ingested_at": "2026-11-01T10:10:26.607768+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/umipxc.webp",
-    "tags": [
-      "SUV",
-      "CO2",
-      "Écologie"
-    ],
-    "analyzed_at": "2026-11-01T10:17:11.501144+00:00"
   },
   {
     "id": "umej74",
@@ -1389,11 +1105,7 @@
     "summary": "Parmi les noms de candidats déjà dévoilés par la majorité en vue des législatives, plusieurs font l'objet de mises en examen ou d’accusations en tout genre. Dernière en date : la députée sortante et officiellement réinvestie Anne-France Brunet, visée par une plainte pour violences et harcèlement.",
     "thumbnail": "thumbnails/umej74.webp",
     "tags": [
-      "Thierry Solère",
-      "Laetitia Avia",
-      "Jérôme Peyrat",
-      "LREM",
-      "Elections"
+      "Élections"
     ],
     "analyzed_at": "2026-11-01T10:17:06.666298+00:00"
   },
@@ -1415,8 +1127,7 @@
     "summary": "Le président de la Fédération nationale des chasseurs a également estimé que la cas des chasseurs est similaire à celui des végans et des végétariens.",
     "thumbnail": "thumbnails/umciq4.webp",
     "tags": [
-      "Fédération",
-      "Willy Schraen"
+      "Cause animale"
     ],
     "analyzed_at": "2026-11-01T10:17:06.599279+00:00"
   },
@@ -1438,11 +1149,7 @@
     "summary": "Le journaliste et militant de La France insoumise a annoncé dans la nuit de lundi à mardi sur Twitter son intention de renoncer à sa candidature en raison \"d'attaques sans précédent\", ce que le député Alexis Corbière a ensuite confirmé.",
     "thumbnail": "thumbnails/umc8vf.webp",
     "tags": [
-      "Nupes",
-      "Taha Bouhafs",
-      "Rhône",
-      "Twitter",
-      "Elections"
+      "Élections"
     ],
     "analyzed_at": "2026-11-01T10:17:06.298348+00:00"
   },
@@ -1464,11 +1171,7 @@
     "summary": "Quelques habitants du nouveau lotissement Font del Bosc à Técou dans le Tarn, craignaient les « nuisances » qu’occasionnerait un cabinet médical. Le médecin, découragé, a renoncé malgré la volonté du maire. Il ira...",
     "thumbnail": "thumbnails/umc3ui.webp",
     "tags": [
-      "Técou",
-      "Font",
-      "Bosc",
-      "Tarn",
-      "Jean-François Baulès"
+      "Santé"
     ],
     "analyzed_at": "2026-11-01T10:17:06.727861+00:00"
   },
@@ -1491,10 +1194,8 @@
     "thumbnail": "thumbnails/ulpi72.webp",
     "tags": [
       "François Fillon",
-      "Fillon",
-      "Marc Joulaud",
-      "Affaire Fillon",
-      "Assemblée"
+      "Justice",
+      "Corruption"
     ],
     "analyzed_at": "2026-11-01T10:17:13.627752+00:00"
   },
@@ -1516,11 +1217,8 @@
     "summary": "Invité de France 2, ce lundi 8 mai, L'ex-candidat communiste à la présidentielle s'est exprimé concernant la candidature polémique Taha Bouhafs. Le journaliste est investi par la NUPES à Vénissieux.",
     "thumbnail": "thumbnails/ulkxbk.webp",
     "tags": [
-      "Taha Bouhafs",
-      "LFI",
       "Fabien Roussel",
-      "NUPES",
-      "Politique"
+      "Élections"
     ],
     "analyzed_at": "2026-11-01T10:17:07.021801+00:00"
   },
@@ -1542,65 +1240,9 @@
     "summary": "L’ancien Premier ministre, son épouse et son ex-suppléant Marc Joulaud sont jugés en appel pour des soupçons d’emplois fictifs pour Penelope Fillon. En première instance, ils avaient été condamnés à rembourser plus d’un million d’euros à l’Assemblée nationale.",
     "thumbnail": "thumbnails/ulkuki.webp",
     "tags": [
-      "Penelope Fillon",
-      "François et Peneloppe Fillon",
-      "Marc Joulaud",
-      "Assemblée",
-      "Politique"
+      "François Fillon"
     ],
     "analyzed_at": "2026-11-01T10:17:07.284360+00:00"
-  },
-  {
-    "id": "ulb4ca",
-    "title": "“Poubelle La Vie !\": un reportage sur le fléau des décharges sauvages à Marseille écoeure les internautes",
-    "url": "https://fr.news.yahoo.com/sept-a-huit-decharges-sauvages-marseille-175910975.html",
-    "permalink": "/r/france/comments/ulb4ca/poubelle_la_vie_un_reportage_sur_le_fléau_des/",
-    "created_at": "2022-05-08T21:02:01+00:00",
-    "score": 129,
-    "num_comments": 45,
-    "subreddit": "france",
-    "author": "lilmammamia",
-    "flair": "",
-    "domain": "fr.news.yahoo.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/k-mCbl9xoyd-kDI4a4hXYtnjyxmBUEmPvzHRXkuNFr4.jpeg?auto=webp&s=1e4158572998358e00d3547c2553075c260f0508",
-    "ingested_at": "2026-11-01T10:10:26.609361+00:00",
-    "summary": "Ce dimanche 8 mai, sur TF1, Harry Roselmack et les équipes de \"Sept à Huit\" se sont intéressés à Marseille. Des rues encombrées par du mobilier, des pièces de voitures, des gravats jetés à même le bit...",
-    "thumbnail": "thumbnails/ulb4ca.webp",
-    "tags": [
-      "Marseille",
-      "TF1",
-      "Poubelle la Vie",
-      "Huit",
-      "Jean-Yves"
-    ],
-    "analyzed_at": "2026-11-01T10:17:08.268269+00:00"
-  },
-  {
-    "id": "ul0kow",
-    "title": "6 votes où l'eurodéputé Mélenchon a défendu les intérêts du régime ... | Le Club",
-    "url": "https://blogs.mediapart.fr/nicolas-cadiour/blog/260222/6-votes-ou-leurodepute-melenchon-defendu-les-interets-du-regime-de-poutine",
-    "permalink": "/r/france/comments/ul0kow/6_votes_où_leurodéputé_mélenchon_a_défendu_les/",
-    "created_at": "2022-05-08T12:23:21+00:00",
-    "score": 269,
-    "num_comments": 477,
-    "subreddit": "france",
-    "author": "Fweenixx",
-    "flair": "Politique",
-    "domain": "blogs.mediapart.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/z2OEBOfwJwsyW0YFCNpy2e2-bGQ9czTauIsvxVlWqhM.png?auto=webp&s=dfd1144ba03dffd6022b4faeb365820dc2a1ed1a",
-    "ingested_at": "2026-11-01T10:10:26.608437+00:00",
-    "summary": "Mélenchon a systématiquement défendu les intérêts du régime de Vladimir Poutine. Il n'a pas hésité à utiliser son mandat d'eurodéputé dans cet objectif. Voici 6 votes le démontrant.",
-    "thumbnail": "thumbnails/ul0kow.webp",
-    "tags": [
-      "Club",
-      "Ukraine",
-      "Crimée",
-      "Vladimir Poutine",
-      "Politique"
-    ],
-    "analyzed_at": "2026-11-01T10:17:08.481420+00:00"
   },
   {
     "id": "ukh1no",
@@ -1619,9 +1261,7 @@
     "ingested_at": "2026-11-01T10:10:26.608783+00:00",
     "summary": "",
     "thumbnail": "thumbnails/ukh1no.webp",
-    "tags": [
-      "Wallonie"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:17:07.747768+00:00"
   },
   {
@@ -1642,7 +1282,7 @@
     "summary": "",
     "thumbnail": "thumbnails/uk9x9x.webp",
     "tags": [
-      "Économie"
+      "Travail"
     ],
     "analyzed_at": "2026-11-01T10:17:13.685091+00:00"
   },
@@ -1664,11 +1304,7 @@
     "summary": "Alors que l'Allemagne est discréditée à cause de ses atermoiements vis-à-vis de la Russie, le prestige de la France est au plus haut aux Etats-Unis.",
     "thumbnail": "thumbnails/uk8ejy.webp",
     "tags": [
-      "Etats-Unis",
-      "Macron et des Français",
-      "Allemagne",
-      "Russie",
-      "Amériques"
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T10:17:09.194708+00:00"
   },
@@ -1710,11 +1346,7 @@
     "summary": "Moins d'une semaine après Coralie Dubost, Mediapart accuse une autre députée de l'Hérault de confondre notes de frais et dépenses personnelles. Patricia Mirallès, élue LREM de la 1re circonscription, rejette en bloc...",
     "thumbnail": "thumbnails/ujhylr.webp",
     "tags": [
-      "Médiapart",
-      "Patricia Mirallès",
-      "Hérault Patricia Mirallès",
-      "Coralie Dubost",
-      "Hérault"
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T10:17:09.119502+00:00"
   },
@@ -1735,11 +1367,7 @@
     "ingested_at": "2026-11-01T10:10:26.608388+00:00",
     "summary": "L'influenceuse Enjoyphoenix a établi un partenariat rémunéré pour promouvoir des « patchs anti-ondes » sur son compte Instagram. Problème : le bénéfice sanitaire de ces autocollants n'est pas prouvé. Ils pourraient même être néfastes. C'est un partenariat rémunéré qui va peut-être causer davantage de maux de tête à",
     "thumbnail": "thumbnails/uj2cnb.webp",
-    "tags": [
-      "Enjoyphoenix",
-      "Instagram",
-      "Science"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:17:09.937312+00:00"
   },
   {
@@ -1760,10 +1388,7 @@
     "summary": "Phénomène étonnant. Dans les Yvelines et partout en France, les agents forestiers font maintenant l'objet d'agressions... par des personnes qui prétendent défendre l'environnement.",
     "thumbnail": "thumbnails/uirmrf.webp",
     "tags": [
-      "Yvelines",
-      "ONF",
-      "Île-de-France",
-      "Écologie"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T10:17:09.833541+00:00"
   },
@@ -1785,10 +1410,7 @@
     "summary": "Depuis l'annonce de l'accord entre le PS et la France insoumise, plusieurs figures du parti font part de leur désaccord, à la veille d'un Conseil national qui doit entériner (ou non) l'union. L'ancien Premier ministre Bernard Cazeneuve a annoncé quitter sa famille politique.",
     "thumbnail": "thumbnails/uiarqx.webp",
     "tags": [
-      "Bernard Cazeneuve",
-      "PS",
-      "PS et la France",
-      "Politique"
+      "Bernard Cazeneuve"
     ],
     "analyzed_at": "2026-11-01T10:17:09.582138+00:00"
   },
@@ -1809,36 +1431,8 @@
     "ingested_at": "2026-11-01T10:10:26.609168+00:00",
     "summary": "Une séquence de «Ça commence aujourd’hui» a provoqué un tollé sur les réseaux sociaux. Des associations, mais aussi des scientifiques ont dé",
     "thumbnail": "thumbnails/ui3f5v.webp",
-    "tags": [
-      "France 2",
-      "New",
-      "Natacha Calestrémé",
-      "Soft paywall"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:17:09.988836+00:00"
-  },
-  {
-    "id": "uhiy9k",
-    "title": "Accord entre la France Insoumise et le PCF pour les prochaines élections législatives",
-    "url": "https://www.pcf.fr/accord_entre_la_france_insoumise_et_le_pcf_pour_les_prochaines_lections_l_gislatives",
-    "permalink": "/r/france/comments/uhiy9k/accord_entre_la_france_insoumise_et_le_pcf_pour/",
-    "created_at": "2022-05-03T15:43:36+00:00",
-    "score": 329,
-    "num_comments": 193,
-    "subreddit": "france",
-    "author": "NuageDeCristal",
-    "flair": "Politique",
-    "domain": "pcf.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/xS7D9KPGzEVE4wvv7qKyTuIAKxYxglhDgyuY2mLOqVY.jpg?auto=webp&s=b01bdc9d2a1a86635f179c119d6d0d9e0d0fbc0f",
-    "ingested_at": "2026-11-01T10:10:26.608135+00:00",
-    "summary": "La France insoumise et le PCF se sont rencontrés ce mardi 3 mai dans le cadre de la préparation des prochaines élections législatives. Nous avons convenu des points d’accords suivants dans la continuité des échanges ayant déjà eu lieu depuis deux semaines entre la France insoumise et le PCF.",
-    "thumbnail": "thumbnails/uhiy9k.webp",
-    "tags": [
-      "France Insoumise et le PCF",
-      "Politique"
-    ],
-    "analyzed_at": "2026-11-01T10:17:10.586103+00:00"
   },
   {
     "id": "uh5vfa",
@@ -1857,11 +1451,7 @@
     "ingested_at": "2026-11-01T10:10:26.609217+00:00",
     "summary": "",
     "thumbnail": "thumbnails/uh5vfa.webp",
-    "tags": [
-      "Supreme Court",
-      "Roe",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:17:11.618281+00:00"
   },
   {
@@ -1881,13 +1471,7 @@
     "ingested_at": "2026-11-01T10:10:26.609022+00:00",
     "summary": "La formation politique de centre gauche a acté ce dimanche qu’elle ne rejoindrait pas l’union de la gauche autour des insoumis pour les législatives. Le parti, qui pointe ses désaccords avec La France insoumise sur l’Europe et la laïcité, présentera indépendamment une centaine de candidats.",
     "thumbnail": "thumbnails/ugw37h.webp",
-    "tags": [
-      "PRG",
-      "République",
-      "Europe",
-      "Guillaume Lacroix",
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:17:10.481815+00:00"
   },
   {
@@ -1908,58 +1492,9 @@
     "summary": "Les négociations doivent reprendre lundi entre le parti de Jean-Luc Mélenchon, le Parti socialiste et le Parti communiste.",
     "thumbnail": "thumbnails/ugax8d.webp",
     "tags": [
-      "Europe Ecologie-Les Verts",
       "Jean-Luc Mélenchon",
-      "EELV",
-      "LFI",
-      "Politique"
+      "Élections"
     ],
     "analyzed_at": "2026-11-01T10:17:10.979858+00:00"
-  },
-  {
-    "id": "ug3n3y",
-    "title": "Suspicion de plagiat : Idriss Aberkane va-t-il perdre un doctorat ?",
-    "url": "https://factandfurious.com/enquetes/suspicion-de-plagiat-idriss-aberkane-va-t-il-perdre-un-doctorat",
-    "permalink": "/r/france/comments/ug3n3y/suspicion_de_plagiat_idriss_aberkane_vatil_perdre/",
-    "created_at": "2022-05-01T16:33:03+00:00",
-    "score": 323,
-    "num_comments": 138,
-    "subreddit": "france",
-    "author": "[deleted]",
-    "flair": "Science",
-    "domain": "factandfurious.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/-NOUcez4XumIGlz0Za8KqzA1ZwtHPQ-is-67NuvJH0w.jpg?auto=webp&s=d67b97a4079a98fcdd62278a9b79bee422ff4707",
-    "ingested_at": "2026-11-01T10:10:26.608187+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/ug3n3y.webp",
-    "tags": [
-      "Idriss Aberkane",
-      "Science"
-    ],
-    "analyzed_at": "2026-11-01T10:17:14.949170+00:00"
-  },
-  {
-    "id": "ufwg37",
-    "title": "Mort de Federico Aramburu : de nouvelles révélations, des effets de la police retrouvés au domicile d'un suspect",
-    "url": "https://www.quinzemondial.com/actualites/mort-de-federico-aramburu--de-nouvelles-revelations--des-effets-de-la-police-retrouves-au-domicile-d-un-suspect-761252",
-    "permalink": "/r/france/comments/ufwg37/mort_de_federico_aramburu_de_nouvelles/",
-    "created_at": "2022-05-01T09:42:28+00:00",
-    "score": 117,
-    "num_comments": 16,
-    "subreddit": "france",
-    "author": "Folivao",
-    "flair": "Actus",
-    "domain": "quinzemondial.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/AnsjmL7y5O-wJb8-igGbnm--_3R_Fmh-aKz882idZyA.jpeg?auto=webp&s=fab0ce5aa276840a3a56510e6da58946b0ca95af",
-    "ingested_at": "2026-11-01T10:10:26.609436+00:00",
-    "summary": "De nouvelles informations ont été révélées au sujet du meurtre de Federico Martin Aramburu, joueur argentin abattu par balles au matin du 19 mars dernier.",
-    "thumbnail": "thumbnails/ufwg37.webp",
-    "tags": [
-      "Federico Aramburu",
-      "Federico Martin Aramburu"
-    ],
-    "analyzed_at": "2026-11-01T10:17:11.021329+00:00"
   }
 ]

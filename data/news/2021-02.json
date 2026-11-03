@@ -18,9 +18,7 @@
     "thumbnail": "thumbnails/luawn2.webp",
     "tags": [
       "Emmanuel Macron",
-      "Bernard Accoyer",
-      "JDD",
-      "Écologie"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T09:57:38.140265+00:00"
   },
@@ -42,36 +40,10 @@
     "summary": "<p>Plusieurs associations invitent les habitants de Martinique&nbsp;&agrave; manifester ce samedi 27 f&eacute;vrier 2021&nbsp;contre la prescription dans l&rsquo;affaire de l&rsquo;empoisonnement &agrave; la chlord&eacute;conne.&nbsp;</p>",
     "thumbnail": "thumbnails/lu644l.webp",
     "tags": [
-      "Fort-de-France",
-      "Antilles",
-      "Martinique"
+      "Manifestations",
+      "Outre-mer"
     ],
     "analyzed_at": "2026-11-01T09:57:37.761088+00:00"
-  },
-  {
-    "id": "ltuzks",
-    "title": "Communiqué du club de Tromsø (Norvège) qui demande à sa fédération de boycotter le Mondial au Qatar.",
-    "url": "https://www.footmercato.net/a3934918588925754954-norvege-tromso-demande-a-sa-federation-de-boycotter-le-mondial-au-qatar",
-    "permalink": "/r/france/comments/ltuzks/communiqué_du_club_de_tromsø_norvège_qui_demande/",
-    "created_at": "2021-02-27T19:06:41+00:00",
-    "score": 143,
-    "num_comments": 30,
-    "subreddit": "france",
-    "author": "Roger-LAFRITE",
-    "flair": "Société",
-    "domain": "footmercato.net",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/9CWTVpTemF8e82VDzsJs42W9qFX-1ROiTfAe6doFKpM.jpeg?auto=webp&s=5cffcef9844d3c27440563814bc052ab728d7fc7",
-    "ingested_at": "2026-11-01T09:49:38.318870+00:00",
-    "summary": "Club professionnel et de niveau national situé le plus au nord de la planète, le Tromsø IL s’est distingué ces dernières heures en devenant le pr (...) - Footmercato",
-    "thumbnail": "thumbnails/ltuzks.webp",
-    "tags": [
-      "Tromsø",
-      "Mondial",
-      "Qatar",
-      "Société"
-    ],
-    "analyzed_at": "2026-11-01T09:57:38.273502+00:00"
   },
   {
     "id": "ltug5p",
@@ -90,10 +62,7 @@
     "ingested_at": "2026-11-01T09:49:38.319182+00:00",
     "summary": "",
     "thumbnail": "thumbnails/ltug5p.webp",
-    "tags": [
-      "Pompéi",
-      "Culture"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:57:38.174036+00:00"
   },
   {
@@ -113,38 +82,8 @@
     "ingested_at": "2026-11-01T09:49:38.318918+00:00",
     "summary": "Amazon combat avec acharnement la création d'un syndicat par des salariés de son entrepôt de Bessemer, en Alabama. L'entreprise a été jusqu'à diffuser des publicités sur Twitch, violant au passage les règles de sa propre plateforme.",
     "thumbnail": "thumbnails/lswhfu.webp",
-    "tags": [
-      "Amazon",
-      "Twitch",
-      "Bessemer",
-      "États-Unis",
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:57:53.669297+00:00"
-  },
-  {
-    "id": "lsvyfz",
-    "title": "Le score de réparabilité arrive en France",
-    "url": "https://9to5mac.com/2021/02/25/apple-begins-showing-repairability-index-for-iphones-and-macs-in-france/",
-    "permalink": "/r/france/comments/lsvyfz/le_score_de_réparabilité_arrive_en_france/",
-    "created_at": "2021-02-26T11:37:51+00:00",
-    "score": 109,
-    "num_comments": 20,
-    "subreddit": "france",
-    "author": "lulucmy",
-    "flair": "Science",
-    "domain": "9to5mac.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/iZVEMLJx6e2k2pEU8T-kDVyMAF9ldLxoWuMK7ZsyGa0.jpg?auto=webp&s=70ffbe384e3d93d4ede45890abbd6420ede8b12b",
-    "ingested_at": "2026-11-01T09:49:38.319135+00:00",
-    "summary": "Apple surprisingly began to show a repair index for devices like the iPhone and Mac in the Apple Store app...",
-    "thumbnail": "thumbnails/lsvyfz.webp",
-    "tags": [
-      "Mac",
-      "Apple Store",
-      "Science"
-    ],
-    "analyzed_at": "2026-11-01T09:57:38.585061+00:00"
   },
   {
     "id": "lsamfi",
@@ -163,9 +102,7 @@
     "ingested_at": "2026-11-01T09:49:38.318152+00:00",
     "summary": "",
     "thumbnail": "thumbnails/lsamfi.webp",
-    "tags": [
-      "Sciences Po Paris"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:57:44.322667+00:00"
   },
   {
@@ -186,11 +123,8 @@
     "summary": "Paris - L'Autorité de sûreté nucléaire (ASN) a ouvert la voie jeudi à la poursuite de la vie des plus vieux réacteurs en France de 40 à 50 ans, enjoignant EDF de réaliser des travaux pour améliorer leur sûreté.",
     "thumbnail": "thumbnails/ls1nc2.webp",
     "tags": [
-      "ASN",
-      "EDF",
-      "France de 40",
-      "Société",
-      "Écologie"
+      "Environnement",
+      "Énergie"
     ],
     "analyzed_at": "2026-11-01T09:57:39.784405+00:00"
   },
@@ -211,34 +145,8 @@
     "ingested_at": "2026-11-01T09:49:38.318654+00:00",
     "summary": "",
     "thumbnail": "thumbnails/lraxby.webp",
-    "tags": [
-      "Paris",
-      "Gibert Jeune",
-      "Savoir"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:57:38.803142+00:00"
-  },
-  {
-    "id": "lr9xtn",
-    "title": "« Respectez-nous, putain » : le cri de détresse d’un collège sinistré",
-    "url": "https://www.vice.com/fr/article/epd7jj/respectez-nous-putain-le-cri-de-detresse-dun-college-sinistre?utm_source=reddit.com",
-    "permalink": "/r/france/comments/lr9xtn/respecteznous_putain_le_cri_de_détresse_dun/",
-    "created_at": "2021-02-24T10:47:29+00:00",
-    "score": 211,
-    "num_comments": 154,
-    "subreddit": "france",
-    "author": "[deleted]",
-    "flair": "",
-    "domain": "vice.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/1LK8Mo7n1IndpB6phV3hqXXCGysdrshIu3R_mPZBp8I.jpeg?auto=webp&s=12556bb8b61f89df7c3ae2b204a3482426b100f1",
-    "ingested_at": "2026-11-01T09:49:38.318075+00:00",
-    "summary": "Au collège Lucie Aubrac de Givors, l'État semble avoir avoir abandonné profs et élèves, alors que les burn-outs, violences et départs en masse rythment la vie de l'établissement.",
-    "thumbnail": "thumbnails/lr9xtn.webp",
-    "tags": [
-      "Lucie Aubrac de Givors"
-    ],
-    "analyzed_at": "2026-11-01T09:57:39.435098+00:00"
   },
   {
     "id": "lr8aq5",
@@ -257,12 +165,7 @@
     "ingested_at": "2026-11-01T09:49:38.318199+00:00",
     "summary": "Une première expérience visant à proposer plus souvent du gibier, plutôt que les viandes habituelles, a été menée au collège de Villé en Als",
     "thumbnail": "thumbnails/lr8aq5.webp",
-    "tags": [
-      "Villé",
-      "Als",
-      "Alsace",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:57:39.016053+00:00"
   },
   {
@@ -283,8 +186,7 @@
     "summary": "Ces femmes, ex-partisanes de Daesh, et leurs enfants vivent dans des conditions très difficiles dans des camps gérés par les forces kurdes",
     "thumbnail": "thumbnails/lr7fer.webp",
     "tags": [
-      "Daesh",
-      "Société"
+      "Grèves et syndicats"
     ],
     "analyzed_at": "2026-11-01T09:57:40.198171+00:00"
   },
@@ -305,13 +207,7 @@
     "ingested_at": "2026-11-01T09:49:38.317762+00:00",
     "summary": "1 500 distributeurs de protections hygiéniques vont être installés dans les universités à la rentrée prochaine afin de les rendre gratuites",
     "thumbnail": "thumbnails/lqj6uw.webp",
-    "tags": [
-      "Politique",
-      "Thématiques",
-      "Economie",
-      "Home",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:57:40.048730+00:00"
   },
   {
@@ -332,63 +228,9 @@
     "summary": "Guardian analysis indicates shocking figure over the past decade likely to be an underestimate",
     "thumbnail": "thumbnails/lqe8ip.webp",
     "tags": [
-      "Qatar",
-      "World Cup",
-      "India",
-      "Sri Lanka",
-      "Nepal"
+      "Immigration"
     ],
     "analyzed_at": "2026-11-01T09:57:39.776207+00:00"
-  },
-  {
-    "id": "lpjlyb",
-    "title": "YouTube AI Blocked Chess Channel after Confusing 'Black' and 'White' for Racist Slurs",
-    "url": "https://www.news18.com/news/buzz/youtube-ai-blocked-chess-channel-after-confusing-black-and-white-for-racist-slurs-3454316.html",
-    "permalink": "/r/france/comments/lpjlyb/youtube_ai_blocked_chess_channel_after_confusing/",
-    "created_at": "2021-02-22T09:07:17+00:00",
-    "score": 369,
-    "num_comments": 154,
-    "subreddit": "france",
-    "author": "AnonymousDevFeb",
-    "flair": "Actus",
-    "domain": "news18.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/wjWUpYEb0gKAs0hZCDVCvVabHkPlNcIcZQVQWarTLqQ.jpeg?auto=webp&s=c6ccedc48f48c234fa9118b75ccbf688e324958f",
-    "ingested_at": "2026-11-01T09:49:38.317611+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/lpjlyb.webp",
-    "tags": [
-      "YouTube",
-      "Blocked Chess Channel",
-      "Confusing Black",
-      "White",
-      "Racist Slurs"
-    ],
-    "analyzed_at": "2026-11-01T09:57:43.606422+00:00"
-  },
-  {
-    "id": "lpihma",
-    "title": "“Islamogauchisme” : Le piège de l’Alt-right se referme sur la Macronie | Politoscope",
-    "url": "https://politoscope.org/2021/02/islamogauchisme-le-piege-de-lalt-right-se-referme-sur-la-macronie/",
-    "permalink": "/r/france/comments/lpihma/islamogauchisme_le_piège_de_laltright_se_referme/",
-    "created_at": "2021-02-22T07:55:33+00:00",
-    "score": 200,
-    "num_comments": 400,
-    "subreddit": "france",
-    "author": "chatdecheshire",
-    "flair": "Politique",
-    "domain": "politoscope.org",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/D4racMkZdQdMQWzl4oWTR5csFBVuS2Cs1eQ1RP2Jxh8.jpg?auto=webp&s=41098ed993d2cd61d3d596666c483d8e5df30d34",
-    "ingested_at": "2026-11-01T09:49:38.318223+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/lpihma.webp",
-    "tags": [
-      "Alt-right",
-      "Macronie",
-      "Politique"
-    ],
-    "analyzed_at": "2026-11-01T09:57:40.179473+00:00"
   },
   {
     "id": "lphskp",
@@ -407,34 +249,8 @@
     "ingested_at": "2026-11-01T09:49:38.318318+00:00",
     "summary": "En France, la critique grandit contre l’importation excessive de certaines théories de sciences sociales américaines dans l’Hexagone. Le néopuritanisme répandu ...",
     "thumbnail": "thumbnails/lphskp.webp",
-    "tags": [
-      "Canada",
-      "Hexagone",
-      "Devoir"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:57:40.476199+00:00"
-  },
-  {
-    "id": "lp38tu",
-    "title": "\"Eh ben si les universitaires sont pas islamo-gauchistes, comment ça se fait qu’une partie de la population est prête à croire qu’ils le sont ?\"",
-    "url": "https://www.smbc-comics.com/comics/1505312920-20170913%20(1).png",
-    "permalink": "/r/france/comments/lp38tu/eh_ben_si_les_universitaires_sont_pas/",
-    "created_at": "2021-02-21T18:28:47+00:00",
-    "score": 104,
-    "num_comments": 117,
-    "subreddit": "france",
-    "author": "Calembreloque",
-    "flair": "Humour",
-    "domain": "smbc-comics.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/GTfEMvAY4fKDznFET6ozfLg70HC26w3-Viqwy3pVuVA.png?auto=webp&s=7cd0adc3eaf4e239cfd7e7e75938a851f289f4f6",
-    "ingested_at": "2026-11-01T09:49:38.319159+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/lp38tu.webp",
-    "tags": [
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:57:40.983311+00:00"
   },
   {
     "id": "lotttq",
@@ -453,9 +269,7 @@
     "ingested_at": "2026-11-01T09:49:38.319113+00:00",
     "summary": "",
     "thumbnail": "thumbnails/lotttq.webp",
-    "tags": [
-      "Frédérique Vidal"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:57:40.554796+00:00"
   },
   {
@@ -475,11 +289,7 @@
     "ingested_at": "2026-11-01T09:49:38.318630+00:00",
     "summary": "Dans les milieux judiciaires, bien au delà de la région, c'est un choc....",
     "thumbnail": "thumbnails/lo7ia2.webp",
-    "tags": [
-      "Jean-Yves Moyart",
-      "Lille",
-      "Maître Mo"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:57:41.269528+00:00"
   },
   {
@@ -500,8 +310,8 @@
     "summary": "",
     "thumbnail": "thumbnails/lo5eck.webp",
     "tags": [
-      "CAF",
-      "RSA"
+      "Pauvreté",
+      "Protection sociale"
     ],
     "analyzed_at": "2026-11-01T09:57:41.070179+00:00"
   },
@@ -522,13 +332,7 @@
     "ingested_at": "2026-11-01T09:49:38.317586+00:00",
     "summary": "Depuis le début du mois de janvier, des dizaines de villes en Iran font face à des coupures d’électricité massives et régulières. Le ministre de l’Énergie, Reza Ardekanian, a concédé que ces coupures…",
     "thumbnail": "thumbnails/lnjsx1.webp",
-    "tags": [
-      "Iran",
-      "Reza Ardekanian",
-      "RHY",
-      "Rafsanjan",
-      "Moyen-Orient"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:57:42.050308+00:00"
   },
   {
@@ -549,11 +353,8 @@
     "summary": "L'aménagement de leur peine de trois ans, sans incarcération, est légalement possible en raison de leur âge, a expliqué le parquet d'Évreux.",
     "thumbnail": "thumbnails/lngmqp.webp",
     "tags": [
-      "Balkany",
-      "Giverny",
-      "Procès balkany",
-      "Évreux",
-      "Politique"
+      "Patrick Balkany",
+      "Budget et fiscalité"
     ],
     "analyzed_at": "2026-11-01T09:57:42.099480+00:00"
   },
@@ -574,65 +375,8 @@
     "ingested_at": "2026-11-01T09:49:38.317661+00:00",
     "summary": "Avec le lancement de la NVIDIA RTX 3060 la semaine prochaine, le concepteur de cartes, puces et processeurs graphiques pour PC prend des mesures pour réduire l'intérêt de la nouvelle GPU grand public pour les mineurs des cryptomonnaies.",
     "thumbnail": "thumbnails/lnb9yo.webp",
-    "tags": [
-      "NVIDIA",
-      "GPU",
-      "GPU GeForce",
-      "RTX 3060",
-      "Science"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:57:41.566626+00:00"
-  },
-  {
-    "id": "lmmfy9",
-    "title": "La Covid19 déjà vaccinée contre Nicolas Sarkozy",
-    "url": "http://www.legorafi.fr/2021/02/18/la-covid19-deja-vaccinee-contre-nicolas-sarkozy/",
-    "permalink": "/r/france/comments/lmmfy9/la_covid19_déjà_vaccinée_contre_nicolas_sarkozy/",
-    "created_at": "2021-02-18T13:10:14+00:00",
-    "score": 208,
-    "num_comments": 10,
-    "subreddit": "france",
-    "author": "C_kloug",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/ae7DaCimP1Ewu6MxKzMJY-IeFTyDPtG0u8oI2AlIKQQ.jpg?auto=webp&s=0506bdb49adfa75641b4dc88ccd6297c750d9cc0",
-    "ingested_at": "2026-11-01T09:49:38.318128+00:00",
-    "summary": "Polémique alors qu'on apprend que la Covid19 aurait déjà reçu ses injections vaccinales contre Nicolas Sarkozy.",
-    "thumbnail": "thumbnails/lmmfy9.webp",
-    "tags": [
-      "Covid19",
-      "Nicolas Sarkozy",
-      "Gorafi",
-      "Emmanuel Macron",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:57:42.009229+00:00"
-  },
-  {
-    "id": "lmibm2",
-    "title": "Buying a Tesla in Bitcoins cancels 4 times the CO2 savings for its whole lifetime",
-    "url": "https://franck-leroy.medium.com/buying-a-tesla-in-bitcoins-cancels-4-times-the-co2-savings-for-its-whole-lifetime-c28b042e3b9a",
-    "permalink": "/r/france/comments/lmibm2/buying_a_tesla_in_bitcoins_cancels_4_times_the/",
-    "created_at": "2021-02-18T08:56:07+00:00",
-    "score": 614,
-    "num_comments": 397,
-    "subreddit": "france",
-    "author": "_LaDameDuLac_",
-    "flair": "Trompeur ?",
-    "domain": "franck-leroy.medium.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/jBSQF5-mMy6orPYhhnJTpHNP87QWbwd2BycjIVkui3s.jpeg?auto=webp&s=ea78e9b855434a719e102d65f9c7e74d46680351",
-    "ingested_at": "2026-11-01T09:49:38.317396+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/lmibm2.webp",
-    "tags": [
-      "Tesla",
-      "Bitcoins",
-      "CO2",
-      "Trompeur ?"
-    ],
-    "analyzed_at": "2026-11-01T09:57:43.277303+00:00"
   },
   {
     "id": "lmib6l",
@@ -651,9 +395,7 @@
     "ingested_at": "2026-11-01T09:49:38.318176+00:00",
     "summary": "",
     "thumbnail": "thumbnails/lmib6l.webp",
-    "tags": [
-      "Facebook"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:57:42.679940+00:00"
   },
   {
@@ -674,11 +416,7 @@
     "summary": "Selon l’hebdomadaire l’Express, l’ancien président a pu se faire vacciner au mois de janvier à l’hôpital militaire Percy à Clamart.",
     "thumbnail": "thumbnails/lmhg9k.webp",
     "tags": [
-      "Nicolas Sarkozy",
-      "Express",
-      "Percy",
-      "Clamart",
-      "Politique"
+      "Nicolas Sarkozy"
     ],
     "analyzed_at": "2026-11-01T09:57:42.393749+00:00"
   },
@@ -700,35 +438,10 @@
     "summary": "Quelques mois après l'assassinat du professeur Samuel Paty , le sujet des attaques contre la laïcité au sein des établissements scolaires revient dans le débat",
     "thumbnail": "thumbnails/llzyxt.webp",
     "tags": [
-      "Fatiha Agag-Boudjahlat",
-      "Samuel Paty",
-      "Didier Lemaire",
-      "Société"
+      "Laïcité",
+      "Éducation"
     ],
     "analyzed_at": "2026-11-01T09:57:42.483039+00:00"
-  },
-  {
-    "id": "llz4xr",
-    "title": "Communiqué du CNRS : L’« islamogauchisme » n’est pas une réalité scientifique",
-    "url": "https://www.cnrs.fr/fr/l-islamogauchisme-nest-pas-une-realite-scientifique?fbclid=IwAR2WnyPIcnuvcAwISZdUeqr8deCfeqTDo74y7jwniCgDxqpnFj7VWFLK4gU",
-    "permalink": "/r/france/comments/llz4xr/communiqué_du_cnrs_l_islamogauchisme_nest_pas_une/",
-    "created_at": "2021-02-17T17:02:35+00:00",
-    "score": 231,
-    "num_comments": 460,
-    "subreddit": "france",
-    "author": "ZweigBL",
-    "flair": "Politique",
-    "domain": "cnrs.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://b.thumbs.redditmedia.com/qJ8RlDAwc7l-XrVqZvPa-V6VGAsDJqif_dDS-RDOIho.jpg",
-    "ingested_at": "2026-11-01T09:49:38.317992+00:00",
-    "summary": "« L’islamogauchisme », slogan politique utilisé dans le débat public, ne correspond à aucune réalité scientifique. Ce terme aux contours mal définis, fait l’objet de nombreuses prises de positions publiques, tribunes ou pétitions, souvent passionnées.",
-    "thumbnail": "thumbnails/llz4xr.webp",
-    "tags": [
-      "Institutionnel",
-      "Politique"
-    ],
-    "analyzed_at": "2026-11-01T09:57:44.501081+00:00"
   },
   {
     "id": "llu8xi",
@@ -747,9 +460,7 @@
     "ingested_at": "2026-11-01T09:49:38.317857+00:00",
     "summary": "",
     "thumbnail": "thumbnails/llu8xi.webp",
-    "tags": [
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:57:46.260641+00:00"
   },
   {
@@ -769,10 +480,7 @@
     "ingested_at": "2026-11-01T09:49:38.317561+00:00",
     "summary": "",
     "thumbnail": "thumbnails/llpf3h.webp",
-    "tags": [
-      "Twitch",
-      "Culture"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:57:43.666103+00:00"
   },
   {
@@ -793,7 +501,7 @@
     "summary": "De 2002 à 2005, Karine avait été livrée à un homme déjà condamné pour pédophilie. De nombreux signalements avaient été réalisés, mais jamais la fillette n’avait été protégée",
     "thumbnail": "thumbnails/lloq9z.webp",
     "tags": [
-      "Société"
+      "Violences sexuelles"
     ],
     "analyzed_at": "2026-11-01T09:57:43.911141+00:00"
   },
@@ -814,13 +522,7 @@
     "ingested_at": "2026-11-01T09:49:38.317510+00:00",
     "summary": "Dans un rapport publié mardi 16 février, la Cour des comptes préconise de généraliser le remboursement des psychologues libéraux par l’Assurance maladie et recommande une meilleure « gradation » des soins.",
     "thumbnail": "thumbnails/llm43u.webp",
-    "tags": [
-      "Cour",
-      "Sécu",
-      "Assurance",
-      "CMP",
-      "Cour des comptes"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:57:43.777736+00:00"
   },
   {
@@ -840,10 +542,7 @@
     "ingested_at": "2026-11-01T09:49:38.318894+00:00",
     "summary": "Trente insurgés talibans, dont six militants étrangers, ont été tués par une explosion à l'intérieur d'une mosquée où ils s'étaient rassemblés samedi pour un",
     "thumbnail": "thumbnails/ll9ma4.webp",
-    "tags": [
-      "Arab News",
-      "Dawlat Abad"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:57:43.992588+00:00"
   },
   {
@@ -864,10 +563,7 @@
     "summary": "La ministre de l'Enseignement supérieur souhaite ainsi faire le distinguo entre \"recherche académique\" et \"militantisme\".",
     "thumbnail": "thumbnails/ll6qsf.webp",
     "tags": [
-      "Frédérique Vidal",
-      "CNRS",
-      "Enseignement",
-      "Société"
+      "Éducation"
     ],
     "analyzed_at": "2026-11-01T09:57:43.878365+00:00"
   },
@@ -888,37 +584,8 @@
     "ingested_at": "2026-11-01T09:49:38.318558+00:00",
     "summary": "La finale de la Coupe du monde des clubs se tenait jeudi 11 février au Qatar. Mais une polémique s'est invitée dans la partie : une vidéo relayée sur les réseaux sociaux montre deux femmes arbitres qui ne saluent pas le cheikh Joaan bin Hamad Al Thani. Le Qatar parle d'un \"malentendu.\" Que s'est-il vraiment passé ?",
     "thumbnail": "thumbnails/lkdckp.webp",
-    "tags": [
-      "Qatar",
-      "Coupe",
-      "Joaan",
-      "Hamad Al Thani",
-      "FIFA"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:57:44.731678+00:00"
-  },
-  {
-    "id": "lka64r",
-    "title": "Nous sommes le seul pays d’Europe à ne pas avoir de journée nationale hebdomadaire sans chasse",
-    "url": "https://positivr.fr/interview-interdire-la-chasse-le-dimanche-interview-aspas/",
-    "permalink": "/r/france/comments/lka64r/nous_sommes_le_seul_pays_deurope_à_ne_pas_avoir/",
-    "created_at": "2021-02-15T09:30:10+00:00",
-    "score": 123,
-    "num_comments": 67,
-    "subreddit": "france",
-    "author": "RaWRatS31",
-    "flair": "Société",
-    "domain": "positivr.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/LgCldLJah7uyZue-oSkLl3KXxX9mbp1JkiEuxnmjVUA.jpg?auto=webp&s=9cd160cb85521a4f0f14673afa1f24046ad9b043",
-    "ingested_at": "2026-11-01T09:49:38.318990+00:00",
-    "summary": "[Réservé à nos abonnés] Un jour sans chasse par semaine sur tout le territoire : une mesure déjà adoptée par tous nos voisins européens. Pourquoi pas nous ?",
-    "thumbnail": "thumbnails/lka64r.webp",
-    "tags": [
-      "Europe",
-      "Société"
-    ],
-    "analyzed_at": "2026-11-01T09:57:45.886294+00:00"
   },
   {
     "id": "ljuir6",
@@ -937,13 +604,7 @@
     "ingested_at": "2026-11-01T09:49:38.319038+00:00",
     "summary": "Alors qu'ils s'étaient réunis, samedi 13 février dans l'après-midi au lac de Sesquières à Toulouse, des soutiens de Roland, dont la maison avait été squattée pendant plusieurs mois, ont été victimes d'un groupe de...",
     "thumbnail": "thumbnails/ljuir6.webp",
-    "tags": [
-      "Toulouse",
-      "Roland",
-      "Sesquières",
-      "Vin's",
-      "VIDEO"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:57:44.409105+00:00"
   },
   {
@@ -963,11 +624,7 @@
     "ingested_at": "2026-11-01T09:49:38.319208+00:00",
     "summary": "Alors que la France affronte l’Irlande ce dimanche 14 février dans le cadre du Tournoi des VI Nations, coup de projecteur sur ce qui pourrait être une crise maj...",
     "thumbnail": "thumbnails/ljqid9.webp",
-    "tags": [
-      "Irlande",
-      "Tournoi des VI Nations",
-      "Guardian"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:57:44.405573+00:00"
   },
   {
@@ -987,12 +644,7 @@
     "ingested_at": "2026-11-01T09:49:38.318343+00:00",
     "summary": "Les faits se sont déroulés dimanche, au nord-est du pays. Ils seraient l’œuvre des Maï-Maï, un groupe de miliciens aux activités criminelles",
     "thumbnail": "thumbnails/lja9an.webp",
-    "tags": [
-      "Virunga",
-      "RDC",
-      "Maï-Maï",
-      "Soft paywall"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:57:45.514201+00:00"
   },
   {
@@ -1013,11 +665,9 @@
     "summary": "L'organisation d'ultra-droite a reçu samedi 13 février l'annonce de sa dissolution à venir. Elle a dix jours pour répondre.",
     "thumbnail": "thumbnails/lj156z.webp",
     "tags": [
-      "Léon XIV",
-      "Droit et justice",
-      "Gérald Darmanin",
-      "Migrants",
-      "Politique"
+      "Extrême droite",
+      "Institutions",
+      "Gérald Darmanin"
     ],
     "analyzed_at": "2026-11-01T09:57:44.853062+00:00"
   },
@@ -1039,8 +689,7 @@
     "summary": "Mercredi 10 février dans la soirée, un garde-chasse et trois bénévoles ont été pris pour cible par des braconniers. Des coups de feu ont été tirés sur leur voiture alors que les passagers se trouvaient à l'intérieur.",
     "thumbnail": "thumbnails/li6yst.webp",
     "tags": [
-      "Toulouse",
-      "Claude"
+      "Cause animale"
     ],
     "analyzed_at": "2026-11-01T09:57:44.785058+00:00"
   },
@@ -1062,9 +711,7 @@
     "summary": "L’association qui lutte contre la corruption attend toujours que son agrément soit renouvelé. Celui-ci lui permet d’agir en justice en se portant partie civile. Mais Matignon traîne et le bras de fer perdure… Des sénateurs de gauche s’en inquiètent.",
     "thumbnail": "thumbnails/li3lmg.webp",
     "tags": [
-      "Anticor",
-      "Matignon",
-      "Politique"
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T09:57:46.204857+00:00"
   },
@@ -1086,9 +733,7 @@
     "summary": "",
     "thumbnail": "thumbnails/lhuji7.webp",
     "tags": [
-      "BBC",
-      "Chine",
-      "Ouïgoures"
+      "Violences sexuelles"
     ],
     "analyzed_at": "2026-11-01T09:57:45.114905+00:00"
   },
@@ -1109,13 +754,7 @@
     "ingested_at": "2026-11-01T09:49:38.318726+00:00",
     "summary": "GRAND ENTRETIEN - L’écrivain Thomas Chatterton Williams raconte dans un essai sa quête d’identité en tant que métis dans une Amérique obsédée par le racisme. Au Figaro, l’Américain vivant en France confie son attachement à l’option française. En refusant la hantise de la couleur de...",
     "thumbnail": "thumbnails/lhqt1n.webp",
-    "tags": [
-      "Amérique",
-      "États-Unis",
-      "Thomas Chatterton Williams",
-      "Figaro",
-      "GRAND ENTRETIEN"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:57:45.953508+00:00"
   },
   {
@@ -1136,9 +775,7 @@
     "summary": "Une entreprise de Bill Gates, fondateur de Microsoft, sapprête à pulvériser de la poussière dans latmosphère pour bloquer le soleil. La raison : compenser le réchauffement climatique. Le bitcoin peut-il mener lhumanité au chaos dû au changement climatique ?",
     "thumbnail": "thumbnails/lgs4zr.webp",
     "tags": [
-      "Bill Gates",
-      "Microsoft",
-      "Écologie"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T09:57:45.131853+00:00"
   },
@@ -1160,11 +797,7 @@
     "summary": "L’université de Nantes vient d’obtenir un Emmy award, une récompense américaine remise par l’Académie des arts et des sciences de la télévision, dans le cadre de sa collaboration avec la plateforme Netflix.",
     "thumbnail": "thumbnails/lgr3hu.webp",
     "tags": [
-      "Netflix",
-      "Nantes",
-      "Emmy",
-      "Académie",
-      "Science"
+      "Éducation"
     ],
     "analyzed_at": "2026-11-01T09:57:45.521520+00:00"
   },
@@ -1186,7 +819,8 @@
     "summary": "",
     "thumbnail": "thumbnails/lgcvnc.webp",
     "tags": [
-      "Écologie"
+      "Environnement",
+      "Économie"
     ],
     "analyzed_at": "2026-11-01T09:57:45.700059+00:00"
   },
@@ -1208,11 +842,9 @@
     "summary": "Cette mise en examen intervient dans le cadre de l’information judiciaire en cours au parquet de Nanterre.",
     "thumbnail": "thumbnails/lgb6e5.webp",
     "tags": [
+      "Justice",
       "Patrick Balkany",
-      "Levallois-Perret",
-      "Nanterre",
-      "Justice – Procès",
-      "Affaire Balkany"
+      "Corruption"
     ],
     "analyzed_at": "2026-11-01T09:57:46.130710+00:00"
   },
@@ -1235,57 +867,9 @@
     "thumbnail": "thumbnails/lg35yh.webp",
     "tags": [
       "Alexandre Benalla",
-      "Paris",
-      "Emmanuel Macron",
-      "Contrescarpe",
-      "Politique"
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T09:57:46.037595+00:00"
-  },
-  {
-    "id": "lfy6li",
-    "title": "Endométriose : « Les médecins m’ont dit que c'était normal d’avoir mal, on m’a traitée de malade imaginaire »",
-    "url": "https://www.aufeminin.com/sexualite-et-sante/endometriose-on-m-a-traite-de-malade-imaginaire-temoignage-s4022056.html",
-    "permalink": "/r/france/comments/lfy6li/endométriose_les_médecins_mont_dit_que_cétait/",
-    "created_at": "2021-02-09T08:36:35+00:00",
-    "score": 910,
-    "num_comments": 216,
-    "subreddit": "france",
-    "author": "CerberusXt",
-    "flair": "Société",
-    "domain": "aufeminin.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/sGA-nFW-ZH9reWJ-zm4PfjrHhSDxwsDLUjsOYsEt84c.jpeg?auto=webp&s=e223aa6a43fec806487d44bbfee27c2eff95dd95",
-    "ingested_at": "2026-11-01T09:49:38.317367+00:00",
-    "summary": "Comme 1 femme sur 10 en France, Chloé, étudiante de 21 ans, est atteinte d'endométriose. Elle raconte les 7 ans de mépris et de souffrance endurés avant le diagnostic de la maladie.",
-    "thumbnail": "thumbnails/lfy6li.webp",
-    "tags": [
-      "Société"
-    ],
-    "analyzed_at": "2026-11-01T09:57:47.061962+00:00"
-  },
-  {
-    "id": "lffq6k",
-    "title": "L’Europe valide enfin l'arrivée d'un chargeur unique",
-    "url": "https://www.journaldugeek.com/2021/02/08/leurope-valide-enfin-larrivee-dun-chargeur-unique/",
-    "permalink": "/r/france/comments/lffq6k/leurope_valide_enfin_larrivée_dun_chargeur_unique/",
-    "created_at": "2021-02-08T16:39:51+00:00",
-    "score": 431,
-    "num_comments": 184,
-    "subreddit": "france",
-    "author": "dClauzel",
-    "flair": "Actus",
-    "domain": "journaldugeek.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/n6YP56FPG3KN1xg5yzj7ILVT5h8w-BsIEvQZ_J-rHx8.jpeg?auto=webp&s=3b6aecc8182f29dcd9f0af30756bba63dd1828e3",
-    "ingested_at": "2026-11-01T09:49:38.317536+00:00",
-    "summary": "Le parlement européen a voté jeudi dernier l’arrivée d’un chargeur unique sur smartphones. Une initiative qui facilitera la vie de beaucoup d’usagers, mais qui promet déjà de ne pas plaire à Apple.",
-    "thumbnail": "thumbnails/lffq6k.webp",
-    "tags": [
-      "Apple",
-      "USB-C"
-    ],
-    "analyzed_at": "2026-11-01T09:57:47.110525+00:00"
   },
   {
     "id": "lf7wj8",
@@ -1304,11 +888,7 @@
     "ingested_at": "2026-11-01T09:49:38.317737+00:00",
     "summary": "",
     "thumbnail": "thumbnails/lf7wj8.webp",
-    "tags": [
-      "EPR de Flamanville",
-      "Bouygues",
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:57:46.317209+00:00"
   },
   {
@@ -1349,11 +929,7 @@
     "summary": "[VIDÉO] LAÏCITÉ - Didier Lemaire, enseignant depuis vingt ans à Trappes (Yvelines), est visé par des propos haineux depuis qu'il a rédigé une lettre à la suite de l'assassinat de Samuel Paty. \"Ces attaques sont une manière de me désigner comme une cible\", témoigne-t-il sur LCI.",
     "thumbnail": "thumbnails/lf7exl.webp",
     "tags": [
-      "Samuel Paty",
-      "Trappes",
-      "Didier Lemaire",
-      "LCI",
-      "Société"
+      "Éducation"
     ],
     "analyzed_at": "2026-11-01T09:57:47.029794+00:00"
   },
@@ -1375,33 +951,10 @@
     "summary": "La remise en liberté des trois suspects de 35 cambriolages commis à Montpellier avant leur procès fixé au mois d'avril suscite émotion et consternation dans les rangs des policiers montpelliérains, selon le syndicat Unité SGP Police FO.",
     "thumbnail": "thumbnails/lehwry.webp",
     "tags": [
-      "Montpellier",
-      "Arrestation – Garde à vue",
-      "Police nationale",
-      "Syndicats – Syndicalisme",
-      "Société"
+      "Police",
+      "Grèves et syndicats"
     ],
     "analyzed_at": "2026-11-01T09:57:46.574440+00:00"
-  },
-  {
-    "id": "lefdbe",
-    "title": "Vue de ma fenêtre ce matin",
-    "url": "https://i.ytimg.com/vi/3I7LjJ3-76s/maxresdefault.jpg",
-    "permalink": "/r/france/comments/lefdbe/vue_de_ma_fenêtre_ce_matin/",
-    "created_at": "2021-02-07T04:32:05+00:00",
-    "score": 213,
-    "num_comments": 19,
-    "subreddit": "france",
-    "author": "JumboGrumbo",
-    "flair": "",
-    "domain": "i.ytimg.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/4jVG-LxzlsvLXDSEuYryCXJ8TOq-xYrWOTcHlk0o6pI.jpg?auto=webp&s=a7d94e01df8c3fd968fc002d0a8eb9d3aba797f8",
-    "ingested_at": "2026-11-01T09:49:38.318048+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/lefdbe.webp",
-    "tags": [],
-    "analyzed_at": "2026-11-01T09:57:46.715686+00:00"
   },
   {
     "id": "le2ynk",
@@ -1420,10 +973,7 @@
     "ingested_at": "2026-11-01T09:49:38.319089+00:00",
     "summary": "",
     "thumbnail": "thumbnails/le2ynk.webp",
-    "tags": [
-      "Tunisie",
-      "Allah"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:57:50.048754+00:00"
   },
   {
@@ -1443,7 +993,9 @@
     "ingested_at": "2026-11-01T09:49:38.318941+00:00",
     "summary": "",
     "thumbnail": "thumbnails/ldvb00.webp",
-    "tags": [],
+    "tags": [
+      "Éducation"
+    ],
     "analyzed_at": "2026-11-01T09:57:48.291587+00:00"
   },
   {
@@ -1463,9 +1015,7 @@
     "ingested_at": "2026-11-01T09:49:38.317712+00:00",
     "summary": "",
     "thumbnail": "thumbnails/ldea18.webp",
-    "tags": [
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:57:51.971124+00:00"
   },
   {
@@ -1486,10 +1036,9 @@
     "summary": "Le chef de l’Union populaire républicaine avait été placé en garde à vue et entendu par la police mercredi 3 février. Il dément ces accusations.",
     "thumbnail": "thumbnails/ld9ya0.webp",
     "tags": [
-      "François Asselineau",
-      "Union",
-      "France Télévisions",
-      "Politique"
+      "Justice",
+      "Violences sexuelles",
+      "Élection présidentielle"
     ],
     "analyzed_at": "2026-11-01T09:57:47.104629+00:00"
   },
@@ -1511,10 +1060,7 @@
     "summary": "Les enseignants de l'école Saint-Jérôme des Lilas (13e), ont découvert plusieurs douilles et impacts de balles dans l'établissement. Ils ont exercé leur droit de retrait, mais celui-ci leur a d'abord été refusé par l'académie.",
     "thumbnail": "thumbnails/lckffn.webp",
     "tags": [
-      "Saint-Jérôme des Lilas",
-      "Marseille",
-      "Clément Fortier",
-      "Société"
+      "Éducation"
     ],
     "analyzed_at": "2026-11-01T09:57:48.284849+00:00"
   },
@@ -1535,12 +1081,7 @@
     "ingested_at": "2026-11-01T09:49:38.317636+00:00",
     "summary": "Une statue du général Dumas, qui avait été fondue par les nazis, va être de nouveau érigée dans le 17e arrondissement de Paris",
     "thumbnail": "thumbnails/lcfcdn.webp",
-    "tags": [
-      "Dumas",
-      "Révolution",
-      "Paris",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:57:47.473664+00:00"
   },
   {
@@ -1561,11 +1102,9 @@
     "summary": "Un sondage YouGov pour \"Le HuffPost\" révèle que les Français restent très sceptiques sur la gestion de la crise par le gouvernement.",
     "thumbnail": "thumbnails/lccp0a.webp",
     "tags": [
-      "Français",
-      "HuffPost",
-      "Jean Castex",
-      "YouGov",
-      "Covid-19"
+      "Covid-19",
+      "Élections",
+      "Jean Castex"
     ],
     "analyzed_at": "2026-11-01T09:57:47.573721+00:00"
   },
@@ -1587,9 +1126,8 @@
     "summary": "Le juge des référés déboute deux journalistes qui se plaignaient de n’avoir pas pu pénétrer à cinq reprises dans les périmètres de sécurité entourant des opérations d’évacuation dans les régions de Calais et de Dunkerque.",
     "thumbnail": "thumbnails/lbytl6.webp",
     "tags": [
-      "Conseil Etat",
-      "Calais et de Dunkerque",
-      "Calais"
+      "Médias",
+      "Immigration"
     ],
     "analyzed_at": "2026-11-01T09:57:47.782073+00:00"
   },
@@ -1611,8 +1149,7 @@
     "summary": "Six femmes ont lancé un collectif \"Un jour un chasseur\" pour recueillir les témoignages de personnes victimes d'une balle perdue, d'intimidation ou de menaces de la part de chasseurs.",
     "thumbnail": "thumbnails/lbln3r.webp",
     "tags": [
-      "Chasse et braconnage",
-      "Société"
+      "Cause animale"
     ],
     "analyzed_at": "2026-11-01T09:57:48.006085+00:00"
   },
@@ -1634,11 +1171,8 @@
     "summary": "Victoire pour les organisations requérantes de l’Affaire du siècle : mercredi 3 février, l’État français a été reconnu coupable d’inaction climatique.",
     "thumbnail": "thumbnails/lbkx9o.webp",
     "tags": [
-      "État",
-      "Reporterre",
-      "Écologie",
-      "Paris",
-      "Politique"
+      "Environnement",
+      "Justice"
     ],
     "analyzed_at": "2026-11-01T09:57:47.998568+00:00"
   },
@@ -1660,10 +1194,7 @@
     "summary": "En quinze ans, le chiffre d’affaires des entreprises du CAC 40 a en moyenne été multiplié par deux et leurs bénéfices par près de trois. Les salariés à l’orig…",
     "thumbnail": "thumbnails/lasdhg.webp",
     "tags": [
-      "CAC 40",
-      "Hermès",
-      "Thomas Vacheron",
-      "Économie"
+      "Travail"
     ],
     "analyzed_at": "2026-11-01T09:57:47.958073+00:00"
   },
@@ -1684,10 +1215,7 @@
     "ingested_at": "2026-11-01T09:49:38.318774+00:00",
     "summary": "Spécialiste des processus de financiarisation, l’économiste Thomas Dallery en explique les mécanismes, les ressorts et surtout les conséquences. Au vu des som…",
     "thumbnail": "thumbnails/lasatu.webp",
-    "tags": [
-      "Thomas Dallery",
-      "Économie"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:57:48.051085+00:00"
   },
   {
@@ -1711,28 +1239,6 @@
     "analyzed_at": "2026-11-01T09:57:49.172024+00:00"
   },
   {
-    "id": "lappq1",
-    "title": "VideoLAN, l'association derrière VLC, fête ses 20 ans",
-    "url": "https://www.videolan.org/press/videolan-20.html",
-    "permalink": "/r/france/comments/lappq1/videolan_lassociation_derrière_vlc_fête_ses_20_ans/",
-    "created_at": "2021-02-02T06:50:45+00:00",
-    "score": 1317,
-    "num_comments": 94,
-    "subreddit": "france",
-    "author": "Quenhus",
-    "flair": "",
-    "domain": "videolan.org",
-    "selftext": "",
-    "reddit_thumbnail": "https://a.thumbs.redditmedia.com/BxQ7O12uKM9jzXA1of1JBUCFdpruFbmLzjfdLE5cwZ0.jpg",
-    "ingested_at": "2026-11-01T09:49:38.317313+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/lappq1.webp",
-    "tags": [
-      "VLC"
-    ],
-    "analyzed_at": "2026-11-01T09:57:48.136124+00:00"
-  },
-  {
     "id": "lamsra",
     "title": "Anticor : le gouvernement repousse sa décision sur l’agrément de l’association anti-corruption",
     "url": "https://www.capital.fr/economie-politique/anticor-le-gouvernement-repousse-sa-decision-sur-lagrement-de-lassociation-anti-corruption-1392647",
@@ -1750,11 +1256,8 @@
     "summary": "Initialement attendue mardi 2 février, la décision de Matignon concernant le renouvellement pour trois ans de l’agrément ministériel qui permet à l’association Anticor de se constituer partie civile dans les affaires de corruption, a été repoussée au 10 février.",
     "thumbnail": "thumbnails/lamsra.webp",
     "tags": [
-      "Anticor",
-      "Eric Dupond-Moretti",
       "Jean Castex",
-      "Matignon",
-      "Politique"
+      "Éric Dupond-Moretti"
     ],
     "analyzed_at": "2026-11-01T09:57:49.235738+00:00"
   },
@@ -1775,12 +1278,7 @@
     "ingested_at": "2026-11-01T09:49:38.318271+00:00",
     "summary": "Difficile d'imaginer pire désastre. Mardi 19 janvier, l'entreprise de sécurité PSafe identifiait une fuite très inquiétante, puisqu'elle permettait d'accéder à plusieurs données critiques de plus de 220 millions de Brésiliens, soit plus que le total de la population (et pour cause : la base contient aussi des données",
     "thumbnail": "thumbnails/laag7z.webp",
-    "tags": [
-      "Brésil",
-      "PSafe",
-      "Brésiliens",
-      "CPF"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:57:49.066661+00:00"
   },
   {
@@ -1800,10 +1298,7 @@
     "ingested_at": "2026-11-01T09:49:38.319064+00:00",
     "summary": "La députée Nadia Essayan avait posé cette proposition de loi en 2019, pour faciliter le quotidien des personnes autistes.",
     "thumbnail": "thumbnails/la225z.webp",
-    "tags": [
-      "Assemblée",
-      "Nadia Essayan"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:57:48.769277+00:00"
   }
 ]

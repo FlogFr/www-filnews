@@ -16,13 +16,7 @@
     "ingested_at": "2026-11-01T11:14:22.354166+00:00",
     "summary": "L’acteur est apparu dans de nombreux films dont L’Ours, Nikita, ou encore La Balance.",
     "thumbnail": "thumbnails/1ol37h6.webp",
-    "tags": [
-      "Tchéky Karyo",
-      "Box office",
-      "Film",
-      "Bandes annonces",
-      "Affiche"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:20:29.134650+00:00"
   },
   {
@@ -43,10 +37,8 @@
     "summary": "La gauche défendait ce vendredi l’instauration de la taxe de l’économiste Gabriel Zucman, impôt minimum de 2 % sur les patrimoines de plus d",
     "thumbnail": "thumbnails/1ol2tv0.webp",
     "tags": [
-      "Zucman",
-      "Assemblée",
-      "Gabriel Zucman",
-      "Politique"
+      "Budget et fiscalité",
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T11:20:26.606734+00:00"
   },
@@ -68,10 +60,8 @@
     "summary": "Le planning est chargé à l'Assemblée nationale ce vendredi 31 octobre. Les députés ont rejeté l'instauration de la taxation du patrimoine dite taxe Zucman. Ils se prononceront également en commission sur la suspension de la réforme des retraites.",
     "thumbnail": "thumbnails/1okzjkg.webp",
     "tags": [
-      "Zucman",
-      "Assemblée",
-      "RN",
-      "Politique"
+      "Budget et fiscalité",
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T11:20:26.772896+00:00"
   },
@@ -92,13 +82,7 @@
     "ingested_at": "2026-11-01T11:14:22.354874+00:00",
     "summary": "L’Europe met à nouveau en pause son projet d’imposer aux messageries chiffrées comme Signal ou WhatsApp le scan de nos conversations en ligne. Le Danemark, à la tête de la présidence tournante du Conseil, propose désormais des détections volontaires.",
     "thumbnail": "thumbnails/1oktvkc.webp",
-    "tags": [
-      "Danemark",
-      "Conseil",
-      "Signal",
-      "WhatsApp",
-      "Tech"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:20:27.332267+00:00"
   },
   {
@@ -118,11 +102,7 @@
     "ingested_at": "2026-11-01T11:14:22.352925+00:00",
     "summary": "Depuis plusieurs années, les mélodies tirées de jeux vidéo investissent les salles de concert. Une aubaine pour les joueurs qui peuvent revivre des moments marquants, et pour le milieu de la musique classique qui cherche à renouveler son public.",
     "thumbnail": "thumbnails/1okrq9h.webp",
-    "tags": [
-      "Jeux Vidéo",
-      "Les choix de la rédaction",
-      "Culture"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:20:27.031763+00:00"
   },
   {
@@ -143,8 +123,7 @@
     "summary": "Macron rejoint Hollande au palmarès de l'impopularité record",
     "thumbnail": "thumbnails/1ok9hjb.webp",
     "tags": [
-      "Hollande",
-      "Politique"
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T11:20:28.286983+00:00"
   },
@@ -166,11 +145,7 @@
     "summary": "À la Une de la presse ce jeudi : les révélations du Guardian sur un accord secret entre deux géants du numérique, Amazon et Google, et le gouvernement israélien concernant la divulgation d'informations…",
     "thumbnail": "thumbnails/1ojycp6.webp",
     "tags": [
-      "Israël",
-      "Guardian",
-      "Amazon",
-      "Gafam",
-      "Tech"
+      "Conflit israélo-palestinien"
     ],
     "analyzed_at": "2026-11-01T11:20:27.666018+00:00"
   },
@@ -192,9 +167,7 @@
     "summary": "La secrétaire générale du syndicat, Sophie Binet, alerte sur la dégradation de la situation de l'industrie.",
     "thumbnail": "thumbnails/1ojy14h.webp",
     "tags": [
-      "CGT",
-      "Sophie Binet",
-      "Économie"
+      "Grèves et syndicats"
     ],
     "analyzed_at": "2026-11-01T11:20:27.713694+00:00"
   },
@@ -216,11 +189,8 @@
     "summary": "Selon l’extrême droite au pouvoir en Italie, les visites scolaires à Auschwitz seraient instrumentalisées par la gauche pour conserver l’hégémonie culturelle. Tout comme la mémoir...",
     "thumbnail": "thumbnails/1ojxr3y.webp",
     "tags": [
-      "Auschwitz",
       "Giorgia Meloni",
-      "Italie",
-      "Payant",
-      "Politique"
+      "Extrême droite"
     ],
     "analyzed_at": "2026-11-01T11:20:28.886609+00:00"
   },
@@ -242,11 +212,7 @@
     "summary": "Les députés ont adopté jeudi une proposition de résolution du Rassemblement national visant à «dénoncer» l’accord franco-algérien de 1968. Une première «historique» pour le parti, obtenue à une voix près avec l’appui des groupes LR et Horizons.",
     "thumbnail": "thumbnails/1ojw9bt.webp",
     "tags": [
-      "RN",
-      "Algérie",
-      "Rassemblement",
-      "Assemblée",
-      "Politique"
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T11:20:29.461592+00:00"
   },
@@ -268,11 +234,7 @@
     "summary": "Dans un restaurant niçois, le ton est vite monté entre l’ex-garde des Sceaux et le maire de Nice, avec un échange d’insultes cinglantes et une menace de l’élu.",
     "thumbnail": "thumbnails/1ojtpem.webp",
     "tags": [
-      "Nice",
-      "OQTF",
-      "Eric Dupont-Moretti et Christian Estrosi",
-      "Sceaux",
-      "Politique"
+      "Immigration"
     ],
     "analyzed_at": "2026-11-01T11:20:29.916690+00:00"
   },
@@ -293,7 +255,9 @@
     "ingested_at": "2026-11-01T11:14:22.351867+00:00",
     "summary": "",
     "thumbnail": "thumbnails/1ojfzex.webp",
-    "tags": [],
+    "tags": [
+      "Violences sexuelles"
+    ],
     "analyzed_at": "2026-11-01T11:20:28.605645+00:00"
   },
   {
@@ -314,8 +278,7 @@
     "summary": "",
     "thumbnail": "thumbnails/1oj8tte.webp",
     "tags": [
-      "EDF",
-      "Politique"
+      "Énergie"
     ],
     "analyzed_at": "2026-11-01T11:20:28.704337+00:00"
   },
@@ -336,10 +299,7 @@
     "ingested_at": "2026-11-01T11:14:22.354092+00:00",
     "summary": "",
     "thumbnail": "thumbnails/1oj5vse.webp",
-    "tags": [
-      "Pierre-Edouard Stérin",
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:20:28.949099+00:00"
   },
   {
@@ -360,11 +320,7 @@
     "summary": "Dans la bande de Gaza, les corps de Palestiniens restitués par Israël peinent à être identifiés. Nombre d'entre eux sont rendus dans des conditions qui ne permettent pas leur identification, et présentent…",
     "thumbnail": "thumbnails/1oj0c22.webp",
     "tags": [
-      "Israël",
-      "Gaza",
-      "Palestiniens",
-      "Guerre Israël-Gaza",
-      "Monde"
+      "Conflit israélo-palestinien"
     ],
     "analyzed_at": "2026-11-01T11:20:29.122652+00:00"
   },
@@ -386,11 +342,8 @@
     "summary": "Selon les informations de RTL, il bénéficie de quatre parloirs avec sa famille par semaine alors qu'aucun autre prévenu n'en a plus de trois. Il bénéficie également de visites plus longues.",
     "thumbnail": "thumbnails/1oii575.webp",
     "tags": [
-      "RTL",
       "Nicolas Sarkozy",
-      "Santé",
-      "Justice",
-      "Blabla"
+      "Prisons"
     ],
     "analyzed_at": "2026-11-01T11:20:29.544328+00:00"
   },
@@ -412,9 +365,7 @@
     "summary": "",
     "thumbnail": "thumbnails/1oief23.webp",
     "tags": [
-      "Benyamin Nétanyahou",
-      "Gaza",
-      "Monde"
+      "Conflit israélo-palestinien"
     ],
     "analyzed_at": "2026-11-01T11:20:28.989796+00:00"
   },
@@ -436,11 +387,7 @@
     "summary": "Elon Musk lance sa propre encyclopédie en ligne pour concurrencer Wikipédia, qu'il accuse d'être \"contrôlé par des activistes d'extrême gauche\". Sa version 0.1, déjà riche de près de 900 000 définitions,…",
     "thumbnail": "thumbnails/1oi8ej5.webp",
     "tags": [
-      "Wikipédia",
-      "Elon Musk",
-      "Grokipedia",
-      "États-Unis",
-      "Politique"
+      "Elon Musk"
     ],
     "analyzed_at": "2026-11-01T11:20:29.063593+00:00"
   },
@@ -462,9 +409,7 @@
     "summary": "",
     "thumbnail": "thumbnails/1oi5bgn.webp",
     "tags": [
-      "Jordan Bardella",
-      "Marc Bloch",
-      "Politique"
+      "Jordan Bardella"
     ],
     "analyzed_at": "2026-11-01T11:20:29.537576+00:00"
   },
@@ -486,11 +431,7 @@
     "summary": "DÉCRYPTAGE - L’administration publique avait pourtant drastiquement réduit ses commandes après le scandale McKinsey, survenu lors de la deuxième campagne présidentielle d’Emmanuel Macron.",
     "thumbnail": "thumbnails/1ohm64f.webp",
     "tags": [
-      "État",
-      "Cabinets de conseil",
-      "McKinsey",
-      "Emmanuel Macron",
-      "Politique"
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T11:20:30.836746+00:00"
   },
@@ -512,10 +453,7 @@
     "summary": "Connu pour ses vidéos qui ciblent les violences contre les animaux, le naturaliste antichasse dénonce, images à l’appui, l’agression physiqu",
     "thumbnail": "thumbnails/1ohgcdb.webp",
     "tags": [
-      "Pierre Rigaux",
-      "Fontainebleau",
-      "Rallye Fontainebleau",
-      "Fait Divers"
+      "Cause animale"
     ],
     "analyzed_at": "2026-11-01T11:20:29.548083+00:00"
   },
@@ -536,13 +474,7 @@
     "ingested_at": "2026-11-01T11:14:22.354753+00:00",
     "summary": "Deux suspects ont été interpellés samedi. Deux autres personnes sont toujours recherchées pour ce casse spectaculaire qui s'est déroulé il y a une semaine dans le célèbre musée parisien.",
     "thumbnail": "thumbnails/1ogiwwj.webp",
-    "tags": [
-      "Louvre",
-      "ADN",
-      "Paris",
-      "Cambriolage au musée du Louvre",
-      "Faits-divers"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:20:29.644596+00:00"
   },
   {
@@ -562,11 +494,7 @@
     "ingested_at": "2026-11-01T11:14:22.353922+00:00",
     "summary": "Dans le nouvel album d'Astérix, les auteurs Fabcaro et Didier Conrad ont souhaité faire évoluer la représentation du personnage noir",
     "thumbnail": "thumbnails/1ogg7kr.webp",
-    "tags": [
-      "Astérix",
-      "Fabcaro et Didier Conrad",
-      "Culture"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:20:29.806338+00:00"
   },
   {
@@ -586,9 +514,7 @@
     "ingested_at": "2026-11-01T11:14:22.355094+00:00",
     "summary": "INFO LE PARISIEN. Une opération a été déclenchée ce samedi soir en urgence dans le cadre de l’enquête sur le cambriolage historique au célè",
     "thumbnail": "thumbnails/1ogfu2u.webp",
-    "tags": [
-      "Louvre"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:20:30.040415+00:00"
   },
   {
@@ -609,36 +535,11 @@
     "summary": "Le Sénat, contrôlé par la droite et les macronistes, \"rétablira la réforme des retraites\" dans le cadre de l'examen du budget 2026 de la Sécurité sociale, si l'Assemblée vote sa suspension.",
     "thumbnail": "thumbnails/1ofx2vs.webp",
     "tags": [
-      "Assemblée",
-      "Sénat",
+      "Institutions",
       "Gérard Larcher",
-      "Sécurité"
+      "Retraites"
     ],
     "analyzed_at": "2026-11-01T11:20:29.693243+00:00"
-  },
-  {
-    "id": "1ofvhqv",
-    "title": "Le gouvernement acte la disparition de 60 millions de consommateurs",
-    "url": "https://actualitte.com/article/126811/presse/le-gouvernement-acte-la-disparition-de-60-millions-de-consommateurs",
-    "permalink": "/r/france/comments/1ofvhqv/le_gouvernement_acte_la_disparition_de_60/",
-    "created_at": "2025-10-25T16:13:38+00:00",
-    "score": 503,
-    "num_comments": 87,
-    "subreddit": "france",
-    "author": "Baobey",
-    "flair": "Actus",
-    "domain": "actualitte.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/OPAYn08rGJDtI7MGZPLJzso2xSCusWSg-VB7F-tf7fs.jpeg?auto=webp&s=ab6289f63fc9990195209e363aa7d87ac892c15c",
-    "ingested_at": "2026-11-01T11:14:22.352585+00:00",
-    "summary": "C&rsquo;est une page de l&rsquo;histoire du service public de la consommation qui s&rsquo;appr&ecirc;te &agrave; se tourner.",
-    "thumbnail": "thumbnails/1ofvhqv.webp",
-    "tags": [
-      "INC",
-      "Lecornu II",
-      "AFP"
-    ],
-    "analyzed_at": "2026-11-01T11:20:30.937870+00:00"
   },
   {
     "id": "1ofnczi",
@@ -658,8 +559,7 @@
     "summary": "France Travail peine souvent à jouer son rôle de tremplin de retour à l’emploi. Entre conseils illégaux, dossiers retardés et formations impossibles, les usagers regrettent que l’institution soit plus proche du frein professionnel que de l’autoroute",
     "thumbnail": "thumbnails/1ofnczi.webp",
     "tags": [
-      "France Travail",
-      "Société"
+      "Travail"
     ],
     "analyzed_at": "2026-11-01T11:20:30.191741+00:00"
   },
@@ -681,11 +581,8 @@
     "summary": "\"Le pacte Faure-Lecornu s'affiche au grand jour dans l’hémicycle\", a dénoncé le député LFI Thomas Portes.",
     "thumbnail": "thumbnails/1ofdu6o.webp",
     "tags": [
-      "LFI",
-      "PS",
-      "Faure-Lecornu",
-      "LFI Thomas Portes",
-      "Politique"
+      "Institutions",
+      "Budget et fiscalité"
     ],
     "analyzed_at": "2026-11-01T11:20:30.078478+00:00"
   },
@@ -707,11 +604,7 @@
     "summary": "Depuis son instauration en 1994, cette peine n'a été prononcée qu'à quatre reprises pour des meurtres d'enfants accompagnés de viols ou tortures.",
     "thumbnail": "thumbnails/1of0u5p.webp",
     "tags": [
-      "Dahbia Benkired",
-      "Lola",
-      "Meurtre de Lola",
-      "Faits-divers",
-      "Justice – Procès"
+      "Justice"
     ],
     "analyzed_at": "2026-11-01T11:20:30.145304+00:00"
   },
@@ -733,8 +626,7 @@
     "summary": "",
     "thumbnail": "thumbnails/1oewngk.webp",
     "tags": [
-      "Zyed et Bouna",
-      "Blabla"
+      "Nicolas Sarkozy"
     ],
     "analyzed_at": "2026-11-01T11:20:32.059594+00:00"
   },
@@ -756,11 +648,8 @@
     "summary": "L’armée et la police locale collaborent pour clarifier l’origine du malentendu, rapporte Der Spiegel. Un soldat de la Bundeswehr a été légèrement blessé au visage.",
     "thumbnail": "thumbnails/1oe9iev.webp",
     "tags": [
-      "Bundeswehr",
-      "Allemagne",
-      "Armée",
-      "Der Spiegel",
-      "Spiegel"
+      "Police",
+      "Défense"
     ],
     "analyzed_at": "2026-11-01T11:20:30.928739+00:00"
   },
@@ -782,7 +671,7 @@
     "summary": "",
     "thumbnail": "thumbnails/1oe9clt.webp",
     "tags": [
-      "Politique"
+      "Extrême droite"
     ],
     "analyzed_at": "2026-11-01T11:20:31.784956+00:00"
   },
@@ -803,12 +692,7 @@
     "ingested_at": "2026-11-01T11:14:22.355144+00:00",
     "summary": "Plus qu’une insulte, le mot « cassos » révèle la précarité et la relégation qui structurent la vie de nombreux jeunes ruraux.",
     "thumbnail": "thumbnails/1oe399t.webp",
-    "tags": [
-      "Campagne",
-      "Méritocratie",
-      "Ruralité",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:20:30.853580+00:00"
   },
   {
@@ -829,11 +713,8 @@
     "summary": "Un sondage Ifop, commandé par le PS, montre que la taxe Zucman sur les ultrariches est soutenue jusque dans les rangs des sympathisants LR, à 89 %, et Renaissance, à 92 %. Une victoire idéologique pour la gauche, plus habituée aux défaites ces dernières années ?",
     "thumbnail": "thumbnails/1oe2ucw.webp",
     "tags": [
-      "Zucman",
-      "Français",
-      "Ifop",
-      "PS",
-      "Politique"
+      "Budget et fiscalité",
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T11:20:32.636844+00:00"
   },
@@ -855,7 +736,7 @@
     "summary": "",
     "thumbnail": "thumbnails/1oe27x1.webp",
     "tags": [
-      "Société"
+      "Logement"
     ],
     "analyzed_at": "2026-11-01T11:20:30.420708+00:00"
   },
@@ -878,8 +759,7 @@
     "thumbnail": "thumbnails/1oe00wp.webp",
     "tags": [
       "François Fillon",
-      "CEDH",
-      "Politique"
+      "Corruption"
     ],
     "analyzed_at": "2026-11-01T11:20:30.859942+00:00"
   },
@@ -901,8 +781,7 @@
     "summary": "Il y a quelques semaines, la France fut le seul pays Ã dÃ©fendre une dÃ©cision controversÃ©e devant les tribunaux europÃ©ens : Ã©largir la \"taxe copie privÃ©e\"",
     "thumbnail": "thumbnails/1odz1n8.webp",
     "tags": [
-      "Netflix",
-      "Tech"
+      "Budget et fiscalité"
     ],
     "analyzed_at": "2026-11-01T11:20:31.299731+00:00"
   },
@@ -925,10 +804,8 @@
     "thumbnail": "thumbnails/1odpzgu.webp",
     "tags": [
       "Nicolas Sarkozy",
-      "Santé",
-      "Sarkozy",
       "Prisons",
-      "Politique"
+      "Grèves et syndicats"
     ],
     "analyzed_at": "2026-11-01T11:20:31.523770+00:00"
   },
@@ -949,12 +826,7 @@
     "ingested_at": "2026-11-01T11:14:22.355202+00:00",
     "summary": "L’entreprise allemande Böcker a profité de l’émotion suscitée par le cambriolage du musée le plus visité au monde pour promouvoir son matériel sur les réseaux sociaux.",
     "thumbnail": "thumbnails/1odip3o.webp",
-    "tags": [
-      "Louvre",
-      "musée du Louvre",
-      "Böcker",
-      "Alexander Böcker"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:20:31.603626+00:00"
   },
   {
@@ -974,12 +846,7 @@
     "ingested_at": "2026-11-01T11:14:22.354728+00:00",
     "summary": "Quatre ans après le succès du premier film, Alexandre Astier replonge dans l'univers arthurien avec une suite qui divise la critique. Entre déception et enthousiasme mesuré, les médias s'accordent sur un constat: ce nouveau chapitre peine à retrouver la magie de la série originale.",
     "thumbnail": "thumbnails/1oddvjp.webp",
-    "tags": [
-      "Alexandre Astier",
-      "Figaro",
-      "Arthur",
-      "Culture"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:20:31.367882+00:00"
   },
   {
@@ -1001,10 +868,7 @@
     "thumbnail": "thumbnails/1odctyq.webp",
     "tags": [
       "Marine Tondelier",
-      "Élysée",
-      "Nouvel Obs",
-      "Secrétaire",
-      "Politique"
+      "Élection présidentielle"
     ],
     "analyzed_at": "2026-11-01T11:20:31.474560+00:00"
   },
@@ -1025,13 +889,7 @@
     "ingested_at": "2026-11-01T11:14:22.353609+00:00",
     "summary": "EXCLUSIF - Le haut-commissariat au Plan et à la Stratégie apporte un éclairage chiffré sur le malaise des jeunes actifs d’aujourd’hui par rapport aux « boomers ».",
     "thumbnail": "thumbnails/1od6oab.webp",
-    "tags": [
-      "Nicolas",
-      "Clément Beaune",
-      "Finance",
-      "Plan",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:20:32.105811+00:00"
   },
   {
@@ -1052,9 +910,7 @@
     "summary": "Une récente étude consacrée à la baisse des impôts de production conclut que les entreprises bénéficiaires n’ont rien fait de ce gain. Malgré ce résultat, le g…",
     "thumbnail": "thumbnails/1od10jj.webp",
     "tags": [
-      "IPP",
-      "CFE",
-      "Economie"
+      "Budget et fiscalité"
     ],
     "analyzed_at": "2026-11-01T11:20:31.730673+00:00"
   },
@@ -1076,39 +932,10 @@
     "summary": "À l’approche de la COP 30 au Brésil, un rapport conjoint de Data For Good, QuotaClimat et Science Feedback révèle qu’entre janvier et août de cette année, plus de cinq cents cas de mésinformation ou de désinformation...",
     "thumbnail": "thumbnails/1od0thq.webp",
     "tags": [
-      "COP 30",
-      "Brésil",
-      "Good",
-      "Science Feedback",
-      "Société"
+      "Environnement",
+      "Médias"
     ],
     "analyzed_at": "2026-11-01T11:20:32.042578+00:00"
-  },
-  {
-    "id": "1ocfh2u",
-    "title": "By choosing France over the United States for its digital coverage, Greenland is sending a \"clear\" message to Washington.",
-    "url": "https://media24.fr/2025/10/21/en-choisissant-la-france-plutot-que-les-etats-unis-pour-sa-couverture-numerique-le-groenland-envoie-un-message-clair-a-washington/",
-    "permalink": "/r/france/comments/1ocfh2u/by_choosing_france_over_the_united_states_for_its/",
-    "created_at": "2025-10-21T15:07:27+00:00",
-    "score": 441,
-    "num_comments": 14,
-    "subreddit": "france",
-    "author": "UpgradedSiera6666",
-    "flair": "Économie",
-    "domain": "media24.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/FhDwUkHqvUQisHEQ6n2byoRxwckx2mggfKRo5-0B_U0.jpeg?auto=webp&s=923d5f0a6398f4bb22437a6d9c1d14ab6ad5c14b",
-    "ingested_at": "2026-11-01T11:14:22.352972+00:00",
-    "summary": "Le Groenland mise sur Eutelsat pour sa couverture numérique. C’est un choix qui n'a pas fait la \"Une\" des journaux et elle est pourtant lourde de sens. Le Groenland vient de choisir son allié technologique pour sa couverture numérique et ce ne sera pas l'américain Starlink mais bien Eutelsat, un…",
-    "thumbnail": "thumbnails/1ocfh2u.webp",
-    "tags": [
-      "Groenland",
-      "Eutelsat",
-      "United States",
-      "Washington",
-      "Économie"
-    ],
-    "analyzed_at": "2026-11-01T11:20:32.920367+00:00"
   },
   {
     "id": "1oceojo",
@@ -1128,9 +955,9 @@
     "summary": "La tentative du gouvernement de remplacer l’abattement actuel sur les pensions par un forfait unique a suscité un front commun des oppositions.",
     "thumbnail": "thumbnails/1oceojo.webp",
     "tags": [
-      "Eric Coquerel",
-      "Retraite",
-      "Politique"
+      "Retraites",
+      "Budget et fiscalité",
+      "Éric Coquerel"
     ],
     "analyzed_at": "2026-11-01T11:20:32.154721+00:00"
   },
@@ -1151,10 +978,7 @@
     "ingested_at": "2026-11-01T11:14:22.353657+00:00",
     "summary": "",
     "thumbnail": "thumbnails/1occj6k.webp",
-    "tags": [
-      "Daniel Naroditsky",
-      "Sport"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:20:32.218830+00:00"
   },
   {
@@ -1176,10 +1000,7 @@
     "thumbnail": "thumbnails/1oca71i.webp",
     "tags": [
       "Olivier Faure",
-      "Taxe Zucman",
-      "PS",
-      "Zucman",
-      "Politique"
+      "Budget et fiscalité"
     ],
     "analyzed_at": "2026-11-01T11:20:32.230492+00:00"
   },
@@ -1201,7 +1022,7 @@
     "summary": "",
     "thumbnail": "thumbnails/1oc73m2.webp",
     "tags": [
-      "Lomepal"
+      "Violences sexuelles"
     ],
     "analyzed_at": "2026-11-01T11:20:34.454145+00:00"
   },
@@ -1222,13 +1043,7 @@
     "ingested_at": "2026-11-01T11:14:22.353560+00:00",
     "summary": "Brussels proposed ending seasonal time changes in 2018, but seven years later everyone’s still winding their clocks back and forth.",
     "thumbnail": "thumbnails/1obyf5a.webp",
-    "tags": [
-      "EU",
-      "EU's",
-      "António Costa",
-      "Jean-Claude Juncker",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:20:32.727226+00:00"
   },
   {
@@ -1249,9 +1064,9 @@
     "summary": "Le président de la commission des finances Éric Coquerel a expliqué avoir voté, comme d’autres élus, en faveur d’un amendement réécrivant l’article sur cette taxe voulue par le gouvernement, en pensant qu’il s’agissait d’un complément au dispositif proposé.",
     "thumbnail": "thumbnails/1obrxp1.webp",
     "tags": [
+      "Budget et fiscalité",
       "Éric Coquerel",
-      "Budget",
-      "Politique"
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T11:20:32.321819+00:00"
   },
@@ -1272,13 +1087,7 @@
     "ingested_at": "2026-11-01T11:14:22.354704+00:00",
     "summary": "On l'attendait depuis des années, ce fameux « moment Linux ». Comble de l'ironie : c'est bien Microsoft qui l'a provoqué. En poussant des millions d'utilisateurs vers la sortie, la firme de Redmond a offert à son vieil adversaire son plus grand moment de gloire.",
     "thumbnail": "thumbnails/1obgsd1.webp",
-    "tags": [
-      "Linux",
-      "Microsoft",
-      "Redmond",
-      "Windows",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:20:33.439479+00:00"
   },
   {
@@ -1299,10 +1108,7 @@
     "summary": "L'encyclopÃ©die en ligne enregistre une baisse de ses frÃ©quentations humaines. Une situation qu'elle attribue Ã la prolifÃ©ration des outils IA et des",
     "thumbnail": "thumbnails/1obg60f.webp",
     "tags": [
-      "IA",
-      "Wikipedia",
-      "WikipÃ",
-      "Tech"
+      "Intelligence artificielle"
     ],
     "analyzed_at": "2026-11-01T11:20:32.595888+00:00"
   },
@@ -1324,9 +1130,7 @@
     "summary": "",
     "thumbnail": "thumbnails/1obfwp9.webp",
     "tags": [
-      "Nicolas Sarkozy",
-      "Elysée",
-      "Politique"
+      "Nicolas Sarkozy"
     ],
     "analyzed_at": "2026-11-01T11:20:33.463414+00:00"
   },
@@ -1348,7 +1152,7 @@
     "summary": "",
     "thumbnail": "thumbnails/1oawpci.webp",
     "tags": [
-      "Politique"
+      "Budget et fiscalité"
     ],
     "analyzed_at": "2026-11-01T11:20:34.817161+00:00"
   },
@@ -1369,11 +1173,7 @@
     "ingested_at": "2026-11-01T11:14:22.353217+00:00",
     "summary": "Plusieurs malfaiteurs ont brisé des fenêtres pour s’emparer de bijoux, ce dimanche matin, dans le célèbre musée du centre de Paris.",
     "thumbnail": "thumbnails/1oakz2n.webp",
-    "tags": [
-      "Louvre",
-      "Paris",
-      "Apollon"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:20:32.898812+00:00"
   },
   {
@@ -1394,11 +1194,7 @@
     "summary": "María Corina Machado, lauréate du Nobel, et le Premier ministre israélien ont échangé vendredi au téléphone.",
     "thumbnail": "thumbnails/1oajh08.webp",
     "tags": [
-      "Nobel",
-      "Benyamin Netanyahou",
-      "María Corina Machado",
-      "Premier",
-      "Politique"
+      "Benyamin Netanyahou"
     ],
     "analyzed_at": "2026-11-01T11:20:33.263007+00:00"
   },
@@ -1420,9 +1216,8 @@
     "summary": "",
     "thumbnail": "thumbnails/1oa6inc.webp",
     "tags": [
-      "Etats-Unis",
       "Donald Trump",
-      "Monde"
+      "Manifestations"
     ],
     "analyzed_at": "2026-11-01T11:20:36.116096+00:00"
   },
@@ -1444,11 +1239,7 @@
     "summary": "Nicolas Dufourcq, le directeur général de la Banque publique d'investissement, appelle à \"dépolitiser\" le débat sur les retraites et insiste sur sa dimension démographique.",
     "thumbnail": "thumbnails/1o9wjps.webp",
     "tags": [
-      "Français",
-      "Bpifrance",
-      "Nicolas Dufourcq",
-      "Banque",
-      "Société"
+      "Retraites"
     ],
     "analyzed_at": "2026-11-01T11:20:33.267044+00:00"
   },
@@ -1469,12 +1260,7 @@
     "ingested_at": "2026-11-01T11:14:22.355417+00:00",
     "summary": "À 37 ans, Thibaud Marco a choisi de mettre son savoir-faire au défi en participant au championnat du monde de la pizza, à Rome, en septembre dernier. Un essai qui s'est avéré concluant, puisque ce pizzaïolo de Mommenheim...",
     "thumbnail": "thumbnails/1o9sz5l.webp",
-    "tags": [
-      "Thibaud Marco",
-      "Français de 37",
-      "Mommenheim",
-      "Rome"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:20:33.417115+00:00"
   },
   {
@@ -1495,7 +1281,6 @@
     "summary": "",
     "thumbnail": "thumbnails/1o9r4m0.webp",
     "tags": [
-      "Patrick Artus",
       "Économie"
     ],
     "analyzed_at": "2026-11-01T11:20:33.786212+00:00"
@@ -1518,11 +1303,7 @@
     "summary": "TÉMOIGNAGES - Inquiets, les millenials déplorent un futur économique et une ascension sociale bien moins reluisants que ce qu’ont connu leurs aînés.",
     "thumbnail": "thumbnails/1o9qgj7.webp",
     "tags": [
-      "Éducation",
-      "actualité France",
-      "Société",
-      "Actualité société",
-      "Société française"
+      "Retraites"
     ],
     "analyzed_at": "2026-11-01T11:20:33.475797+00:00"
   },
@@ -1543,13 +1324,7 @@
     "ingested_at": "2026-11-01T11:14:22.354020+00:00",
     "summary": "Au moins un des individus mis en cause par les victimes ou des témoins serait encore en vie. Les violences sexuelles et les viols rapportés se seraient principalement déroulés dans les années 1960, aussi bien dans la cité des ducs qu’à Saint-Nazaire.",
     "thumbnail": "thumbnails/1o941sn.webp",
-    "tags": [
-      "Nantes",
-      "Abus sexuels",
-      "Saint-Nazaire",
-      "Saint-Stanislas",
-      "Fait Divers"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:20:34.456487+00:00"
   },
   {
@@ -1570,11 +1345,8 @@
     "summary": "Un nouveau procès devrait se tenir en 2026 pour le peintre-plaquiste de 38 ans, reconnu coupable vendredi du meurtre de Delphine Aussaguel.",
     "thumbnail": "thumbnails/1o91iph.webp",
     "tags": [
-      "Delphine Aussaguel",
-      "Cédric Jubillar",
-      "Tarn",
-      "Donald Trump",
-      "Affaire Jubillar"
+      "Justice",
+      "Donald Trump"
     ],
     "analyzed_at": "2026-11-01T11:20:33.814080+00:00"
   },
@@ -1596,8 +1368,7 @@
     "summary": "Nicolas Sarkozy va rester administrateur d'Accor et Lagardère malgré son incarcération",
     "thumbnail": "thumbnails/1o8y8z7.webp",
     "tags": [
-      "Nicolas Sarkozy",
-      "Accor et Lagardère"
+      "Nicolas Sarkozy"
     ],
     "analyzed_at": "2026-11-01T11:20:34.682472+00:00"
   },
@@ -1619,11 +1390,7 @@
     "summary": "Le Japon a déposé une demande officielle auprès de l'entreprise américaine OpenAI, pour que Sora, son service qui génère des vidéos par IA, cesse de piller les mangas et d'autres œuvres protégées par le droit d'auteur.",
     "thumbnail": "thumbnails/1o8ug7t.webp",
     "tags": [
-      "Japon",
-      "Sora",
-      "IA",
-      "OpenAI",
-      "Tech"
+      "Intelligence artificielle"
     ],
     "analyzed_at": "2026-11-01T11:20:34.272638+00:00"
   },
@@ -1645,9 +1412,8 @@
     "summary": "Une étude publiée par des médias russes en exil estime à 219 000 le nombre total de soldats russes tués en trois ans et demi de guerre en Ukraine. Un nombre auquel il faut encore ajouter les morts uk…",
     "thumbnail": "thumbnails/1o8u91i.webp",
     "tags": [
-      "Ukraine",
-      "Poutine",
-      "Monde"
+      "Guerre en Ukraine",
+      "Vladimir Poutine"
     ],
     "analyzed_at": "2026-11-01T11:20:34.873883+00:00"
   },
@@ -1669,11 +1435,7 @@
     "summary": "Donald Trump veut marquer les 250 ans des Etats-Unis avec un projet monumental à Washington : un arc géant inspiré de l’Arc de Triomphe",
     "thumbnail": "thumbnails/1o8tyi3.webp",
     "tags": [
-      "Arc de Triomphe",
-      "États-Unis",
-      "Donald Trump",
-      "Washington",
-      "Monde"
+      "Donald Trump"
     ],
     "analyzed_at": "2026-11-01T11:20:34.304233+00:00"
   },
@@ -1695,11 +1457,7 @@
     "summary": "INFO LE PARISIEN. Quatre hommes âgés de 26 à 38 ans ont été interpellés lundi par la DGSI, soupçonnés de comploter contre Vladimir Ossetchki",
     "thumbnail": "thumbnails/1o8gkql.webp",
     "tags": [
-      "Vladimir Poutine",
-      "DGSI",
-      "PARISIEN",
-      "Vladimir Ossetchkine",
-      "Monde"
+      "Vladimir Poutine"
     ],
     "analyzed_at": "2026-11-01T11:20:34.578457+00:00"
   },
@@ -1722,10 +1480,7 @@
     "thumbnail": "thumbnails/1o8geu9.webp",
     "tags": [
       "Emmanuel Macron",
-      "République",
-      "Edouard Philippe",
-      "Premier",
-      "Politique"
+      "Édouard Philippe"
     ],
     "analyzed_at": "2026-11-01T11:20:34.827648+00:00"
   },
@@ -1746,13 +1501,7 @@
     "ingested_at": "2026-11-01T11:14:22.353803+00:00",
     "summary": "Le tableau a été prêté pour au moins cinq ans au musée d'Orsay par son actuel propriétaire, Qatar Museums. Issue de collections privées, cette toile iconique a été cédée dans des conditions qui demeurent inconnues, au grand dam des associations de défense du patrimoine.",
     "thumbnail": "thumbnails/1o8fcrb.webp",
-    "tags": [
-      "Désespéré",
-      "Qatar Museums",
-      "Gustave Courbet",
-      "Qatar",
-      "Culture"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:20:34.932846+00:00"
   },
   {
@@ -1772,37 +1521,8 @@
     "ingested_at": "2026-11-01T11:14:22.351991+00:00",
     "summary": "Le groupe suisse a annoncé par la voix de Philipp Navratil, nouveau PDG à peine arrivé, un plan social d’ampleur en deux ans à travers le monde, dans le but de faire des économies. O...",
     "thumbnail": "thumbnails/1o88o24.webp",
-    "tags": [
-      "Philipp Navratil",
-      "PDG",
-      "Nestlé",
-      "Gratuit"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:20:35.401017+00:00"
-  },
-  {
-    "id": "1o86uhn",
-    "title": "Les élus des Républicains devront désormais demander la permission à Bruno Retailleau pour aller aux toilettes",
-    "url": "https://www.legorafi.fr/2025/10/16/les-elus-lr-devront-desormais-demander-la-permission-a-bruno-retailleau-pour-aller-aux-toilettes/",
-    "permalink": "/r/france/comments/1o86uhn/les_élus_des_républicains_devront_désormais/",
-    "created_at": "2025-10-16T13:57:03+00:00",
-    "score": 491,
-    "num_comments": 21,
-    "subreddit": "france",
-    "author": "Dreynard",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/CDvrMVX4QOHfdgL6Xe1gtVmhXEjgz0rqZotKCWJFYeQ.png?auto=webp&s=8e7b1d24798ebfa60cc026ba4a4fe0d840756cee",
-    "ingested_at": "2026-11-01T11:14:22.352659+00:00",
-    "summary": "Les membres du parti devront avoir l’accord de leur président pour toutes leurs décisions afin d’assurer l’ordre au sein du Parti.",
-    "thumbnail": "thumbnails/1o86uhn.webp",
-    "tags": [
-      "Bruno Retailleau",
-      "Républicains",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T11:20:34.843891+00:00"
   },
   {
     "id": "1o82vas",
@@ -1821,10 +1541,7 @@
     "ingested_at": "2026-11-01T11:14:22.354191+00:00",
     "summary": "",
     "thumbnail": "thumbnails/1o82vas.webp",
-    "tags": [
-      "Angers",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:20:35.861689+00:00"
   },
   {
@@ -1846,10 +1563,8 @@
     "thumbnail": "thumbnails/1o81ubn.webp",
     "tags": [
       "Sébastien Lecornu",
-      "Assemblée",
-      "Caroline Roux",
-      "Emmanuel Macron",
-      "Politique"
+      "Institutions",
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T11:20:35.351506+00:00"
   },
@@ -1871,9 +1586,7 @@
     "summary": "La Belgique fait partie des treize pays européens qui utilisent le F-35 américain comme avion de combat.",
     "thumbnail": "thumbnails/1o7zsjf.webp",
     "tags": [
-      "F-35",
-      "Rafale",
-      "Belgique"
+      "Défense"
     ],
     "analyzed_at": "2026-11-01T11:20:35.360521+00:00"
   },
@@ -1895,11 +1608,8 @@
     "summary": "Le projet de budget de la Sécurité sociale présenté mardi prévoit des économies supérieures à celles du plan Bayrou de cet été. Elles devraient percuter de plein fouet les usagers...",
     "thumbnail": "thumbnails/1o7z4ca.webp",
     "tags": [
-      "Bayrou",
-      "PLFSS",
-      "Sécurité",
-      "Payant",
-      "Politique"
+      "François Bayrou",
+      "Sébastien Lecornu"
     ],
     "analyzed_at": "2026-11-01T11:20:35.673621+00:00"
   },
@@ -1921,11 +1631,7 @@
     "summary": "Dans un contexte de fortes de tensions avec Caracas, le président américain a annoncé ce mercredi 15 octobre \"envisager\" des frappes au Venezuela.",
     "thumbnail": "thumbnails/1o7x5bn.webp",
     "tags": [
-      "Venezuela",
-      "Nicolas Maduro",
-      "Donald Trump",
-      "État de la CIA",
-      "Monde"
+      "Donald Trump"
     ],
     "analyzed_at": "2026-11-01T11:20:35.446176+00:00"
   },
@@ -1947,11 +1653,9 @@
     "summary": "Le Premier secrétaire du Parti socialiste et le chef des députés socialistes ont eux appelé à ne pas voter la censure, en échange de la promesse du Premier ministre de suspendre la réforme des retraites.",
     "thumbnail": "thumbnails/1o7vxjx.webp",
     "tags": [
-      "Premier",
-      "Outre-mer",
-      "Gouvernement Lecornu II",
-      "Parti",
-      "Politique"
+      "Sébastien Lecornu",
+      "Institutions",
+      "Outre-mer"
     ],
     "analyzed_at": "2026-11-01T11:20:35.576980+00:00"
   },
@@ -1974,10 +1678,7 @@
     "thumbnail": "thumbnails/1o7kays.webp",
     "tags": [
       "Rachida Dati",
-      "Paris",
-      "Culture",
-      "VIIᵉ",
-      "Politique"
+      "Logement"
     ],
     "analyzed_at": "2026-11-01T11:20:36.097932+00:00"
   },
@@ -1998,13 +1699,7 @@
     "ingested_at": "2026-11-01T11:14:22.353095+00:00",
     "summary": "Le projet de loi de financement pour la Sécurité sociale (PLFSS) présenté par le gouvernement ce mardi 14 octobre durcit les conditions de prescriptions des arrêts de travail, pour limiter la dérive des indemnités journalières versées par l'Assurance maladie.",
     "thumbnail": "thumbnails/1o7eyzb.webp",
-    "tags": [
-      "Sécu",
-      "Assurance",
-      "Sécurité",
-      "PLFSS",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:20:35.616944+00:00"
   },
   {
@@ -2025,11 +1720,7 @@
     "summary": "Cette exécution provisoire de l'inéligibilité l'empêche de se présenter à d'éventuelles élections législatives ou à la présidentielle.",
     "thumbnail": "thumbnails/1o7ao18.webp",
     "tags": [
-      "Marine le Pen",
-      "Conseil Etat",
-      "FN",
-      "Marine Le Pen condamnée en appel",
-      "Politique"
+      "Marine Le Pen"
     ],
     "analyzed_at": "2026-11-01T11:20:35.740525+00:00"
   },
@@ -2050,11 +1741,7 @@
     "ingested_at": "2026-11-01T11:14:22.352901+00:00",
     "summary": "",
     "thumbnail": "thumbnails/1o7ai93.webp",
-    "tags": [
-      "Mark Bray",
-      "Europe",
-      "Monde"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:20:35.875890+00:00"
   },
   {
@@ -2075,11 +1762,7 @@
     "summary": "C'est un coup de théâtre qui secoue le monde de l'enseignement supérieur et de la tech française. Après des mois d'une guerre de tranchées juridique, la direction de l'École polytechnique a officiellement capitulé en suspendant son projet de migration vers Microsoft 365. Attaquée par le Conseil N...",
     "thumbnail": "thumbnails/1o78j9g.webp",
     "tags": [
-      "Microsoft 365",
-      "Microsoft",
-      "Conseil",
-      "CNLL",
-      "Palaiseau"
+      "Éducation"
     ],
     "analyzed_at": "2026-11-01T11:20:36.145278+00:00"
   },
@@ -2101,9 +1784,8 @@
     "summary": "",
     "thumbnail": "thumbnails/1o75344.webp",
     "tags": [
-      "DC10",
-      "Sarkozy",
-      "Politique"
+      "Nicolas Sarkozy",
+      "Justice"
     ],
     "analyzed_at": "2026-11-01T11:20:39.417094+00:00"
   },
@@ -2124,13 +1806,7 @@
     "ingested_at": "2026-11-01T11:14:22.351817+00:00",
     "summary": "Après sa bourde face à Léa Salamé, le nouveau ministre du Travail et des Solidarités a présenté ses excuses.",
     "thumbnail": "thumbnails/1o74772.webp",
-    "tags": [
-      "Jean-Pierre Farandou",
-      "Travail",
-      "Autisme",
-      "Léa Salamé",
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:20:35.944783+00:00"
   },
   {
@@ -2151,9 +1827,9 @@
     "summary": "La Fondation pour le logement des défavorisés qualifie cette « année blanche » de « mesure très pénalisante qui va toucher les plus pauvres",
     "thumbnail": "thumbnails/1o6m2ov.webp",
     "tags": [
-      "APL",
-      "Fondation",
-      "Politique"
+      "Protection sociale",
+      "Éducation",
+      "Budget et fiscalité"
     ],
     "analyzed_at": "2026-11-01T11:20:36.151565+00:00"
   },
@@ -2175,8 +1851,8 @@
     "summary": "",
     "thumbnail": "thumbnails/1o68e39.webp",
     "tags": [
-      "Lecornu",
-      "Politique"
+      "Sébastien Lecornu",
+      "Budget et fiscalité"
     ],
     "analyzed_at": "2026-11-01T11:20:36.294937+00:00"
   },
@@ -2198,11 +1874,9 @@
     "summary": "Le projet de budget 2026 doit être présenté ce mardi en conseil des ministres par Sébastien Lecornu, ouvert à un débat sur la suspension de la réforme contestée des retraites.",
     "thumbnail": "thumbnails/1o5xa3u.webp",
     "tags": [
-      "Nobel Économie",
-      "Sébastien Lecornu",
-      "Philippe Aghion",
-      "Politique",
-      "Prix Nobel"
+      "Retraites",
+      "Économie",
+      "Sébastien Lecornu"
     ],
     "analyzed_at": "2026-11-01T11:20:36.175917+00:00"
   },
@@ -2224,10 +1898,7 @@
     "summary": "",
     "thumbnail": "thumbnails/1o5onmd.webp",
     "tags": [
-      "Nicolas Sarkozy",
-      "Santé",
-      "Paris",
-      "Société"
+      "Nicolas Sarkozy"
     ],
     "analyzed_at": "2026-11-01T11:20:36.501610+00:00"
   },
@@ -2249,8 +1920,7 @@
     "summary": "",
     "thumbnail": "thumbnails/1o5m1zt.webp",
     "tags": [
-      "Nicolas Sarkozy",
-      "Politique"
+      "Nicolas Sarkozy"
     ],
     "analyzed_at": "2026-11-01T11:20:36.663878+00:00"
   },
@@ -2272,11 +1942,8 @@
     "summary": "Le président malgache Andry Rajoelina a été exfiltré par un avion militaire français le 12 octobre 2025, est en mesure de confirmer RFI. Un accord avec le président Emmanuel Macron aurait permis cette…",
     "thumbnail": "thumbnails/1o5jdeq.webp",
     "tags": [
-      "Andry Rajoelina",
-      "Madagascar",
-      "Emmanuel Macron",
-      "Réunion",
-      "Monde"
+      "Défense",
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T11:20:36.424581+00:00"
   },
@@ -2297,10 +1964,7 @@
     "ingested_at": "2026-11-01T11:14:22.351918+00:00",
     "summary": "",
     "thumbnail": "thumbnails/1o5j8at.webp",
-    "tags": [
-      "MAGA",
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:20:36.909385+00:00"
   },
   {
@@ -2321,9 +1985,8 @@
     "summary": "",
     "thumbnail": "thumbnails/1o5e21l.webp",
     "tags": [
-      "Gouvernement Lecornu",
       "Emmanuel Macron",
-      "Politique"
+      "Sébastien Lecornu"
     ],
     "analyzed_at": "2026-11-01T11:20:37.130366+00:00"
   },
@@ -2345,11 +2008,9 @@
     "summary": "Une enquête préliminaire a été ouverte, notamment pour prise illégale d'intérêts, contre Vincent Jeanbrun, député LR et maire de L'Haÿ-les-Roses, dans le Val-de-Marne.",
     "thumbnail": "thumbnails/1o5blvv.webp",
     "tags": [
-      "Vincent Jeanbrun",
-      "LR Vincent Jeanbrun",
-      "LR",
-      "Haÿ-les-Roses",
-      "Politique"
+      "Corruption",
+      "Institutions",
+      "Logement"
     ],
     "analyzed_at": "2026-11-01T11:20:36.369022+00:00"
   },
@@ -2371,11 +2032,7 @@
     "summary": "Les Républicains ont décidé d'exclure du parti les ministres LR entrés au gouvernement Lecornu II, ce dimanche soir.",
     "thumbnail": "thumbnails/1o4zg06.webp",
     "tags": [
-      "LR",
-      "Sébastien Lecornu",
-      "Républicains",
-      "Lecornu II",
-      "Politique"
+      "Sébastien Lecornu"
     ],
     "analyzed_at": "2026-11-01T11:20:36.508982+00:00"
   },
@@ -2397,37 +2054,9 @@
     "summary": "",
     "thumbnail": "thumbnails/1o4z96c.webp",
     "tags": [
-      "Laurent Nuñez",
-      "Jean-Pierre Farandou",
-      "Politique"
+      "Laurent Nuñez"
     ],
     "analyzed_at": "2026-11-01T11:20:37.351746+00:00"
-  },
-  {
-    "id": "1o4kqul",
-    "title": "Les Français n'ont pas accès au même Google que les utilisateurs du reste du monde.",
-    "url": "https://www.jeuxvideo.com/news/2035525/les-francais-n-ont-pas-acces-au-meme-google-que-les-utilisateurs-du-reste-du-monde.htm",
-    "permalink": "/r/france/comments/1o4kqul/les_français_nont_pas_accès_au_même_google_que/",
-    "created_at": "2025-10-12T09:32:46+00:00",
-    "score": 360,
-    "num_comments": 169,
-    "subreddit": "france",
-    "author": "thbb",
-    "flair": "Tech",
-    "domain": "jeuxvideo.com",
-    "selftext": "",
-    "reddit_thumbnail": "",
-    "ingested_at": "2026-11-01T11:14:22.353705+00:00",
-    "summary": "Google connaît de grands changements ces derniers temps et ce partout dans le monde. Enfin presque, les français résistent une fois de plus, si bien que notre Google devient “unique”. De l’IA partout, même chez Google, mais bien moins en France Plus le temps passe, plus l’IA est “partout”. Cela vaut...",
-    "thumbnail": "thumbnails/1o4kqul.webp",
-    "tags": [
-      "Google",
-      "IA",
-      "News JVTech",
-      "News High-Tech",
-      "Tech"
-    ],
-    "analyzed_at": "2026-11-01T11:20:37.155154+00:00"
   },
   {
     "id": "1o4jiv1",
@@ -2447,8 +2076,8 @@
     "summary": "La plupart des détenus veulent travailler en prison, mais seuls 30% ont accès à un emploi. L'administration pénitentiaire fait tout pour faire venir les entreprises mais les associations dénoncent des conditions de travail dégradées.",
     "thumbnail": "thumbnails/1o4jiv1.webp",
     "tags": [
-      "SMIC",
-      "Économie"
+      "Travail",
+      "Prisons"
     ],
     "analyzed_at": "2026-11-01T11:20:36.746630+00:00"
   },
@@ -2469,9 +2098,7 @@
     "ingested_at": "2026-11-01T11:14:22.353754+00:00",
     "summary": "",
     "thumbnail": "thumbnails/1o4iq7h.webp",
-    "tags": [
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:20:37.883721+00:00"
   },
   {
@@ -2493,10 +2120,7 @@
     "thumbnail": "thumbnails/1o424ro.webp",
     "tags": [
       "Sébastien Lecornu",
-      "Républicains",
-      "Bruno Retailleau",
-      "LR",
-      "Politique"
+      "Bruno Retailleau"
     ],
     "analyzed_at": "2026-11-01T11:20:36.956682+00:00"
   },
@@ -2517,13 +2141,7 @@
     "ingested_at": "2026-11-01T11:14:22.355644+00:00",
     "summary": "Les détails du projet - investissement, équipements nécessaires, taille du studio - seront discutés ces prochains mois.",
     "thumbnail": "thumbnails/1o3xhzb.webp",
-    "tags": [
-      "Netflix",
-      "Toro",
-      "Gobelins",
-      "Paris",
-      "Culture"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:20:37.118066+00:00"
   },
   {
@@ -2545,9 +2163,7 @@
     "thumbnail": "thumbnails/1o3bc0l.webp",
     "tags": [
       "Emmanuel Macron",
-      "Sébastien Lecornu",
-      "Elysée",
-      "Politique"
+      "Sébastien Lecornu"
     ],
     "analyzed_at": "2026-11-01T11:20:37.129223+00:00"
   },
@@ -2569,8 +2185,7 @@
     "summary": "Deux des influenceurs niçois qui participaient activement à la chaîne Jean Pormanove ont recommencé à diffuser des mises en scène d’actes de violence. Selon les informations de Mediapart, la justice …",
     "thumbnail": "thumbnails/1o361ds.webp",
     "tags": [
-      "Affaire Jean Pormanove",
-      "Jean Pormanove"
+      "Justice"
     ],
     "analyzed_at": "2026-11-01T11:20:37.959669+00:00"
   },
@@ -2592,11 +2207,9 @@
     "summary": "Sébastien Lecornu a été renommé tard dans la soirée Premier ministre par Emmanuel Macron. La France insoumise, le Parti communiste français et le Rassemblement national ont immédiatement promis de censurer le prochain gouvernement.",
     "thumbnail": "thumbnails/1o33vf2.webp",
     "tags": [
-      "Premier",
-      "Élysée",
-      "Sébastien Lecornu",
       "Marine Tondelier",
-      "Politique"
+      "Sébastien Lecornu",
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T11:20:37.349805+00:00"
   },
@@ -2618,10 +2231,8 @@
     "summary": "",
     "thumbnail": "thumbnails/1o33b69.webp",
     "tags": [
-      "Joseph Stiglitz",
-      "Nobel",
-      "Zucman",
-      "Politique"
+      "Économie",
+      "Budget et fiscalité"
     ],
     "analyzed_at": "2026-11-01T11:20:41.337700+00:00"
   },
@@ -2643,36 +2254,11 @@
     "summary": "",
     "thumbnail": "thumbnails/1x86cf2.webp",
     "tags": [
-      "Justice Etat",
-      "Politique"
+      "Justice",
+      "Police",
+      "Racisme"
     ],
     "analyzed_at": "2026-11-01T09:39:54.340782+00:00"
-  },
-  {
-    "id": "1o2x64i",
-    "title": "« Aucun otage et aucun prisonnier ne sera libéré » - Furieux de ne pas avoir eu de prix Nobel, Donald Trump annule l’accord de paix de Gaza",
-    "url": "https://www.legorafi.fr/2025/10/10/furieux-de-ne-pas-avoir-eu-de-prix-nobel-donald-trump-annule-laccord-de-paix-de-gaza/",
-    "permalink": "/r/france/comments/1o2x64i/aucun_otage_et_aucun_prisonnier_ne_sera_libéré/",
-    "created_at": "2025-10-10T10:25:31+00:00",
-    "score": 1142,
-    "num_comments": 83,
-    "subreddit": "france",
-    "author": "AllAloneInKyoto",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/GxCM3sk7E2_DUGiEmD2Z72j_uugUdD5GNcUXWRiIL1w.jpeg?auto=webp&s=c55dbe73f8c93a65df56763300a8de292c49a9b8",
-    "ingested_at": "2026-11-01T11:14:22.351431+00:00",
-    "summary": "Le président américain a annoncé que le traité de paix signé entre Israël et le Hamas était caduque et ne serait pas appliqué tant que le prix Nobel de la paix ne lui serait pas restitué.",
-    "thumbnail": "thumbnails/1o2x64i.webp",
-    "tags": [
-      "Nobel",
-      "Donald Trump",
-      "Gaza",
-      "Israël et le Hamas",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T11:20:37.370205+00:00"
   },
   {
     "id": "1o2waud",
@@ -2693,10 +2279,7 @@
     "thumbnail": "thumbnails/1o2waud.webp",
     "tags": [
       "Emmanuel Macron",
-      "Sébastien Lecornu",
-      "LFI et RN",
-      "Premier",
-      "Politique"
+      "Sébastien Lecornu"
     ],
     "analyzed_at": "2026-11-01T11:20:38.787534+00:00"
   },
@@ -2718,11 +2301,7 @@
     "summary": "Le Président américain Donald Trump revendiquait le prix Nobel de la paix, qui lui a finalement échappé.",
     "thumbnail": "thumbnails/1o2vut9.webp",
     "tags": [
-      "Nobel",
-      "Donald Trump",
-      "María Corina Machado",
-      "Mme Machado",
-      "Monde"
+      "Donald Trump"
     ],
     "analyzed_at": "2026-11-01T11:20:38.813082+00:00"
   },
@@ -2743,13 +2322,7 @@
     "ingested_at": "2026-11-01T11:14:22.351567+00:00",
     "summary": "Le projet controversé Chat Control, que la Commission peine à faire adopter depuis trois ans, était « l’une des priorités phares » du Danemark, qui…",
     "thumbnail": "thumbnails/1o2vhbg.webp",
-    "tags": [
-      "Commission",
-      "Danemark",
-      "Chat Control",
-      "Allemagne",
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:20:37.853921+00:00"
   },
   {
@@ -2770,11 +2343,7 @@
     "summary": "Cette magistrate, considérée comme à l’origine d’une condamnation en justice du président américain, a été inculpée ce jeudi en Virginie pour falsification de documents concernant des demandes de prêts immobiliers.",
     "thumbnail": "thumbnails/1o2tflq.webp",
     "tags": [
-      "Donald Trump",
-      "Parti",
-      "État de New York",
-      "Etats-Unis",
-      "New york"
+      "Donald Trump"
     ],
     "analyzed_at": "2026-11-01T11:20:38.206714+00:00"
   },
@@ -2797,10 +2366,7 @@
     "thumbnail": "thumbnails/1o2qudg.webp",
     "tags": [
       "Nicolas Sarkozy",
-      "Élysée",
-      "Emmanuel Macron",
-      "République",
-      "Politique"
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T11:20:38.884087+00:00"
   },
@@ -2821,12 +2387,7 @@
     "ingested_at": "2026-11-01T11:14:22.352016+00:00",
     "summary": "Selon nos informations, seul l'Etat français subventionnait cette liaison mais avec l'objectif que ce financement soit provisoire, misant sur un équilibre à travers un changement de méthode chez les opérateurs de cette offre.",
     "thumbnail": "thumbnails/1o2fq2u.webp",
-    "tags": [
-      "Allemagne",
-      "Paris-Berlin",
-      "Etat",
-      "SNCF"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:20:38.119514+00:00"
   },
   {
@@ -2847,9 +2408,7 @@
     "summary": "",
     "thumbnail": "thumbnails/1o28dbh.webp",
     "tags": [
-      "Mazan",
-      "Gisèle Pelicot",
-      "Société"
+      "Justice"
     ],
     "analyzed_at": "2026-11-01T11:20:41.264058+00:00"
   },
@@ -2871,11 +2430,7 @@
     "summary": "La municipalité a évoqué la présence sur la sépulture de \"tags qui insultent ses engagements contre la peine de mort et pour la dépénalisation de l'homosexualité\".",
     "thumbnail": "thumbnails/1o231av.webp",
     "tags": [
-      "Robert Badinter",
-      "Panthéon",
-      "Bagneux",
-      "Français",
-      "Société"
+      "Justice"
     ],
     "analyzed_at": "2026-11-01T11:20:38.573405+00:00"
   },
@@ -2897,11 +2452,8 @@
     "summary": "La plainte a été rédigée par un groupe nommé \"Juristes et avocats pour la Palestine\". Elle a été signée par une cinquantaine de professeurs de droit, des avocats ou encore des personnalités publiques.",
     "thumbnail": "thumbnails/1o20zzl.webp",
     "tags": [
-      "Israël",
-      "CPI",
-      "Giorgia Meloni",
-      "Palestine",
-      "Monde"
+      "Conflit israélo-palestinien",
+      "Giorgia Meloni"
     ],
     "analyzed_at": "2026-11-01T11:20:39.139721+00:00"
   },
@@ -2922,13 +2474,7 @@
     "ingested_at": "2026-11-01T11:14:22.353995+00:00",
     "summary": "Alors que Robert Badinter fait son entrée au Panthéon, jeudi, les Français sont toujours divisés quant à l'abolition de la peine de mort, 44 ans après.",
     "thumbnail": "thumbnails/1o20r82.webp",
-    "tags": [
-      "Robert Badinter",
-      "Panthéon",
-      "Victorine",
-      "Victor",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:20:38.878595+00:00"
   },
   {
@@ -2948,10 +2494,7 @@
     "ingested_at": "2026-11-01T11:14:22.351667+00:00",
     "summary": "Selon nos informations recueillis auprès d'une dizaine de salariés, ce pilier de la vie vidéoludique hexagonale depuis plus d'un quart de siècle devrait stopper sa diffusion dans les prochaines semaines. Contactés, les responsables de la chaîne n'ont pas répondu à nos sollicitations.",
     "thumbnail": "thumbnails/1o1dxfl.webp",
-    "tags": [
-      "Game One",
-      "Culture"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:20:39.307472+00:00"
   },
   {
@@ -2972,11 +2515,8 @@
     "summary": "La députée de la Seine-Maritime Alma Dufour était à bord de la flottille internationale à destination de Gaza Thousand Madleens prise pour cible par l'armée israélienne dans la nuit de mardi à mercredi. Ses proches sont sans nouvelles d'elle. Un rassemblement de soutien est annoncé mercredi à Rouen.",
     "thumbnail": "thumbnails/1o1bwt4.webp",
     "tags": [
-      "Gaza",
-      "Israël",
-      "LFI de la Seine-Maritime Alma Dufour",
-      "Conflit armé",
-      "Guerre au Moyen-Orient"
+      "Conflit israélo-palestinien",
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T11:20:40.143965+00:00"
   },
@@ -2998,10 +2538,7 @@
     "summary": "Les eurodéputés ont voté pour une proposition bannissant des dénominations comme «steak végétal» ou «burger veggie». La mesure doit encore être négociée avec les États européens.",
     "thumbnail": "thumbnails/1o18fk7.webp",
     "tags": [
-      "Parlement",
-      "Parlement européen",
-      "États",
-      "Monde"
+      "Union européenne"
     ],
     "analyzed_at": "2026-11-01T11:20:39.309276+00:00"
   },
@@ -3023,9 +2560,7 @@
     "summary": "",
     "thumbnail": "thumbnails/1o17zd7.webp",
     "tags": [
-      "LR Philippe Mouiller",
-      "Paris",
-      "Politique"
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T11:20:42.587739+00:00"
   },
@@ -3047,10 +2582,7 @@
     "summary": "",
     "thumbnail": "thumbnails/1o17f42.webp",
     "tags": [
-      "République",
-      "LFI",
-      "Assemblée",
-      "Politique"
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T11:20:39.544966+00:00"
   },
@@ -3072,9 +2604,7 @@
     "summary": "Les enquêteurs examinent de possibles prêts illégaux de particuliers et la présence d’éventuelles prestations surfacturées.",
     "thumbnail": "thumbnails/1o13ynp.webp",
     "tags": [
-      "RN",
-      "État",
-      "Politique"
+      "Élections"
     ],
     "analyzed_at": "2026-11-01T11:20:39.812660+00:00"
   },
@@ -3096,10 +2626,8 @@
     "summary": "",
     "thumbnail": "",
     "tags": [
-      "LR",
-      "Premier",
-      "Lecornu",
-      "Politique"
+      "Sébastien Lecornu",
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T11:20:40.019745+00:00"
   },
@@ -3121,10 +2649,7 @@
     "summary": "Un commissaire européen alerte quant aux intentions de la Russie d'étendre sa guerre au territoire de l'OTAN.",
     "thumbnail": "thumbnails/1o0rnir.webp",
     "tags": [
-      "OTAN",
-      "Kremlin",
-      "Russie",
-      "Monde"
+      "Défense"
     ],
     "analyzed_at": "2026-11-01T11:20:39.870869+00:00"
   },
@@ -3145,11 +2670,7 @@
     "ingested_at": "2026-11-01T11:14:22.351843+00:00",
     "summary": "Une nouvelle loi signée par le gouverneur Gavin Newsom impose un volume sonore équivalent entre spots et programmes. Les plateformes de stre",
     "thumbnail": "thumbnails/1o0hvkv.webp",
-    "tags": [
-      "Californie",
-      "Gavin Newsom",
-      "Tech"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:20:39.925566+00:00"
   },
   {
@@ -3169,12 +2690,7 @@
     "ingested_at": "2026-11-01T11:14:22.354287+00:00",
     "summary": "",
     "thumbnail": "",
-    "tags": [
-      "Nobel",
-      "Français",
-      "Michel Devoret",
-      "Monde"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:20:41.039550+00:00"
   },
   {
@@ -3194,13 +2710,7 @@
     "ingested_at": "2026-11-01T11:14:22.354263+00:00",
     "summary": "Deux émissaires du géant français du transport maritime se sont rendus à Saint-Pétersbourg à la mi-septembre, selon des informations de Mediapart. L’objectif de ce voyage : organiser le retour du gro…",
     "thumbnail": "thumbnails/1o0ai8q.webp",
-    "tags": [
-      "Russie",
-      "Rodolphe Saadé",
-      "CMA CGM",
-      "Saint-Pétersbourg",
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:20:40.953509+00:00"
   },
   {
@@ -3221,10 +2731,8 @@
     "summary": "",
     "thumbnail": "thumbnails/1nzwgie.webp",
     "tags": [
-      "Sébastien Lecornu",
-      "République",
       "Gabriel Attal",
-      "Politique"
+      "Sébastien Lecornu"
     ],
     "analyzed_at": "2026-11-01T11:20:40.368163+00:00"
   },
@@ -3248,9 +2756,8 @@
     "tags": [
       "Sébastien Lecornu",
       "Emmanuel Macron",
-      "Sénat",
       "Gérard Larcher",
-      "Politique"
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T11:20:41.380410+00:00"
   },
@@ -3273,10 +2780,7 @@
     "thumbnail": "thumbnails/1nznd4e.webp",
     "tags": [
       "Emmanuel Macron",
-      "Premier",
-      "Sébastien Lecornu",
-      "Républicains",
-      "Politique"
+      "Sébastien Lecornu"
     ],
     "analyzed_at": "2026-11-01T11:20:40.407199+00:00"
   },
@@ -3298,9 +2802,8 @@
     "summary": "",
     "thumbnail": "thumbnails/1nzmivo.webp",
     "tags": [
-      "Bruno le Maire",
       "Sébastien Lecornu",
-      "Politique"
+      "Bruno Le Maire"
     ],
     "analyzed_at": "2026-11-01T11:20:40.494194+00:00"
   },
@@ -3322,37 +2825,10 @@
     "summary": "Interceptés à bord de la Global Sumud Flottila, les parlementaires entendent alerter l’opinion mondiale des massacres en cours à Gaza.",
     "thumbnail": "thumbnails/1nzlhhh.webp",
     "tags": [
-      "Israël",
-      "Gaza",
-      "LFI",
-      "Global Sumud Flottila",
-      "Politique"
+      "Conflit israélo-palestinien",
+      "Grèves et syndicats"
     ],
     "analyzed_at": "2026-11-01T11:20:40.745269+00:00"
-  },
-  {
-    "id": "1nzkr34",
-    "title": "« Certains ont très peu servi, d’autres ont connu une légère usure médiatique, voire quelques mises en examen » : Back Market propose désormais le reconditionnement des anciens Premiers Ministres",
-    "url": "https://www.legorafi.fr/2025/10/06/back-market-propose-desormais-le-reconditionnement-des-anciens-ministres/",
-    "permalink": "/r/france/comments/1nzkr34/certains_ont_très_peu_servi_dautres_ont_connu_une/",
-    "created_at": "2025-10-06T14:34:14+00:00",
-    "score": 764,
-    "num_comments": 20,
-    "subreddit": "france",
-    "author": "AllAloneInKyoto",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/EetsepQbUmxQWwn2ekl0NWuBb6mAh80VekKtT0LDFmg.jpeg?auto=webp&s=a5be783975143c28f430ab6ad62fefc73c737a00",
-    "ingested_at": "2026-11-01T11:14:22.351618+00:00",
-    "summary": "Après avoir bâti son succès sur le reconditionnement de smartphones et d’ordinateurs, la plateforme française Back Market annonce le lancement d’un service inédit : le reconditionnement d’anciens ministres.",
-    "thumbnail": "thumbnails/1nzkr34.webp",
-    "tags": [
-      "Back Market",
-      "Premiers Ministres",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T11:20:40.704787+00:00"
   },
   {
     "id": "1nzj78j",
@@ -3371,9 +2847,7 @@
     "ingested_at": "2026-11-01T11:14:22.355046+00:00",
     "summary": "",
     "thumbnail": "thumbnails/1nzj78j.webp",
-    "tags": [
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:20:41.331188+00:00"
   },
   {
@@ -3394,7 +2868,8 @@
     "summary": "Trois colis piégés, adressés à un député, une humoriste et une journaliste, ont été découverts dans un bureau de poste en Dordogne. L’un a explosé sans faire de blessé. Une enquête est en cours.",
     "thumbnail": "thumbnails/1nzc98r.webp",
     "tags": [
-      "Dordogne"
+      "Médias",
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T11:20:41.302011+00:00"
   },
@@ -3416,8 +2891,7 @@
     "summary": "",
     "thumbnail": "thumbnails/1nzbagw.webp",
     "tags": [
-      "Lecornu",
-      "Politique"
+      "Sébastien Lecornu"
     ],
     "analyzed_at": "2026-11-01T11:20:41.652195+00:00"
   },
@@ -3439,9 +2913,8 @@
     "summary": "",
     "thumbnail": "thumbnails/1nyy2rm.webp",
     "tags": [
-      "Lecornu",
-      "Bruno Retailleau",
-      "Politique"
+      "Sébastien Lecornu",
+      "Bruno Retailleau"
     ],
     "analyzed_at": "2026-11-01T11:20:41.856994+00:00"
   },
@@ -3463,11 +2936,10 @@
     "summary": "L'Elysée a présenté la composition du gouvernement, dimanche soir, qui comprend quatre membres de LR, dont le ministre de l'Intérieur.",
     "thumbnail": "thumbnails/1nyut3n.webp",
     "tags": [
-      "Intérieur",
       "Sébastien Lecornu",
       "Bruno Retailleau",
-      "Roland Lescure",
-      "Politique"
+      "Bruno Le Maire",
+      "Économie"
     ],
     "analyzed_at": "2026-11-01T11:20:41.667501+00:00"
   },
@@ -3489,9 +2961,7 @@
     "summary": "La militante suédoise, détenue après avoir été arrêtée à bord d'un des navires de la flottille pour Gaza, dit subir de mauvais traitements dans les geôles israéliennes. Elle dit être placée dans une cellule infestée de punaises de lit, avec trop peu de nourriture et d'eau.",
     "thumbnail": "thumbnails/1nynolw.webp",
     "tags": [
-      "Greta Thunberg",
-      "Gaza",
-      "Monde"
+      "Conflit israélo-palestinien"
     ],
     "analyzed_at": "2026-11-01T11:20:41.578537+00:00"
   },
@@ -3513,9 +2983,7 @@
     "summary": "La démocratie américaine pourrait bien “ne pas survivre un an de plus” aux coups de boutoir du locataire de la Maison-Blanche, s’alarme le journaliste américain...",
     "thumbnail": "thumbnails/1nynmhu.webp",
     "tags": [
-      "Donald Trump",
-      "Maison-Blanche",
-      "Monde"
+      "Donald Trump"
     ],
     "analyzed_at": "2026-11-01T11:20:41.956403+00:00"
   },
@@ -3536,35 +3004,8 @@
     "ingested_at": "2026-11-01T11:14:22.352259+00:00",
     "summary": "",
     "thumbnail": "thumbnails/1nyhgz4.webp",
-    "tags": [
-      "Paris",
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:20:42.912796+00:00"
-  },
-  {
-    "id": "1ny6163",
-    "title": "Lecornu veut faire payer les malades",
-    "url": "https://lessentieldeleco.fr/3595-lecornu-veut-faire-payer-les-malades/",
-    "permalink": "/r/france/comments/1ny6163/lecornu_veut_faire_payer_les_malades/",
-    "created_at": "2025-10-04T21:26:07+00:00",
-    "score": 259,
-    "num_comments": 60,
-    "subreddit": "france",
-    "author": "scarlistik",
-    "flair": "Politique",
-    "domain": "lessentieldeleco.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/nR4T2pXoCPeQanv3zRjLs5nZqeI4pv1B6YGpBwglqD8.jpeg?auto=webp&s=f040f18e862090155ef788874363d2ce19710997",
-    "ingested_at": "2026-11-01T11:14:22.355393+00:00",
-    "summary": "Le plafond des franchises médicales passe de 100 à 200 euros par an, par décret signé le 23 juillet, Parlement fermé. Avec lui, 1,4 milliard d'euros de remboursements en moins.",
-    "thumbnail": "thumbnails/1ny6163.webp",
-    "tags": [
-      "Sécurité",
-      "Sébastien Lecornu",
-      "Politique"
-    ],
-    "analyzed_at": "2026-11-01T11:20:41.638259+00:00"
   },
   {
     "id": "1nxzm0c",
@@ -3584,11 +3025,7 @@
     "summary": "Le gouvernement de gauche dirigé par Pedro Sánchez se préparerait à lancer « une offensive diplomatique et juridique » pour poursuivre Israël suite à l’assaut militaire ...",
     "thumbnail": "thumbnails/1nxzm0c.webp",
     "tags": [
-      "Gaza",
-      "Espagne",
-      "Israël",
-      "Pedro Sánchez",
-      "Politique"
+      "Conflit israélo-palestinien"
     ],
     "analyzed_at": "2026-11-01T11:20:42.437853+00:00"
   },
@@ -3609,13 +3046,7 @@
     "ingested_at": "2026-11-01T11:14:22.352500+00:00",
     "summary": "L’émission est désormais hébergée sur Twitch sous le nouveau nom d'\"OGK Decoy\". La mort de Jean Pormanove en août, régulièrement violenté et humilié sur la chaîne hébergée par Kick, avait suscité une vive émotion.",
     "thumbnail": "thumbnails/1nxuvcf.webp",
-    "tags": [
-      "Jean Pormanove",
-      "Twitch",
-      "Lokal",
-      "Kick",
-      "OGK Decoy"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:20:42.018230+00:00"
   },
   {
@@ -3635,39 +3066,8 @@
     "ingested_at": "2026-11-01T11:14:22.351967+00:00",
     "summary": "",
     "thumbnail": "thumbnails/1nxpn8l.webp",
-    "tags": [
-      "Luigi Mangione",
-      "Etats-Unis",
-      "Robin des Bois",
-      "Monde"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:20:42.153110+00:00"
-  },
-  {
-    "id": "1nxezls",
-    "title": "Face à Pierre-Édouard Stérin, le grand silence de la « French Tech »",
-    "url": "https://multinationales.org/fr/enquetes/extreme-tech/face-a-pierre-edouard-sterin-le-grand-silence-de-la-french-tech",
-    "permalink": "/r/france/comments/1nxezls/face_à_pierreédouard_stérin_le_grand_silence_de/",
-    "created_at": "2025-10-03T23:47:32+00:00",
-    "score": 308,
-    "num_comments": 70,
-    "subreddit": "france",
-    "author": "rosny2",
-    "flair": "Politique",
-    "domain": "multinationales.org",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/E5WeZbgSlJMSFZUOm1qd3kmcoX3fCQ3rS-CExEwQRoE.jpeg?auto=webp&s=fc9c43b2addb92d7945ccc4b54e9d7cf5850646b",
-    "ingested_at": "2026-11-01T11:14:22.354434+00:00",
-    "summary": "Investisseur historique et respecté de la French Tech, Pierre-Édouard Stérin s'affiche aussi en financer de la guerre culturelle et de l'extrême droite. Dans le milieu start-up, le sujet semble tabou.",
-    "thumbnail": "thumbnails/1nxezls.webp",
-    "tags": [
-      "Pierre-Édouard Stérin",
-      "French Tech",
-      "Périclès",
-      "Otium",
-      "Politique"
-    ],
-    "analyzed_at": "2026-11-01T11:20:42.024015+00:00"
   },
   {
     "id": "1nx63wi",
@@ -3687,11 +3087,7 @@
     "summary": "Un journaliste ukrainien, Heorgiy Ivanchenko, a aussi été blessé lors de la même attaque, selon la Fédération européenne des journalistes.",
     "thumbnail": "thumbnails/1nx63wi.webp",
     "tags": [
-      "Ukraine",
-      "Antoni Lallican",
-      "Donbass",
-      "Heorgiy Ivanchenko",
-      "Fédération"
+      "Guerre en Ukraine"
     ],
     "analyzed_at": "2026-11-01T11:20:42.285934+00:00"
   },
@@ -3713,10 +3109,8 @@
     "summary": "Le ministre de la Justice démissionnaire est allé voir l’ancien président de la République après sa condamnation à cinq ans de prison pour « association de malfaiteurs » dans l’affaire des financements libyens. Une entrevue, dans le plus grand secret, pour l’assurer de son soutien.",
     "thumbnail": "thumbnails/1nx63ge.webp",
     "tags": [
-      "Gérald Darmanin",
       "Nicolas Sarkozy",
-      "République",
-      "Politique"
+      "Gérald Darmanin"
     ],
     "analyzed_at": "2026-11-01T11:20:42.501642+00:00"
   },
@@ -3737,11 +3131,7 @@
     "ingested_at": "2026-11-01T11:14:22.352235+00:00",
     "summary": "En acceptant de rembourser une partie du CICE comme exigé par le sénateur communiste Fabien Gay, le géant du pneu démontre que le conditionnement des 211 milliards d’euros versé...",
     "thumbnail": "thumbnails/1nx55rp.webp",
-    "tags": [
-      "CICE",
-      "Fabien Gay",
-      "Payant"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:20:42.973991+00:00"
   },
   {
@@ -3762,11 +3152,9 @@
     "summary": "La proposition du FSU-SNUipp visant à ôter les mentions \"Toussaint\" et \"Noël\" dans le calendrier scolaire a reçu un avis favorable du Conseil supérieur de l’éducation, une instance consultative. Elle n'a toutefois pas été retenue par le ministère.",
     "thumbnail": "thumbnails/1nx4moa.webp",
     "tags": [
-      "Toussaint et de Noël",
-      "FSU-SNUipp",
-      "Education",
-      "Conseil",
-      "Société"
+      "Laïcité",
+      "Éducation",
+      "Grèves et syndicats"
     ],
     "analyzed_at": "2026-11-01T11:20:42.466100+00:00"
   },
@@ -3788,11 +3176,7 @@
     "summary": "Après Anne Hidalgo, Éric Lejoindre, maire PS du XVIIIe arrondissement, est critiqué pour ses frais incluant pressing, coiffeur et repas fast",
     "thumbnail": "thumbnails/1nx2xcy.webp",
     "tags": [
-      "XVIIIe",
-      "Paris",
-      "Anne Hidalgo",
-      "Éric Lejoindre",
-      "Politique"
+      "Anne Hidalgo"
     ],
     "analyzed_at": "2026-11-01T11:20:42.778869+00:00"
   },
@@ -3814,11 +3198,8 @@
     "summary": "Pour la cheffe des députés LFI Mathilde Panot, l’ambassadeur d’Israël en France Joshua Zarka doit être expulsé du pays, en raison de l’actio",
     "thumbnail": "thumbnails/1nwtupq.webp",
     "tags": [
-      "Israël",
       "Mathilde Panot",
-      "Gaza",
-      "France Joshua Zarka",
-      "Politique"
+      "Conflit israélo-palestinien"
     ],
     "analyzed_at": "2026-11-01T11:20:42.844371+00:00"
   },
@@ -3840,11 +3221,7 @@
     "summary": "Le Crédit Agricole a reconnu devant la justice avoir participé à la fraude aux \"CumCum\" qui consiste à éviter la taxe sur les dividendes. Mais d'autres établissements sont mis en cause. Selon la Cellule investigation de Radio France, 13 banques sont dans le viseur de Bercy.",
     "thumbnail": "thumbnails/1nwtnv2.webp",
     "tags": [
-      "Crédit Agricole",
-      "Cellule",
-      "Radio France",
-      "Bercy",
-      "Économie"
+      "Agriculture"
     ],
     "analyzed_at": "2026-11-01T11:20:42.966742+00:00"
   },
@@ -3866,9 +3243,6 @@
     "summary": "À la fin des années 2010, une coalition de scientifiques avait affirmé que la viande ne devait pas être au cœur de notre alimentation. Ils le répètent dans une étude publiée ce vendredi 3 octobre dans la revue scientifique The Lancet, assurant se baser sur des données encore plus solides.",
     "thumbnail": "thumbnails/1nwtj8x.webp",
     "tags": [
-      "Lancet",
-      "Santé publique",
-      "Recherche scientifique",
       "Santé"
     ],
     "analyzed_at": "2026-11-01T11:20:43.541040+00:00"
@@ -3891,11 +3265,8 @@
     "summary": "Dans ce discours traditionnel que fait tout nouveau Premier ministre devant le Parlement, il exposera sa feuille de route, alors qu'il est privé de majorité.",
     "thumbnail": "thumbnails/1nws2kq.webp",
     "tags": [
-      "Premier",
       "Sébastien Lecornu",
-      "Matignon",
-      "Constitution",
-      "Politique"
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T11:20:43.076239+00:00"
   },
@@ -3917,11 +3288,8 @@
     "summary": "Le prix Nobel 2001 d'Économie soutient le projet d'impôt minimal sur les plus grandes fortunes pour réduire les inégalités et financer l'investissement public.",
     "thumbnail": "thumbnails/1nwhdre.webp",
     "tags": [
-      "TAXE",
-      "ACCROÎT",
-      "FORTUNE de 6",
-      "AN",
-      "Politique"
+      "Budget et fiscalité",
+      "Économie"
     ],
     "analyzed_at": "2026-11-01T11:20:42.917362+00:00"
   },
@@ -3942,10 +3310,7 @@
     "ingested_at": "2026-11-01T11:14:22.354899+00:00",
     "summary": "",
     "thumbnail": "thumbnails/1nwflru.webp",
-    "tags": [
-      "Benjamin Lemoine",
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:20:43.521786+00:00"
   },
   {
@@ -3966,37 +3331,9 @@
     "summary": "Se trame en ce moment dans les couloirs de l’Union européenne une bataille feutrée pour l’avenir des messageries instantanées. Les 27 vont bientôt devoir",
     "thumbnail": "thumbnails/1nwdwil.webp",
     "tags": [
-      "Chat Control",
-      "Europe",
-      "Union",
-      "UE",
-      "Tech"
+      "Union européenne"
     ],
     "analyzed_at": "2026-11-01T11:20:43.597041+00:00"
-  },
-  {
-    "id": "1nwdngu",
-    "title": "Le front anti-LFI est désormais plus puissant que le front anti-RN - Odoxa",
-    "url": "https://www.odoxa.fr/sondage/le-front-anti-lfi-est-desormais-plus-puissant-que-le-front-anti-rn/",
-    "permalink": "/r/france/comments/1nwdngu/le_front_antilfi_est_désormais_plus_puissant_que/",
-    "created_at": "2025-10-02T19:37:50+00:00",
-    "score": 371,
-    "num_comments": 432,
-    "subreddit": "france",
-    "author": "slasher-fun",
-    "flair": "Politique",
-    "domain": "odoxa.fr",
-    "selftext": "",
-    "reddit_thumbnail": "",
-    "ingested_at": "2026-11-01T11:14:22.353486+00:00",
-    "summary": "1) Une majorité de 53% de Français considèrent que le front anti-RN n’est pas une bonne chose La plupart des sympathisants de droite partagent cette opinion et de très nets signes d’érosion apparaissent à gauche et au centre 2) D’ailleurs, parmi les Français qui ont fait barrage au RN par le passé, 3 sur 10 ne le…",
-    "thumbnail": "",
-    "tags": [
-      "Français",
-      "RN",
-      "Politique"
-    ],
-    "analyzed_at": "2026-11-01T11:20:43.108875+00:00"
   },
   {
     "id": "1nwddyz",
@@ -4016,9 +3353,7 @@
     "summary": "Les députés brésiliens ont validé la mesure phare du président Lula visant à exonérer les classes moyennes d'impôt sur le revenu. Elle sera financée par une hausse du taux d'impôt des plus riches qui sera multiplié par quatre.",
     "thumbnail": "thumbnails/1nwddyz.webp",
     "tags": [
-      "Brésil",
-      "Lula",
-      "Monde"
+      "Budget et fiscalité"
     ],
     "analyzed_at": "2026-11-01T11:20:43.042380+00:00"
   },
@@ -4040,10 +3375,7 @@
     "summary": "Dans la lignée d'une série de mesures drastiques pour relancer l'économie et réduire le chômage, le gouvernement grec a présenté un texte qui prévoit notamment d'autoriser des journées de travail de 13h.",
     "thumbnail": "thumbnails/1nw17d3.webp",
     "tags": [
-      "Grèce",
-      "Grecs",
-      "Europe",
-      "Monde"
+      "Grèves et syndicats"
     ],
     "analyzed_at": "2026-11-01T11:20:43.560183+00:00"
   },
@@ -4065,39 +3397,9 @@
     "summary": "“Adieu Windows, bonjour le Libre !” Le cri de ralliement de l’April résonne comme un appel à la désobéissance numérique. Face à l’obsolescence programmée de Windows 10 et à ses 400 millions d’ordinateurs condamnés à la poubelle, une campagne nationale propose une alternative radicale : et si la v...",
     "thumbnail": "thumbnails/1nvzsl6.webp",
     "tags": [
-      "Windows 10",
-      "Linux",
-      "April",
-      "PC",
-      "Adieu Windows"
+      "Manifestations"
     ],
     "analyzed_at": "2026-11-01T11:20:43.551390+00:00"
-  },
-  {
-    "id": "1nvz2py",
-    "title": "Affaire Sarkozy-Kadhafi : la manipulation du « Point »",
-    "url": "https://blogs.mediapart.fr/fabrice-arfi/blog/021025/affaire-sarkozy-kadhafi-la-manipulation-du-point",
-    "permalink": "/r/france/comments/1nvz2py/affaire_sarkozykadhafi_la_manipulation_du_point/",
-    "created_at": "2025-10-02T09:26:08+00:00",
-    "score": 349,
-    "num_comments": 46,
-    "subreddit": "france",
-    "author": "Caramel_Mou",
-    "flair": "Politique",
-    "domain": "blogs.mediapart.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/16rMqc7YQts1DXaXBqDMwFN5Mx6-8XkoFkppWbv-6cA.jpeg?auto=webp&s=b6cac0e07fef521cfb990fc51a4800b704a09a2e",
-    "ingested_at": "2026-11-01T11:14:22.353826+00:00",
-    "summary": "Mediapart a recensé 20 erreurs et omissions dans un article de l’hebdomadaire, qui met en cause, ce 2 octobre, notre enquête dans l’affaire des financements libyens. Revue de détails.",
-    "thumbnail": "thumbnails/1nvz2py.webp",
-    "tags": [
-      "Affaire Sarkozy-Kadhafi",
-      "Koussa",
-      "Mediapart",
-      "Kadhafi",
-      "Politique"
-    ],
-    "analyzed_at": "2026-11-01T11:20:44.625522+00:00"
   },
   {
     "id": "1nvxitf",
@@ -4117,9 +3419,7 @@
     "summary": "Plus d’un an et demi après les premiers témoignages le visant, le psychanalyste Gérard Miller a été mis en examen par des juges d’instruction parisiens pour des viols et agressions...",
     "thumbnail": "thumbnails/1nvxitf.webp",
     "tags": [
-      "Gérard Miller",
-      "Gratuit",
-      "Société"
+      "Violences sexuelles"
     ],
     "analyzed_at": "2026-11-01T11:20:44.382395+00:00"
   },
@@ -4141,11 +3441,7 @@
     "summary": "Racisme, antisémitisme, condamnations judiciaires… Notre trombinoscope expose les brebis galeuses du Rassemblement national à l’Assemblée nationale.",
     "thumbnail": "thumbnails/1nvx41y.webp",
     "tags": [
-      "Jours",
-      "RN",
-      "Avortement",
-      "Facebook",
-      "Politique"
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T11:20:43.584386+00:00"
   },
@@ -4167,11 +3463,7 @@
     "summary": "Des militaires français sont montés à bord du pétrolier de la flotte fantôme russe \"arraisonné samedi\" au large du parc éolien de Saint-Nazaire, et deux membres d'équipage sont en garde à vue. Depuis…",
     "thumbnail": "thumbnails/1nvwlx7.webp",
     "tags": [
-      "Russie",
-      "Drone",
-      "Maritime",
-      "Saint-Nazaire",
-      "Danemark"
+      "Défense"
     ],
     "analyzed_at": "2026-11-01T11:20:43.999223+00:00"
   },
@@ -4193,11 +3485,8 @@
     "summary": "Le nouveau Premier ministre a glissé dans son budget en préparation la fin de l'Institut national de la consommation, en charge notamment de l'édition de l'emblématique…",
     "thumbnail": "thumbnails/1nvwiln.webp",
     "tags": [
-      "INC",
-      "Institut",
-      "Premier",
-      "Canard",
-      "Sébastien Lecornu"
+      "Sébastien Lecornu",
+      "Budget et fiscalité"
     ],
     "analyzed_at": "2026-11-01T11:20:44.049706+00:00"
   },
@@ -4218,13 +3507,7 @@
     "ingested_at": "2026-11-01T11:14:22.354850+00:00",
     "summary": "La célèbre éthologue et anthropologue britannique Jane Goodall, fervente défenseure de l'environnement, est décédée à l’âge de 91 ans.",
     "thumbnail": "thumbnails/1nvg5a9.webp",
-    "tags": [
-      "Jane Goodall",
-      "Canada",
-      "Afrique",
-      "David Greybeard",
-      "Science"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:20:45.747950+00:00"
   },
   {
@@ -4246,8 +3529,7 @@
     "thumbnail": "thumbnails/1nvb1vz.webp",
     "tags": [
       "Nicolas Sarkozy",
-      "Etat",
-      "JDD"
+      "Justice"
     ],
     "analyzed_at": "2026-11-01T11:20:43.959461+00:00"
   },
@@ -4269,9 +3551,7 @@
     "summary": "Au moins neuf hommes condamnés ou en attente d’un procès dans des affaires de terrorisme d’extrême droite ont exercé des responsabilités au sein du Rassemblement national ou l’ont représenté à des él…",
     "thumbnail": "thumbnails/1nv8y0e.webp",
     "tags": [
-      "RN",
-      "Rassemblement",
-      "Société"
+      "Terrorisme"
     ],
     "analyzed_at": "2026-11-01T11:20:45.039182+00:00"
   },
@@ -4292,12 +3572,7 @@
     "ingested_at": "2026-11-01T11:14:22.355619+00:00",
     "summary": "Une campagne de communication de Strasbourg (Bas-Rhin) fait polémique. Censées mettre en lumière les personnes âgées de la ville, les affiches montrent des portraits de Strasbourgeois heureux.",
     "thumbnail": "thumbnails/1nv67hr.webp",
-    "tags": [
-      "Strasbourg",
-      "Strasbourgeois",
-      "Religion",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:20:44.001778+00:00"
   },
   {
@@ -4318,11 +3593,8 @@
     "summary": "Selon un sondage Elabe pour BFMTV, près de deux tiers des Français qualifient de \"juste\" l'exécution provisoire, qui envoie l'ancien président de la République malgré son appel.",
     "thumbnail": "thumbnails/1nv2k5t.webp",
     "tags": [
-      "Sondage BFMTV",
-      "Elabe",
-      "BFMTV",
-      "République",
-      "Politique"
+      "Élections",
+      "Justice"
     ],
     "analyzed_at": "2026-11-01T11:20:44.293436+00:00"
   },
@@ -4344,11 +3616,7 @@
     "summary": "Invité sur Franceinfo ce jeudi matin, le patron des magasins U a confirmé qu'il se rendrait au grand meeting patronal du 13 octobre prochain à Paris.",
     "thumbnail": "thumbnails/1nv23ey.webp",
     "tags": [
-      "Zucmaison",
-      "Coopérative U",
-      "Franceinfo",
-      "Paris",
-      "Économie"
+      "Budget et fiscalité"
     ],
     "analyzed_at": "2026-11-01T11:20:44.287084+00:00"
   },
@@ -4370,8 +3638,7 @@
     "summary": "",
     "thumbnail": "thumbnails/1nv0y6b.webp",
     "tags": [
-      "Donald Trump et Pete Hegseth",
-      "Politique"
+      "Donald Trump"
     ],
     "analyzed_at": "2026-11-01T11:20:44.384056+00:00"
   },
@@ -4393,11 +3660,8 @@
     "summary": "Les démocrates et les républicains n'ont pas trouvé d'accord sur le budget, entraînant la mise à l'arrêt d'une partie de l'administration fédérale.",
     "thumbnail": "thumbnails/1nuyqcd.webp",
     "tags": [
-      "Etats-Unis",
-      "Donald Trump",
-      "Congrès",
-      "Etats Unis d'Amérique",
-      "Monde"
+      "Budget et fiscalité",
+      "Donald Trump"
     ],
     "analyzed_at": "2026-11-01T11:20:44.503639+00:00"
   }

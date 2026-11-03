@@ -8,6 +8,7 @@ from django.utils.safestring import SafeString, mark_safe
 
 from ..models import News
 from ..store import get_store
+from ..vocabulary import lookup
 
 register = template.Library()
 
@@ -25,6 +26,19 @@ def has_tag_page(tag) -> bool:
     """Whether a tag (Tag or TagSummary) has enough news for its own page."""
     # No refresh: called for every tag of every card; the view already did.
     return get_store(refresh=False).tag_page(tag.slug) is not None
+
+
+@register.filter
+def tag_kind(tag) -> str:
+    """ "personnalite" or "theme" for a tag of the vocabulary, else ""."""
+    entry = lookup(tag.name)
+    return entry.kind if entry else ""
+
+
+@register.filter
+def tag_kind_label(tag) -> str:
+    entry = lookup(tag.name)
+    return entry.kind_label if entry else ""
 
 
 @register.filter

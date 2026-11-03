@@ -17,8 +17,9 @@
     "summary": "Au soir de la deuxième journée de manifestations contre le projet de réforme des retraites, l’intersyndicale donne rendez-vous dans une sema",
     "thumbnail": "thumbnails/10q82fj.webp",
     "tags": [
-      "CGT",
-      "Société"
+      "Retraites",
+      "Manifestations",
+      "Grèves et syndicats"
     ],
     "analyzed_at": "2026-11-01T10:44:09.970479+00:00"
   },
@@ -40,7 +41,7 @@
     "summary": "",
     "thumbnail": "thumbnails/10q5e83.webp",
     "tags": [
-      "Politique"
+      "Retraites"
     ],
     "analyzed_at": "2026-11-01T10:44:11.014038+00:00"
   },
@@ -61,10 +62,7 @@
     "ingested_at": "2026-11-01T10:33:09.220512+00:00",
     "summary": "Une annonce immobilière fait beaucoup rigoler les internautes. Celle-ci concerne un studio dans le 9ème arrondissement de Paris où l'agence a tenté d'embellir un peu trop la réalité.",
     "thumbnail": "thumbnails/10pvui1.webp",
-    "tags": [
-      "Paris",
-      "Économie"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:44:10.439440+00:00"
   },
   {
@@ -85,11 +83,7 @@
     "summary": "Une balle tirée par un chasseur a terminé sa course dans l’habitacle d’une voiture qui passait sur une route à plusieurs centaines de mètres des bois samedi 28 janvier 2023 à Quevillon, près de Rouen. Une enquête est ouverte.",
     "thumbnail": "thumbnails/10pubpa.webp",
     "tags": [
-      "Rouen",
-      "Quevillon",
-      "Société",
-      "Forces de l'ordre",
-      "Fait Divers"
+      "Cause animale"
     ],
     "analyzed_at": "2026-11-01T10:44:12.187679+00:00"
   },
@@ -110,7 +104,9 @@
     "ingested_at": "2026-11-01T10:33:09.219669+00:00",
     "summary": "",
     "thumbnail": "thumbnails/10pisjx.webp",
-    "tags": [],
+    "tags": [
+      "Retraites"
+    ],
     "analyzed_at": "2026-11-01T10:44:11.857638+00:00"
   },
   {
@@ -131,9 +127,7 @@
     "summary": "Plusieurs activistes, comme Chad Loder, ont vu leurs comptes être suspendus en novembre 2022. Un message interne suggère que la demande serait venue expressément d’Elon Musk.",
     "thumbnail": "thumbnails/10ozktj.webp",
     "tags": [
-      "Elon Musk",
-      "Twitter",
-      "Chad Loder"
+      "Elon Musk"
     ],
     "analyzed_at": "2026-11-01T10:44:10.724771+00:00"
   },
@@ -155,7 +149,7 @@
     "summary": "",
     "thumbnail": "thumbnails/10ow67z.webp",
     "tags": [
-      "Écologie"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T10:44:11.728952+00:00"
   },
@@ -177,11 +171,8 @@
     "summary": "Selon Mediapart, le député UMP Bruno Le Maire et son suppléant ont rémunéré Pauline Le Maire pour un emploi d'attachée parlementaire sans que la réalité de cet emploi n'ait été prouvée.",
     "thumbnail": "thumbnails/10o50ff.webp",
     "tags": [
-      "Bruno le Maire",
-      "Mediapart",
-      "Pauline le Maire",
-      "UMP Bruno le Maire",
-      "Société"
+      "Bruno Le Maire",
+      "Travail"
     ],
     "analyzed_at": "2026-11-01T10:44:11.455744+00:00"
   },
@@ -204,7 +195,7 @@
     "thumbnail": "thumbnails/10o0u9n.webp",
     "tags": [
       "Élisabeth Borne",
-      "Parlement"
+      "Retraites"
     ],
     "analyzed_at": "2026-11-01T10:44:11.651459+00:00"
   },
@@ -226,11 +217,8 @@
     "summary": "[VIDÉO] Ce samedi 28 janvier sur France Info, la secrétaire d'État chargée de l'Économie sociale et solidaire et de la vie associative, Marlène Schiappa, a annoncé la naturalisation de 25.000 travailleurs étrangers qui ont œuvré pendant la crise sanitaire.",
     "thumbnail": "thumbnails/10nuz5n.webp",
     "tags": [
-      "Covid",
-      "Marlène Schiappa",
       "Covid-19",
-      "État",
-      "Société"
+      "Marlène Schiappa"
     ],
     "analyzed_at": "2026-11-01T10:44:11.744168+00:00"
   },
@@ -252,11 +240,7 @@
     "summary": "Ce samedi 28 janvier, le chef de file de la France Insoumise, Jean-Luc Mélenchon, a présenté un discours lors des Vœux de Carlos Martens Bilongo à Villiers-le-Bel. Il a notamment déclaré que «les riches sont responsables du malheur des pauvres !».",
     "thumbnail": "thumbnails/10njvlg.webp",
     "tags": [
-      "Jean-Luc Mélenchon",
-      "Politique",
-      "France Insoumise",
-      "Vœux de Carlos Martens Bilongo",
-      "Villiers-le-Bel"
+      "Jean-Luc Mélenchon"
     ],
     "analyzed_at": "2026-11-01T10:44:12.788229+00:00"
   },
@@ -278,10 +262,7 @@
     "summary": "Explications et appel à lutter contre la surveillance à Dijon et ailleurs.",
     "thumbnail": "thumbnails/10naclc.webp",
     "tags": [
-      "Dijon",
-      "Tanneries",
-      "Lentillères",
-      "Politique"
+      "Police"
     ],
     "analyzed_at": "2026-11-01T10:44:12.817536+00:00"
   },
@@ -304,10 +285,7 @@
     "thumbnail": "thumbnails/10mh99w.webp",
     "tags": [
       "François Ruffin",
-      "Insoumis de la Somme",
-      "Vrai ou faux",
-      "Santé au travail",
-      "Politique"
+      "Travail"
     ],
     "analyzed_at": "2026-11-01T10:44:12.458014+00:00"
   },
@@ -329,35 +307,9 @@
     "summary": "Première fortune mondiale, le PDG de LVMH a dénoncé les critiques qui lui sont faites alors que Oxfam a récemment dit vouloir « abolir » les",
     "thumbnail": "thumbnails/10m5pec.webp",
     "tags": [
-      "Bernard Arnault",
-      "PDG de LVMH",
-      "Oxfam",
-      "LVMH",
       "Économie"
     ],
     "analyzed_at": "2026-11-01T10:44:12.164810+00:00"
-  },
-  {
-    "id": "10lpebn",
-    "title": "Les chats : un problème pour la biodiversité autant que pour le réchauffement climatique",
-    "url": "https://blog.defi-ecologique.com/chats-probleme-biodiversite-rechauffement-climatique/",
-    "permalink": "/r/france/comments/10lpebn/les_chats_un_problème_pour_la_biodiversité_autant/",
-    "created_at": "2023-01-26T11:08:21+00:00",
-    "score": 251,
-    "num_comments": 311,
-    "subreddit": "france",
-    "author": "reart57847",
-    "flair": "Écologie",
-    "domain": "blog.defi-ecologique.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/IcRa8OhNA9gZtGkZskUwhO5_PO-gpRhrSwUkqRPoMKI.jpeg?auto=webp&s=152ea081a48fdfbd71552941e035918b0979c486",
-    "ingested_at": "2026-11-01T10:33:09.220888+00:00",
-    "summary": "Les chats sont actuellement un problème pour la biodiversité et pèsent de façon non négligeable sur le réchauffement climatique. Ces animaux domestiques sont de redoutables prédateurs, présents en surnombre dans beaucoup d’écosystèmes !",
-    "thumbnail": "thumbnails/10lpebn.webp",
-    "tags": [
-      "Écologie"
-    ],
-    "analyzed_at": "2026-11-01T10:44:12.556615+00:00"
   },
   {
     "id": "10lnobd",
@@ -377,11 +329,9 @@
     "summary": "SONDAGE EXCLUSIF - Fabien Roussel et Jean-Luc Mélenchon sont les deux premiers leaders de gauche dans notre baromètre des personnalités politiques, réalisé avec l’Ifop. Nous avons voulu savoir, si duel il y avait, lequel serait le préféré des Français.",
     "thumbnail": "thumbnails/10lnobd.webp",
     "tags": [
-      "Français",
-      "Fabien Roussel",
       "Jean-Luc Mélenchon",
-      "SONDAGE",
-      "Politique"
+      "Fabien Roussel",
+      "Élections"
     ],
     "analyzed_at": "2026-11-01T10:44:12.807999+00:00"
   },
@@ -402,13 +352,7 @@
     "ingested_at": "2026-11-01T10:33:09.219854+00:00",
     "summary": "Selon la derniÃ¨re enquÃªte de l'INSEE sur le patrimoine des FranÃ§ais, 50% des FranÃ§ais dÃ©tiennent 92% du patrimoine. Un dÃ©sÃ©quilibre stable dans le temps.",
     "thumbnail": "thumbnails/10llrkr.webp",
-    "tags": [
-      "INSEE",
-      "FranÃ",
-      "Ãconomie",
-      "Entreprises â MarchÃ©s",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:44:13.222559+00:00"
   },
   {
@@ -429,11 +373,7 @@
     "summary": "Selon le « Canard enchaîné », le ministre a enterré un rapport de l’Inspection des Finances disséquant les superprofits des concessionnaires.",
     "thumbnail": "thumbnails/10ld8d9.webp",
     "tags": [
-      "Bruno le Maire",
-      "Inspection des Finances",
-      "Finances",
-      "État",
-      "Politique"
+      "Bruno Le Maire"
     ],
     "analyzed_at": "2026-11-01T10:44:12.749226+00:00"
   },
@@ -455,11 +395,10 @@
     "summary": "SONDAGE BFMTV - Le nouveau sondage \"L'Opinion en direct\" de l'institut Elabe pour BFMTV ce mercredi dresse un constat cinglant pour Emmanuel Macron et Élisabeth Borne. L'opposition au projet de réforme des retraites du gouvernement explose, et l'exécutif perd de surcroît le soutien des retraités.",
     "thumbnail": "thumbnails/10lagni.webp",
     "tags": [
-      "Français",
-      "Elabe",
-      "SONDAGE BFMTV",
-      "BFMTV",
-      "Politique"
+      "Retraites",
+      "Élections",
+      "Emmanuel Macron",
+      "Élisabeth Borne"
     ],
     "analyzed_at": "2026-11-01T10:44:12.853635+00:00"
   },
@@ -481,9 +420,9 @@
     "summary": "Une semaine après l’évacuation par les forces de police d’une assemblée générale à l’université de Strasbourg, ce sont 29 étudiants du campus Condorcet près de Paris qui ont fini en garde à vue. La f…",
     "thumbnail": "thumbnails/10l7af9.webp",
     "tags": [
-      "Condorcet",
-      "Strasbourg",
-      "Paris"
+      "Police",
+      "Éducation",
+      "Retraites"
     ],
     "analyzed_at": "2026-11-01T10:44:13.488263+00:00"
   },
@@ -504,12 +443,7 @@
     "ingested_at": "2026-11-01T10:33:09.220819+00:00",
     "summary": "Marlène Engelhorn estime ne pas avoir mérité les millions d’euros dont elle a hérité sans jamais avoir travaillé pour. Elle fait partie des 200 ultra-riches qui demandent aux dirigeants mondiaux de plus les taxer \"pour une économie plus égalitaire\".",
     "thumbnail": "thumbnails/10kzo68.webp",
-    "tags": [
-      "Marlène Engelhorn",
-      "Davos",
-      "Éco / Conso",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:44:13.317092+00:00"
   },
   {
@@ -530,8 +464,7 @@
     "summary": "Une audience a eu lieu ce vendredi devant le tribunal administratif de Paris pour examiner la responsabilité de l’État dans cette affaire hors norme. Les victimes accusent le ministère d’avoir protég…",
     "thumbnail": "thumbnails/10kc8yp.webp",
     "tags": [
-      "Paris",
-      "État"
+      "Justice"
     ],
     "analyzed_at": "2026-11-01T10:44:13.843447+00:00"
   },
@@ -574,13 +507,7 @@
     "ingested_at": "2026-11-01T10:33:09.219421+00:00",
     "summary": "D'après la directrice générale de l'association Oxfam France, même si un quinquagénaire avait gagné au Loto tous les jours de sa vie depuis sa naissance, il ne possèderait même pas le quart de la fortune du milliardaire Bernard Arnault. On a vérifié",
     "thumbnail": "thumbnails/10k210d.webp",
-    "tags": [
-      "Bernard Arnault",
-      "Loto",
-      "Cécile Duflot",
-      "Oxfam France",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:44:13.924496+00:00"
   },
   {
@@ -601,9 +528,7 @@
     "summary": "Retrouvez toute l'actualité en direct et en vidéo avec le premier quotidien d'informations du Sud-Est.",
     "thumbnail": "thumbnails/10k1yex.webp",
     "tags": [
-      "Gorges du Caramy",
-      "Sud-Est",
-      "Fait Divers"
+      "Cause animale"
     ],
     "analyzed_at": "2026-11-01T10:44:13.557069+00:00"
   },
@@ -625,11 +550,7 @@
     "summary": "L'installation de caméras intelligentes pour assurer la sécurité des Jeux olympiques 2024, \"ce ne sera pas 'open bar'\", prévient Marie-Laure Denis, présidente de la Commission nationale de l’informatique et des libertés, qui a d'ores et déjà émis des réserves sur l’utilisation de ces \"caméras augmentées\".",
     "thumbnail": "thumbnails/10k1vf7.webp",
     "tags": [
-      "Cnil",
-      "JO 2024",
-      "Jeux",
-      "Marie-Laure Denis",
-      "Société"
+      "Libertés publiques"
     ],
     "analyzed_at": "2026-11-01T10:44:13.816255+00:00"
   },
@@ -651,7 +572,7 @@
     "summary": "Charles Dennery, normalien et docteur en économie, estime que l’équité impose que les actifs ne soient pas les seuls à contribuer à l'effort de la réforme des retraites. Et que, même si la mesure est taboue politiquement car les retraités votent en masse, la baisse des pensions de 80% d'entre eux doit être envisagée.",
     "thumbnail": "thumbnails/10jy2zh.webp",
     "tags": [
-      "Charles Dennery",
+      "Retraites",
       "Économie"
     ],
     "analyzed_at": "2026-11-01T10:44:13.834541+00:00"
@@ -673,10 +594,7 @@
     "ingested_at": "2026-11-01T10:33:09.220728+00:00",
     "summary": "Les statistiques sont accablantes : la captation du patrimoine et du pouvoir par les héritiers est de plus en plus prononcée. Seule une taxation audacieuse des donations et des successions peut stopper cette machine infernale.",
     "thumbnail": "thumbnails/10jp4s4.webp",
-    "tags": [
-      "CAE",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:44:14.253473+00:00"
   },
   {
@@ -697,10 +615,7 @@
     "summary": "L'économiste Joseph Stiglitz, lauréat du prix Nobel, propose de mettre en place un taux d'imposition mondial spécial de 70% sur les revenus les plus élevés et un impôt sur la fortune de 2 à 3 %.",
     "thumbnail": "thumbnails/10jnj83.webp",
     "tags": [
-      "Nobel Joseph Stiglitz",
-      "Joseph Stiglitz",
-      "Nobel",
-      "Économie"
+      "Pauvreté"
     ],
     "analyzed_at": "2026-11-01T10:44:13.811198+00:00"
   },
@@ -722,7 +637,8 @@
     "summary": "\"La grève c’est bien mais ça ne suffit plus.\" La fédération CGT des mines et de l’énergie va débattre de coupures ciblées contre les défenseurs de la réforme des retraites.",
     "thumbnail": "thumbnails/10j94rk.webp",
     "tags": [
-      "CGT"
+      "Grèves et syndicats",
+      "Retraites"
     ],
     "analyzed_at": "2026-11-01T10:44:14.112304+00:00"
   },
@@ -744,10 +660,7 @@
     "summary": "Comme l'indique un rapport du Haut Conseil à l’Égalité, ces chiffres s'expliquent par \"la nouvelle génération\" qui se sent \"fragilisée\" en tant qu'homme par le mouvement #MeToo, et qui trouve refuge \"dans de nouveaux mouvements virilistes et très masculins.\"",
     "thumbnail": "thumbnails/10j8o3e.webp",
     "tags": [
-      "MeToo",
-      "Haut Conseil",
-      "Égalité",
-      "Société"
+      "Violences sexuelles"
     ],
     "analyzed_at": "2026-11-01T10:44:14.256810+00:00"
   },
@@ -769,11 +682,7 @@
     "summary": "Regroupées dans le Collectif d’Aide aux Victimes d’Influenceurs (AVI), ces victimes portent plainte contre des influenceurs français pour escroquerie en bande organisée et abus de confiance, a appris franceinfo par leurs avocats.",
     "thumbnail": "thumbnails/10j6r09.webp",
     "tags": [
-      "AVI",
-      "Collectif Aide",
-      "Victimes Influenceurs",
-      "Paris",
-      "Société"
+      "Justice"
     ],
     "analyzed_at": "2026-11-01T10:44:14.244270+00:00"
   },
@@ -795,11 +704,8 @@
     "summary": "VIDÉO - La Suède a réformé son système de retraites, en instaurant il y a 20 ans l'âge de départ légal à 65 ans. Notre envoyée spéciale Clémence Dibout a rencontré l'homme qui a porté cette réforme. Aujourd'hui, au micro de BFMTV, Karl Gustaf-Scherman, ancien directeur de la Sécurité sociale suédoise,...",
     "thumbnail": "thumbnails/10iv7hd.webp",
     "tags": [
-      "Karl Gustaf-Scherman",
-      "Suède",
       "Emmanuel Macron",
-      "Clémence Dibout",
-      "BFMTV"
+      "Retraites"
     ],
     "analyzed_at": "2026-11-01T10:44:14.905382+00:00"
   },
@@ -821,10 +727,7 @@
     "summary": "Le Français Gabriel Zucman est pour la première fois au Forum économique mondial de Davos. Ce professeur à l'École d'économie de Paris et à l'université de Berkeley en Californie a participé à une table ronde sur la fiscalité internationale et les inégalités, deux thématiques oubliées du Forum économique.",
     "thumbnail": "thumbnails/10iou39.webp",
     "tags": [
-      "Gabriel Zucman",
-      "Forum",
-      "Davos",
-      "École",
+      "Éducation",
       "Économie"
     ],
     "analyzed_at": "2026-11-01T10:44:14.829674+00:00"
@@ -847,11 +750,8 @@
     "summary": "Le jeune homme de 26 ans, blessé lors de la manifestation du 19 janvier, annonce à \"Libération\" qu'il va porter plainte contre la police.",
     "thumbnail": "thumbnails/10iheje.webp",
     "tags": [
-      "Paris",
-      "Réforme des retraites",
-      "Retraite",
-      "Éco / Conso",
-      "Fait Divers"
+      "Police",
+      "Manifestations"
     ],
     "analyzed_at": "2026-11-01T10:44:14.307307+00:00"
   },
@@ -873,11 +773,8 @@
     "summary": "INFO LE FIGARO - Plusieurs centristes du MoDem vont déposer un amendement pour augmenter le temps de travail hebdomadaire. Contre l'avis de la plupart de leurs collègues Renaissance.",
     "thumbnail": "thumbnails/10ie64h.webp",
     "tags": [
-      "MoDem",
-      "Assemblée nationale",
-      "Réforme des retraites",
-      "Temps de travail",
-      "FIGARO"
+      "Retraites",
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T10:44:14.851415+00:00"
   },
@@ -898,11 +795,7 @@
     "ingested_at": "2026-11-01T10:33:09.221106+00:00",
     "summary": "Ce samedi 21 janvier, le média d'État russe RT France a annoncé sa fermeture.",
     "thumbnail": "thumbnails/10hyfih.webp",
-    "tags": [
-      "RT France",
-      "État",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:44:14.847616+00:00"
   },
   {
@@ -923,7 +816,7 @@
     "summary": "",
     "thumbnail": "thumbnails/10hobz9.webp",
     "tags": [
-      "Lyon"
+      "Justice"
     ],
     "analyzed_at": "2026-11-01T10:44:15.759596+00:00"
   },
@@ -967,11 +860,7 @@
     "summary": "Au terme de leur retraite, les \"baby-boomers\" auront reçu un montant total de pensions deux fois supérieur à la somme de leurs cotisations. Ce phénomène s'explique par la démographie et un effet structurel lié à la mise en place du système par répartition.",
     "thumbnail": "thumbnails/10gs6oe.webp",
     "tags": [
-      "Maxime Sbaihi",
-      "Vrai ou faux",
-      "Réforme des retraites",
-      "Éco / Conso",
-      "Politique"
+      "Retraites"
     ],
     "analyzed_at": "2026-11-01T10:44:14.791460+00:00"
   },
@@ -993,8 +882,9 @@
     "summary": "",
     "thumbnail": "thumbnails/10g6cyr.webp",
     "tags": [
-      "Paris",
-      "Politique"
+      "Police",
+      "Retraites",
+      "Manifestations"
     ],
     "analyzed_at": "2026-11-01T10:44:15.923421+00:00"
   },
@@ -1015,10 +905,7 @@
     "ingested_at": "2026-11-01T10:33:09.220774+00:00",
     "summary": "",
     "thumbnail": "thumbnails/10g41op.webp",
-    "tags": [
-      "Cyril Hanouna",
-      "Bolloré"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:44:16.642252+00:00"
   },
   {
@@ -1038,13 +925,7 @@
     "ingested_at": "2026-11-01T10:33:09.220588+00:00",
     "summary": "Valorisé à 214 milliards de dollars par Forbes, le patrimoine de l'homme le plus riche du monde bat des records avec la flambée de son groupe LVMH.",
     "thumbnail": "thumbnails/10f3pb7.webp",
-    "tags": [
-      "Bernard Arnault",
-      "Bill Gates et Warren Buffett",
-      "LVMH",
-      "Forbes",
-      "Économie"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:44:15.070066+00:00"
   },
   {
@@ -1065,8 +946,8 @@
     "summary": "",
     "thumbnail": "thumbnails/10f2fzp.webp",
     "tags": [
-      "Kyiv",
-      "Intérieur de Zelensky"
+      "Volodymyr Zelensky",
+      "Guerre en Ukraine"
     ],
     "analyzed_at": "2026-11-01T10:44:17.503702+00:00"
   },
@@ -1087,11 +968,7 @@
     "ingested_at": "2026-11-01T10:33:09.220415+00:00",
     "summary": "Cette ancienne institutrice et infirmière était née en 1904 dans le Gard.",
     "thumbnail": "thumbnails/10en1s4.webp",
-    "tags": [
-      "André",
-      "Française",
-      "Gard"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:44:15.285256+00:00"
   },
   {
@@ -1111,9 +988,7 @@
     "ingested_at": "2026-11-01T10:33:09.219219+00:00",
     "summary": "",
     "thumbnail": "thumbnails/10emso6.webp",
-    "tags": [
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:44:17.930021+00:00"
   },
   {
@@ -1134,11 +1009,7 @@
     "summary": "L'ONG milite pour une division par deux du nombre de milliardaires d'ici à 2030 grâce à une plus forte taxation.",
     "thumbnail": "thumbnails/10dpbf3.webp",
     "tags": [
-      "Oxfam",
-      "ONG",
-      "Quentin Parrinello",
-      "Éco / Conso",
-      "Société"
+      "Pauvreté"
     ],
     "analyzed_at": "2026-11-01T10:44:15.364506+00:00"
   },
@@ -1160,9 +1031,9 @@
     "summary": "L'organisation syndicale entend \"aller voir dans leurs permanences\" les élus qui soutiennent la réforme des retraites et menace de couper le courant à ceux qui \"ne comprennent pas le monde du travail\".",
     "thumbnail": "thumbnails/10dj8dx.webp",
     "tags": [
-      "CGT",
-      "CGT Mines-Energie",
-      "Politique"
+      "Grèves et syndicats",
+      "Retraites",
+      "Énergie"
     ],
     "analyzed_at": "2026-11-01T10:44:15.386621+00:00"
   },
@@ -1184,11 +1055,7 @@
     "summary": "C’est ce que révèle une enquête de l’Ifop pour le JDD, alors que la principale mesure de la réforme Macron est le report de l’âge de départ à 64 ans. ...",
     "thumbnail": "thumbnails/10dby3s.webp",
     "tags": [
-      "Ifop",
-      "JDD",
-      "Macron",
-      "Gratuit",
-      "Politique"
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T10:44:16.295514+00:00"
   },
@@ -1209,9 +1076,7 @@
     "ingested_at": "2026-11-01T10:33:09.221175+00:00",
     "summary": "",
     "thumbnail": "thumbnails/10cqesa.webp",
-    "tags": [
-      "Lamballe"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:44:17.084174+00:00"
   },
   {
@@ -1232,7 +1097,8 @@
     "summary": "Face au projet de loi de réforme des retraites du gouvernement, le syndicat appelle à plusieurs jours de grève et « si nécessaire, l'arrêt » du raffinage",
     "thumbnail": "thumbnails/10cj6z2.webp",
     "tags": [
-      "CGT"
+      "Grèves et syndicats",
+      "Retraites"
     ],
     "analyzed_at": "2026-11-01T10:44:16.159442+00:00"
   },
@@ -1254,7 +1120,8 @@
     "summary": "",
     "thumbnail": "thumbnails/10bs41q.webp",
     "tags": [
-      "Pfizer et la Commission"
+      "Covid-19",
+      "Union européenne"
     ],
     "analyzed_at": "2026-11-01T10:44:20.059909+00:00"
   },
@@ -1275,12 +1142,7 @@
     "ingested_at": "2026-11-01T10:33:09.221197+00:00",
     "summary": "",
     "thumbnail": "thumbnails/10bm63o.webp",
-    "tags": [
-      "AJA",
-      "Bamboula",
-      "Nantes",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:44:18.003227+00:00"
   },
   {
@@ -1301,8 +1163,10 @@
     "summary": "",
     "thumbnail": "thumbnails/10b077n.webp",
     "tags": [
-      "Hugo Clément",
-      "Écologie"
+      "Environnement",
+      "Justice",
+      "Médias",
+      "Cause animale"
     ],
     "analyzed_at": "2026-11-01T10:44:17.712621+00:00"
   },
@@ -1324,9 +1188,7 @@
     "summary": "Ce quinquagénaire organisait des stages payants de jeûne prolongé, sans qu’aucun suivi médical ne soit assuré ni prévu. Deux personnes sont",
     "thumbnail": "thumbnails/10ar209.webp",
     "tags": [
-      "Éric Gandon",
-      "Tours",
-      "Fait Divers"
+      "Justice"
     ],
     "analyzed_at": "2026-11-01T10:44:17.116269+00:00"
   },
@@ -1347,13 +1209,7 @@
     "ingested_at": "2026-11-01T10:33:09.220179+00:00",
     "summary": "Youtube devient de plus en plus lisse et ce n'est pas la derniÃ¨re mise Ã jour qui va nous contredire. La plateforme vient d'interdire l'utilisation de gros mots, sous peine de dÃ©monÃ©tisation.",
     "thumbnail": "thumbnails/10aicxj.webp",
-    "tags": [
-      "YouTube",
-      "SociÃ©tÃ©",
-      "MÃ©dias",
-      "Tech â Web",
-      "RÃ©seaux sociaux"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:44:18.139781+00:00"
   },
   {
@@ -1374,11 +1230,8 @@
     "summary": "[VIDÉO] Eric Zemmour a été condamné jeudi 12 janvier à 4000 euros d'amende pour injure à caractère raciste. En 2018, il avait estimé que le prénom d'Hapsatou Sy était une \"insulte à la France\". Le polémiste et ex-candidat à l'élection présidentielle a l'intention de faire appel, selon son avocat.",
     "thumbnail": "thumbnails/10a0laa.webp",
     "tags": [
-      "Eric Zemmour",
-      "Hapsatou Sy",
-      "Paris",
-      "vidéo Police",
-      "Société"
+      "Éric Zemmour",
+      "Justice"
     ],
     "analyzed_at": "2026-11-01T10:44:17.574154+00:00"
   },
@@ -1400,8 +1253,7 @@
     "summary": "",
     "thumbnail": "thumbnails/109w0eh.webp",
     "tags": [
-      "McKinsey",
-      "Société"
+      "Éducation"
     ],
     "analyzed_at": "2026-11-01T10:44:18.559294+00:00"
   },
@@ -1423,8 +1275,7 @@
     "summary": "",
     "thumbnail": "thumbnails/109vrk6.webp",
     "tags": [
-      "Morgan Keane",
-      "Fait Divers"
+      "Cause animale"
     ],
     "analyzed_at": "2026-11-01T10:44:17.960961+00:00"
   },
@@ -1467,10 +1318,7 @@
     "ingested_at": "2026-11-01T10:33:09.220346+00:00",
     "summary": "",
     "thumbnail": "thumbnails/108z1x0.webp",
-    "tags": [
-      "Paris",
-      "Nord"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:44:20.066919+00:00"
   },
   {
@@ -1491,7 +1339,7 @@
     "summary": "Les autorités se disent préoccupées par le nombre de griefs de la population française, mais également par la manière dont ce mécontentement pourrait se traduire.",
     "thumbnail": "thumbnails/108faau.webp",
     "tags": [
-      "Société"
+      "Manifestations"
     ],
     "analyzed_at": "2026-11-01T10:44:18.091674+00:00"
   },
@@ -1512,12 +1360,7 @@
     "ingested_at": "2026-11-01T10:33:09.220270+00:00",
     "summary": "",
     "thumbnail": "thumbnails/108cnn7.webp",
-    "tags": [
-      "Louise Attaque",
-      "Perpignan",
-      "RN",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:44:18.396381+00:00"
   },
   {
@@ -1538,11 +1381,8 @@
     "summary": "EXCLUSIF - 80% des Français se disent opposés à un recul de l'âge légal de départ à la retraite à 64 ans et 83% à 65 ans, selon un sondage Odoxa-Agipi pour Challenges et BFM Business.",
     "thumbnail": "thumbnails/108bc79.webp",
     "tags": [
-      "Français",
-      "Macron",
-      "Odoxa-Agipi",
-      "Challenges et BFM Business",
-      "Politique"
+      "Emmanuel Macron",
+      "Retraites"
     ],
     "analyzed_at": "2026-11-01T10:44:18.994578+00:00"
   },
@@ -1563,11 +1403,7 @@
     "ingested_at": "2026-11-01T10:33:09.219447+00:00",
     "summary": "La professeure d’histoire avait montré un tableau du Moyen-Âge dépeignant le prophète Mahomet dans le cadre d’une discussion sur l’art islam",
     "thumbnail": "thumbnails/1083eg9.webp",
-    "tags": [
-      "Mahomet",
-      "Moyen-Âge",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:44:18.771048+00:00"
   },
   {
@@ -1588,9 +1424,7 @@
     "summary": "",
     "thumbnail": "thumbnails/107mxdm.webp",
     "tags": [
-      "Hugo Lloris",
-      "Bleus",
-      "Sport"
+      "Retraites"
     ],
     "analyzed_at": "2026-11-01T10:44:20.236539+00:00"
   },
@@ -1612,11 +1446,7 @@
     "summary": "Nicola Sirkis a demandé ce week-end que le festival les Déferlantes ne se tiennent pas dans une ville dirigée par le RN.",
     "thumbnail": "thumbnails/107d0tv.webp",
     "tags": [
-      "Perpignan",
-      "Indochine",
-      "Déferlantes",
-      "Bardella",
-      "Politique"
+      "Jordan Bardella"
     ],
     "analyzed_at": "2026-11-01T10:44:19.481093+00:00"
   },
@@ -1638,7 +1468,7 @@
     "summary": "L'exécutif dévoile les contours de son plan chasse avec un objectif: \"tendre vers le zéro accident\". Il a finalement écarté l'idée d'instaurer une journée sans chasse mais va créer une contravention pour les pratiquants sous l'emprise de l'alcool.",
     "thumbnail": "thumbnails/107axgw.webp",
     "tags": [
-      "Société"
+      "Cause animale"
     ],
     "analyzed_at": "2026-11-01T10:44:18.976412+00:00"
   },
@@ -1660,9 +1490,7 @@
     "summary": "",
     "thumbnail": "thumbnails/107ai08.webp",
     "tags": [
-      "Pontoise",
-      "Ile-de-France",
-      "Société"
+      "Santé"
     ],
     "analyzed_at": "2026-11-01T10:44:21.333892+00:00"
   },
@@ -1683,10 +1511,7 @@
     "ingested_at": "2026-11-01T10:33:09.220705+00:00",
     "summary": "Proposition de loi visant à la nationalisation du groupe Électricité de France, n° 671 , déposée le mardi 27 décembre 2022 .",
     "thumbnail": "thumbnails/1076vo1.webp",
-    "tags": [
-      "Électricité de France",
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:44:19.497431+00:00"
   },
   {
@@ -1707,9 +1532,7 @@
     "summary": "A quelques jours de la présentation de la réforme des retraites par le gouvernement, « 20 Minutes » a rencontré le député européen du mouvement de gauche Nouvelle Donne, qui défend depuis plusieurs années la semaine de quatre jours",
     "thumbnail": "thumbnails/106sr9s.webp",
     "tags": [
-      "Minutes",
-      "Nouvelle Donne",
-      "Politique"
+      "Retraites"
     ],
     "analyzed_at": "2026-11-01T10:44:19.613261+00:00"
   },
@@ -1730,9 +1553,7 @@
     "ingested_at": "2026-11-01T10:33:09.219832+00:00",
     "summary": "Les images qui circulent sur les réseaux sociaux laissent présager d'importants dégâts",
     "thumbnail": "thumbnails/106s28j.webp",
-    "tags": [
-      "Congrès et la Cour"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:44:20.083987+00:00"
   },
   {
@@ -1752,10 +1573,7 @@
     "ingested_at": "2026-11-01T10:33:09.220680+00:00",
     "summary": "",
     "thumbnail": "",
-    "tags": [
-      "Dry January",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:44:20.362739+00:00"
   },
   {
@@ -1776,10 +1594,7 @@
     "summary": "Emmanuel Macron va être interrogé par un groupe de journalistes atteints d'autisme dans l'émission \"Les rencontres du Papotin\", ce samedi soir sur France 2. Les questions sont directes et sans filtre.",
     "thumbnail": "thumbnails/105ihfo.webp",
     "tags": [
-      "Emmanuel Macron",
-      "Papotin",
-      "France 2",
-      "Politique"
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T10:44:20.072455+00:00"
   },
@@ -1801,11 +1616,8 @@
     "summary": "En visite dans un hôpital de l'Essone, le chef de l'Etat a présenté, vendredi, des mesures destinées à répondre aux difficultés du secteur.",
     "thumbnail": "thumbnails/104tx6d.webp",
     "tags": [
-      "Emmanuel Macron",
-      "Etat",
-      "Essone",
-      "La crise de l’hôpital public",
-      "Politique"
+      "Santé",
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T10:44:20.341423+00:00"
   },
@@ -1827,9 +1639,8 @@
     "summary": "Le Conseil des prud'hommes de Toulouse (Haute-Garonne) a condamné, le 20 décembre 2022, le salarié d'un restaurant à rembourser la totalité de ses salaires, considérant qu'il n'avait personne au dessus de lui pour lui donner...",
     "thumbnail": "thumbnails/104mynq.webp",
     "tags": [
-      "Toulouse",
-      "Conseil",
-      "Alex V"
+      "Justice",
+      "Travail"
     ],
     "analyzed_at": "2026-11-01T10:44:20.673612+00:00"
   },
@@ -1851,11 +1662,7 @@
     "summary": "On touche au sublime : le prochain président de la COP sur la climat n’est autre que le ministre des Emirats arabes unis de l’Industrie et PDG de la compagnie pétrolière nati...",
     "thumbnail": "thumbnails/104ldhx.webp",
     "tags": [
-      "COP",
-      "Emirats",
-      "Industrie et PDG",
-      "Gratuit",
-      "Écologie"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T10:44:20.846543+00:00"
   },
@@ -1876,11 +1683,7 @@
     "ingested_at": "2026-11-01T10:33:09.221059+00:00",
     "summary": "Anaïs a 15 ans. Blonde, assez grande, collégienne dans un établissement de la proche banlieue de Lille, elle fait régulièrement l’amour avec des gars un peu plus âgés qu’elle contre un peu de fric : « Cinquante balles la pipe, 150 le sexe. Je ne vais pas plus loin. Je ne suis pas une pute. Le […]",
     "thumbnail": "thumbnails/10400bt.webp",
-    "tags": [
-      "Zahia",
-      "Lille",
-      "Article Ancien"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:44:21.520482+00:00"
   },
   {
@@ -1900,13 +1703,7 @@
     "ingested_at": "2026-11-01T10:33:09.221083+00:00",
     "summary": "La cour d’appel de Paris se penche jeudi sur le cas de Laura Nataf. Cette jeune femme de 34 ans, greffée des deux bras aux États-Unis demande à la l'Assurance-maladie de payer les frais médicaux qui s'élèvent à plus d’un million de dollars.",
     "thumbnail": "thumbnails/103wi82.webp",
-    "tags": [
-      "Etats-Unis",
-      "Laura Nataf",
-      "Assurance-maladie",
-      "Paris",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:44:20.575774+00:00"
   },
   {
@@ -1927,7 +1724,7 @@
     "summary": "",
     "thumbnail": "thumbnails/10395a7.webp",
     "tags": [
-      "Matignon"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T10:44:20.754149+00:00"
   },
@@ -1948,10 +1745,7 @@
     "ingested_at": "2026-11-01T10:33:09.220156+00:00",
     "summary": "Des clients profitent de la fin des emballages jetables pour repartir avec les verres en plastique, boîte de nuggets ou de frites de la chaî",
     "thumbnail": "thumbnails/1035r71.webp",
-    "tags": [
-      "McDonald's",
-      "Économie"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:44:20.675338+00:00"
   },
   {
@@ -1972,11 +1766,7 @@
     "summary": "Dans ses vœux du 31 décembre, le chef de l'Etat a évoqué le SNU. Le chef de l’Etat s’apprête à en annoncer sa généralisation. Le brief politique de Jean-Rémi Baudot.",
     "thumbnail": "thumbnails/1027dc8.webp",
     "tags": [
-      "Emmanuel Macron",
-      "Service National Universel",
-      "Etat",
-      "SNU",
-      "Société"
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T10:44:20.968589+00:00"
   },
@@ -1998,8 +1788,8 @@
     "summary": "Alors que la période de chasse entame sa dernière ligne droite, les deux tiers des Français ne se sentent pas en sécurité lorsqu'ils se baladent en pleine nature.",
     "thumbnail": "thumbnails/1024gc1.webp",
     "tags": [
-      "Français",
-      "Écologie"
+      "Cause animale",
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T10:44:22.090517+00:00"
   },
@@ -2021,36 +1811,10 @@
     "summary": "Lors de ses vœux aux Français samedi soir, le chef de l'Etat a laissé entendre que le réchauffement climatique, dont les \"effets spectaculaires\" ont été bien visibles en France en 2022, était un événement inattendu. Le premier rapport du Giec sur le sujet date pourtant de 1990.",
     "thumbnail": "thumbnails/101i5qs.webp",
     "tags": [
-      "Emmanuel Macron",
-      "Giec",
-      "Français",
-      "Etat",
-      "Écologie"
+      "Environnement",
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T10:44:21.263338+00:00"
-  },
-  {
-    "id": "1018zqf",
-    "title": "Deux-tiers des Anglais maintenant en faveur d'un référendum pour rejoindre L'UE",
-    "url": "https://www.msn.com/en-gb/news/uknews/brexit-poll-two-thirds-of-britons-now-support-future-referendum-on-rejoining-the-eu/ar-AA15Rpwf",
-    "permalink": "/r/france/comments/1018zqf/deuxtiers_des_anglais_maintenant_en_faveur_dun/",
-    "created_at": "2023-01-02T10:01:05+00:00",
-    "score": 703,
-    "num_comments": 345,
-    "subreddit": "france",
-    "author": "JINROH-Scorpio",
-    "flair": "Actus",
-    "domain": "msn.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://b.thumbs.redditmedia.com/Q7WwIwbuLe4GLqjY-6P79qECGcbTOlX7J0TXOhqlVIM.jpg",
-    "ingested_at": "2026-11-01T10:33:09.219324+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/1018zqf.webp",
-    "tags": [
-      "Anglais",
-      "UE"
-    ],
-    "analyzed_at": "2026-11-01T10:44:20.969669+00:00"
   },
   {
     "id": "100l3wt",
@@ -2070,9 +1834,7 @@
     "summary": "La situation dans certains hôpitaux français devient vraiment critique. C'est le cas au Centre hospitalier régional de Metz-Thionville, où les urgences ne peuvent plus fonctionner en raison de l'absence de la quasi...",
     "thumbnail": "thumbnails/100l3wt.webp",
     "tags": [
-      "Metz-Thionville",
-      "CHR",
-      "Politique"
+      "Santé"
     ],
     "analyzed_at": "2026-11-01T10:44:21.192546+00:00"
   },
@@ -2094,9 +1856,7 @@
     "summary": "Pour ses sixièmes vœux de la Saint-Sylvestre, le président de la République a confirmé sa volonté de mener à bout la réforme des retraites. Avare en annonces, muet sur les salaires ou le logement et …",
     "thumbnail": "thumbnails/100gm3k.webp",
     "tags": [
-      "Emmanuel Macron",
-      "République",
-      "Saint-Sylvestre"
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T10:44:22.211840+00:00"
   }

@@ -1,25 +1,5 @@
 [
   {
-    "id": "a1u9yx",
-    "title": "France is the world's most food sustainable country",
-    "url": "https://www.weforum.org/agenda/2018/11/france-is-most-food-sustainable-country-u-s-and-u-k-faltering/",
-    "permalink": "/r/france/comments/a1u9yx/france_is_the_worlds_most_food_sustainable_country/",
-    "created_at": "2018-11-30T17:07:11+00:00",
-    "score": 303,
-    "num_comments": 60,
-    "subreddit": "france",
-    "author": "Sneazzy",
-    "flair": "Actus",
-    "domain": "weforum.org",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/vnqTZGdlGrmQLiqHVUaoQJka1msLBT5UI9WtKpSXmWo.jpg?auto=webp&s=43ac995eddd9371fa6b19477648e66133ced8fc4",
-    "ingested_at": "2026-10-31T15:16:17.636503+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/a1u9yx.webp",
-    "tags": [],
-    "analyzed_at": "2026-11-01T09:43:35.623299+00:00"
-  },
-  {
     "id": "a1rn8r",
     "title": "En France, les très riches émettent 40 fois plus de carbone que les pauvres, mais les pauvres paient plus de 4 fois plus de taxe carbone en % de leurs revenus !",
     "url": "https://blogs.alternatives-economiques.fr/gadrey/2018/11/20/en-france-les-tres-riches-emettent-40-fois-plus-de-carbone-que-les-pauvres-mais-les-pauvres-paient-plus-de-4-fois-plus-de-taxe-carbone-en-de-leurs-revenus",
@@ -37,9 +17,7 @@
     "summary": "Ce titre repose sur des évaluations imparfaites, mais les ordres de grandeur sont réalistes.",
     "thumbnail": "thumbnails/a1rn8r.webp",
     "tags": [
-      "Chancel et Piketty",
-      "CO2",
-      "Canada"
+      "Budget et fiscalité"
     ],
     "analyzed_at": "2026-11-01T09:43:33.659968+00:00"
   },
@@ -61,57 +39,10 @@
     "summary": "Dans son dernier ouvrage*, Marc Chesney dresse un parallèle entre la Première Guerre mondiale et la crise financière de 2008. Pour le professeur de finance de l’Université de Zurich, une société civilisée vacille dans les deux cas.",
     "thumbnail": "thumbnails/a1qsqw.webp",
     "tags": [
-      "Marc Chesney",
-      "Première Guerre",
-      "Université de Zurich"
+      "Éducation",
+      "Budget et fiscalité"
     ],
     "analyzed_at": "2026-11-01T09:43:34.161801+00:00"
-  },
-  {
-    "id": "a1q5mt",
-    "title": "Château de la Reine Blanche, Oise, France",
-    "url": "https://c2.staticflickr.com/2/1980/44311968685_ea286cb023_o.jpg",
-    "permalink": "/r/france/comments/a1q5mt/château_de_la_reine_blanche_oise_france/",
-    "created_at": "2018-11-30T06:59:48+00:00",
-    "score": 402,
-    "num_comments": 22,
-    "subreddit": "france",
-    "author": "loulan",
-    "flair": "Culture",
-    "domain": "c2.staticflickr.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/6sNfpXB6uSKrMZg7mt43bbhKrpIOdPUzcZvXjBKG7mU.jpg?auto=webp&s=a90430a3100fccf5a50b2025f60d905ecfc9fde5",
-    "ingested_at": "2026-10-31T15:16:17.636423+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/a1q5mt.webp",
-    "tags": [
-      "Reine Blanche",
-      "Culture"
-    ],
-    "analyzed_at": "2026-11-01T09:43:38.472217+00:00"
-  },
-  {
-    "id": "a1q5c6",
-    "title": "Luxembourg : le cannabis va être légalisé",
-    "url": "http://www.lequotidien.lu/politique-et-societe/luxembourg-le-cannabis-va-etre-legalise/",
-    "permalink": "/r/france/comments/a1q5c6/luxembourg_le_cannabis_va_être_légalisé/",
-    "created_at": "2018-11-30T06:58:26+00:00",
-    "score": 201,
-    "num_comments": 69,
-    "subreddit": "france",
-    "author": "Le_Reptile",
-    "flair": "",
-    "domain": "lequotidien.lu",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/oFvKA5LsPPMYT4BttSu0xw69mrgTuS5c11oWUpHGsl0.jpeg?auto=webp&s=915b5ddd607de4289239fa5d8fed17fb08a2fef7",
-    "ingested_at": "2026-10-31T15:16:17.636914+00:00",
-    "summary": "C'est l'une des mesures les plus inattendues de la conférence de presse tenue ce jeudi par la nouvel...",
-    "thumbnail": "thumbnails/a1q5c6.webp",
-    "tags": [
-      "Luxembourg",
-      "Politique-société"
-    ],
-    "analyzed_at": "2026-11-01T09:43:35.276630+00:00"
   },
   {
     "id": "a1khdo",
@@ -131,11 +62,8 @@
     "summary": "Conformément aux réquisitions du parquet, Benoît Quennedey a été placé sous contrôle judiciaire, confirme à franceinfo une source judiciaire.",
     "thumbnail": "thumbnails/a1khdo.webp",
     "tags": [
-      "Corée du Nord",
-      "Sénat",
-      "Benoît Quennedey",
-      "Soupçons d'espionnage nord-coréen",
-      "Politique"
+      "Institutions",
+      "Justice"
     ],
     "analyzed_at": "2026-11-01T09:43:35.166972+00:00"
   },
@@ -157,32 +85,9 @@
     "summary": "",
     "thumbnail": "thumbnails/a1i0pp.webp",
     "tags": [
-      "Israël",
-      "Compteur"
+      "Conflit israélo-palestinien"
     ],
     "analyzed_at": "2026-11-01T09:43:35.638849+00:00"
-  },
-  {
-    "id": "a17imy",
-    "title": "C'est mercredi, mes hommes",
-    "url": "https://media-cdn.tripadvisor.com/media/photo-s/03/92/67/48/au-pont-st-martin.jpg",
-    "permalink": "/r/france/comments/a17imy/cest_mercredi_mes_hommes/",
-    "created_at": "2018-11-28T16:05:29+00:00",
-    "score": 1489,
-    "num_comments": 134,
-    "subreddit": "france",
-    "author": "Orsonius2",
-    "flair": "Humour",
-    "domain": "media-cdn.tripadvisor.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/utxUfNY-u22y3f8vKWYzB-mEjcy5MiY2b7h2Svedln0.jpeg?auto=webp&s=6f6fbec688f6910b5e58e028927b21d5cb458518",
-    "ingested_at": "2026-10-31T15:16:17.636135+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/a17imy.webp",
-    "tags": [
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:43:34.638048+00:00"
   },
   {
     "id": "a15ehy",
@@ -202,36 +107,9 @@
     "summary": "Très engagé dans la défense de la laïcité, le groupe d'appui parisien de la France insoumise \"JR Hébert\" a disparu sans explication de la plateforme numérique du mouvement de Jean-Luc Mélenchon. En cause, l'organisation d'un débat sur \"l'entrisme islamiste\"...",
     "thumbnail": "thumbnails/a15ehy.webp",
     "tags": [
-      "JR Hébert",
-      "Jean-Luc Mélenchon",
-      "LFI",
-      "Gérald Briant",
-      "Politique"
+      "Jean-Luc Mélenchon"
     ],
     "analyzed_at": "2026-11-01T09:43:35.670007+00:00"
-  },
-  {
-    "id": "a13s86",
-    "title": "Église Sainte-Anne de Saint-Benoît, Réunion, France",
-    "url": "https://c2.staticflickr.com/6/5567/15038353979_dbf0435175_o.jpg",
-    "permalink": "/r/france/comments/a13s86/église_sainteanne_de_saintbenoît_réunion_france/",
-    "created_at": "2018-11-28T06:48:58+00:00",
-    "score": 849,
-    "num_comments": 21,
-    "subreddit": "france",
-    "author": "loulan",
-    "flair": "Culture",
-    "domain": "c2.staticflickr.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/7gqX14QNWZli-HGD-Xufx16afQFOnnYsKrzjJsTr1rI.jpg?auto=webp&s=a617665a06a8442a6645564671eae6076760bc0e",
-    "ingested_at": "2026-10-31T15:16:17.636230+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/a13s86.webp",
-    "tags": [
-      "Église Sainte-Anne de Saint-Benoît",
-      "Culture"
-    ],
-    "analyzed_at": "2026-11-01T09:43:36.300312+00:00"
   },
   {
     "id": "a0twq6",
@@ -251,59 +129,9 @@
     "summary": "",
     "thumbnail": "thumbnails/a0twq6.webp",
     "tags": [
-      "Sécurité"
+      "Protection sociale"
     ],
     "analyzed_at": "2026-11-01T09:43:35.620023+00:00"
-  },
-  {
-    "id": "a0ti1n",
-    "title": "Emballages en verre : l'Ademe appuie le développement de la consigne",
-    "url": "https://www.actu-environnement.com/ae/news/etudes-ademe-consigne-emballage-verre-32462.php4",
-    "permalink": "/r/france/comments/a0ti1n/emballages_en_verre_lademe_appuie_le/",
-    "created_at": "2018-11-27T09:59:07+00:00",
-    "score": 135,
-    "num_comments": 58,
-    "subreddit": "france",
-    "author": "bcorwin",
-    "flair": "",
-    "domain": "actu-environnement.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/oXwGtIrkLmDtthw-2vKamdhNJdyFPYWcRsZ7zm8OiHs.jpeg?auto=webp&s=dcccb336fe2debae34365e80049b4cfe32873fd6",
-    "ingested_at": "2026-10-31T15:16:17.637452+00:00",
-    "summary": "Deux études de l'Ademe confirment l'intérêt des emballages consignés. La première montre qu'ils sont avantageux en termes d'environnement et de coût. La seconde que les Français sont demandeurs.",
-    "thumbnail": "thumbnails/a0ti1n.webp",
-    "tags": [
-      "Écologie",
-      "Environnement",
-      "Ademe",
-      "Français",
-      "Développement durable"
-    ],
-    "analyzed_at": "2026-11-01T09:43:36.039451+00:00"
-  },
-  {
-    "id": "a0khpz",
-    "title": "Atterrissage de la sonde InSight sur Mars en direct ici ce soir à 20h53",
-    "url": "https://insight.cnes.fr/seis-sur-mars",
-    "permalink": "/r/france/comments/a0khpz/atterrissage_de_la_sonde_insight_sur_mars_en/",
-    "created_at": "2018-11-26T15:53:10+00:00",
-    "score": 110,
-    "num_comments": 21,
-    "subreddit": "france",
-    "author": "Neker",
-    "flair": "Science",
-    "domain": "insight.cnes.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/ePooh8TnQBSfzz1Qt9BW3fqIB58cgm3YEkSyV5BUcR4.jpeg?auto=webp&s=a50fd8dd95d865d8afdf2a7fabf5a9a232dc651b",
-    "ingested_at": "2026-10-31T15:16:17.637692+00:00",
-    "summary": "InSight (INterior exploration using Seismic Investigations, Geodesy and Heat Transport) est une mission de géophysique du Programme Discovery de la NASA. Cet atterrisseur s'est posé sur Mars afin d’étudier sa structure interne. Objectif : mieux comprendre comment se forment les planètes rocheuses.",
-    "thumbnail": "thumbnails/a0khpz.webp",
-    "tags": [
-      "InSight",
-      "SEIS",
-      "Science"
-    ],
-    "analyzed_at": "2026-11-01T09:43:35.952573+00:00"
   },
   {
     "id": "a0i9qo",
@@ -323,10 +151,7 @@
     "summary": "VIDÉO - Bruno Le Maire, invité de BFM Politique sur BFMTV ce dimanche, a estimé que \"le nucléaire et le renouvelable sont parfaitement compatibles\".",
     "thumbnail": "thumbnails/a0i9qo.webp",
     "tags": [
-      "Bruno le Maire",
-      "BFM Politique",
-      "BFMTV",
-      "Société"
+      "Bruno Le Maire"
     ],
     "analyzed_at": "2026-11-01T09:43:36.122123+00:00"
   },
@@ -348,8 +173,7 @@
     "summary": "",
     "thumbnail": "thumbnails/a08j73.webp",
     "tags": [
-      "Mairie de Paris",
-      "Politique"
+      "Logement"
     ],
     "analyzed_at": "2026-11-01T09:43:37.036634+00:00"
   },
@@ -370,62 +194,8 @@
     "ingested_at": "2026-10-31T15:16:17.637800+00:00",
     "summary": "",
     "thumbnail": "thumbnails/a086df.webp",
-    "tags": [
-      "Mystery Font That Took Over New York"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:43:36.989896+00:00"
-  },
-  {
-    "id": "9zxmjn",
-    "title": "Aujourd'hui est le jour du souvenir de l'holodomor ou l'on se souvient de la mort de 7.5 millions affamés par le régime communiste",
-    "url": "https://en.wikipedia.org/wiki/Holodomor",
-    "permalink": "/r/france/comments/9zxmjn/aujourdhui_est_le_jour_du_souvenir_de_lholodomor/",
-    "created_at": "2018-11-24T10:55:48+00:00",
-    "score": 163,
-    "num_comments": 344,
-    "subreddit": "france",
-    "author": "error404brain",
-    "flair": "Société",
-    "domain": "en.wikipedia.org",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/t1JvjVtXuae7Qpot3_2qnnvgNAnCUdrNC2Qao062q4Y.jpeg?auto=webp&s=6dee03a55af0dd2a792a1bfc07667de524486398",
-    "ingested_at": "2026-10-31T15:16:17.637145+00:00",
-    "summary": "The Holodomor , [ a ] also known as the Ukrainian famine , [ 8 ] [ 9 ] [ b ] was a massive man-made famine in Soviet Ukraine from 1932 to 1933 that killed millions of Ukrainians . The Holodomor was part of the wider Soviet famine of 1930–1933 which affected the major grain-producing areas of the Soviet Union .",
-    "thumbnail": "thumbnails/9zxmjn.webp",
-    "tags": [
-      "Ukrainian",
-      "Soviet",
-      "Soviet Union",
-      "Ukraine",
-      "Société"
-    ],
-    "analyzed_at": "2026-11-01T09:43:37.458673+00:00"
-  },
-  {
-    "id": "9zxmey",
-    "title": "Chelsea's N’Golo Kante will pay more tax than Amazon and Starbucks COMBINED",
-    "url": "https://www.mirror.co.uk/news/uk-news/ngolo-kantes-new-deal-means-13635426",
-    "permalink": "/r/france/comments/9zxmey/chelseas_ngolo_kante_will_pay_more_tax_than/",
-    "created_at": "2018-11-24T10:55:08+00:00",
-    "score": 236,
-    "num_comments": 27,
-    "subreddit": "france",
-    "author": "[deleted]",
-    "flair": "Sport",
-    "domain": "mirror.co.uk",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/HH9mKxAcppPzxBJJsSLQTiHHpQgcZaL_gyHuzk2iqbs.jpg?auto=webp&s=b4cd5c12ce221811d7fefed0cab9330bd061c70d",
-    "ingested_at": "2026-10-31T15:16:17.636706+00:00",
-    "summary": "The star Chelsea midfielder recently put pen to paper on a £15m deal that will see him pay £564,000 a month in income tax",
-    "thumbnail": "thumbnails/9zxmey.webp",
-    "tags": [
-      "Amazon",
-      "Starbucks",
-      "Chelsea's Golo Kante",
-      "Starbucks COMBINED",
-      "Sport"
-    ],
-    "analyzed_at": "2026-11-01T09:43:37.102958+00:00"
   },
   {
     "id": "9znota",
@@ -445,8 +215,7 @@
     "summary": "",
     "thumbnail": "thumbnails/9znota.webp",
     "tags": [
-      "Nicolas Hulot",
-      "Société"
+      "Nicolas Hulot"
     ],
     "analyzed_at": "2026-11-01T09:43:42.131771+00:00"
   },
@@ -468,62 +237,9 @@
     "summary": "Prendre le train plutôt que la voiture pour échapper à la hausse des prix du carburant : l'argument est régulièrement avancé, en plein mouvement des \"gilets jaunes\". Mais les désagréments du réseau ferroviaire poussent parfois certains usagers à reprendre le volant.",
     "thumbnail": "thumbnails/9zmpfh.webp",
     "tags": [
-      "Isabelle",
-      "SNCF",
-      "Lorient",
-      "TER",
-      "Société"
+      "Transports"
     ],
     "analyzed_at": "2026-11-01T09:43:37.449789+00:00"
-  },
-  {
-    "id": "9zgix6",
-    "title": "France Is The First Country To Ban All Five Bee-Killing Pesticides",
-    "url": "https://www.inquisitr.com/5173592/france-bee-killing-pesticides-banned/",
-    "permalink": "/r/france/comments/9zgix6/france_is_the_first_country_to_ban_all_five/",
-    "created_at": "2018-11-22T18:22:34+00:00",
-    "score": 499,
-    "num_comments": 69,
-    "subreddit": "france",
-    "author": "OlivierDeCarglass",
-    "flair": "Actus",
-    "domain": "inquisitr.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://a.thumbs.redditmedia.com/Hn7uHdFY5CBSvDZbTRHs5CcEcer2fIIdHlbaiiANwa8.jpg",
-    "ingested_at": "2026-10-31T15:16:17.636382+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/9zgix6.webp",
-    "tags": [
-      "France Is",
-      "First Country",
-      "Ban All Five Bee-Killing Pesticides"
-    ],
-    "analyzed_at": "2026-11-01T09:43:39.368883+00:00"
-  },
-  {
-    "id": "9zdktd",
-    "title": "Green Friday : évènement citoyen anti-Black Friday organisé par Altermundi , Emmaüs, Ethiquable, DreamAct & le REFER. les entreprises participantes s’engagent à reverser 15% de leur CA contre l’obsolescence programmée",
-    "url": "https://www.greenfriday.fr/",
-    "permalink": "/r/france/comments/9zdktd/green_friday_évènement_citoyen_antiblack_friday/",
-    "created_at": "2018-11-22T12:07:48+00:00",
-    "score": 207,
-    "num_comments": 20,
-    "subreddit": "france",
-    "author": "handicapeGeek",
-    "flair": "",
-    "domain": "greenfriday.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/g4ERUaX0zPOtLsuMOb2P8wx_66XNEZJp-teYYAn-AWU.jpeg?auto=webp&s=49b608488ac6c107c82cdebe3e3ac5ba75f45c21",
-    "ingested_at": "2026-10-31T15:16:17.636872+00:00",
-    "summary": "Le Green Friday est un mouvement qui rappelle que de nombreuses alternatives de consommation existent et encourage à les appliquer.",
-    "thumbnail": "thumbnails/9zdktd.webp",
-    "tags": [
-      "Friday",
-      "Altermundi",
-      "REFER",
-      "CA"
-    ],
-    "analyzed_at": "2026-11-01T09:43:40.092081+00:00"
   },
   {
     "id": "9zd01z",
@@ -542,13 +258,7 @@
     "ingested_at": "2026-10-31T15:16:17.637392+00:00",
     "summary": "L'ONG Sherpa appuie sa plainte avec de nouveaux témoignages d'anciens employés indiens et népalais.",
     "thumbnail": "thumbnails/9zd01z.webp",
-    "tags": [
-      "Vinci",
-      "Qatar",
-      "Sherpa",
-      "ONG Sherpa",
-      "ONG"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:43:37.821366+00:00"
   },
   {
@@ -569,35 +279,9 @@
     "summary": "Suivez notre direct sur la contestation des Gilets jaunes dans le Haut-Rhin.",
     "thumbnail": "thumbnails/9zcjbj.webp",
     "tags": [
-      "Kingersheim",
-      "Altkirch",
-      "Kaligone",
-      "Haut-Rhin",
-      "GJ"
+      "Manifestations"
     ],
     "analyzed_at": "2026-11-01T09:43:39.319257+00:00"
-  },
-  {
-    "id": "9z1cs7",
-    "title": "67 000 cartes historiques superbes, à télécharger en ultra haute résolution",
-    "url": "http://www.laboiteverte.fr/67-000-cartes-historiques-superbes-a-telecharger-en-ultra-haute-resolution/",
-    "permalink": "/r/france/comments/9z1cs7/67_000_cartes_historiques_superbes_à_télécharger/",
-    "created_at": "2018-11-21T08:16:29+00:00",
-    "score": 287,
-    "num_comments": 37,
-    "subreddit": "france",
-    "author": "_saladedepdt_",
-    "flair": "Culture",
-    "domain": "laboiteverte.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/lxfgaRo71-oP_x3_XRsFntj8pgLmj5IfFfXV1uM48Gg.png?auto=webp&s=f2080d6b75be5e4454dca26413d5e24166b52bf4",
-    "ingested_at": "2026-10-31T15:16:17.636543+00:00",
-    "summary": "Le David Rumsey Map center fait partie de l’université de Standford. Leur site offre en accès libre une ressource de plus de 67000 cartes. En tout il en compte plus de 88000 si on compte les images associées.",
-    "thumbnail": "thumbnails/9z1cs7.webp",
-    "tags": [
-      "Culture"
-    ],
-    "analyzed_at": "2026-11-01T09:43:38.070253+00:00"
   },
   {
     "id": "9z0zvx",
@@ -617,11 +301,7 @@
     "summary": "Soutenu par l’avocate Corinne Lepage, ancienne ministre de l’environnement, le maire EELV de Grande-Synthe (Nord) estime que la France n’agi",
     "thumbnail": "thumbnails/9z0zvx.webp",
     "tags": [
-      "Etat",
-      "Corinne Lepage",
-      "EELV de Grande-Synthe",
-      "Damien Carême",
-      "Politique"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T09:43:38.219799+00:00"
   },
@@ -643,8 +323,8 @@
     "summary": "",
     "thumbnail": "thumbnails/9ytoo4.webp",
     "tags": [
-      "Paris",
-      "Apple"
+      "Manifestations",
+      "Budget et fiscalité"
     ],
     "analyzed_at": "2026-11-01T09:43:39.419025+00:00"
   },
@@ -665,13 +345,7 @@
     "ingested_at": "2026-10-31T15:16:17.636275+00:00",
     "summary": "Deux éminents représentants de la culture du logiciel libre ont été adoubés Chevaliers de l'Ordre national du mérite. Une reconnaissance symbolique de l'importance des modèles technologiques alternatifs.",
     "thumbnail": "thumbnails/9yqdms.webp",
-    "tags": [
-      "VLC",
-      "Ordre du Mérite",
-      "Logiciel libre",
-      "Gaël Musquet",
-      "Chevaliers de Ordre"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:43:39.767742+00:00"
   },
   {
@@ -692,8 +366,7 @@
     "summary": "Au total au moins 23 rassemblements doivent avoir lieu mardi en France, les personnels soignants veulent dénoncer le manque de considération de leur métier.",
     "thumbnail": "thumbnails/9ypnwc.webp",
     "tags": [
-      "Hôpital",
-      "Société"
+      "Santé"
     ],
     "analyzed_at": "2026-11-01T09:43:38.547288+00:00"
   },
@@ -715,76 +388,9 @@
     "summary": "La filiale française du cafetier américain voit son chiffre d'affaires décliner pour la première fois. Mais elle continue à ne payer aucun impôt sur les bénéfices, ce que le fisc français juge illégal.",
     "thumbnail": "thumbnails/9yjc0m.webp",
     "tags": [
-      "Politique"
+      "Budget et fiscalité"
     ],
     "analyzed_at": "2026-11-01T09:43:38.857946+00:00"
-  },
-  {
-    "id": "9yfhpx",
-    "title": "Les gilets jaunes tentent de bloquer la mer du Nord – 120 morts noyés",
-    "url": "http://www.legorafi.fr/2018/11/19/les-gilets-jaunes-tentent-de-bloquer-la-mer-du-nord-120-morts-noyes/",
-    "permalink": "/r/france/comments/9yfhpx/les_gilets_jaunes_tentent_de_bloquer_la_mer_du/",
-    "created_at": "2018-11-19T10:07:32+00:00",
-    "score": 165,
-    "num_comments": 23,
-    "subreddit": "france",
-    "author": "g0sc",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/vHOx9R_MDtzOykblriG2Jfi6SzPCJ2iq13jDTTXRri8.jpeg?auto=webp&s=58efaedded8cde380f3319dd765c1a484e01d437",
-    "ingested_at": "2026-10-31T15:16:17.637102+00:00",
-    "summary": "Calais – Drame samedi au large de Calais. Alors que des gilets jaunes avaient souhaité bloquer le trafic dans la Manche et la mer du Nord, l'opération a tourné au drame avec près de 120 morts par noyades.",
-    "thumbnail": "thumbnails/9yfhpx.webp",
-    "tags": [
-      "Nord",
-      "Calais",
-      "Manche",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:43:38.859181+00:00"
-  },
-  {
-    "id": "9yfgp4",
-    "title": "Python deviendra le langage officiel de programmation en France",
-    "url": "http://eduscol.education.fr/cid134825/consultation-sur-les-programmes-seconde-premiere.html",
-    "permalink": "/r/france/comments/9yfgp4/python_deviendra_le_langage_officiel_de/",
-    "created_at": "2018-11-19T10:02:37+00:00",
-    "score": 164,
-    "num_comments": 201,
-    "subreddit": "france",
-    "author": "Frederic_de_Nucingen",
-    "flair": "",
-    "domain": "eduscol.education.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/sAFVCqKGYk6qoq0OO5B-MaernUnsPfrDGsGeRugum4M.jpg?auto=webp&s=556d36135f40ae2ab01c22e8e34f69c2e933c84b",
-    "ingested_at": "2026-10-31T15:16:17.637122+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/9yfgp4.webp",
-    "tags": [],
-    "analyzed_at": "2026-11-01T09:43:40.601972+00:00"
-  },
-  {
-    "id": "9yfcpo",
-    "title": "Les plus gros pollueurs exonérés, en silence, de taxe sur les carburants.",
-    "url": "https://blogs.mediapart.fr/vilmauve/blog/061118/les-plus-gros-pollueurs-exoneres-en-silence-de-taxe-sur-les-carburants",
-    "permalink": "/r/france/comments/9yfcpo/les_plus_gros_pollueurs_exonérés_en_silence_de/",
-    "created_at": "2018-11-19T09:43:19+00:00",
-    "score": 286,
-    "num_comments": 180,
-    "subreddit": "france",
-    "author": "chambolle",
-    "flair": "",
-    "domain": "blogs.mediapart.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/E9v4aykTf15Nxl3sTy2PgrNvcuLCet3OpczTC4-MmtA.png?auto=webp&s=e588be799eaa638cb6571c9d7f429ae67f9028ee",
-    "ingested_at": "2026-10-31T15:16:17.636564+00:00",
-    "summary": "Une chape de plomb couvre les plus gros pollueurs de la planète.",
-    "thumbnail": "thumbnails/9yfcpo.webp",
-    "tags": [
-      "TICPE"
-    ],
-    "analyzed_at": "2026-11-01T09:43:40.403934+00:00"
   },
   {
     "id": "9y5shq",
@@ -804,11 +410,7 @@
     "summary": "En lançant le mouvement Extinction Rebellion, des activistes anglais s’engagent avec détermination dans la lutte contre le changement climatique et la disparition des espèces, raconte notre chroniqueuse. Alors que le changement est possible et urgent, disent-ils, les politiques ne font rien.",
     "thumbnail": "thumbnails/9y5shq.webp",
     "tags": [
-      "Extinction Rebellion",
-      "Angleterre",
-      "Luttes",
-      "Corinne Morel Darleux",
-      "XR"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T09:43:39.942563+00:00"
   },
@@ -830,7 +432,9 @@
     "summary": "",
     "thumbnail": "thumbnails/9y4nss.webp",
     "tags": [
-      "Français"
+      "Énergie",
+      "Économie",
+      "Élections"
     ],
     "analyzed_at": "2026-11-01T09:43:40.938147+00:00"
   },
@@ -851,13 +455,7 @@
     "ingested_at": "2026-10-31T15:16:17.636766+00:00",
     "summary": "La Nouvelle-Zélande s'est inclinée 27-30 par les Françaises à Grenoble.",
     "thumbnail": "thumbnails/9xzu9p.webp",
-    "tags": [
-      "Nouvelle-Zélande",
-      "Françaises",
-      "Grenoble",
-      "Black Ferns",
-      "Bleues"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:43:39.948129+00:00"
   },
   {
@@ -877,61 +475,8 @@
     "ingested_at": "2026-10-31T15:16:17.637167+00:00",
     "summary": "\"L'huile de palme, c'est plus nocif que l'essence\", a lancé le député MoDem à l'origine de cette mesure, qui a été adoptée de justesse.",
     "thumbnail": "thumbnails/9xz3oc.webp",
-    "tags": [
-      "MoDem",
-      "Hausse des prix des carburants",
-      "Budget 2027",
-      "Automobile",
-      "Éco / Conso"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:43:40.165731+00:00"
-  },
-  {
-    "id": "9xw9zi",
-    "title": "Un gagnant de l’Euromillion flambe et dilapide ses gains en faisant un plein de Sans Plomb 95",
-    "url": "http://www.legorafi.fr/2018/11/14/un-gagnant-de-leuromillion-flambe-et-dilapide-ses-gains-en-faisant-un-plein-de-sans-plomb-95/",
-    "permalink": "/r/france/comments/9xw9zi/un_gagnant_de_leuromillion_flambe_et_dilapide_ses/",
-    "created_at": "2018-11-17T13:14:27+00:00",
-    "score": 373,
-    "num_comments": 21,
-    "subreddit": "france",
-    "author": "Lussarc",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/Q1jl6bLyNBJP1iarwMgjlgffI9snVORYQyxGoGjAuLU.jpeg?auto=webp&s=c8fc461caba0c5ee1f1558c7a66a42e97003dd6f",
-    "ingested_at": "2026-10-31T15:16:17.636485+00:00",
-    "summary": "Un gagnant de l’Euromillion a choqué des internautes en postant une vidéo de lui, dilapidant ses gains en faisant un plein de Sans Plomb 95.",
-    "thumbnail": "thumbnails/9xw9zi.webp",
-    "tags": [
-      "Euromillion",
-      "Plomb 95",
-      "Emmanuel Macron",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:43:40.227826+00:00"
-  },
-  {
-    "id": "9xu4az",
-    "title": "Hôtel de Ville du Touquet, Pas-de-Calais, France",
-    "url": "https://c2.staticflickr.com/8/7106/26701514052_0af67a6f9a_o.jpg",
-    "permalink": "/r/france/comments/9xu4az/hôtel_de_ville_du_touquet_pasdecalais_france/",
-    "created_at": "2018-11-17T06:06:29+00:00",
-    "score": 169,
-    "num_comments": 9,
-    "subreddit": "france",
-    "author": "loulan",
-    "flair": "",
-    "domain": "c2.staticflickr.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/oR5k_Mxo1z84Y-_FNSm2qFJ_NHbmgg3WoxOLt3tBXy8.jpeg?auto=webp&s=1923a91ea9bc7c2ec045cd23296d1ebfb47fefe9",
-    "ingested_at": "2026-10-31T15:16:17.637084+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/9xu4az.webp",
-    "tags": [
-      "Ville du Touquet"
-    ],
-    "analyzed_at": "2026-11-01T09:43:46.593007+00:00"
   },
   {
     "id": "9xs2m4",
@@ -950,11 +495,7 @@
     "ingested_at": "2026-10-31T15:16:17.636786+00:00",
     "summary": "Greenpeace dénonce les engagements non tenus du géant américain Mondelez.",
     "thumbnail": "thumbnails/9xs2m4.webp",
-    "tags": [
-      "Mondelez",
-      "Oreo",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:43:40.571524+00:00"
   },
   {
@@ -974,11 +515,7 @@
     "ingested_at": "2026-10-31T15:16:17.637309+00:00",
     "summary": "Michel vit à Carpentras (Vaucluse), à un petit kilomètre du centre-ville. La plupart du temps, quand Michel doit se rendre en ville, il monte sur son vélo et laisse sa voiture devant chez lui. Curi…",
     "thumbnail": "thumbnails/9xndx5.webp",
-    "tags": [
-      "Michel",
-      "Carpentras",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:43:42.999606+00:00"
   },
   {
@@ -998,32 +535,8 @@
     "ingested_at": "2026-10-31T15:16:17.636208+00:00",
     "summary": "",
     "thumbnail": "thumbnails/9xm96v.webp",
-    "tags": [
-      "Humour"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:43:42.443030+00:00"
-  },
-  {
-    "id": "9xjqmw",
-    "title": "\"Gilets jaunes\" : des cyclistes organisent des contre-manifestations",
-    "url": "https://actu.orange.fr/france/gilets-jaunes-des-cyclistes-organisent-des-contre-manifestations-magic-CNT0000018OFLo.html",
-    "permalink": "/r/france/comments/9xjqmw/gilets_jaunes_des_cyclistes_organisent_des/",
-    "created_at": "2018-11-16T06:39:35+00:00",
-    "score": 287,
-    "num_comments": 280,
-    "subreddit": "france",
-    "author": "grigri78",
-    "flair": "Société",
-    "domain": "actu.orange.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/gsxwv5cS392TsThzX6LxkBwCVmZoZ4qNos8zHuAunOg.jpg?auto=webp&s=853a6bc1a58a4fe4a3a13124e55de5bc0ed973f1",
-    "ingested_at": "2026-10-31T15:16:17.636523+00:00",
-    "summary": "Toutes les actualités de France en un seul endroit. Politique, culture, faits divers, environnement - restez informé(e) avec Orange Actualités.",
-    "thumbnail": "thumbnails/9xjqmw.webp",
-    "tags": [
-      "Société"
-    ],
-    "analyzed_at": "2026-11-01T09:43:41.033021+00:00"
   },
   {
     "id": "9xass2",
@@ -1042,7 +555,9 @@
     "ingested_at": "2026-10-31T15:16:17.636957+00:00",
     "summary": "",
     "thumbnail": "thumbnails/9xass2.webp",
-    "tags": [],
+    "tags": [
+      "Environnement"
+    ],
     "analyzed_at": "2026-11-01T09:43:40.936166+00:00"
   },
   {
@@ -1063,38 +578,9 @@
     "summary": "\"Depuis l'âge de 25 ans, j'ai toujours eu recours à mes employés ou secrétaires\", a reconnu Yoshitaka Sakurada.",
     "thumbnail": "thumbnails/9xab9t.webp",
     "tags": [
-      "Yoshitaka Sakurada",
-      "Japon",
-      "Monde",
-      "Technos"
+      "Numérique"
     ],
     "analyzed_at": "2026-11-01T09:43:40.981601+00:00"
-  },
-  {
-    "id": "9x9ht2",
-    "title": "\"Privacy Not Included\", le guide de Mozilla sur les gadgets de surveillance & non sécurisés à éviter : caméra & thermostat Nest, Amazon Echo, Google Home, Apple TV & HomePod, Philips Hue, Robot Sphero BB-8, balance Withings, tracker Tile, montres...",
-    "url": "https://foundation.mozilla.org/en/privacynotincluded/",
-    "permalink": "/r/france/comments/9x9ht2/privacy_not_included_le_guide_de_mozilla_sur_les/",
-    "created_at": "2018-11-15T08:47:59+00:00",
-    "score": 138,
-    "num_comments": 51,
-    "subreddit": "france",
-    "author": "GrenobleLyon",
-    "flair": "Technos",
-    "domain": "foundation.mozilla.org",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/lJdVyRABKySZ8qyqinS4nC2K0-EGE7uBwMB9-DyapA0.png?auto=webp&s=b7189d6db5193adc88bb688d0b9d7e5a1151f189",
-    "ingested_at": "2026-10-31T15:16:17.637411+00:00",
-    "summary": "Privacy Not Included was launched in 2017 to help you understand the privacy risks of tech products that connect to the internet.",
-    "thumbnail": "thumbnails/9x9ht2.webp",
-    "tags": [
-      "Privacy Not Included",
-      "Mozilla",
-      "Nest",
-      "Amazon Echo",
-      "Technos"
-    ],
-    "analyzed_at": "2026-11-01T09:43:41.763081+00:00"
   },
   {
     "id": "9x0m06",
@@ -1114,8 +600,7 @@
     "summary": "",
     "thumbnail": "thumbnails/9x0m06.webp",
     "tags": [
-      "Trump",
-      "Paris"
+      "Donald Trump"
     ],
     "analyzed_at": "2026-11-01T09:43:42.597898+00:00"
   },
@@ -1136,10 +621,7 @@
     "ingested_at": "2026-10-31T15:16:17.637535+00:00",
     "summary": "",
     "thumbnail": "thumbnails/9wzofn.webp",
-    "tags": [
-      "Football Leaks",
-      "Golo Kanté"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:43:42.245875+00:00"
   },
   {
@@ -1160,8 +642,7 @@
     "summary": "",
     "thumbnail": "thumbnails/9wrogx.webp",
     "tags": [
-      "Angela Merkel",
-      "Politique"
+      "Angela Merkel"
     ],
     "analyzed_at": "2026-11-01T09:43:41.425888+00:00"
   },
@@ -1182,81 +663,8 @@
     "ingested_at": "2026-10-31T15:16:17.637672+00:00",
     "summary": "Dans une tribune publiée dans Le Monde, un collectif de scientifiques tire la sonnette d'alarme sur les conséquences d'une croissance démographique trop rapide. Selon les prévisions, près de 10 milliards d'habitants peupleront la Terre en 2050.",
     "thumbnail": "thumbnails/9wqydl.webp",
-    "tags": [
-      "Monde",
-      "Terre"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:43:41.755836+00:00"
-  },
-  {
-    "id": "9wgsdb",
-    "title": "Décès de Stan Lee à 95 ans",
-    "url": "https://www.tmz.com/2018/11/12/stan-lee-dead-dies-marvel-comics/",
-    "permalink": "/r/france/comments/9wgsdb/décès_de_stan_lee_à_95_ans/",
-    "created_at": "2018-11-12T18:50:39+00:00",
-    "score": 213,
-    "num_comments": 82,
-    "subreddit": "france",
-    "author": "Tidus17",
-    "flair": "Culture",
-    "domain": "tmz.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/2MJpkL46ADNLT87A63SCKHei9c1CBOSEMrADj2Q2lRs.jpeg?auto=webp&s=ea2f639898db8963619cb0a67e0cffc8f0f9c59b",
-    "ingested_at": "2026-10-31T15:16:17.636828+00:00",
-    "summary": "Stan Lee, the man responsible for much of the Marvel Universe, has died ... Stan's daughter tells TMZ.",
-    "thumbnail": "thumbnails/9wgsdb.webp",
-    "tags": [
-      "Stan Lee",
-      "Marvel Universe",
-      "Culture"
-    ],
-    "analyzed_at": "2026-11-01T09:43:42.293815+00:00"
-  },
-  {
-    "id": "9w8ofg",
-    "title": "Plus d'un million recolté pour médecins sans frontières grâce aux 40 streamers du ZEvent, beacoups d'émotion pendant ces trois jours.",
-    "url": "https://clips.twitch.tv/CrepuscularWimpyWoodpeckerPanicVis",
-    "permalink": "/r/france/comments/9w8ofg/plus_dun_million_recolté_pour_médecins_sans/",
-    "created_at": "2018-11-11T23:34:35+00:00",
-    "score": 119,
-    "num_comments": 21,
-    "subreddit": "france",
-    "author": "MHF_Error",
-    "flair": "Société",
-    "domain": "clips.twitch.tv",
-    "selftext": "",
-    "reddit_thumbnail": "",
-    "ingested_at": "2026-10-31T15:16:17.637630+00:00",
-    "summary": "Twitch is the world's leading video platform and community for gamers.",
-    "thumbnail": "thumbnails/9w8ofg.webp",
-    "tags": [
-      "ZEvent",
-      "Société"
-    ],
-    "analyzed_at": "2026-11-01T09:43:41.914896+00:00"
-  },
-  {
-    "id": "9w1uic",
-    "title": "Massif de Belledonne, Isère, France",
-    "url": "https://c1.staticflickr.com/5/4887/44786625455_fbffd06f18_o.jpg",
-    "permalink": "/r/france/comments/9w1uic/massif_de_belledonne_isère_france/",
-    "created_at": "2018-11-11T06:58:17+00:00",
-    "score": 506,
-    "num_comments": 21,
-    "subreddit": "france",
-    "author": "loulan",
-    "flair": "Culture",
-    "domain": "c1.staticflickr.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/HNzCCUrItK1R8bJiujFbAucpoRvDfPl4ic3eexHv5kE.jpg?auto=webp&s=dfec0edb16c2a8d1b52ffeb089e0bef1fbfb4f12",
-    "ingested_at": "2026-10-31T15:16:17.636361+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/9w1uic.webp",
-    "tags": [
-      "Belledonne",
-      "Culture"
-    ],
-    "analyzed_at": "2026-11-01T09:43:46.691165+00:00"
   },
   {
     "id": "9w1r69",
@@ -1276,9 +684,7 @@
     "summary": "",
     "thumbnail": "thumbnails/9w1r69.webp",
     "tags": [
-      "Florence Jany-Catrice",
-      "XXIe",
-      "Politique"
+      "Économie"
     ],
     "analyzed_at": "2026-11-01T09:43:44.324181+00:00"
   },
@@ -1300,11 +706,7 @@
     "summary": "Des Canadiens français jugeaient impensable de se battre pour l’Empire.",
     "thumbnail": "thumbnails/9vww82.webp",
     "tags": [
-      "AJA",
-      "Québécois",
-      "Empire",
-      "Régiment",
-      "Bernard Andrès"
+      "Défense"
     ],
     "analyzed_at": "2026-11-01T09:43:43.554154+00:00"
   },
@@ -1326,58 +728,9 @@
     "summary": "Un balcon s’est partiellement effondré à Marseille sur le passage de la marche blanche en l’honneur des victimes de l’effondrement de plusie",
     "thumbnail": "thumbnails/9vvagc.webp",
     "tags": [
-      "Marseille"
+      "Manifestations"
     ],
     "analyzed_at": "2026-11-01T09:43:42.714394+00:00"
-  },
-  {
-    "id": "9vtkj7",
-    "title": "Château de Fleckenstein, Bas-Rhin, France",
-    "url": "https://c1.staticflickr.com/5/4621/39807762012_37f5307142_k.jpg",
-    "permalink": "/r/france/comments/9vtkj7/château_de_fleckenstein_basrhin_france/",
-    "created_at": "2018-11-10T11:21:02+00:00",
-    "score": 183,
-    "num_comments": 9,
-    "subreddit": "france",
-    "author": "loulan",
-    "flair": "Culture",
-    "domain": "c1.staticflickr.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/tS_z0b6kROEmIOKpiXBctAZ53ZKWjvR977bIrTCS05Y.jpg?auto=webp&s=83c82080e857bb73bda696eb0d7477c96e14e39b",
-    "ingested_at": "2026-10-31T15:16:17.636977+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/9vtkj7.webp",
-    "tags": [
-      "Fleckenstein",
-      "Culture"
-    ],
-    "analyzed_at": "2026-11-01T09:43:45.147033+00:00"
-  },
-  {
-    "id": "9vrhjd",
-    "title": "Trump is attacking the French president for saying Europe needs to do more to defend itself — something Trump has also said they should do",
-    "url": "https://www.businessinsider.com/trump-attacks-frances-macron-over-his-plan-for-a-european-army-2018-11",
-    "permalink": "/r/france/comments/9vrhjd/trump_is_attacking_the_french_president_for/",
-    "created_at": "2018-11-10T04:22:59+00:00",
-    "score": 212,
-    "num_comments": 121,
-    "subreddit": "france",
-    "author": "lacraquotte",
-    "flair": "Actus",
-    "domain": "businessinsider.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/t1gAgsJfAjUDH5oS1-5ymxc0w4GaIosDgD3WbVh0dBM.jpg?auto=webp&s=3cf0a1b707d7d89fc8828d75b6c3e7d3271f8959",
-    "ingested_at": "2026-10-31T15:16:17.636850+00:00",
-    "summary": "French President Emmanuel Macron drew Trump's ire for saying Europe needed a \"real\" common army to defend it from Russia, China, and the US.",
-    "thumbnail": "thumbnails/9vrhjd.webp",
-    "tags": [
-      "Europe",
-      "Russia",
-      "French",
-      "Trump",
-      "French President Emmanuel Macron"
-    ],
-    "analyzed_at": "2026-11-01T09:43:43.020367+00:00"
   },
   {
     "id": "9vplp6",
@@ -1396,10 +749,7 @@
     "ingested_at": "2026-10-31T15:16:17.636894+00:00",
     "summary": "Une enquête pour \"exercice illégal de la profession de taxi\" a été ouverte jeudi, révèle \"Le Parisien\", une information confirmée de source judiciaire à franceinfo.",
     "thumbnail": "thumbnails/9vplp6.webp",
-    "tags": [
-      "Roissy-Paris",
-      "Parisien"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:43:44.278081+00:00"
   },
   {
@@ -1420,7 +770,7 @@
     "summary": "Dans un message partagé plus de 44.000 fois sur Facebook, un père de famille s'insurge contre les appels à bloquer les routes le 17 novembre et fait valoir l'urgence de l'action sur des sujets environnementaux et internationaux.",
     "thumbnail": "thumbnails/9vl8p7.webp",
     "tags": [
-      "Facebook"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T09:43:44.317275+00:00"
   },
@@ -1442,35 +792,9 @@
     "summary": "Si l’impact de la viande sur le réchauffement climatique est souvent remis en cause, réduire notre consommation est pourtant essentiel à la baisse des émissions de gaz à effet de serre.",
     "thumbnail": "thumbnails/9vhzaz.webp",
     "tags": [
-      "Lomborg",
-      "Bien-être animal",
-      "Changement climatique",
-      "gaz à effet de serre (GES)",
-      "Société"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T09:43:43.498047+00:00"
-  },
-  {
-    "id": "9vhx14",
-    "title": "Gordes, Vaucluse, France",
-    "url": "https://c2.staticflickr.com/8/7474/15773257161_6a3214f193_o.jpg",
-    "permalink": "/r/france/comments/9vhx14/gordes_vaucluse_france/",
-    "created_at": "2018-11-09T05:49:21+00:00",
-    "score": 233,
-    "num_comments": 10,
-    "subreddit": "france",
-    "author": "loulan",
-    "flair": "Culture",
-    "domain": "c2.staticflickr.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/regglL7odRULBkYCmRGp9VWAat3tMESm7V30UTC3Uu8.jpeg?auto=webp&s=8aef0acb6471007a7dbbed6db5519cd79cd35e8b",
-    "ingested_at": "2026-10-31T15:16:17.636727+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/9vhx14.webp",
-    "tags": [
-      "Culture"
-    ],
-    "analyzed_at": "2026-11-01T09:43:50.645284+00:00"
   },
   {
     "id": "9v7u3y",
@@ -1490,8 +814,7 @@
     "summary": "Depuis le début de l'année 2018, Pôle Emploi accumule des défaillances techniques qui lui coûtent une fortune et pourrissent la vie de centaines de milliers de chômeurs. Selon le magazine l'Express, l'agence de...",
     "thumbnail": "thumbnails/9v7u3y.webp",
     "tags": [
-      "Pôle Emploi",
-      "Express"
+      "Travail"
     ],
     "analyzed_at": "2026-11-01T09:43:43.903394+00:00"
   },
@@ -1512,35 +835,8 @@
     "ingested_at": "2026-10-31T15:16:17.636807+00:00",
     "summary": "",
     "thumbnail": "thumbnails/9v7n10.webp",
-    "tags": [
-      "Espagne",
-      "Deliveroo"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:43:44.313304+00:00"
-  },
-  {
-    "id": "9uyprr",
-    "title": "La vallée des oubliés : Série de photos sur une habitante de la Somme au RSA.",
-    "url": "https://www.myop.fr/serie/la-vall%C3%A9e-des-oubli%C3%A9s-isabelle-et-amandine",
-    "permalink": "/r/france/comments/9uyprr/la_vallée_des_oubliés_série_de_photos_sur_une/",
-    "created_at": "2018-11-07T11:43:47+00:00",
-    "score": 129,
-    "num_comments": 73,
-    "subreddit": "france",
-    "author": "herzele",
-    "flair": "Société",
-    "domain": "myop.fr",
-    "selftext": "",
-    "reddit_thumbnail": "",
-    "ingested_at": "2026-10-31T15:16:17.637513+00:00",
-    "summary": "",
-    "thumbnail": "",
-    "tags": [
-      "Somme",
-      "RSA",
-      "Société"
-    ],
-    "analyzed_at": "2026-11-01T09:43:45.425367+00:00"
   },
   {
     "id": "9uyi25",
@@ -1560,33 +856,9 @@
     "summary": "Le président de la République a estimé qu'il n'y avait pas de contradiction avec la condamnation de ses \"choix funestes\" par la suite.",
     "thumbnail": "thumbnails/9uyi25.webp",
     "tags": [
-      "Emmanuel Macron",
-      "Pétain",
-      "Invalides",
-      "République",
-      "Politique"
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T09:43:44.899548+00:00"
-  },
-  {
-    "id": "9urv05",
-    "title": "Le fameux savoir-faire français (vu sur une protection pour portable)",
-    "url": "https://gfycat.com/welltodosharpflamingo",
-    "permalink": "/r/france/comments/9urv05/le_fameux_savoirfaire_français_vu_sur_une/",
-    "created_at": "2018-11-06T20:07:38+00:00",
-    "score": 100,
-    "num_comments": 8,
-    "subreddit": "france",
-    "author": "Hirosensei2",
-    "flair": "",
-    "domain": "gfycat.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://b.thumbs.redditmedia.com/bfQhpDryNhYzH-U_QkyhiKP6-o-PU3s8nFLiStaLP_g.jpg",
-    "ingested_at": "2026-10-31T15:16:17.637752+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/9urv05.webp",
-    "tags": [],
-    "analyzed_at": "2026-11-01T09:43:49.413341+00:00"
   },
   {
     "id": "9upeoe",
@@ -1605,60 +877,8 @@
     "ingested_at": "2026-10-31T15:16:17.636936+00:00",
     "summary": "\"Me suis encore fait avoir\", a écrit José Garcia sur son compte Twitter.",
     "thumbnail": "thumbnails/9upeoe.webp",
-    "tags": [
-      "José Garcia",
-      "Philippe Gildas",
-      "Caunes",
-      "Philippe",
-      "Humour"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:43:44.775907+00:00"
-  },
-  {
-    "id": "9uf6q4",
-    "title": "France's nuclear clean energy is over three times faster and cheaper than Germany's solar and wind",
-    "url": "https://www.nextbigfuture.com/2018/09/frances-nuclear-clean-energy-is-over-three-times-faster-and-cheaper-than-germanys-solar-and-wind.html",
-    "permalink": "/r/france/comments/9uf6q4/frances_nuclear_clean_energy_is_over_three_times/",
-    "created_at": "2018-11-05T16:52:24+00:00",
-    "score": 175,
-    "num_comments": 123,
-    "subreddit": "france",
-    "author": "npjprods",
-    "flair": "",
-    "domain": "nextbigfuture.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/WI_rIct-i6GPGpsRvSarRJcEoSAIPkdt4aFlCDJG5W4.jpeg?auto=webp&s=6b3a382941d37e4b3f61975da3f1a39965979786",
-    "ingested_at": "2026-10-31T15:16:17.637044+00:00",
-    "summary": "France completed construction on 76% of its current 58 reactors at an inflation-adjusted cost of $330 billion (€290 billion). The complete buildout of the 58 reactors was less €400 billion. Germany would need 50% more nuclear energy than France to completely replace all other power generation.",
-    "thumbnail": "thumbnails/9uf6q4.webp",
-    "tags": [
-      "Germany's",
-      "Germany"
-    ],
-    "analyzed_at": "2026-11-01T09:43:45.668024+00:00"
-  },
-  {
-    "id": "9udbtd",
-    "title": "Un collectif de policiers et gendarmes s'engage contre la prohibition en matière de stupéfiants",
-    "url": "https://www.stoplaprohibition.fr/",
-    "permalink": "/r/france/comments/9udbtd/un_collectif_de_policiers_et_gendarmes_sengage/",
-    "created_at": "2018-11-05T13:04:53+00:00",
-    "score": 153,
-    "num_comments": 164,
-    "subreddit": "france",
-    "author": "Riquignoule",
-    "flair": "Société",
-    "domain": "stoplaprohibition.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/yeIzBLPVq4xaa12WycUa6BAayClXfLRAsYOJC-sOagk.png?auto=webp&s=144feba07d8877ee3d81138529e25aa4f0ef4720",
-    "ingested_at": "2026-10-31T15:16:17.637227+00:00",
-    "summary": "Policiers et gendarmes pour une réforme des politiques publiques des drogues - Police Contre la Prohibition",
-    "thumbnail": "thumbnails/9udbtd.webp",
-    "tags": [
-      "Police Contre la Prohibition",
-      "Société"
-    ],
-    "analyzed_at": "2026-11-01T09:43:45.281453+00:00"
   },
   {
     "id": "9uc946",
@@ -1677,11 +897,7 @@
     "ingested_at": "2026-10-31T15:16:17.636648+00:00",
     "summary": "Not only is ‘Je suis excité’ not the appropriate way to convey excitement in French, but there seems to be no real way to express it at all.",
     "thumbnail": "thumbnails/9uc946.webp",
-    "tags": [
-      "French",
-      "BBC",
-      "Culture"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:43:45.872334+00:00"
   },
   {
@@ -1701,11 +917,7 @@
     "ingested_at": "2026-10-31T15:16:17.637712+00:00",
     "summary": "Depuis le 25 octobre, les factrices et facteurs du bureau de distribution de Sarlat en Dordogne ont cessé le travail. Ils exigent le départ de trois cadres dont le management est jugé responsable du passage à l’acte de leur collègue la veille.",
     "thumbnail": "thumbnails/9u3a5o.webp",
-    "tags": [
-      "Poste",
-      "Sarlat",
-      "Dordogne"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:43:47.577803+00:00"
   },
   {
@@ -1726,11 +938,8 @@
     "summary": "Plus de 75% des électeurs inscrits sur la liste électorale spéciale sont allés voter ce dimanche au référendum sur l'indépendance. C'est le «non» qui l'a emporté avec près de 57% des voix. Emmanuel Macron a exprimé son «immense fierté que nous ayons passé ensemble cette étape historique».",
     "thumbnail": "thumbnails/9u2hut.webp",
     "tags": [
-      "Nouvelle-Calédonie",
-      "Emmanuel Macron",
-      "Nouméa",
-      "Paris",
-      "Politique"
+      "Outre-mer",
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T09:43:46.546009+00:00"
   },
@@ -1751,13 +960,7 @@
     "ingested_at": "2026-10-31T15:16:17.637609+00:00",
     "summary": "Le responsable d'une boucherie vandalisée par des défenseurs des animaux à Versailles regrette la façon de faire des militants.",
     "thumbnail": "thumbnails/9tw6n6.webp",
-    "tags": [
-      "Versailles",
-      "Veganisme",
-      "Alimentation",
-      "Bien-être animal",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:43:46.004292+00:00"
   },
   {
@@ -1777,35 +980,8 @@
     "ingested_at": "2026-10-31T15:16:17.637860+00:00",
     "summary": "",
     "thumbnail": "thumbnails/9ttl8b.webp",
-    "tags": [
-      "Etats-Unis",
-      "Blancs",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:43:46.099125+00:00"
-  },
-  {
-    "id": "9thxpi",
-    "title": "Accord de Paris sur le climat : aucun pays de l'UE n'a tenu parole, pas un",
-    "url": "https://fr.express.live/2018/10/31/accord-de-paris-sur-le-climat-aucun-pays-de-lue-na-tenu-parole-pas-un",
-    "permalink": "/r/france/comments/9thxpi/accord_de_paris_sur_le_climat_aucun_pays_de_lue/",
-    "created_at": "2018-11-02T07:31:12+00:00",
-    "score": 834,
-    "num_comments": 304,
-    "subreddit": "france",
-    "author": "pihug12",
-    "flair": "Actus",
-    "domain": "fr.express.live",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/zgRfjxdCSDGmS1yCUNHiG96FDJnfpk9-SxMWwplJboM.jpg?auto=webp&s=4c89146e5251dcfa5e87e76d1ea00790dfec5265",
-    "ingested_at": "2026-10-31T15:16:17.636252+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/9thxpi.webp",
-    "tags": [
-      "Paris",
-      "UE"
-    ],
-    "analyzed_at": "2026-11-01T09:44:05.913143+00:00"
   },
   {
     "id": "9thqb2",
@@ -1825,37 +1001,10 @@
     "summary": "L'initiative, lancée par trois jeunes de Calais et Lille, a réalisé 3 000 commandes en moins d'un mois. La recette va être offerte vendredi à trois associations qui soutiennent les migrants.",
     "thumbnail": "thumbnails/9thqb2.webp",
     "tags": [
-      "Emmanuel Macron",
-      "Élysée",
-      "Calais et Lille"
+      "Immigration",
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T09:43:46.519658+00:00"
-  },
-  {
-    "id": "9t7x4z",
-    "title": "Nous avons moins de temps que prévu »: une nouvelle étude alarmante montre que les océans ont retenu beaucoup plus de chaleur qu'on ne le croyait auparavant [anglais]",
-    "url": "https://www.commondreams.org/news/2018/10/31/we-have-less-time-we-thought-alarming-new-study-shows-oceans-have-retained-far-more",
-    "permalink": "/r/france/comments/9t7x4z/nous_avons_moins_de_temps_que_prévu_une_nouvelle/",
-    "created_at": "2018-11-01T09:28:05+00:00",
-    "score": 177,
-    "num_comments": 124,
-    "subreddit": "france",
-    "author": "secure_caramel",
-    "flair": "Science",
-    "domain": "commondreams.org",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/cmmJWxlZANbUj1Av7ogM-aDHRh2G34zlySg20De_fkQ.jpeg?auto=webp&s=7562ee6076dd819111a406cdb64c1aacd3c7e12b",
-    "ingested_at": "2026-10-31T15:16:17.636997+00:00",
-    "summary": "\"The planet warmed more than we thought. It was hidden from us just because we didn't sample it right. But it was there. It was in the ocean already.\"",
-    "thumbnail": "thumbnails/9t7x4z.webp",
-    "tags": [
-      "Environment",
-      "Fossil-fuels",
-      "Oceans",
-      "Sierra-club",
-      "Science"
-    ],
-    "analyzed_at": "2026-11-01T09:43:46.852613+00:00"
   },
   {
     "id": "9t7n69",
@@ -1874,36 +1023,7 @@
     "ingested_at": "2026-10-31T15:16:17.636584+00:00",
     "summary": "",
     "thumbnail": "thumbnails/9t7n69.webp",
-    "tags": [
-      "Worlds 2019",
-      "Sport"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:43:47.029112+00:00"
-  },
-  {
-    "id": "9t7afr",
-    "title": "Il y a 25 ans jour pour jour, le Traité de Maastricht entrait en vigueur et la Communauté Économique devenait l'Union",
-    "url": "https://fr.wikipedia.org/wiki/Trait%C3%A9_de_Maastricht",
-    "permalink": "/r/france/comments/9t7afr/il_y_a_25_ans_jour_pour_jour_le_traité_de/",
-    "created_at": "2018-11-01T07:11:44+00:00",
-    "score": 383,
-    "num_comments": 157,
-    "subreddit": "france",
-    "author": "Neker",
-    "flair": "Politique",
-    "domain": "fr.wikipedia.org",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/tUVXJTKlHqQziSn2ackG891Rjy4RNpVJenY30W9AJ8Q.jpg?auto=webp&s=e2c1631ef6c91ff24b8fb0afaedf54e5d03d660d",
-    "ingested_at": "2026-10-31T15:16:17.636464+00:00",
-    "summary": "Pour les articles homonymes, voir Traité de Maastricht (homonymie) . Cet article parle en détail du traité de Maastricht comme traité modificatif du traité instituant la Communauté économique européenne en traité instituant la Communauté européenne .",
-    "thumbnail": "thumbnails/9t7afr.webp",
-    "tags": [
-      "Traité de Maastricht",
-      "Communauté Économique",
-      "Communauté",
-      "Conseil",
-      "Politique"
-    ],
-    "analyzed_at": "2026-11-01T09:43:47.018895+00:00"
   }
 ]

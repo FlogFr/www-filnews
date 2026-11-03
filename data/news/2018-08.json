@@ -17,9 +17,7 @@
     "summary": "Un couple, qui avait récolté 400 000 dollars pour aider un SDF, s'est vu condamné à lui reverser cette somme, qu'ils gardaient pour une large partie sur leur compte personnel.",
     "thumbnail": "thumbnails/9bv2nn.webp",
     "tags": [
-      "SDF",
-      "Amériques",
-      "Monde"
+      "Logement"
     ],
     "analyzed_at": "2026-11-01T09:44:11.111014+00:00"
   },
@@ -44,8 +42,7 @@
       "Emmanuel Macron",
       "Nicolas Hulot",
       "François Hollande",
-      "Nicolas Sarkozy",
-      "Politique"
+      "Nicolas Sarkozy"
     ],
     "analyzed_at": "2026-11-01T09:44:11.303156+00:00"
   },
@@ -66,11 +63,7 @@
     "ingested_at": "2026-10-31T15:12:17.611376+00:00",
     "summary": "",
     "thumbnail": "thumbnails/9bioko.webp",
-    "tags": [
-      "Agnès Saal",
-      "Ina",
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:44:14.483522+00:00"
   },
   {
@@ -90,9 +83,7 @@
     "ingested_at": "2026-10-31T15:12:17.611287+00:00",
     "summary": "",
     "thumbnail": "thumbnails/9bi01y.webp",
-    "tags": [
-      "Technos"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:44:12.172592+00:00"
   },
   {
@@ -113,39 +104,11 @@
     "summary": "La Fondation pour la Nature et l'Homme, Agir pour l’environnement, France nature environnement, Générations futures, Les Amis de la Terre, Réseau sortir du nucléaire, l'Action des citoyens pour le désarmement nucléaire, l'Association pour la protection des animaux sauvages, Virage énergies et la Société nationale de…",
     "thumbnail": "thumbnails/9bh9uk.webp",
     "tags": [
-      "Nicolas Hulot",
       "Emmanuel Macron",
-      "Etat",
-      "Fondation",
-      "Politique"
+      "Nicolas Hulot",
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T09:44:11.579814+00:00"
-  },
-  {
-    "id": "9bh6da",
-    "title": "Deux tiers de femmes déclarent avoir été harcelées par d'autres femmes sur leur lieu de travail",
-    "url": "https://globalnews.ca/news/4411507/women-workplace-bullying/?utm_source=770Calgary&utm_medium=Facebook",
-    "permalink": "/r/france/comments/9bh6da/deux_tiers_de_femmes_déclarent_avoir_été/",
-    "created_at": "2018-08-30T06:20:15+00:00",
-    "score": 247,
-    "num_comments": 503,
-    "subreddit": "france",
-    "author": "PandaGluant",
-    "flair": "Société",
-    "domain": "globalnews.ca",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/AAb88j7b8ic9GRTVYGFIMV--r-S2VSfH7oViAyo7LoI.jpeg?auto=webp&s=6649db8ae1aa0579e321802fe5b224f8ad3dd670",
-    "ingested_at": "2026-10-31T15:12:17.610762+00:00",
-    "summary": "It's called 'Queen Bee Syndrome' and it looks a lot like what bullies did in high school.",
-    "thumbnail": "thumbnails/9bh6da.webp",
-    "tags": [
-      "Queen Bee Syndrome",
-      "Women bullied by women in the workplace",
-      "Behaviours of a workplace bully",
-      "Queen Bee",
-      "Société"
-    ],
-    "analyzed_at": "2026-11-01T09:44:12.062112+00:00"
   },
   {
     "id": "9ba6km",
@@ -165,85 +128,9 @@
     "summary": "Une épidémie de rougeole sévit en France et en Europe, alors que de plus en plus de familles refusent de faire vacciner leurs enfants.",
     "thumbnail": "thumbnails/9ba6km.webp",
     "tags": [
-      "Europe",
-      "Soigner",
-      "Science"
+      "Santé"
     ],
     "analyzed_at": "2026-11-01T09:44:12.060335+00:00"
-  },
-  {
-    "id": "9b90rw",
-    "title": "Les logiciels libres meurent lentement sans contributions",
-    "url": "https://framablog.org/2018/08/29/les-logiciels-libres-meurent-lentement-sans-contributions/",
-    "permalink": "/r/france/comments/9b90rw/les_logiciels_libres_meurent_lentement_sans/",
-    "created_at": "2018-08-29T12:54:10+00:00",
-    "score": 162,
-    "num_comments": 221,
-    "subreddit": "france",
-    "author": "[deleted]",
-    "flair": "Société",
-    "domain": "framablog.org",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/LPdxDb-uLqOjp0Pzv_8EEvAccSsQnfqRcWLTO_mkXcU.jpg?auto=webp&s=31240a521bca4bc60a3767fe6c2ed4183cecf113",
-    "ingested_at": "2026-10-31T15:12:17.611106+00:00",
-    "summary": "Dans une récente conférence où il présentait Contributopia, le projet pluriannuel de Framasoft, sous son angle politique, Pierre-Yves Gosset s’attachait à déboulonner quelques mensonges avec lesquels se rassurent les libristes.",
-    "thumbnail": "thumbnails/9b90rw.webp",
-    "tags": [
-      "Contributopia",
-      "FOSS",
-      "Framasoft",
-      "Pierre-Yves Gosset",
-      "Société"
-    ],
-    "analyzed_at": "2026-11-01T12:23:35.117011+00:00"
-  },
-  {
-    "id": "9b8z24",
-    "title": "AJA que le nom du quartier d'affaires de La Défense provient de la statue La Défense de Paris, honorant les défenseurs de la ville durant la guerre de 1870",
-    "url": "https://fr.wikipedia.org/wiki/La_D%C3%A9fense_de_Paris_(Barrias)",
-    "permalink": "/r/france/comments/9b8z24/aja_que_le_nom_du_quartier_daffaires_de_la/",
-    "created_at": "2018-08-29T12:47:15+00:00",
-    "score": 206,
-    "num_comments": 27,
-    "subreddit": "france",
-    "author": "ducdeguiche",
-    "flair": "Culture",
-    "domain": "fr.wikipedia.org",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/Anm7I0NLQMHUZPJkVB6HrBUQCqGi9Kj3D-tGWhjh1pA.jpeg?auto=webp&s=5860a62a4086f25a234780a7380cb325b8532c2e",
-    "ingested_at": "2026-10-31T15:12:17.610848+00:00",
-    "summary": "La Défense de Paris est un groupe sculpté de Louis-Ernest Barrias , inauguré le 12 août 1883 au « carrefour de Courbevoie », renommé de ce fait « rond-point de la Défense », et que les travaux d'aménagement ont définitivement fait disparaître en 1971 .",
-    "thumbnail": "thumbnails/9b8z24.webp",
-    "tags": [
-      "Défense de Paris",
-      "AJA",
-      "Courbevoie",
-      "Paris",
-      "Culture"
-    ],
-    "analyzed_at": "2026-11-01T09:44:13.092836+00:00"
-  },
-  {
-    "id": "9b3crt",
-    "title": "Stéréo, petit ange parti trop tôt :'(",
-    "url": "https://estcequestereoesttoujoursmodo.fr/",
-    "permalink": "/r/france/comments/9b3crt/stéréo_petit_ange_parti_trop_tôt/",
-    "created_at": "2018-08-28T22:11:29+00:00",
-    "score": 281,
-    "num_comments": 191,
-    "subreddit": "france",
-    "author": "ComteBilou",
-    "flair": "Méta",
-    "domain": "estcequestereoesttoujoursmodo.fr",
-    "selftext": "",
-    "reddit_thumbnail": "",
-    "ingested_at": "2026-10-31T15:12:17.610675+00:00",
-    "summary": "",
-    "thumbnail": "",
-    "tags": [
-      "Méta"
-    ],
-    "analyzed_at": "2026-11-01T09:44:13.194255+00:00"
   },
   {
     "id": "9b31hg",
@@ -262,58 +149,8 @@
     "ingested_at": "2026-10-31T15:12:17.611267+00:00",
     "summary": "",
     "thumbnail": "thumbnails/9b31hg.webp",
-    "tags": [
-      "Maison",
-      "Hulot"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:44:13.506612+00:00"
-  },
-  {
-    "id": "9b12zc",
-    "title": "Le ministre de la transition écologique Nicolas Hulot quitte le gouvernement.",
-    "url": "https://pbs.twimg.com/media/DlrL6EzX4AALE18.jpg",
-    "permalink": "/r/france/comments/9b12zc/le_ministre_de_la_transition_écologique_nicolas/",
-    "created_at": "2018-08-28T17:48:35+00:00",
-    "score": 140,
-    "num_comments": 2,
-    "subreddit": "france",
-    "author": "-to-",
-    "flair": "",
-    "domain": "pbs.twimg.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/phr6S5kgdDY5mVfJjzIYlmIY9cn75yst1ud9Qxu4_Z8.jpeg?auto=webp&s=8175249309c9ff0c6a2de3cf4e0964ec2e393e3a",
-    "ingested_at": "2026-10-31T15:12:17.611230+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/9b12zc.webp",
-    "tags": [
-      "Nicolas Hulot"
-    ],
-    "analyzed_at": "2026-11-01T09:44:13.048836+00:00"
-  },
-  {
-    "id": "9b02tr",
-    "title": "Nicolas Hulot quitte le gouvernement pour un poste de DRH chez Bayer",
-    "url": "http://www.legorafi.fr/2018/08/28/nicolas-hulot-quitte-le-gouvernement-pour-un-poste-de-drh-chez-bayer/",
-    "permalink": "/r/france/comments/9b02tr/nicolas_hulot_quitte_le_gouvernement_pour_un/",
-    "created_at": "2018-08-28T15:53:00+00:00",
-    "score": 128,
-    "num_comments": 19,
-    "subreddit": "france",
-    "author": "Flinou",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/7Cw_mf2UVDswf4Gv6Oto8qDYzjj9n9YhmUGKbdfDFYg.jpeg?auto=webp&s=1d753d53654fb5dd4d924ffdc545a01ac37e7398",
-    "ingested_at": "2026-10-31T15:12:17.611455+00:00",
-    "summary": "Nicolas Hulot a annoncé sa démission du gouvernement ce matin. Il prendra ses nouvelles fonctions chez Bayer à partir du 3 septembre.",
-    "thumbnail": "thumbnails/9b02tr.webp",
-    "tags": [
-      "Nicolas Hulot",
-      "Bayer",
-      "DRH",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:44:12.810890+00:00"
   },
   {
     "id": "9awl32",
@@ -333,8 +170,7 @@
     "summary": "",
     "thumbnail": "thumbnails/9awl32.webp",
     "tags": [
-      "Nicolas Hulot",
-      "Politique"
+      "Nicolas Hulot"
     ],
     "analyzed_at": "2026-11-01T09:44:15.596393+00:00"
   },
@@ -355,34 +191,8 @@
     "ingested_at": "2026-10-31T15:12:17.611514+00:00",
     "summary": "Les deux touristes ont perdu un sac à main et deux grandes valises. La compagnie les renvoie à leur propre \"responsabilité\".",
     "thumbnail": "thumbnails/9apa7y.webp",
-    "tags": [
-      "Flixbus",
-      "Insolite",
-      "Rendez-vous de la rédaction",
-      "Thématiques",
-      "Import LEA verrouillé"
-    ],
-    "analyzed_at": "2026-11-01T09:44:13.617800+00:00"
-  },
-  {
-    "id": "9anb4f",
-    "title": "Sous le feu des critiques pour ses pratiques fiscales et sociales, Amazon a crée des milliers de faux profils sur les réseaux sociaux avec des argumentaires clés-en-main",
-    "url": "https://www.sfgate.com/technology/businessinsider/article/amazon-fb-ambassadors-program-pay-nice-things-13182172.php",
-    "permalink": "/r/france/comments/9anb4f/sous_le_feu_des_critiques_pour_ses_pratiques/",
-    "created_at": "2018-08-27T08:50:18+00:00",
-    "score": 364,
-    "num_comments": 119,
-    "subreddit": "france",
-    "author": "WorriedArt4",
-    "flair": "Actus",
-    "domain": "sfgate.com",
-    "selftext": "",
-    "reddit_thumbnail": "",
-    "ingested_at": "2026-10-31T15:12:17.610547+00:00",
-    "summary": "",
-    "thumbnail": "",
     "tags": [],
-    "analyzed_at": "2026-11-01T09:44:15.513757+00:00"
+    "analyzed_at": "2026-11-01T09:44:13.617800+00:00"
   },
   {
     "id": "9aei6u",
@@ -401,13 +211,7 @@
     "ingested_at": "2026-10-31T15:12:17.610808+00:00",
     "summary": "Weaving through the aisles of his greenhouse in northern France, Jean-Claude Terlet, a retired farmer who grows tomatoes for local markets, seems to be brimming with energy. \"That's a beef tomato, they're delicious,\" he says, showing off his produce which, he stresses, is 100 percent organic.",
     "thumbnail": "thumbnails/9aei6u.webp",
-    "tags": [
-      "Monsanto",
-      "Roundup",
-      "French",
-      "US",
-      "Monsanto's"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:44:13.711424+00:00"
   },
   {
@@ -427,9 +231,7 @@
     "ingested_at": "2026-10-31T15:12:17.610569+00:00",
     "summary": "",
     "thumbnail": "thumbnails/9ablxe.webp",
-    "tags": [
-      "John McCain"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:44:14.554641+00:00"
   },
   {
@@ -450,8 +252,8 @@
     "summary": "",
     "thumbnail": "thumbnails/9aa3mc.webp",
     "tags": [
-      "ARTE",
-      "Société"
+      "Pauvreté",
+      "Médias"
     ],
     "analyzed_at": "2026-11-01T09:44:16.683950+00:00"
   },
@@ -472,10 +274,7 @@
     "ingested_at": "2026-10-31T15:12:17.611190+00:00",
     "summary": "",
     "thumbnail": "thumbnails/9a5agf.webp",
-    "tags": [
-      "Calais",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:44:14.168096+00:00"
   },
   {
@@ -495,12 +294,7 @@
     "ingested_at": "2026-10-31T15:12:17.611808+00:00",
     "summary": "De la plaisanterie à l'agression physique en passant par l'hypersexualisation, les personnes rousses sont régulièrement pointées du doigt. Des cas de harcèlement souvent banalisés.",
     "thumbnail": "thumbnails/99wu95.webp",
-    "tags": [
-      "Harcèlement scolaire",
-      "Education",
-      "Les choix de la rédaction",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:44:14.589456+00:00"
   },
   {
@@ -521,7 +315,7 @@
     "summary": "",
     "thumbnail": "",
     "tags": [
-      "Bourse"
+      "Donald Trump"
     ],
     "analyzed_at": "2026-11-01T09:44:15.077371+00:00"
   },
@@ -543,30 +337,9 @@
     "summary": "Durant la garde à vue d'Alexandre Benalla, les enquêteurs de la police judiciaire ont tenté d'entrer en contact avec sa compagne, Myriam, sans parvenir à la trouver.",
     "thumbnail": "thumbnails/99oh6o.webp",
     "tags": [
-      "Alexandre Benalla",
-      "Politique"
+      "Alexandre Benalla"
     ],
     "analyzed_at": "2026-11-01T09:44:15.645771+00:00"
-  },
-  {
-    "id": "99lrs6",
-    "title": "NASA-JPL's Open Source Build-It-Yourself Rover : simplement hallucinant.",
-    "url": "https://opensourcerover.jpl.nasa.gov/",
-    "permalink": "/r/france/comments/99lrs6/nasajpls_open_source_buildityourself_rover/",
-    "created_at": "2018-08-23T09:01:35+00:00",
-    "score": 61,
-    "num_comments": 14,
-    "subreddit": "france",
-    "author": "Le_Vagabond",
-    "flair": "",
-    "domain": "opensourcerover.jpl.nasa.gov",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/41gxJzfiuZN0or5cf5oglpJ00rVzL9j0SPFWdFwHbUk.jpg?auto=webp&s=b26e3f5eea4496cc5cde4de13c3a03723816816a",
-    "ingested_at": "2026-10-31T15:12:17.612045+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/99lrs6.webp",
-    "tags": [],
-    "analyzed_at": "2026-11-01T09:44:16.146898+00:00"
   },
   {
     "id": "99cwnd",
@@ -585,40 +358,8 @@
     "ingested_at": "2026-10-31T15:12:17.611328+00:00",
     "summary": "Le studio polonais CD Projekt, à qui l'on doit la plateforme GOG.com et la série de jeux The Witcher, lance une campagne anti-DRM. C'est la spécialité de Good Old Games (GOG.com) : vendre des jeux vidéo sans aucun verrou numérique (DRM, pour Digital Rights Management en anglais, soit en français Mesures Techniques de",
     "thumbnail": "thumbnails/99cwnd.webp",
-    "tags": [
-      "DRM",
-      "FCK DRM",
-      "GOG",
-      "Witcher et Cyberpunk 2077",
-      "CD Projekt"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:44:18.067439+00:00"
-  },
-  {
-    "id": "99ccd8",
-    "title": "Suspected murderer of boy (11) on the run in France",
-    "url": "https://www.ad.nl/binnenland/verdachte-jos-brech-55-in-moordzaak-nicky-verstappen-is-op-de-vlucht~aa5af1be/",
-    "permalink": "/r/france/comments/99ccd8/suspected_murderer_of_boy_11_on_the_run_in_france/",
-    "created_at": "2018-08-22T10:57:53+00:00",
-    "score": 166,
-    "num_comments": 41,
-    "subreddit": "france",
-    "author": "RatherBWriting",
-    "flair": "",
-    "domain": "ad.nl",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/uXJjkXNWUh38ClojkdQXsDRcpGnpdpFMVYSdHw-0BNU.jpeg?auto=webp&s=b6fcd1fe80743718b2a2518ed06a4720d2442f4c",
-    "ingested_at": "2026-10-31T15:12:17.611063+00:00",
-    "summary": "Een grote doorbraak in het jarenlange onderzoek naar de dood van de 11-jarige Nicky Verstappen in augustus 1998. Er is een DNA-match gevonden met de 55-jarige Jos Brech uit Simpelveld. De politie ziet hem nu als de grote verdachte in de moordzaak. Maar niemand weet waar Jos Brech is.",
-    "thumbnail": "thumbnails/99ccd8.webp",
-    "tags": [
-      "Jos Brech",
-      "Brech",
-      "Nicky Verstappen",
-      "Simpelveld",
-      "DNA-match"
-    ],
-    "analyzed_at": "2026-11-01T09:44:15.971876+00:00"
   },
   {
     "id": "99aq9t",
@@ -637,10 +378,7 @@
     "ingested_at": "2026-10-31T15:12:17.610634+00:00",
     "summary": "Une hausse des températures particulièrement importante a causé une rupture dans la glace au nord de la côte groenlandaise. C'est la deuxième fois cette année, phénomène qui n'avait jamais été observé auparavant.",
     "thumbnail": "thumbnails/99aq9t.webp",
-    "tags": [
-      "Arctique",
-      "Science"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:44:15.978768+00:00"
   },
   {
@@ -661,38 +399,10 @@
     "summary": "Une étude menée par le programme \"Un chez soi d'abord\" des Hôpitaux de Marseille montre que si l'on compare les coûts engendrés par un SDF dormant dehors par rapport à ceux qui sont logés, celui resté à la rue revient...",
     "thumbnail": "thumbnails/992zc2.webp",
     "tags": [
-      "SDF",
-      "Hôpitaux de Marseille",
-      "Marseille",
-      "Science"
+      "Logement",
+      "Santé"
     ],
     "analyzed_at": "2026-11-01T09:44:16.128465+00:00"
-  },
-  {
-    "id": "99194v",
-    "title": "Les garcons ne savent pas identifier une agression sexuelle...Lorsqu'ils sont la victime et que l'agresseur est une femme.",
-    "url": "https://www.thecut.com/2018/03/when-boys-are-victims-of-sexual-assault.html",
-    "permalink": "/r/france/comments/99194v/les_garcons_ne_savent_pas_identifier_une/",
-    "created_at": "2018-08-21T07:54:19+00:00",
-    "score": 181,
-    "num_comments": 342,
-    "subreddit": "france",
-    "author": "tigudup",
-    "flair": "",
-    "domain": "thecut.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/DR727hDDhH2BSGLK2DSl4z2BQU0QiZMmDLOG1KCHbVA.jpeg?auto=webp&s=f1498d7212e188f76c67e935e86e45b3584ba9e6",
-    "ingested_at": "2026-10-31T15:12:17.610935+00:00",
-    "summary": "What surprised me after a year-and-a-half spent interviewing young men was how often they brought up their own experience of unwanted sex.",
-    "thumbnail": "thumbnails/99194v.webp",
-    "tags": [
-      "Lorsqu'ils",
-      "Dylan",
-      "I'd",
-      "How to raise a boy",
-      "Self"
-    ],
-    "analyzed_at": "2026-11-01T09:44:16.792573+00:00"
   },
   {
     "id": "98ulkx",
@@ -711,7 +421,9 @@
     "ingested_at": "2026-10-31T15:12:17.611827+00:00",
     "summary": "",
     "thumbnail": "thumbnails/98ulkx.webp",
-    "tags": [],
+    "tags": [
+      "Justice"
+    ],
     "analyzed_at": "2026-11-01T09:44:16.460657+00:00"
   },
   {
@@ -732,7 +444,7 @@
     "summary": "",
     "thumbnail": "thumbnails/98r51b.webp",
     "tags": [
-      "Asia Argento"
+      "Violences sexuelles"
     ],
     "analyzed_at": "2026-11-01T09:44:16.491668+00:00"
   },
@@ -753,34 +465,8 @@
     "ingested_at": "2026-10-31T15:12:17.611889+00:00",
     "summary": "En cette fin de semaine, « 20 Minutes » vous emmène dans le camping le moins cher de France, à Mélisey (Haute-Saône). Troisième (et dernier) épisode avec son gérant, que tout le monde appelle Gégé…",
     "thumbnail": "thumbnails/98lp5x.webp",
-    "tags": [
-      "Minutes",
-      "Mélisey",
-      "Gégé"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:44:16.725643+00:00"
-  },
-  {
-    "id": "98izsk",
-    "title": "Le nombre de cancers explose à cause d’un environnement toujours plus toxique… ou pas",
-    "url": "https://sciencepop.fr/2018/08/11/augmentation-cancer-environnement-toxique/",
-    "permalink": "/r/france/comments/98izsk/le_nombre_de_cancers_explose_à_cause_dun/",
-    "created_at": "2018-08-19T08:59:01+00:00",
-    "score": 76,
-    "num_comments": 15,
-    "subreddit": "france",
-    "author": "Insalubre",
-    "flair": "Science",
-    "domain": "sciencepop.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/cUuT_VPXEmqpw1jxWWb4qPfS-abCIwO0MQbidIA7dN8.jpeg?auto=webp&s=2c054bd60cd2b2ad225ad574435e780b558bf450",
-    "ingested_at": "2026-10-31T15:12:17.611964+00:00",
-    "summary": "Le cancer est une maladie terrible et malheureusement relativement courante, de sorte que la plupart des gens ont déjà été confrontés à des cas de cancer dans leur entourage proche.",
-    "thumbnail": "thumbnails/98izsk.webp",
-    "tags": [
-      "Science"
-    ],
-    "analyzed_at": "2026-11-01T09:44:17.060334+00:00"
   },
   {
     "id": "98all6",
@@ -799,12 +485,7 @@
     "ingested_at": "2026-10-31T15:12:17.611308+00:00",
     "summary": "En 2001, il avait reçu le prix Nobel de la paix pour avoir insufflé une nouvelle vie à l'ONU.",
     "thumbnail": "thumbnails/98all6.webp",
-    "tags": [
-      "Nobel",
-      "ONU",
-      "Kofi Annan",
-      "Prix Nobel 2026"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:44:16.923554+00:00"
   },
   {
@@ -824,13 +505,7 @@
     "ingested_at": "2026-10-31T15:12:17.611675+00:00",
     "summary": "EN IMAGES - L'élu s'insurge contre les incivilités des touristes qui ont grimpé cet été sur le toit de l'Europe",
     "thumbnail": "thumbnails/98abql.webp",
-    "tags": [
-      "Mont-Blanc",
-      "Saint-Gervais",
-      "Jean-Marc Peillex",
-      "IMAGES",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:44:17.891849+00:00"
   },
   {
@@ -850,10 +525,7 @@
     "ingested_at": "2026-10-31T15:12:17.611739+00:00",
     "summary": "Sur le forum Y Combinator, des développeurs anonymes confessent ce qu'ils ont regretté avoir codé un jour... Le débat sur la responsabilité du développeur pour le code qu'il produit, notamment pour leur entreprise, a été mis sur le devant de la scène en 2017 par l'affaire des tests environnementaux truqués de",
     "thumbnail": "thumbnails/985fqf.webp",
-    "tags": [
-      "Combinator",
-      "Technos"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:44:17.796247+00:00"
   },
   {
@@ -873,13 +545,7 @@
     "ingested_at": "2026-10-31T15:12:17.611655+00:00",
     "summary": "Une jeune yézidie, Ashwaq Haji, affirme avoir rencontré en février son bourreau dans un supermarché allemand. Traumatisée, cette Irakienne est retournée dans son pays qu’elle avait pourtant fui après s’être échappée...",
     "thumbnail": "thumbnails/9833bb.webp",
-    "tags": [
-      "Allemagne",
-      "Daech",
-      "Ashwaq Haji",
-      "Irak",
-      "Irakienne"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:44:17.284437+00:00"
   },
   {
@@ -899,9 +565,7 @@
     "ingested_at": "2026-10-31T15:12:17.610977+00:00",
     "summary": "",
     "thumbnail": "thumbnails/97tevy.webp",
-    "tags": [
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:44:19.595596+00:00"
   },
   {
@@ -921,33 +585,8 @@
     "ingested_at": "2026-10-31T15:12:17.611614+00:00",
     "summary": "",
     "thumbnail": "thumbnails/97smfl.webp",
-    "tags": [
-      "Aretha Franklin",
-      "Culture"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:44:17.572736+00:00"
-  },
-  {
-    "id": "97q97k",
-    "title": "Les Algériennes peuvent désormais avorter dans un hôpital public",
-    "url": "https://algerie-direct.net/lactualite/les-algeriennes-peuvent-desormais-avorter-dans-un-hopital-public/",
-    "permalink": "/r/france/comments/97q97k/les_algériennes_peuvent_désormais_avorter_dans_un/",
-    "created_at": "2018-08-16T07:35:31+00:00",
-    "score": 434,
-    "num_comments": 99,
-    "subreddit": "france",
-    "author": "maximswim",
-    "flair": "",
-    "domain": "algerie-direct.net",
-    "selftext": "",
-    "reddit_thumbnail": "https://b.thumbs.redditmedia.com/x6W92mb5Wujm2V0l-l7ZulCTKO8o-h4HT3DcnGO5SbA.jpg",
-    "ingested_at": "2026-10-31T15:12:17.610456+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/97q97k.webp",
-    "tags": [
-      "Algériennes"
-    ],
-    "analyzed_at": "2026-11-01T09:44:19.420472+00:00"
   },
   {
     "id": "97ka2p",
@@ -966,13 +605,7 @@
     "ingested_at": "2026-10-31T15:12:17.611436+00:00",
     "summary": "FIGAROVOX/ENTRETIEN - Rodolphe Christin critique les dérives du tourisme de masse et de l'industrie touristique. Il faut distinguer le voyage, authentique quête de l'esprit, et le tourisme, norme sociale devenue hégémonique dans nos sociétés de consommation, plaide l'auteur.",
     "thumbnail": "thumbnails/97ka2p.webp",
-    "tags": [
-      "Aménagement du territoire",
-      "Congés payés",
-      "Vie Professionnelle",
-      "Rodolphe Christin",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:44:17.795179+00:00"
   },
   {
@@ -992,10 +625,7 @@
     "ingested_at": "2026-10-31T15:12:17.611169+00:00",
     "summary": "",
     "thumbnail": "thumbnails/97gbcb.webp",
-    "tags": [
-      "Pennsylvanie",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:44:18.069544+00:00"
   },
   {
@@ -1015,13 +645,7 @@
     "ingested_at": "2026-10-31T15:12:17.610913+00:00",
     "summary": "A study by the European Transport & Environment association published on Friday confirmed that spending a few days in various popular European capitals is equivalent to smoking between one and four cigarettes.",
     "thumbnail": "thumbnails/97au5e.webp",
-    "tags": [
-      "Paris",
-      "European",
-      "European Transport Environment",
-      "Friday",
-      "Berkeley Earth"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:44:17.989245+00:00"
   },
   {
@@ -1041,38 +665,8 @@
     "ingested_at": "2026-10-31T15:12:17.611931+00:00",
     "summary": "L'effondrement d'une portion d'un viaduc de l'autoroute A10 à Gênes, mardi, a provoqué la mort de 43 personnes, dont 4 Français. Un bilan qui devrait être revu à la",
     "thumbnail": "thumbnails/977cmu.webp",
-    "tags": [
-      "Gênes",
-      "A10",
-      "Italie",
-      "Autostrade",
-      "Italia"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:44:18.546029+00:00"
-  },
-  {
-    "id": "9702dm",
-    "title": "Une de Charlie Hedbdo, Cancer exigez la qualité, exigez Roundup",
-    "url": "https://scontent-cdg2-1.xx.fbcdn.net/v/t1.0-9/39080768_2098662280156899_1193673614600175616_n.png?_nc_cat=1&oh=bf735378bc0a679f61312ffc2d896f60&oe=5BF6491A",
-    "permalink": "/r/france/comments/9702dm/une_de_charlie_hedbdo_cancer_exigez_la_qualité/",
-    "created_at": "2018-08-13T17:03:40+00:00",
-    "score": 376,
-    "num_comments": 74,
-    "subreddit": "france",
-    "author": "Jettealeau",
-    "flair": "Culture",
-    "domain": "scontent-cdg2-1.xx.fbcdn.net",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/YZi1hNuPxUyukXfSUhW23JL7tfk2nLsYeFqB5G4--1U.png?auto=webp&s=ae50127a60be63ad5d6bb3dd06866b8c643d9dbd",
-    "ingested_at": "2026-10-31T15:12:17.610480+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/9702dm.webp",
-    "tags": [
-      "Charlie Hedbdo",
-      "Roundup",
-      "Culture"
-    ],
-    "analyzed_at": "2026-11-01T09:44:19.840058+00:00"
   },
   {
     "id": "96wx7s",
@@ -1091,13 +685,7 @@
     "ingested_at": "2026-10-31T15:12:17.612024+00:00",
     "summary": "L&#039;EksoVest est un exosquelette qui soulage les ouvriers sur les lignes d&#039;assemblage qui doivent travailler les bras en l&#039;air de façon prolongée.",
     "thumbnail": "thumbnails/96wx7s.webp",
-    "tags": [
-      "EksoVest",
-      "Ford",
-      "Ekso Bionics",
-      "Voiture",
-      "Technos"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:44:18.133024+00:00"
   },
   {
@@ -1117,10 +705,7 @@
     "ingested_at": "2026-10-31T15:12:17.611786+00:00",
     "summary": "Un projet d’accaparement de terres déguisé en promesse de développement Les agro-industriels du Sud ressemblent à ceux du Nord : ils rêvent de profits faciles en développant les cultures commerciales au détriment de la paysannerie vivrière.",
     "thumbnail": "thumbnails/96ohbz.webp",
-    "tags": [
-      "Stefano Liberti",
-      "Mozambique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:44:20.215515+00:00"
   },
   {
@@ -1141,7 +726,7 @@
     "summary": "",
     "thumbnail": "thumbnails/96nc8w.webp",
     "tags": [
-      "Mont-blanc"
+      "Police"
     ],
     "analyzed_at": "2026-11-01T09:44:19.326349+00:00"
   },
@@ -1162,10 +747,7 @@
     "ingested_at": "2026-10-31T15:12:17.611849+00:00",
     "summary": "Ces oiseaux sont « très rapides », en moins de trois quarts d’heure, ils sont capables « de remplir un seau », explique le président du parc de loisirs…",
     "thumbnail": "thumbnails/96fzxj.webp",
-    "tags": [
-      "Fou",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:44:18.593460+00:00"
   },
   {
@@ -1185,7 +767,10 @@
     "ingested_at": "2026-10-31T15:12:17.610788+00:00",
     "summary": "",
     "thumbnail": "thumbnails/96bqqd.webp",
-    "tags": [],
+    "tags": [
+      "Environnement",
+      "Justice"
+    ],
     "analyzed_at": "2026-11-01T09:44:18.467214+00:00"
   },
   {
@@ -1206,10 +791,7 @@
     "summary": "En Europe, ce chiffre grimpe à 92%. Une question de géographie... mais pas que. Aller à l'école aux États-Unis, c'est l'assurance de suivre ses cours…",
     "thumbnail": "thumbnails/967hn2.webp",
     "tags": [
-      "États-Unis",
-      "Europe",
-      "Langue étrangère-langue-anglais-élèves",
-      "Société"
+      "Éducation"
     ],
     "analyzed_at": "2026-11-01T09:44:18.739979+00:00"
   },
@@ -1231,8 +813,9 @@
     "summary": "",
     "thumbnail": "thumbnails/965qgn.webp",
     "tags": [
-      "Portugal",
-      "Société"
+      "Pauvreté",
+      "Travail",
+      "Économie"
     ],
     "analyzed_at": "2026-11-01T09:44:20.658222+00:00"
   },
@@ -1254,7 +837,8 @@
     "summary": "",
     "thumbnail": "thumbnails/95w2op.webp",
     "tags": [
-      "Société"
+      "Environnement",
+      "Économie"
     ],
     "analyzed_at": "2026-11-01T09:44:19.890128+00:00"
   },
@@ -1275,33 +859,8 @@
     "ingested_at": "2026-10-31T15:12:17.611148+00:00",
     "summary": "",
     "thumbnail": "thumbnails/95vbq1.webp",
-    "tags": [
-      "Riot Games",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:44:19.141417+00:00"
-  },
-  {
-    "id": "95kwpp",
-    "title": "Quand je veux voir jusqu'où vont les nouvelles règles",
-    "url": "https://gfycat.com/NaughtyEmbarrassedAfricanporcupine",
-    "permalink": "/r/france/comments/95kwpp/quand_je_veux_voir_jusquoù_vont_les_nouvelles/",
-    "created_at": "2018-08-08T10:41:55+00:00",
-    "score": 1359,
-    "num_comments": 106,
-    "subreddit": "france",
-    "author": "Docteur_Faustroll",
-    "flair": "Humour",
-    "domain": "gfycat.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://b.thumbs.redditmedia.com/LT0jzs54yg6lc7Oosjz5Ty321xaVMoKsQvjcrX1d9tI.jpg",
-    "ingested_at": "2026-10-31T15:12:17.610380+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/95kwpp.webp",
-    "tags": [
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:44:20.415074+00:00"
   },
   {
     "id": "95k90u",
@@ -1320,11 +879,7 @@
     "ingested_at": "2026-10-31T15:12:17.611355+00:00",
     "summary": "Même si l'humanité réduit les émissions de gaz à effet de serre la planète elle-même pourrait perturber les efforts des hommes et basculer dans un état durable d'étuve.",
     "thumbnail": "thumbnails/95k90u.webp",
-    "tags": [
-      "CO2",
-      "Réchauffement climatique",
-      "Science"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:44:19.628848+00:00"
   },
   {
@@ -1346,8 +901,7 @@
     "thumbnail": "thumbnails/95jliq.webp",
     "tags": [
       "Alexandre Benalla",
-      "Paris",
-      "Politique"
+      "Police"
     ],
     "analyzed_at": "2026-11-01T09:44:19.866392+00:00"
   },
@@ -1389,36 +943,10 @@
     "summary": "L'Union europÃ©enne a annoncÃ© ce lundi qu'elle allait activer, dÃ¨s mardi matin, la \"loi de blocage\" qui protÃ¨ge les entreprises europÃ©ennes des sanctions amÃ©ricaines. Ce dispositif empÃªche toute entreprise basÃ©e dans l'UE de se conformer Ã des sanctions venues de l'Ã©tranger.",
     "thumbnail": "thumbnails/959lzo.webp",
     "tags": [
-      "Iran",
-      "États-Unis",
-      "UE",
-      "AmÃ©rique du Nord",
-      "Europe"
+      "Union européenne",
+      "Élections"
     ],
     "analyzed_at": "2026-11-01T09:44:21.108922+00:00"
-  },
-  {
-    "id": "954e2w",
-    "title": "La Zizanie",
-    "url": "https://s8.postimg.cc/9j77dj35v/lazizanie.png",
-    "permalink": "/r/france/comments/954e2w/la_zizanie/",
-    "created_at": "2018-08-06T19:33:10+00:00",
-    "score": 364,
-    "num_comments": 21,
-    "subreddit": "france",
-    "author": "relaxitwonthurt",
-    "flair": "Méta",
-    "domain": "s8.postimg.cc",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/ZBPNI7C9sV8eDZwYOcF7xa1s_FzBvkbRiA05lt-MZR0.png?auto=webp&s=4f2f8d414f20c0eacd8ebc1e86ad212b752b07c2",
-    "ingested_at": "2026-10-31T15:12:17.610524+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/954e2w.webp",
-    "tags": [
-      "Zizanie",
-      "Méta"
-    ],
-    "analyzed_at": "2026-11-01T09:44:24.852284+00:00"
   },
   {
     "id": "94zsx7",
@@ -1437,13 +965,7 @@
     "ingested_at": "2026-10-31T15:12:17.610613+00:00",
     "summary": "Le grand chef français Joël Robuchon est mort aujourd'hui à 11h à Genève en Suisse, a appris Le Figaro.Il avait 73 ans et souffrait d'un cancer.» LIRE AUSSI - Joël Robuchon, génie de la gastronomie » ...",
     "thumbnail": "thumbnails/94zsx7.webp",
-    "tags": [
-      "Joël Robuchon",
-      "Genève",
-      "Suisse",
-      "Figaro",
-      "LIRE"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:44:20.235278+00:00"
   },
   {
@@ -1463,12 +985,7 @@
     "ingested_at": "2026-10-31T15:12:17.610829+00:00",
     "summary": "Délaissées au profit des métropoles, les villes moyennes comptent leurs plaies : isolement, faibles ressources, exil des jeunes et des diplômés, chômage, pauvreté. Pour leurs élus, l’égalité des territoires prévue par la Constitution n’est plus qu’un souvenir.",
     "thumbnail": "thumbnails/94z0cz.webp",
-    "tags": [
-      "Monde Diplomatique",
-      "Jean-Michel Dumay",
-      "Montluçon",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:44:20.977436+00:00"
   },
   {
@@ -1490,101 +1007,9 @@
     "thumbnail": "thumbnails/94tza2.webp",
     "tags": [
       "Emmanuel Macron",
-      "Etat",
-      "Gouvernement d'Edouard Philippe",
-      "Éco / Conso"
+      "Édouard Philippe"
     ],
     "analyzed_at": "2026-11-01T09:44:20.788296+00:00"
-  },
-  {
-    "id": "94r4lr",
-    "title": "Une voiture tente de tuer un motard",
-    "url": "https://streamable.com/vw4fl",
-    "permalink": "/r/france/comments/94r4lr/une_voiture_tente_de_tuer_un_motard/",
-    "created_at": "2018-08-05T11:08:01+00:00",
-    "score": 154,
-    "num_comments": 108,
-    "subreddit": "france",
-    "author": "thomas-bios",
-    "flair": "Société",
-    "domain": "streamable.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/CUKBhHwoaX8addHQ5ofYcM6nCvK2a7causIke3zBwHc.jpeg?auto=webp&s=2b5e1ea013e712576237e8f6599c70f2527c48f1",
-    "ingested_at": "2026-10-31T15:12:17.611127+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/94r4lr.webp",
-    "tags": [
-      "Société"
-    ],
-    "analyzed_at": "2026-11-01T09:44:20.935470+00:00"
-  },
-  {
-    "id": "94pvtt",
-    "title": "Trump veut assouplir les normes anti-pollution des voitures, colère de la Californie",
-    "url": "https://www.goodplanet.info/actualite/2018/08/03/trump-veut-assouplir-les-normes-anti-pollution-des-voitures-colere-de-la-californie/",
-    "permalink": "/r/france/comments/94pvtt/trump_veut_assouplir_les_normes_antipollution_des/",
-    "created_at": "2018-08-05T06:16:49+00:00",
-    "score": 127,
-    "num_comments": 103,
-    "subreddit": "france",
-    "author": "[deleted]",
-    "flair": "Actus",
-    "domain": "goodplanet.info",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/1dVlo0tR0WP-qF79HsQenFirWDpLuzTR8ip2SvPJ5MU.jpg?auto=webp&s=ae797cb39f073350255adae1973d8f2aa3bc71ef",
-    "ingested_at": "2026-10-31T15:12:17.611475+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/94pvtt.webp",
-    "tags": [
-      "Californie"
-    ],
-    "analyzed_at": "2026-11-01T09:44:21.745249+00:00"
-  },
-  {
-    "id": "94pkt0",
-    "title": "Le hérisson en voie de disparition",
-    "url": "http://fr.tiredearth.com/node/339",
-    "permalink": "/r/france/comments/94pkt0/le_hérisson_en_voie_de_disparition/",
-    "created_at": "2018-08-05T05:15:15+00:00",
-    "score": 199,
-    "num_comments": 53,
-    "subreddit": "france",
-    "author": "MediumFault",
-    "flair": "Forum Libre",
-    "domain": "fr.tiredearth.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/9_to98jSgq4JDgXYLbYGa6UYT-jDdBzTk9N2le09lgw.jpg?auto=webp&s=761993505747f787020801b43b0875717a7a69ec",
-    "ingested_at": "2026-10-31T15:12:17.610869+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/94pkt0.webp",
-    "tags": [],
-    "analyzed_at": "2026-11-01T09:44:21.632970+00:00"
-  },
-  {
-    "id": "94irum",
-    "title": "\"Arrêtez de laver et de réutiliser vos préservatifs !\", rappelle le gouvernement américain",
-    "url": "https://tetu.com/2018/08/03/arretez-de-laver-de-reutiliser-vos-preservatifs-rapelle-gouvernement-americain/",
-    "permalink": "/r/france/comments/94irum/arrêtez_de_laver_et_de_réutiliser_vos/",
-    "created_at": "2018-08-04T12:27:16+00:00",
-    "score": 129,
-    "num_comments": 64,
-    "subreddit": "france",
-    "author": "Hapouch",
-    "flair": "Actus",
-    "domain": "tetu.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/1tzmu3KdBjKMAD59Fxumw6eUgsRoTqTP4pNhIDoO9e0.jpeg?auto=webp&s=055a714c830dc2fc227d4b2c994c64c3aa5597e5",
-    "ingested_at": "2026-10-31T15:12:17.611396+00:00",
-    "summary": "Le gouvernement américain a rappelé que laver et réutiliser ses anciens préservatifs sont des actes dangereux et mauvais pour la santé.",
-    "thumbnail": "thumbnails/94irum.webp",
-    "tags": [
-      "Sexo",
-      "LGBTQI+",
-      "MST-IST",
-      "Préservatif",
-      "Gratuit"
-    ],
-    "analyzed_at": "2026-11-01T09:44:21.551414+00:00"
   },
   {
     "id": "94iqbf",
@@ -1605,32 +1030,9 @@
     "thumbnail": "thumbnails/94iqbf.webp",
     "tags": [
       "Alexandre Benalla",
-      "Emmanuel Macron",
-      "Politique"
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T09:44:21.429814+00:00"
-  },
-  {
-    "id": "94i8rk",
-    "title": "Nuit du 4 août 1789 : abolition des privilèges",
-    "url": "https://fr.wikipedia.org/wiki/Nuit_du_4_août_1789",
-    "permalink": "/r/france/comments/94i8rk/nuit_du_4_août_1789_abolition_des_privilèges/",
-    "created_at": "2018-08-04T10:37:20+00:00",
-    "score": 171,
-    "num_comments": 17,
-    "subreddit": "france",
-    "author": "Neker",
-    "flair": "Culture",
-    "domain": "fr.wikipedia.org",
-    "selftext": "",
-    "reddit_thumbnail": "",
-    "ingested_at": "2026-10-31T15:12:17.610998+00:00",
-    "summary": "Les informations figurant dans cet article ou cette section doivent être reliées aux sources mentionnées dans les sections « Bibliographie », « Sources » ou « Liens externes » ( octobre 2013 ).",
-    "thumbnail": "thumbnails/94i8rk.webp",
-    "tags": [
-      "Culture"
-    ],
-    "analyzed_at": "2026-11-01T09:44:21.360890+00:00"
   },
   {
     "id": "947h81",
@@ -1650,11 +1052,7 @@
     "summary": "Les procédures seront réexaminées indique le Premier ministre.",
     "thumbnail": "thumbnails/947h81.webp",
     "tags": [
-      "Anticor",
-      "Schiappa",
-      "Marlène Schiappa",
-      "Premier",
-      "Politique"
+      "Marlène Schiappa"
     ],
     "analyzed_at": "2026-11-01T09:44:21.528949+00:00"
   },
@@ -1675,9 +1073,7 @@
     "ingested_at": "2026-10-31T15:12:17.611554+00:00",
     "summary": "La peine capitale est désormais considérée comme une “mesure inhumaine” dans la nouvelle version du catéchisme.",
     "thumbnail": "thumbnails/94756l.webp",
-    "tags": [
-      "François"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:44:21.707966+00:00"
   },
   {
@@ -1697,66 +1093,8 @@
     "ingested_at": "2026-10-31T15:12:17.611211+00:00",
     "summary": "Le règlement général pour la protection des données est entré en vigueur en France il y a quelques mois déjà. Les sites ont commencé à s'adapter, mais…",
     "thumbnail": "thumbnails/9473rg.webp",
-    "tags": [
-      "RGPD",
-      "Quantcast Choice",
-      "Quantcast",
-      "CNIL",
-      "Technos"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:44:22.295233+00:00"
-  },
-  {
-    "id": "93ztf2",
-    "title": "Donald Trump demande à son ministre de la justice de s’inspirer des méthodes de l’Assemblée nationale pour stopper l’enquête russe",
-    "url": "http://www.legorafi.fr/2018/08/02/donald-trump-demande-a-son-ministre-de-la-justice-de-sinspirer-des-methodes-de-lassemblee-nationale-pour-stopper-lenquete-russe/",
-    "permalink": "/r/france/comments/93ztf2/donald_trump_demande_à_son_ministre_de_la_justice/",
-    "created_at": "2018-08-02T14:38:21+00:00",
-    "score": 323,
-    "num_comments": 56,
-    "subreddit": "france",
-    "author": "bernardryefield",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/G-yL2DvZ70pod07exIlNLZzhJjk-1XrS-HLQi2rK--w.jpeg?auto=webp&s=da1b3af1df7beba5053860e1e70a0e4e354975ac",
-    "ingested_at": "2026-10-31T15:12:17.610591+00:00",
-    "summary": "Washington – Dans plusieurs tweets, le président Donald trump a demandé à son ministre de la justice Jeff Sessions de s'inspirer des méthodes françaises de l'Assemblée nationale pour mettre fin efficacement à une enquête en cours.",
-    "thumbnail": "thumbnails/93ztf2.webp",
-    "tags": [
-      "Assemblée",
-      "Donald Trump",
-      "Donald",
-      "Jeff Sessions",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:44:21.690248+00:00"
-  },
-  {
-    "id": "93yopd",
-    "title": "Les SUV, fléaux pour le climat... et les piétons",
-    "url": "http://www.journaldelenvironnement.net/article/les-suv-fleaux-pour-le-climat-et-les-pietons,93154",
-    "permalink": "/r/france/comments/93yopd/les_suv_fléaux_pour_le_climat_et_les_piétons/",
-    "created_at": "2018-08-02T12:06:09+00:00",
-    "score": 112,
-    "num_comments": 129,
-    "subreddit": "france",
-    "author": "parisien75",
-    "flair": "Société",
-    "domain": "journaldelenvironnement.net",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/BOZ1fv4ydCaYV7sfvk1TF7LgRwVot50__gpw_0CxioE.jpeg?auto=webp&s=daa3f0a8e8f5c48a02adb1ae785f4f5f369da950",
-    "ingested_at": "2026-10-31T15:12:17.611634+00:00",
-    "summary": "Le Groupe consultatif pour l'information financière en Europe (EFRAG) a livré une première série de douze explications en réponse aux questions posées via la plateforme EFRAG ESRS Q&A.",
-    "thumbnail": "thumbnails/93yopd.webp",
-    "tags": [
-      "EFRAG",
-      "SUV",
-      "Groupe",
-      "Europe",
-      "Société"
-    ],
-    "analyzed_at": "2026-11-01T09:44:22.399530+00:00"
   },
   {
     "id": "93x7jc",
@@ -1775,11 +1113,7 @@
     "ingested_at": "2026-10-31T15:12:17.610741+00:00",
     "summary": "Les habitudes ont la vie dure. Surtout quand elles sont mauvaises. Vinci autoroutes a demandé aux Français comment ils triaient leurs déchets en vacances et sur les aires de repos. Le résultat relayé par Le Parisien...",
     "thumbnail": "thumbnails/93x7jc.webp",
-    "tags": [
-      "Français",
-      "Parisien",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:44:22.159521+00:00"
   },
   {
@@ -1800,31 +1134,8 @@
     "summary": "Le récit de la perquisition au domicile d'Alexandre Benalla le vendredi 20 juillet révèle que l'opération a pris une tournure troublante.",
     "thumbnail": "thumbnails/93sge1.webp",
     "tags": [
-      "Alexandre Benalla",
-      "Politique"
+      "Alexandre Benalla"
     ],
     "analyzed_at": "2026-11-01T09:44:22.901846+00:00"
-  },
-  {
-    "id": "93m85b",
-    "title": "Amazon : l’intelligence artificielle confond les politiciens avec des criminels - LeBigData.fr",
-    "url": "https://www.lebigdata.fr/amazon-ia-politiciens-criminels",
-    "permalink": "/r/france/comments/93m85b/amazon_lintelligence_artificielle_confond_les/",
-    "created_at": "2018-08-01T05:36:47+00:00",
-    "score": 101,
-    "num_comments": 27,
-    "subreddit": "france",
-    "author": "Im_A_Reptilian_AMA",
-    "flair": "Technos",
-    "domain": "lebigdata.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/rkcoE0XOkL-Wz6a9gttsGCASrQL_p2GJkSBVV81rJ-Q.jpeg?auto=webp&s=5f6a3f21f2e4d56bb502c0c10e7eaa59292e5196",
-    "ingested_at": "2026-10-31T15:12:17.611720+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/93m85b.webp",
-    "tags": [
-      "Technos"
-    ],
-    "analyzed_at": "2026-11-01T09:44:24.340407+00:00"
   }
 ]

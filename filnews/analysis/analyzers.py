@@ -9,6 +9,7 @@ from __future__ import annotations
 
 import logging
 import os
+from collections.abc import Iterable
 from datetime import UTC, datetime
 from pathlib import Path
 
@@ -16,7 +17,7 @@ import requests
 from django.conf import settings
 from PIL import UnidentifiedImageError
 
-from ..models import News, tag_slug
+from ..models import News
 from .extract import ArticleMetadata, extract_metadata
 from .fetch import (
     FetchError,
@@ -25,13 +26,7 @@ from .fetch import (
     wayback_snapshot,
     wayback_url,
 )
-from .text import (
-    extract_tags,
-    is_valid_tag,
-    normalize_tag,
-    summarize,
-    truncate_sentences,
-)
+from .text import extract_tags, summarize, truncate_sentences
 from .thumbnails import make_thumbnail
 
 logger = logging.getLogger(__name__)
@@ -77,15 +72,27 @@ class HeuristicAnalyzer:
         logger.info("Used the Wayback Machine copy of %s", news.url)
         return metadata
 
-    def tags(self, news: News, metadata: ArticleMetadata) -> list[str]:
+    def tags(
+        self, news: News, metadata: ArticleMetadata, keywords: Iterable[str] = ()
+    ) -> list[str]:
         return extract_tags(
             title=news.title,
             description=metadata.description,
             text=metadata.text,
-            publisher_keywords=metadata.keywords,
+            publisher_keywords=[*metadata.keywords, *keywords],
             flair=news.flair,
             limit=self.max_tags,
-            excluded=[metadata.site_name] if metadata.site_name else [],
+        )
+
+    def retag(self, news: News) -> list[str]:
+        """Tags from the stored data only (no download): title, summary,
+        flair, and the previous tags as keywords."""
+        return extract_tags(
+            title=news.title,
+            description=news.summary,
+            publisher_keywords=news.tags,
+            flair=news.flair,
+            limit=self.max_tags,
         )
 
     def summary(self, news: News, metadata: ArticleMetadata) -> str:
@@ -146,25 +153,21 @@ class LocalModelAnalyzer(HeuristicAnalyzer):
         self._summary_tokenizer = AutoTokenizer.from_pretrained(self.summary_model)
         self._summarizer = AutoModelForSeq2SeqLM.from_pretrained(self.summary_model)
 
-    def tags(self, news: News, metadata: ArticleMetadata) -> list[str]:
+    def tags(
+        self, news: News, metadata: ArticleMetadata, keywords: Iterable[str] = ()
+    ) -> list[str]:
+        """The model's keywords count as publisher keywords: tags still only
+        come from the vocabulary."""
         source = " ".join(filter(None, [news.title, metadata.description]))
         source = f"{source}. {metadata.text[:1500]}"
-        found = sorted(self._keywords(source), key=lambda e: e["score"], reverse=True)
-        excluded = {tag_slug(metadata.site_name)} if metadata.site_name else set()
         # Slice the source text rather than using entity["word"], which holds
         # tokenizer artefacts ("<unk>", "d'-").
-        model_tags = [
-            normalize_tag(source[entity["start"] : entity["end"]])
-            for entity in found
+        model_keywords = [
+            source[entity["start"] : entity["end"]]
+            for entity in self._keywords(source)
             if entity.get("start") is not None
         ]
-        heuristic = super().tags(news, metadata)
-        merged: list[str] = []
-        for tag in [*model_tags, *heuristic]:
-            slugs = {tag_slug(t) for t in merged}
-            if is_valid_tag(tag, excluded) and tag_slug(tag) not in slugs:
-                merged.append(tag)
-        return merged[: self.max_tags]
+        return super().tags(news, metadata, [*keywords, *model_keywords])
 
     def summary(self, news: News, metadata: ArticleMetadata) -> str:
         source = metadata.text or metadata.description

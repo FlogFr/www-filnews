@@ -1,0 +1,34 @@
+{% extends "base.html" %}
+{% load filnews_tags %}
+
+{% block title %}Mentions légales — {{ SITE_NAME }}{% endblock %}
+{% block description %}Mentions légales de {{ SITE_NAME }} : édition, hébergement, données personnelles, propriété intellectuelle et code source ouvert.{% endblock %}
+{% block structured_data %}{% breadcrumb_ld "Accueil" "/" "Mentions légales" request.path %}{% endblock %}
+
+{% block content %}
+{% include "partials/breadcrumb.html" with current="Mentions légales" %}
+<article class="prose">
+  <h1 class="page-title">Mentions légales</h1>
+
+  <h2>Éditeur</h2>
+  <p>{{ SITE_NAME }} ({{ SITE_URL }}) est un site personnel, non commercial, édité à titre non professionnel par un particulier. Conformément à l'article 6, III, 2 de la loi n° 2004-575 du 21 juin 2004 pour la confiance dans l'économie numérique (LCEN), l'éditeur a choisi de ne pas rendre public son identité ; elle a été communiquée à l'hébergeur.</p>
+  <p>Le site ne publie aucune publicité, ne vend rien et ne perçoit aucun revenu.</p>
+
+  <h2>Hébergement</h2>
+  <p>Le site est hébergé par GitHub Pages : GitHub, Inc., 88 Colin P. Kelly Jr. Street, San Francisco, CA 94107, États-Unis — <a href="https://github.com" rel="noopener">github.com</a>.</p>
+
+  <h2>Transparence : un code source ouvert</h2>
+  <p>Par souci de transparence, l'intégralité du code de {{ SITE_NAME }} est publique et consultable sur GitHub : <a href="{{ source_url }}" rel="noopener">{{ source_url }}</a>. On y trouve la sélection des news, la liste des médias acceptés et refusés, le vocabulaire des fils (personnalités politiques et thèmes) et l'historique complet des données publiées.</p>
+  <p>La sélection est automatique et identique pour tous les sujets : sont retenus les liens d'articles de presse publiés sur <a href="https://www.reddit.com/r/{{ subreddit }}/" rel="noopener">r/{{ subreddit }}</a> qui ont reçu le plus de votes. {{ SITE_NAME }} n'a aucun lien avec Reddit ni avec les modérateurs de r/{{ subreddit }}, et r/{{ subreddit }} ne représente pas l'ensemble des Français : le site montre l'actualité telle qu'elle est partagée et discutée par cette communauté.</p>
+
+  <h2>Propriété intellectuelle</h2>
+  <p>Les titres, articles et images appartiennent à leurs éditeurs respectifs. {{ SITE_NAME }} n'en reproduit qu'un court extrait (titre, résumé de quelques lignes, vignette réduite) à des fins d'information et renvoie systématiquement vers l'article original. Tout éditeur qui souhaite le retrait d'un contenu peut le demander en ouvrant un ticket sur le dépôt GitHub du projet.</p>
+
+  <h2>Données personnelles et cookies</h2>
+  <p>{{ SITE_NAME }} ne collecte aucune donnée personnelle : pas de compte, pas de formulaire, pas de cookie, pas de mesure d'audience ni de traceur tiers. Le seul enregistrement local est le choix du thème clair ou sombre, conservé dans votre navigateur et jamais transmis. Les polices sont hébergées sur le site lui-même.</p>
+  <p>Les journaux techniques de l'hébergeur (adresse IP, date, page demandée) relèvent de la politique de confidentialité de GitHub.</p>
+
+  <h2>Liens</h2>
+  <p>Les liens vers des sites tiers (articles de presse, discussions Reddit) sont fournis à titre d'information : {{ SITE_NAME }} n'est pas responsable de leur contenu.</p>
+</article>
+{% endblock %}

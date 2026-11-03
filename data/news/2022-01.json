@@ -16,13 +16,7 @@
     "ingested_at": "2026-11-01T10:04:22.190948+00:00",
     "summary": "À bord de son bolide à trois millions d’euros, une Bugatti Chiron, il a atteint la vitesse folle de 417 km/h sur une autoroute allemande. Ce qui n’a pas plu au gouvernement Outre-Rhin",
     "thumbnail": "thumbnails/sh5h6x.webp",
-    "tags": [
-      "Bugatti Chiron",
-      "Outre-Rhin",
-      "Radim Passer",
-      "Auto-moto",
-      "Economie"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:08:25.767900+00:00"
   },
   {
@@ -42,9 +36,7 @@
     "ingested_at": "2026-11-01T10:04:22.190433+00:00",
     "summary": "Jérémie Ladreit de Lacharrière a été incarcéré dans une affaire de pédopornographie. Les enquêteurs auraient trouvé chez lui près de 4 000 fichiers mettant en scène des mineurs.",
     "thumbnail": "thumbnails/sgxzvo.webp",
-    "tags": [
-      "Jérémie Ladreit de Lacharrière"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:08:25.897628+00:00"
   },
   {
@@ -64,36 +56,8 @@
     "ingested_at": "2026-11-01T10:04:22.191218+00:00",
     "summary": "",
     "thumbnail": "thumbnails/sgxfud.webp",
-    "tags": [
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:08:31.676187+00:00"
-  },
-  {
-    "id": "sgvtsu",
-    "title": "Une usine de captage de CO2 de Shell émet plus de gaz à effet de serre qu'elle n'en capte, révèle une nouvelle étude",
-    "url": "https://fr.businessam.be/une-usine-de-captage-de-co2-de-shell-emet-plus-de-gaz-a-effet-de-serre-quelle-nen-capte-revele-une-nouvelle-etude/",
-    "permalink": "/r/france/comments/sgvtsu/une_usine_de_captage_de_co2_de_shell_émet_plus_de/",
-    "created_at": "2022-01-31T07:54:56+00:00",
-    "score": 470,
-    "num_comments": 92,
-    "subreddit": "france",
-    "author": "bofbof71",
-    "flair": "Trompeur ?",
-    "domain": "fr.businessam.be",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/5KuBToyiHi4Fa34jaNlURpsfmACLYlVDCOAxMrgH7lI.jpeg?auto=webp&s=c3774c498a1e45f535d07d78e253039145bcd1cf",
-    "ingested_at": "2026-11-01T10:04:22.190508+00:00",
-    "summary": "Dans le cadre de la transition énergétique, certains misent gros sur les installations de captage et de stockage du dioxyde de carbone. La technologie est",
-    "thumbnail": "thumbnails/sgvtsu.webp",
-    "tags": [
-      "CO2 de Shell",
-      "Shell",
-      "Global Witness",
-      "CSC",
-      "Trompeur ?"
-    ],
-    "analyzed_at": "2026-11-01T10:08:26.455426+00:00"
   },
   {
     "id": "sgkzra",
@@ -112,13 +76,7 @@
     "ingested_at": "2026-11-01T10:04:22.190711+00:00",
     "summary": "Menacée, Ophélie Meunier, présentatrice de « Zone interdite », vit depuis samedi sous protection policière. Me Richard Malka appelle les médias à la soutenir.",
     "thumbnail": "thumbnails/sgkzra.webp",
-    "tags": [
-      "Richard Malka",
-      "Ophélie Meunier",
-      "Charlie Hebdo",
-      "M6",
-      "Amine Elbahi"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:08:32.733260+00:00"
   },
   {
@@ -139,10 +97,7 @@
     "summary": "Enedis vient de perdre un bras de fer juridique qui aura duré plusieurs années face à treize plaignants atteints d'électrosensibilité.",
     "thumbnail": "thumbnails/sg41ga.webp",
     "tags": [
-      "Enedis",
-      "Linky",
-      "EHS",
-      "Société"
+      "Justice"
     ],
     "analyzed_at": "2026-11-01T10:08:27.095661+00:00"
   },
@@ -163,13 +118,7 @@
     "ingested_at": "2026-11-01T10:04:22.190407+00:00",
     "summary": "Selon Nicolas de Tavernost, président du directoire du groupe M6, la journaliste et présentatrice du magazine d’information est la cible de messages inquiétants.",
     "thumbnail": "thumbnails/sfgxue.webp",
-    "tags": [
-      "Ophélie Meunier",
-      "Nicolas de Tavernost",
-      "M6",
-      "Zone Interdite",
-      "AFP"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:08:28.002856+00:00"
   },
   {
@@ -190,7 +139,7 @@
     "summary": "",
     "thumbnail": "thumbnails/sf7su7.webp",
     "tags": [
-      "Économie"
+      "Recep Tayyip Erdoğan"
     ],
     "analyzed_at": "2026-11-01T10:08:27.518797+00:00"
   },
@@ -211,12 +160,7 @@
     "ingested_at": "2026-11-01T10:04:22.191470+00:00",
     "summary": "Les faits remontent au 6 décembre dernier au sein de la salle de sport Basic Fit, située quartier Garosud à Montpellier, en face de Grand Frais. Après avoir été identifiés, trois suspects viennent d'être interpellés...",
     "thumbnail": "thumbnails/sety3n.webp",
-    "tags": [
-      "Basic Fit",
-      "Garosud",
-      "Grand Frais",
-      "Fait Divers"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:08:27.559618+00:00"
   },
   {
@@ -237,8 +181,7 @@
     "summary": "Ses deux agresseurs ont été interpellés ce mercredi vers 13 heures chez la victime, dans le Xe arrondissement. Des collègues du professeur a",
     "thumbnail": "thumbnails/sepsyb.webp",
     "tags": [
-      "Paris",
-      "Xe"
+      "Éducation"
     ],
     "analyzed_at": "2026-11-01T10:08:27.517796+00:00"
   },
@@ -259,12 +202,7 @@
     "ingested_at": "2026-11-01T10:04:22.190381+00:00",
     "summary": "Moderna a annoncé jeudi que les premières doses d'un vaccin contre le virus du sida utilisant la technologie de l'ARN messager ont été administrées chez des humains dans le cadre d'un essai clinique.",
     "thumbnail": "thumbnails/sen1k2.webp",
-    "tags": [
-      "ARN",
-      "VIH",
-      "Moderna",
-      "Science"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:08:27.848768+00:00"
   },
   {
@@ -285,35 +223,9 @@
     "summary": "Aurélien Bernier, essayiste et journaliste, auteur de « Les voleurs d’énergie » (Utopia, 2018) et « L’urgence de relocaliser » (Utopia, 2021), explique méticuleusement en quoi le système de mise en concurrence européen a été castrophique pour EDF, aujourd'hui obligé de vendre son énergie à perte à des fournisseurs…",
     "thumbnail": "thumbnails/semnyc.webp",
     "tags": [
-      "EDF",
-      "Arenh",
-      "Aurélien Bernier",
-      "État"
+      "Énergie"
     ],
     "analyzed_at": "2026-11-01T10:08:27.810885+00:00"
-  },
-  {
-    "id": "se0ol7",
-    "title": "Citroën XM ambulance",
-    "url": "https://i.pinimg.com/originals/63/97/36/6397365910215abdd91f92ba18b3807c.jpg",
-    "permalink": "/r/france/comments/se0ol7/citroën_xm_ambulance/",
-    "created_at": "2022-01-27T15:15:41+00:00",
-    "score": 399,
-    "num_comments": 69,
-    "subreddit": "france",
-    "author": "SupremoZanne",
-    "flair": "Culture",
-    "domain": "i.pinimg.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/aFEB0MG3bcoBEBajV96wJZIxkY5_GukFK3u6-kz7Jys.jpeg?auto=webp&s=a0be09a1648a2db08fb87c5238106ff3f385a81e",
-    "ingested_at": "2026-11-01T10:04:22.190661+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/se0ol7.webp",
-    "tags": [
-      "Citroën XM",
-      "Culture"
-    ],
-    "analyzed_at": "2026-11-01T10:08:27.940720+00:00"
   },
   {
     "id": "sduwwv",
@@ -333,11 +245,7 @@
     "summary": "Ce roman graphique qui raconte la Shoah avec des souris et des chats a été interdit pour cause d'\"images et de mots inappropriés\". Son auteur Art Spiegelman dénonce cette décision.",
     "thumbnail": "thumbnails/sduwwv.webp",
     "tags": [
-      "BD",
-      "Etats-Unis",
-      "Art Spiegelman",
-      "Shoah",
-      "Culture"
+      "Éducation"
     ],
     "analyzed_at": "2026-11-01T10:08:28.248520+00:00"
   },
@@ -359,8 +267,7 @@
     "summary": "Le préfet Cyrille Maillet, nommé par Emmanuel Macron à la tête d’un service du ministère de l’intérieur, a personnellement classé l’enquête concernant des prestations de sécurité suspectes durant la …",
     "thumbnail": "thumbnails/sd2t5i.webp",
     "tags": [
-      "Emmanuel Macron",
-      "Cyrille Maillet"
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T10:08:28.224640+00:00"
   },
@@ -383,10 +290,8 @@
     "thumbnail": "thumbnails/sd1fr7.webp",
     "tags": [
       "Fabien Roussel",
-      "PCF",
-      "Elections en France",
-      "Parti communiste français",
-      "Politique"
+      "Élection présidentielle",
+      "Élections"
     ],
     "analyzed_at": "2026-11-01T10:08:28.345798+00:00"
   },
@@ -409,8 +314,8 @@
     "thumbnail": "thumbnails/sclpqf.webp",
     "tags": [
       "Gérald Darmanin",
-      "Nantes",
-      "Politique"
+      "Extrême gauche",
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T10:08:28.553577+00:00"
   },
@@ -431,39 +336,8 @@
     "ingested_at": "2026-11-01T10:04:22.191572+00:00",
     "summary": "VIDÉO - Amine Elbahi, juriste en droit public à Roubaix (Nord), a dénoncé dans un reportage de l’émission Zone Interdite, l’islamisation qui gagne sa commune. Depuis, il raconte être menacé de mort.",
     "thumbnail": "thumbnails/sc9nji.webp",
-    "tags": [
-      "Amine Elbahi",
-      "Roubaix",
-      "Zone Interdite",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:08:28.835942+00:00"
-  },
-  {
-    "id": "sbmzg2",
-    "title": "\"L'idée qu'on réussit parce qu'on est intelligent et travailleur est pernicieuse et fausse\", affirme la directrice de la London School of Economics - 24/01/2022 à 14:57",
-    "url": "https://www.boursorama.com/actualite-economique/actualites/l-idee-qu-on-reussit-parce-qu-on-est-intelligent-et-travailleur-est-pernicieuse-et-fausse-affirme-la-directrice-de-la-london-school-of-economics-638c4c95e28c99945bdb904f1113fce1",
-    "permalink": "/r/france/comments/sbmzg2/lidée_quon_réussit_parce_quon_est_intelligent_et/",
-    "created_at": "2022-01-24T14:06:26+00:00",
-    "score": 266,
-    "num_comments": 116,
-    "subreddit": "france",
-    "author": "[deleted]",
-    "flair": "",
-    "domain": "boursorama.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/lMXHi2z7Y_YWijMn05TOaSOZuE0c3Ykc9-TCgz-YrpE.jpg?auto=webp&s=8ef2f9849efbe5d617575c193a059f810f932b90",
-    "ingested_at": "2026-11-01T10:04:22.191395+00:00",
-    "summary": "\"Les gens qui pensent qu'ils ont réussi à s'élever (économiquement et socialement) par leurs propres efforts ne comprennent pas combien la chance a joué et comment la société, directement ou indirectement, les a aussi aidés à progresser\", assure Minouche Shafik.",
-    "thumbnail": "thumbnails/sbmzg2.webp",
-    "tags": [
-      "London School",
-      "Economics",
-      "Minouche Shafik",
-      "LSE",
-      "Guardian"
-    ],
-    "analyzed_at": "2026-11-01T10:08:33.024526+00:00"
   },
   {
     "id": "sbfnxj",
@@ -482,13 +356,7 @@
     "ingested_at": "2026-11-01T10:04:22.190484+00:00",
     "summary": "L'émission Zone Interdite pose ses caméras ce dimanche 23 janvier à Roubaix. Un long reportage centré sur l'islamisme radical et les réponses que l'État apporte sur place. Il y sera question de la ville de la...",
     "thumbnail": "thumbnails/sbfnxj.webp",
-    "tags": [
-      "Zone Interdite",
-      "Islam",
-      "M6",
-      "État",
-      "Roubaix"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:08:29.124889+00:00"
   },
   {
@@ -508,12 +376,7 @@
     "ingested_at": "2026-11-01T10:04:22.191546+00:00",
     "summary": "L'auteur de bandes dessinées Jean-Claude Mézières, cocréateur de la série \"Valérian et Laureline\", est mort dans la nuit de samedi à dimanche.",
     "thumbnail": "thumbnails/saw187.webp",
-    "tags": [
-      "Jean-Claude Mézières",
-      "Laureline",
-      "BD",
-      "Culture"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:08:28.604337+00:00"
   },
   {
@@ -534,11 +397,7 @@
     "summary": "Le camp français de Barkhane à Gao, dans le Nord du Mali, a été la cible de tirs \"indirects\" attribués à de présumés jihadistes, d'après une source militaire française. Le brigadier Alexandre Martin, du 54ème régiment...",
     "thumbnail": "thumbnails/saqown.webp",
     "tags": [
-      "Gao",
-      "Barkhane",
-      "Alexandre Martin",
-      "Nord du Mali",
-      "Mali"
+      "Défense"
     ],
     "analyzed_at": "2026-11-01T10:08:29.460131+00:00"
   },
@@ -561,9 +420,8 @@
     "thumbnail": "thumbnails/sab35k.webp",
     "tags": [
       "Emmanuel Macron",
-      "Présidentielle 2027",
-      "Elections en France",
-      "Elections"
+      "Élection présidentielle",
+      "Élections"
     ],
     "analyzed_at": "2026-11-01T10:08:28.928923+00:00"
   },
@@ -585,11 +443,8 @@
     "summary": "Le candidat communiste à la présidentielle souhaite ainsi favoriser l'égalité sur les questions de mobilité.",
     "thumbnail": "thumbnails/sa73mq.webp",
     "tags": [
-      "Fabien Roussel",
-      "Présidentielle 2027",
-      "Élection présidentielle 2027",
-      "Candidats présidentielle",
-      "Premier tour"
+      "Élection présidentielle",
+      "Fabien Roussel"
     ],
     "analyzed_at": "2026-11-01T10:08:29.671942+00:00"
   },
@@ -611,11 +466,9 @@
     "summary": "INFO BFMTV - Le député européen va rallier le polémiste ce samedi. Son arrivée aux côtés du candidat arrive après la défection de deux autres cadres du parti de Marine Le Pen.",
     "thumbnail": "thumbnails/s9ll84.webp",
     "tags": [
-      "Gilbert Collard",
       "Éric Zemmour",
-      "Rassemblement",
-      "BFMTV",
-      "Politique"
+      "Élection présidentielle",
+      "Marine Le Pen"
     ],
     "analyzed_at": "2026-11-01T10:08:29.110761+00:00"
   },
@@ -637,9 +490,7 @@
     "summary": "Une incarcération de plus en plus difficile à supporter. Détenu depuis le 13 décembre dernier dans le célèbre quartier VIP de la Santé, celui-là même qui a abrité d'autres personnalités comme Patrick Balkany , Claude Guéant vit de plus en plus mal sa privation de libertés.",
     "thumbnail": "thumbnails/s98r9b.webp",
     "tags": [
-      "Claude Guéant",
-      "Santé",
-      "Société"
+      "Patrick Balkany"
     ],
     "analyzed_at": "2026-11-01T10:08:29.300294+00:00"
   },
@@ -661,10 +512,7 @@
     "summary": "Dans les Landes, une femme a été condamnée pour harcèlement : elle forçait entre autre son ex-mari à écouter Michel Sardou.",
     "thumbnail": "thumbnails/s8ooea.webp",
     "tags": [
-      "Michel Sardou",
-      "Landes",
-      "Faits Divers",
-      "Fil info"
+      "Justice"
     ],
     "analyzed_at": "2026-11-01T10:08:29.383623+00:00"
   },
@@ -686,9 +534,7 @@
     "summary": "",
     "thumbnail": "thumbnails/s8gusz.webp",
     "tags": [
-      "Ouïgours",
-      "Chine",
-      "Société"
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T10:08:29.974016+00:00"
   },
@@ -709,12 +555,7 @@
     "ingested_at": "2026-11-01T10:04:22.190118+00:00",
     "summary": "Il souffrait d’un traumatisme crânien après un accident de ski survenu mardi en Savoie et était depuis, hospitalisé au CHU de Grenoble.",
     "thumbnail": "thumbnails/s7qz6h.webp",
-    "tags": [
-      "Gaspard Ulliel",
-      "Savoie",
-      "CHU de Grenoble",
-      "César"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:08:29.837042+00:00"
   },
   {
@@ -735,35 +576,10 @@
     "summary": "",
     "thumbnail": "thumbnails/s7ojxj.webp",
     "tags": [
-      "Covid-19"
+      "Covid-19",
+      "Budget et fiscalité"
     ],
     "analyzed_at": "2026-11-01T10:08:35.407649+00:00"
-  },
-  {
-    "id": "s6zr5b",
-    "title": "Jean-Michel Blanquer présente ses excuses « à tout le corps enseignant » depuis sa piscine privée aux Maldives",
-    "url": "https://www.legorafi.fr/2022/01/18/jean-michel-blanquer-presente-ses-excuses-a-tout-le-corps-enseignant-depuis-sa-piscine-privee-aux-maldives/",
-    "permalink": "/r/france/comments/s6zr5b/jeanmichel_blanquer_présente_ses_excuses_à_tout/",
-    "created_at": "2022-01-18T15:13:13+00:00",
-    "score": 260,
-    "num_comments": 18,
-    "subreddit": "france",
-    "author": "Goypride",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/m6YecQB_3Nh6K4_RwR_SV_rLJfegtyESWd8ZuLayIqY.jpeg?auto=webp&s=71159688c4927130df785b4c4993586396cd1360",
-    "ingested_at": "2026-11-01T10:04:22.191445+00:00",
-    "summary": "A la suite des révélations de Mediapart, le ministre de l'Education nationale a diffusé un message d'excuses sur les réseaux sociaux depuis sa piscine privée aux Maldives.",
-    "thumbnail": "thumbnails/s6zr5b.webp",
-    "tags": [
-      "Maldives",
-      "Jean-Michel Blanquer",
-      "Education",
-      "Mediapart",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T10:08:29.922523+00:00"
   },
   {
     "id": "s6y188",
@@ -782,10 +598,7 @@
     "ingested_at": "2026-11-01T10:04:22.190534+00:00",
     "summary": "",
     "thumbnail": "thumbnails/s6y188.webp",
-    "tags": [
-      "Activision Blizzard",
-      "Économie"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:08:30.257982+00:00"
   },
   {
@@ -806,8 +619,8 @@
     "summary": "",
     "thumbnail": "thumbnails/s641b4.webp",
     "tags": [
-      "Eric Zemmour",
-      "Soft paywall"
+      "Éric Zemmour",
+      "Justice"
     ],
     "analyzed_at": "2026-11-01T10:08:35.845671+00:00"
   },
@@ -829,11 +642,7 @@
     "summary": "Les services fiscaux s'appuient depuis septembre 2021 sur l'intelligence artificielle pour surveiller les piscines non déclarées, avec le soutien de Capgemini et Google. Il y en a environ 4.000 dans le Var et 8.000 dans les Bouches-du-Rhône selon un premier bilan.",
     "thumbnail": "thumbnails/s61swi.webp",
     "tags": [
-      "Provence",
-      "Collectivités locales",
-      "Impôts – Fiscalité",
-      "Intelligence artificielle",
-      "Société"
+      "Intelligence artificielle"
     ],
     "analyzed_at": "2026-11-01T10:08:30.961847+00:00"
   },
@@ -855,8 +664,7 @@
     "summary": "Après 18 mois de scandales visant des cadres de ce fleuron du jeu vidéo français, après l’inaction et les promesses creuses, les salariés ont porté plainte pour « harcèlement in...",
     "thumbnail": "thumbnails/s60xav.webp",
     "tags": [
-      "Ubisoft",
-      "Payant"
+      "Violences sexuelles"
     ],
     "analyzed_at": "2026-11-01T10:08:31.407714+00:00"
   },
@@ -878,11 +686,9 @@
     "summary": "Le baromètre annuel de l'image du Rassemblement national, réalisé par Kantar Public pour franceinfo et \"Le Monde\", confirme que l'émergence puis la candidature d'Éric Zemmour ont permis à Marine Le Pen de policer quelque peu son image.",
     "thumbnail": "thumbnails/s5yy4a.webp",
     "tags": [
-      "Marine le Pen",
       "Éric Zemmour",
-      "Français",
-      "Rassemblement",
-      "Elections"
+      "Marine Le Pen",
+      "Élections"
     ],
     "analyzed_at": "2026-11-01T10:08:31.319696+00:00"
   },
@@ -904,11 +710,7 @@
     "summary": "LE SCAN SPORT - L'attaquant parisien a célébré son but face à Brest avec un message adressé à une admiratrice prise à partie sur les réseaux sociaux après avoir demandé à l'attaquant de rester au Paris SG.",
     "thumbnail": "thumbnails/s5dr0i.webp",
     "tags": [
-      "Ligue 1",
-      "Paris SG",
-      "Football",
-      "Le scan sport",
-      "Brest"
+      "Numérique"
     ],
     "analyzed_at": "2026-11-01T10:08:31.384627+00:00"
   },
@@ -931,10 +733,9 @@
     "thumbnail": "thumbnails/s5c2iq.webp",
     "tags": [
       "Sandrine Rousseau",
-      "Eric Zemmour",
-      "Zemmour",
+      "Éric Zemmour",
       "Yannick Jadot",
-      "Europe-Ecologie Les Verts (EELV)"
+      "Élection présidentielle"
     ],
     "analyzed_at": "2026-11-01T10:08:35.019936+00:00"
   },
@@ -955,11 +756,7 @@
     "ingested_at": "2026-11-01T10:04:22.191421+00:00",
     "summary": "Cette découverte soulève l'espoir du développement possible d'un futur traitement, qui permettrait de guérir cette maladie affectant environ 2,8 millions de personnes dans le monde.",
     "thumbnail": "thumbnails/s5a84u.webp",
-    "tags": [
-      "Epstein-Barr",
-      "Covid",
-      "Science"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:08:31.725725+00:00"
   },
   {
@@ -980,11 +777,7 @@
     "summary": "Le joueur serbe, au cœur d'un feuilleton sportivo-politico-judiciaire autour de son exemption médicale et de son visa pour se rendre en Australie, va être expulsé.",
     "thumbnail": "thumbnails/s565hf.webp",
     "tags": [
-      "Novak Djokovic",
-      "Open Australie",
-      "Australie",
-      "Djokovic",
-      "Fait Divers"
+      "Justice"
     ],
     "analyzed_at": "2026-11-01T10:08:32.157549+00:00"
   },
@@ -1006,9 +799,7 @@
     "summary": "",
     "thumbnail": "thumbnails/s55uh2.webp",
     "tags": [
-      "AFP",
-      "Agence France-Presse",
-      "Paris"
+      "Manifestations"
     ],
     "analyzed_at": "2026-11-01T10:08:32.129680+00:00"
   },
@@ -1029,12 +820,7 @@
     "ingested_at": "2026-11-01T10:04:22.192011+00:00",
     "summary": "Une alerte au tsunami dans le Pacifique a été déclenchée après une éruption du volcan Hunga Tonga-Hunga Ha'apai. Des images spectaculaires de l'éruption depuis l'espace circulent sur les réseaux.",
     "thumbnail": "thumbnails/s4q4pm.webp",
-    "tags": [
-      "Pacifique",
-      "Tonga",
-      "Hunga Tonga-Hunga Ha'apai",
-      "Science"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:08:32.312750+00:00"
   },
   {
@@ -1054,12 +840,7 @@
     "ingested_at": "2026-11-01T10:04:22.191986+00:00",
     "summary": "La célèbre enseigne de grande distribution a annoncé en grande pompe bloquer à 29 centimes d'euros le prix de sa baguette vendue dans ses magasins. Mais comment Leclerc peut-il proposer cette somme dérisoire au vu de la hausse du coût des matières premières, dont le blé ?",
     "thumbnail": "thumbnails/s4lfza.webp",
-    "tags": [
-      "Leclerc",
-      "Dominique Anract",
-      "Jean-François Loiseau",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:08:33.313355+00:00"
   },
   {
@@ -1080,9 +861,7 @@
     "summary": "Face à l'envolée des prix de l'électricité qui atteignent des sommets, la promesse du gouvernement de limiter la hausse pour les ménages à 4 % semblait tenir de la gageure. À trois mois des présidentielles, il fallait trouver une solution, quitte à inventer une usine à gaz.",
     "thumbnail": "thumbnails/s3ty0m.webp",
     "tags": [
-      "EDF",
-      "MWh",
-      "TWh"
+      "Énergie"
     ],
     "analyzed_at": "2026-11-01T10:08:32.630473+00:00"
   },
@@ -1104,11 +883,7 @@
     "summary": "Le groupe d'électricité français voit son action chuter de plus de 20% à la Bourse de Paris ce matin. Il estime entre 7,7 et 8,4 milliards d'euros l'impact de la demande du gouvernement d'augmenter son",
     "thumbnail": "thumbnails/s3seg7.webp",
     "tags": [
-      "EDF",
-      "Bourse",
-      "Électricité",
-      "Nucléaire",
-      "Économie"
+      "Énergie"
     ],
     "analyzed_at": "2026-11-01T10:08:35.338059+00:00"
   },
@@ -1131,7 +906,7 @@
     "thumbnail": "thumbnails/s3p8u2.webp",
     "tags": [
       "Emmanuel Macron",
-      "Soft paywall"
+      "Éducation"
     ],
     "analyzed_at": "2026-11-01T10:08:37.946044+00:00"
   },
@@ -1152,13 +927,7 @@
     "ingested_at": "2026-11-01T10:04:22.190057+00:00",
     "summary": "Les Américains pourront produire et vendre leur fromage sous l'appellation \"gruyère\", en dépit de l'appellation protégée \"Gruyère\", selon un jugement rendu aux Etats-Unis. Les producteurs suisses ont annoncé vouloir faire appel.",
     "thumbnail": "thumbnails/s2uugf.webp",
-    "tags": [
-      "États-Unis",
-      "États-uniens",
-      "Américains",
-      "IPG",
-      "Philippe Bardet"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:08:33.798593+00:00"
   },
   {
@@ -1178,11 +947,7 @@
     "ingested_at": "2026-11-01T10:04:22.191822+00:00",
     "summary": "En plus de devoir faire face à une hausse de leurs coûts de production, les patrons peinent à recruter du personnel.",
     "thumbnail": "thumbnails/s2ufa2.webp",
-    "tags": [
-      "Artisanat",
-      "Dominique Anract",
-      "Économie"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:08:34.313752+00:00"
   },
   {
@@ -1203,33 +968,9 @@
     "summary": "Des femmes de culture arabo-musulmane vivant en Amérique du Nord font entendre leur voix à travers une campagne lancée sur les réseaux sociaux. Elles dénoncent la censure qui pèse sur la critique du port du voile en Occident. Une censure largement pratiquée par des milieux qui se revendiquent « libéraux ».",
     "thumbnail": "thumbnails/s2ekbj.webp",
     "tags": [
-      "Amérique du Nord",
-      "Occident",
-      "Société"
+      "Laïcité"
     ],
     "analyzed_at": "2026-11-01T10:08:33.778852+00:00"
-  },
-  {
-    "id": "s29ccw",
-    "title": "À cause de la pénurie de composants, Canon ne peut plus mettre de DRM dans ses cartouches d'encre",
-    "url": "https://www.macg.co/materiel/2022/01/cause-de-la-penurie-de-composants-canon-ne-peut-plus-mettre-de-drm-dans-ses-cartouches-dencre-126599",
-    "permalink": "/r/france/comments/s29ccw/à_cause_de_la_pénurie_de_composants_canon_ne_peut/",
-    "created_at": "2022-01-12T15:46:30+00:00",
-    "score": 303,
-    "num_comments": 52,
-    "subreddit": "france",
-    "author": "laviolence",
-    "flair": "Actus",
-    "domain": "macg.co",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/Lig_yhwjPVEERFZhywPSAy4gJlAIOpaCtyB82QYHm-0.jpg?auto=webp&s=fc350d1a8338f19a2ddb0c100e8f9f6935266f3b",
-    "ingested_at": "2026-11-01T10:04:22.191071+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/s29ccw.webp",
-    "tags": [
-      "DRM"
-    ],
-    "analyzed_at": "2026-11-01T10:08:39.254690+00:00"
   },
   {
     "id": "s239tv",
@@ -1249,7 +990,8 @@
     "summary": "",
     "thumbnail": "thumbnails/s239tv.webp",
     "tags": [
-      "Didier Raoult"
+      "Justice",
+      "Santé"
     ],
     "analyzed_at": "2026-11-01T10:08:34.202547+00:00"
   },
@@ -1271,10 +1013,8 @@
     "summary": "L’Union européenne a décidé de classer le nucléaire dans la catégorie des énergies de transition. Atte Harjannes, président des Verts au Parlement finlandais, e...",
     "thumbnail": "thumbnails/s1nxht.webp",
     "tags": [
-      "Verts",
-      "Atte Harjannes",
-      "Parlement",
-      "Écologie"
+      "Environnement",
+      "Énergie"
     ],
     "analyzed_at": "2026-11-01T10:08:34.724582+00:00"
   },
@@ -1296,7 +1036,7 @@
     "summary": "",
     "thumbnail": "thumbnails/s1iqsa.webp",
     "tags": [
-      "Société"
+      "LGBT+"
     ],
     "analyzed_at": "2026-11-01T10:08:34.723104+00:00"
   },
@@ -1318,8 +1058,7 @@
     "summary": "EXCLUSIF. Temps de trajet, télétravail... l’équilibre vie privée - vie professionnelle pèse de plus en plus dans les choix des candidats à l",
     "thumbnail": "thumbnails/s1ign1.webp",
     "tags": [
-      "Meteojob",
-      "Société"
+      "Travail"
     ],
     "analyzed_at": "2026-11-01T10:08:35.056700+00:00"
   },
@@ -1340,12 +1079,7 @@
     "ingested_at": "2026-11-01T10:04:22.191195+00:00",
     "summary": "La consultation lancée par la Ville de Paris sur son plan bruit s’achevait lundi soir. En plus de valider ou non les idées de la mairie, les",
     "thumbnail": "thumbnails/s1fekn.webp",
-    "tags": [
-      "Parisiens",
-      "Ville de Paris",
-      "Dan Lert",
-      "Paris"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:08:35.045187+00:00"
   },
   {
@@ -1367,10 +1101,7 @@
     "thumbnail": "thumbnails/s1fblt.webp",
     "tags": [
       "Valérie Pécresse",
-      "Kärcher",
-      "LR",
-      "Nicolas Sarkozy",
-      "Politique"
+      "Nicolas Sarkozy"
     ],
     "analyzed_at": "2026-11-01T10:08:35.323599+00:00"
   },
@@ -1393,35 +1124,10 @@
     "thumbnail": "thumbnails/s1ckpd.webp",
     "tags": [
       "Jean-Michel Blanquer",
-      "Covid-19",
       "Éducation",
-      "BFMTV",
-      "Politique"
+      "Grèves et syndicats"
     ],
     "analyzed_at": "2026-11-01T10:08:36.068511+00:00"
-  },
-  {
-    "id": "s0p4jz",
-    "title": "🇫🇷 Noisy-le-Sec. Piétons traînés par une voiture : le conducteur placé en garde à vue",
-    "url": "http://policeetrealites.com/2022/01/10/%f0%9f%87%ab%f0%9f%87%b7-noisy-le-sec-pietons-traines-par-une-voiture-le-conducteur-place-en-garde-a-vue/",
-    "permalink": "/r/france/comments/s0p4jz/noisylesec_piétons_traînés_par_une_voiture_le/",
-    "created_at": "2022-01-10T17:17:23+00:00",
-    "score": 785,
-    "num_comments": 240,
-    "subreddit": "france",
-    "author": "[deleted]",
-    "flair": "Fait Divers",
-    "domain": "policeetrealites.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/8uX8z3n5VG8VxKsQfZ0GweinnZDDWv8EhDfn1R1VwsI.jpg?auto=webp&s=da63b20582807deb138af0f021424ab47c33cbff",
-    "ingested_at": "2026-11-01T10:04:22.190207+00:00",
-    "summary": "Le conducteur qui s’est amusé à traîner dimanche des piétons à Noisy-le-Sec (Seine-Saint-Denis) tout en filmant la scène s’est présenté dans un commissariat. Il a été placé en garde à v…",
-    "thumbnail": "thumbnails/s0p4jz.webp",
-    "tags": [
-      "Noisy-le-Sec",
-      "Fait Divers"
-    ],
-    "analyzed_at": "2026-11-01T10:08:39.509601+00:00"
   },
   {
     "id": "s0m56a",
@@ -1440,13 +1146,7 @@
     "ingested_at": "2026-11-01T10:04:22.190687+00:00",
     "summary": "Plusieurs individus se sont amusés à traîner des personnes derrière leur voiture en les agrippant par le manteau, à Noisy-le-Sec, en Seine-Saint-Denis, avant de diffuser les images sur les réseaux sociaux. Une enquête a été ouverte, a annoncé la préfecture de police de Paris ce lundi 10 janvier 2022.",
     "thumbnail": "thumbnails/s0m56a.webp",
-    "tags": [
-      "Noisy-le-Sec",
-      "Seine-Saint-Denis",
-      "Paris",
-      "Faits divers",
-      "Fait Divers"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:08:37.986805+00:00"
   },
   {
@@ -1467,10 +1167,8 @@
     "summary": "Le candidat LFI à l'élection présidentielle plaide pour un héritage maximal de 12 millions d'euros.",
     "thumbnail": "thumbnails/rzxtse.webp",
     "tags": [
-      "Élection présidentielle",
-      "LFI",
       "Jean-Luc Mélenchon",
-      "Politique"
+      "Élection présidentielle"
     ],
     "analyzed_at": "2026-11-01T10:08:38.452879+00:00"
   },
@@ -1492,57 +1190,9 @@
     "summary": "Ce pourrait être le titre d'un film de science-fiction. Et pourtant, tout cela est vrai. Les autorités sanitaires du pays affirment que les variants Delta et Omicron ont combiné. Voici Deltacron.",
     "thumbnail": "thumbnails/rznzm0.webp",
     "tags": [
-      "Delta et Omicron",
-      "Chypre",
-      "Trompeur ?"
-    ],
-    "analyzed_at": "2026-11-01T10:08:35.879601+00:00"
-  },
-  {
-    "id": "rzbtbo",
-    "title": "Pour ceux qui n'ont pas encore attrapé le virus...",
-    "url": "https://gfycat.com/whitewaterychanticleer",
-    "permalink": "/r/france/comments/rzbtbo/pour_ceux_qui_nont_pas_encore_attrapé_le_virus/",
-    "created_at": "2022-01-08T22:25:40+00:00",
-    "score": 2013,
-    "num_comments": 206,
-    "subreddit": "france",
-    "author": "montpelliersudfrance",
-    "flair": "Humour",
-    "domain": "gfycat.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://b.thumbs.redditmedia.com/O391hvhRSflG2f6BWD23GbS2-qLIE63fD89sXMDdtUY.jpg",
-    "ingested_at": "2026-11-01T10:04:22.190004+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/rzbtbo.webp",
-    "tags": [
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T10:08:36.902594+00:00"
-  },
-  {
-    "id": "rz7iwx",
-    "title": "Québec: Le nombre de rendez-vous pour 1ère dose est quadruplé avant les restictions visant les magasins d'alcool et de cannabis.",
-    "url": "https://montreal.ctvnews.ca/first-dose-vaccinations-quadruple-in-quebec-ahead-of-restrictions-at-liquor-and-cannabis-stores-1.5731327?utm_source=fark&utm_medium=website&utm_content=link&ICID=ref_fark",
-    "permalink": "/r/france/comments/rz7iwx/québec_le_nombre_de_rendezvous_pour_1ère_dose_est/",
-    "created_at": "2022-01-08T19:18:14+00:00",
-    "score": 168,
-    "num_comments": 31,
-    "subreddit": "france",
-    "author": "Seth_Imperator",
-    "flair": "Covid-19",
-    "domain": "montreal.ctvnews.ca",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/oR_z7d80tak6LY-ozp52BG7cnZBWNYtCpCm98XLYx3w.jpg?auto=webp&s=1da520a19fbe6522c02fcc42432247243cff2aa2",
-    "ingested_at": "2026-11-01T10:04:22.191897+00:00",
-    "summary": "Get top stories and video from Montreal, Quebec, including breaking news, live coverage, weather, traffic, in-depth reporting, sports and local events.",
-    "thumbnail": "thumbnails/rz7iwx.webp",
-    "tags": [
-      "Montreal",
-      "Null",
       "Covid-19"
     ],
-    "analyzed_at": "2026-11-01T10:08:38.472911+00:00"
+    "analyzed_at": "2026-11-01T10:08:35.879601+00:00"
   },
   {
     "id": "ry2ewv",
@@ -1561,40 +1211,8 @@
     "ingested_at": "2026-11-01T10:04:22.190768+00:00",
     "summary": "Ils veulent avoir du temps pour eux, ne pas subir la pression dont ont souffert leurs parents, agir pour l'environnement... Rencontre avec cette nouvelle génération qui place la qualité de vie au dessus du salaire.",
     "thumbnail": "thumbnails/ry2ewv.webp",
-    "tags": [
-      "Matthieu Fleurance",
-      "Santé au travail",
-      "Covid-19",
-      "Education",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:08:36.457861+00:00"
-  },
-  {
-    "id": "ry1ho9",
-    "title": "\"La \"durée de vie\" de James Webb pourrait avoir été doublée grâce à un lancement parfait\"... grâce à la précision d'Ariane : France baise ouais !",
-    "url": "https://trustmyscience.com/mission-telescope-spatial-james-webb-10-ans-au-lieu-5/",
-    "permalink": "/r/france/comments/ry1ho9/la_durée_de_vie_de_james_webb_pourrait_avoir_été/",
-    "created_at": "2022-01-07T07:09:25+00:00",
-    "score": 865,
-    "num_comments": 143,
-    "subreddit": "france",
-    "author": "Poulpman29",
-    "flair": "Science",
-    "domain": "trustmyscience.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/a3dccrWJOpXCnsvPZhFRZ2Vqj6Ab_gsf5baEIiqURw8.jpeg?auto=webp&s=68fccd5fd87754959ec0ac8bd75630289ca23120",
-    "ingested_at": "2026-11-01T10:04:22.190152+00:00",
-    "summary": "La NASA a annoncé que la mission du JWST pourrait se poursuivre 5 ans de plus, soit 10 années au total. Une aubaine pour les scientifiques du monde entier !",
-    "thumbnail": "thumbnails/ry1ho9.webp",
-    "tags": [
-      "James Webb",
-      "JWST",
-      "NASA",
-      "Ariane",
-      "Science"
-    ],
-    "analyzed_at": "2026-11-01T10:08:36.870100+00:00"
   },
   {
     "id": "rxah1e",
@@ -1613,13 +1231,7 @@
     "ingested_at": "2026-11-01T10:04:22.190180+00:00",
     "summary": "L'obligation de mettre en place trois jours par semaine de télétravail dans les entreprises, qui s'applique depuis lundi, a désengorgé les routes et les transports en commun d'Île-de-France.",
     "thumbnail": "thumbnails/rxah1e.webp",
-    "tags": [
-      "Île-de-France",
-      "Covid-19",
-      "Maladie",
-      "Éco / Conso",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:08:37.395188+00:00"
   },
   {
@@ -1640,35 +1252,10 @@
     "summary": "L’Académie française veut saisir le Conseil d’État car le nouveau modèle contrevient à la Constitution, qui dispose que « la langue de la République est le français »",
     "thumbnail": "thumbnails/rx8ymo.webp",
     "tags": [
-      "Conseil État",
-      "Constitution",
-      "République"
+      "Justice",
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T10:08:38.071505+00:00"
-  },
-  {
-    "id": "rww03g",
-    "title": "Depuis que la Finlande reloge tous ses SDF, elle gagne 75 millions d’euros par an",
-    "url": "https://leseclaireurs.canalplus.com/articles/decouvrir/depuis-que-la-finlande-reloge-tous-ses-sans-abris-elle-gagne-75-millions-d-euros-par-an?tl=fr",
-    "permalink": "/r/france/comments/rww03g/depuis_que_la_finlande_reloge_tous_ses_sdf_elle/",
-    "created_at": "2022-01-05T20:20:58+00:00",
-    "score": 616,
-    "num_comments": 189,
-    "subreddit": "france",
-    "author": "NuageDeCristal",
-    "flair": "Société",
-    "domain": "leseclaireurs.canalplus.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/RM5iQgtFaF2uHg0sI-vMY1TavmgwRx2-TAEQQbrS-fE.jpg?auto=webp&s=d55069e9863a63aff289010bfa3212ae791f72d4",
-    "ingested_at": "2026-11-01T10:04:22.190235+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/rww03g.webp",
-    "tags": [
-      "Finlande",
-      "SDF",
-      "Société"
-    ],
-    "analyzed_at": "2026-11-01T10:08:39.875733+00:00"
   },
   {
     "id": "rwidr5",
@@ -1710,10 +1297,8 @@
     "summary": "VIDÉO - Le ministre de la Santé s'exprimait en marge de la présentation du projet de loi sur le pass vaccinal à l'Assemblée nationale.",
     "thumbnail": "thumbnails/rvv47t.webp",
     "tags": [
-      "Assemblée",
       "Olivier Véran",
-      "Martine Wonner",
-      "Santé"
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T10:08:38.416180+00:00"
   },
@@ -1735,7 +1320,8 @@
     "summary": "",
     "thumbnail": "thumbnails/rvqp6y.webp",
     "tags": [
-      "Balkany"
+      "Patrick Balkany",
+      "Justice"
     ],
     "analyzed_at": "2026-11-01T10:08:38.540596+00:00"
   },
@@ -1757,37 +1343,9 @@
     "summary": "Le dÃ©fi lancÃ© par Amazon Prime Video pour dÃ©finir une nouvelle \"bio\" sur son compte Instagram nâa pas eu lâeffet escomptÃ©. Des centaines dâinternautes lui ont rappelÃ© ses pratiques dâoptimisation fiscale.",
     "thumbnail": "thumbnails/rvbwvz.webp",
     "tags": [
-      "Instagram",
-      "Amazon",
-      "Amazon Prime Video",
-      "Prime Video",
-      "RÃ"
+      "Budget et fiscalité"
     ],
     "analyzed_at": "2026-11-01T10:08:39.308336+00:00"
-  },
-  {
-    "id": "rvaxi2",
-    "title": "Le bitcoin a consommé plus de 134 TWh en 2021. Ce qui est comparable à l'énergie électrique consommée par un pays comme l'Argentine",
-    "url": "https://www-developpez-com.cdn.ampproject.org/c/s/www.developpez.com/actu/329907/Le-bitcoin-a-consomme-plus-de-134-TWh-en-2021-ce-qui-est-comparable-a-l-energie-electrique-consommee-par-un-pays-comme-l-Argentine/?amp",
-    "permalink": "/r/france/comments/rvaxi2/le_bitcoin_a_consommé_plus_de_134_twh_en_2021_ce/",
-    "created_at": "2022-01-03T20:18:16+00:00",
-    "score": 360,
-    "num_comments": 318,
-    "subreddit": "france",
-    "author": "Anarchiste-mouton",
-    "flair": "Écologie",
-    "domain": "www-developpez-com.cdn.ampproject.org",
-    "selftext": "",
-    "reddit_thumbnail": "",
-    "ingested_at": "2026-11-01T10:04:22.190740+00:00",
-    "summary": "",
-    "thumbnail": "",
-    "tags": [
-      "TWh",
-      "Argentine",
-      "Écologie"
-    ],
-    "analyzed_at": "2026-11-01T10:08:39.254402+00:00"
   },
   {
     "id": "rucb3j",
@@ -1807,8 +1365,7 @@
     "summary": "Le gouvernement chinois a fait pression sur Amazon pour que toute notation inférieure à cinq étoiles au sujet du recueil de textes de Xi Jinping soit supprimée du site",
     "thumbnail": "thumbnails/rucb3j.webp",
     "tags": [
-      "Xi Jinping",
-      "Amazon"
+      "Xi Jinping"
     ],
     "analyzed_at": "2026-11-01T10:08:39.026718+00:00"
   },
@@ -1830,11 +1387,7 @@
     "summary": "Ce 1er janvier 2022, 547 personnalités se sont vues décerner officiellement la Légion d’honneur. Parmi elles, le président du Conseil scientifique Jean-François Delfraissy mais aussi… l’ancienne ministre de la Santé Agnès Buzyn, qui avait démissionné en pleine pandémie en février 2020.",
     "thumbnail": "thumbnails/rtwr4q.webp",
     "tags": [
-      "Légion",
-      "Agnès Buzyn",
-      "Conseil",
-      "Jean-François Delfraissy",
-      "Politique"
+      "Justice"
     ],
     "analyzed_at": "2026-11-01T10:08:38.983420+00:00"
   },
@@ -1856,28 +1409,8 @@
     "summary": "",
     "thumbnail": "thumbnails/rtnx7f.webp",
     "tags": [
-      "Commission"
+      "Union européenne"
     ],
     "analyzed_at": "2026-11-01T10:08:38.944104+00:00"
-  },
-  {
-    "id": "rti087",
-    "title": "La fin d'année 2021 est la plus douce jamais mesurée",
-    "url": "https://meteofrance.com/actualites-et-dossiers/actualites/la-fin-dannee-2021-est-la-plus-douce-jamais-mesuree",
-    "permalink": "/r/france/comments/rti087/la_fin_dannée_2021_est_la_plus_douce_jamais/",
-    "created_at": "2022-01-01T11:54:29+00:00",
-    "score": 121,
-    "num_comments": 49,
-    "subreddit": "france",
-    "author": "vinceon",
-    "flair": "",
-    "domain": "meteofrance.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/vEBldmMAGQ5z-hFLY5SK3U6y31IMIV1OUwxQ61KIicY.jpg?auto=webp&s=e50e103300a81f38926f061f422cc4c7aa1c7724",
-    "ingested_at": "2026-11-01T10:04:22.191960+00:00",
-    "summary": "Cette fin d'année 2021 est la plus douce que la France ait jamais connue. L'année 2022 commencera dans une même ambiance, avec une douceur toujours remarquable, exceptionnelle en montagne.",
-    "thumbnail": "thumbnails/rti087.webp",
-    "tags": [],
-    "analyzed_at": "2026-11-01T10:08:39.287181+00:00"
   }
 ]

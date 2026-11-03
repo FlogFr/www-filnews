@@ -17,11 +17,8 @@
     "summary": "FIGAROVOX/ENTRETIEN - Jean-Paul Delevoye a estimé vendredi 29 novembre à Créteil «qu’il faudra 50 millions» d’immigrés supplémentaires «pour équilibrer la population active en 2050, en Europe». Pour Yves Mamou, l’immigration a au contraire déstabilisé les systèmes sociaux de nombreux pays européens.",
     "thumbnail": "thumbnails/e3v28r.webp",
     "tags": [
-      "Europe",
-      "Débats sociétaux",
-      "Débat société",
-      "Débat",
-      "Questions"
+      "Immigration",
+      "Retraites"
     ],
     "analyzed_at": "2026-11-01T09:40:52.342180+00:00"
   },
@@ -43,38 +40,10 @@
     "summary": "Usman Khan, 28 ans, portait un bracelet électronique lors de son passage à l’acte vendredi, qui a fait deux morts.",
     "thumbnail": "thumbnails/e3tris.webp",
     "tags": [
-      "Londres",
-      "Usman Khan",
-      "London Bridge",
-      "Royaume-Uni",
-      "Société"
+      "Justice",
+      "Terrorisme"
     ],
     "analyzed_at": "2026-11-01T09:40:52.150085+00:00"
-  },
-  {
-    "id": "e3ewy2",
-    "title": "Black Friday : des militants bloquent un dépôt Amazon à Lyon",
-    "url": "https://www.lyoncapitale.fr/actualite/black-friday-des-militants-bloquent-un-depot-amazon-a-lyon/",
-    "permalink": "/r/france/comments/e3ewy2/black_friday_des_militants_bloquent_un_dépôt/",
-    "created_at": "2019-11-29T13:44:33+00:00",
-    "score": 103,
-    "num_comments": 28,
-    "subreddit": "france",
-    "author": "tibboh",
-    "flair": "",
-    "domain": "lyoncapitale.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/lbBaHE9HU8EbBwWllgR8wx7Q5exYLGW3kc9Fw2nd1w0.jpeg?auto=webp&s=e919ea2576413935e574c016700d4dd86fa837ed",
-    "ingested_at": "2026-10-31T15:34:18.964530+00:00",
-    "summary": "Un entrepôt d'Amazon à Saint-Priest, près de Lyon, est bloqué ce vendredi matin par 200 manifestants.",
-    "thumbnail": "thumbnails/e3ewy2.webp",
-    "tags": [
-      "Amazon",
-      "Lyon",
-      "Black Friday",
-      "Saint-Priest"
-    ],
-    "analyzed_at": "2026-11-01T09:40:52.962082+00:00"
   },
   {
     "id": "e3cidy",
@@ -93,10 +62,7 @@
     "ingested_at": "2026-10-31T15:34:18.963359+00:00",
     "summary": "",
     "thumbnail": "thumbnails/e3cidy.webp",
-    "tags": [
-      "UFC-Que Choisir",
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:40:53.227213+00:00"
   },
   {
@@ -117,11 +83,8 @@
     "summary": "SONDAGE - En moins d’un mois, un vrai renversement de l’opinion public s’est opéré.",
     "thumbnail": "thumbnails/e3228p.webp",
     "tags": [
-      "Français",
-      "Emmanuel Macron",
-      "Réforme des retraites",
-      "Régimes spéciaux",
-      "Politique"
+      "Grèves et syndicats",
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T09:40:52.570243+00:00"
   },
@@ -143,37 +106,9 @@
     "summary": "A partir du 1er janvier, les terrasses chauffées seront interdites à Rennes. Et à Paris? Dans la capitale, les écologistes demandent aussi leur interdiction en raison de leur impact sur l’environnement.",
     "thumbnail": "thumbnails/e2wxje.webp",
     "tags": [
-      "Paris",
-      "Rennes",
-      "Écologie"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T09:40:52.605342+00:00"
-  },
-  {
-    "id": "e2hadq",
-    "title": "Ce qui m’est arrivée - Une femme ouïghours dénonce les persécutions que subit son peuple en Chine. (Traduis de la version anglaise récemment diffusé par le journal The Guardian)",
-    "url": "https://www.scribd.com/document/437185195/Ce-Qui-m-Est-Arrivee-What-Happened-To-Me",
-    "permalink": "/r/france/comments/e2hadq/ce_qui_mest_arrivée_une_femme_ouïghours_dénonce/",
-    "created_at": "2019-11-27T15:09:31+00:00",
-    "score": 240,
-    "num_comments": 91,
-    "subreddit": "france",
-    "author": "LaTangade",
-    "flair": "",
-    "domain": "scribd.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/ez1tpiDTPgO0vCRJj0maAEAz5wEAr2GdIF4xTuwfAvU.jpg?auto=webp&s=dddde302e42948cb7cfc9520d73988de7181a8e5",
-    "ingested_at": "2026-10-31T15:34:18.963498+00:00",
-    "summary": "An Uighur woman describes how its people is persecuted in China. The Guardian has revealed an English version of the manga she realised to share her story to the world. This is a French version, to help others and continue sharing her story. No rights on this. Just humanity.",
-    "thumbnail": "thumbnails/e2hadq.webp",
-    "tags": [
-      "Guardian",
-      "Chine",
-      "An Uighur",
-      "China",
-      "English"
-    ],
-    "analyzed_at": "2026-11-01T09:40:52.943299+00:00"
   },
   {
     "id": "e2emia",
@@ -192,61 +127,8 @@
     "ingested_at": "2026-10-31T15:34:18.963479+00:00",
     "summary": "Universitaire reconnu, Bruce Bagley aurait participé au blanchiment de trois millions de dollars issus de pots de vins pour le compte de fonctionnaires vénézuéliens.",
     "thumbnail": "thumbnails/e2emia.webp",
-    "tags": [
-      "Venezuela",
-      "Etats-Unis",
-      "Trafic de drogue",
-      "Bruce Bagley"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:40:52.609105+00:00"
-  },
-  {
-    "id": "e2dt3r",
-    "title": "\"Je viens de me faire interpeller, intimider et menacer par un policier qui a récupéré mon adresse, et ce pays me terrifie.\" - Thread Twitter",
-    "url": "https://threadreaderapp.com/thread/1199403022918520833.html",
-    "permalink": "/r/france/comments/e2dt3r/je_viens_de_me_faire_interpeller_intimider_et/",
-    "created_at": "2019-11-27T09:42:26+00:00",
-    "score": 298,
-    "num_comments": 333,
-    "subreddit": "france",
-    "author": "AirDur",
-    "flair": "",
-    "domain": "threadreaderapp.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/Udcx2y5p0L0FTDt8EWLbF2OFAn5zfp5FTyRgiyHqJ4E.png?auto=webp&s=f923a460cc3535439ac66fa77799d04ef9c8f8bf",
-    "ingested_at": "2026-10-31T15:34:18.963379+00:00",
-    "summary": "Thread Reader helps you read and share the best of Twitter Threads",
-    "thumbnail": "thumbnails/e2dt3r.webp",
-    "tags": [
-      "Thread Twitter",
-      "Thread Reader",
-      "Twitter Threads",
-      "Twitter",
-      "Twitter thread"
-    ],
-    "analyzed_at": "2026-11-01T09:40:53.699489+00:00"
-  },
-  {
-    "id": "e2c1az",
-    "title": "Le Louvre, Paris",
-    "url": "https://live.staticflickr.com/677/22149183882_4169a4e9d4_o.jpg",
-    "permalink": "/r/france/comments/e2c1az/le_louvre_paris/",
-    "created_at": "2019-11-27T06:39:42+00:00",
-    "score": 1619,
-    "num_comments": 121,
-    "subreddit": "france",
-    "author": "loulan",
-    "flair": "",
-    "domain": "live.staticflickr.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/pBtvUTZeLKSRONEcH6iyPmmVIDHpQao2xluZBFw2GfQ.jpeg?auto=webp&s=8f84ab5b56ff17ada2aa724aa7806c8e81b618bf",
-    "ingested_at": "2026-10-31T15:34:18.963030+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/e2c1az.webp",
-    "tags": [
-      "Louvre"
-    ],
-    "analyzed_at": "2026-11-01T09:40:54.304572+00:00"
   },
   {
     "id": "e1z7k0",
@@ -266,7 +148,7 @@
     "summary": "",
     "thumbnail": "thumbnails/e1z7k0.webp",
     "tags": [
-      "Black Friday"
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T09:40:52.742658+00:00"
   },
@@ -288,35 +170,9 @@
     "summary": "Suivez l'info en direct pour savoir ce qui se passe maintenant ! Toutes les infos livrées minute par minute par la rédaction, les photos, vidéos, tweets et vos interventions",
     "thumbnail": "thumbnails/e1vb7o.webp",
     "tags": [
-      "Mali",
-      "Elysée",
-      "RUSSIE"
+      "Défense"
     ],
     "analyzed_at": "2026-11-01T09:40:53.375410+00:00"
-  },
-  {
-    "id": "e1lent",
-    "title": "Radio France durcit le ton en imposant M. Pokora dans sa playlist de grève",
-    "url": "http://www.legorafi.fr/2015/03/30/radio-france-durcit-le-ton-en-imposant-m-pokora-dans-sa-playlist-de-greve/",
-    "permalink": "/r/france/comments/e1lent/radio_france_durcit_le_ton_en_imposant_m_pokora/",
-    "created_at": "2019-11-25T19:43:15+00:00",
-    "score": 183,
-    "num_comments": 15,
-    "subreddit": "france",
-    "author": "filsdeBalkany",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/Dx8ORawJK8howjd1M9yJwCdhcLAwgJgVrgJUDJFSnxk.png?auto=webp&s=e96c701048f0fdeae51129f5051e9e28baf142f9",
-    "ingested_at": "2026-10-31T15:34:18.963791+00:00",
-    "summary": "Ceci n'est pas une hallucination auditive. Les auditeurs des stations du groupe Radio-France ont droit depuis ce matin à plusieurs morceaux de Matt Pokora qui sont venus se glisser dans les playlists diffusées actuellement sur les antennes.",
-    "thumbnail": "thumbnails/e1lent.webp",
-    "tags": [
-      "Radio France",
-      "Matt Pokora",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:40:53.006531+00:00"
   },
   {
     "id": "e1bzkr",
@@ -336,7 +192,7 @@
     "summary": "",
     "thumbnail": "thumbnails/e1bzkr.webp",
     "tags": [
-      "Hongkong"
+      "Élections"
     ],
     "analyzed_at": "2026-11-01T09:40:53.015049+00:00"
   },
@@ -358,38 +214,9 @@
     "summary": "150 auteurs de BD sur les 200 recensés à Angoulême sont au RSA, selon le Département. Qui crée un dispositif de soutien spécifique. Des dessinateurs au talent fou acceptent de raconter leur galère financière.",
     "thumbnail": "thumbnails/e0yx7g.webp",
     "tags": [
-      "Angoulême",
-      "BD",
-      "RSA",
-      "Département",
-      "Bastien Bazar"
+      "Pauvreté"
     ],
     "analyzed_at": "2026-11-01T09:40:53.283228+00:00"
-  },
-  {
-    "id": "e0ys2h",
-    "title": "AJA que peu avant son exécution, alors qu'on lui propose un verre de rhum et une dernière cigarette, Landru décline l'offre et répond : « Ce n'est pas bon pour la santé. ».",
-    "url": "https://fr.wikipedia.org/wiki/Henri_D%C3%A9sir%C3%A9_Landru",
-    "permalink": "/r/france/comments/e0ys2h/aja_que_peu_avant_son_exécution_alors_quon_lui/",
-    "created_at": "2019-11-24T13:54:47+00:00",
-    "score": 169,
-    "num_comments": 23,
-    "subreddit": "france",
-    "author": "SuperMoquette",
-    "flair": "Culture",
-    "domain": "fr.wikipedia.org",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/oTvQSj17E1wq4vWQnnSXYim3DIXBqHuErydBWidOYd4.jpeg?auto=webp&s=93a927fc5e955189f49a167bbed4359379bde607",
-    "ingested_at": "2026-10-31T15:34:18.963913+00:00",
-    "summary": "« Landru » redirige ici. Pour les autres significations, voir Landru (homonymie) . Henri Désiré Landru , né le 12 avril 1869 à Paris ( 19 e arrondissement ) et mort décapité le 25 février 1922 à Versailles , est un célèbre tueur en série et criminel français . Il fut surnommé « le Barbe-Bleue de Gambais ».",
-    "thumbnail": "thumbnails/e0ys2h.webp",
-    "tags": [
-      "AJA",
-      "Landru",
-      "Paris",
-      "Culture"
-    ],
-    "analyzed_at": "2026-11-01T09:40:53.663932+00:00"
   },
   {
     "id": "e0kxx9",
@@ -408,7 +235,9 @@
     "ingested_at": "2026-10-31T15:34:18.964610+00:00",
     "summary": "",
     "thumbnail": "thumbnails/e0kxx9.webp",
-    "tags": [],
+    "tags": [
+      "Environnement"
+    ],
     "analyzed_at": "2026-11-01T09:40:53.205464+00:00"
   },
   {
@@ -428,13 +257,7 @@
     "ingested_at": "2026-10-31T15:34:18.964447+00:00",
     "summary": "Le New York Times rÃ©vÃ¨le des centaines de documents officiels chinois donnant Ã voir l'organisation consciente par le rÃ©gime de la dÃ©tention de centaines de milliers de musulmans. Au Pakistan, faire voler un cerf-volant peut tuer et peut surtout vous envoyer en prison.",
     "thumbnail": "thumbnails/e0ic99.webp",
-    "tags": [
-      "Xinjiang Papers",
-      "Pakistan",
-      "Pékin",
-      "Ouïghours",
-      "Chine"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:40:53.789434+00:00"
   },
   {
@@ -454,13 +277,7 @@
     "ingested_at": "2026-10-31T15:34:18.964425+00:00",
     "summary": "La Canado-Somalienne engagée dans la défense des droits humains et dans la reconstruction de la Somalie, est morte par balle à Mogadiscio le 20 novembre.",
     "thumbnail": "thumbnails/e009bx.webp",
-    "tags": [
-      "Somalie",
-      "Almaas Elman",
-      "Mogadiscio le 20",
-      "Mogadiscio",
-      "Ilwad Elman"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:40:53.816787+00:00"
   },
   {
@@ -481,11 +298,8 @@
     "summary": "Le géant américain Amazon a détruit 7 900 emplois en France en 2018, selon une note publiée par l'ex-secrétaire d'État au numérique.",
     "thumbnail": "thumbnails/dzxsub.webp",
     "tags": [
-      "Amazon",
-      "Mounir Mahjoubi",
-      "État",
-      "Emmanuel Macron",
-      "Économie"
+      "Travail",
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T09:40:53.747243+00:00"
   },
@@ -507,34 +321,9 @@
     "summary": "INFO FRANCE 3 - Un Toulousain a été verbalisé jeudi par la police ferroviaire pour « sollicitation de toute nature » alors qu’il venait de donner quelques pièces à une mendiante. Après la parution de cet article, la SNCF...",
     "thumbnail": "thumbnails/dzjwx4.webp",
     "tags": [
-      "SNCF",
-      "Matabiau",
-      "FRANCE 3",
-      "Toulousain"
+      "Transports"
     ],
     "analyzed_at": "2026-11-01T09:40:54.070182+00:00"
-  },
-  {
-    "id": "dzio7j",
-    "title": "Les étudiants précaires seront prioritaires pour les postes de standardistes du numéro vert pour les étudiants précaires",
-    "url": "http://www.legorafi.fr/2019/11/21/les-etudiants-precaires-seront-prioritaires-pour-les-postes-de-standardistes-du-numero-vert-pour-les-etudiants-precaires/",
-    "permalink": "/r/france/comments/dzio7j/les_étudiants_précaires_seront_prioritaires_pour/",
-    "created_at": "2019-11-21T12:33:45+00:00",
-    "score": 139,
-    "num_comments": 38,
-    "subreddit": "france",
-    "author": "[deleted]",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/rgfX0q47wzVJLsJld_VL3U8yddsNMEZFjD9iydv5qGI.jpeg?auto=webp&s=1a923ec38fd747b4b3aeb755dd640435ba9b37f7",
-    "ingested_at": "2026-10-31T15:34:18.964338+00:00",
-    "summary": "Paris – Le ministère de l'enseignement supérieur a annoncé ce jour un autre volet de son plan anti précarité pour les étudiants. Ainsi, outre le numéro vert anti précarité, les postes de standardistes de ce numéro vert seront réservés en priorité aux étudiants précaires. Reportage.",
-    "thumbnail": "thumbnails/dzio7j.webp",
-    "tags": [
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:40:53.788507+00:00"
   },
   {
     "id": "dz4e0k",
@@ -594,11 +383,9 @@
     "summary": "A la veille du déplacement d'Emmanuel Macron dans la Somme, consacré à la jeunesse, Franceinfo vous dévoile en exclusivité les résultats d'une étude de la fondation Jean Jaurès et de Chemins d'Avenirs, réalisée par l'Ifop, sur le sujet.",
     "thumbnail": "thumbnails/dyy9xj.webp",
     "tags": [
-      "Ifop",
       "Emmanuel Macron",
-      "Somme",
-      "Education",
-      "Société"
+      "Éducation",
+      "Logement"
     ],
     "analyzed_at": "2026-11-01T09:40:54.171920+00:00"
   },
@@ -620,7 +407,7 @@
     "summary": "",
     "thumbnail": "thumbnails/dykena.webp",
     "tags": [
-      "Julian Assange"
+      "Violences sexuelles"
     ],
     "analyzed_at": "2026-11-01T09:40:54.293573+00:00"
   },
@@ -641,11 +428,7 @@
     "ingested_at": "2026-10-31T15:34:18.963239+00:00",
     "summary": "",
     "thumbnail": "thumbnails/dykb7s.webp",
-    "tags": [
-      "Netflix's",
-      "King",
-      "Agincourt"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:40:54.297507+00:00"
   },
   {
@@ -665,11 +448,7 @@
     "ingested_at": "2026-10-31T15:34:18.963152+00:00",
     "summary": "Les cas de piratage sont devenus tellement fréquents quil ne sagit plus dune grosse surprise lorsquon en entend parler. Seulement, quand il sagit dune banque aussi réputée que la Banque Nationale des îles Caïmans, il faut bien sy intéresser quand même.",
     "thumbnail": "thumbnails/dyi90c.webp",
-    "tags": [
-      "Banque Nationale",
-      "Caïmans",
-      "Économie"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:40:54.275237+00:00"
   },
   {
@@ -690,10 +469,8 @@
     "summary": "Le Centre communal d'action sociale, qui gère l'établissement, lui demandait d'enlever son voile et son habit religieux afin d'obtenir un logement.",
     "thumbnail": "thumbnails/dyhkzp.webp",
     "tags": [
-      "Centre",
-      "Vesoul",
-      "Religion",
-      "Société"
+      "Laïcité",
+      "Retraites"
     ],
     "analyzed_at": "2026-11-01T09:40:55.316654+00:00"
   },
@@ -714,13 +491,7 @@
     "ingested_at": "2026-10-31T15:34:18.963671+00:00",
     "summary": "Filmé samedi à Paris, lors de la manifestation des Gilets jaunes, Manu a été bles...",
     "thumbnail": "thumbnails/dyhg0x.webp",
-    "tags": [
-      "Paris",
-      "Gilets",
-      "Valenciennes",
-      "Manuel",
-      "Œil»"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:40:55.466018+00:00"
   },
   {
@@ -741,8 +512,8 @@
     "summary": "Depuis six ans, le gouvernement a adopté plusieurs décrets pour autoriser l'identification automatique et massive des manifestants. Cette autorisation s'est passée de tout débat démocratique. Elle résulte de la combinaison insidieuse de trois dispositifs : le fichier TAJ (traitement des antécédents",
     "thumbnail": "thumbnails/dy5ki1.webp",
     "tags": [
-      "TAJ",
-      "STIC"
+      "Manifestations",
+      "Libertés publiques"
     ],
     "analyzed_at": "2026-11-01T09:40:55.104256+00:00"
   },
@@ -764,10 +535,6 @@
     "summary": "Selon \"The New York Times\", le président chinois, Xi Jinping, a notamment donné l'ordre, dès 2014, d'être \"sans aucune pitié\" dans cette région à majorité musulmane.",
     "thumbnail": "thumbnails/dxzvf0.webp",
     "tags": [
-      "Xinjiang",
-      "Pékin",
-      "Chine",
-      "New York Times",
       "Xi Jinping"
     ],
     "analyzed_at": "2026-11-01T09:40:54.560858+00:00"
@@ -789,9 +556,7 @@
     "ingested_at": "2026-10-31T15:34:18.963538+00:00",
     "summary": "",
     "thumbnail": "thumbnails/dxzlb0.webp",
-    "tags": [
-      "Hong Kong"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:40:57.175012+00:00"
   },
   {
@@ -812,11 +577,8 @@
     "summary": "En la reconduisant à la tête de la régie autonome des transports parisiens, l'Etat a augmenté de 12,5% son salaire fixe annuel, passé de 300 000 à 350 000 euros, auxquels s'ajoutent 100 000 euros liés à la performance de l'entreprise.",
     "thumbnail": "thumbnails/dxk8i2.webp",
     "tags": [
-      "PDG de la RATP",
-      "RATP",
-      "Catherine Guillouard",
-      "Salaires des grands patrons",
-      "Politique"
+      "Travail",
+      "Transports"
     ],
     "analyzed_at": "2026-11-01T09:40:54.902122+00:00"
   },
@@ -837,36 +599,8 @@
     "ingested_at": "2026-10-31T15:34:18.964652+00:00",
     "summary": "Au début du mois d’octobre, en Italie, des dealers se sont fait voler 20.000 euros de cocaïne par des sangliers en forêt. Quatre personnes, trois Albanais et un Calabrais, ont été arrêtées.",
     "thumbnail": "thumbnails/dxfxt9.webp",
-    "tags": [
-      "Albanais",
-      "Italie",
-      "Calabrais"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:40:55.315758+00:00"
-  },
-  {
-    "id": "dxcoee",
-    "title": "« Hors Piste » ⛷🚁 Un court métrage français hilarant en course pour les Oscars 2020 🏆",
-    "url": "https://vimeo.com/371393039/description",
-    "permalink": "/r/france/comments/dxcoee/hors_piste_un_court_métrage_français_hilarant_en/",
-    "created_at": "2019-11-16T21:03:47+00:00",
-    "score": 103,
-    "num_comments": 24,
-    "subreddit": "france",
-    "author": "juliendeparis",
-    "flair": "Humour",
-    "domain": "vimeo.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/V8wqzMsmknLTDPMXexK0PhguvwToclPjlc-QfRMhmQY.jpg?auto=webp&s=72f0786e7606542ab93df3fe14058477489f3d1f",
-    "ingested_at": "2026-10-31T15:34:18.964510+00:00",
-    "summary": "To continue, please confirm that you're a human (and not a spambot).",
-    "thumbnail": "thumbnails/dxcoee.webp",
-    "tags": [
-      "Hors Piste",
-      "Oscars 2020",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:40:55.461079+00:00"
   },
   {
     "id": "dx2um1",
@@ -885,12 +619,7 @@
     "ingested_at": "2026-10-31T15:34:18.964319+00:00",
     "summary": "FIGAROVOX/GRAND ENTRETIEN - Les violences gratuites sont en augmentation constante en France. Pour le pédopsychiatre Maurice Berger, auteur d’un livre sur son expérience auprès des adolescents hyperviolents, elles sont le fruit de facteurs psychologiques et culturels.",
     "thumbnail": "thumbnails/dx2um1.webp",
-    "tags": [
-      "Maurice Berger",
-      "Justice des mineurs",
-      "GRAND ENTRETIEN",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:40:55.264818+00:00"
   },
   {
@@ -911,11 +640,7 @@
     "summary": "Face à la colère des écologistes et à l'embarras d'une partie de sa majorité, le Premier ministre avait lui-même demandé un second vote après l'imbroglio de jeudi soir.",
     "thumbnail": "thumbnails/dww7gu.webp",
     "tags": [
-      "Hausse des prix des carburants",
-      "Auto-Moto",
-      "Politique",
-      "Santé",
-      "Automobile"
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T09:40:55.817186+00:00"
   },
@@ -937,11 +662,7 @@
     "summary": "Tout traduire en anglais pour avoir l'air dans le coup, ce n'était pas une technique disparue depuis l'an 2000 ?",
     "thumbnail": "thumbnails/dwtdfm.webp",
     "tags": [
-      "EDF",
-      "French Bank",
-      "Orange Truck",
-      "Etat",
-      "Société"
+      "Énergie"
     ],
     "analyzed_at": "2026-11-01T09:40:56.271395+00:00"
   },
@@ -963,10 +684,9 @@
     "summary": "Un des protagonistes de l'affaire Benalla, le militaire Chokri Wakrim, a insisté vendredi 15 novembre pour être entendu dans l'enquête sur le...",
     "thumbnail": "thumbnails/dwpnzy.webp",
     "tags": [
-      "Chokri Wakrim",
-      "Benalla",
-      "Affaire Benalla",
-      "Alexandre Benalla"
+      "Alexandre Benalla",
+      "Défense",
+      "Justice"
     ],
     "analyzed_at": "2026-11-01T09:40:56.477743+00:00"
   },
@@ -988,8 +708,8 @@
     "summary": "Près de 2 000 manifestants sont descendus dans la rue jeudi après-midi à Toulouse, pour défendre la santé publique. Une mobilisation qui s’inscrivait dans une journée nationale « Hôpital mort » à l’appel des syndicats.",
     "thumbnail": "thumbnails/dwnan2.webp",
     "tags": [
-      "Toulouse",
-      "Société"
+      "Santé",
+      "Manifestations"
     ],
     "analyzed_at": "2026-11-01T09:40:59.200003+00:00"
   },
@@ -1014,29 +734,6 @@
     "analyzed_at": "2026-11-01T09:40:57.700058+00:00"
   },
   {
-    "id": "dw7sjl",
-    "title": "Emmanuel Macron aux étudiants « Je n’adore pas le mot de précarité car cela donne l’impression que vivre dans la pauvreté est pénible »",
-    "url": "http://www.legorafi.fr/2019/11/13/emmanuel-macron-aux-etudiants-je-nadore-pas-le-mot-de-precarite-car-cela-donne-limpression-que-vivre-dans-la-pauvrete-est-penible/",
-    "permalink": "/r/france/comments/dw7sjl/emmanuel_macron_aux_étudiants_je_nadore_pas_le/",
-    "created_at": "2019-11-14T10:38:56+00:00",
-    "score": 983,
-    "num_comments": 155,
-    "subreddit": "france",
-    "author": "[deleted]",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/xz0CJJJ97YdHuLd2hjralGwOagllGjKTpBiQQ1UXgH0.jpeg?auto=webp&s=8e0d7b9e23edb10a2865d823ab4ab7728d35f6a5",
-    "ingested_at": "2026-10-31T15:34:18.963079+00:00",
-    "summary": "Alors que la mobilisation étudiante prend de l'ampleur, Emmanuel Macron a tenu à faire un point, pour désamorcer de manière subtile et appliquée les peurs et les inquiétudes des associations étudiantes. Reportage.",
-    "thumbnail": "thumbnails/dw7sjl.webp",
-    "tags": [
-      "Emmanuel Macron",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:40:55.713906+00:00"
-  },
-  {
     "id": "dvsk8e",
     "title": "Comment est-il encore possible que New York ouvre ses bibliothèques 88 heures par semaine et Paris seulement 38?",
     "url": "https://www.huffingtonpost.fr/pierreyves-bournazel/comment-est-il-encore-possible-que-new-york-ouvre-ses-bibliotheques-88-heures-par-semaine-et-paris-seulement-38_a_23386417/",
@@ -1053,11 +750,7 @@
     "ingested_at": "2026-10-31T15:34:18.964055+00:00",
     "summary": "Paris ne peut se satisfaire de quelques timides avancées, elle doit montrer l’exemple de la transformation du pays en matière d’accès au livre et à la culture.",
     "thumbnail": "thumbnails/dvsk8e.webp",
-    "tags": [
-      "Paris",
-      "New York",
-      "Culture"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:40:56.042002+00:00"
   },
   {
@@ -1077,7 +770,9 @@
     "ingested_at": "2026-10-31T15:34:18.963771+00:00",
     "summary": "",
     "thumbnail": "thumbnails/dvqma3.webp",
-    "tags": [],
+    "tags": [
+      "Santé"
+    ],
     "analyzed_at": "2026-11-01T09:40:56.138472+00:00"
   },
   {
@@ -1099,34 +794,9 @@
     "thumbnail": "thumbnails/dvoqbf.webp",
     "tags": [
       "Patrick Balkany",
-      "Paris",
-      "Affaire Balkany",
-      "Affaires",
-      "Politique"
+      "Justice"
     ],
     "analyzed_at": "2026-11-01T09:40:56.073389+00:00"
-  },
-  {
-    "id": "dvb0bo",
-    "title": "Je reposte le guide anti procrastination de u/lecultivateur car ceux qui en ont le plus besoin ne l'ont certainement pas encore lu",
-    "url": "https://www.docdroid.net/9floWn5/guide.doc",
-    "permalink": "/r/france/comments/dvb0bo/je_reposte_le_guide_anti_procrastination_de/",
-    "created_at": "2019-11-12T14:53:03+00:00",
-    "score": 420,
-    "num_comments": 88,
-    "subreddit": "france",
-    "author": "Thurn42",
-    "flair": "Ask France",
-    "domain": "docdroid.net",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/19fGki3OlIJGGyyGTRvHH1OLNnsykEUZ6OliofqEmiI.jpg?auto=webp&s=cfeda9cf009a52c9626cf2615b634941380e6742",
-    "ingested_at": "2026-10-31T15:34:18.963195+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/dvb0bo.webp",
-    "tags": [
-      "Ask France"
-    ],
-    "analyzed_at": "2026-11-01T09:40:59.401646+00:00"
   },
   {
     "id": "dv86kn",
@@ -1146,11 +816,7 @@
     "summary": "La \"cagnotte\" lancée par les soutiens de l'ancien maire de Levallois-Perret a permis de récolter près de 50 000 euros, soit dix fois moins que la caution qu'il devra payer si la justice autorise sa mise en liberté ce mercredi.",
     "thumbnail": "thumbnails/dv86kn.webp",
     "tags": [
-      "Patrick Balkany",
-      "Levallois-Perret",
-      "Affaire Balkany",
-      "Affaires",
-      "Politique"
+      "Patrick Balkany"
     ],
     "analyzed_at": "2026-11-01T09:40:56.428442+00:00"
   },
@@ -1172,9 +838,7 @@
     "summary": "",
     "thumbnail": "thumbnails/dun1x3.webp",
     "tags": [
-      "It's Mutilation",
-      "Police",
-      "Chile Are Blinding Protesters"
+      "Police"
     ],
     "analyzed_at": "2026-11-01T09:40:57.566382+00:00"
   },
@@ -1195,10 +859,7 @@
     "ingested_at": "2026-10-31T15:34:18.964727+00:00",
     "summary": "",
     "thumbnail": "thumbnails/dulhh6.webp",
-    "tags": [
-      "Evo Morales",
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:40:56.758599+00:00"
   },
   {
@@ -1218,11 +879,7 @@
     "ingested_at": "2026-10-31T15:34:18.964218+00:00",
     "summary": "La Haute Autorité pour la transparence de la vie publique a dévoilé que l’eurodéputé détenait des participations dans plusieurs grandes entr",
     "thumbnail": "thumbnails/ducoea.webp",
-    "tags": [
-      "RN Hervé Juvin",
-      "Haute Autorité",
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:40:56.788089+00:00"
   },
   {
@@ -1242,12 +899,7 @@
     "ingested_at": "2026-10-31T15:34:18.964113+00:00",
     "summary": "Le leader français du cloud met en garde contre le stockage sur des serveurs étrangers.",
     "thumbnail": "thumbnails/du9odr.webp",
-    "tags": [
-      "OVH",
-      "High Tech",
-      "Tech / Web",
-      "Sciences"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:40:56.877884+00:00"
   },
   {
@@ -1267,9 +919,7 @@
     "ingested_at": "2026-10-31T15:34:18.964631+00:00",
     "summary": "",
     "thumbnail": "thumbnails/dtxb8g.webp",
-    "tags": [
-      "Manche"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:40:59.322896+00:00"
   },
   {
@@ -1289,9 +939,7 @@
     "ingested_at": "2026-10-31T15:34:18.964707+00:00",
     "summary": "Dans vos ordinateurs ou vos smartphones, presque toutes les batteries du monde sont fabriquées avec du lithium. Ce métal hautement stratégique pour les pays vient",
     "thumbnail": "thumbnails/dtnmt2.webp",
-    "tags": [
-      "Économie"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:40:57.537660+00:00"
   },
   {
@@ -1312,11 +960,7 @@
     "summary": "La France, l'Allemagne, l'Italie, les trois pays du Benelux, la Suède, le Danemark et la Bulgarie ont exhorté la Commission européenne à proposer de nouvelles mesures pour cibler ce secteur, sans toutefois réclamer une taxe spécifique sur la pollution.",
     "thumbnail": "thumbnails/dtfflj.webp",
     "tags": [
-      "Bruxelles",
-      "Benelux",
-      "Suède",
-      "Danemark et la Bulgarie",
-      "Commission"
+      "Union européenne"
     ],
     "analyzed_at": "2026-11-01T09:40:57.290613+00:00"
   },
@@ -1338,10 +982,7 @@
     "summary": "Maire de La Garenne-Colombes, Philippe Juvin (LR) a attaqué en justice à titre personnel un permis de construire délivré par « délégation du maire », c’est-à-dire lui-même. L'élu s'est désisté après …",
     "thumbnail": "thumbnails/dtejxf.webp",
     "tags": [
-      "LR des Hauts-de-Seine",
-      "Philippe Juvin",
-      "Garenne-Colombes",
-      "LR"
+      "Justice"
     ],
     "analyzed_at": "2026-11-01T09:40:58.166436+00:00"
   },
@@ -1363,38 +1004,10 @@
     "summary": "Deux policiers sont renvoyés en correctionnelle après des violences en marge du mouvement des \"gilets jaunes\".",
     "thumbnail": "thumbnails/dtdcir.webp",
     "tags": [
-      "IGPN",
-      "Ligue",
-      "Homme",
-      "Gilets jaunes",
-      "Transports"
+      "Police",
+      "Manifestations"
     ],
     "analyzed_at": "2026-11-01T09:40:57.598068+00:00"
-  },
-  {
-    "id": "dtc7uh",
-    "title": "Julie Graziani « J'aurais dû faire comme Eric Zemmour et simplement dire du mal des musulmans »",
-    "url": "http://www.legorafi.fr/2019/11/07/julie-graziani-jaurai-du-faire-comme-eric-zemmour-et-simplement-dire-du-mal-des-musulmans/",
-    "permalink": "/r/france/comments/dtc7uh/julie_graziani_jaurais_dû_faire_comme_eric/",
-    "created_at": "2019-11-08T07:55:49+00:00",
-    "score": 577,
-    "num_comments": 89,
-    "subreddit": "france",
-    "author": "Draazith",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/YVKuPGD7EVZ3Bdn2uz0IIGk3YRdHdeTnYF4wmZI4GDY.jpeg?auto=webp&s=d3b70d4d60d3e9c3e0337b49ff9c5bc2dd5a8571",
-    "ingested_at": "2026-10-31T15:34:18.963130+00:00",
-    "summary": "Après son renvoie suite à ses propos sur LCI, Julie Graziani a reconnu que sa principale erreur était de ne pas avoir simplement juste dit du mal des musulmans, auquel cas elle aurait vraisemblablement gardé sa place. Reportage.",
-    "thumbnail": "thumbnails/dtc7uh.webp",
-    "tags": [
-      "Julie Graziani",
-      "Eric Zemmour",
-      "LCI",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:40:57.709529+00:00"
   },
   {
     "id": "dtc3t7",
@@ -1414,9 +1027,8 @@
     "summary": "Les quatre journalistes ont été convoqués « par la police judiciaire à la demande du parquet de Paris pour être interrogés en enquête préliminaire »",
     "thumbnail": "thumbnails/dtc3t7.webp",
     "tags": [
-      "Affaire Benalla",
-      "Paris",
-      "Politique"
+      "Alexandre Benalla",
+      "Médias"
     ],
     "analyzed_at": "2026-11-01T09:40:58.195040+00:00"
   },
@@ -1438,33 +1050,9 @@
     "summary": "",
     "thumbnail": "thumbnails/dt63t0.webp",
     "tags": [
-      "Emmanuel Macron",
-      "NATO"
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T09:40:59.738080+00:00"
-  },
-  {
-    "id": "dt3787",
-    "title": "Quebec denies French citizen's immigration application because chapter of thesis was in English",
-    "url": "https://www.cbc.ca/news/canada/montreal/french-thesis-immigration-caq-1.5351155",
-    "permalink": "/r/france/comments/dt3787/quebec_denies_french_citizens_immigration/",
-    "created_at": "2019-11-07T19:54:15+00:00",
-    "score": 169,
-    "num_comments": 127,
-    "subreddit": "france",
-    "author": "Niafron",
-    "flair": "Actus",
-    "domain": "cbc.ca",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/sQhMbEATj19DsHow8ZHTMrcEtvsPk7lSYKI_RTUeVmo.jpg?auto=webp&s=7cdc14cfc2c2dc3397992af25435116ebb9fa578",
-    "ingested_at": "2026-10-31T15:34:18.963893+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/dt3787.webp",
-    "tags": [
-      "French",
-      "English"
-    ],
-    "analyzed_at": "2026-11-01T09:41:18.545621+00:00"
   },
   {
     "id": "dt0208",
@@ -1484,35 +1072,9 @@
     "summary": "Proposition de loi pour le droit d'uriner en paix, n° 2391 , déposée le mercredi 6 novembre 2019 .",
     "thumbnail": "thumbnails/dt0208.webp",
     "tags": [
-      "François Ruffin",
-      "Politique"
+      "François Ruffin"
     ],
     "analyzed_at": "2026-11-01T09:41:04.089464+00:00"
-  },
-  {
-    "id": "dsxfb6",
-    "title": "Une inconsciente divorce alors qu’elle ne gagne que le SMIC",
-    "url": "http://www.legorafi.fr/2019/11/07/une-inconsciente-divorce-alors-quelle-ne-gagne-que-le-smic/",
-    "permalink": "/r/france/comments/dsxfb6/une_inconsciente_divorce_alors_quelle_ne_gagne/",
-    "created_at": "2019-11-07T13:03:31+00:00",
-    "score": 308,
-    "num_comments": 27,
-    "subreddit": "france",
-    "author": "[deleted]",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/g9Qmos7PUnUPt5G4n6-Udkht-PShOX0tKcMxTyO3V-E.jpeg?auto=webp&s=b375182ad5e565beeac3487cf1845bfbf6720cea",
-    "ingested_at": "2026-10-31T15:34:18.963342+00:00",
-    "summary": "Limoges – Lydia N., 31 ans, actuellement vendeuse dans une grande enseigne de prêt-à-porter du centre-ville, a divorcé de son mari Erwan N. alors qu’elle est encore au SMIC. Toute la ville est encore abasourdie.",
-    "thumbnail": "thumbnails/dsxfb6.webp",
-    "tags": [
-      "SMIC",
-      "Lydia",
-      "Erwan",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:40:58.409218+00:00"
   },
   {
     "id": "dswzpy",
@@ -1532,11 +1094,7 @@
     "summary": "Le chef de l'État estime que ce projet de mégacomplexe, qui devait voir le jour dans le Val-d'Oise, au nord de Paris, est «daté et dépassé». Il veut désormais réfléchir à un «projet alternatif».",
     "thumbnail": "thumbnails/dswzpy.webp",
     "tags": [
-      "Emmanuel Macron",
-      "Europacity",
-      "État",
-      "Paris",
-      "Gonesse"
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T09:40:59.564937+00:00"
   },
@@ -1557,12 +1115,7 @@
     "ingested_at": "2026-10-31T15:34:18.964034+00:00",
     "summary": "Des analyses ADN confirment que ce squelette retrouvé lors de fouilles menées fin août est bien celui d’un général napoléonien décédé en 181",
     "thumbnail": "thumbnails/dstgrb.webp",
-    "tags": [
-      "Russie",
-      "Napoléon",
-      "ADN",
-      "Culture"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:40:59.455350+00:00"
   },
   {
@@ -1583,8 +1136,7 @@
     "summary": "Les mÃ©decins gÃ©nÃ©ralistes qui reÃ§oivent des âcadeauxâ de la part de lâindustrie pharmaceutique auraient tendance Ã prescrire davantage de mÃ©dicaments, plus longtemps, et pour plus cher. Câest ce que montre une Ã©tude publiÃ©e ce 6 novembre par des mÃ©decins, chercheurs et ingÃ©nieurs rennais.",
     "thumbnail": "thumbnails/dsdf7c.webp",
     "tags": [
-      "SociÃ©tÃ©",
-      "Société"
+      "Santé"
     ],
     "analyzed_at": "2026-11-01T09:40:59.832629+00:00"
   },
@@ -1606,11 +1158,7 @@
     "summary": "Les nations signataires de l'accord de Paris, qui vise à limiter le réchauffement climatique, doivent faire plus d'efforts afin d'éviter \"la catastrophe qui se profile\", alertent des chercheurs.",
     "thumbnail": "thumbnails/dscyk2.webp",
     "tags": [
-      "Europe",
-      "Paris",
-      "Climat et transitions",
-      "Sciences",
-      "Écologie"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T09:40:59.961171+00:00"
   },
@@ -1632,9 +1180,7 @@
     "summary": "À la suite des coups portés à Maria, Mediapart a découvert l’existence de brigades hybrides de policiers, non formés au maintien de l’ordre et chauffés à blanc par une note du ministère de l'intérieu…",
     "thumbnail": "thumbnails/dscf42.webp",
     "tags": [
-      "Marseille",
-      "Gilets Jaunes",
-      "Maria"
+      "Manifestations"
     ],
     "analyzed_at": "2026-11-01T09:41:00.311741+00:00"
   },
@@ -1656,8 +1202,7 @@
     "summary": "À Marseille, le 8 décembre 2018, en marge d'une manifestation des « gilets jaunes », des policiers ont fracassé le crâne de Maria∗, 19 ans, lui blessant gravement le cerveau. Notre enquête sur ces vi…",
     "thumbnail": "thumbnails/ds41k2.webp",
     "tags": [
-      "Marseille",
-      "Maria"
+      "Police"
     ],
     "analyzed_at": "2026-11-01T09:41:00.266566+00:00"
   },
@@ -1679,11 +1224,8 @@
     "summary": "Chroniqueuse dans l'émission \"24h Pujadas\" sur LCI,Julie Graziani a suscité l'indignation en commentant un échange entre Emmanuel Macron et une mère isolée de Rouen qui tente de vivre au SMIC avec ses deux enfants. \"A...",
     "thumbnail": "thumbnails/drwwfa.webp",
     "tags": [
-      "SMIC",
-      "LCI",
-      "Julie Graziani",
-      "Emmanuel Macron",
-      "Pujadas"
+      "Travail",
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T09:41:02.813735+00:00"
   },
@@ -1704,9 +1246,7 @@
     "ingested_at": "2026-10-31T15:34:18.963174+00:00",
     "summary": "Alors que la part des énergies renouvelables a franchi en 2018 le cap de 40% de la production allemande d'énergie, une centrale à charbon, flambant neuve, doit être mise en service courant 2020, outre-Rhin.",
     "thumbnail": "thumbnails/drvp5t.webp",
-    "tags": [
-      "Uniper"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:41:00.296163+00:00"
   },
   {
@@ -1726,12 +1266,7 @@
     "ingested_at": "2026-10-31T15:34:18.964132+00:00",
     "summary": "Le 21 octobre, le fondateur de WikiLeaks est apparu devant un tribunal de Londres affaibli, s’exprimant avec difficulté, tandis que des « représentants du gouvernement américain » discutaient ouverte…",
     "thumbnail": "thumbnails/drnrtt.webp",
-    "tags": [
-      "ONU",
-      "Julian Assange",
-      "WikiLeaks",
-      "Londres"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:41:01.957352+00:00"
   },
   {
@@ -1771,13 +1306,7 @@
     "ingested_at": "2026-10-31T15:34:18.963218+00:00",
     "summary": "Schoolteacher Yvette Lundy was sent to a concentration camp for her role in the French Resistance.",
     "thumbnail": "thumbnails/drdp7j.webp",
-    "tags": [
-      "French Resistance",
-      "Yvette Lundy",
-      "Nazi",
-      "Ms Lundy",
-      "Schoolteacher Yvette Lundy"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:41:00.827939+00:00"
   },
   {
@@ -1798,11 +1327,7 @@
     "summary": "Aux confins de la Bourgogne et de la Champagne, le onzième parc national français va voir le jour: consacré aux forêts de feuillus de plaine, sa c...",
     "thumbnail": "thumbnails/dr7u2k.webp",
     "tags": [
-      "Champagne et Bourgogne",
-      "Bourgogne et de la Champagne",
-      "GIP",
-      "Agriculture",
-      "Écologie"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T09:41:00.626792+00:00"
   },
@@ -1823,38 +1348,8 @@
     "ingested_at": "2026-10-31T15:34:18.964014+00:00",
     "summary": "",
     "thumbnail": "thumbnails/dqys2c.webp",
-    "tags": [
-      "Brésil",
-      "Paulo Paulino",
-      "Amazonie"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:41:00.664938+00:00"
-  },
-  {
-    "id": "dqoxk4",
-    "title": "Zineb El Rhazoui : \"L'État n'a pas à s'adapter à l'islam\"",
-    "url": "https://www.revuedesdeuxmondes.fr/zineb-el-rhazoui-interview-etat-islam/",
-    "permalink": "/r/france/comments/dqoxk4/zineb_el_rhazoui_létat_na_pas_à_sadapter_à_lislam/",
-    "created_at": "2019-11-02T19:17:34+00:00",
-    "score": 144,
-    "num_comments": 175,
-    "subreddit": "france",
-    "author": "Synchronyme",
-    "flair": "Politique",
-    "domain": "revuedesdeuxmondes.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/FemGIAvBb_9g7sBe7pgzCjLAChLDDFqy59iM-b3jWV4.jpeg?auto=webp&s=5601091a3f7f650261c3049ebc8f14acf936244e",
-    "ingested_at": "2026-10-31T15:34:18.964299+00:00",
-    "summary": "Zineb El Rhazoui, ancienne de Charlie Hebdo et auteure de \"Détruire le fascisme islamique\" pense que la République ne doit pas cautionner de projet politico-religieux.",
-    "thumbnail": "thumbnails/dqoxk4.webp",
-    "tags": [
-      "Zineb El Rhazoui",
-      "État",
-      "Charlie Hebdo",
-      "République",
-      "Politique"
-    ],
-    "analyzed_at": "2026-11-01T09:41:00.731321+00:00"
   },
   {
     "id": "dqim1z",
@@ -1873,11 +1368,7 @@
     "ingested_at": "2026-10-31T15:34:18.964550+00:00",
     "summary": "",
     "thumbnail": "thumbnails/dqim1z.webp",
-    "tags": [
-      "Sud",
-      "Angleterre",
-      "Sport"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:41:02.074478+00:00"
   },
   {
@@ -1897,9 +1388,7 @@
     "ingested_at": "2026-10-31T15:34:18.964590+00:00",
     "summary": "",
     "thumbnail": "thumbnails/dq1xmt.webp",
-    "tags": [
-      "Américains"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:41:06.225753+00:00"
   },
   {
@@ -1920,10 +1409,9 @@
     "summary": "A la différence de François Hollande, l’actuel locataire du Palais présidentiel a multiplié les dépenses en ménage, voitures, rénovations ou encore nourriture",
     "thumbnail": "thumbnails/dq1oho.webp",
     "tags": [
-      "Élysée",
       "Emmanuel Macron",
       "François Hollande",
-      "Palais"
+      "Économie"
     ],
     "analyzed_at": "2026-11-01T09:41:01.987648+00:00"
   }

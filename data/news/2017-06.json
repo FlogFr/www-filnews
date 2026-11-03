@@ -1,30 +1,5 @@
 [
   {
-    "id": "6kjbot",
-    "title": "AJA qu'un parsec aurait pu s'appeler un macron",
-    "url": "https://fr.wikipedia.org/wiki/Parsec#Terminologie",
-    "permalink": "/r/france/comments/6kjbot/aja_quun_parsec_aurait_pu_sappeler_un_macron/",
-    "created_at": "2017-06-30T22:30:50+00:00",
-    "score": 25,
-    "num_comments": 5,
-    "subreddit": "france",
-    "author": "MarcBrillault",
-    "flair": "Science",
-    "domain": "fr.wikipedia.org",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/S3a6LfQX-yA38LL53HUXQdiAPaK6plp0R_U1gaTPbx0.png?auto=webp&s=a23e7867b21a6fc5d5397d9c8d861dbb96d6417e",
-    "ingested_at": "2026-10-31T14:56:47.073877+00:00",
-    "summary": "Le parsec ( /paʁ.sεk/ ) [ 1 ] , de symbole pc, est une unité de longueur utilisée en astronomie . Il est défini comme valant exactement 648 000 / π unités astronomiques , soit environ 3,26 années-lumière .",
-    "thumbnail": "thumbnails/6kjbot.webp",
-    "tags": [
-      "AJA",
-      "Système",
-      "Union",
-      "Science"
-    ],
-    "analyzed_at": "2026-11-01T09:47:46.580692+00:00"
-  },
-  {
     "id": "6kepg0",
     "title": "Simone Veil est décédée à 89 ans",
     "url": "http://www.lejdd.fr/politique/simone-veil-est-decedee-a-89-ans-3376211",
@@ -41,13 +16,7 @@
     "ingested_at": "2026-10-31T14:56:47.072228+00:00",
     "summary": "URGENT - Simone Veil est décédée vendredi matin à son domicile à l'âge de 89 ans, a appris le JDD de source sûre.",
     "thumbnail": "thumbnails/6kepg0.webp",
-    "tags": [
-      "Simone Veil",
-      "URGENT",
-      "JDD",
-      "Shoah",
-      "Parlement"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:47:47.191595+00:00"
   },
   {
@@ -68,55 +37,9 @@
     "summary": "",
     "thumbnail": "thumbnails/6kehl1.webp",
     "tags": [
-      "Monde",
-      "Société"
+      "LGBT+"
     ],
     "analyzed_at": "2026-11-01T09:47:47.643585+00:00"
-  },
-  {
-    "id": "6ke73i",
-    "title": "Pont-en-Royans, Isère, France",
-    "url": "https://c2.staticflickr.com/2/1585/24068739231_dfdeba0f78_o.jpg",
-    "permalink": "/r/france/comments/6ke73i/pontenroyans_isère_france/",
-    "created_at": "2017-06-30T06:17:59+00:00",
-    "score": 180,
-    "num_comments": 24,
-    "subreddit": "france",
-    "author": "loulan",
-    "flair": "Culture",
-    "domain": "c2.staticflickr.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/ElcBUb8-Zu1vdCzPtQHTOz8H4le2XD96hXdJphyFV6U.jpg?auto=webp&s=b6b1b2ca071f32c0fb5a3221109ee4d1bf5997dd",
-    "ingested_at": "2026-10-31T14:56:47.073047+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/6ke73i.webp",
-    "tags": [
-      "Culture"
-    ],
-    "analyzed_at": "2026-11-01T09:47:55.130496+00:00"
-  },
-  {
-    "id": "6k8q07",
-    "title": "Un spectre hante l'Europe...",
-    "url": "https://scontent-cdt1-1.xx.fbcdn.net/v/t34.0-12/19578172_10212122421310208_286664619_n.png?oh=ba8213d5bf7848986a3ab0bb172cc240&oe=59576453",
-    "permalink": "/r/france/comments/6k8q07/un_spectre_hante_leurope/",
-    "created_at": "2017-06-29T14:33:41+00:00",
-    "score": 237,
-    "num_comments": 140,
-    "subreddit": "france",
-    "author": "[deleted]",
-    "flair": "Politique",
-    "domain": "scontent-cdt1-1.xx.fbcdn.net",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/Uzb8uMLjm2KFnfeSaSIXjHGohqokbzNSYbyFQCDrXlU.png?auto=webp&s=ff19afb8f0f386497489694b3b8da34fa5f154b3",
-    "ingested_at": "2026-10-31T14:56:47.072660+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/6k8q07.webp",
-    "tags": [
-      "Europe",
-      "Politique"
-    ],
-    "analyzed_at": "2026-11-01T09:47:52.570078+00:00"
   },
   {
     "id": "6k6h90",
@@ -136,7 +59,7 @@
     "summary": "",
     "thumbnail": "thumbnails/6k6h90.webp",
     "tags": [
-      "Politique"
+      "Libertés publiques"
     ],
     "analyzed_at": "2026-11-01T09:47:49.056897+00:00"
   },
@@ -158,81 +81,9 @@
     "summary": "Selon le classement du magazine \"Challenges\", le PIB français augmente moins rapidement que les richesses des grandes fortunes.",
     "thumbnail": "thumbnails/6jz245.webp",
     "tags": [
-      "PIB",
-      "Éco / Conso",
-      "Société"
+      "Économie"
     ],
     "analyzed_at": "2026-11-01T09:47:49.403385+00:00"
-  },
-  {
-    "id": "6jyzjc",
-    "title": "Ainsi alors, tu as décidé de composter sur /r/france cet été... [Gif de qualité VHS - Nanarogif] (reupload)",
-    "url": "https://gfycat.com/PracticalTallBird",
-    "permalink": "/r/france/comments/6jyzjc/ainsi_alors_tu_as_décidé_de_composter_sur_rfrance/",
-    "created_at": "2017-06-28T07:10:53+00:00",
-    "score": 170,
-    "num_comments": 46,
-    "subreddit": "france",
-    "author": "Amiral_Poitou",
-    "flair": "Méta",
-    "domain": "gfycat.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://b.thumbs.redditmedia.com/JYWiKjY3edjxk8zO9_dQ8cK5K6CwW2P8nabABoSJDjs.jpg",
-    "ingested_at": "2026-10-31T14:56:47.073135+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/6jyzjc.webp",
-    "tags": [
-      "VHS",
-      "Méta"
-    ],
-    "analyzed_at": "2026-11-01T09:47:50.081843+00:00"
-  },
-  {
-    "id": "6jx8go",
-    "title": "MRQ je vois que le compost animé est en plein essor",
-    "url": "https://gfycat.com/LightheartedSpitefulGossamerwingedbutterfly",
-    "permalink": "/r/france/comments/6jx8go/mrq_je_vois_que_le_compost_animé_est_en_plein/",
-    "created_at": "2017-06-28T01:06:42+00:00",
-    "score": 261,
-    "num_comments": 33,
-    "subreddit": "france",
-    "author": "pepin_nucleaire",
-    "flair": "Méta",
-    "domain": "gfycat.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://b.thumbs.redditmedia.com/V2ADH_lN536vDPCej9cUsBS_vjfivTR9eieDCccGECA.jpg",
-    "ingested_at": "2026-10-31T14:56:47.072532+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/6jx8go.webp",
-    "tags": [
-      "MRQ",
-      "Méta"
-    ],
-    "analyzed_at": "2026-11-01T09:47:50.352624+00:00"
-  },
-  {
-    "id": "6jtqb0",
-    "title": "Quand je vois le sub se réjouir de voir \"enfin des Gifs de Haute qualité\" [Gif de qualité VHS]",
-    "url": "https://gfycat.com/AstonishingPiercingIndianringneckparakeet",
-    "permalink": "/r/france/comments/6jtqb0/quand_je_vois_le_sub_se_réjouir_de_voir_enfin_des/",
-    "created_at": "2017-06-27T16:13:28+00:00",
-    "score": 232,
-    "num_comments": 38,
-    "subreddit": "france",
-    "author": "Amiral_Poitou",
-    "flair": "Méta",
-    "domain": "gfycat.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://b.thumbs.redditmedia.com/KmAHEA0Q_dQdYUztebLrSK17bT9Y6x_28KzK3C4Uo-A.jpg",
-    "ingested_at": "2026-10-31T14:56:47.072741+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/6jtqb0.webp",
-    "tags": [
-      "Gifs de Haute",
-      "VHS",
-      "Méta"
-    ],
-    "analyzed_at": "2026-11-01T09:47:51.242524+00:00"
   },
   {
     "id": "6jqvm3",
@@ -252,34 +103,9 @@
     "summary": "",
     "thumbnail": "thumbnails/6jqvm3.webp",
     "tags": [
-      "Manuel Valls",
-      "Parti",
-      "Politique"
+      "Manuel Valls"
     ],
     "analyzed_at": "2026-11-01T09:47:50.755170+00:00"
-  },
-  {
-    "id": "6jledp",
-    "title": "HON HON HON",
-    "url": "http://puu.sh/wuJnp/3283688e90.jpg",
-    "permalink": "/r/france/comments/6jledp/hon_hon_hon/",
-    "created_at": "2017-06-26T14:28:29+00:00",
-    "score": 162,
-    "num_comments": 28,
-    "subreddit": "france",
-    "author": "Code_44",
-    "flair": "Humour",
-    "domain": "puu.sh",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/CewRo5cVkU34_gSEfTlTokwKiCJWVJWD7M_MnB-SoAo.jpg?auto=webp&s=5a189f5b8718be1bdde42c365e273cce6abf6fe2",
-    "ingested_at": "2026-10-31T14:56:47.073264+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/6jledp.webp",
-    "tags": [
-      "HON HON HON",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:47:52.218957+00:00"
   },
   {
     "id": "6jkito",
@@ -299,37 +125,9 @@
     "summary": "Le leader de la France insoumise et député des Bouches-du-Rhône, Jean-Luc Mélenchon, ne souhaite pas invoquer son immunité parlementaire et assure que \"le procès aura lieu\".",
     "thumbnail": "thumbnails/6jkito.webp",
     "tags": [
-      "Jean-Luc Mélenchon",
-      "Panama Papers",
-      "Bouches-du-Rhône",
-      "Paradis fiscaux",
-      "Politique"
+      "Jean-Luc Mélenchon"
     ],
     "analyzed_at": "2026-11-01T09:47:52.225553+00:00"
-  },
-  {
-    "id": "6jjnm4",
-    "title": "Le site Sci-Hub condamné à payer 15 millions $ pour atteinte au droit d'auteur",
-    "url": "https://www.actualitte.com/article/monde-edition/le-site-sci-hub-condamne-a-payer-15-millions-pour-atteinte-au-droit-d-auteur/83499",
-    "permalink": "/r/france/comments/6jjnm4/le_site_scihub_condamné_à_payer_15_millions_pour/",
-    "created_at": "2017-06-26T07:26:49+00:00",
-    "score": 167,
-    "num_comments": 138,
-    "subreddit": "france",
-    "author": "[deleted]",
-    "flair": "Actus",
-    "domain": "actualitte.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/_r3ALCjjKN9tAeVSxUI6wwaFvlyLCtE4rE5pMsJr2oY.jpeg?auto=webp&s=bc5cca5157a3c11af6ccb332278189479c99b1b8",
-    "ingested_at": "2026-10-31T14:56:47.073175+00:00",
-    "summary": "La justice am&eacute;ricaine vient de donner raison &agrave; l'&eacute;diteur scientifique RELX (Elsevier) dans le proc&egrave;s qui&nbsp;l'opposait au site Internet Sci-Hub.",
-    "thumbnail": "thumbnails/6jjnm4.webp",
-    "tags": [
-      "RELX",
-      "Internet Sci-Hub",
-      "Elsevier"
-    ],
-    "analyzed_at": "2026-11-01T09:47:52.397133+00:00"
   },
   {
     "id": "6jdteg",
@@ -348,10 +146,7 @@
     "ingested_at": "2026-10-31T14:56:47.073336+00:00",
     "summary": "J usqu ’à présent, la qualité des médias audiovisuels, public et privé confondus, n’était pas vraiment un sujet. Puis le président de la République découvre que la télévision est mauvaise. Il exige de la culture. En attendant que la culture advienne, l’animateur Patrick Sabatier fait son retour sur le service public.",
     "thumbnail": "thumbnails/6jdteg.webp",
-    "tags": [
-      "Pierre Jourde",
-      "Culture"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:47:52.247357+00:00"
   },
   {
@@ -373,9 +168,8 @@
     "thumbnail": "thumbnails/6jd47g.webp",
     "tags": [
       "Nicolas Hulot",
-      "RMC",
-      "BFMTV",
-      "Politique"
+      "Environnement",
+      "Cause animale"
     ],
     "analyzed_at": "2026-11-01T09:47:53.754999+00:00"
   },
@@ -396,13 +190,7 @@
     "ingested_at": "2026-10-31T14:56:47.073030+00:00",
     "summary": "The dark intergalactic leader introduced Sleaford Mods at Glastonbury – and gave the Guardian an exclusive interview afterwards",
     "thumbnail": "thumbnails/6j9uv8.webp",
-    "tags": [
-      "Theresa May",
-      "Lord Buckethead",
-      "Brexit",
-      "Sleaford Mods",
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:47:52.689110+00:00"
   },
   {
@@ -423,35 +211,10 @@
     "summary": "En vingt ans, la mortalité des abeilles est passée de 5 à 30 %. Les apiculteurs, qui font en plus face à la concurrence étrangère, se retrou",
     "thumbnail": "thumbnails/6j7gib.webp",
     "tags": [
-      "France Agri Mer",
-      "Henri Clément",
-      "Science"
+      "Environnement",
+      "Économie"
     ],
     "analyzed_at": "2026-11-01T09:47:52.720351+00:00"
-  },
-  {
-    "id": "6j3x9y",
-    "title": "Arnold Schwarzenegger's new friend: France's Emmanuel Macron",
-    "url": "https://www.usatoday.com/story/news/politics/onpolitics/2017/06/23/arnold-schwarzenegger-emmanuel-macron-talk-green-future/424071001/",
-    "permalink": "/r/france/comments/6j3x9y/arnold_schwarzeneggers_new_friend_frances/",
-    "created_at": "2017-06-23T20:42:50+00:00",
-    "score": 194,
-    "num_comments": 95,
-    "subreddit": "france",
-    "author": "relaxitwonthurt",
-    "flair": "Politique",
-    "domain": "usatoday.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/n0FL3_PbFWb884xRy39S0A5y-uxpyd_tBPLQHCDvIKY.jpg?auto=webp&s=50efe37cffd271c0f7d5868077d01da2d8226209",
-    "ingested_at": "2026-10-31T14:56:47.072947+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/6j3x9y.webp",
-    "tags": [
-      "Arnold Schwarzenegger's",
-      "France's Emmanuel Macron",
-      "Politique"
-    ],
-    "analyzed_at": "2026-11-01T09:47:52.990766+00:00"
   },
   {
     "id": "6iznyo",
@@ -470,7 +233,9 @@
     "ingested_at": "2026-10-31T14:56:47.073727+00:00",
     "summary": "",
     "thumbnail": "thumbnails/6iznyo.webp",
-    "tags": [],
+    "tags": [
+      "Éducation"
+    ],
     "analyzed_at": "2026-11-01T09:47:54.511220+00:00"
   },
   {
@@ -491,9 +256,7 @@
     "summary": "",
     "thumbnail": "thumbnails/6is812.webp",
     "tags": [
-      "FN",
-      "Louis Aliot",
-      "Politique"
+      "Police"
     ],
     "analyzed_at": "2026-11-01T09:47:53.837588+00:00"
   },
@@ -514,13 +277,7 @@
     "ingested_at": "2026-10-31T14:56:47.072890+00:00",
     "summary": "Une salariée a enchaîné 1117 CDD en douze ans avec le même employeur, la caisse régionale de Sécurité sociale dans les mines, dans le Nord. Son avocate dénonce des contrats illégaux et accuse.",
     "thumbnail": "thumbnails/6iqm5j.webp",
-    "tags": [
-      "CDD",
-      "Nord",
-      "Sécurité",
-      "Sylvie Rausa",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:47:53.008619+00:00"
   },
   {
@@ -544,8 +301,7 @@
       "François Bayrou",
       "Emmanuel Macron",
       "François Hollande",
-      "Nicolas Sarkozy",
-      "Politique"
+      "Nicolas Sarkozy"
     ],
     "analyzed_at": "2026-11-01T09:47:53.945962+00:00"
   },
@@ -566,110 +322,8 @@
     "ingested_at": "2026-10-31T14:56:47.072420+00:00",
     "summary": "Les chauffeurs demandent à la direction de la Semitan de modifier le règlement...",
     "thumbnail": "thumbnails/6ikttd.webp",
-    "tags": [
-      "Semitan"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:47:53.363020+00:00"
-  },
-  {
-    "id": "6ikrzl",
-    "title": "J-L Mélenchon sur Cédric Villani : « Je vais aussi lui expliquer ce qu’est un coiffeur, parce qu’il sait pas »",
-    "url": "http://www.legorafi.fr/2017/06/21/j-l-melenchon-sur-cedric-villani-je-vais-aussi-lui-expliquer-ce-quest-un-coiffeur-parce-quil-sait-pas/",
-    "permalink": "/r/france/comments/6ikrzl/jl_mélenchon_sur_cédric_villani_je_vais_aussi_lui/",
-    "created_at": "2017-06-21T09:41:14+00:00",
-    "score": 183,
-    "num_comments": 65,
-    "subreddit": "france",
-    "author": "Warff_",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/_--r0d7TFSkEQ6wX3lY5nzGaitAXI5n-7-ukUkqgnOM.jpeg?auto=webp&s=3c56347c9e4ba9dc7a37e829b8e5478d721e53ed",
-    "ingested_at": "2026-10-31T14:56:47.073009+00:00",
-    "summary": "La « guéguerre » n’en finit plus entre le leader de la France Insoumise et le député de La République En Marche.",
-    "thumbnail": "thumbnails/6ikrzl.webp",
-    "tags": [
-      "Cédric Villani",
-      "J-L Mélenchon",
-      "Jean-Luc Mélenchon",
-      "France Insoumise",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:47:53.645684+00:00"
-  },
-  {
-    "id": "6ifmsf",
-    "title": "Quand Jean-Luc Mélenchon découvre le drapeau européen dans l'hémicycle...",
-    "url": "https://www.facebook.com/LCP/videos/10155550352531336/",
-    "permalink": "/r/france/comments/6ifmsf/quand_jeanluc_mélenchon_découvre_le_drapeau/",
-    "created_at": "2017-06-20T17:40:17+00:00",
-    "score": 184,
-    "num_comments": 604,
-    "subreddit": "france",
-    "author": "[deleted]",
-    "flair": "Politique",
-    "domain": "facebook.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://b.thumbs.redditmedia.com/lF5C9-2xo6CfE8DV3YV5eEZ_UkSz0OGagylBU4M8tiU.jpg",
-    "ingested_at": "2026-10-31T14:56:47.072989+00:00",
-    "summary": "Quand Jean-Luc Mélenchon découvre le drapeau européen dans l'hémicycle... Reportage : dans les pas des députés de La France insoumise à l'Assemblée. >> http://bit.ly/2sPoX88",
-    "thumbnail": "thumbnails/6ifmsf.webp",
-    "tags": [
-      "Jean-Luc Mélenchon",
-      "Assemblée",
-      "Politique"
-    ],
-    "analyzed_at": "2026-11-01T09:47:56.892979+00:00"
-  },
-  {
-    "id": "6ida3y",
-    "title": "Jean-Marie Le Pen demande la démission de Marine Le Pen",
-    "url": "http://www.boursorama.com/actualites/jean-marie-le-pen-demande-la-demission-de-marine-le-pen-e2453c486c01d3372cbcf42bd8d0ab4f",
-    "permalink": "/r/france/comments/6ida3y/jeanmarie_le_pen_demande_la_démission_de_marine/",
-    "created_at": "2017-06-20T10:53:46+00:00",
-    "score": 163,
-    "num_comments": 61,
-    "subreddit": "france",
-    "author": "Pushapapa",
-    "flair": "Politique",
-    "domain": "boursorama.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/nz8MDQxI5m8FeTOfeIuDsKntjBmQXSdjyq0R4-_J0_o.jpg?auto=webp&s=1533dda395eb284b16fcf9e119ff796ba709c093",
-    "ingested_at": "2026-10-31T14:56:47.073219+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/6ida3y.webp",
-    "tags": [
-      "Jean-Marie le Pen",
-      "Marine le Pen",
-      "Politique"
-    ],
-    "analyzed_at": "2026-11-01T09:48:01.508350+00:00"
-  },
-  {
-    "id": "6i8ozb",
-    "title": "Une femme dans le coma depuis 10 ans élue comme députée avec l'étiquette en Marche",
-    "url": "http://nordpresse.be/femme-coma-10-ans-elue-a-deputee-letiquette-marche/",
-    "permalink": "/r/france/comments/6i8ozb/une_femme_dans_le_coma_depuis_10_ans_élue_comme/",
-    "created_at": "2017-06-19T19:23:35+00:00",
-    "score": 154,
-    "num_comments": 10,
-    "subreddit": "france",
-    "author": "diffperception",
-    "flair": "Humour",
-    "domain": "nordpresse.be",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/Vk1UaK9xx4g9UEhkXRz2JXCr7eu1BZ0iN9u6otD8ii8.png?auto=webp&s=4183fc841446ee056da7398868c54bec1141ba07",
-    "ingested_at": "2026-10-31T14:56:47.073379+00:00",
-    "summary": "Il semble que l’étiquette « En Marche » ai vraiment un réel pouvoir magique électoral puisque Jeanne Dumortier, une jeune femme dans le coma depuis 2007, a été élue comme députée de la 9ème circonscription des Pyrénées Atlantiques.",
-    "thumbnail": "thumbnails/6i8ozb.webp",
-    "tags": [
-      "Marche",
-      "Emmanuel Macron",
-      "Jeanne Dumortier",
-      "Pyrénées Atlantiques",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:47:54.864098+00:00"
   },
   {
     "id": "6i78j8",
@@ -688,9 +342,7 @@
     "ingested_at": "2026-10-31T14:56:47.073700+00:00",
     "summary": "",
     "thumbnail": "thumbnails/6i78j8.webp",
-    "tags": [
-      "Britanniques"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:47:54.326569+00:00"
   },
   {
@@ -711,79 +363,9 @@
     "summary": "Après la déroute du Parti socialiste aux élections législatives, le premier secrétaire du Parti socialiste a annoncé sa démission.",
     "thumbnail": "thumbnails/6i138g.webp",
     "tags": [
-      "Parti",
-      "PS",
-      "Jean-Christophe Cambadélis",
-      "Politique"
+      "Élections"
     ],
     "analyzed_at": "2026-11-01T09:47:54.828378+00:00"
-  },
-  {
-    "id": "6hyr6b",
-    "title": "À tous les Français",
-    "url": "https://ginettedelisle.files.wordpress.com/2015/11/st-pierre-et-miquelon-40.jpg",
-    "permalink": "/r/france/comments/6hyr6b/à_tous_les_français/",
-    "created_at": "2017-06-18T09:00:30+00:00",
-    "score": 254,
-    "num_comments": 24,
-    "subreddit": "france",
-    "author": "Neker",
-    "flair": "Actus",
-    "domain": "ginettedelisle.files.wordpress.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/AaaR-o9iLUEriZ0PeCBzrkJNn_YhdHjhSsKfr6fiixE.jpeg?auto=webp&s=ca0674f05811fee9f1eed8c47bb2249d4add7ce6",
-    "ingested_at": "2026-10-31T14:56:47.072575+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/6hyr6b.webp",
-    "tags": [
-      "Français"
-    ],
-    "analyzed_at": "2026-11-01T09:47:56.492937+00:00"
-  },
-  {
-    "id": "6huq7b",
-    "title": "In dramatic statement, European leaders call for ‘immediate’ open access to all scientific papers by 2020",
-    "url": "https://www.sciencemag.org/news/2016/05/dramatic-statement-european-leaders-call-immediate-open-access-all-scientific-papers",
-    "permalink": "/r/france/comments/6huq7b/in_dramatic_statement_european_leaders_call_for/",
-    "created_at": "2017-06-17T17:43:38+00:00",
-    "score": 373,
-    "num_comments": 44,
-    "subreddit": "france",
-    "author": "Gloorf",
-    "flair": "Science",
-    "domain": "sciencemag.org",
-    "selftext": "",
-    "reddit_thumbnail": "https://a.thumbs.redditmedia.com/usV3gaj1aLawM3dx2Xw7U8zvZzrAwD53Xy1NSx0pjl4.jpg",
-    "ingested_at": "2026-10-31T14:56:47.072378+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/6huq7b.webp",
-    "tags": [
-      "Science"
-    ],
-    "analyzed_at": "2026-11-01T09:47:57.966264+00:00"
-  },
-  {
-    "id": "6hsaju",
-    "title": "Cathédrale Saint-Front, Périgueux, France",
-    "url": "https://c2.staticflickr.com/8/7351/16516197042_a0f0bdc567_o.jpg",
-    "permalink": "/r/france/comments/6hsaju/cathédrale_saintfront_périgueux_france/",
-    "created_at": "2017-06-17T08:03:28+00:00",
-    "score": 146,
-    "num_comments": 13,
-    "subreddit": "france",
-    "author": "loulan",
-    "flair": "Culture",
-    "domain": "c2.staticflickr.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/kdvy9s7A48rw11yr7QQxtih2OmiRrYG_cQTAkztzMao.png?auto=webp&s=845a5613195b2faf7b3064ce9e85240e77a8c700",
-    "ingested_at": "2026-10-31T14:56:47.073488+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/6hsaju.webp",
-    "tags": [
-      "Cathédrale Saint-Front",
-      "Culture"
-    ],
-    "analyzed_at": "2026-11-01T09:48:04.102951+00:00"
   },
   {
     "id": "6hn8tn",
@@ -802,9 +384,7 @@
     "ingested_at": "2026-10-31T14:56:47.072463+00:00",
     "summary": "",
     "thumbnail": "thumbnails/6hn8tn.webp",
-    "tags": [
-      "Helmut Kohl"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:47:55.518953+00:00"
   },
   {
@@ -824,30 +404,8 @@
     "ingested_at": "2026-10-31T14:56:47.072348+00:00",
     "summary": "",
     "thumbnail": "thumbnails/6hks0y.webp",
-    "tags": [
-      "Politique"
-    ],
-    "analyzed_at": "2026-11-01T09:47:55.526994+00:00"
-  },
-  {
-    "id": "6hh3fo",
-    "title": "L’inefficacité de l’état d’urgence est officiellement reconnue",
-    "url": "https://blogs.mediapart.fr/paul-cassia/blog/140617/l-inefficacite-de-l-etat-d-urgence-est-officiellement-reconnue",
-    "permalink": "/r/france/comments/6hh3fo/linefficacité_de_létat_durgence_est/",
-    "created_at": "2017-06-15T18:55:43+00:00",
-    "score": 142,
-    "num_comments": 55,
-    "subreddit": "france",
-    "author": "Kwibuka",
-    "flair": "",
-    "domain": "blogs.mediapart.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/Ep4Vn4lS78LuZClOB6si6Oq4WWMcA8FWqePSjBKQmNE.jpg?auto=webp&s=42b741c5d72df2aa0e76fb437fff4ec61b42bfbd",
-    "ingested_at": "2026-10-31T14:56:47.073532+00:00",
-    "summary": "Pour la première fois depuis le 14 novembre 2015, l’Elysée a reconnu la réalité : l’état d’urgence est inefficace dans la lutte contre le terrorisme. Cela rend d’autant plus inutile sa transfusion an…",
-    "thumbnail": "thumbnails/6hh3fo.webp",
     "tags": [],
-    "analyzed_at": "2026-11-01T09:47:56.721261+00:00"
+    "analyzed_at": "2026-11-01T09:47:55.526994+00:00"
   },
   {
     "id": "6hg23q",
@@ -867,86 +425,9 @@
     "summary": "",
     "thumbnail": "thumbnails/6hg23q.webp",
     "tags": [
-      "Viva Technology"
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T09:48:03.704140+00:00"
-  },
-  {
-    "id": "6hephq",
-    "title": "Levée de l’immunité de Marine Le Pen",
-    "url": "http://www.europarl.europa.eu/news/fr/press-room/20170614IPR77433/levee-de-l-immunite-de-marine-le-pen",
-    "permalink": "/r/france/comments/6hephq/levée_de_limmunité_de_marine_le_pen/",
-    "created_at": "2017-06-15T12:32:17+00:00",
-    "score": 418,
-    "num_comments": 72,
-    "subreddit": "france",
-    "author": "[deleted]",
-    "flair": "Politique",
-    "domain": "europarl.europa.eu",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/s6yU_GUTkRUGR1wtC1-kVhog54QstvBowvMCUgpwJ7s.jpg?auto=webp&s=73530e793a2964d17f88154aa8ee73e426dbcd38",
-    "ingested_at": "2026-10-31T14:56:47.072323+00:00",
-    "summary": "L’immunité parlementaire de Marine Le Pen (ENL, FR) a été levée au Parlement européen jeudi.",
-    "thumbnail": "thumbnails/6hephq.webp",
-    "tags": [
-      "Marine le Pen",
-      "ENL",
-      "FR",
-      "Parlement",
-      "Politique"
-    ],
-    "analyzed_at": "2026-11-01T09:47:56.760089+00:00"
-  },
-  {
-    "id": "6hd9b5",
-    "title": "AJA que après que Sarkozy ait déclaré que \"l'homme africain n'était pas assez entré dans l'Histoire\", la première dame du Mali, professeur d'histoire, à publié un livre intitulé « Petit précis de remise à niveau sur l'histoire africaine à l'usage du président Sarkozy »",
-    "url": "https://fr.m.wikipedia.org/wiki/Adame_Ba_Konaré",
-    "permalink": "/r/france/comments/6hd9b5/aja_que_après_que_sarkozy_ait_déclaré_que_lhomme/",
-    "created_at": "2017-06-15T06:13:40+00:00",
-    "score": 230,
-    "num_comments": 159,
-    "subreddit": "france",
-    "author": "EmuVerges",
-    "flair": "Politique",
-    "domain": "fr.m.wikipedia.org",
-    "selftext": "",
-    "reddit_thumbnail": "",
-    "ingested_at": "2026-10-31T14:56:47.072763+00:00",
-    "summary": "Pour les articles homonymes, voir Konaré et Ba (nom de famille) . Cet article est une ébauche concernant une écrivaine et une personnalité malienne . Adam Ba Konaré est une écrivaine et professeure d’ histoire malienne née le 1 er mai 1947 à Ségou .",
-    "thumbnail": "",
-    "tags": [
-      "Sarkozy",
-      "AJA",
-      "Mali",
-      "Adam Ba Konaré",
-      "Politique"
-    ],
-    "analyzed_at": "2026-11-01T09:47:59.050062+00:00"
-  },
-  {
-    "id": "6h7r41",
-    "title": "Emmanuel Macron va emmener 500 journalistes au Parc Astérix pour les remercier",
-    "url": "http://www.legorafi.fr/2017/06/14/emmanuel-macron-va-emmener-500-journalistes-au-parc-asterix-pour-les-remercier/",
-    "permalink": "/r/france/comments/6h7r41/emmanuel_macron_va_emmener_500_journalistes_au/",
-    "created_at": "2017-06-14T14:14:45+00:00",
-    "score": 173,
-    "num_comments": 13,
-    "subreddit": "france",
-    "author": "[deleted]",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/Dq3kt4BdtV863H1xo8k3VaF4GMXe_QBqs4fNOSvQ8f4.jpg?auto=webp&s=8b2db411331ce5591f5a0180563d01ea95abcd2a",
-    "ingested_at": "2026-10-31T14:56:47.073094+00:00",
-    "summary": "Le chef de l'État s’en ira, accompagné de 500 journalistes tirés au sort parmi ses soutiens, pour une journée de détente au Parc Astérix. Un geste visant à témoigner sa gratitude envers le travail fourni lors des dernières élections législatives.",
-    "thumbnail": "thumbnails/6h7r41.webp",
-    "tags": [
-      "Emmanuel Macron",
-      "Parc Astérix",
-      "État",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:47:56.985404+00:00"
   },
   {
     "id": "6h6eot",
@@ -986,10 +467,7 @@
     "summary": "Depuis la découverte en janvier 2011 d’une photo de Hitler dans les locaux de la compagnie républicaine de sécurité de Perpignan, le policier qui l'avait dénoncée dit être victime du harcèlement mora…",
     "thumbnail": "thumbnails/6h316j.webp",
     "tags": [
-      "Hitler",
-      "CRS",
-      "Perpignan",
-      "Société"
+      "Police"
     ],
     "analyzed_at": "2026-11-01T09:47:57.911962+00:00"
   },
@@ -1011,11 +489,9 @@
     "summary": "Oeil pour oeil. Au premier tour, il soutenait le communiste. Pour le second, Benoît Hamon donne sa voix à Farida Amrani, arrivée 2e dans l'E",
     "thumbnail": "thumbnails/6gzp9h.webp",
     "tags": [
-      "Essonne",
-      "Valls",
+      "Manuel Valls",
       "Benoît Hamon",
-      "Farida Amrani",
-      "Politique"
+      "Élections"
     ],
     "analyzed_at": "2026-11-01T09:47:58.307350+00:00"
   },
@@ -1036,37 +512,8 @@
     "ingested_at": "2026-10-31T14:56:47.072302+00:00",
     "summary": "Le surpoids et l’obésité ont progressé plus vite chez les enfants que chez les adultes sur les 35 dernières années.",
     "thumbnail": "thumbnails/6gy0dy.webp",
-    "tags": [
-      "Chirurgie de l'obésité",
-      "Obésité infantile",
-      "Obésité et surpoids",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:47:58.945430+00:00"
-  },
-  {
-    "id": "6gxxgf",
-    "title": "La troisième plus longue avenue rectiligne d'Europe, à Grenoble",
-    "url": "https://c1.staticflickr.com/5/4219/34945777425_6d8440f13f_o.jpg",
-    "permalink": "/r/france/comments/6gxxgf/la_troisième_plus_longue_avenue_rectiligne/",
-    "created_at": "2017-06-13T05:38:46+00:00",
-    "score": 217,
-    "num_comments": 74,
-    "subreddit": "france",
-    "author": "loulan",
-    "flair": "Culture",
-    "domain": "c1.staticflickr.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/b0X3XstyzFYeonmTkTDbzDWOZ_Ed5kCBfxgw_2Oy31s.jpg?auto=webp&s=673368abe01bc1f75ceac4041c790d11598861c1",
-    "ingested_at": "2026-10-31T14:56:47.072848+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/6gxxgf.webp",
-    "tags": [
-      "Europe",
-      "Grenoble",
-      "Culture"
-    ],
-    "analyzed_at": "2026-11-01T09:47:59.717878+00:00"
   },
   {
     "id": "6gxvtw",
@@ -1085,100 +532,8 @@
     "ingested_at": "2026-10-31T14:56:47.073444+00:00",
     "summary": "The soldier filmed the assaults on two girls aged three and five - but left the camera behind.",
     "thumbnail": "thumbnails/6gxvtw.webp",
-    "tags": [
-      "Burkina Faso",
-      "French",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:47:59.661199+00:00"
-  },
-  {
-    "id": "6grjk6",
-    "title": "Réponse à une maman antivax",
-    "url": "http://menace-theoriste.fr/reponse-maman-antivax/",
-    "permalink": "/r/france/comments/6grjk6/réponse_à_une_maman_antivax/",
-    "created_at": "2017-06-12T11:06:41+00:00",
-    "score": 114,
-    "num_comments": 141,
-    "subreddit": "france",
-    "author": "[deleted]",
-    "flair": "Science",
-    "domain": "menace-theoriste.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/tUKSbAxLtHVjeUfTRWQwp_15yBwQHKQftPnQONZi9UY.jpg?auto=webp&s=0a834775a36b876f02c964ef6995669da287936a",
-    "ingested_at": "2026-10-31T14:56:47.073796+00:00",
-    "summary": "« Les faits ne pénètrent pas dans le monde où vivent nos croyances, ils n’ont pas fait naître celles-ci, ils ne les détruisent pas ; ils peuvent leur infliger les plus constants démentis sans les affaiblir, et une avalanche de malheurs ou de maladies se succédant sans interruption dans une famille,",
-    "thumbnail": "thumbnails/6grjk6.webp",
-    "tags": [
-      "Science"
-    ],
-    "analyzed_at": "2026-11-01T09:47:59.468305+00:00"
-  },
-  {
-    "id": "6gr5f2",
-    "title": "Représentation en \"biscuits\" du résultat des élections.",
-    "url": "http://lelensoisnormand.e.l.f.unblog.fr/files/2011/01/rem004.jpg",
-    "permalink": "/r/france/comments/6gr5f2/représentation_en_biscuits_du_résultat_des/",
-    "created_at": "2017-06-12T09:24:18+00:00",
-    "score": 128,
-    "num_comments": 21,
-    "subreddit": "france",
-    "author": "LudwigDeLarge",
-    "flair": "Humour",
-    "domain": "lelensoisnormand.e.l.f.unblog.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/-619FFAKejdrMV0KcNEfbyWfqW5DfC-3rH_kOE2fwUw.jpeg?auto=webp&s=69699ea4b51e4696d66171b68d263db31ca33a89",
-    "ingested_at": "2026-10-31T14:56:47.073657+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/6gr5f2.webp",
-    "tags": [
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:47:59.441624+00:00"
-  },
-  {
-    "id": "6gkdh9",
-    "title": "Groland - Les caprices de bébé",
-    "url": "https://www.facebook.com/BienvenueAuGroland/videos/1559146244095918/",
-    "permalink": "/r/france/comments/6gkdh9/groland_les_caprices_de_bébé/",
-    "created_at": "2017-06-11T08:22:54+00:00",
-    "score": 141,
-    "num_comments": 11,
-    "subreddit": "france",
-    "author": "Amiral_Poitou",
-    "flair": "Humour",
-    "domain": "facebook.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/tYCM9QuQYgrD33WyocO3Ok6NxGAgMFeFJuHZs14H_ro.jpg?auto=webp&s=659db0f2dc7423736df7af760612983654c8f25c",
-    "ingested_at": "2026-10-31T14:56:47.073573+00:00",
-    "summary": "\"Piquer une colère pour l'enfant, fait partie de sa stratégie pour gagner quelque chose\"... Ça ne vous rappelle personne ?",
-    "thumbnail": "thumbnails/6gkdh9.webp",
-    "tags": [
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:48:01.728607+00:00"
-  },
-  {
-    "id": "6gk6ja",
-    "title": "Prudhomat, Lot, France",
-    "url": "https://c1.staticflickr.com/9/8609/27749730683_c8920de02a_o.jpg",
-    "permalink": "/r/france/comments/6gk6ja/prudhomat_lot_france/",
-    "created_at": "2017-06-11T07:17:10+00:00",
-    "score": 761,
-    "num_comments": 18,
-    "subreddit": "france",
-    "author": "loulan",
-    "flair": "Culture",
-    "domain": "c1.staticflickr.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/sCobMTK8DoXlKRd6zvOwzcJDirRyw_5tU72g_YYmWM0.jpg?auto=webp&s=332f11ceaf69a7bed149e07875155ac110d25fda",
-    "ingested_at": "2026-10-31T14:56:47.072254+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/6gk6ja.webp",
-    "tags": [
-      "Culture"
-    ],
-    "analyzed_at": "2026-11-01T09:48:03.700445+00:00"
   },
   {
     "id": "6gdvt8",
@@ -1197,10 +552,7 @@
     "ingested_at": "2026-10-31T14:56:47.073818+00:00",
     "summary": "L'outil de chiffrement libre GnuPG lance une campagne de dons afin d'assurer son financement, et espère récolter au moins 15 000 euros par mois pour…",
     "thumbnail": "thumbnails/6gdvt8.webp",
-    "tags": [
-      "GnuPG",
-      "Technos"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:48:00.104019+00:00"
   },
   {
@@ -1221,7 +573,7 @@
     "summary": "",
     "thumbnail": "thumbnails/6gc1ui.webp",
     "tags": [
-      "Loi Travail"
+      "Éducation"
     ],
     "analyzed_at": "2026-11-01T09:48:04.881568+00:00"
   },
@@ -1243,10 +595,7 @@
     "summary": "Le Luxembourg, adepte du secret bancaire, va accueillir le futur parquet antifraude de l’Union européenne. La mission de cette instance judiciaire : surveiller la distribution des subventions européennes. Vingt pays y participent pour l’instant, dont la France.",
     "thumbnail": "thumbnails/6g7phq.webp",
     "tags": [
-      "Luxembourg",
-      "UE",
-      "Union",
-      "Politique"
+      "Union européenne"
     ],
     "analyzed_at": "2026-11-01T09:48:00.678496+00:00"
   },
@@ -1268,7 +617,7 @@
     "summary": "",
     "thumbnail": "thumbnails/6g73c2.webp",
     "tags": [
-      "Conseil"
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T09:48:00.598684+00:00"
   },
@@ -1289,54 +638,8 @@
     "ingested_at": "2026-10-31T14:56:47.072720+00:00",
     "summary": "",
     "thumbnail": "thumbnails/6g6s49.webp",
-    "tags": [
-      "Arabie Saoudite",
-      "Londres"
-    ],
-    "analyzed_at": "2026-11-01T09:48:02.284124+00:00"
-  },
-  {
-    "id": "6g2pku",
-    "title": "Les socialistes appellent Emmanuel Macron à renoncer à son projet d’état d’urgence permanent qui porte atteinte à l’état de droit - Parti socialiste",
-    "url": "http://www.parti-socialiste.fr/socialistes-appellent-emmanuel-macron-a-renoncer-a-projet-detat-durgence-permanent-porte-atteinte-a-letat-de-droit/",
-    "permalink": "/r/france/comments/6g2pku/les_socialistes_appellent_emmanuel_macron_à/",
-    "created_at": "2017-06-08T18:13:41+00:00",
-    "score": 171,
-    "num_comments": 87,
-    "subreddit": "france",
-    "author": "[deleted]",
-    "flair": "Politique",
-    "domain": "parti-socialiste.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/qXVRlEXw9vY2LAZPh-ya_e6KZfcwG0enNMToymFi3NU.png?auto=webp&s=18512889cedb6300fc7855cb6bdc3206cc91ddba",
-    "ingested_at": "2026-10-31T14:56:47.073114+00:00",
-    "summary": "Socialistes, nous sommes fiers de nos valeurs. Nous agissons pour construire un espace publique qui incarne l’intérêt général des citoyens.",
-    "thumbnail": "thumbnails/6g2pku.webp",
-    "tags": [
-      "Emmanuel Macron",
-      "Politique"
-    ],
-    "analyzed_at": "2026-11-01T09:48:01.598404+00:00"
-  },
-  {
-    "id": "6g0m4w",
-    "title": "L'intégralité du projet de loi visant à transférer les mesures de l'état d'urgence dans le droit commun",
-    "url": "https://www.scribd.com/document/350713224/Avant-projet-de-loi-antiterroriste-du-7-juin-2017-source-Le-Monde?secret_password=HOl7mwY7eR309tfNPyiq#from_embed",
-    "permalink": "/r/france/comments/6g0m4w/lintégralité_du_projet_de_loi_visant_à_transférer/",
-    "created_at": "2017-06-08T12:24:01+00:00",
-    "score": 161,
-    "num_comments": 132,
-    "subreddit": "france",
-    "author": "Pastille1312",
-    "flair": "Actus",
-    "domain": "scribd.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://b.thumbs.redditmedia.com/vKW7HuQf0bmgSibaE42nKEVMZSTBIl3mpOCzBrwuEhE.jpg",
-    "ingested_at": "2026-10-31T14:56:47.073287+00:00",
-    "summary": "Avant-projet de loi antiterroriste du 7 juin 2017 (source : Le Monde)",
-    "thumbnail": "thumbnails/6g0m4w.webp",
     "tags": [],
-    "analyzed_at": "2026-11-01T09:48:02.624740+00:00"
+    "analyzed_at": "2026-11-01T09:48:02.284124+00:00"
   },
   {
     "id": "6fz4gq",
@@ -1355,9 +658,7 @@
     "ingested_at": "2026-10-31T14:56:47.073553+00:00",
     "summary": "",
     "thumbnail": "thumbnails/6fz4gq.webp",
-    "tags": [
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:48:02.027817+00:00"
   },
   {
@@ -1378,32 +679,10 @@
     "summary": "",
     "thumbnail": "thumbnails/6fsoq4.webp",
     "tags": [
-      "Philippe"
+      "Emmanuel Macron",
+      "Libertés publiques"
     ],
     "analyzed_at": "2026-11-01T09:48:02.175494+00:00"
-  },
-  {
-    "id": "6frj4d",
-    "title": "Château de Pierrefonds, Oise, France",
-    "url": "https://c1.staticflickr.com/3/2936/33140639621_7fc533390c_o.jpg",
-    "permalink": "/r/france/comments/6frj4d/château_de_pierrefonds_oise_france/",
-    "created_at": "2017-06-07T05:42:58+00:00",
-    "score": 337,
-    "num_comments": 40,
-    "subreddit": "france",
-    "author": "loulan",
-    "flair": "Culture",
-    "domain": "c1.staticflickr.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/eMaQnVUQeBwbXgUDGdTucx-fSCeSLFQsyEhPIm8J6sQ.jpg?auto=webp&s=a70be77d0be99aef27a1bae01f8077750bcb8899",
-    "ingested_at": "2026-10-31T14:56:47.072442+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/6frj4d.webp",
-    "tags": [
-      "Pierrefonds",
-      "Culture"
-    ],
-    "analyzed_at": "2026-11-01T09:48:06.949021+00:00"
   },
   {
     "id": "6fm5d2",
@@ -1423,9 +702,8 @@
     "summary": "",
     "thumbnail": "thumbnails/6fm5d2.webp",
     "tags": [
-      "Qatar",
-      "Macron",
-      "Politique"
+      "Emmanuel Macron",
+      "François Bayrou"
     ],
     "analyzed_at": "2026-11-01T09:48:03.669692+00:00"
   },
@@ -1447,11 +725,7 @@
     "summary": "INFO LE FIGARO - Selon le dernier baromètre réalisé par Fiducial/Odoxa, la proposition de renforcer la sécurité dans les quartiers est jugée comme une mesure «efficace». Par ailleurs, 69% des sondés sont favorables à une amende pour les consommateurs de cannabis.",
     "thumbnail": "thumbnails/6fjteo.webp",
     "tags": [
-      "Français",
-      "Amendes",
-      "Police de proximité",
-      "Sondage",
-      "Société"
+      "Police"
     ],
     "analyzed_at": "2026-11-01T09:48:03.499448+00:00"
   },
@@ -1472,9 +746,7 @@
     "ingested_at": "2026-10-31T14:56:47.073770+00:00",
     "summary": "",
     "thumbnail": "thumbnails/6fff7b.webp",
-    "tags": [
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:48:04.098818+00:00"
   },
   {
@@ -1494,10 +766,7 @@
     "ingested_at": "2026-10-31T14:56:47.072697+00:00",
     "summary": "",
     "thumbnail": "thumbnails/6fe4x1.webp",
-    "tags": [
-      "Foodora",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:48:03.980886+00:00"
   },
   {
@@ -1519,9 +788,7 @@
     "thumbnail": "thumbnails/6f74gb.webp",
     "tags": [
       "Jean-Luc Mélenchon",
-      "Marseille",
-      "Bouches-du-Rhône",
-      "Politique"
+      "Élections"
     ],
     "analyzed_at": "2026-11-01T09:48:04.344740+00:00"
   },
@@ -1542,10 +809,7 @@
     "ingested_at": "2026-10-31T14:56:47.073593+00:00",
     "summary": "Three suspects are shot dead by police after a van and knife attack at London Bridge and Borough Market killed seven people and injured at least 48 others.",
     "thumbnail": "thumbnails/6f3t2n.webp",
-    "tags": [
-      "London Bridge",
-      "Borough Market"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:48:05.155451+00:00"
   },
   {
@@ -1566,39 +830,9 @@
     "summary": "Au lendemain de l’annonce du retrait des Etats-Unis de l’accord de Paris par Donald Trump, la diplomatie française a riposté sur les réseaux sociaux..",
     "thumbnail": "thumbnails/6f0nne.webp",
     "tags": [
-      "Paris",
-      "Twitter du Quai Orsay",
-      "Maison Blanche",
-      "Etats-Unis",
-      "Politique"
+      "Donald Trump"
     ],
     "analyzed_at": "2026-11-01T09:48:04.218310+00:00"
-  },
-  {
-    "id": "6ezn3t",
-    "title": "As America's FCC tries to dismantle NN, French authorities back net neutrality in France",
-    "url": "https://www.privateinternetaccess.com/blog/2017/06/americas-fcc-tries-dismantle-nn-french-authorities-back-net-neutrality-france/",
-    "permalink": "/r/france/comments/6ezn3t/as_americas_fcc_tries_to_dismantle_nn_french/",
-    "created_at": "2017-06-03T05:41:25+00:00",
-    "score": 681,
-    "num_comments": 99,
-    "subreddit": "france",
-    "author": "CCV21",
-    "flair": "Technos",
-    "domain": "privateinternetaccess.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/lPe9OqLIWvgGY2FZcB8xRrkgUDZx8r6vmFYm4bqnv5Y.png?auto=webp&s=51456efee3d6173708c9d92765f20271ae3a8212",
-    "ingested_at": "2026-10-31T14:56:47.072277+00:00",
-    "summary": "In sharp and deliberate contrast to America's bullheaded rush into destroying net neutrality protections, net neutrality in France is alive and well.",
-    "thumbnail": "thumbnails/6ezn3t.webp",
-    "tags": [
-      "As America's FCC",
-      "NN",
-      "ARCEP",
-      "America's",
-      "Technos"
-    ],
-    "analyzed_at": "2026-11-01T09:48:08.000841+00:00"
   },
   {
     "id": "6ev2vm",
@@ -1618,86 +852,10 @@
     "summary": "Si la décision du président était une promesse faite à son électorat climatosceptique, l'influence des industriels au sein des Républicains est indéniable.",
     "thumbnail": "thumbnails/6ev2vm.webp",
     "tags": [
-      "Paris",
-      "Donald Trump",
-      "International",
-      "Etats-Unis",
-      "Politique"
+      "Institutions",
+      "Donald Trump"
     ],
     "analyzed_at": "2026-11-01T09:48:04.553566+00:00"
-  },
-  {
-    "id": "6esx6c",
-    "title": "Go Green! (par @UnPied sur Twitter)",
-    "url": "https://pbs.twimg.com/media/DBTINMwWsAI805p.jpg",
-    "permalink": "/r/france/comments/6esx6c/go_green_par_unpied_sur_twitter/",
-    "created_at": "2017-06-02T07:27:13+00:00",
-    "score": 244,
-    "num_comments": 26,
-    "subreddit": "france",
-    "author": "moviuro",
-    "flair": "Humour",
-    "domain": "pbs.twimg.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/HJ_kWgx6Ff_JJjdfrrXqh67FDjgSXNUVnvuapSjz7_s.jpg?auto=webp&s=1a599ae88ee17b6d249349a0c54ece1a808731f4",
-    "ingested_at": "2026-10-31T14:56:47.072618+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/6esx6c.webp",
-    "tags": [
-      "Go Green",
-      "UnPied",
-      "Twitter",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:48:10.144222+00:00"
-  },
-  {
-    "id": "6esvpy",
-    "title": "How Americans can move to France (and stay here)",
-    "url": "https://www.thelocal.fr/20170602/how-an-american-can-move-to-france",
-    "permalink": "/r/france/comments/6esvpy/how_americans_can_move_to_france_and_stay_here/",
-    "created_at": "2017-06-02T07:15:26+00:00",
-    "score": 159,
-    "num_comments": 49,
-    "subreddit": "france",
-    "author": "QuoiLaBaise",
-    "flair": "Société",
-    "domain": "thelocal.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://a.thumbs.redditmedia.com/jnqDfnlvYbLG5ERdNh2R7A9eGDc99Czfgz8o92tvvv0.jpg",
-    "ingested_at": "2026-10-31T14:56:47.073315+00:00",
-    "summary": "Whether you're nurturing a long-held dream or just planning to flee the country, here is everything you need to know about moving to France as an American.",
-    "thumbnail": "thumbnails/6esvpy.webp",
-    "tags": [
-      "How Americans",
-      "American",
-      "French",
-      "Americans",
-      "Société"
-    ],
-    "analyzed_at": "2026-11-01T09:48:05.457015+00:00"
-  },
-  {
-    "id": "6epnc2",
-    "title": "Les Guignols De L'Info - We fuck the world",
-    "url": "http://www.dailymotion.com/video/x2vcxjy",
-    "permalink": "/r/france/comments/6epnc2/les_guignols_de_linfo_we_fuck_the_world/",
-    "created_at": "2017-06-01T20:42:40+00:00",
-    "score": 2967,
-    "num_comments": 300,
-    "subreddit": "france",
-    "author": "asimovwasright",
-    "flair": "Actus",
-    "domain": "dailymotion.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/xYIOQVi4UXl8wsAEXD-OupK31YbNYrmIsBpcYXBDmvU.jpeg?auto=webp&s=a31880c2c17c886b39b07fb94353c1eda54ac998",
-    "ingested_at": "2026-10-31T14:56:47.072185+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/6epnc2.webp",
-    "tags": [
-      "Guignols"
-    ],
-    "analyzed_at": "2026-11-01T09:48:04.724388+00:00"
   },
   {
     "id": "6ep7h1",
@@ -1718,9 +876,7 @@
     "thumbnail": "thumbnails/6ep7h1.webp",
     "tags": [
       "Donald Trump",
-      "Etats-Unis",
-      "Paris",
-      "Société"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T09:48:05.078845+00:00"
   },
@@ -1742,8 +898,7 @@
     "summary": "",
     "thumbnail": "thumbnails/6emtba.webp",
     "tags": [
-      "François Bayrou",
-      "Politique"
+      "François Bayrou"
     ],
     "analyzed_at": "2026-11-01T09:48:05.080866+00:00"
   },
@@ -1765,8 +920,7 @@
     "summary": "",
     "thumbnail": "thumbnails/6el9xm.webp",
     "tags": [
-      "Karachi",
-      "Politique"
+      "Justice"
     ],
     "analyzed_at": "2026-11-01T09:48:05.323496+00:00"
   }

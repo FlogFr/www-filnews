@@ -1,29 +1,5 @@
 [
   {
-    "id": "1ch7l24",
-    "title": "Le Congrès américain menace la CPI sur le sujet des mandats d'arrêt israéliens",
-    "url": "https://www.axios.com/2024/04/29/icc-congress-netanyahu-israel-gaza",
-    "permalink": "/r/france/comments/1ch7l24/le_congrès_américain_menace_la_cpi_sur_le_sujet/",
-    "created_at": "2024-04-30T23:45:44+00:00",
-    "score": 90,
-    "num_comments": 20,
-    "subreddit": "france",
-    "author": "roux-cool",
-    "flair": "Société",
-    "domain": "axios.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/CCFkLvLC9otFoeyYbZvXJSCc9e_hC9RQ4ac6e1sb2_8.jpeg?auto=webp&s=1e95147d074db4fbd9cc15405a64aa48f4d70a8b",
-    "ingested_at": "2026-11-01T10:52:40.123334+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/1ch7l24.webp",
-    "tags": [
-      "Congrès",
-      "CPI",
-      "Société"
-    ],
-    "analyzed_at": "2026-11-01T10:59:56.022364+00:00"
-  },
-  {
     "id": "1cglrh7",
     "title": "Les PDG du CAC 40 ont gagné 130 fois plus que leurs salariés en 2022, dénonce un rapport d'Oxfam",
     "url": "https://www.francetvinfo.fr/economie/entreprises/salaires-des-grands-patrons/les-pdg-du-cac-40-ont-gagne-130-fois-plus-que-leurs-salaries-en-2022-denonce-un-rapport-d-oxfam_6515993.html",
@@ -41,11 +17,7 @@
     "summary": "Selon l'ONG, entre 2019 et 2022, la rémunération des PDG des 40 entreprises les plus importantes à la Bourse de Paris \"a augmenté de 27%\" alors que le salaire moyen au sein de ces groupes \"n'a augmenté que de 9%\".",
     "thumbnail": "thumbnails/1cglrh7.webp",
     "tags": [
-      "Oxfam",
-      "PDG du CAC 40",
-      "ONG",
-      "PDG des 40",
-      "Économie"
+      "Travail"
     ],
     "analyzed_at": "2026-11-01T10:59:51.101375+00:00"
   },
@@ -67,8 +39,7 @@
     "summary": "",
     "thumbnail": "thumbnails/1cglnur.webp",
     "tags": [
-      "Arnaud Lagardère",
-      "Politique"
+      "Justice"
     ],
     "analyzed_at": "2026-11-01T10:59:51.011071+00:00"
   },
@@ -90,11 +61,7 @@
     "summary": "Un millier de personnes ont appelé à l’instauration d’un califat à Hambourg en Allemagne. L’association organisatrice, proche des Frères musulmans, a déjà fait parler d’elle lors de précédentes démonstrations de rue.",
     "thumbnail": "thumbnails/1cgafsk.webp",
     "tags": [
-      "Allemagne",
-      "Hambourg",
-      "Frères",
-      "Muslim Interaktiv",
-      "Société"
+      "Manifestations"
     ],
     "analyzed_at": "2026-11-01T10:59:51.459766+00:00"
   },
@@ -116,9 +83,8 @@
     "summary": "Le vidéaste Papacito était mis en cause pour deux longues vidéos, mises en ligne en novembre 2022 puis en mai 2023, dans lesquelles il prena",
     "thumbnail": "thumbnails/1cgabsk.webp",
     "tags": [
-      "Papacito",
-      "Montjoi",
-      "Fait Divers"
+      "Justice",
+      "Extrême droite"
     ],
     "analyzed_at": "2026-11-01T10:59:51.459179+00:00"
   },
@@ -140,9 +106,7 @@
     "summary": "",
     "thumbnail": "thumbnails/1cg396r.webp",
     "tags": [
-      "Châteauroux",
-      "Afghan de 15",
-      "Fait Divers"
+      "Police"
     ],
     "analyzed_at": "2026-11-01T10:59:52.796984+00:00"
   },
@@ -164,9 +128,8 @@
     "summary": "Cette annonce intervient notamment après la manifestation pro-Palestine vendredi 26 avril dernier. À l'issue de cette dernière, la direction de Sciences Po Paris avait annoncé un accord trouvé avec les étudiants.",
     "thumbnail": "thumbnails/1cg31qw.webp",
     "tags": [
-      "Sciences Po Paris",
       "Valérie Pécresse",
-      "Politique"
+      "Manifestations"
     ],
     "analyzed_at": "2026-11-01T10:59:51.601730+00:00"
   },
@@ -188,11 +151,7 @@
     "summary": "Gérard Depardieu a été convoqué, ce lundi 29 avril dans la matinée, pour potentiellement être placé en garde à vue afin de répondre d’accusations d’agressions sexuelles. En fin de journée, le parquet a indiqué qu’il...",
     "thumbnail": "thumbnails/1cfunfc.webp",
     "tags": [
-      "Gérard Depardieu",
-      "Paris",
-      "Charlotte Arnould",
-      "Jean Becker",
-      "Société"
+      "Violences sexuelles"
     ],
     "analyzed_at": "2026-11-01T10:59:52.337531+00:00"
   },
@@ -213,10 +172,7 @@
     "ingested_at": "2026-11-01T10:52:40.122616+00:00",
     "summary": "",
     "thumbnail": "thumbnails/1cf53gc.webp",
-    "tags": [
-      "Amérique",
-      "Européens"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:59:51.927002+00:00"
   },
   {
@@ -237,11 +193,7 @@
     "summary": "Paul Dallison writes Declassified , a weekly satirical column. Spare a thought for Louis Sarkozy, the son of former French president and legal trouble enthusiast Nicolas Sarkozy. He has a tough life.",
     "thumbnail": "thumbnails/1cf3c3l.webp",
     "tags": [
-      "Nicolas Sarkozy's",
-      "Louis Sarkozy",
-      "Declassified",
-      "Nicolas Sarkozy",
-      "Humour"
+      "Nicolas Sarkozy"
     ],
     "analyzed_at": "2026-11-01T10:59:52.340997+00:00"
   },
@@ -263,7 +215,7 @@
     "summary": "",
     "thumbnail": "thumbnails/1ceo8mz.webp",
     "tags": [
-      "Écologie"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T10:59:52.398539+00:00"
   },
@@ -285,10 +237,9 @@
     "summary": "Le premier ministre a accusé «une minorité (d’étudiants) agitée par des forces politiques notamment La France Insoumise (de) chercher à perturber le fonctionnement de cette institution».",
     "thumbnail": "thumbnails/1ceenlw.webp",
     "tags": [
-      "Sciences Po",
       "Gabriel Attal",
-      "France Insoumise",
-      "Politique"
+      "Éducation",
+      "Manifestations"
     ],
     "analyzed_at": "2026-11-01T10:59:53.476515+00:00"
   },
@@ -309,33 +260,8 @@
     "ingested_at": "2026-11-01T10:52:40.123145+00:00",
     "summary": "Le premier site français sur l'actualité des jeux vidéo a connu une véritable inflexion depuis 2014, reléguant les contenus journalistiques au second plan. 15 anciens et actuels salariés racontent à Arrêt sur images les coulisses de ce basculement.",
     "thumbnail": "thumbnails/1cdidhk.webp",
-    "tags": [
-      "Arrêt"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:59:54.396678+00:00"
-  },
-  {
-    "id": "1cdgfcx",
-    "title": "Six nourrissons sont sauvés chaque minute dans le monde, grâce aux vaccins.",
-    "url": "https://www.madmoizelle.com/six-nourrissons-sont-sauves-chaque-minute-dans-le-monde-grace-aux-vaccins-selon-loms-1749907",
-    "permalink": "/r/france/comments/1cdgfcx/six_nourrissons_sont_sauvés_chaque_minute_dans_le/",
-    "created_at": "2024-04-26T08:46:12+00:00",
-    "score": 190,
-    "num_comments": 51,
-    "subreddit": "france",
-    "author": "[deleted]",
-    "flair": "Science",
-    "domain": "madmoizelle.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/Z3b73IzGYWq27jTSau6iidWWMOn3-ZOLCN1qXKRfgQY.jpeg?auto=webp&s=8682a1f50a6f578685de1ef7be5936beb7dd4094",
-    "ingested_at": "2026-11-01T10:52:40.123202+00:00",
-    "summary": "L’organisation mondiale de la santé (OMS) a publié une étude sur les conséquences positives de la vaccination de masse.",
-    "thumbnail": "thumbnails/1cdgfcx.webp",
-    "tags": [
-      "OMS",
-      "Science"
-    ],
-    "analyzed_at": "2026-11-01T10:59:53.401176+00:00"
   },
   {
     "id": "1ccpilk",
@@ -355,8 +281,8 @@
     "summary": "",
     "thumbnail": "thumbnails/1ccpilk.webp",
     "tags": [
-      "Cher Jordan Bardella",
-      "Politique"
+      "Jordan Bardella",
+      "Racisme"
     ],
     "analyzed_at": "2026-11-01T10:59:53.340652+00:00"
   },
@@ -377,13 +303,7 @@
     "ingested_at": "2026-11-01T10:52:40.121723+00:00",
     "summary": "De jeunes apprentis de l'enseigne de grande distribution décrivent des tâches similaires à celles de leurs collègues en CDI et un volet formation bien plus léger qu'annoncé. Les syndicats estiment qu'ils servent de main-d'œuvre bon marché.",
     "thumbnail": "thumbnails/1ccm08h.webp",
-    "tags": [
-      "Carrefour",
-      "CDI",
-      "Carrière",
-      "Éco / Conso",
-      "Économie"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:59:53.095470+00:00"
   },
   {
@@ -403,13 +323,7 @@
     "ingested_at": "2026-11-01T10:52:40.122522+00:00",
     "summary": "En difficulté, la société New Duralex International avait sollicité l'ouverture de cette procédure pour espérer sauver son usine dans le Loiret qui emploie 230 salariés.",
     "thumbnail": "thumbnails/1cc3mea.webp",
-    "tags": [
-      "Duralex",
-      "New Duralex International",
-      "Loiret",
-      "Mobilisations",
-      "Économie"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:59:53.431756+00:00"
   },
   {
@@ -431,7 +345,9 @@
     "thumbnail": "thumbnails/1cc2mqn.webp",
     "tags": [
       "Gérald Darmanin",
-      "Politique"
+      "Police",
+      "LGBT+",
+      "Grèves et syndicats"
     ],
     "analyzed_at": "2026-11-01T10:59:57.040414+00:00"
   },
@@ -454,10 +370,8 @@
     "thumbnail": "thumbnails/1cbwxyu.webp",
     "tags": [
       "François Fillon",
-      "Assemblée",
-      "Affaire Fillon",
-      "Conseil",
-      "Politique"
+      "Justice",
+      "Corruption"
     ],
     "analyzed_at": "2026-11-01T10:59:54.513841+00:00"
   },
@@ -478,12 +392,7 @@
     "ingested_at": "2026-11-01T10:52:40.122805+00:00",
     "summary": "«Les parents doivent se mêler plus de la vie de leurs enfants pour les protéger», a estimé mardi la secrétaire d’État chargée de la Ville et de la Citoyenneté alors que plusieurs faits divers impliquant des mineurs ont émaillé l’actualité ces derniers jours.",
     "thumbnail": "thumbnails/1cbtd96.webp",
-    "tags": [
-      "Sabrina Agresti-Roubache",
-      "État",
-      "Ville et de la Citoyenneté",
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:59:55.710230+00:00"
   },
   {
@@ -505,10 +414,9 @@
     "thumbnail": "thumbnails/1cb2c7b.webp",
     "tags": [
       "Mathilde Panot",
-      "LFI",
-      "La France Insoumise",
-      "Assemblée",
-      "Politique"
+      "Police",
+      "Terrorisme",
+      "Jean-Luc Mélenchon"
     ],
     "analyzed_at": "2026-11-01T10:59:54.572765+00:00"
   },
@@ -530,11 +438,7 @@
     "summary": "Ce lundi 22 avril, Mediapart a dévoilé que la célèbre marque de luxe Chanel vendait certaines de ses pièces en réalité produites par des personnes en formation, rémunérées par France Travail (ex-Pôle emploi). Sélectionnées via le dispositif AFPR, deux personnes ont témoigné.",
     "thumbnail": "thumbnails/1cazabz.webp",
     "tags": [
-      "Chanel",
-      "France Travail",
-      "AFPR",
-      "Isabelle",
-      "Reconversion"
+      "Travail"
     ],
     "analyzed_at": "2026-11-01T10:59:54.183893+00:00"
   },
@@ -555,9 +459,7 @@
     "ingested_at": "2026-11-01T10:52:40.122781+00:00",
     "summary": "",
     "thumbnail": "thumbnails/1caj7jd.webp",
-    "tags": [
-      "Guillaume Meurice"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:59:55.605045+00:00"
   },
   {
@@ -577,11 +479,7 @@
     "ingested_at": "2026-11-01T10:52:40.121697+00:00",
     "summary": "Le maire de Villeneuve-Saint-Georges a adressé un salut nazi à l’assemblée lors d’un conseil municipal ce samedi. Des élus d’opposition annonce vouloir porter plainte pour antisémitisme alors qu’il qualifie ce geste...",
     "thumbnail": "thumbnails/1ca4fd0.webp",
-    "tags": [
-      "Villeneuve-Saint-Georges",
-      "Philippe Gaudin",
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:59:54.557341+00:00"
   },
   {
@@ -602,7 +500,7 @@
     "summary": "",
     "thumbnail": "thumbnails/1c9k67a.webp",
     "tags": [
-      "Société"
+      "Police"
     ],
     "analyzed_at": "2026-11-01T10:59:57.067086+00:00"
   },
@@ -624,11 +522,8 @@
     "summary": "A l'occasion des 80 ans de l'ordonnance de 1944 octroyant le droit de vote aux femmes ainsi que la possibilité de se présenter à une élection, franceinfo a enquêté sur la persistance de comportements sexistes au cœur du pouvoir.",
     "thumbnail": "thumbnails/1c9dq8a.webp",
     "tags": [
-      "Elisabeth Borne",
-      "Gouvernement de Gabriel Attal",
-      "Gouvernement d'Elisabeth Borne",
-      "Renaissance",
-      "Politique"
+      "Élisabeth Borne",
+      "Gabriel Attal"
     ],
     "analyzed_at": "2026-11-01T10:59:54.987037+00:00"
   },
@@ -650,11 +545,7 @@
     "summary": "Aux Canaries, à Barcelone, Malaga, Saint-Sébastien ou encore Séville, les mouvements anti-touristes se multiplient et dénoncent la pression immobilière mais aussi les nuisances sonores et environnementales. Pourtant, en Espagne, le tourisme pèse pour 12,8 % du PIB et concentre 12,6 % des emplois",
     "thumbnail": "thumbnails/1c904ko.webp",
     "tags": [
-      "Espagne",
-      "Canaries",
-      "Barcelone",
-      "PIB",
-      "Séville"
+      "Économie"
     ],
     "analyzed_at": "2026-11-01T10:59:55.180449+00:00"
   },
@@ -675,11 +566,7 @@
     "ingested_at": "2026-11-01T10:52:40.123170+00:00",
     "summary": "La bière commercialisée par Kronenbourg en Nouvelle-Aquitaine et en Occitanie est rappelée car elle contiendrait de l'éthylène glycol, le nom scientifique de l'antigel",
     "thumbnail": "thumbnails/1c8izh8.webp",
-    "tags": [
-      "Kronenbourg",
-      "Nouvelle-Aquitaine",
-      "Occitanie"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:59:55.087104+00:00"
   },
   {
@@ -701,7 +588,9 @@
     "thumbnail": "thumbnails/1c7z48r.webp",
     "tags": [
       "Rima Hassan",
-      "LFI"
+      "Police",
+      "Terrorisme",
+      "Élections"
     ],
     "analyzed_at": "2026-11-01T10:59:55.560964+00:00"
   },
@@ -722,9 +611,7 @@
     "ingested_at": "2026-11-01T10:52:40.122897+00:00",
     "summary": "Après avoir évoqué « tous les collégiens », Matignon a ensuite précisé que cette large plage horaire serait « réservée aux collèges en zone d'éducation prioritaire »",
     "thumbnail": "thumbnails/1c7yi34.webp",
-    "tags": [
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:59:55.639176+00:00"
   },
   {
@@ -746,10 +633,8 @@
     "thumbnail": "thumbnails/1c7skvy.webp",
     "tags": [
       "Gabriel Attal",
-      "Seine-Saint-Denis",
-      "Laurent Nuñez",
-      "Enfance et adolescence",
-      "Politique"
+      "Justice",
+      "Laurent Nuñez"
     ],
     "analyzed_at": "2026-11-01T10:59:55.861800+00:00"
   },
@@ -771,11 +656,7 @@
     "summary": "Baptiste Moirot a annoncé avoir pris cette décision \"par respect et pour protéger ma famille et moi-même\".",
     "thumbnail": "thumbnails/1c7dk2a.webp",
     "tags": [
-      "Baptiste Moirot",
-      "Baptiste",
-      "Comité",
-      "Zinédine Zidane",
-      "Société"
+      "Violences sexuelles"
     ],
     "analyzed_at": "2026-11-01T10:59:55.989718+00:00"
   },
@@ -797,11 +678,7 @@
     "summary": "Quatre anciens ou actuels salariés de Boeing ont témoigné devant la commission d'enquête du Sénat américain. Ils dénoncent notamment des problèmes de sécurité sur plusieurs modèles.",
     "thumbnail": "thumbnails/1c6zyra.webp",
     "tags": [
-      "Boeing",
-      "États-Unis",
-      "Sénat",
-      "Aéronautique",
-      "Société"
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T10:59:56.508639+00:00"
   },
@@ -823,10 +700,7 @@
     "summary": "Le groupe de Clermont-Ferrand, réputé pour ses œuvres sociales, a mis en place un «salaire décent» et une généreuse protection sociale pour l’ensemble de ses employés. En France, mais également au-delà des frontières de l’Hexagone.",
     "thumbnail": "thumbnails/1c6vqsz.webp",
     "tags": [
-      "Michelin",
-      "Clermont-Ferrand",
-      "Hexagone",
-      "Économie"
+      "Travail"
     ],
     "analyzed_at": "2026-11-01T10:59:55.925514+00:00"
   },
@@ -847,39 +721,8 @@
     "ingested_at": "2026-11-01T10:52:40.121573+00:00",
     "summary": "Swiss food firm’s infant formula and cereal sold in global south ignore WHO anti-obesity guidelines for Europe, says Public Eye",
     "thumbnail": "thumbnails/1c6jutp.webp",
-    "tags": [
-      "Europe",
-      "WHO",
-      "Public Eye",
-      "Africa",
-      "World Health Organization"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:59:56.166155+00:00"
-  },
-  {
-    "id": "1c6cxua",
-    "title": "Comment on décrit le Maréchal Pétain au Québec dans le journal ce matin. ( Article sur la Fraternité St-Pie X ) 😜",
-    "url": "https://i.postimg.cc/B6xKj7F3/Screenshot-20240417-112804-Kiwi-Browser.jpg",
-    "permalink": "/r/france/comments/1c6cxua/comment_on_décrit_le_maréchal_pétain_au_québec/",
-    "created_at": "2024-04-17T15:35:11+00:00",
-    "score": 367,
-    "num_comments": 145,
-    "subreddit": "france",
-    "author": "LeBoulu777",
-    "flair": "Culture",
-    "domain": "i.postimg.cc",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/4U-rjl-IyMRGecq1GuiQtEdYqVAXvWHY0lT9xUINR08.jpeg?auto=webp&s=86c40fe47a135c3a929202aad2e91b7c56ab0570",
-    "ingested_at": "2026-11-01T10:52:40.121746+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/1c6cxua.webp",
-    "tags": [
-      "Maréchal Pétain",
-      "Québec",
-      "Fraternité St-Pie X",
-      "Culture"
-    ],
-    "analyzed_at": "2026-11-01T10:59:57.493568+00:00"
   },
   {
     "id": "1c650o8",
@@ -899,7 +742,7 @@
     "summary": "Il sera bientôt interdit de vendre du tabac à des personnes nées après 2009",
     "thumbnail": "thumbnails/1c650o8.webp",
     "tags": [
-      "Société"
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T10:59:56.439860+00:00"
   },
@@ -921,7 +764,7 @@
     "summary": "",
     "thumbnail": "thumbnails/1c5cq87.webp",
     "tags": [
-      "Palestiniens"
+      "Conflit israélo-palestinien"
     ],
     "analyzed_at": "2026-11-01T10:59:56.487458+00:00"
   },
@@ -944,9 +787,7 @@
     "thumbnail": "thumbnails/1c5at7c.webp",
     "tags": [
       "Elon Musk",
-      "Tesla",
-      "Plan social et licenciement",
-      "Économie"
+      "Travail"
     ],
     "analyzed_at": "2026-11-01T10:59:56.686723+00:00"
   },
@@ -969,9 +810,7 @@
     "thumbnail": "thumbnails/1c4rnm5.webp",
     "tags": [
       "Rachida Dati",
-      "Politique",
-      "Gouvernement de Gabriel Attal",
-      "Culture"
+      "Gabriel Attal"
     ],
     "analyzed_at": "2026-11-01T10:59:56.587744+00:00"
   },
@@ -1015,9 +854,7 @@
     "summary": "Regarder un film, au cinéma comme à la maison, n'est plus forcément une partie de plaisir pour tout le monde. À l'heure des vidéos ultra-courtes sur Tiktok, Instagram ou encore Youtube, rester figé et inactif pendant plus d'une heure représente un véritable défi pour de plus en plus d'entre nous.",
     "thumbnail": "thumbnails/1c3urgy.webp",
     "tags": [
-      "Tiktok",
-      "Youtube",
-      "Société"
+      "Numérique"
     ],
     "analyzed_at": "2026-11-01T10:59:56.803910+00:00"
   },
@@ -1039,11 +876,8 @@
     "summary": "Après l'attaque de drones et de missiles vers Israël, l'Iran a appelé Israël à ne pas riposter. \"La France travaille à la désescalade avec ses partenaires et appelle à la retenue\", a réagi Emmanuel Macron ce dimanche, tout en exprimant sa \"solidarité avec le peuple israélien\".",
     "thumbnail": "thumbnails/1c3oz21.webp",
     "tags": [
-      "Israël",
-      "Iran",
-      "Emmanuel Macron",
-      "Hamas",
-      "Bande de Gaza"
+      "Conflit israélo-palestinien",
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T10:59:57.225787+00:00"
   },
@@ -1065,9 +899,7 @@
     "summary": "L’armée israélienne annonce ce samedi soir une attaque de drones iraniens contre son territoire.",
     "thumbnail": "thumbnails/1c3b9w1.webp",
     "tags": [
-      "Israël",
-      "Iran",
-      "Tsahal"
+      "Conflit israélo-palestinien"
     ],
     "analyzed_at": "2026-11-01T10:59:57.449434+00:00"
   },
@@ -1089,8 +921,7 @@
     "summary": "20.000 personnes s’apprêtent à manifester ce week-end, alors que le contrôle technique des motos, scooters, voiturettes et autres quads devient obligatoire à partir de lundi.",
     "thumbnail": "thumbnails/1c2xdzg.webp",
     "tags": [
-      "Contrôle technique",
-      "Société"
+      "Manifestations"
     ],
     "analyzed_at": "2026-11-01T10:59:57.990296+00:00"
   },
@@ -1112,7 +943,7 @@
     "summary": "",
     "thumbnail": "thumbnails/1c23jz7.webp",
     "tags": [
-      "Société"
+      "Logement"
     ],
     "analyzed_at": "2026-11-01T10:59:58.468223+00:00"
   },
@@ -1133,12 +964,7 @@
     "ingested_at": "2026-11-01T10:52:40.122946+00:00",
     "summary": "Autour du collège Arthur-Rimbaud, des adolescents racontent l’histoire derrière l’agression violente de Samara, survenue le 2 avril. Pourquo",
     "thumbnail": "thumbnails/1c237a1.webp",
-    "tags": [
-      "Montpellier",
-      "Affaire Samara",
-      "Arthur-Rimbaud",
-      "Samara"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:59:57.579572+00:00"
   },
   {
@@ -1158,11 +984,7 @@
     "ingested_at": "2026-11-01T10:52:40.121891+00:00",
     "summary": "Selon l'Institut Paris Région, la part des déplacements à vélo est également supérieure à celle de la voiture pour les déplacements entre la capitale et la petite couronne",
     "thumbnail": "thumbnails/1c1co3f.webp",
-    "tags": [
-      "Paris",
-      "Institut Paris Région",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:59:57.589794+00:00"
   },
   {
@@ -1202,12 +1024,7 @@
     "ingested_at": "2026-11-01T10:52:40.121547+00:00",
     "summary": "Découvert en 2017 dans une vidéo virale, Baptiste Moirot, connu pour sa phrase «si si j’suis très net», a officiellement été désigné comme l’un des porteurs de la flamme olympique.",
     "thumbnail": "thumbnails/1c0t3sx.webp",
-    "tags": [
-      "JO Paris 2024",
-      "Jeux olympiques",
-      "Baptiste Moirot",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:59:58.400240+00:00"
   },
   {
@@ -1228,9 +1045,7 @@
     "summary": "",
     "thumbnail": "thumbnails/1c0jgpc.webp",
     "tags": [
-      "Jeux",
-      "Paris 2024",
-      "Politique"
+      "Grèves et syndicats"
     ],
     "analyzed_at": "2026-11-01T10:59:58.930200+00:00"
   },
@@ -1251,10 +1066,7 @@
     "ingested_at": "2026-11-01T10:52:40.122380+00:00",
     "summary": "",
     "thumbnail": "thumbnails/1c05478.webp",
-    "tags": [
-      "French",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:59:58.092171+00:00"
   },
   {
@@ -1275,10 +1087,7 @@
     "summary": "INFO LE PARISIEN. Le ministre de la Transformation et de la Fonction publiques a lancé ce mardi les concertations avec les syndicats sur sa",
     "thumbnail": "thumbnails/1bzwh3s.webp",
     "tags": [
-      "Stanislas Guerini",
-      "Transformation et de la Fonction",
-      "PARISIEN",
-      "Politique"
+      "Travail"
     ],
     "analyzed_at": "2026-11-01T10:59:58.058862+00:00"
   },
@@ -1299,13 +1108,7 @@
     "ingested_at": "2026-11-01T10:52:40.122211+00:00",
     "summary": "Leading defense company ramps up production to meet massive global demand.",
     "thumbnail": "thumbnails/1bzralp.webp",
-    "tags": [
-      "Russia",
-      "Indonesia",
-      "Morocco",
-      "Armenia",
-      "Économie"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:59:58.392034+00:00"
   },
   {
@@ -1325,9 +1128,7 @@
     "ingested_at": "2026-11-01T10:52:40.122710+00:00",
     "summary": "Les autorités de la république russe de Tchétchénie ont décidé que toute musique doit « correspondre à un tempo de 80 à 116 battements par m",
     "thumbnail": "thumbnails/1bzpsun.webp",
-    "tags": [
-      "Tchétchénie"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:59:58.149308+00:00"
   },
   {
@@ -1347,13 +1148,7 @@
     "ingested_at": "2026-11-01T10:52:40.121624+00:00",
     "summary": "La Métropole de Lyon a adopté une réglementation qui bannit la quasi-totalité des publicités dans ses rues. Depuis le 1er avril, les panneaux numériques des stations de métro sont définitivement éteints.",
     "thumbnail": "thumbnails/1bzl84f.webp",
-    "tags": [
-      "Reporterre",
-      "Métropole de Lyon",
-      "Métropole",
-      "RLP",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:59:58.853401+00:00"
   },
   {
@@ -1393,11 +1188,7 @@
     "ingested_at": "2026-11-01T10:52:40.122687+00:00",
     "summary": "Près de 6 Français sur 10 sont insatisfaits de leur situation financière et estiment manquer de 897 euros par mois pour atteindre un \"bien-être financier\". C'est le constat du baromètre de l’Observatoire Société et Consommation (ObSoCo) pour la banque en ligne BforBank.",
     "thumbnail": "thumbnails/1byv6fq.webp",
-    "tags": [
-      "Observatoire Société et Consommation",
-      "BforBank",
-      "Économie"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:59:58.308194+00:00"
   },
   {
@@ -1417,10 +1208,7 @@
     "ingested_at": "2026-11-01T10:52:40.122664+00:00",
     "summary": "Grièvement blessé ce jeudi 4 avril, le collégien avait été hospitalisé avant de mourir vendredi en début d'après-midi. Trois de ses quatre agresseurs présumés étaient déjà connus défavorablement de la justice.",
     "thumbnail": "thumbnails/1by9yl6.webp",
-    "tags": [
-      "Viry-Châtillon",
-      "Fait Divers"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:59:58.905582+00:00"
   },
   {
@@ -1460,12 +1248,7 @@
     "ingested_at": "2026-11-01T10:52:40.122331+00:00",
     "summary": "Plusieurs dizaines de kilos de stupéfiants ont été découverts par les forces de l'ordre ce dimanche 7 avril chez la maire d'Avallon Jamilah Habsaoui.",
     "thumbnail": "thumbnails/1by309l.webp",
-    "tags": [
-      "Avallon",
-      "BFMTV",
-      "Avallon Jamilah Habsaoui",
-      "Fait Divers"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:59:58.595354+00:00"
   },
   {
@@ -1485,13 +1268,7 @@
     "ingested_at": "2026-11-01T10:52:40.122922+00:00",
     "summary": "Du 5 au 7 avril, ces streameuses « Furax » vont tout donner pour faire briller le féminisme sur Twitch.",
     "thumbnail": "thumbnails/1bxbbp0.webp",
-    "tags": [
-      "Twitch",
-      "ZEvent",
-      "GP Explorer",
-      "Furax",
-      "Nat'Ali"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:59:59.042001+00:00"
   },
   {
@@ -1512,11 +1289,7 @@
     "summary": "[VIDÉO] Le Service européen pour l'action extérieure (SEAE) a publié une nouvelle analyse ce jeudi. Cet organe européen constate que la France est devenue une cible privilégiée de Moscou. Le rapport décrit une campagne \"francophobe\" orchestrée par un \"écosystème\" proche du Kremlin.",
     "thumbnail": "thumbnails/1bx5t11.webp",
     "tags": [
-      "Russie",
-      "SEAE",
-      "Paris",
-      "Kremlin",
-      "Brigitte Macron"
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T10:59:59.134101+00:00"
   },
@@ -1537,10 +1310,7 @@
     "ingested_at": "2026-11-01T10:52:40.121795+00:00",
     "summary": "Le collégien rentrait chez lui, ce jeudi 4 avril, lorsqu'il a été pris pour cible par plusieurs agresseurs. Transporté à l'hôpital en urgence absolue, il a succombé à ses blessures.",
     "thumbnail": "thumbnails/1bwhxbw.webp",
-    "tags": [
-      "BFMTV",
-      "Fait Divers"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:59:59.004479+00:00"
   },
   {
@@ -1561,59 +1331,10 @@
     "summary": "",
     "thumbnail": "thumbnails/1bwfw0n.webp",
     "tags": [
-      "Macron",
-      "Société"
+      "Emmanuel Macron",
+      "Éducation"
     ],
     "analyzed_at": "2026-11-01T11:00:01.902428+00:00"
-  },
-  {
-    "id": "1bwe6bb",
-    "title": "Des « êtres souverains » sont contrôlés par des gendarmes",
-    "url": "https://www.koreus.com/video/etre-souverain-gendarme.html",
-    "permalink": "/r/france/comments/1bwe6bb/des_êtres_souverains_sont_contrôlés_par_des/",
-    "created_at": "2024-04-05T09:57:57+00:00",
-    "score": 316,
-    "num_comments": 280,
-    "subreddit": "france",
-    "author": "Dexounait",
-    "flair": "Société",
-    "domain": "koreus.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/2eJMdrK_SLKKGEKWAz8JcQA0PDH1rFNjhgNF0Naery8.jpeg?auto=webp&s=6368fe6a4e949d799628471b9ec2ad19f640809f",
-    "ingested_at": "2026-11-01T10:52:40.121965+00:00",
-    "summary": "Des gendarmes souhaitent contrôler un automobiliste qui refuse d'obtempérer. Le conducteur et la passagère sont des « êtres souverains », des conspirationnistes qui croient en la « fraude du nom légal ».",
-    "thumbnail": "thumbnails/1bwe6bb.webp",
-    "tags": [
-      "État",
-      "Vidéo",
-      "Controle",
-      "Etre",
-      "Société"
-    ],
-    "analyzed_at": "2026-11-01T10:59:59.090112+00:00"
-  },
-  {
-    "id": "1bvli4o",
-    "title": "Traitée de «mécréante», Samara, 14 ans, a été tabassée jusqu'au coma",
-    "url": "https://www.lessentiel.lu/fr/story/france-traitee-de-mecreante-samara-14-ans-a-ete-tabassee-jusquau-coma-103077927",
-    "permalink": "/r/france/comments/1bvli4o/traitée_de_mécréante_samara_14_ans_a_été_tabassée/",
-    "created_at": "2024-04-04T12:09:33+00:00",
-    "score": 696,
-    "num_comments": 500,
-    "subreddit": "france",
-    "author": "Aldawest",
-    "flair": "Fait Divers",
-    "domain": "lessentiel.lu",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/PF24UYXtEfESu0ceWso2TA6BTDn-v7cNnYE1vkiTM_A.jpeg?auto=webp&s=0f9a2a2027c00ba1a4b63dd91a8d0aafd2c414bf",
-    "ingested_at": "2026-11-01T10:52:40.121467+00:00",
-    "summary": "Les trois mineurs interpellés après l'agression mardi à Montpellier de Samara, une collégienne de 13 ans, ont «admis lui avoir porté des coups», a indiqué vendredi le parquet, qui a requis le placement en détention provisoire du plus âgé d'entre-eux, un adolescent de 15 ans",
-    "thumbnail": "thumbnails/1bvli4o.webp",
-    "tags": [
-      "Montpellier de Samara",
-      "Fait Divers"
-    ],
-    "analyzed_at": "2026-11-01T10:59:59.776358+00:00"
   },
   {
     "id": "1bvjn6e",
@@ -1633,11 +1354,7 @@
     "summary": "Le ministère de la Défense russe a dit espérer, après un entretien téléphonique mercredi entre le ministre français des Armées et son homologue russe, que \"les services secrets français\" n'étaient pas…",
     "thumbnail": "thumbnails/1bvjn6e.webp",
     "tags": [
-      "Moscou",
-      "Russie",
-      "Armées",
-      "Défense",
-      "Politique"
+      "Terrorisme"
     ],
     "analyzed_at": "2026-11-01T10:59:59.233016+00:00"
   },
@@ -1658,12 +1375,7 @@
     "ingested_at": "2026-11-01T10:52:40.123052+00:00",
     "summary": "Cette galerie souterraine découverte mardi s’étend sur plusieurs dizaines de mètres. Son accès a été condamné et une enquête a été ouverte.",
     "thumbnail": "thumbnails/1buodre.webp",
-    "tags": [
-      "Paris",
-      "Santé",
-      "Enedis",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:00:01.378793+00:00"
   },
   {
@@ -1683,13 +1395,7 @@
     "ingested_at": "2026-11-01T10:52:40.122111+00:00",
     "summary": "Le député Quentin Bataillon a participé à \"Touche pas à mon poste\" sur C8. \"Plus personne ne peut croire à son indépendance\", ont regretté des élus de gauche.",
     "thumbnail": "thumbnails/1buk8fx.webp",
-    "tags": [
-      "Cyril Hanouna",
-      "TNT",
-      "SAV",
-      "Quentin Bataillon",
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:59:59.568753+00:00"
   },
   {
@@ -1710,10 +1416,7 @@
     "summary": "Avant même d’avoir été publiée, une enquête de Mediapart sur le CV caché du conseiller « discours et opinion » de la porte-parole du gouvernement a provoqué sa démission. Alexis Bétemps fut, il y a q…",
     "thumbnail": "thumbnails/1bua9mr.webp",
     "tags": [
-      "Soral",
-      "Russia Today",
-      "CV",
-      "Alexis Bétemps"
+      "Médias"
     ],
     "analyzed_at": "2026-11-01T11:00:00.011744+00:00"
   },
@@ -1734,13 +1437,7 @@
     "ingested_at": "2026-11-01T10:52:40.121771+00:00",
     "summary": "Jeanne Barseghian \"demande qu'on regarde les choses en face sans son dogme\". L'édile constate que les résultats de la politique \"très répressive\" ne sont \"pas satisfaisants du point de vue de la santé publique\".",
     "thumbnail": "thumbnails/1bty256.webp",
-    "tags": [
-      "Allemagne",
-      "Strasbourg",
-      "Jeanne Barseghian",
-      "Drogue-Addictions",
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:59:59.633695+00:00"
   },
   {
@@ -1761,11 +1458,8 @@
     "summary": "Des familles d'otages et des milliers d'opposants politiques se sont rassemblés dimanche soir à Jérusalem pour réclamer le départ du Premier ministre et l'organisation d'élections anticipées. Le rassemblement a connu des affrontements avec la police.",
     "thumbnail": "thumbnails/1bttcjv.webp",
     "tags": [
-      "Jérusalem",
-      "Benjamin Netanyahou",
-      "Premier",
-      "Israël",
-      "Politique"
+      "Benyamin Netanyahou",
+      "Manifestations"
     ],
     "analyzed_at": "2026-11-01T11:00:00.046263+00:00"
   },
@@ -1787,8 +1481,7 @@
     "summary": "Un rapport parlementaire signé d’un député LFI et d’un Renaissance exige davantage de « contrôles » des établissements privés. Avec des sanc",
     "thumbnail": "thumbnails/1bsymrx.webp",
     "tags": [
-      "LFI",
-      "Renaissance"
+      "Éducation"
     ],
     "analyzed_at": "2026-11-01T10:59:59.807495+00:00"
   },
@@ -1810,11 +1503,8 @@
     "summary": "Quelque 61 millions de Turcs étaient appelés, dimanche, aux urnes pour des élections municipales, dont les résultats quasi définitifs dessinent une sévère défaite pour le parti du président Erdogan. Les…",
     "thumbnail": "thumbnails/1bswnlt.webp",
     "tags": [
-      "Turquie",
-      "Recep Tayyip Erdogan",
-      "AKP",
-      "Istanbul",
-      "Ekrem Imamoglu"
+      "Recep Tayyip Erdoğan",
+      "Élections"
     ],
     "analyzed_at": "2026-11-01T10:59:59.917428+00:00"
   }

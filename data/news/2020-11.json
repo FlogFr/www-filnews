@@ -17,8 +17,8 @@
     "summary": "Les trois policiers au cœur de la vidéo de Loopsider sont poursuivis pour « violences volontaires par personne dépositaire de l’autorité publique » et « faux en écriture publique »",
     "thumbnail": "thumbnails/k3s55z.webp",
     "tags": [
-      "Paris",
-      "Loopsider"
+      "Police",
+      "Justice"
     ],
     "analyzed_at": "2026-11-01T09:58:12.198609+00:00"
   },
@@ -39,11 +39,7 @@
     "ingested_at": "2026-11-01T09:45:46.510552+00:00",
     "summary": "Un chasseur de sanglier a tué l'ourse Sarousse ce dimanche en Espagne. Il évoque la légitime défense face à l'animal. C'est le troisième ours tué dans les Pyrénées cette année.",
     "thumbnail": "thumbnails/k3r8fu.webp",
-    "tags": [
-      "Pyrénées",
-      "Espagne",
-      "Sarousse"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:58:12.203617+00:00"
   },
   {
@@ -64,9 +60,8 @@
     "summary": "Alors que Gérald Darmanin doit être auditionné lundi à l’Assemblée nationale sur l’action des forces de l’ordre, Mediapart publie une nouvelle vidéo témoignant d’une action incompréhensible. Six jeun…",
     "thumbnail": "thumbnails/k3e5z4.webp",
     "tags": [
-      "Paris",
-      "Gérald Darmanin",
-      "Assemblée"
+      "Police",
+      "Gérald Darmanin"
     ],
     "analyzed_at": "2026-11-01T09:58:12.188416+00:00"
   },
@@ -88,9 +83,7 @@
     "summary": "Les capteurs de pollution et les stations météo expérimentés depuis trois ans par la société Fullrama ont été démontés par la mairie. La soc",
     "thumbnail": "thumbnails/k3a4ns.webp",
     "tags": [
-      "Courbevoie",
-      "Fullrama",
-      "Société"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T09:58:12.258598+00:00"
   },
@@ -112,10 +105,7 @@
     "summary": "L'Inspection générale de la police nationale (IGPN) serait-elle le service d'enquête le moins compétent de France, ou ne cherche-t-elle pas vraiment à obtenir des témoignages qui pourraient incriminer les policiers ?",
     "thumbnail": "thumbnails/k2t3uo.webp",
     "tags": [
-      "IGPN",
-      "Loris Guémart",
-      "Rémy Buisine",
-      "Paris"
+      "Police"
     ],
     "analyzed_at": "2026-11-01T09:58:13.821718+00:00"
   },
@@ -136,11 +126,7 @@
     "ingested_at": "2026-11-01T09:45:46.511302+00:00",
     "summary": "Jeudi 26 novembre 2020, 3 700 à 5 000 personnes selon les sources, ont manifesté dans les rues de Toulouse pour demander le retrait de la loi \"sécurité globale\". Retour en images.",
     "thumbnail": "thumbnails/k2is7b.webp",
-    "tags": [
-      "Toulouse",
-      "LoiSecuriteGlobale",
-      "Palais de Justice"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:58:12.638118+00:00"
   },
   {
@@ -161,7 +147,8 @@
     "summary": "",
     "thumbnail": "thumbnails/k23dqa.webp",
     "tags": [
-      "Darmanin"
+      "Gérald Darmanin",
+      "Police"
     ],
     "analyzed_at": "2026-11-01T09:58:14.139202+00:00"
   },
@@ -183,38 +170,9 @@
     "summary": "À Marseille, le 8 décembre 2018, en marge d'une manifestation des « gilets jaunes », des policiers ont fracassé le crâne de Maria, 19 ans, lui blessant gravement le cerveau.",
     "thumbnail": "thumbnails/k1xbeg.webp",
     "tags": [
-      "Maria",
-      "IGPN",
-      "Marseille",
-      "Mediapart",
-      "Société"
+      "Police"
     ],
     "analyzed_at": "2026-11-01T09:58:14.300615+00:00"
-  },
-  {
-    "id": "k1j0gk",
-    "title": "La France va instaurer une notation de réparabilité",
-    "url": "https://www.gsmarena.com/france_will_begin_labeling_electronics_with_repairability_ratings_in_january-news-46452.php",
-    "permalink": "/r/france/comments/k1j0gk/la_france_va_instaurer_une_notation_de/",
-    "created_at": "2020-11-26T17:09:13+00:00",
-    "score": 1248,
-    "num_comments": 239,
-    "subreddit": "france",
-    "author": "Poloin_34",
-    "flair": "Actus",
-    "domain": "gsmarena.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/1dyJ8YfxqSyudOGulu4_RvGLw63HggwT4kc1iVqGRtw.jpg?auto=webp&s=bf8141bb688c1db05dd95fab6b1d1a939d2c2a14",
-    "ingested_at": "2026-11-01T09:45:46.510073+00:00",
-    "summary": "A vote in the EU Parliament resulted in support of consumers’ Right to Repair. On Wednesday, the European Parliament voted in favor of a new policy to...",
-    "thumbnail": "thumbnails/k1j0gk.webp",
-    "tags": [
-      "Right",
-      "Wednesday",
-      "European Parliament",
-      "EU Parliament"
-    ],
-    "analyzed_at": "2026-11-01T09:58:12.653522+00:00"
   },
   {
     "id": "k1br3o",
@@ -233,9 +191,7 @@
     "ingested_at": "2026-11-01T09:45:46.511203+00:00",
     "summary": "La chambre régionale des comptes, dans un rapport qui sera rendu public vendredi 27 novembre et auquel Mediapart a eu accès, dévoile comment Christian Estrosi contourne les règles de la fonction publ…",
     "thumbnail": "thumbnails/k1br3o.webp",
-    "tags": [
-      "Christian Estrosi"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:58:13.932047+00:00"
   },
   {
@@ -255,34 +211,10 @@
     "ingested_at": "2026-11-01T09:45:46.511278+00:00",
     "summary": "",
     "thumbnail": "thumbnails/k10xdk.webp",
-    "tags": [],
-    "analyzed_at": "2026-11-01T09:58:12.584346+00:00"
-  },
-  {
-    "id": "k0x2vl",
-    "title": "À partir de samedi, les Parisiens autorisés à s'éloigner à 20 kilomètres du préfet Lallement",
-    "url": "http://www.legorafi.fr/2020/11/25/a-partir-de-samedi-les-parisiens-autorises-a-seloigner-a-20-kilometres-du-prefet-lallement/",
-    "permalink": "/r/france/comments/k0x2vl/à_partir_de_samedi_les_parisiens_autorisés_à/",
-    "created_at": "2020-11-25T17:56:04+00:00",
-    "score": 210,
-    "num_comments": 15,
-    "subreddit": "france",
-    "author": "qdsflghoiergfpaizuer",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/g-iuu8QgFB3R0Oat388u9yYSFJEcY_WIIagrJftL-V4.jpeg?auto=webp&s=24ee0c19a1d0d24e64c3cc483011df7d2ddd5f78",
-    "ingested_at": "2026-11-01T09:45:46.511540+00:00",
-    "summary": "Et seulement pendant trois heures. Au-delà, les CRS pourront faire usage de leur matériel de maintien de l'ordre pour leur demander de revenir.",
-    "thumbnail": "thumbnails/k0x2vl.webp",
     "tags": [
-      "Lallement",
-      "Parisiens",
-      "CRS",
-      "Gorafi",
-      "Humour"
+      "Laïcité"
     ],
-    "analyzed_at": "2026-11-01T09:58:12.807489+00:00"
+    "analyzed_at": "2026-11-01T09:58:12.584346+00:00"
   },
   {
     "id": "k09pid",
@@ -302,58 +234,9 @@
     "summary": "",
     "thumbnail": "thumbnails/k09pid.webp",
     "tags": [
-      "Assemblée",
-      "Société"
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T09:58:13.157407+00:00"
-  },
-  {
-    "id": "k06re3",
-    "title": "Décès brutal de Christophe Dominici",
-    "url": "https://www.midi-olympique.fr/2020/11/24/deces-brutal-de-christophe-dominici-9218554.php",
-    "permalink": "/r/france/comments/k06re3/décès_brutal_de_christophe_dominici/",
-    "created_at": "2020-11-24T15:12:58+00:00",
-    "score": 277,
-    "num_comments": 65,
-    "subreddit": "france",
-    "author": "rorobert",
-    "flair": "",
-    "domain": "midi-olympique.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/fjtVPmitcLHIJ5r-HTQl7Zb4MVqRLmlatF33LkZkXSA.jpeg?auto=webp&s=957f74a3f088e49bf3d7a35545d520b7c74abddb",
-    "ingested_at": "2026-11-01T09:45:46.510750+00:00",
-    "summary": "A seulement 48 ans, l'ancien ailier et légende du XV de France Christophe Dominici (67 sélections) est décédé brutalement ce mardi. Un choc terrible pour l'ensemble du rugby français, et planétaire.",
-    "thumbnail": "thumbnails/k06re3.webp",
-    "tags": [
-      "Christophe Dominici",
-      "XV de France Christophe Dominici"
-    ],
-    "analyzed_at": "2026-11-01T09:58:13.212470+00:00"
-  },
-  {
-    "id": "k01ghy",
-    "title": "Garde à vue : 17 heures d’humiliation",
-    "url": "https://www.la-zep.fr/engagement/manifestation-loi-securite-globale-humiliation-garde-a-vue/?fbclid=IwAR0KGZ5jK9dlHDd30Y_ULvsuAA-4oNw5Ehk9fxFgLeIoRxAaKIfZWiLObcA",
-    "permalink": "/r/france/comments/k01ghy/garde_à_vue_17_heures_dhumiliation/",
-    "created_at": "2020-11-24T08:50:49+00:00",
-    "score": 247,
-    "num_comments": 90,
-    "subreddit": "france",
-    "author": "obvious_freud",
-    "flair": "Actus",
-    "domain": "la-zep.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/-aWj8I88dt1sASh7hBP3BGMg-o_ebNDbqkB2vCt4KXk.jpeg?auto=webp&s=e13e530f42efbe00a29ae139aa186ead5a5a67e5",
-    "ingested_at": "2026-11-01T09:45:46.511175+00:00",
-    "summary": "Le 17 novembre, j'ai manifesté contre la loi « sécurité globale » à Paris devant l’Assemblée nationale. Bilan : plus de 3 heures d’interpellation et 17 heures de garde à vue pour un délit non avéré. Et la conviction que mes droits et ma personne n’ont pas été respectés par la police.",
-    "thumbnail": "thumbnails/k01ghy.webp",
-    "tags": [
-      "Assemblée",
-      "Paris",
-      "BRAV-M",
-      "CRS"
-    ],
-    "analyzed_at": "2026-11-01T09:58:12.977337+00:00"
   },
   {
     "id": "k0145j",
@@ -372,9 +255,7 @@
     "ingested_at": "2026-11-01T09:45:46.510966+00:00",
     "summary": "",
     "thumbnail": "thumbnails/k0145j.webp",
-    "tags": [
-      "République"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:58:18.627404+00:00"
   },
   {
@@ -395,10 +276,7 @@
     "summary": "La Commission européenne dit par ailleurs se réserver « le droit d’examiner la législation finale afin de vérifier sa conformité avec le dro",
     "thumbnail": "thumbnails/jzg85i.webp",
     "tags": [
-      "Commission",
-      "Loi Sécurité",
-      "UE",
-      "Politique"
+      "Union européenne"
     ],
     "analyzed_at": "2026-11-01T09:58:13.438874+00:00"
   },
@@ -419,9 +297,7 @@
     "ingested_at": "2026-11-01T09:45:46.510331+00:00",
     "summary": "",
     "thumbnail": "thumbnails/jzfs6x.webp",
-    "tags": [
-      "Président"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:58:13.509145+00:00"
   },
   {
@@ -442,11 +318,7 @@
     "summary": "Nathalie Sarles ne votera pas en faveur du projet de loi de sécurité globale ce mardi après-midi à l'Assemblée nationale. La députée du Roannais critique un texte qui va \"beaucoup trop loin\".",
     "thumbnail": "thumbnails/jzfqfo.webp",
     "tags": [
-      "Etat",
-      "LREM de la Loire Nathalie Sarles",
-      "Nathalie Sarles",
-      "Assemblée",
-      "Politique"
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T09:58:14.363834+00:00"
   },
@@ -468,34 +340,9 @@
     "summary": "",
     "thumbnail": "thumbnails/jytz6i.webp",
     "tags": [
-      "Biden",
-      "Irak",
-      "Politique"
+      "Joe Biden"
     ],
     "analyzed_at": "2026-11-01T09:58:13.913867+00:00"
-  },
-  {
-    "id": "jyt99c",
-    "title": "Gimp a 25 ans",
-    "url": "https://www.gimp.org/news/2020/11/21/25-years-of-gimp/",
-    "permalink": "/r/france/comments/jyt99c/gimp_a_25_ans/",
-    "created_at": "2020-11-22T09:57:29+00:00",
-    "score": 304,
-    "num_comments": 133,
-    "subreddit": "france",
-    "author": "HellYodan",
-    "flair": "",
-    "domain": "gimp.org",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/bmzaOYM0QrzdOjHJ_oAWM4p4AP-Y9ghHZMC2OdBkRm4.jpeg?auto=webp&s=582b6b98df3900fe3ca8dafe2fd4439c8b87385e",
-    "ingested_at": "2026-11-01T09:45:46.510664+00:00",
-    "summary": "Exactly 25 years ago, Peter Mattis wrote a message to several newsgroups announcing a new image editor called GIMP.",
-    "thumbnail": "thumbnails/jyt99c.webp",
-    "tags": [
-      "GIMP",
-      "Peter Mattis"
-    ],
-    "analyzed_at": "2026-11-01T09:58:14.821516+00:00"
   },
   {
     "id": "jy7xuv",
@@ -514,11 +361,7 @@
     "ingested_at": "2026-11-01T09:45:46.511123+00:00",
     "summary": "YouTube met à jour les règles d'utilisation de la plateforme et de monétisation des vidéos, et crée la polémique. La société a annoncé jeudi que Google, qui détient YouTube, va désormais afficher des annonces sur toutes les vidéos, même si leurs créateurs n'en veulent pas.",
     "thumbnail": "thumbnails/jy7xuv.webp",
-    "tags": [
-      "YouTube",
-      "Google",
-      "Économie"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:58:14.968313+00:00"
   },
   {
@@ -539,11 +382,9 @@
     "summary": "Les représentants des personnels hospitaliers n'étaient pas les bienvenus vendredi matin pour la visite du Premier ministre au CHRU de Brest. Ils ont été soigneusement tenus à l'écart des officiels, confinés dans un local. Le syndicat SUD a déposé plainte pour entrave à la liberté de circulation.",
     "thumbnail": "thumbnails/jy7l8u.webp",
     "tags": [
+      "Grèves et syndicats",
       "Jean Castex",
-      "Brest",
-      "Hôpitaux",
-      "Syndicats – Syndicalisme",
-      "Premier"
+      "Santé"
     ],
     "analyzed_at": "2026-11-01T09:58:14.718950+00:00"
   },
@@ -565,34 +406,9 @@
     "summary": "En réaction aux discours de haine véhiculés ces dernières semaines sur CNews, Dec...",
     "thumbnail": "thumbnails/jxs5su.webp",
     "tags": [
-      "CNews",
-      "Decathlon"
+      "Médias"
     ],
     "analyzed_at": "2026-11-01T09:58:15.928257+00:00"
-  },
-  {
-    "id": "jxn0ic",
-    "title": "French Scientist Didier Raoult Given Rusty Razor Award For Pseudoscience",
-    "url": "https://www.skeptic.org.uk/2020/11/french-scientist-didier-raoult-given-rusty-razor-award-for-pseudoscience/",
-    "permalink": "/r/france/comments/jxn0ic/french_scientist_didier_raoult_given_rusty_razor/",
-    "created_at": "2020-11-20T10:55:27+00:00",
-    "score": 678,
-    "num_comments": 97,
-    "subreddit": "france",
-    "author": "[deleted]",
-    "flair": "Covid-19",
-    "domain": "skeptic.org.uk",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/Wv12I3TsFgGPBjN5OGcrc57OXpK4B1JcSwshx4XfSjY.jpg?auto=webp&s=2a24f8d0caf09430743f104cd49ca2939dc3b490",
-    "ingested_at": "2026-11-01T09:45:46.510177+00:00",
-    "summary": "French microbiologist Didier Raoult has been given the 2020 Rusty Razor for his promotion of hydroxychloroquine as a COVID-19 treatment.",
-    "thumbnail": "thumbnails/jxn0ic.webp",
-    "tags": [
-      "COVID-19",
-      "Rusty Razor",
-      "Didier Raoult"
-    ],
-    "analyzed_at": "2026-11-01T09:58:14.532030+00:00"
   },
   {
     "id": "jx06zr",
@@ -612,132 +428,9 @@
     "summary": "",
     "thumbnail": "thumbnails/jx06zr.webp",
     "tags": [
-      "CBD",
-      "Politique"
+      "Justice"
     ],
     "analyzed_at": "2026-11-01T09:58:14.678645+00:00"
-  },
-  {
-    "id": "jwyhw1",
-    "title": "Notepad++ 7.9.1 - pour Samuel Paty",
-    "url": "https://notepad-plus-plus.org/news/v791-pour-samuel-paty/",
-    "permalink": "/r/france/comments/jwyhw1/notepad_791_pour_samuel_paty/",
-    "created_at": "2020-11-19T07:37:16+00:00",
-    "score": 266,
-    "num_comments": 198,
-    "subreddit": "france",
-    "author": "Poglosaurus",
-    "flair": "Actus",
-    "domain": "notepad-plus-plus.org",
-    "selftext": "",
-    "reddit_thumbnail": "https://b.thumbs.redditmedia.com/xFDmiqHqg3KOH476OwHReLjaI3fP56rbx_WKa_92q_I.jpg",
-    "ingested_at": "2026-11-01T09:45:46.510918+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/jwyhw1.webp",
-    "tags": [
-      "Samuel Paty"
-    ],
-    "analyzed_at": "2026-11-01T09:58:14.640941+00:00"
-  },
-  {
-    "id": "jwfql1",
-    "title": "Olivier Véran : « À Noël, ce sera un oncle raciste maximum par famille »",
-    "url": "http://www.legorafi.fr/2020/11/17/olivier-veran-a-noel-ce-sera-un-oncle-raciste-maximum-par-famille/",
-    "permalink": "/r/france/comments/jwfql1/olivier_véran_à_noël_ce_sera_un_oncle_raciste/",
-    "created_at": "2020-11-18T13:26:50+00:00",
-    "score": 225,
-    "num_comments": 67,
-    "subreddit": "france",
-    "author": "[deleted]",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/zf56_RKqkpKjumRBzS8A5YZF3eTLH86dLbvjWrsgtSU.jpeg?auto=webp&s=536aac1e3e0b55b5be15bc84c9559e85398bb928",
-    "ingested_at": "2026-11-01T09:45:46.511515+00:00",
-    "summary": "Le ministre de la santé a annoncé cet après-midi certaines restrictions qui devront être adoptées pendant les fêtes, notamment une règle stricte limitant les familles à un seul oncle raciste.",
-    "thumbnail": "thumbnails/jwfql1.webp",
-    "tags": [
-      "Olivier Véran",
-      "Noël",
-      "Gorafi",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:58:14.853262+00:00"
-  },
-  {
-    "id": "jwfgp7",
-    "title": "L'État Islamique annonce sa dissolution après que son chef a lu le Coran pour la première fois [2015]",
-    "url": "http://www.legorafi.fr/2015/11/18/letat-islamique-annonce-sa-dissolution-apres-que-son-chef-a-lu-le-coran-pour-la-premiere-fois/",
-    "permalink": "/r/france/comments/jwfgp7/létat_islamique_annonce_sa_dissolution_après_que/",
-    "created_at": "2020-11-18T13:08:28+00:00",
-    "score": 227,
-    "num_comments": 60,
-    "subreddit": "france",
-    "author": "[deleted]",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/N8nPpZl9ETrRTS8W79NuapKKEk2_JkOFfkevyKe1M_k.jpg?auto=webp&s=e7ec13d701c1c8b5d366d3b21e2e5962fae875f6",
-    "ingested_at": "2026-11-01T09:45:46.511465+00:00",
-    "summary": "C’est la chaîne Al Jazeera qui a révélé l’information. Daesh a surpris ce matin la communauté internationale en annonçant sa dissolution lors d’une vidéo postée sur son site officiel.",
-    "thumbnail": "thumbnails/jwfgp7.webp",
-    "tags": [
-      "État Islamique",
-      "Coran",
-      "Al Jazeera",
-      "Islam",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:58:14.812489+00:00"
-  },
-  {
-    "id": "jwb3xj",
-    "title": "Mont Ross, Îles Kerguelen, France",
-    "url": "https://live.staticflickr.com/8889/18414694158_120aa03a10_o.jpg",
-    "permalink": "/r/france/comments/jwb3xj/mont_ross_îles_kerguelen_france/",
-    "created_at": "2020-11-18T06:57:05+00:00",
-    "score": 1914,
-    "num_comments": 130,
-    "subreddit": "france",
-    "author": "loulan",
-    "flair": "",
-    "domain": "live.staticflickr.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/SQ6QeYvOwrnV0RC6LI8fo-4flTHd8UooLStyegk_Ow0.jpg?auto=webp&s=589c274ab76ce2e7d9d265e8be0c70b665786f94",
-    "ingested_at": "2026-11-01T09:45:46.510016+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/jwb3xj.webp",
-    "tags": [
-      "Mont Ross",
-      "Îles Kerguelen"
-    ],
-    "analyzed_at": "2026-11-01T09:58:16.684659+00:00"
-  },
-  {
-    "id": "jvzkte",
-    "title": "TIL Napoleons military genius was considered to be so enormeous that the entire stategy of the Coalition that defeated him (the Trachenberg Plan) depended on retreat wherever & whenever they faced him and only attacking his underlings until they built up an overwhelming numerical troop advantage.",
-    "url": "https://en.wikipedia.org/wiki/Trachenberg_Plan",
-    "permalink": "/r/france/comments/jvzkte/til_napoleons_military_genius_was_considered_to/",
-    "created_at": "2020-11-17T19:30:30+00:00",
-    "score": 248,
-    "num_comments": 56,
-    "subreddit": "france",
-    "author": "loulan",
-    "flair": "",
-    "domain": "en.wikipedia.org",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/DDLB63WatR7LiPf7koItZig43Ez3fZPfkZ5YL9J7xd4.jpg?auto=webp&s=6632d7a2d2537d5ffb7b9c46a6ff1b42b5b6b18e",
-    "ingested_at": "2026-11-01T09:45:46.511148+00:00",
-    "summary": "Day: days gone since 5 April 1813, Battle of Möckern Losses: French soldiers killed+wounded+captured Red dot: French tactical victory Day: days gone since 24 Jan 1814, Bar-sur-Aube(1) Losses: French soldiers killed+wounded+captured Red dot: French tactical victory The Trachenberg Plan was a campaign strategy created…",
-    "thumbnail": "thumbnails/jvzkte.webp",
-    "tags": [
-      "Trachenberg Plan",
-      "TIL Napoleons",
-      "Allies",
-      "Sixth Coalition",
-      "Napoleon's"
-    ],
-    "analyzed_at": "2026-11-01T09:58:15.126596+00:00"
   },
   {
     "id": "jvqfd1",
@@ -756,13 +449,7 @@
     "ingested_at": "2026-11-01T09:45:46.511229+00:00",
     "summary": "Le 23 octobre, la RIAA ou Recording Industry Association of America  association interprofessionnelle de défense des intérêts de l'industrie du disque aux États-Unis  a procédé à lémission dune requête DMCA adressée à la plateforme GitHub en lien avec la présence sur ses serveurs du dépôt dénommé Youtube-dl.",
     "thumbnail": "thumbnails/jvqfd1.webp",
-    "tags": [
-      "DCMA",
-      "RIAA",
-      "Recording Industry Association",
-      "America",
-      "États-Unis"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:58:15.152576+00:00"
   },
   {
@@ -782,13 +469,7 @@
     "ingested_at": "2026-11-01T09:45:46.510486+00:00",
     "summary": "Les rapporteurs aux Droits de l'Homme s'inquiètent pour le respect de plusieurs libertés fondamentales.",
     "thumbnail": "thumbnails/jvpfju.webp",
-    "tags": [
-      "ONU",
-      "Droits de Homme",
-      "Violences policières",
-      "Journalisme",
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:58:15.261457+00:00"
   },
   {
@@ -809,30 +490,9 @@
     "summary": "",
     "thumbnail": "thumbnails/jvpdys.webp",
     "tags": [
-      "Samuel Paty",
-      "Société"
+      "Éducation"
     ],
     "analyzed_at": "2026-11-01T09:58:17.304083+00:00"
-  },
-  {
-    "id": "jvebi7",
-    "title": "Les passages secrets du web",
-    "url": "https://serveur410.com/les-passages-secrets-du-web/",
-    "permalink": "/r/france/comments/jvebi7/les_passages_secrets_du_web/",
-    "created_at": "2020-11-16T20:22:40+00:00",
-    "score": 163,
-    "num_comments": 25,
-    "subreddit": "france",
-    "author": "Fredd47",
-    "flair": "",
-    "domain": "serveur410.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://b.thumbs.redditmedia.com/YsIPQjP05EA-QqLyLzFieql5pZf8i6rzXmYjts2hz1w.jpg",
-    "ingested_at": "2026-11-01T09:45:46.511636+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/jvebi7.webp",
-    "tags": [],
-    "analyzed_at": "2026-11-01T09:58:19.795534+00:00"
   },
   {
     "id": "jv7wni",
@@ -852,7 +512,8 @@
     "summary": "",
     "thumbnail": "thumbnails/jv7wni.webp",
     "tags": [
-      "Politique"
+      "Terrorisme",
+      "Extrême droite"
     ],
     "analyzed_at": "2026-11-01T09:58:15.475104+00:00"
   },
@@ -873,9 +534,7 @@
     "ingested_at": "2026-11-01T09:45:46.510775+00:00",
     "summary": "Ce week-end, dans une nouvelle vidéo postée sur les réseaux sociaux, la jeune Mila s'en prend à l'islam. Comme en janvier quand elle avait déjà publié une vidéo, la jeune femme est victime de menaces de mort. Le...",
     "thumbnail": "thumbnails/juk9nn.webp",
-    "tags": [
-      "Mila"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:58:15.637344+00:00"
   },
   {
@@ -896,7 +555,8 @@
     "summary": "Un policier de 47 ans a organisé une petite fête en plein milieu de confinement. Appelés en renfort pour stopper l'évènement, les gendarmes ont été pris à partie et le policier placé en garde à vue.",
     "thumbnail": "thumbnails/juiu1e.webp",
     "tags": [
-      "Covid-19"
+      "Covid-19",
+      "Police"
     ],
     "analyzed_at": "2026-11-01T09:58:15.725578+00:00"
   },
@@ -918,34 +578,10 @@
     "summary": "",
     "thumbnail": "thumbnails/jtzsl6.webp",
     "tags": [
-      "Soft paywall"
+      "Gérald Darmanin",
+      "Police"
     ],
     "analyzed_at": "2026-11-01T09:58:16.823053+00:00"
-  },
-  {
-    "id": "jtzqhz",
-    "title": "97% des Français favorables au vaccin s'il est d'abord testé sur des députés LREM",
-    "url": "http://www.legorafi.fr/2020/11/12/97-des-francais-favorables-au-vaccin-sil-est-dabord-teste-sur-des-deputes-lrem/",
-    "permalink": "/r/france/comments/jtzqhz/97_des_français_favorables_au_vaccin_sil_est/",
-    "created_at": "2020-11-14T10:01:49+00:00",
-    "score": 2595,
-    "num_comments": 95,
-    "subreddit": "france",
-    "author": "testing1838291",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/WHV767zVBykQuHKdSkDBpqushzKUwA_1-t_wUGirAAo.jpeg?auto=webp&s=8a7c2d3bb532ae680762e8d8403981cec6c0e0f8",
-    "ingested_at": "2026-11-01T09:45:46.509985+00:00",
-    "summary": "Après l'annonce d'un prochain vaccin contre le coronavirus, une écrasante majorité de Français est d'accord pour qu'il soit en priorité testé sur les députés LREM et ce « juste au cas où ».",
-    "thumbnail": "thumbnails/jtzqhz.webp",
-    "tags": [
-      "Français",
-      "LREM",
-      "Gorafi",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:58:15.822223+00:00"
   },
   {
     "id": "jtg3rf",
@@ -965,7 +601,7 @@
     "summary": "",
     "thumbnail": "thumbnails/jtg3rf.webp",
     "tags": [
-      "COVID-19"
+      "Covid-19"
     ],
     "analyzed_at": "2026-11-01T09:58:18.114330+00:00"
   },
@@ -987,9 +623,8 @@
     "summary": "",
     "thumbnail": "thumbnails/jtfckj.webp",
     "tags": [
-      "Al-Qaïda",
-      "Mali",
-      "Politique"
+      "Terrorisme",
+      "Défense"
     ],
     "analyzed_at": "2026-11-01T09:58:17.691073+00:00"
   },
@@ -1010,7 +645,9 @@
     "ingested_at": "2026-11-01T09:45:46.511254+00:00",
     "summary": "",
     "thumbnail": "thumbnails/jt4vfa.webp",
-    "tags": [],
+    "tags": [
+      "Justice"
+    ],
     "analyzed_at": "2026-11-01T09:58:17.663039+00:00"
   },
   {
@@ -1053,39 +690,11 @@
     "summary": "Information erronée du public, exposition à un risque injustifié et même… charlatanisme : le médiatique microbiologiste de Marseille va devo",
     "thumbnail": "thumbnails/jss1la.webp",
     "tags": [
-      "Didier Raoult",
-      "Ordre",
-      "Marseille",
-      "Bouches-du-Rhône",
-      "Covid-19"
+      "Covid-19",
+      "Santé",
+      "Éducation"
     ],
     "analyzed_at": "2026-11-01T09:58:17.074532+00:00"
-  },
-  {
-    "id": "jsqsis",
-    "title": "Le Conseil d’État reconnaît que le gouvernement US peut accéder aux données de santé des Français",
-    "url": "https://linuxfr.org/news/le-conseil-d-etat-reconnait-que-le-gouvernement-us-peut-acceder-aux-donnees-de-sante-des-francais",
-    "permalink": "/r/france/comments/jsqsis/le_conseil_détat_reconnaît_que_le_gouvernement_us/",
-    "created_at": "2020-11-12T07:57:18+00:00",
-    "score": 812,
-    "num_comments": 188,
-    "subreddit": "france",
-    "author": "C_kloug",
-    "flair": "Société",
-    "domain": "linuxfr.org",
-    "selftext": "",
-    "reddit_thumbnail": "https://a.thumbs.redditmedia.com/p2eboA-Z4F03uSDn6moI7RgfUpXhMd5TC3MpEjJBOh8.jpg",
-    "ingested_at": "2026-11-01T09:45:46.510152+00:00",
-    "summary": "Le Conseil d’État reconnaît que le gouvernement US peut accéder aux données de santé des Français",
-    "thumbnail": "thumbnails/jsqsis.webp",
-    "tags": [
-      "Conseil État",
-      "Français",
-      "US",
-      "CNIL",
-      "Société"
-    ],
-    "analyzed_at": "2026-11-01T09:58:17.746186+00:00"
   },
   {
     "id": "jscwnn",
@@ -1104,9 +713,7 @@
     "ingested_at": "2026-11-01T09:45:46.511842+00:00",
     "summary": "Militant de la cause amazigh (berbère), très impliqué localement dans le « Hirak », Yacine Mebarki pourrait être condamné à la plus lourde p",
     "thumbnail": "thumbnails/jscwnn.webp",
-    "tags": [
-      "Yacine Mebarki"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:58:17.524382+00:00"
   },
   {
@@ -1127,7 +734,8 @@
     "summary": "Grâce à des backdoors, les services de renseignement européens auraient accès aux conversations privées et chiffrées de bout en bout des citoyens. Le projet n'en est qu'à ses débuts.",
     "thumbnail": "thumbnails/js62vj.webp",
     "tags": [
-      "WhatsApp et Signal"
+      "Terrorisme",
+      "Union européenne"
     ],
     "analyzed_at": "2026-11-01T09:58:18.050833+00:00"
   },
@@ -1148,10 +756,7 @@
     "ingested_at": "2026-11-01T09:45:46.510101+00:00",
     "summary": "",
     "thumbnail": "thumbnails/jrkn1p.webp",
-    "tags": [
-      "Conseil État",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:58:18.071722+00:00"
   },
   {
@@ -1172,10 +777,7 @@
     "summary": "Le brouillon de résolution est prêt et doit en principe effectuer un dernier tour des tables de décision du Conseil de lUE le 25 du mois en cours avant son adoption.",
     "thumbnail": "thumbnails/jrhy5m.webp",
     "tags": [
-      "Conseil de UE",
-      "Conseil",
-      "UE le 25",
-      "UE"
+      "Union européenne"
     ],
     "analyzed_at": "2026-11-01T09:58:18.079274+00:00"
   },
@@ -1197,11 +799,8 @@
     "summary": "Face à Erdogan la riposte s’organise.",
     "thumbnail": "thumbnails/jqvd2u.webp",
     "tags": [
-      "INFORMATION EUROPE 1",
-      "UE et la Turquie",
-      "Erdogan",
-      "Turquie",
-      "Économie"
+      "Union européenne",
+      "Recep Tayyip Erdoğan"
     ],
     "analyzed_at": "2026-11-01T09:58:18.090956+00:00"
   },
@@ -1223,7 +822,7 @@
     "summary": "",
     "thumbnail": "thumbnails/jqv2f1.webp",
     "tags": [
-      "Politique"
+      "Police"
     ],
     "analyzed_at": "2026-11-01T09:58:19.790147+00:00"
   },
@@ -1245,8 +844,8 @@
     "summary": "Une organisation lycéenne favorable à l’exécutif a reçu 65 000 euros de subventions du ministère en 2019, dont 40 000 pour un congrès qui n’a jamais eu lieu. À sa tête, on a plutôt dégainé la carte b…",
     "thumbnail": "thumbnails/jqi9ue.webp",
     "tags": [
-      "Blanquer",
-      "Politique"
+      "Jean-Michel Blanquer",
+      "Grèves et syndicats"
     ],
     "analyzed_at": "2026-11-01T09:58:19.176125+00:00"
   },
@@ -1267,7 +866,9 @@
     "ingested_at": "2026-11-01T09:45:46.510691+00:00",
     "summary": "",
     "thumbnail": "thumbnails/jqannq.webp",
-    "tags": [],
+    "tags": [
+      "Police"
+    ],
     "analyzed_at": "2026-11-01T09:58:18.534141+00:00"
   },
   {
@@ -1288,8 +889,7 @@
     "summary": "D'après un sondage publié ce vendredi 6 novembre, la majorité des Français seraient favorables à un durcissement des mesures judiciaires pour lutter contre le",
     "thumbnail": "thumbnails/jpnhrr.webp",
     "tags": [
-      "Français",
-      "Samuel Paty"
+      "Élections"
     ],
     "analyzed_at": "2026-11-01T09:58:18.424324+00:00"
   },
@@ -1311,9 +911,9 @@
     "summary": "Dans un lycée d'Île-de-France, un collectif de professeurs s'est réuni derrière une lettre lue aux élèves en hommage à Samuel Paty. Ils dénoncent les ravages de l'islamisme et réaffirment des principes républicains. Une lettre que Marianne publie.",
     "thumbnail": "thumbnails/jpmmfv.webp",
     "tags": [
-      "Samuel Paty",
-      "Île-de-France",
-      "Marianne"
+      "Laïcité",
+      "Éducation",
+      "Racisme"
     ],
     "analyzed_at": "2026-11-01T09:58:18.862103+00:00"
   },
@@ -1335,29 +935,9 @@
     "summary": "",
     "thumbnail": "thumbnails/jp3pzd.webp",
     "tags": [
-      "Société"
+      "Racisme"
     ],
     "analyzed_at": "2026-11-01T09:58:20.677039+00:00"
-  },
-  {
-    "id": "jp2s0v",
-    "title": "Première guerre mondiale : Lettre adressée aux autorités française à la demande de l'état major américain concernant les soldats noirs américains.",
-    "url": "https://www.dropbox.com/s/jid41qe1cr8o9pj/WW1-BlackAmericanTroops.pdf",
-    "permalink": "/r/france/comments/jp2s0v/première_guerre_mondiale_lettre_adressée_aux/",
-    "created_at": "2020-11-06T10:24:34+00:00",
-    "score": 231,
-    "num_comments": 76,
-    "subreddit": "france",
-    "author": "Luk---",
-    "flair": "",
-    "domain": "dropbox.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/yOJtrqWqrrjQrtzKDoGtzc1NUM07prDwOCaUuK40UYk.jpg?auto=webp&s=75d3f39466acecc6105e32ea0bfb997cc8e27951",
-    "ingested_at": "2026-11-01T09:45:46.511380+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/jp2s0v.webp",
-    "tags": [],
-    "analyzed_at": "2026-11-01T09:58:19.894368+00:00"
   },
   {
     "id": "johvde",
@@ -1376,10 +956,7 @@
     "ingested_at": "2026-11-01T09:45:46.510382+00:00",
     "summary": "",
     "thumbnail": "thumbnails/johvde.webp",
-    "tags": [
-      "République",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:58:20.837114+00:00"
   },
   {
@@ -1400,36 +977,10 @@
     "summary": "Pour le Comité Laïcité République, l'Ifop a mené une enquête sur l'adhésion à la laïcité, le rapport au religieux et la lutte contre l'islamisme auprès d'un échantillon de 2.000 Français et d'un autre de 500 Français de confession musulmane. Marianne en dévoile les résultats en exclusivité.",
     "thumbnail": "thumbnails/joevaf.webp",
     "tags": [
-      "Français",
-      "Comité Laïcité République",
-      "Ifop",
-      "Société"
+      "Laïcité",
+      "Élections"
     ],
     "analyzed_at": "2026-11-01T09:58:19.420371+00:00"
-  },
-  {
-    "id": "joc1ks",
-    "title": "Élections US, surprise générale, Jean-Luc Mélenchon élu",
-    "url": "http://complots-faciles.com/blog/2020/11/04/elections-us-surprise-generale-jean-luc-melenchon-elu/",
-    "permalink": "/r/france/comments/joc1ks/élections_us_surprise_générale_jeanluc_mélenchon/",
-    "created_at": "2020-11-05T04:08:23+00:00",
-    "score": 272,
-    "num_comments": 28,
-    "subreddit": "france",
-    "author": "iamafraidicantdothat",
-    "flair": "Humour",
-    "domain": "complots-faciles.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/g3J82BhAklqwQAHX9oNUwrA7s52r-3K_59UjVZM3Lok.jpg?auto=webp&s=86944f850ac285fe46df3de3ea516b43913883eb",
-    "ingested_at": "2026-11-01T09:45:46.510822+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/joc1ks.webp",
-    "tags": [
-      "Élections US",
-      "Jean-Luc Mélenchon",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:58:23.143091+00:00"
   },
   {
     "id": "jo3asl",
@@ -1449,11 +1000,7 @@
     "summary": "Selon Ankara, \"il est nécessaire de protéger la liberté d'expression et de réunion des Turcs de France\" en réaction à la dissolution des Loups gris.",
     "thumbnail": "thumbnails/jo3asl.webp",
     "tags": [
-      "Turquie",
-      "Loups",
-      "Turcs de France",
-      "Ankara",
-      "Monde"
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T09:58:19.559096+00:00"
   },
@@ -1474,13 +1021,7 @@
     "ingested_at": "2026-11-01T09:45:46.510847+00:00",
     "summary": "Ce lundi, &agrave; l&#39;occasion de la rentr&eacute;e des classes, un hommage &agrave; Samuel Paty a &eacute;t&eacute; rendu par le corps enseignant et les &eacute;l&egrave;ves.",
     "thumbnail": "thumbnails/jnv4lv.webp",
-    "tags": [
-      "Samuel Paty",
-      "Lyon",
-      "Lyonmag",
-      "Informations",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:58:20.905857+00:00"
   },
   {
@@ -1501,39 +1042,10 @@
     "summary": "Le président français Emmanuel Macron a appelé mardi François Legault pour le remercier du « soutien du Québec dans la défense de la liberté d’expression », a annoncé le premier ministre du Québec.",
     "thumbnail": "thumbnails/jnesr2.webp",
     "tags": [
-      "Québec",
-      "François Legault",
-      "Emmanuel Macron",
-      "Mahomet",
-      "Politique"
+      "Libertés publiques",
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T09:58:20.473290+00:00"
-  },
-  {
-    "id": "jnchip",
-    "title": "France’s War on Islamism Isn’t Populism. It’s Reality.",
-    "url": "https://foreignpolicy.com/2020/11/03/frances-war-on-islamism-isnt-populism-its-reality/",
-    "permalink": "/r/france/comments/jnchip/frances_war_on_islamism_isnt_populism_its_reality/",
-    "created_at": "2020-11-03T15:41:45+00:00",
-    "score": 306,
-    "num_comments": 53,
-    "subreddit": "france",
-    "author": "eberkut",
-    "flair": "Politique",
-    "domain": "foreignpolicy.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/gqVMaVbuwEi6cLVgqSxoaVC9iHA-3wio3mZ1efj7gDs.jpeg?auto=webp&s=4f2c1153c1698f4f18bccc44a4784457ad9fbe74",
-    "ingested_at": "2026-11-01T09:45:46.510639+00:00",
-    "summary": "Liberal critics of Emmanuel Macron’s campaign against radicalism misunderstand the crisis his country faces.",
-    "thumbnail": "thumbnails/jnchip.webp",
-    "tags": [
-      "French",
-      "France's War",
-      "Islamism Isn't Populism",
-      "It's Reality",
-      "Politique"
-    ],
-    "analyzed_at": "2026-11-01T09:58:22.250897+00:00"
   },
   {
     "id": "jmwxpd",
@@ -1553,58 +1065,9 @@
     "summary": "Depuis quelques mois, l'État-major des armées se garde de donner le bilan des différentes opérations menées par les forces françaises au Sahel. Au plus",
     "thumbnail": "thumbnails/jmwxpd.webp",
     "tags": [
-      "Sahel",
-      "CEMA",
-      "Boulikessi",
-      "Ansarul Islam",
-      "Politique"
+      "Terrorisme"
     ],
     "analyzed_at": "2026-11-01T09:58:20.022193+00:00"
-  },
-  {
-    "id": "jmwk0o",
-    "title": "Quebec premier slams Trudeau for saying 'freedom of expression has its limits' after terror attack",
-    "url": "https://thepostmillennial.com/legault-slams-trudeau-over-muhammad-cartoons-comment",
-    "permalink": "/r/france/comments/jmwk0o/quebec_premier_slams_trudeau_for_saying_freedom/",
-    "created_at": "2020-11-02T21:23:53+00:00",
-    "score": 640,
-    "num_comments": 113,
-    "subreddit": "france",
-    "author": "Kinasin",
-    "flair": "",
-    "domain": "thepostmillennial.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/sMZA1BUpvMOXru5J4XgknINekWD9VBH8IWuE9cl7jV8.jpg?auto=webp&s=116cc9af4a3fd218e5a9357bfa5d4f8673c728d2",
-    "ingested_at": "2026-11-01T09:45:46.510230+00:00",
-    "summary": "“I really totally disagree with Mr. Trudeau, we have to protect freedom of expression”",
-    "thumbnail": "thumbnails/jmwk0o.webp",
-    "tags": [
-      "Trudeau",
-      "Mr"
-    ],
-    "analyzed_at": "2026-11-01T09:58:20.890237+00:00"
-  },
-  {
-    "id": "jmv49o",
-    "title": "Autriche: fusillade près d'un centre communautaire juif et d'une synagogue à Vienne, plusieurs blessés (police)",
-    "url": "https://www.i24news.tv/fr/actu/international/europe/1604346300-autriche-fusillade-pres-d-un-centre-communautaire-juif-et-d-une-synagogue-a-vienne-medias",
-    "permalink": "/r/france/comments/jmv49o/autriche_fusillade_près_dun_centre_communautaire/",
-    "created_at": "2020-11-02T20:11:34+00:00",
-    "score": 284,
-    "num_comments": 167,
-    "subreddit": "france",
-    "author": "-JanMayen",
-    "flair": "Actus",
-    "domain": "i24news.tv",
-    "selftext": "",
-    "reddit_thumbnail": "",
-    "ingested_at": "2026-11-01T09:45:46.510723+00:00",
-    "summary": "",
-    "thumbnail": "",
-    "tags": [
-      "Vienne"
-    ],
-    "analyzed_at": "2026-11-01T09:58:20.144980+00:00"
   },
   {
     "id": "jmp69w",
@@ -1623,12 +1086,7 @@
     "ingested_at": "2026-11-01T09:45:46.510256+00:00",
     "summary": "Ce groupuscule a été notamment pointé du doigt après des rixes ayant opposé communautés turque et arménienne près de Lyon.",
     "thumbnail": "thumbnails/jmp69w.webp",
-    "tags": [
-      "Loups Gris",
-      "Turquie",
-      "Sécurité",
-      "Lyon"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:58:20.565077+00:00"
   },
   {
@@ -1648,11 +1106,7 @@
     "ingested_at": "2026-11-01T09:45:46.510581+00:00",
     "summary": "Ils s'étaient déjà rassemblés jeudi soir devant la cathédrale, après l'attaque de Nice. Des jeunes Lodévois musulmans ont voulu montrer leur solidarité avec la communauté chrétienne à l'occasion de ce dimanche de la Toussaint....",
     "thumbnail": "thumbnails/jmnibp.webp",
-    "tags": [
-      "Nice",
-      "Toussaint",
-      "Lodévois"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:58:20.948184+00:00"
   },
   {
@@ -1673,11 +1127,7 @@
     "summary": "Une dizaine de personnes ont jeté des projectiles dans la cour d'un lycée nantais où se trouvaient des membres du corps enseignant, ce lundi, journée hommage à Samuel Paty. Un homme de 18 ans a été interpellé. Deux bouteilles d'acide ont également été retrouvés sur place.",
     "thumbnail": "thumbnails/jmmgr6.webp",
     "tags": [
-      "Samuel Paty",
-      "Agression",
-      "Arrestation – Garde à vue",
-      "Assassinat de Samuel Paty",
-      "Société"
+      "Éducation"
     ],
     "analyzed_at": "2026-11-01T09:58:21.548182+00:00"
   },
@@ -1698,9 +1148,7 @@
     "ingested_at": "2026-11-01T09:45:46.511491+00:00",
     "summary": "",
     "thumbnail": "thumbnails/jm39kk.webp",
-    "tags": [
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:58:21.094286+00:00"
   },
   {
@@ -1720,11 +1168,7 @@
     "ingested_at": "2026-11-01T09:45:46.510799+00:00",
     "summary": "La communauté asiatique d’Ile-de-France est ciblée par une campagne de haine sur les réseaux sociaux. Ses agresseurs la jugent «responsable»",
     "thumbnail": "thumbnails/jm1mpa.webp",
-    "tags": [
-      "Asiatiques",
-      "Ile-de-France",
-      "Chinois"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:58:21.185878+00:00"
   },
   {
@@ -1745,11 +1189,8 @@
     "summary": "Des dizaines de militants nationalistes ont défilé contre l'Arménie. La préfecture de la Côte d'Or a dit «condamner de la manière la plus ferme» la manifestation.",
     "thumbnail": "thumbnails/jlxvxi.webp",
     "tags": [
-      "Dijon",
-      "Turquie",
-      "Allah Akbar",
-      "Nice",
-      "Recep Tayyip Erdogan"
+      "Terrorisme",
+      "Recep Tayyip Erdoğan"
     ],
     "analyzed_at": "2026-11-01T09:58:21.570066+00:00"
   }

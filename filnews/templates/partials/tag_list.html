@@ -1,13 +1,15 @@
 {% load filnews_tags %}
 {% if tags %}
-<ul class="tag-list" aria-label="{{ label|default:'Tags' }}">
+<ul class="tag-list" aria-label="{{ label|default:'Fils' }}">
   {% for tag in tags %}
+  {% with kind=tag|tag_kind %}
   {% if tag|has_tag_page %}
-  <li><a class="tag" href="{% url 'tag_detail' tag.slug %}" data-timeline="{% url 'tag_timeline' tag.slug %}">{{ tag.name }}</a></li>
+  <li><a class="tag{% if kind %} tag--{{ kind }}{% endif %}" href="{% url 'tag_detail' tag.slug %}" data-timeline="{% url 'tag_timeline' tag.slug %}">{% if kind == "personnalite" %}{% include "partials/icon_person.html" %}{% endif %}{{ tag.name }}</a></li>
   {% else %}
   {# A tag seen once has no page: plain text. #}
-  <li><span class="tag tag--plain">{{ tag.name }}</span></li>
+  <li><span class="tag tag--plain{% if kind %} tag--{{ kind }}{% endif %}">{% if kind == "personnalite" %}{% include "partials/icon_person.html" %}{% endif %}{{ tag.name }}</span></li>
   {% endif %}
+  {% endwith %}
   {% endfor %}
 </ul>
 {% endif %}

@@ -17,39 +17,9 @@
     "summary": "Trois ans après le référendum remporté par les «Brexiters», les Britanniques ont dit adieu à l'Europe, ce vendredi 31 janvier.",
     "thumbnail": "thumbnails/ewwx57.webp",
     "tags": [
-      "Royaume-Uni",
-      "Union",
-      "Brexit",
-      "International",
-      "Actualité internationale"
+      "Union européenne"
     ],
     "analyzed_at": "2026-11-01T09:40:41.294520+00:00"
-  },
-  {
-    "id": "ewosgo",
-    "title": "French company Novacyte has released a diagnostic test for the Wuhan virus that generates a result in less than two hours, enabling more effective screening processes.",
-    "url": "https://www.cnbc.com/2020/01/31/novacyt-shares-jump-32percent-on-launch-of-coronavirus-test.html",
-    "permalink": "/r/france/comments/ewosgo/french_company_novacyte_has_released_a_diagnostic/",
-    "created_at": "2020-01-31T13:55:01+00:00",
-    "score": 286,
-    "num_comments": 26,
-    "subreddit": "france",
-    "author": "Achillus",
-    "flair": "Actus",
-    "domain": "cnbc.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/woC96RvVcQHzWVSJ68-isIC5DaXxCx8Vpr_sgCN1wKg.jpeg?auto=webp&s=dbb9b0b43bce74d1048273e5381f206ddbe886ef",
-    "ingested_at": "2026-10-31T15:36:44.238537+00:00",
-    "summary": "Novacyt stock soared 32% on Friday morning after the French cellular diagnostics company announced the launch of a new test for the coronavirus.",
-    "thumbnail": "thumbnails/ewosgo.webp",
-    "tags": [
-      "Wuhan",
-      "Novacyte",
-      "Biotech and Pharmaceuticals",
-      "Economy",
-      "Investment strategy"
-    ],
-    "analyzed_at": "2026-11-01T09:40:42.265602+00:00"
   },
   {
     "id": "ewluy8",
@@ -69,29 +39,10 @@
     "summary": "",
     "thumbnail": "thumbnails/ewluy8.webp",
     "tags": [
-      "Conseil"
+      "Environnement",
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T09:40:41.466206+00:00"
-  },
-  {
-    "id": "ewa3kb",
-    "title": "Ces salauds ont mis un drapeau suisse sur le nouvel emoji fondue",
-    "url": "https://emojipedia.org/fondue/",
-    "permalink": "/r/france/comments/ewa3kb/ces_salauds_ont_mis_un_drapeau_suisse_sur_le/",
-    "created_at": "2020-01-30T18:42:09+00:00",
-    "score": 194,
-    "num_comments": 57,
-    "subreddit": "france",
-    "author": "loulan",
-    "flair": "",
-    "domain": "emojipedia.org",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/KMCs-0IckbGGKHMV5yKldm5udcPmDWK4gBQ-82ZxvO4.png?auto=webp&s=4c1a563bf8fb0f98178e68b577f2e6ec7731767a",
-    "ingested_at": "2026-10-31T15:36:44.239115+00:00",
-    "summary": "A red fondue pot. Most platforms show cheese fondue with fondue forks sticking out of the pot.",
-    "thumbnail": "thumbnails/ewa3kb.webp",
-    "tags": [],
-    "analyzed_at": "2026-11-01T09:40:43.065680+00:00"
   },
   {
     "id": "ew3043",
@@ -111,9 +62,8 @@
     "summary": "L'instance recommande à l'Etat \"d'envisager l'adoption de mesures générales visant à supprimer le surpeuplement et à améliorer les conditions matérielles de détention\", selon un communiqué publié jeudi.",
     "thumbnail": "thumbnails/ew3043.webp",
     "tags": [
-      "Cour",
-      "Homme",
-      "Etat"
+      "Justice",
+      "Prisons"
     ],
     "analyzed_at": "2026-11-01T09:40:41.937743+00:00"
   },
@@ -135,9 +85,7 @@
     "summary": "Sous le titre générique « Effets d’une variation de transferts socio-fiscaux sur le niveau de vie et les inégalités», une étude publiée le 23 janvier par l’In...",
     "thumbnail": "thumbnails/ew2s2n.webp",
     "tags": [
-      "INSEE",
-      "RSA",
-      "Payant"
+      "Pauvreté"
     ],
     "analyzed_at": "2026-11-01T09:40:42.151806+00:00"
   },
@@ -158,13 +106,7 @@
     "ingested_at": "2026-10-31T15:36:44.238646+00:00",
     "summary": "Entretien. La garde de Sceaux a provoquÃ© un tollÃ© en assimilant \"l'insulte Ã la religion\" Ã \"une atteinte Ã la libertÃ© de conscience\". RÃ©action Ã l'affaire Mila, une adolescente menacÃ©e de mort pour avoir critiquÃ© l'islam. Nicole Belloubet plaide la maladresse. Propos scandaleux pour l'avocat de l'adolescente.",
     "thumbnail": "thumbnails/evvv3k.webp",
-    "tags": [
-      "Nicole Belloubet",
-      "Affaire Mila",
-      "Mila",
-      "Richard Malka",
-      "Sceaux"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:40:41.975708+00:00"
   },
   {
@@ -185,10 +127,7 @@
     "summary": "Les propos de la ministre de la Justice, qui réagissait à l’affaire Mila, lui valent de nombreuses critiques des défenseurs de la laïcité.",
     "thumbnail": "thumbnails/evlfpi.webp",
     "tags": [
-      "Mila",
-      "Justice",
-      "Nicole Belloubet",
-      "Politique"
+      "Justice"
     ],
     "analyzed_at": "2026-11-01T09:40:42.204079+00:00"
   },
@@ -210,11 +149,7 @@
     "summary": "Le parti de droite a annoncé qu'il n'avait comptabilisé que 58.000 adhérents en 2019. Loin des 238.208 revendiqués fin 2015.",
     "thumbnail": "thumbnails/evkp7e.webp",
     "tags": [
-      "Christian Jacob",
-      "Républicains",
-      "François Fillon",
-      "Les Républicains",
-      "Politique"
+      "François Fillon"
     ],
     "analyzed_at": "2026-11-01T09:40:42.202537+00:00"
   },
@@ -236,11 +171,7 @@
     "summary": "Quelque 50 millions de poussins mâles sont broyés chaque année en France.",
     "thumbnail": "thumbnails/ev41pq.webp",
     "tags": [
-      "Agriculture",
-      "Bien-être animal",
-      "Métiers",
-      "Éco / Conso",
-      "Politique"
+      "Agriculture"
     ],
     "analyzed_at": "2026-11-01T09:40:42.778517+00:00"
   },
@@ -261,13 +192,7 @@
     "ingested_at": "2026-10-31T15:36:44.239235+00:00",
     "summary": "Le député UDI-Agir du Nord Guy Bricout a vu sa proposition de loi être complètement modifiée en commission mercredi. Explications.",
     "thumbnail": "thumbnails/ev2nou.webp",
-    "tags": [
-      "Parisien",
-      "Guy Bricout",
-      "UDI-Agir du Nord Guy Bricout",
-      "RTT",
-      "Soft paywall"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:40:42.648362+00:00"
   },
   {
@@ -287,7 +212,9 @@
     "ingested_at": "2026-10-31T15:36:44.239292+00:00",
     "summary": "Dévoilée le 24 janvier, l’étude d’impact du projet de loi de réforme des retraites ne présente pas la vérité des faits. Elle « oublie » notamment les effets de l’âge pivot, la mesure qui est pourtant…",
     "thumbnail": "thumbnails/ev2knj.webp",
-    "tags": [],
+    "tags": [
+      "Retraites"
+    ],
     "analyzed_at": "2026-11-01T09:40:42.699266+00:00"
   },
   {
@@ -308,11 +235,7 @@
     "summary": "Le poulet lavé au chlore, une pratique répandue aux Etats-Unis, est interdit dans l'UE depuis 1997.",
     "thumbnail": "thumbnails/ev2c9y.webp",
     "tags": [
-      "Etats-Unis",
-      "Union",
-      "UE",
-      "Russie",
-      "Économie"
+      "Union européenne"
     ],
     "analyzed_at": "2026-11-01T09:40:42.649642+00:00"
   },
@@ -334,11 +257,7 @@
     "summary": "L’ingénieur Denis Breteau a dénoncé des appels d’offres truqués de la part de la SNCF en faveur du géant américain IBM. C’est le premier lanceur d’alerte à avoir bénéficié de la loi Sapin 2",
     "thumbnail": "thumbnails/euwrhg.webp",
     "tags": [
-      "Denis Breteau",
-      "SNCF",
-      "VIDEO",
-      "IBM",
-      "Sapin 2"
+      "Transports"
     ],
     "analyzed_at": "2026-11-01T09:40:42.806534+00:00"
   },
@@ -360,7 +279,8 @@
     "summary": "Condamné lourdement pour « fraude fiscale » et « blanchiment », Patrick Balkany est incarcéré depuis le 13 septembre 2019",
     "thumbnail": "thumbnails/euo1sc.webp",
     "tags": [
-      "Patrick Balkany"
+      "Patrick Balkany",
+      "Justice"
     ],
     "analyzed_at": "2026-11-01T09:40:42.990523+00:00"
   },
@@ -381,11 +301,7 @@
     "ingested_at": "2026-10-31T15:36:44.238248+00:00",
     "summary": "En juin 2019, la municipalité annonçait avec fierté l'installation de panneaux photovoltaïques sur le toit de la médiathèque. Six mois plus tard, le constat est amer, l'équipement n'a jamais été branché.",
     "thumbnail": "thumbnails/eump5t.webp",
-    "tags": [
-      "Roubaix",
-      "Panneaux photovoltaïques",
-      "Énergie renouvelable"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:40:42.924576+00:00"
   },
   {
@@ -405,7 +321,9 @@
     "ingested_at": "2026-10-31T15:36:44.239216+00:00",
     "summary": "",
     "thumbnail": "thumbnails/eull9x.webp",
-    "tags": [],
+    "tags": [
+      "Environnement"
+    ],
     "analyzed_at": "2026-11-01T09:40:42.988619+00:00"
   },
   {
@@ -425,54 +343,8 @@
     "ingested_at": "2026-10-31T15:36:44.238476+00:00",
     "summary": "",
     "thumbnail": "thumbnails/euchgt.webp",
-    "tags": [
-      "Kobe Bryant"
-    ],
-    "analyzed_at": "2026-11-01T09:40:42.998956+00:00"
-  },
-  {
-    "id": "eu8wzs",
-    "title": "You want to reduce the carbon footprint of your food? Focus on what you eat, not whether your food is local",
-    "url": "https://ourworldindata.org/food-choice-vs-eating-local",
-    "permalink": "/r/france/comments/eu8wzs/you_want_to_reduce_the_carbon_footprint_of_your/",
-    "created_at": "2020-01-26T16:34:05+00:00",
-    "score": 208,
-    "num_comments": 155,
-    "subreddit": "france",
-    "author": "JeanneHusse",
-    "flair": "Écologie",
-    "domain": "ourworldindata.org",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/yQHttkExvvYd433zCg_9e7NoCIsd-iF7sWT8BeC1Bv4.jpeg?auto=webp&s=130c4452f44bc26600fb72be4e545b5a13c0cfcb",
-    "ingested_at": "2026-10-31T15:36:44.238967+00:00",
-    "summary": "“Eat local” is a common recommendation to reduce your diet's carbon footprint. How does the impact of what you eat compare to where it comes from?",
-    "thumbnail": "thumbnails/eu8wzs.webp",
-    "tags": [
-      "GHG",
-      "CO 2",
-      "Écologie"
-    ],
-    "analyzed_at": "2026-11-01T09:40:43.072374+00:00"
-  },
-  {
-    "id": "eu3qlj",
-    "title": "Chaumont-sur-Loire, Loir-et-Cher, France",
-    "url": "https://live.staticflickr.com/65535/49403804301_dc2a1897d3_o.jpg",
-    "permalink": "/r/france/comments/eu3qlj/chaumontsurloire_loiretcher_france/",
-    "created_at": "2020-01-26T07:25:39+00:00",
-    "score": 1518,
-    "num_comments": 38,
-    "subreddit": "france",
-    "author": "loulan",
-    "flair": "",
-    "domain": "live.staticflickr.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/bjAk5_2c3gjUaqL-S4h4I13CbqVeYkd0-DVMI9ZWRU8.jpg?auto=webp&s=d6664bf57ca3f895d64e23b7c6f4db827be0abd9",
-    "ingested_at": "2026-10-31T15:36:44.238045+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/eu3qlj.webp",
     "tags": [],
-    "analyzed_at": "2026-11-01T09:40:43.505257+00:00"
+    "analyzed_at": "2026-11-01T09:40:42.998956+00:00"
   },
   {
     "id": "etso7k",
@@ -491,38 +363,8 @@
     "ingested_at": "2026-10-31T15:36:44.239587+00:00",
     "summary": "L'AFP a rencontré des Françaises qui avaient rejoint le groupe État islamique et sont désormais détenues dans un camp. Témoignages.",
     "thumbnail": "thumbnails/etso7k.webp",
-    "tags": [
-      "AFP",
-      "État",
-      "Françaises"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:40:43.594739+00:00"
-  },
-  {
-    "id": "etoop2",
-    "title": "L’arrêt des réacteurs nucléaires Allemands a conduit à une augmentation des émissions de 36millions de tonnes de CO2, 1100 morts supplémentaires par ans liées à la qualité de l’air et un coût social de 12 Milliards d’euros",
-    "url": "https://www.wired.com/story/germany-rejected-nuclear-powerand-deadly-emissions-spiked/#intcid=recommendations_wired-homepage-right-rail-popular_94bea38e-f8f2-4d71-9871-01f2a8f97481_popular4-1",
-    "permalink": "/r/france/comments/etoop2/larrêt_des_réacteurs_nucléaires_allemands_a/",
-    "created_at": "2020-01-25T09:17:10+00:00",
-    "score": 1146,
-    "num_comments": 294,
-    "subreddit": "france",
-    "author": "twotimesthreeequals",
-    "flair": "Écologie",
-    "domain": "wired.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/8LeKJmsYo2ERgyDCR8R0QTVdaqDqYNwQG3V40PGFdjk.jpeg?auto=webp&s=fc172993a8307984467a1776ed15b41b8edf28c4",
-    "ingested_at": "2026-10-31T15:36:44.238114+00:00",
-    "summary": "After Fukushima, the country opted to decommission its nuclear reactors. The US has a lot to learn from what happened next.",
-    "thumbnail": "thumbnails/etoop2.webp",
-    "tags": [
-      "Germany",
-      "Allemands",
-      "CO2",
-      "Milliards",
-      "Écologie"
-    ],
-    "analyzed_at": "2026-11-01T09:40:43.673657+00:00"
   },
   {
     "id": "etfa6x",
@@ -542,11 +384,7 @@
     "summary": "Les autorités chinoises ont relevé ce vendredi le bilan à 26 morts et 830 cas.«Il est trop tôt» pour déclarer une urgence internationale, selon l'OMS, mais «cela pourrait le devenir» a indiqué la veille l'organisation internationale.",
     "thumbnail": "thumbnails/etfa6x.webp",
     "tags": [
-      "Médecine",
-      "Chine",
-      "Paris",
-      "Bordeaux",
-      "Wuhan"
+      "Covid-19"
     ],
     "analyzed_at": "2026-11-01T09:40:43.471260+00:00"
   },
@@ -567,13 +405,7 @@
     "ingested_at": "2026-10-31T15:36:44.238455+00:00",
     "summary": "Invité par Sud Radio à s'exprimer au sujet de l'affaire Mila, Abdallah Zekri a tenu un discours inquiétant : condamnant les menaces de mort, il a néanmoins exigé du \"respect\" dans la critique de la religion et estimé que l'adolescente était responsable de la vindicte subie.",
     "thumbnail": "thumbnails/etbr0d.webp",
-    "tags": [
-      "Mila",
-      "CFCM",
-      "Abdallah Zekri",
-      "Sud Radio",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:40:43.438278+00:00"
   },
   {
@@ -594,11 +426,7 @@
     "summary": "Le président de la République a dénoncé les «discours politiques extraordinairement coupables» de l'opposition sur les violences en France.",
     "thumbnail": "thumbnails/et8nas.webp",
     "tags": [
-      "Gouvernement",
-      "République",
-      "Opposition",
-      "Loi",
-      "Politique"
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T09:40:43.511364+00:00"
   },
@@ -620,11 +448,7 @@
     "summary": "À la suite de la réunion du mercredi 15 janvier, le bureau de l’Assemblée nationale a refusé la levée de l’immunité parlementaire du député guadeloupéen Max Mathiasin (Modem), cité dans une affaire de détournements présumés de fonds publics, à Pointe-à-Pitre.",
     "thumbnail": "thumbnails/et7e3q.webp",
     "tags": [
-      "Assemblée",
-      "Max Mathiasin",
-      "Modem",
-      "Pointe-à-Pitre",
-      "Politique"
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T09:40:43.472419+00:00"
   },
@@ -646,10 +470,7 @@
     "summary": "© Mozilla En cette période clé pour les étudiants qui, sur les campus, sont nombreux à être convoités par les entreprises, l'éditeur de Firefox publie un guide les enjoignant à se poser des questions éthiques avant d'accepter un poste dans la tech.",
     "thumbnail": "thumbnails/esy3z0.webp",
     "tags": [
-      "Mozilla",
-      "Firefox",
-      "Mozilla Corporation",
-      "Société"
+      "Éducation"
     ],
     "analyzed_at": "2026-11-01T09:40:43.854406+00:00"
   },
@@ -670,37 +491,8 @@
     "ingested_at": "2026-10-31T15:36:44.238158+00:00",
     "summary": "Critics argue possible legislation would legitimise child marriage and statutory rape",
     "thumbnail": "thumbnails/esroks.webp",
-    "tags": [
-      "Turkey",
-      "Turquie",
-      "\"Womens rights\"",
-      "\"Internal\"]"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:40:43.936230+00:00"
-  },
-  {
-    "id": "esqifa",
-    "title": "[Mediapart en accès Libre] Affaire Benalla : les révélations majeures d'un témoin sur la disparition du coffre-fort",
-    "url": "https://actu.orange.fr/france/affaire-benalla-les-revelations-majeures-d-un-temoin-sur-la-disparition-du-coffre-fort-magic-CNT000001n4GTP.html",
-    "permalink": "/r/france/comments/esqifa/mediapart_en_accès_libre_affaire_benalla_les/",
-    "created_at": "2020-01-23T09:00:03+00:00",
-    "score": 190,
-    "num_comments": 86,
-    "subreddit": "france",
-    "author": "GrenobleLyon",
-    "flair": "Politique",
-    "domain": "actu.orange.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/AcVNYTiCIcPcItbSigT_n8K3M-An6TteDPxkf7tB5Bo.jpg?auto=webp&s=7e213dfa8b8b9b359ce3e889d186dd27183ed992",
-    "ingested_at": "2026-10-31T15:36:44.239154+00:00",
-    "summary": "Toutes les actualités de France en un seul endroit. Politique, culture, faits divers, environnement - restez informé(e) avec Orange Actualités.",
-    "thumbnail": "thumbnails/esqifa.webp",
-    "tags": [
-      "Libre",
-      "Affaire Benalla",
-      "Politique"
-    ],
-    "analyzed_at": "2026-11-01T09:40:43.805027+00:00"
   },
   {
     "id": "esen5f",
@@ -720,10 +512,7 @@
     "summary": "C’est une opération de nettoyage au sommet de l’État, qui a été décrite par le menu sur procès-verbal. Un témoin clé de l’affaire Benalla a impliqué, mardi 21 janvier, lors d’une audition devant la B…",
     "thumbnail": "thumbnails/esen5f.webp",
     "tags": [
-      "Elysée",
-      "Benalla",
-      "État",
-      "Politique"
+      "Alexandre Benalla"
     ],
     "analyzed_at": "2026-11-01T09:40:43.844898+00:00"
   },
@@ -746,34 +535,10 @@
     "thumbnail": "thumbnails/es8777.webp",
     "tags": [
       "Alexandre Benalla",
-      "Mediapart",
-      "Procès Alexandre Benalla",
-      "Emmanuel Macron",
-      "Société"
+      "Justice",
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T09:40:43.869909+00:00"
-  },
-  {
-    "id": "erw92z",
-    "title": "Pétition pour un contrat électrique d'origine garantie 100% nucléaire",
-    "url": "https://www.change.org/p/mon-geste-pour-le-climat-je-veux-un-contrat-%C3%A9lectrique-d-origine-garantie-100-nucl%C3%A9aire-et-%C3%A7a-ne-me-g%C3%AAne-pas-d-acheter-fran%C3%A7ais?signed=true",
-    "permalink": "/r/france/comments/erw92z/pétition_pour_un_contrat_électrique_dorigine/",
-    "created_at": "2020-01-21T15:38:42+00:00",
-    "score": 160,
-    "num_comments": 48,
-    "subreddit": "france",
-    "author": "Remideza",
-    "flair": "",
-    "domain": "change.org",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/Fgt3cr03S_paQN-so_lkDaTQmRsbbJcSjlQG0jyPa74.jpeg?auto=webp&s=14ef8d619f00846ffc69c09cdc75ccaf61e0fa73",
-    "ingested_at": "2026-10-31T15:36:44.239407+00:00",
-    "summary": "une électricité d'origine garantie nucléaire: c'est mon geste pour le climat",
-    "thumbnail": "thumbnails/erw92z.webp",
-    "tags": [
-      "Service Client"
-    ],
-    "analyzed_at": "2026-11-01T09:40:44.657853+00:00"
   },
   {
     "id": "erstib",
@@ -792,9 +557,7 @@
     "ingested_at": "2026-10-31T15:36:44.238948+00:00",
     "summary": "",
     "thumbnail": "thumbnails/erstib.webp",
-    "tags": [
-      "Soft paywall"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:40:44.373819+00:00"
   },
   {
@@ -814,12 +577,7 @@
     "ingested_at": "2026-10-31T15:36:44.238289+00:00",
     "summary": "Une pétition est lancée par plusieurs associations de consommateurs, dont l’UFC-Que Choisir, à partir de ce lundi, pour \"mettre fin au fléau\".",
     "thumbnail": "thumbnails/erc57e.webp",
-    "tags": [
-      "UFC-Que Choisir",
-      "Bloctel",
-      "Éco / Conso",
-      "Tech / Web"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:40:44.331915+00:00"
   },
   {
@@ -839,11 +597,7 @@
     "ingested_at": "2026-10-31T15:36:44.238708+00:00",
     "summary": "",
     "thumbnail": "thumbnails/erad3l.webp",
-    "tags": [
-      "Ghibli",
-      "Netflix",
-      "Europe"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:40:44.143247+00:00"
   },
   {
@@ -863,10 +617,7 @@
     "ingested_at": "2026-10-31T15:36:44.239750+00:00",
     "summary": "La technique d'interpellation du plaquage ventral a causé de nombreux décès par asphyxie, selon un décompte établi par le JDD.",
     "thumbnail": "thumbnails/eqyk7e.webp",
-    "tags": [
-      "JDD",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:40:44.242600+00:00"
   },
   {
@@ -887,31 +638,9 @@
     "summary": "Depuis 2006, ce quadragénaire travaille pour Pôle Emploi. Il y a 6 ans, il a repéré des dysfonctionnements dans le versement de certaines allocations. Il a décidé de prévenir chaque personne concernée pour qu'elle active...",
     "thumbnail": "thumbnails/eqwggf.webp",
     "tags": [
-      "Pôle Emploi",
-      "Yann Gaudin",
-      "Société"
+      "Travail"
     ],
     "analyzed_at": "2026-11-01T09:40:44.392835+00:00"
-  },
-  {
-    "id": "eqerh2",
-    "title": "L’Union européenne veut bannir temporairement la reconnaissance faciale",
-    "url": "https://www.lebigdata.fr/union-europeenne-bannir-reconnaissance-faciale",
-    "permalink": "/r/france/comments/eqerh2/lunion_européenne_veut_bannir_temporairement_la/",
-    "created_at": "2020-01-18T10:17:42+00:00",
-    "score": 423,
-    "num_comments": 51,
-    "subreddit": "france",
-    "author": "Efendiskander",
-    "flair": "",
-    "domain": "lebigdata.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/O0QySnO6q-jR55pqi0vDlQfkBVu0V4L9N1J7GCTwFHY.jpg?auto=webp&s=29713238e447150bb81e186a625d12aca5601606",
-    "ingested_at": "2026-10-31T15:36:44.238309+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/eqerh2.webp",
-    "tags": [],
-    "analyzed_at": "2026-11-01T09:40:44.992977+00:00"
   },
   {
     "id": "eqe240",
@@ -931,11 +660,7 @@
     "summary": "Le journaliste de 22 ans a été placé en garde à vue pour “participation à un groupement formé en vue de commettre des violences ou des dégradations”.",
     "thumbnail": "thumbnails/eqe240.webp",
     "tags": [
-      "Taha Bouhafs",
-      "Macron",
-      "Bouffes du Nord",
-      "Emmanuel Macron",
-      "Politique"
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T09:40:44.656626+00:00"
   },
@@ -957,37 +682,10 @@
     "summary": "« Pute à nègre », « arabo-négroïde »...",
     "thumbnail": "thumbnails/eq6vji.webp",
     "tags": [
-      "Rouen",
-      "Inspection",
-      "IPGN",
-      "Unité",
-      "UAAJ"
+      "Police",
+      "Racisme"
     ],
     "analyzed_at": "2026-11-01T09:40:44.573210+00:00"
-  },
-  {
-    "id": "eq428r",
-    "title": "Le Parti Pirate demande le report de la loi Avia qui institutionnalise la censure privée",
-    "url": "https://partipirate.org/le-parti-pirate-demande-le-report-de-la-loi-avia-qui-institutionnalise-la-censure-privee",
-    "permalink": "/r/france/comments/eq428r/le_parti_pirate_demande_le_report_de_la_loi_avia/",
-    "created_at": "2020-01-17T18:13:04+00:00",
-    "score": 187,
-    "num_comments": 15,
-    "subreddit": "france",
-    "author": "Deeoon",
-    "flair": "Politique",
-    "domain": "partipirate.org",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/orS0AqPvfaP4IzhwwKSajCFOsQZxwTUF-HzqNfdHDrU.jpg?auto=webp&s=659dd4faf669ce0f55579451642b155106b71679",
-    "ingested_at": "2026-10-31T15:36:44.239173+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/eq428r.webp",
-    "tags": [
-      "Parti Pirate",
-      "Avia",
-      "Politique"
-    ],
-    "analyzed_at": "2026-11-01T09:40:45.135601+00:00"
   },
   {
     "id": "epx2wm",
@@ -1007,34 +705,10 @@
     "summary": "Le gouvernement a fixé au 17 mai le vote sur l'initiative populaire \"Pour une immigration modérée\" qui demande que \"la Suisse règle de manière autonome l'immigration des étrangers\".",
     "thumbnail": "thumbnails/epx2wm.webp",
     "tags": [
-      "Suisses",
-      "UE",
-      "Suisse"
+      "Immigration",
+      "Union européenne"
     ],
     "analyzed_at": "2026-11-01T09:40:44.780752+00:00"
-  },
-  {
-    "id": "epgkgr",
-    "title": "Quand le service com d’AXA plante les efforts du gouvernement pour faire croire qu’il n’y aura pas de baisse du niveau des pensions...",
-    "url": "https://pbs.twimg.com/media/EOUHQibX4AAFNc_?format=jpg&name=large",
-    "permalink": "/r/france/comments/epgkgr/quand_le_service_com_daxa_plante_les_efforts_du/",
-    "created_at": "2020-01-16T08:26:41+00:00",
-    "score": 108,
-    "num_comments": 40,
-    "subreddit": "france",
-    "author": "Knowonething",
-    "flair": "Société",
-    "domain": "pbs.twimg.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/TJC9ZsZW0yS7n7NlU0f0EP8d_8DBu87nAnJ4E71pFJw.jpeg?auto=webp&s=866f2ece78c4aa66aada220e8cce462e688d3cbe",
-    "ingested_at": "2026-10-31T15:36:44.239720+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/epgkgr.webp",
-    "tags": [
-      "AXA",
-      "Société"
-    ],
-    "analyzed_at": "2026-11-01T09:40:44.625780+00:00"
   },
   {
     "id": "epawf4",
@@ -1054,9 +728,8 @@
     "summary": "",
     "thumbnail": "thumbnails/epawf4.webp",
     "tags": [
-      "Castaner",
-      "LREM",
-      "Politique"
+      "Christophe Castaner",
+      "Élections"
     ],
     "analyzed_at": "2026-11-01T09:40:45.746255+00:00"
   },
@@ -1077,9 +750,7 @@
     "ingested_at": "2026-10-31T15:36:44.239273+00:00",
     "summary": "",
     "thumbnail": "thumbnails/ep1vcn.webp",
-    "tags": [
-      "RER"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:40:44.864119+00:00"
   },
   {
@@ -1099,13 +770,7 @@
     "ingested_at": "2026-10-31T15:36:44.238728+00:00",
     "summary": "Le Grand débat national, vous vous souvenez ? Deux mois de prises de parole, début 2019, dans tout le pays, pour écouter les Français en total \"transparence\" , avait promis le gouvernement. Alors un an plus tard, la promesse a-t-elle été tenue ?",
     "thumbnail": "thumbnails/ep0c6g.webp",
-    "tags": [
-      "Grand",
-      "Français",
-      "Corrèze",
-      "Archives",
-      "Grand débat national"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:40:45.018680+00:00"
   },
   {
@@ -1126,33 +791,9 @@
     "summary": "Le PDG a reconnu l'existence d'une \"pression\" sur les groupes pétroliers et gaziers, tout en la jugeant \"très occidentale, voire très européenne\".",
     "thumbnail": "thumbnails/eoz5yb.webp",
     "tags": [
-      "PDG de Total",
-      "PDG",
-      "Crise climatique",
-      "Environnement",
-      "Écologie"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T09:40:45.068650+00:00"
-  },
-  {
-    "id": "eooj3e",
-    "title": "France has become the first country to ban the use of all 5 neonicotinoids pesticides killing bees",
-    "url": "https://familylifegoals.com/france-has-become-the-first-country-to-ban-the-use-of-all-5-neonicotinoids-pesticides-killing-bees/",
-    "permalink": "/r/france/comments/eooj3e/france_has_become_the_first_country_to_ban_the/",
-    "created_at": "2020-01-14T17:41:16+00:00",
-    "score": 458,
-    "num_comments": 74,
-    "subreddit": "france",
-    "author": "Nivuuu",
-    "flair": "",
-    "domain": "familylifegoals.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/Hddcy2kKbfk5dST_XRpKV967TwxAL0jdObyGto31MFY.jpg?auto=webp&s=9664395942163532964ab9726e221ed98010bc53",
-    "ingested_at": "2026-10-31T15:36:44.238269+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/eooj3e.webp",
-    "tags": [],
-    "analyzed_at": "2026-11-01T09:40:45.857143+00:00"
   },
   {
     "id": "eoiq60",
@@ -1172,37 +813,11 @@
     "summary": "Christophe Castaner avait rappelé les forces de l'ordre à leur devoir d'\"exemplarité\" et à leur \"éthique\" lors de ses voeux.",
     "thumbnail": "thumbnails/eoiq60.webp",
     "tags": [
-      "Alliance",
-      "Intérieur",
+      "Police",
       "Christophe Castaner",
-      "Réforme des retraites",
-      "Retraite"
+      "Grèves et syndicats"
     ],
     "analyzed_at": "2026-11-01T09:40:45.557961+00:00"
-  },
-  {
-    "id": "eoh7g0",
-    "title": "Waze intègre le prix des péages en France",
-    "url": "https://www.generation-nt.com/waze-prix-peages-france-actualite-1972078.html",
-    "permalink": "/r/france/comments/eoh7g0/waze_intègre_le_prix_des_péages_en_france/",
-    "created_at": "2020-01-14T05:55:29+00:00",
-    "score": 354,
-    "num_comments": 131,
-    "subreddit": "france",
-    "author": "lulucmy",
-    "flair": "",
-    "domain": "generation-nt.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/vd-Q5vslnwI9JcCXm3hBSyLl-dE7idqEYsLlzsSEmWI.jpeg?auto=webp&s=c3824cb73285b97beef23017ccfab865891daabd",
-    "ingested_at": "2026-10-31T15:36:44.238419+00:00",
-    "summary": "C'était attendu et cela arrive en France pour les utilisateurs de Waze qui seront dorénavant informés des prix de plus de 54 autoroutes à péage en France.",
-    "thumbnail": "thumbnails/eoh7g0.webp",
-    "tags": [
-      "Waze",
-      "Waze prix autoroutes france",
-      "Peages"
-    ],
-    "analyzed_at": "2026-11-01T09:40:45.345720+00:00"
   },
   {
     "id": "eo6j92",
@@ -1221,13 +836,7 @@
     "ingested_at": "2026-10-31T15:36:44.238871+00:00",
     "summary": "Militant d'un Internet libre et ouvert, il est accusÃ© en 2011 dâavoir tÃ©lÃ©chargÃ© 4,8 millions dâarticles scientifiques. Le gouvernement amÃ©ricain a voulu en faire un exempleâ¦",
     "thumbnail": "thumbnails/eo6j92.webp",
-    "tags": [
-      "Aaron Swartz",
-      "Internet",
-      "MIT",
-      "SociÃ©tÃ©",
-      "Méta"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:40:45.566893+00:00"
   },
   {
@@ -1247,10 +856,7 @@
     "ingested_at": "2026-10-31T15:36:44.238136+00:00",
     "summary": "Karim Ben Ali, chauffeur intérimaire, a dénoncé en 2017 le déversement d'acide dans la nature par le groupe ArcelorMittal. Il est considéré comme le premier lanceur d'alerte du monde ouvrier",
     "thumbnail": "thumbnails/eo0o6f.webp",
-    "tags": [
-      "Karim Ben Ali",
-      "ArcelorMittal"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:40:45.579529+00:00"
   },
   {
@@ -1271,9 +877,7 @@
     "summary": "L’université Jean-Jaurès est secouée par la récente révélation d'un échange de courriels internes invitant à pénaliser des personnels engagés dans le mouvement de grève. Une « liste noire » qui pose …",
     "thumbnail": "thumbnails/enlk5n.webp",
     "tags": [
-      "Toulouse",
-      "Jean-Jaurès",
-      "UFR"
+      "Grèves et syndicats"
     ],
     "analyzed_at": "2026-11-01T09:40:45.576860+00:00"
   },
@@ -1295,31 +899,9 @@
     "summary": "Le gouvernement redoute une \"guérilla parlementaire\" à l'Assemblée nationale lors de l'examen des projets de loi sur la réformes des retraites. Au point de débattre de l'utilisation du 49-3...",
     "thumbnail": "thumbnails/enlfan.webp",
     "tags": [
-      "Assemblée"
+      "Retraites"
     ],
     "analyzed_at": "2026-11-01T09:40:45.660381+00:00"
-  },
-  {
-    "id": "en4nwd",
-    "title": "Perpignan : les salariés d’un sous-traitant d’Amazon se mettent en grève, le patron déménage la société pendant la nuit",
-    "url": "https://fr.theepochtimes.com/perpignan-les-salaries-dun-sous-traitant-damazon-se-mettent-en-greve-le-patron-demenage-la-societe-pendant-la-nuit-1191253.html",
-    "permalink": "/r/france/comments/en4nwd/perpignan_les_salariés_dun_soustraitant_damazon/",
-    "created_at": "2020-01-11T07:49:29+00:00",
-    "score": 391,
-    "num_comments": 175,
-    "subreddit": "france",
-    "author": "[deleted]",
-    "flair": "",
-    "domain": "fr.theepochtimes.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/Bl1BEfvoXTNvD842CATN6khfEvqg1FG1tigfqi6sIMg.jpg?auto=webp&s=b97910b431cf588fbda210cd026ef7613be4b55d",
-    "ingested_at": "2026-10-31T15:36:44.238357+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/en4nwd.webp",
-    "tags": [
-      "Amazon"
-    ],
-    "analyzed_at": "2026-11-01T09:40:46.013356+00:00"
   },
   {
     "id": "en3r27",
@@ -1339,7 +921,7 @@
     "summary": "",
     "thumbnail": "thumbnails/en3r27.webp",
     "tags": [
-      "Téhéran"
+      "Guerre en Ukraine"
     ],
     "analyzed_at": "2026-11-01T09:40:45.862617+00:00"
   },
@@ -1361,11 +943,7 @@
     "summary": "Cette technologie est actuellement expérimentée dans les rues de Londres, ce qui ne plaît pas à tous les riverains. De son côté, la police locale a décidé d’opter pour la fermeté.",
     "thumbnail": "thumbnails/emqw4n.webp",
     "tags": [
-      "Londres",
-      "Chine",
-      "Anglais",
-      "Reconnaissance faciale",
-      "Société"
+      "Libertés publiques"
     ],
     "analyzed_at": "2026-11-01T09:40:45.767966+00:00"
   },
@@ -1387,9 +965,7 @@
     "summary": "Ce numéro RIO (Référentiel des Identités et de l'Organisation) permet notamment de mieux identifier les policiers intervenant dans les manifestations.",
     "thumbnail": "thumbnails/emofab.webp",
     "tags": [
-      "RIO",
-      "Identités et de Organisation",
-      "Société"
+      "Police"
     ],
     "analyzed_at": "2026-11-01T09:40:45.785429+00:00"
   },
@@ -1411,31 +987,9 @@
     "summary": "",
     "thumbnail": "thumbnails/emd64w.webp",
     "tags": [
-      "Royaume-Uni le 31"
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T09:40:45.775806+00:00"
-  },
-  {
-    "id": "em7e41",
-    "title": "30 000 euros par mois : Jacques Toubon «ne comprend pas que ça choque»",
-    "url": "https://outline.com/gwZjxb",
-    "permalink": "/r/france/comments/em7e41/30_000_euros_par_mois_jacques_toubon_ne_comprend/",
-    "created_at": "2020-01-09T09:33:57+00:00",
-    "score": 124,
-    "num_comments": 126,
-    "subreddit": "france",
-    "author": "cuby87",
-    "flair": "",
-    "domain": "outline.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://b.thumbs.redditmedia.com/NRhTY5zq2ZZru8X0qnbp4vqoluPbVIn1oQ1AwKI6nRM.jpg",
-    "ingested_at": "2026-10-31T15:36:44.239607+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/em7e41.webp",
-    "tags": [
-      "Jacques Toubon"
-    ],
-    "analyzed_at": "2026-11-01T09:40:48.275511+00:00"
   },
   {
     "id": "elt1jz",
@@ -1456,35 +1010,10 @@
     "thumbnail": "thumbnails/elt1jz.webp",
     "tags": [
       "Nicolas Sarkozy",
-      "Thierry Herzog",
-      "Affaires Sarkozy",
-      "Affaires politiques",
-      "Politique"
+      "Justice",
+      "Corruption"
     ],
     "analyzed_at": "2026-11-01T09:40:46.071171+00:00"
-  },
-  {
-    "id": "elpukw",
-    "title": "Les contributeurs de Wikipédia refusent de passer à l'écriture inclusive",
-    "url": "https://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Sondage/%C3%89criture_inclusive",
-    "permalink": "/r/france/comments/elpukw/les_contributeurs_de_wikipédia_refusent_de_passer/",
-    "created_at": "2020-01-08T08:06:25+00:00",
-    "score": 1368,
-    "num_comments": 1030,
-    "subreddit": "france",
-    "author": "saintsulpice",
-    "flair": "Culture",
-    "domain": "fr.wikipedia.org",
-    "selftext": "",
-    "reddit_thumbnail": "https://b.thumbs.redditmedia.com/IvRfSNspUtC76IyYJ5QyTadmwG2rDpX7HWiBF_4AUxw.jpg",
-    "ingested_at": "2026-10-31T15:36:44.238089+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/elpukw.webp",
-    "tags": [
-      "Wikipédia",
-      "Culture"
-    ],
-    "analyzed_at": "2026-11-01T09:40:46.102886+00:00"
   },
   {
     "id": "eldy1o",
@@ -1503,10 +1032,7 @@
     "ingested_at": "2026-10-31T15:36:44.239048+00:00",
     "summary": "",
     "thumbnail": "thumbnails/eldy1o.webp",
-    "tags": [
-      "Cédric Chouviat",
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:40:46.813894+00:00"
   },
   {
@@ -1527,9 +1053,7 @@
     "summary": "Interpellé le 3 janvier, à Paris, lors d’un contrôle de police, Cédric Chouviat est décédé des suites d’un arrêt cardiaque. Sur des vidéos obtenues par Mediapart, on voit trois policiers plaquer au s…",
     "thumbnail": "thumbnails/el96pi.webp",
     "tags": [
-      "Cédric Chouviat",
-      "Paris",
-      "Société"
+      "Police"
     ],
     "analyzed_at": "2026-11-01T09:40:46.099734+00:00"
   },
@@ -1551,33 +1075,11 @@
     "summary": "\"Prendre la France en otage c'est tout à fait illégal de toute façon et ce sont des faits de terrorisme\", a déclaré Jean-Pierre Pont, interviewé par une radio locale.",
     "thumbnail": "thumbnails/el8q6w.webp",
     "tags": [
-      "LaREM",
-      "Jean-Pierre Pont",
-      "Politique"
+      "Terrorisme",
+      "Grèves et syndicats",
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T09:40:46.451473+00:00"
-  },
-  {
-    "id": "eksu3b",
-    "title": "Coca-Cola arrête de livrer Intermarché et Netto",
-    "url": "https://www.lsa-conso.fr/info-lsa-coca-cola-arrete-de-livrer-intermarche-et-netto,336866",
-    "permalink": "/r/france/comments/eksu3b/cocacola_arrête_de_livrer_intermarché_et_netto/",
-    "created_at": "2020-01-06T11:20:23+00:00",
-    "score": 174,
-    "num_comments": 254,
-    "subreddit": "france",
-    "author": "ZigZigLaBelette",
-    "flair": "",
-    "domain": "lsa-conso.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/8wVwKGWyoYC7KAk5xs53zkZ_Y8fUcsABAK_7LxBSIfo.jpg?auto=webp&s=a55e3ca35f97c08e984b3abd616d9a9d3a36bed3",
-    "ingested_at": "2026-10-31T15:36:44.239347+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/eksu3b.webp",
-    "tags": [
-      "Intermarché et Netto"
-    ],
-    "analyzed_at": "2026-11-01T09:40:46.446251+00:00"
   },
   {
     "id": "eksj8x",
@@ -1597,33 +1099,10 @@
     "summary": "Cinq ans après l’attentat islamiste à Charlie Hebdo, le journal satyrique continue a vivre. Le 7 janvier 2015, 12 personnes avaient trouvé la mort sous les balles",
     "thumbnail": "thumbnails/eksj8x.webp",
     "tags": [
-      "Charlie Hebdo",
-      "Patrick Pelloux",
-      "Société"
+      "Racisme",
+      "Laïcité"
     ],
     "analyzed_at": "2026-11-01T09:40:46.184849+00:00"
-  },
-  {
-    "id": "ekc2ch",
-    "title": "Imagine herding your sheep with this background—Mont-Saint-Michel, France",
-    "url": "https://live.staticflickr.com/65535/48355000437_9e66da6464_o.jpg",
-    "permalink": "/r/france/comments/ekc2ch/imagine_herding_your_sheep_with_this/",
-    "created_at": "2020-01-05T11:48:42+00:00",
-    "score": 210,
-    "num_comments": 15,
-    "subreddit": "france",
-    "author": "gexisthebext",
-    "flair": "",
-    "domain": "live.staticflickr.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/bssAzfQEWXeRQcLN_CigvlzytwPtMAiMZx_JujcQfRo.jpg?auto=webp&s=9ce9818f0e85ed180328566451ca0a74ce48e662",
-    "ingested_at": "2026-10-31T15:36:44.238923+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/ekc2ch.webp",
-    "tags": [
-      "Mont-Saint-Michel"
-    ],
-    "analyzed_at": "2026-11-01T09:40:46.980464+00:00"
   },
   {
     "id": "ekc0i6",
@@ -1643,7 +1122,7 @@
     "summary": "Sur le groupe Facebook privé «&nbsp;le&nbsp;Divan des médecins&nbsp;», regroupant plus de 11&nbsp;000 praticiens, sont publiées des photos reconnaissables de patients et des commentaires à caractère pénal. Contacté, l’Ordre des Médecins promet une analyse juridique de ces contenus «&nbsp;effarants&nbsp;».",
     "thumbnail": "thumbnails/ekc0i6.webp",
     "tags": [
-      "Facebook"
+      "Santé"
     ],
     "analyzed_at": "2026-11-01T09:40:46.407208+00:00"
   },
@@ -1665,9 +1144,7 @@
     "summary": "La maire de Paris n'est pas encore postulante à sa réélection.",
     "thumbnail": "thumbnails/ekbw41.webp",
     "tags": [
-      "Paris",
-      "Anne Hidalgo",
-      "Emmanuel Grégoire"
+      "Anne Hidalgo"
     ],
     "analyzed_at": "2026-11-01T09:40:46.300702+00:00"
   },
@@ -1688,9 +1165,7 @@
     "ingested_at": "2026-10-31T15:36:44.239095+00:00",
     "summary": "",
     "thumbnail": "thumbnails/ekbag4.webp",
-    "tags": [
-      "Australie"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:40:46.334685+00:00"
   },
   {
@@ -1710,11 +1185,7 @@
     "ingested_at": "2026-10-31T15:36:44.238496+00:00",
     "summary": "\"Injustifiable\" et criminelle: près d'une semaine après les faits, les autorités japonaises ont officiellement condamné dimanche la fuite de Carlos Ghosn au Liban, rejetant aussi ses accusations d'une justice japonaise \"partiale\" et bafouant les droits humains.",
     "thumbnail": "thumbnails/ekaoug.webp",
-    "tags": [
-      "Carlos Ghosn",
-      "Japon",
-      "Liban"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:40:46.779514+00:00"
   },
   {
@@ -1735,61 +1206,9 @@
     "summary": "Après des années d'exploitation du \"double irlandais\" et du \"sandwich hollandais\", Google va devoir remettre à plat en 2020 sa stratégie d'optimisation fiscale. En effet, le recours à la célèbre combinaison adorée des Gafam ne sera plus possible.",
     "thumbnail": "thumbnails/ejydmo.webp",
     "tags": [
-      "Google",
-      "Pays-Bas et Irlande",
-      "Bermudes",
-      "Gafam",
-      "Économie"
+      "Budget et fiscalité"
     ],
     "analyzed_at": "2026-11-01T09:40:46.880076+00:00"
-  },
-  {
-    "id": "ejwhsk",
-    "title": "Les guignols de l'info: Vendre la guerre en Irak",
-    "url": "https://www.dailymotion.com/video/xeayym",
-    "permalink": "/r/france/comments/ejwhsk/les_guignols_de_linfo_vendre_la_guerre_en_irak/",
-    "created_at": "2020-01-04T13:13:19+00:00",
-    "score": 239,
-    "num_comments": 32,
-    "subreddit": "france",
-    "author": "Vladoken",
-    "flair": "",
-    "domain": "dailymotion.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/UgcAheYCQpfPEuA5YI96edVg80UtaFtDTm3-WMWe3Kc.jpg?auto=webp&s=b932c465d0354feed5768d118ed236059bb7454b",
-    "ingested_at": "2026-10-31T15:36:44.238747+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/ejwhsk.webp",
-    "tags": [
-      "Irak"
-    ],
-    "analyzed_at": "2026-11-01T09:40:46.777295+00:00"
-  },
-  {
-    "id": "ejho6o",
-    "title": "AJA que la phrase « With great power comes great responsibility » prédate Spider-Man et trouverait son origine dans un texte du Comité de Salut Public qui, dans un texte de la Convention en 1793, écrivait « Une grande responsabilité est la suite inséparable d'un grand pouvoir »",
-    "url": "https://en.wikipedia.org/wiki/With_great_power_comes_great_responsibility#History",
-    "permalink": "/r/france/comments/ejho6o/aja_que_la_phrase_with_great_power_comes_great/",
-    "created_at": "2020-01-03T16:24:05+00:00",
-    "score": 148,
-    "num_comments": 21,
-    "subreddit": "france",
-    "author": "Synchronyme",
-    "flair": "",
-    "domain": "en.wikipedia.org",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/W8km8BVZtdWQtzTJmoyF9qF6zvmBCWoorj9F1absJnE.jpeg?auto=webp&s=2f63b77387b1e6c74cd59f8aef3ed17323d0ce9a",
-    "ingested_at": "2026-10-31T15:36:44.239476+00:00",
-    "summary": "\" With great power comes great responsibility \" is a proverb popularized by Spider-Man in Marvel comics , films , and related media.",
-    "thumbnail": "thumbnails/ejho6o.webp",
-    "tags": [
-      "Spider-Man",
-      "Convention",
-      "AJA",
-      "Comité de Salut Public",
-      "Damocles"
-    ],
-    "analyzed_at": "2026-11-01T09:40:46.950506+00:00"
   },
   {
     "id": "ejc38w",
@@ -1808,36 +1227,8 @@
     "ingested_at": "2026-10-31T15:36:44.239009+00:00",
     "summary": "Ce haut commandant a été tué au cours d'une frappe aérienne des États-Unis contre son convoi, à l'aéroport de Bagdad.",
     "thumbnail": "thumbnails/ejc38w.webp",
-    "tags": [
-      "Bagdad",
-      "États-Unis",
-      "Iran",
-      "Irak",
-      "Soleimani"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:40:46.844948+00:00"
-  },
-  {
-    "id": "eizfar",
-    "title": "France provides the 6th highest amount of foreign aid in the world, with the most going to Turkey ($538.07M)",
-    "url": "https://www.wristband.com/content/which-countries-provide-receive-most-foreign-aid/",
-    "permalink": "/r/france/comments/eizfar/france_provides_the_6th_highest_amount_of_foreign/",
-    "created_at": "2020-01-02T15:14:55+00:00",
-    "score": 116,
-    "num_comments": 45,
-    "subreddit": "france",
-    "author": "jaxsondeville",
-    "flair": "",
-    "domain": "wristband.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/5j-VFg6WfPYLqwl6GdK-whniJqidvUnxW8JYRI7yrZs.jpg?auto=webp&s=2c0ef63576a6e0bd085698e50b13b9beede3d8f3",
-    "ingested_at": "2026-10-31T15:36:44.239699+00:00",
-    "summary": "Browse wristbands by use—events, healthcare, security, and promotions. Find the right material for identification and access.",
-    "thumbnail": "thumbnails/eizfar.webp",
-    "tags": [
-      "Turkey"
-    ],
-    "analyzed_at": "2026-11-01T09:40:47.790909+00:00"
   },
   {
     "id": "eitumj",
@@ -1857,7 +1248,7 @@
     "summary": "",
     "thumbnail": "thumbnails/eitumj.webp",
     "tags": [
-      "Français"
+      "Immigration"
     ],
     "analyzed_at": "2026-11-01T09:40:46.952845+00:00"
   },
@@ -1879,8 +1270,7 @@
     "summary": "",
     "thumbnail": "thumbnails/eiikur.webp",
     "tags": [
-      "BlackRock France",
-      "Légion"
+      "Retraites"
     ],
     "analyzed_at": "2026-11-01T09:40:47.531200+00:00"
   },
@@ -1902,8 +1292,8 @@
     "summary": "",
     "thumbnail": "thumbnails/eig7vr.webp",
     "tags": [
-      "SNCF",
-      "Économie"
+      "Transports",
+      "Retraites"
     ],
     "analyzed_at": "2026-11-01T09:40:47.005654+00:00"
   }

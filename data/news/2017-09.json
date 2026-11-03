@@ -1,28 +1,5 @@
 [
   {
-    "id": "73exux",
-    "title": "La vrai carte de l'Amérique du Sud que l'éducation nationale vous cache.",
-    "url": "https://scontent-cdg2-1.xx.fbcdn.net/v/t1.0-9/21767975_1127310464066297_3250747456404254708_n.jpg?oh=477b3a1b5338770b146c8dafa5bbbc85&oe=5A85A1E8",
-    "permalink": "/r/france/comments/73exux/la_vrai_carte_de_lamérique_du_sud_que_léducation/",
-    "created_at": "2017-09-30T13:39:02+00:00",
-    "score": 1202,
-    "num_comments": 57,
-    "subreddit": "france",
-    "author": "daft_babylone",
-    "flair": "Humour",
-    "domain": "scontent-cdg2-1.xx.fbcdn.net",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/X4GuXDpdsUa7v4FQhWZruW0BC-X4InSxwEgvncyyUOo.jpg?auto=webp&s=efc5b6e8823d6928f135c7ec82e8e0b9a4fa249b",
-    "ingested_at": "2026-10-31T14:59:35.877268+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/73exux.webp",
-    "tags": [
-      "Amérique du Sud",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:46:59.692953+00:00"
-  },
-  {
     "id": "73ep0r",
     "title": "Laurent Wauquiez invente de toutes pièces la réaction de Merkel au discours de Macron",
     "url": "http://www.bfmtv.com/politique/laurent-wauquiez-invente-de-toute-pieces-la-reaction-de-merkel-au-discours-de-macron-1267090.html",
@@ -40,11 +17,9 @@
     "summary": "Le candidat à la présidence des Républicains a assuré que la chancelière allemande a critiqué le discours d'Emmanuel Macron sur l'Europe. Une réaction qui demeure introuvable.",
     "thumbnail": "thumbnails/73ep0r.webp",
     "tags": [
+      "Emmanuel Macron",
       "Laurent Wauquiez",
-      "Macron",
-      "Merkel",
-      "Europe",
-      "Politique"
+      "Angela Merkel"
     ],
     "analyzed_at": "2026-11-01T09:46:57.913862+00:00"
   },
@@ -66,10 +41,8 @@
     "summary": "",
     "thumbnail": "thumbnails/736bep.webp",
     "tags": [
-      "LREM",
-      "Ferrari de Impôt",
-      "Lab Europe 1",
-      "Politique"
+      "Budget et fiscalité",
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T09:46:58.566952+00:00"
   },
@@ -90,13 +63,7 @@
     "ingested_at": "2026-10-31T14:59:35.877788+00:00",
     "summary": "MEPs withdraw parliamentary access after the firm shunned a hearing into allegations that it unduly influenced studies into the safety of glyphosate used in its RoundUp weedkiller",
     "thumbnail": "thumbnails/734bfb.webp",
-    "tags": [
-      "Monsanto",
-      "Parlement Européen",
-      "RoundUp",
-      "Europe",
-      "Monsanto's"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:46:58.214359+00:00"
   },
   {
@@ -116,37 +83,8 @@
     "ingested_at": "2026-10-31T14:59:35.878466+00:00",
     "summary": "Peut-on laisser le robinet couler ? Les citoyens méconnaissent souvent les enjeux liés à l’eau. Voici trois idées reçues qui ont été déconstruites afin de mieux comprendre cette ressource vitale.",
     "thumbnail": "thumbnails/72ypz1.webp",
-    "tags": [
-      "Fête de la science",
-      "Fête de la science 2017",
-      "Fête de la science 2020",
-      "Environnement",
-      "Science"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:46:58.482378+00:00"
-  },
-  {
-    "id": "72ynw4",
-    "title": "Calanques de Sormiou, Marseille",
-    "url": "http://madeinmarseille.net/actualites-marseille/2015/08/calanque-sormiou-cabanon.jpg",
-    "permalink": "/r/france/comments/72ynw4/calanques_de_sormiou_marseille/",
-    "created_at": "2017-09-28T07:53:04+00:00",
-    "score": 89,
-    "num_comments": 12,
-    "subreddit": "france",
-    "author": "Amiral_Poitou",
-    "flair": "Culture",
-    "domain": "madeinmarseille.net",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/GTzR3M0PQd596ttOd1HMztRtFsYyt5hwM15td4-V63g.jpeg?auto=webp&s=f26e964b43ebc50d17514cf057f61a1b0e19e8ff",
-    "ingested_at": "2026-10-31T14:59:35.878691+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/72ynw4.webp",
-    "tags": [
-      "Sormiou",
-      "Culture"
-    ],
-    "analyzed_at": "2026-11-01T09:46:58.694931+00:00"
   },
   {
     "id": "72skwp",
@@ -166,38 +104,10 @@
     "summary": "Ces salariés du Sud-Est dénoncent leurs conditions de travail et le licenciement abusif d'un de leurs collègues.",
     "thumbnail": "thumbnails/72skwp.webp",
     "tags": [
-      "Cash",
-      "Lidl",
-      "Sud-Est",
-      "Rousset",
-      "Emploi"
+      "Travail",
+      "Grèves et syndicats"
     ],
     "analyzed_at": "2026-11-01T09:46:59.127148+00:00"
-  },
-  {
-    "id": "72rk43",
-    "title": "2x faster and 30% less memory | Firefox Quantum Browser (déjà dispo en beta)",
-    "url": "https://www.mozilla.org/en-US/firefox/quantum/",
-    "permalink": "/r/france/comments/72rk43/2x_faster_and_30_less_memory_firefox_quantum/",
-    "created_at": "2017-09-27T11:12:14+00:00",
-    "score": 95,
-    "num_comments": 93,
-    "subreddit": "france",
-    "author": "GrenobleLyon",
-    "flair": "",
-    "domain": "mozilla.org",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/IMwNoyeM3jPcOIFIvgHEuDhcCh8HpN1Uxotp2gu4FIQ.jpg?auto=webp&s=18b1043c0c59dcdfc19a4eaf18bc4f18ec348547",
-    "ingested_at": "2026-10-31T14:59:35.878589+00:00",
-    "summary": "Firefox Quantum was a revolution. In 2017, we created a new, lightning fast browser that constantly improves. Firefox Quantum is the Firefox Browser.",
-    "thumbnail": "thumbnails/72rk43.webp",
-    "tags": [
-      "Firefox Quantum",
-      "Firefox Quantum Browser",
-      "Firefox Browser",
-      "Firefox"
-    ],
-    "analyzed_at": "2026-11-01T09:46:59.213305+00:00"
   },
   {
     "id": "72r33d",
@@ -217,31 +127,9 @@
     "summary": "Les députés ont voté hier soir les mesures de contrôle et de surveillance individuelles. Dans le lot, a été adoptée l’obligation pour une personne au…",
     "thumbnail": "thumbnails/72r33d.webp",
     "tags": [
-      "Politique"
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T09:47:00.093540+00:00"
-  },
-  {
-    "id": "72nmq6",
-    "title": "Cash investigation sur LIDL & Free : \"travail, ton univers impitoyable\"",
-    "url": "https://www.france.tv/france-2/cash-investigation/saison-6/250579-travail-ton-univers-impitoyable.html",
-    "permalink": "/r/france/comments/72nmq6/cash_investigation_sur_lidl_free_travail_ton/",
-    "created_at": "2017-09-26T21:31:46+00:00",
-    "score": 90,
-    "num_comments": 56,
-    "subreddit": "france",
-    "author": "GrenobleLyon",
-    "flair": "",
-    "domain": "france.tv",
-    "selftext": "",
-    "reddit_thumbnail": "https://b.thumbs.redditmedia.com/oEtQhfBqi3yK0Fm-L7aQ1eygcCHuIMfazLmXAZ_E2IU.jpg",
-    "ingested_at": "2026-10-31T14:59:35.878671+00:00",
-    "summary": "Les chiffres sont alarmants : un quart des salariés va travailler avec la boule au ventre, plus d'un tiers affirme avoir fait un burn-out et 43 % ressentent ...",
-    "thumbnail": "thumbnails/72nmq6.webp",
-    "tags": [
-      "LIDL Free"
-    ],
-    "analyzed_at": "2026-11-01T09:46:59.088484+00:00"
   },
   {
     "id": "72le9j",
@@ -261,8 +149,7 @@
     "summary": "",
     "thumbnail": "thumbnails/72le9j.webp",
     "tags": [
-      "Emmanuel Macron",
-      "Politique"
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T09:46:59.052454+00:00"
   },
@@ -284,32 +171,9 @@
     "summary": "",
     "thumbnail": "",
     "tags": [
-      "UE"
+      "Union européenne"
     ],
     "analyzed_at": "2026-11-01T09:47:00.243948+00:00"
-  },
-  {
-    "id": "72agka",
-    "title": "Jardin de Balata, Martinique, France",
-    "url": "https://c1.staticflickr.com/9/8391/8537099632_6939c622bd_o.jpg",
-    "permalink": "/r/france/comments/72agka/jardin_de_balata_martinique_france/",
-    "created_at": "2017-09-25T05:33:01+00:00",
-    "score": 231,
-    "num_comments": 13,
-    "subreddit": "france",
-    "author": "loulan",
-    "flair": "Culture",
-    "domain": "c1.staticflickr.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/Ukb2cECqfxfTsgBEjetRYhspP-FKsBBfJzUZ8IvKq70.jpg?auto=webp&s=9af7cc26ce9e293e7ca359decd4801ccfcdc6f21",
-    "ingested_at": "2026-10-31T14:59:35.877590+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/72agka.webp",
-    "tags": [
-      "Balata",
-      "Culture"
-    ],
-    "analyzed_at": "2026-11-01T09:47:01.919294+00:00"
   },
   {
     "id": "726noa",
@@ -328,56 +192,8 @@
     "ingested_at": "2026-10-31T14:59:35.877610+00:00",
     "summary": "Elle fait partie des œuvres cultes de la télévision : la saga \"Il était une fois... la Vie\" fête ses 30 ans d'existence. Cette grande série a fasciné plusieurs générations d'enfants et suscité des vocations.",
     "thumbnail": "thumbnails/726noa.webp",
-    "tags": [
-      "Vie",
-      "BD",
-      "Culture",
-      "Science"
-    ],
-    "analyzed_at": "2026-11-01T09:46:59.919943+00:00"
-  },
-  {
-    "id": "724jzs",
-    "title": "La face cachée du sushi",
-    "url": "https://framapiaf.org/system/media_attachments/files/000/269/088/original/1e58fd646eb6a99b.jpg?1506205471",
-    "permalink": "/r/france/comments/724jzs/la_face_cachée_du_sushi/",
-    "created_at": "2017-09-24T11:32:50+00:00",
-    "score": 234,
-    "num_comments": 122,
-    "subreddit": "france",
-    "author": "PiqueAssiette",
-    "flair": "Actus",
-    "domain": "framapiaf.org",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/g3B5UFkts-uEfDsNidrIngwxT6G_fe0TkX8-_GqZTHI.jpg?auto=webp&s=86d159a9b56971297fa8789443878ff548ecbe9f",
-    "ingested_at": "2026-10-31T14:59:35.877569+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/724jzs.webp",
     "tags": [],
-    "analyzed_at": "2026-11-01T09:47:00.333378+00:00"
-  },
-  {
-    "id": "720i3n",
-    "title": "Johnny Hallyday retrouvé vivant dans son lit",
-    "url": "http://www.legorafi.fr/2017/09/19/johnny-hallyday-retrouve-vivant-dans-son-lit/",
-    "permalink": "/r/france/comments/720i3n/johnny_hallyday_retrouvé_vivant_dans_son_lit/",
-    "created_at": "2017-09-23T19:54:19+00:00",
-    "score": 148,
-    "num_comments": 17,
-    "subreddit": "france",
-    "author": "Etaris",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/F1AT7UKVgj1j439wQ6K3Z-5ExNPggsOfHcee9AZaFAI.jpg?auto=webp&s=2aee5948127fd1c386b1030ddb3fe6dc44b411a8",
-    "ingested_at": "2026-10-31T14:59:35.877939+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/720i3n.webp",
-    "tags": [
-      "Johnny Hallyday",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:47:00.071396+00:00"
+    "analyzed_at": "2026-11-01T09:46:59.919943+00:00"
   },
   {
     "id": "71z6fc",
@@ -398,36 +214,11 @@
     "thumbnail": "thumbnails/71z6fc.webp",
     "tags": [
       "Jean-Luc Mélenchon",
-      "Macron",
-      "Bastille",
       "Emmanuel Macron",
-      "Politique"
+      "Police",
+      "Manifestations"
     ],
     "analyzed_at": "2026-11-01T09:47:00.137836+00:00"
-  },
-  {
-    "id": "71yihu",
-    "title": "Géoportail : cartes et photos aériennes de toute la France, à toutes les époques",
-    "url": "https://www.geoportail.gouv.fr/",
-    "permalink": "/r/france/comments/71yihu/géoportail_cartes_et_photos_aériennes_de_toute_la/",
-    "created_at": "2017-09-23T14:19:07+00:00",
-    "score": 122,
-    "num_comments": 18,
-    "subreddit": "france",
-    "author": "Neker",
-    "flair": "Culture",
-    "domain": "geoportail.gouv.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/pLzitPaBlqQdfldFXKpw664bZRiUljVdz0gXi-IO1zk.jpg?auto=webp&s=8eefb683e0162ce0000de213e1d26eb2ff9f9d67",
-    "ingested_at": "2026-10-31T14:59:35.878260+00:00",
-    "summary": "Explorer les cartes : DÃ©couvrez des cartes thÃ©matiques et de rÃ©fÃ©rence dont les fonds IGN sur lâensemble du territoire franÃ§ais.",
-    "thumbnail": "thumbnails/71yihu.webp",
-    "tags": [
-      "DÃ",
-      "IGN",
-      "Culture"
-    ],
-    "analyzed_at": "2026-11-01T09:47:00.300399+00:00"
   },
   {
     "id": "71x8py",
@@ -467,37 +258,11 @@
     "summary": "INFO LE BLOG POLITIQUE DE FRANCE 3 MIDI-PYRENEES - La République En Marche demande à ses adhérents d'infiltrer la manifestation organisée par Jean-Luc Mélenchon contre la réforme du code du travail. Le titre du mail est explicite : \"Emmanuel Macron est le seul légitime à représenter le peuple. Manif du 23/09\".",
     "thumbnail": "thumbnails/71tlsu.webp",
     "tags": [
-      "Marche",
       "Jean-Luc Mélenchon",
-      "République",
-      "BLOG POLITIQUE de FRANCE 3",
-      "MIDI-PYRENEES"
+      "Manifestations",
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T09:47:00.783683+00:00"
-  },
-  {
-    "id": "71oyql",
-    "title": "The EU Suppressed a 300-Page Study That Found Piracy Doesn’t Harm Sales",
-    "url": "https://gizmodo.com/the-eu-suppressed-a-300-page-study-that-found-piracy-do-1818629537",
-    "permalink": "/r/france/comments/71oyql/the_eu_suppressed_a_300page_study_that_found/",
-    "created_at": "2017-09-22T05:23:06+00:00",
-    "score": 695,
-    "num_comments": 324,
-    "subreddit": "france",
-    "author": "Arkaad",
-    "flair": "Société",
-    "domain": "gizmodo.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/mZ8Y-gXWhOeAWt7S9utij4oUKsdL7YCZcyOW6udoB_c.jpg?auto=webp&s=10ebf24baeea675ede96ddaa2d4555f4970797eb",
-    "ingested_at": "2026-10-31T14:59:35.877358+00:00",
-    "summary": "The European Commission paid €360,000 (about $428,000) for a study on how piracy impacts the sales of copyrighted music, books, video games, and movies.",
-    "thumbnail": "thumbnails/71oyql.webp",
-    "tags": [
-      "EU Suppressed",
-      "European Commission",
-      "Société"
-    ],
-    "analyzed_at": "2026-11-01T09:47:01.574895+00:00"
   },
   {
     "id": "71k4y2",
@@ -516,32 +281,8 @@
     "ingested_at": "2026-10-31T14:59:35.877405+00:00",
     "summary": "",
     "thumbnail": "thumbnails/71k4y2.webp",
-    "tags": [
-      "Liliane Bettencourt"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:47:00.677559+00:00"
-  },
-  {
-    "id": "71hznn",
-    "title": "Carrefour ouvre un marché spécialisé en fruits et légumes issus de semences paysannes et lance une pétition pour changer la loi interdisant leur commercialisation",
-    "url": "https://www.change.org/p/quand-la-loi-appauvrit-la-biodiversit%C3%A9-et-notre-alimentation-changeons-la/fbog/617924240?recruiter=617924240&utm_source=share_petition&utm_medium=facebook&utm_campaign=autopublish&utm_term=share_petition",
-    "permalink": "/r/france/comments/71hznn/carrefour_ouvre_un_marché_spécialisé_en_fruits_et/",
-    "created_at": "2017-09-21T09:28:04+00:00",
-    "score": 131,
-    "num_comments": 99,
-    "subreddit": "france",
-    "author": "Ogore",
-    "flair": "Société",
-    "domain": "change.org",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/FbCka5MFL_8JIXJKD28OCJXZ0rKqK_gCR3-WG4IXZQg.jpg?auto=webp&s=21121ea1ea5cf46d8fc03ba8080ea4822564c0f9",
-    "ingested_at": "2026-10-31T14:59:35.878110+00:00",
-    "summary": "Quand la loi appauvrit la biodiversité et notre alimentation, changeons-la!",
-    "thumbnail": "thumbnails/71hznn.webp",
-    "tags": [
-      "Société"
-    ],
-    "analyzed_at": "2026-11-01T09:47:01.224743+00:00"
   },
   {
     "id": "71hk44",
@@ -561,34 +302,9 @@
     "summary": "Avec un slogan provocateur sur l'école, l'organisation patronale s'est mis une partie des enseignants à dos, avant de le retirer et de présenter ses excuses.",
     "thumbnail": "thumbnails/71hk44.webp",
     "tags": [
-      "Education",
-      "Pierre Gattaz",
-      "Réforme de l'école",
-      "Société"
+      "Éducation"
     ],
     "analyzed_at": "2026-11-01T09:47:00.706486+00:00"
-  },
-  {
-    "id": "71gywc",
-    "title": "Saint-Malo, Ille-et-Villaine, France",
-    "url": "http://farm9.staticflickr.com/8603/16015636163_dcf167344b_k.jpg",
-    "permalink": "/r/france/comments/71gywc/saintmalo_illeetvillaine_france/",
-    "created_at": "2017-09-21T05:04:33+00:00",
-    "score": 716,
-    "num_comments": 45,
-    "subreddit": "france",
-    "author": "loulan",
-    "flair": "Culture",
-    "domain": "farm9.staticflickr.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/1NbcLEV8o7VZlC_K7LOUhbPyM2KNKKnvTE4-EBj2W_w.jpeg?auto=webp&s=aaa8d23fe496cc34983351141138469f9d3f8839",
-    "ingested_at": "2026-10-31T14:59:35.877333+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/71gywc.webp",
-    "tags": [
-      "Culture"
-    ],
-    "analyzed_at": "2026-11-01T09:47:03.463252+00:00"
   },
   {
     "id": "71drwv",
@@ -607,10 +323,7 @@
     "ingested_at": "2026-10-31T14:59:35.878864+00:00",
     "summary": "",
     "thumbnail": "thumbnails/71drwv.webp",
-    "tags": [
-      "Lafarge",
-      "État"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:47:01.809339+00:00"
   },
   {
@@ -631,7 +344,7 @@
     "summary": "",
     "thumbnail": "thumbnails/71btdu.webp",
     "tags": [
-      "Entretien Bernie Sanders"
+      "Protection sociale"
     ],
     "analyzed_at": "2026-11-01T09:47:01.211068+00:00"
   },
@@ -652,10 +365,7 @@
     "ingested_at": "2026-10-31T14:59:35.878323+00:00",
     "summary": "Les températures basses de ces derniers jours ont entraîné une multiplication des éternuements et des symptômes de nez bouché. Les remèdes p",
     "thumbnail": "thumbnails/7155qk.webp",
-    "tags": [
-      "Parisien",
-      "Humour"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:47:01.729405+00:00"
   },
   {
@@ -676,9 +386,8 @@
     "summary": "Donald Trump avait assuré que le défilé à Paris avait été l'\"un des plus formidables\" qu'il ait jamais vus.",
     "thumbnail": "thumbnails/711dav.webp",
     "tags": [
-      "Washington",
       "Donald Trump",
-      "Paris",
+      "Défense",
       "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T09:47:02.599159+00:00"
@@ -700,9 +409,7 @@
     "ingested_at": "2026-10-31T14:59:35.878363+00:00",
     "summary": "",
     "thumbnail": "thumbnails/711ciw.webp",
-    "tags": [
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:47:02.993139+00:00"
   },
   {
@@ -722,13 +429,7 @@
     "ingested_at": "2026-10-31T14:59:35.877874+00:00",
     "summary": "Plusieurs fabricants d'imprimantes, dont notamment le japonais Epson, sont visées par une plainte pour \"obsolescence programmée\" lancée et annoncée aujourd'hui par une association spécialisée qui prés...",
     "thumbnail": "thumbnails/711ad4.webp",
-    "tags": [
-      "Epson",
-      "Flash",
-      "Flash Actu",
-      "Fil",
-      "Technos"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:47:03.165292+00:00"
   },
   {
@@ -748,33 +449,8 @@
     "ingested_at": "2026-10-31T14:59:35.878758+00:00",
     "summary": "",
     "thumbnail": "thumbnails/70xxyo.webp",
-    "tags": [
-      "Rennes",
-      "Microsoft"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:47:02.203591+00:00"
-  },
-  {
-    "id": "70sx95",
-    "title": "Pioggiola, Haute-Corse, France",
-    "url": "https://c1.staticflickr.com/5/4156/34543651285_7372547812_o.jpg",
-    "permalink": "/r/france/comments/70sx95/pioggiola_hautecorse_france/",
-    "created_at": "2017-09-18T05:15:07+00:00",
-    "score": 170,
-    "num_comments": 47,
-    "subreddit": "france",
-    "author": "loulan",
-    "flair": "Culture",
-    "domain": "c1.staticflickr.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/jjqWAilq7i_7AzzJ5Z2lSTOymV3T_r3u4fYgLhJnjNc.jpg?auto=webp&s=9254af15547e11c32b4fbfcb69a87fe4c087fdfd",
-    "ingested_at": "2026-10-31T14:59:35.877853+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/70sx95.webp",
-    "tags": [
-      "Culture"
-    ],
-    "analyzed_at": "2026-11-01T09:47:08.333910+00:00"
   },
   {
     "id": "70ndhl",
@@ -793,13 +469,7 @@
     "ingested_at": "2026-10-31T14:59:35.878925+00:00",
     "summary": "La fessée adressée par Toulouse au Stade Français (53-17) est une nouvelle preuve qu'il faut bien dire \"chocolatine\".",
     "thumbnail": "thumbnails/70ndhl.webp",
-    "tags": [
-      "Stade Français",
-      "Stade Toulousain",
-      "Toulouse",
-      "Top14",
-      "Sport"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:47:03.402490+00:00"
   },
   {
@@ -820,36 +490,10 @@
     "summary": "D'après l'Insee, 38% des sans-abri sont des femmes. Particulièrement vulnérables, elles sont très fortement exposées aux agressions sexuelles et aux viols.",
     "thumbnail": "thumbnails/70m04h.webp",
     "tags": [
-      "SDF",
-      "Insee",
-      "Agnès Lecordier",
-      "Droits des femmes",
-      "Société"
+      "Logement",
+      "Violences sexuelles"
     ],
     "analyzed_at": "2026-11-01T09:47:03.005520+00:00"
-  },
-  {
-    "id": "70g5c5",
-    "title": "Les bars flippants du Montmartre de la Belle Époque",
-    "url": "https://savoirsdhistoire.wordpress.com/2017/09/14/les-bars-flippants-du-montmartre-de-la-belle-epoque/",
-    "permalink": "/r/france/comments/70g5c5/les_bars_flippants_du_montmartre_de_la_belle/",
-    "created_at": "2017-09-16T10:15:45+00:00",
-    "score": 92,
-    "num_comments": 6,
-    "subreddit": "france",
-    "author": "bernardryefield",
-    "flair": "Culture",
-    "domain": "savoirsdhistoire.wordpress.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/0uS6fXppQgS8T2xGZtGHVChubmkgpuidlfAbFUY-wDQ.jpeg?auto=webp&s=f7314ba4c9cc6c0dc401627a8af2e2046c5b5122",
-    "ingested_at": "2026-10-31T14:59:35.878629+00:00",
-    "summary": "Comme vous le savez, il m’arrive régulièrement de remonter dans le temps pour aller jeter un œil curieux aux mœurs de nos ancêtres. Puisque je suis pleine d’alacrité aujourd’hui, je vous propose de…",
-    "thumbnail": "thumbnails/70g5c5.webp",
-    "tags": [
-      "Montmartre de la Belle Époque",
-      "Culture"
-    ],
-    "analyzed_at": "2026-11-01T09:47:03.334291+00:00"
   },
   {
     "id": "70fsoh",
@@ -869,35 +513,9 @@
     "summary": "Il est plutôt rois et reines, mais c'est aussi un intime d'Emmanuel Macron . Stéphane Bern accompagnait samedi matin le chef de l'État sur les traces d'Alexandre",
     "thumbnail": "thumbnails/70fsoh.webp",
     "tags": [
-      "Stéphane Bern",
-      "État",
-      "Emmanuel Macron",
-      "Alexandre"
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T09:47:03.520872+00:00"
-  },
-  {
-    "id": "70amao",
-    "title": "CHROMA S01.12 – CARNOSAUR",
-    "url": "https://www.dailymotion.com/video/x60gir3",
-    "permalink": "/r/france/comments/70amao/chroma_s0112_carnosaur/",
-    "created_at": "2017-09-15T15:37:31+00:00",
-    "score": 155,
-    "num_comments": 42,
-    "subreddit": "france",
-    "author": "[deleted]",
-    "flair": "Culture",
-    "domain": "dailymotion.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/M2uyWYBvjJsZg0phsfns3nAdq5phogPE1_8oBjZVTQU.jpg?auto=webp&s=0d7204722708180bbd990ea71c0ce990644ae0f6",
-    "ingested_at": "2026-10-31T14:59:35.877919+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/70amao.webp",
-    "tags": [
-      "CHROMA S01 12",
-      "Culture"
-    ],
-    "analyzed_at": "2026-11-01T09:47:03.734509+00:00"
   },
   {
     "id": "7096zg",
@@ -917,9 +535,7 @@
     "summary": "Dans un courrier adressé aux présidents des groupes politiques, Monsanto refuse d’être auditionné par des députés européens à propos du glyphosate, et attaque le fonctionn...",
     "thumbnail": "thumbnails/7096zg.webp",
     "tags": [
-      "Parlement",
-      "Payant",
-      "Politique"
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T09:47:04.269507+00:00"
   },
@@ -941,9 +557,8 @@
     "summary": "En 2015, un rapport de l'Union européenne avait conclu à la non dangerosité du glyphosate. Mais selon notre enquête, une centaine de pages de ce rapport sont de simples copier-coller d'un rapport de 2012 élaboré par Monsanto.",
     "thumbnail": "thumbnails/7080a8.webp",
     "tags": [
-      "Union",
-      "Monsanto",
-      "Société"
+      "Environnement",
+      "Union européenne"
     ],
     "analyzed_at": "2026-11-01T09:47:04.768739+00:00"
   },
@@ -964,11 +579,7 @@
     "ingested_at": "2026-10-31T14:59:35.877631+00:00",
     "summary": "Les Tunisiennes de confession musulmane pourront désormais se marier dans leur pays avec des non-musulmans. Les circulaires ministérielles datant de 1973 et empêchant ces unions ont été abolies ce jeudi.",
     "thumbnail": "thumbnails/706jcw.webp",
-    "tags": [
-      "Tunisie",
-      "Etat",
-      "Afrique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:47:03.928746+00:00"
   },
   {
@@ -989,35 +600,9 @@
     "summary": "",
     "thumbnail": "thumbnails/7030hl.webp",
     "tags": [
-      "François Ruffin",
-      "Bigard",
-      "Assemblée",
-      "Politique"
+      "François Ruffin"
     ],
     "analyzed_at": "2026-11-01T09:47:06.528011+00:00"
-  },
-  {
-    "id": "702fm9",
-    "title": "Spot Qwant (09/2017)",
-    "url": "https://videos.qwant.com/qwant-tv-spot30s.mp4",
-    "permalink": "/r/france/comments/702fm9/spot_qwant_092017/",
-    "created_at": "2017-09-14T14:06:53+00:00",
-    "score": 111,
-    "num_comments": 69,
-    "subreddit": "france",
-    "author": "wisi_eu",
-    "flair": "Humour",
-    "domain": "videos.qwant.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://b.thumbs.redditmedia.com/wSyqD3i381M07Ik8O0bPm03unAYSzRbPIxMVoMiiw1U.jpg",
-    "ingested_at": "2026-10-31T14:59:35.878404+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/702fm9.webp",
-    "tags": [
-      "Spot Qwant",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:47:05.058884+00:00"
   },
   {
     "id": "700bki",
@@ -1037,8 +622,8 @@
     "summary": "",
     "thumbnail": "thumbnails/700bki.webp",
     "tags": [
-      "Conseil État",
-      "Politique"
+      "Laurent Wauquiez",
+      "Retraites"
     ],
     "analyzed_at": "2026-11-01T09:47:06.331332+00:00"
   },
@@ -1059,36 +644,8 @@
     "ingested_at": "2026-10-31T14:59:35.877545+00:00",
     "summary": "",
     "thumbnail": "thumbnails/6zwa36.webp",
-    "tags": [
-      "JO"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:47:04.642396+00:00"
-  },
-  {
-    "id": "6zty9g",
-    "title": "Dans exactement deux jours et vingt minutes, nous recevrons le dernier message de la sonde Cassini avant sa plongée dans Saturne.",
-    "url": "https://saturn.jpl.nasa.gov/mission/grand-finale/cassini-end-of-mission-timeline/",
-    "permalink": "/r/france/comments/6zty9g/dans_exactement_deux_jours_et_vingt_minutes_nous/",
-    "created_at": "2017-09-13T11:33:40+00:00",
-    "score": 97,
-    "num_comments": 15,
-    "subreddit": "france",
-    "author": "Gourmay",
-    "flair": "Science",
-    "domain": "saturn.jpl.nasa.gov",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/6QrpolyP7EBDkW9-qpX-QKP6lDd9DjCb0MX2BJSVwnQ.jpg?auto=webp&s=7eabe4e9feb2eae55987696724260731beca46fa",
-    "ingested_at": "2026-10-31T14:59:35.878570+00:00",
-    "summary": "On Sept. 15, 2017, the Cassini spacecraft made a fateful plunge into Saturn's atmosphere, ending the mission just one month shy of its 20th launch anniversary.",
-    "thumbnail": "thumbnails/6zty9g.webp",
-    "tags": [
-      "Cassini",
-      "Saturn's",
-      "Saturn",
-      "Saturne",
-      "Science"
-    ],
-    "analyzed_at": "2026-11-01T09:47:07.751640+00:00"
   },
   {
     "id": "6zt0xb",
@@ -1107,33 +664,8 @@
     "ingested_at": "2026-10-31T14:59:35.878200+00:00",
     "summary": "Le ton monte contre la suppression de 110 000 emplois aidés. Leur disparition mettra en péril l'accueil périscolaire, l'accompagnement des personnes âgées et les activités proposées par les associations. (…)",
     "thumbnail": "thumbnails/6zt0xb.webp",
-    "tags": [
-      "CICE",
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:47:05.096048+00:00"
-  },
-  {
-    "id": "6zokyj",
-    "title": "Le canard enchainé",
-    "url": "https://pbs.twimg.com/media/DJioKseXkAAUb3p.jpg:large",
-    "permalink": "/r/france/comments/6zokyj/le_canard_enchainé/",
-    "created_at": "2017-09-12T17:45:43+00:00",
-    "score": 113,
-    "num_comments": 16,
-    "subreddit": "france",
-    "author": "[deleted]",
-    "flair": "Politique",
-    "domain": "pbs.twimg.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/vA9INzTaz5vgCM32yxZp7i2dsZFkcR6-MluEGfBdmss.jpg?auto=webp&s=dbc52d1d19ddf1c32be705af5c1a3e0974b4f6d6",
-    "ingested_at": "2026-10-31T14:59:35.878343+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/6zokyj.webp",
-    "tags": [
-      "Politique"
-    ],
-    "analyzed_at": "2026-11-01T09:47:06.361681+00:00"
   },
   {
     "id": "6zoatv",
@@ -1152,13 +684,7 @@
     "ingested_at": "2026-10-31T14:59:35.877522+00:00",
     "summary": "Jack Dorsey, cofondateur et PDG de Twitter, est un auditeur de la radio française FIP. C'est lui qui le dit, sur son compte.",
     "thumbnail": "thumbnails/6zoatv.webp",
-    "tags": [
-      "FIP",
-      "Twitter",
-      "Jack Dorsey",
-      "PDG de Twitter",
-      "Médias"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:47:05.412842+00:00"
   },
   {
@@ -1179,39 +705,10 @@
     "summary": "",
     "thumbnail": "thumbnails/6zlzxk.webp",
     "tags": [
-      "Christophe Vigneau",
-      "Droit",
-      "Paris Panthéon-Sorbonne",
-      "Union Européenne",
-      "Politique"
+      "Éducation",
+      "Union européenne"
     ],
     "analyzed_at": "2026-11-01T09:47:09.132436+00:00"
-  },
-  {
-    "id": "6zi5oq",
-    "title": "Aujourd'hui il y a 44 ans, le gouvernement légitime Chilien a subit un coup d'état de Pinochet avec l'aide des Etats-Unis.",
-    "url": "https://fr.wikipedia.org/wiki/Coup_d%27%C3%89tat_du_11_septembre_1973_au_Chili",
-    "permalink": "/r/france/comments/6zi5oq/aujourdhui_il_y_a_44_ans_le_gouvernement_légitime/",
-    "created_at": "2017-09-11T20:42:03+00:00",
-    "score": 199,
-    "num_comments": 75,
-    "subreddit": "france",
-    "author": "Towram",
-    "flair": "Société",
-    "domain": "fr.wikipedia.org",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/BCiBeQC_uK-Z-4RgZvNMvuPwE7R-yvKQaB6Kv68rQtM.jpeg?auto=webp&s=311ae115c01a3a35f57e624a8970c8d173ce9232",
-    "ingested_at": "2026-10-31T14:59:35.877698+00:00",
-    "summary": "Le coup d'État du 11 septembre 1973 au Chili est un événement marquant de l' histoire de ce pays latino-américain . Le mardi 11 septembre 1973 , le gouvernement socialiste du président démocratiquement élu Salvador Allende est renversé par un coup d'État militaire.",
-    "thumbnail": "thumbnails/6zi5oq.webp",
-    "tags": [
-      "Etats-Unis",
-      "Pinochet",
-      "Salvador Allende",
-      "État",
-      "Société"
-    ],
-    "analyzed_at": "2026-11-01T09:47:06.827825+00:00"
   },
   {
     "id": "6zeoyz",
@@ -1231,10 +728,7 @@
     "summary": "",
     "thumbnail": "thumbnails/6zeoyz.webp",
     "tags": [
-      "Grands Discours",
-      "Villepin",
-      "Irak",
-      "Culture"
+      "Dominique de Villepin"
     ],
     "analyzed_at": "2026-11-01T09:47:07.798752+00:00"
   },
@@ -1256,35 +750,9 @@
     "summary": "",
     "thumbnail": "thumbnails/6z8m7c.webp",
     "tags": [
-      "Irma",
-      "États-Unis",
-      "Politique"
+      "Éric Ciotti"
     ],
     "analyzed_at": "2026-11-01T09:47:07.112533+00:00"
-  },
-  {
-    "id": "6z7t6a",
-    "title": "En Floride, des groupes de croyants prient sur les plages pour repousser l'ouragan Irma.",
-    "url": "https://streamable.com/nzrtm",
-    "permalink": "/r/france/comments/6z7t6a/en_floride_des_groupes_de_croyants_prient_sur_les/",
-    "created_at": "2017-09-10T11:44:24+00:00",
-    "score": 118,
-    "num_comments": 219,
-    "subreddit": "france",
-    "author": "[deleted]",
-    "flair": "Humour",
-    "domain": "streamable.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/POyOv4la2lLQ61U71A1dWdSfvdyhi28YLhzupjGfZ7A.jpg?auto=webp&s=ea2b65d2feece41958e60d7f7781697e9638b0bf",
-    "ingested_at": "2026-10-31T14:59:35.878302+00:00",
-    "summary": "Watch \"21418403_520082744998807_8781491494906232832_n\" on Streamable.",
-    "thumbnail": "thumbnails/6z7t6a.webp",
-    "tags": [
-      "Floride",
-      "Irma",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:47:07.086140+00:00"
   },
   {
     "id": "6z3onb",
@@ -1304,133 +772,9 @@
     "summary": "REPORTAGE - Saint-Martin vivait samedi matin quelques heures d'un répit bien précaire après la dévastation provoquée par Irma et avant le passage d'un nouveau cataclysme : l'ouragan José. Sur place, l'un de nos envoyés spéciaux a rencontré des habitants traumatisés.",
     "thumbnail": "thumbnails/6z3onb.webp",
     "tags": [
-      "Saint-Martin",
-      "José",
-      "Irma",
-      "Sujets de société",
-      "actualité Sujets de société"
+      "Police"
     ],
     "analyzed_at": "2026-11-01T09:47:08.102341+00:00"
-  },
-  {
-    "id": "6z0boj",
-    "title": "Pour financer ses réformes, Emmanuel Macron appelle la croissance à augmenter de 0,5%",
-    "url": "http://www.legorafi.fr/2017/09/07/pour-financer-ses-reformes-emmanuel-macron-appelle-la-croissance-a-augmenter-de-05/",
-    "permalink": "/r/france/comments/6z0boj/pour_financer_ses_réformes_emmanuel_macron/",
-    "created_at": "2017-09-09T06:43:01+00:00",
-    "score": 178,
-    "num_comments": 32,
-    "subreddit": "france",
-    "author": "KamiZole",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/_--r0d7TFSkEQ6wX3lY5nzGaitAXI5n-7-ukUkqgnOM.jpeg?auto=webp&s=3c56347c9e4ba9dc7a37e829b8e5478d721e53ed",
-    "ingested_at": "2026-10-31T14:59:35.877810+00:00",
-    "summary": "Quelques heures après avoir appelé les propriétaires à baisser les loyers de 5 euros pour compenser la baisse des APL, Emmanuel Macron a sommé la croissance d’augmenter de 0,5% afin d’aider le gouvernement à mettre en place ses réformes.",
-    "thumbnail": "thumbnails/6z0boj.webp",
-    "tags": [
-      "Emmanuel Macron",
-      "APL",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:47:07.294137+00:00"
-  },
-  {
-    "id": "6yvacz",
-    "title": "Les 10% les plus riches vont bénéficier de 4 milliards d'euros de baisse d'impôts grâce à Macron",
-    "url": "http://www.politique.net/2017090801-baisse-d-impots-pour-les-plus-riches.htm",
-    "permalink": "/r/france/comments/6yvacz/les_10_les_plus_riches_vont_bénéficier_de_4/",
-    "created_at": "2017-09-08T14:59:31+00:00",
-    "score": 112,
-    "num_comments": 60,
-    "subreddit": "france",
-    "author": "bernardryefield",
-    "flair": "Politique",
-    "domain": "politique.net",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/NQEvR0zTVWHxeKdAjrYeVzaWpPmL12W2zwEvQT2IQnA.jpeg?auto=webp&s=1ad6bc74e3cbb28953d348d6ca0b0ca0c60da6fe",
-    "ingested_at": "2026-10-31T14:59:35.878384+00:00",
-    "summary": "Les 10% les plus riches vont bénéficier de 4 milliards d'euros de baisse d'impôts grâce à Macron",
-    "thumbnail": "thumbnails/6yvacz.webp",
-    "tags": [
-      "Macron",
-      "Politique"
-    ],
-    "analyzed_at": "2026-11-01T09:47:07.298722+00:00"
-  },
-  {
-    "id": "6yszlv",
-    "title": "Les élégantes protections anti-bombardements des vitrines de Paris en 14-18",
-    "url": "http://www.laboiteverte.fr/elegantes-protections-anti-bombardements-vitrines-de-paris-14-18/",
-    "permalink": "/r/france/comments/6yszlv/les_élégantes_protections_antibombardements_des/",
-    "created_at": "2017-09-08T06:05:19+00:00",
-    "score": 198,
-    "num_comments": 21,
-    "subreddit": "france",
-    "author": "BringbackMarchais",
-    "flair": "Culture",
-    "domain": "laboiteverte.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/YBSPF_hdWcCG86cAmTvlwi-I8uCtfzg_F64U39VVzrI.jpeg?auto=webp&s=d9ba01b60a4385b7dfd95587cfa58313a54d409c",
-    "ingested_at": "2026-10-31T14:59:35.877720+00:00",
-    "summary": "Pendant la Première Guerre Mondiale les commerçants de Paris posaient des bandes de papier gommé collant sur leurs vitrines pour éviter que les projections de verre fassent des blessés en cas de bombardement allemand.",
-    "thumbnail": "thumbnails/6yszlv.webp",
-    "tags": [
-      "Paris",
-      "Culture"
-    ],
-    "analyzed_at": "2026-11-01T09:47:07.674705+00:00"
-  },
-  {
-    "id": "6yma5s",
-    "title": "Denis Meadows, Professeur au Massachusets Institute of Technology (MIT) : La croissance infinie, produire toujours plus de choses, ce n'est plus possible. C'est un mythe de croire que ça peut continuer et que va résoudre les problèmes. On va un effondrement du système.",
-    "url": "http://www.terraeco.net/Dennis-Meadows-Nous-n-avons-pas,44114.html",
-    "permalink": "/r/france/comments/6yma5s/denis_meadows_professeur_au_massachusets/",
-    "created_at": "2017-09-07T10:09:48+00:00",
-    "score": 137,
-    "num_comments": 131,
-    "subreddit": "france",
-    "author": "Mitchuan",
-    "flair": "Société",
-    "domain": "terraeco.net",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/tYArexsgWJ0urpCT4PsHtiZstxYnc9JMKrMgru6WEQ0.jpeg?auto=webp&s=cc7acfa38f51628e947e2413919980d54d0c0445",
-    "ingested_at": "2026-10-31T14:59:35.878003+00:00",
-    "summary": "La croissance perpÃ©tuelle est-elle possible dans un monde fini ? Il y a quarante ans dÃ©jÃ , Dennis Meadows et ses acolytes rÃ©pondaient par la nÃ©gative. Aujourd'hui, le chercheur lit dans la crise les premiers signes d'un effondrement du systÃ¨me.",
-    "thumbnail": "thumbnails/6yma5s.webp",
-    "tags": [
-      "MIT",
-      "Denis Meadows",
-      "Massachusets Institute",
-      "Technology",
-      "Société"
-    ],
-    "analyzed_at": "2026-11-01T09:47:08.083972+00:00"
-  },
-  {
-    "id": "6ykat6",
-    "title": "Le Charles de Gaulle entrant dans un dock à Toulon pour sa maintenance (février 2017)",
-    "url": "https://www.navyrecognition.com/images/stories/news/2017/february/Charles_de_Gaulle_mid-life_refit-2.jpg",
-    "permalink": "/r/france/comments/6ykat6/le_charles_de_gaulle_entrant_dans_un_dock_à/",
-    "created_at": "2017-09-07T02:11:40+00:00",
-    "score": 521,
-    "num_comments": 63,
-    "subreddit": "france",
-    "author": "keepthepace",
-    "flair": "Culture",
-    "domain": "navyrecognition.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/ECBlaleEhxlWPIZ3qm95uloUGYP7rVti6OI8kGt8Hvs.jpg?auto=webp&s=1722a8890da1a67569446aeb7fb68bd237e45cdb",
-    "ingested_at": "2026-10-31T14:59:35.877382+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/6ykat6.webp",
-    "tags": [
-      "Charles de Gaulle",
-      "Toulon",
-      "Culture"
-    ],
-    "analyzed_at": "2026-11-01T09:47:13.659380+00:00"
   },
   {
     "id": "6yicdz",
@@ -1449,12 +793,7 @@
     "ingested_at": "2026-10-31T14:59:35.878610+00:00",
     "summary": "Irma s&#39;&eacute;loigne, l&#39;oeil de l&#39;ouragan a quitt&eacute; Saint-Martin peu apr&egrave;s 8 heures ce matin, laissant des d&eacute;g&acirc;ts consid&eacute;rables. Partout, des d&eacute;bris jonchent les routes. L&#39;&icirc;le est m&eacute;connaissable.",
     "thumbnail": "thumbnails/6yicdz.webp",
-    "tags": [
-      "Saint-Martin",
-      "Irma",
-      "Outre-mer",
-      "Marigot"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:47:08.258463+00:00"
   },
   {
@@ -1475,8 +814,7 @@
     "summary": "",
     "thumbnail": "thumbnails/6yfp6x.webp",
     "tags": [
-      "Nicolas Hulot",
-      "Société"
+      "Nicolas Hulot"
     ],
     "analyzed_at": "2026-11-01T09:47:08.200063+00:00"
   },
@@ -1498,9 +836,9 @@
     "summary": "Alors que son gouvernement a prévu de couper de 5 euros les aides au logement (APL) à compter d'octobre, Emmanuel Macron a lancé ce mardi 5 septembre un appel à \"tous les propriétaires\" pour qu'ils baissent volontairement leurs loyers de la même somme.",
     "thumbnail": "thumbnails/6y77hk.webp",
     "tags": [
-      "APL",
-      "Not Gorafi",
-      "Emmanuel Macron"
+      "Emmanuel Macron",
+      "Protection sociale",
+      "Logement"
     ],
     "analyzed_at": "2026-11-01T09:47:09.241150+00:00"
   },
@@ -1522,9 +860,7 @@
     "summary": "Plusieurs dizaines de salariés de McDonald's ont manifesté pour réclamer une hausse des salaires et de meilleures conditions de travail dans deux de ses établissements. Ce mouvement a reçu le soutien du leader de l'opposition travailliste Jeremy Corbyn.",
     "thumbnail": "thumbnails/6y6dqf.webp",
     "tags": [
-      "McDonald's",
-      "Jeremy Corbyn",
-      "Politique"
+      "Grèves et syndicats"
     ],
     "analyzed_at": "2026-11-01T09:47:08.713887+00:00"
   },
@@ -1546,11 +882,8 @@
     "summary": "Lors de ses voeux du 1 janvier, Emmanuel Macron a promis de faire en sorte qu'il n'y ait plus de personne vivant dans la rue.",
     "thumbnail": "thumbnails/6y6dj5.webp",
     "tags": [
-      "SDF",
-      "Finlande",
-      "Emmanuel Macron",
-      "Habitat et urbanisme",
-      "Société"
+      "Logement",
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T09:47:08.764305+00:00"
   },
@@ -1571,9 +904,7 @@
     "ingested_at": "2026-10-31T14:59:35.878650+00:00",
     "summary": "Les études se sont contredites ces dernières années au sujet du bonheur des parents. Mais selon une nouvelle enquête, l’arrivée d’un enfant n’apporterait pas la morosité. Au contraire, elle serait source d’allégresse.",
     "thumbnail": "thumbnails/6xzwdt.webp",
-    "tags": [
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:47:11.673131+00:00"
   },
   {
@@ -1594,11 +925,7 @@
     "summary": "Le programme de débat de France 5 s'est retrouvé piégé par le manque de pluralisme de ses invités. Lors de l'émission du vendredi 1er septembre consacré à Mélenchon, ceux-ci n'ont pas tardé à déverser un flot ininterrompu de critiques, tous unanimes, sans contradicteur aucun.",
     "thumbnail": "thumbnails/6xyujt.webp",
     "tags": [
-      "Mélenchon",
-      "Mélenchon-bashing",
-      "France 5",
-      "Jean-Luc Mélenchon",
-      "Politique"
+      "Jean-Luc Mélenchon"
     ],
     "analyzed_at": "2026-11-01T09:47:08.690683+00:00"
   },
@@ -1619,13 +946,7 @@
     "ingested_at": "2026-10-31T14:59:35.878905+00:00",
     "summary": "Une zone humide défrichée, la biodiversité saccagée, des terres agricoles dévorées, la loi méprisée : voici le projet de quatorzième golf en Gironde, à Villenave d'Ornon. Qui est inauguré ce 2 septembre 2017.",
     "thumbnail": "thumbnails/6xtrj3.webp",
-    "tags": [
-      "Bordeaux",
-      "Villenave Ornon",
-      "Gironde",
-      "Grands projets imposés",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:47:09.271005+00:00"
   },
   {
@@ -1646,11 +967,7 @@
     "summary": "Saisie par le procureur de la République à Toulouse, l'IGPN enquête sur une affaire de violence policière. Deux adjoints de sécurité auraient tabassé un homme menotté sans se rendre compte qu'une caméra de surveillance filmait...",
     "thumbnail": "thumbnails/6xpq13.webp",
     "tags": [
-      "République",
-      "IGPN",
-      "Toulouse",
-      "France 3",
-      "Société"
+      "Police"
     ],
     "analyzed_at": "2026-11-01T09:47:09.173430+00:00"
   },
@@ -1671,10 +988,7 @@
     "ingested_at": "2026-10-31T14:59:35.877677+00:00",
     "summary": "",
     "thumbnail": "thumbnails/6xn5c5.webp",
-    "tags": [
-      "Teddy Riner",
-      "Sport"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:47:11.145588+00:00"
   },
   {
@@ -1694,36 +1008,8 @@
     "ingested_at": "2026-10-31T14:59:35.878550+00:00",
     "summary": "",
     "thumbnail": "thumbnails/6xkvo7.webp",
-    "tags": [
-      "Silicon Valley",
-      "Technos"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:47:09.496500+00:00"
-  },
-  {
-    "id": "6xex6c",
-    "title": "Colmar : 35 paysans rachètent un Lidl et court-circuitent la grande distribution avec du 100% local",
-    "url": "https://www.le-lorrain.fr/blog/2017/08/24/colmar-35-paysans-rachetent-lidl-production-local",
-    "permalink": "/r/france/comments/6xex6c/colmar_35_paysans_rachètent_un_lidl_et/",
-    "created_at": "2017-09-01T14:36:34+00:00",
-    "score": 428,
-    "num_comments": 138,
-    "subreddit": "france",
-    "author": "touristtam",
-    "flair": "Société",
-    "domain": "le-lorrain.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/e_3H8ayYAlqGaWZd9b70mdI5FsTQKE876nY6yhT-rM4.jpg?auto=webp&s=6d676d1e86a2fb1d786551488b58557e2658a267",
-    "ingested_at": "2026-10-31T14:59:35.877429+00:00",
-    "summary": "Paysans et produits locaux, un succès ! Nous sommes à Colmar en Alsace où 35 agriculteurs ce sont réunis pour",
-    "thumbnail": "thumbnails/6xex6c.webp",
-    "tags": [
-      "Lidl",
-      "Colmar",
-      "Alsace",
-      "Société"
-    ],
-    "analyzed_at": "2026-11-01T09:47:09.727539+00:00"
   },
   {
     "id": "6xdz4y",
@@ -1743,38 +1029,10 @@
     "summary": "Invité ce mercredi soir à analyser l'interview donnée par Emmanuel Macron au Point, l'éditorialiste de droite de BFMTV en a profité pour se lâcher contre la France insoumise. Pour Eric Brunet, les électeurs de Jean-Luc Mélenchon ne sont ni plus ni moins que des abrutis.",
     "thumbnail": "thumbnails/6xdz4y.webp",
     "tags": [
-      "Eric Brunet de BFMTV",
-      "Mélenchon",
-      "Eric Brunet",
-      "Emmanuel Macron",
-      "Point"
+      "Jean-Luc Mélenchon",
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T09:47:10.135918+00:00"
-  },
-  {
-    "id": "6xcr2h",
-    "title": "La gare de Limoges-Bénédictins, style Art Nouveau / Art Déco / néoclassique",
-    "url": "https://c1.staticflickr.com/5/4360/36396113086_9a639d9729_o.jpg",
-    "permalink": "/r/france/comments/6xcr2h/la_gare_de_limogesbénédictins_style_art_nouveau/",
-    "created_at": "2017-09-01T06:15:25+00:00",
-    "score": 104,
-    "num_comments": 24,
-    "subreddit": "france",
-    "author": "loulan",
-    "flair": "Culture",
-    "domain": "c1.staticflickr.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/qUCrgOmMy1nv0eHAtyL6mxBZKqhUxfeWeibXwrfy_Ww.jpeg?auto=webp&s=e145490615bae4688312af441f039cad9e29a905",
-    "ingested_at": "2026-10-31T14:59:35.878485+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/6xcr2h.webp",
-    "tags": [
-      "Limoges-Bénédictins",
-      "Art Nouveau",
-      "Art Déco",
-      "Culture"
-    ],
-    "analyzed_at": "2026-11-01T09:47:12.521796+00:00"
   },
   {
     "id": "6xcqlz",
@@ -1793,9 +1051,7 @@
     "ingested_at": "2026-10-31T14:59:35.878179+00:00",
     "summary": "",
     "thumbnail": "thumbnails/6xcqlz.webp",
-    "tags": [
-      "Culture"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:47:10.541484+00:00"
   }
 ]

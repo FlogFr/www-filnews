@@ -16,10 +16,7 @@
     "ingested_at": "2026-10-31T15:00:37.282147+00:00",
     "summary": "E n octobre 2009, Le Monde diplomatique fit appel à ses lecteurs ( 1 ) . Notre journal venait d’essuyer trois années de pertes financières et, comme beaucoup d’autres, il voyait chaque année sa diffusion se tasser. Autant dire que son existence — ou, ce qui revenait au même, son indépendance — n’était plus assurée.",
     "thumbnail": "thumbnails/79vy7q.webp",
-    "tags": [
-      "Serge Halimi",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:46:40.492292+00:00"
   },
   {
@@ -40,58 +37,10 @@
     "summary": "Le magazine mensuel féminin Causette a réuni une quarantaine de personnalités françaises autour d'une pétition visant à pousser le gouvernement à réformer le congé paternité.",
     "thumbnail": "thumbnails/79uw2s.webp",
     "tags": [
-      "Causette",
       "Emmanuel Macron",
-      "Agnès Buzyn",
-      "Marlène Schiappa",
-      "Société"
+      "Marlène Schiappa"
     ],
     "analyzed_at": "2026-11-01T09:46:42.847720+00:00"
-  },
-  {
-    "id": "79nlwy",
-    "title": "Tel est pris qui croyait prendre",
-    "url": "https://pbs.twimg.com/media/DNYvNpOWkAAvnGj.jpg",
-    "permalink": "/r/france/comments/79nlwy/tel_est_pris_qui_croyait_prendre/",
-    "created_at": "2017-10-30T13:12:49+00:00",
-    "score": 188,
-    "num_comments": 47,
-    "subreddit": "france",
-    "author": "_throawayplop_",
-    "flair": "Politique",
-    "domain": "pbs.twimg.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/9Ub-u5-SsgkuiYD53NTdVb2GkVjYsS0CpfB-EAb-_ao.jpeg?auto=webp&s=588dc00bce0d5c1b8ea7711c91c3a1b69affee13",
-    "ingested_at": "2026-10-31T15:00:37.281233+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/79nlwy.webp",
-    "tags": [
-      "Politique"
-    ],
-    "analyzed_at": "2026-11-01T09:46:41.839882+00:00"
-  },
-  {
-    "id": "79nhhe",
-    "title": "Montée en flèche des concentrations de gaz à effet de serre: nouveau record [Organisation Météorologique Mondiale]",
-    "url": "https://public.wmo.int/fr/medias/communiqu%C3%A9s-de-presse/mont%C3%A9e-en-fl%C3%A8che-des-concentrations-de-gaz-%C3%A0-effet-de-serre-nouveau",
-    "permalink": "/r/france/comments/79nhhe/montée_en_flèche_des_concentrations_de_gaz_à/",
-    "created_at": "2017-10-30T12:49:52+00:00",
-    "score": 239,
-    "num_comments": 175,
-    "subreddit": "france",
-    "author": "BeranPanasper",
-    "flair": "Science",
-    "domain": "public.wmo.int",
-    "selftext": "",
-    "reddit_thumbnail": "https://b.thumbs.redditmedia.com/TB0XtYmnX6WAK6q2tA6MrsP_lngAS8-sh4-lavHC4KU.jpg",
-    "ingested_at": "2026-10-31T15:00:37.280971+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/79nhhe.webp",
-    "tags": [
-      "Organisation Météorologique Mondiale",
-      "Science"
-    ],
-    "analyzed_at": "2026-11-01T09:46:42.692851+00:00"
   },
   {
     "id": "79gmbn",
@@ -110,34 +59,8 @@
     "ingested_at": "2026-10-31T15:00:37.281688+00:00",
     "summary": "Les équipes de France 3 sont allées filmer une séance de massage qui pourrait passer pour autre chose…",
     "thumbnail": "thumbnails/79gmbn.webp",
-    "tags": [
-      "France 3",
-      "Humour"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:46:41.065350+00:00"
-  },
-  {
-    "id": "79fe3q",
-    "title": "Les Sanguinaires, Corse-du-Sud, France",
-    "url": "https://c2.staticflickr.com/4/3854/32461436404_7f080902ec_o.jpg",
-    "permalink": "/r/france/comments/79fe3q/les_sanguinaires_corsedusud_france/",
-    "created_at": "2017-10-29T08:09:28+00:00",
-    "score": 490,
-    "num_comments": 27,
-    "subreddit": "france",
-    "author": "loulan",
-    "flair": "Culture",
-    "domain": "c2.staticflickr.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/U1OMyRI2PpvNiK6W6jC9pn6--1DOqi8Y9vvLy0M3QqE.png?auto=webp&s=14c8f968bec70865b5982d8463687db4ce86ec6a",
-    "ingested_at": "2026-10-31T15:00:37.280724+00:00",
-    "summary": "",
-    "thumbnail": "",
-    "tags": [
-      "Sanguinaires",
-      "Culture"
-    ],
-    "analyzed_at": "2026-11-01T09:46:42.480111+00:00"
   },
   {
     "id": "799ogq",
@@ -157,8 +80,8 @@
     "summary": "Seule une victime de viol ou de tentative de viol sur dix dépose plainte. Mais même une fois la porte du commissariat ou de la gendarmerie poussée,…",
     "thumbnail": "thumbnails/799ogq.webp",
     "tags": [
-      "Viol-police-femmes",
-      "Société"
+      "Violences sexuelles",
+      "Droits des femmes"
     ],
     "analyzed_at": "2026-11-01T09:46:41.760606+00:00"
   },
@@ -180,31 +103,9 @@
     "summary": "",
     "thumbnail": "thumbnails/7987vw.webp",
     "tags": [
-      "Tariq Ramadan"
+      "Violences sexuelles"
     ],
     "analyzed_at": "2026-11-01T09:46:42.155993+00:00"
-  },
-  {
-    "id": "793e9r",
-    "title": "La France doit annexer la catalogne ! Elle nous revient de droit.",
-    "url": "http://www.cartesfrance.fr/cartes/histoire/departement-france-napoleon-1812.png",
-    "permalink": "/r/france/comments/793e9r/la_france_doit_annexer_la_catalogne_elle_nous/",
-    "created_at": "2017-10-27T13:58:01+00:00",
-    "score": 861,
-    "num_comments": 207,
-    "subreddit": "france",
-    "author": "SuperGantDeToilette",
-    "flair": "Politique",
-    "domain": "cartesfrance.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/kszabDAReF7rmhoPlO7XStIw-4UAooLCy41fC4B4Hrg.png?auto=webp&s=75c338605f550bfe09ab43da144984fac5988c54",
-    "ingested_at": "2026-10-31T15:00:37.280681+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/793e9r.webp",
-    "tags": [
-      "Politique"
-    ],
-    "analyzed_at": "2026-11-01T09:46:42.759999+00:00"
   },
   {
     "id": "7924aq",
@@ -223,9 +124,7 @@
     "ingested_at": "2026-10-31T15:00:37.281581+00:00",
     "summary": "",
     "thumbnail": "thumbnails/7924aq.webp",
-    "tags": [
-      "Culture"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:46:42.628957+00:00"
   },
   {
@@ -246,11 +145,8 @@
     "summary": "Près de 66% des Français se disent favorables à une sélection à l'entrée des universités, selon un sondage Ipsos pour \"L'Obs\" en partenariat avec franceinfo, dévoilé jeudi. Pour autant, le tirage au sort n'est pas apprécié.",
     "thumbnail": "thumbnails/78v08q.webp",
     "tags": [
-      "Français",
-      "Ipsos",
-      "APB",
-      "Admission post-bac",
-      "Société"
+      "Éducation",
+      "Élections"
     ],
     "analyzed_at": "2026-11-01T09:46:42.536516+00:00"
   },
@@ -271,155 +167,8 @@
     "ingested_at": "2026-10-31T15:00:37.281424+00:00",
     "summary": "Selon une enquête de \"60 Millions de consommateurs\" et de l'Union nationale des associations familiales (Unaf), les commissions pour incidents de paiement se multiplient et rapportent 6,5 milliards d'euros par an aux banques françaises.",
     "thumbnail": "thumbnails/78tb4e.webp",
-    "tags": [
-      "Tribune",
-      "Millions",
-      "Union",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:46:43.038362+00:00"
-  },
-  {
-    "id": "78nddf",
-    "title": "r/France right now",
-    "url": "http://vinyvinz.v.i.pic.centerblog.net/gifs01.gif",
-    "permalink": "/r/france/comments/78nddf/rfrance_right_now/",
-    "created_at": "2017-10-25T12:34:49+00:00",
-    "score": 325,
-    "num_comments": 56,
-    "subreddit": "france",
-    "author": "npjprods",
-    "flair": "Humour",
-    "domain": "vinyvinz.v.i.pic.centerblog.net",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/lsH5HmDhDU_FN9XeqfYuQtDYX1RS1_VT7Hy0tLI6qnc.gif?format=png8&s=779a36e9d954a2076d54576e7a2f29d296c8566b",
-    "ingested_at": "2026-10-31T15:00:37.280813+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/78nddf.webp",
-    "tags": [
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:46:43.487635+00:00"
-  },
-  {
-    "id": "78m2oz",
-    "title": "“The French saved our men. Yes, we lost four. But we would have lost everybody if it wasn't for the French.”",
-    "url": "http://abcnews.go.com/Politics/died-fighting-brothers-niger-ambush-survivor-fallen-us/story?id=50670787",
-    "permalink": "/r/france/comments/78m2oz/the_french_saved_our_men_yes_we_lost_four_but_we/",
-    "created_at": "2017-10-25T07:09:54+00:00",
-    "score": 3282,
-    "num_comments": 267,
-    "subreddit": "france",
-    "author": "Thomas_Ashland",
-    "flair": "Actus",
-    "domain": "abcnews.go.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/3M3VgRLOj82NwSLR2e9P2-n_TcDDX8IwSGLnvTjwfmY.jpg?auto=webp&s=c3541bebd326d39a723e2d81b7382bef54ad39f7",
-    "ingested_at": "2026-10-31T15:00:37.280595+00:00",
-    "summary": "ABC News has learned chilling new details about the Niger mission gone wrong.",
-    "thumbnail": "thumbnails/78m2oz.webp",
-    "tags": [
-      "French",
-      "Niger",
-      "Dunford",
-      "Nigerien",
-      "American"
-    ],
-    "analyzed_at": "2026-11-01T09:46:44.065363+00:00"
-  },
-  {
-    "id": "78g7ue",
-    "title": "Le plan du métro Parisien \"traduit\" en anglais",
-    "url": "https://www.tuxboard.com/photos/2017/10/plan-metro-paris-anglais.jpg",
-    "permalink": "/r/france/comments/78g7ue/le_plan_du_métro_parisien_traduit_en_anglais/",
-    "created_at": "2017-10-24T14:49:32+00:00",
-    "score": 189,
-    "num_comments": 81,
-    "subreddit": "france",
-    "author": "Dradak",
-    "flair": "Humour",
-    "domain": "tuxboard.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/Ply3jANT8gpBkL5TLi6HnDG466oxbQV3H7kgWwEeYro.jpeg?auto=webp&s=d941967d50109a7585380b82c0539c60d3167aa6",
-    "ingested_at": "2026-10-31T15:00:37.281188+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/78g7ue.webp",
-    "tags": [
-      "Parisien",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:46:43.144679+00:00"
-  },
-  {
-    "id": "78dmvi",
-    "title": "Les projets abandonnés français : le Tunnel sous la Manche d'Aimé Thomé de Gamond en 1867",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Channel_Tunnel_1856_idea_from_Gamond_1a.png/1024px-Channel_Tunnel_1856_idea_from_Gamond_1a.png",
-    "permalink": "/r/france/comments/78dmvi/les_projets_abandonnés_français_le_tunnel_sous_la/",
-    "created_at": "2017-10-24T05:06:16+00:00",
-    "score": 104,
-    "num_comments": 5,
-    "subreddit": "france",
-    "author": "BringbackMarchais",
-    "flair": "Culture",
-    "domain": "upload.wikimedia.org",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/ahfkLeP4SIT1WxdWYq1feTOBzVgVx4ADU2Ef94iWFFE.png?auto=webp&s=c2f4630354c58cd55a74f9a8449dcba510f065d0",
-    "ingested_at": "2026-10-31T15:00:37.282187+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/78dmvi.webp",
-    "tags": [
-      "Tunnel",
-      "Manche Aimé Thomé de Gamond",
-      "Culture"
-    ],
-    "analyzed_at": "2026-11-01T09:46:43.491010+00:00"
-  },
-  {
-    "id": "789uyg",
-    "title": "Il y a 34 ans jour pour jour, 58 parachutistes français mourraient à Beyrouth en mission de maintien de la paix dans l'attentat du drakkar.",
-    "url": "https://fr.wikipedia.org/wiki/Attentats_de_Beyrouth_du_23_octobre_1983",
-    "permalink": "/r/france/comments/789uyg/il_y_a_34_ans_jour_pour_jour_58_parachutistes/",
-    "created_at": "2017-10-23T18:42:50+00:00",
-    "score": 91,
-    "num_comments": 8,
-    "subreddit": "france",
-    "author": "Delitement_total",
-    "flair": "Société",
-    "domain": "fr.wikipedia.org",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/tBPlSGUZk6o8GUkQXXa6MI8FzTvULuA0mqMW5aJnUTE.jpeg?auto=webp&s=bd7c8c36feb28b10bb01fbbe374a5dc727790348",
-    "ingested_at": "2026-10-31T15:00:37.282206+00:00",
-    "summary": "Les attentats de Beyrouth du 23 octobre 1983 , dont l'un est surnommé attentat du Drakkar , sont deux attentats-suicides quasi simultanés qui frappent les contingents américain et français de la Force multinationale de sécurité de Beyrouth durant la guerre du Liban .",
-    "thumbnail": "thumbnails/789uyg.webp",
-    "tags": [
-      "Beyrouth",
-      "Société"
-    ],
-    "analyzed_at": "2026-11-01T09:46:43.149187+00:00"
-  },
-  {
-    "id": "785q0r",
-    "title": "Russian Pop Star Zelimkhan Bakaev, Tortured and Killed In Chechnya Anti-Gay Roundup",
-    "url": "http://www.back2stonewall.com/2017/10/russian-pop-star-zelimkhan-bakaev-tortured-killed-chechnya-anti-gay-roundup.html",
-    "permalink": "/r/france/comments/785q0r/russian_pop_star_zelimkhan_bakaev_tortured_and/",
-    "created_at": "2017-10-23T05:40:18+00:00",
-    "score": 132,
-    "num_comments": 77,
-    "subreddit": "france",
-    "author": "[deleted]",
-    "flair": "Actus",
-    "domain": "back2stonewall.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/W5xOfSBHza_yw0CwAOh9qiDykYfHJK6hW6nBQWny_WI.jpg?auto=webp&s=804c2f9beeafb008eb6ad4852c5ee7aeda6b1f44",
-    "ingested_at": "2026-10-31T15:00:37.281930+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/785q0r.webp",
-    "tags": [
-      "Russian Pop Star Zelimkhan Bakaev",
-      "Killed",
-      "Chechnya Anti-Gay Roundup"
-    ],
-    "analyzed_at": "2026-11-01T09:46:43.422376+00:00"
   },
   {
     "id": "781wt5",
@@ -439,9 +188,7 @@
     "summary": "Sur le papier, il était le parangon du clavier écologique avec ses panneaux solaires et sa batterie rechargeable. Dans les faits, c’est un appareil qui a été programmé pour finir à la poubelle après quatre ou cinq ans d’utilisation. Une honte pour la marque suisse.",
     "thumbnail": "thumbnails/781wt5.webp",
     "tags": [
-      "Clavier Logitech K750",
-      "Logitech",
-      "Technos"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T09:46:43.829662+00:00"
   },
@@ -463,8 +210,7 @@
     "summary": "Retrouvez toute l'actualité en direct et en vidéo avec le premier quotidien d'informations du Sud-Est.",
     "thumbnail": "thumbnails/77za3p.webp",
     "tags": [
-      "Sud-Est",
-      "Science"
+      "Santé"
     ],
     "analyzed_at": "2026-11-01T09:46:43.580306+00:00"
   },
@@ -485,10 +231,7 @@
     "ingested_at": "2026-10-31T15:00:37.281015+00:00",
     "summary": "",
     "thumbnail": "thumbnails/77tedv.webp",
-    "tags": [
-      "Christine Boutin",
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:46:43.779557+00:00"
   },
   {
@@ -508,11 +251,7 @@
     "ingested_at": "2026-10-31T15:00:37.281381+00:00",
     "summary": "",
     "thumbnail": "thumbnails/77sjmd.webp",
-    "tags": [
-      "US Troops",
-      "Niger",
-      "French Air Force"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:46:44.713217+00:00"
   },
   {
@@ -532,11 +271,7 @@
     "ingested_at": "2026-10-31T15:00:37.281275+00:00",
     "summary": "Bientôt, les femmes portant un niqab ou une burqa devront se découvrir le visage lorsqu'elles monteront à bord d'un autobus.",
     "thumbnail": "thumbnails/77s1qb.webp",
-    "tags": [
-      "Québec",
-      "Amérique",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:46:44.422972+00:00"
   },
   {
@@ -556,9 +291,7 @@
     "ingested_at": "2026-10-31T15:00:37.281083+00:00",
     "summary": "",
     "thumbnail": "thumbnails/77o8xf.webp",
-    "tags": [
-      "Science"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:46:45.350957+00:00"
   },
   {
@@ -579,8 +312,7 @@
     "summary": "",
     "thumbnail": "thumbnails/77ng79.webp",
     "tags": [
-      "Cnous",
-      "Technos"
+      "Éducation"
     ],
     "analyzed_at": "2026-11-01T09:46:44.078364+00:00"
   },
@@ -602,9 +334,7 @@
     "summary": "Henda Ayari avait fait le tour des médias en début d'année 2016. A l'époque, elle sortait \"J'ai choisi d'être libre\", livre dans lequel elle expliquait...",
     "thumbnail": "thumbnails/77mq56.webp",
     "tags": [
-      "Henda Ayari",
-      "Tariq Ramadan",
-      "Facebook"
+      "Violences sexuelles"
     ],
     "analyzed_at": "2026-11-01T09:46:44.866947+00:00"
   },
@@ -625,10 +355,7 @@
     "ingested_at": "2026-10-31T15:00:37.281494+00:00",
     "summary": "Le président de l’Union nationale de l’apiculture française, Gilles Lanio, a expliqué, jeudi sur franceinfo, que la France a autorisé de nouveau et \"en catimini\" l'utilisation du sulfoxaflor, un néonicotinoïde.",
     "thumbnail": "thumbnails/77l4zl.webp",
-    "tags": [
-      "Gilles Lanio",
-      "Union"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:46:44.448724+00:00"
   },
   {
@@ -649,57 +376,10 @@
     "summary": "L’Office anticorruption de la police judiciaire a signé, le 5 septembre 2017, un premier rapport accablant dans l’affaire des financements libyens de Nicolas Sarkozy. Éric Woerth, trésorier de 2007 e…",
     "thumbnail": "thumbnails/77l1wi.webp",
     "tags": [
-      "Guéant",
-      "Nicolas Sarkozy",
-      "Éric Woerth"
+      "Police",
+      "Nicolas Sarkozy"
     ],
     "analyzed_at": "2026-11-01T09:46:45.432822+00:00"
-  },
-  {
-    "id": "77dvm1",
-    "title": "Un tiers des chômeurs ne touche aucune indemnité. La moitié d'entre eux ne reçoit pas plus 500 euros par mois et les trois quarts moins du Smic.",
-    "url": "http://www.observationsociete.fr/travail/chomage/la-moitie-des-chomeurs-touchent-moins-de-500-euros-par-mois.html",
-    "permalink": "/r/france/comments/77dvm1/un_tiers_des_chômeurs_ne_touche_aucune_indemnité/",
-    "created_at": "2017-10-19T11:52:14+00:00",
-    "score": 190,
-    "num_comments": 134,
-    "subreddit": "france",
-    "author": "PiqueAssiette",
-    "flair": "Société",
-    "domain": "observationsociete.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://b.thumbs.redditmedia.com/IepV1AjHJm67m5Er_X_MHSTkSvm3gfvUQrrz_J0hA9s.jpg",
-    "ingested_at": "2026-10-31T15:00:37.281168+00:00",
-    "summary": "Un tiers des chômeurs ne touche aucune indemnité. La moitié d'entre eux ne reçoit pas plus 500 euros par mois et les trois quarts moins du Smic. Seuls 6 % perçoivent plus de 1 500 euros. 17 600 personnes touchent plus de 4000 euros par mois, 0,4 % de l'ensemble.",
-    "thumbnail": "thumbnails/77dvm1.webp",
-    "tags": [
-      "Smic",
-      "Société"
-    ],
-    "analyzed_at": "2026-11-01T09:46:48.327876+00:00"
-  },
-  {
-    "id": "77ddwd",
-    "title": "Qualité de l'eau potable en France : toutes les analyses des agences régionales de Santé",
-    "url": "http://solidarites-sante.gouv.fr/sante-et-environnement/eaux/article/qualite-de-l-eau-potable",
-    "permalink": "/r/france/comments/77ddwd/qualité_de_leau_potable_en_france_toutes_les/",
-    "created_at": "2017-10-19T09:44:31+00:00",
-    "score": 76,
-    "num_comments": 15,
-    "subreddit": "france",
-    "author": "GrenobleLyon",
-    "flair": "Société",
-    "domain": "solidarites-sante.gouv.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/wYCfCilT5_yCvgdrQSjxttP5YXR7NYyj7v46uFSwDyk.jpg?auto=webp&s=5b091adfd735140e0f6f20e21b746a7cd0e63bde",
-    "ingested_at": "2026-10-31T15:00:37.282273+00:00",
-    "summary": "Afin de protÃ©ger nos services et vos donnÃ©es, veuillez confirmer que vous Ãªtes un utilisateur humain.",
-    "thumbnail": "thumbnails/77ddwd.webp",
-    "tags": [
-      "Santé",
-      "Société"
-    ],
-    "analyzed_at": "2026-11-01T09:46:44.864725+00:00"
   },
   {
     "id": "778mi1",
@@ -718,9 +398,7 @@
     "ingested_at": "2026-10-31T15:00:37.281808+00:00",
     "summary": "",
     "thumbnail": "thumbnails/778mi1.webp",
-    "tags": [
-      "Europe"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:46:44.930444+00:00"
   },
   {
@@ -740,9 +418,7 @@
     "ingested_at": "2026-10-31T15:00:37.282227+00:00",
     "summary": "",
     "thumbnail": "thumbnails/772gm8.webp",
-    "tags": [
-      "Merah"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:46:46.537985+00:00"
   },
   {
@@ -763,59 +439,10 @@
     "summary": "Le patron du Medef Pierre Gattaz a dénoncé, ce mardi 17 octobre sur Europe 1, le \"scandale\" de \"l'optimisation\" des chômeurs. En revanche, l'optimisation des riches est selon lui due au \"poison\" de l'impôt sur la fortune...",
     "thumbnail": "thumbnails/76xt4b.webp",
     "tags": [
-      "Pierre Gattaz",
-      "ISF",
-      "Medef Pierre Gattaz",
-      "Europe 1",
-      "Politique"
+      "Budget et fiscalité",
+      "Travail"
     ],
     "analyzed_at": "2026-11-01T09:46:46.264887+00:00"
-  },
-  {
-    "id": "76wzcb",
-    "title": "On this day in 1961, police killed somewhere between 100 and 300 people in the streets of Paris.",
-    "url": "https://en.wikipedia.org/wiki/Paris_massacre_of_1961",
-    "permalink": "/r/france/comments/76wzcb/on_this_day_in_1961_police_killed_somewhere/",
-    "created_at": "2017-10-17T07:26:14+00:00",
-    "score": 275,
-    "num_comments": 238,
-    "subreddit": "france",
-    "author": "[deleted]",
-    "flair": "Société",
-    "domain": "en.wikipedia.org",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/-UbeWkHuB8Kqm0x_ElI9vssFSGDJS1p798Lksh0-FiM.jpg?auto=webp&s=d11b7c4aa301dc7d030db4fbee548b1f0c694ff4",
-    "ingested_at": "2026-10-31T15:00:37.280857+00:00",
-    "summary": "The 1961 Paris massacre [ a ] (also called the 17 October 1961 massacre [ b ] in France ) was the mass killing of Algerians who were living in Paris by the French National Police . It occurred on 17 October 1961, during the Algerian War (1954–62).",
-    "thumbnail": "thumbnails/76wzcb.webp",
-    "tags": [
-      "Paris",
-      "October 1961",
-      "French",
-      "Algerians",
-      "Société"
-    ],
-    "analyzed_at": "2026-11-01T09:46:45.239277+00:00"
-  },
-  {
-    "id": "76wu6w",
-    "title": "Urinoir public, Grenoble, France",
-    "url": "https://c1.staticflickr.com/1/734/20732084256_22d6079b8b_o.jpg",
-    "permalink": "/r/france/comments/76wu6w/urinoir_public_grenoble_france/",
-    "created_at": "2017-10-17T06:50:31+00:00",
-    "score": 128,
-    "num_comments": 52,
-    "subreddit": "france",
-    "author": "loulan",
-    "flair": "",
-    "domain": "c1.staticflickr.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/5ZtFSIhp_fsz7jmZ_HsWFIHtbnI5SnfgXNx2-5wdxjI.jpeg?auto=webp&s=1e368b6c8a5dbeeccd78d852fbb57b5cbca965a0",
-    "ingested_at": "2026-10-31T15:00:37.281949+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/76wu6w.webp",
-    "tags": [],
-    "analyzed_at": "2026-11-01T09:46:47.766265+00:00"
   },
   {
     "id": "76suw7",
@@ -835,58 +462,9 @@
     "summary": "",
     "thumbnail": "thumbnails/76suw7.webp",
     "tags": [
-      "Malte",
-      "Politique"
+      "Corruption"
     ],
     "analyzed_at": "2026-11-01T09:46:45.635639+00:00"
-  },
-  {
-    "id": "76p36y",
-    "title": "Colmar, Haut-Rhin, France",
-    "url": "https://c1.staticflickr.com/9/8078/28910756194_1823e670c1_o.jpg",
-    "permalink": "/r/france/comments/76p36y/colmar_hautrhin_france/",
-    "created_at": "2017-10-16T08:14:30+00:00",
-    "score": 236,
-    "num_comments": 26,
-    "subreddit": "france",
-    "author": "loulan",
-    "flair": "Culture",
-    "domain": "c1.staticflickr.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/zpjHgawiFDCT0YRgEXYc2q2EAF2hiV8W7rFQmgiaWMs.jpg?auto=webp&s=f1cd04e810eaa4410e4d6d0f71055d5ec9b0ad60",
-    "ingested_at": "2026-10-31T15:00:37.280993+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/76p36y.webp",
-    "tags": [
-      "Culture"
-    ],
-    "analyzed_at": "2026-11-01T09:46:52.464376+00:00"
-  },
-  {
-    "id": "76ogmd",
-    "title": "Des failles de sécurité majeures découvertes dans le protocole WPA2",
-    "url": "http://macbidouille.com/news/2017/10/16/des-failles-de-securite-majeures-decouvertes-dans-le-protocole-wpa2",
-    "permalink": "/r/france/comments/76ogmd/des_failles_de_sécurité_majeures_découvertes_dans/",
-    "created_at": "2017-10-16T05:33:56+00:00",
-    "score": 134,
-    "num_comments": 113,
-    "subreddit": "france",
-    "author": "[deleted]",
-    "flair": "Technos",
-    "domain": "macbidouille.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/1TtaYl8TYJOuDzG6qATKJvH9SiAOa2IA4JrVXoOOOIM.jpeg?auto=webp&s=c5432a6adb2bb5f8106f8c9926ac6443f8fbe3f7",
-    "ingested_at": "2026-10-31T15:00:37.281890+00:00",
-    "summary": "Le protocole WPA2 est celui qui permet de protéger nos connexions Wi-Fi avec une grande efficacité (pour peu que le mot de passe soit complexe). Il a remplacé le WPA moins robuste et surtout le WEP qu...",
-    "thumbnail": "thumbnails/76ogmd.webp",
-    "tags": [
-      "WPA2",
-      "Wi-Fi",
-      "WPA",
-      "WEP",
-      "Technos"
-    ],
-    "analyzed_at": "2026-11-01T09:46:45.857616+00:00"
   },
   {
     "id": "76j15f",
@@ -906,8 +484,7 @@
     "summary": "Après l'affaire Weinstein, la parole se libère. Le hashtag #BalanceTonPorc (« Balance ton porc ») suscite des milliers de commentaires.",
     "thumbnail": "thumbnails/76j15f.webp",
     "tags": [
-      "Weinstein",
-      "Société"
+      "Violences sexuelles"
     ],
     "analyzed_at": "2026-11-01T09:46:46.056443+00:00"
   },
@@ -929,54 +506,9 @@
     "summary": "Alors que la capitale syrienne de Daech est pratiquement reprise, des djihadistes étrangers s'y battent encore. S'agissant des Français, leu",
     "thumbnail": "thumbnails/76ibwg.webp",
     "tags": [
-      "Raqqa",
-      "Défense",
-      "Daech"
+      "Terrorisme"
     ],
     "analyzed_at": "2026-11-01T09:46:46.323714+00:00"
-  },
-  {
-    "id": "76da6c",
-    "title": "AJA qu'il est interdit de diffuser des flims le samedi soir à la télévision pour ne pas concurrencer les salles de cinéma.",
-    "url": "http://clesdelaudiovisuel.fr/Connaitre/Les-programmes-audiovisuels/Pourquoi-voit-on-moins-de-films-certains-soirs-de-la-semaine",
-    "permalink": "/r/france/comments/76da6c/aja_quil_est_interdit_de_diffuser_des_flims_le/",
-    "created_at": "2017-10-14T16:58:00+00:00",
-    "score": 122,
-    "num_comments": 92,
-    "subreddit": "france",
-    "author": "LaTarteFlambee",
-    "flair": "Culture",
-    "domain": "clesdelaudiovisuel.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://b.thumbs.redditmedia.com/nrn5OYpRunMxC9Mt5DBMhf0BepkXllVFCzc74IUajok.jpg",
-    "ingested_at": "2026-10-31T15:00:37.282031+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/76da6c.webp",
-    "tags": [
-      "AJA",
-      "Culture"
-    ],
-    "analyzed_at": "2026-11-01T09:46:51.992979+00:00"
-  },
-  {
-    "id": "76anhg",
-    "title": "Albi, Tarn, France",
-    "url": "https://c1.staticflickr.com/5/4430/36681759572_c62f369b6d_o.jpg",
-    "permalink": "/r/france/comments/76anhg/albi_tarn_france/",
-    "created_at": "2017-10-14T06:52:28+00:00",
-    "score": 197,
-    "num_comments": 6,
-    "subreddit": "france",
-    "author": "loulan",
-    "flair": "",
-    "domain": "c1.staticflickr.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/q7xO8rmHRcIhNFwY2_WSwERXrVYO_1e31I1l9QRRZJA.jpeg?auto=webp&s=51929e958e78fe4facf7764b2b4f6357da1a2710",
-    "ingested_at": "2026-10-31T15:00:37.281127+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/76anhg.webp",
-    "tags": [],
-    "analyzed_at": "2026-11-01T09:46:55.099536+00:00"
   },
   {
     "id": "765pds",
@@ -996,33 +528,9 @@
     "summary": "",
     "thumbnail": "thumbnails/765pds.webp",
     "tags": [
-      "Politique"
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T09:46:48.197692+00:00"
-  },
-  {
-    "id": "765lp9",
-    "title": "Comment j'ai réussi à m’incruster à la fashion week parisienne en me faisant passer pour un créateur",
-    "url": "https://www.vice.com/fr/article/vb7an3/fashion-week-paris-incruste-georgio-peviani?utm_source=vicefrtw",
-    "permalink": "/r/france/comments/765lp9/comment_jai_réussi_à_mincruster_à_la_fashion_week/",
-    "created_at": "2017-10-13T15:40:13+00:00",
-    "score": 154,
-    "num_comments": 23,
-    "subreddit": "france",
-    "author": "karmaecrivain94",
-    "flair": "Humour",
-    "domain": "vice.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/4BHcY3i852TNTejCR4TjsR-f-FC-j5vY_comuNGbh9U.jpeg?auto=webp&s=481594f7018ef587d210fedf6512be95dd2998d8",
-    "ingested_at": "2026-10-31T15:00:37.281558+00:00",
-    "summary": "Mon nom ? Georgio Peviani. Mon objectif ? Squatter les podiums et les soirées.",
-    "thumbnail": "thumbnails/765lp9.webp",
-    "tags": [
-      "Georgio Peviani",
-      "Paris",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:46:47.929567+00:00"
   },
   {
     "id": "764bg1",
@@ -1041,33 +549,8 @@
     "ingested_at": "2026-10-31T15:00:37.280703+00:00",
     "summary": "",
     "thumbnail": "thumbnails/764bg1.webp",
-    "tags": [
-      "Marseille",
-      "Culture"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:46:52.074150+00:00"
-  },
-  {
-    "id": "762vlc",
-    "title": "Château de la Roche, Loire, France",
-    "url": "https://c2.staticflickr.com/6/5579/14193667795_0d492df049_o.jpg",
-    "permalink": "/r/france/comments/762vlc/château_de_la_roche_loire_france/",
-    "created_at": "2017-10-13T06:00:08+00:00",
-    "score": 136,
-    "num_comments": 8,
-    "subreddit": "france",
-    "author": "loulan",
-    "flair": "",
-    "domain": "c2.staticflickr.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/8QYGbP281UcpJDHVXf4xrKPhXPr-xTKW2yJHxrO2wXM.jpeg?auto=webp&s=1706648413fb7b688aaf7e4983856e09a3049ae0",
-    "ingested_at": "2026-10-31T15:00:37.281849+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/762vlc.webp",
-    "tags": [
-      "Roche"
-    ],
-    "analyzed_at": "2026-11-01T09:46:54.340884+00:00"
   },
   {
     "id": "760gan",
@@ -1087,11 +570,7 @@
     "summary": "La Mutualité sociale agricole, qui gère la sécurité sociale des agriculteurs, a diffusé ce mardi les premiers chiffres sur le revenu des exploitants en 2016. Leur revenu moyen se situe entre 13.000 et 15.000 euros par an. Un tiers des agriculteurs touche moins de 350 euros par mois.",
     "thumbnail": "thumbnails/760gan.webp",
     "tags": [
-      "Agriculture",
-      "Élevage",
-      "Mutualité",
-      "MSA",
-      "Société"
+      "Agriculture"
     ],
     "analyzed_at": "2026-11-01T09:46:50.034507+00:00"
   },
@@ -1112,12 +591,7 @@
     "ingested_at": "2026-10-31T15:00:37.281254+00:00",
     "summary": "Recevez toutes les Alertes Info de France 24 en temps réel sur Facebook et Twitter : @UrgentF24",
     "thumbnail": "thumbnails/75wz79.webp",
-    "tags": [
-      "États-Unis",
-      "Unesco",
-      "Alertes",
-      "Facebook et Twitter"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:46:53.648033+00:00"
   },
   {
@@ -1137,31 +611,8 @@
     "ingested_at": "2026-10-31T15:00:37.281038+00:00",
     "summary": "Cet objectif, annoncé mercredi lors d'un comité de pilotage du plan climat de la capitale, ne devrait pas plaire aux promoteurs de quatre ro",
     "thumbnail": "thumbnails/75v6qj.webp",
-    "tags": [
-      "Paris",
-      "LIRE"
-    ],
-    "analyzed_at": "2026-11-01T09:46:50.385901+00:00"
-  },
-  {
-    "id": "75qcbn",
-    "title": "Dans la série \"ça ne fera jamais les gros titres\" : la France, l’État de la zone euro où le taux de pauvreté après transferts sociaux a le plus baissé entre 2010 et 2015 (cf p.30)",
-    "url": "http://ec.europa.eu/eurostat/web/products-statistical-books/-/KS-EI-17-001?inheritRedirect=true&redirect=%2Feurostat%2Fpublications%2Fstatistical-books",
-    "permalink": "/r/france/comments/75qcbn/dans_la_série_ça_ne_fera_jamais_les_gros_titres/",
-    "created_at": "2017-10-11T16:48:16+00:00",
-    "score": 121,
-    "num_comments": 39,
-    "subreddit": "france",
-    "author": "Witty_Butthole",
-    "flair": "Actus",
-    "domain": "ec.europa.eu",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/ylAo4HZmrPDFH4HSHcw77fYAlXzTeqRxntHxnu2OfgA.jpg?auto=webp&s=e3ab8c137aad57f14a19485254cf8dc87dc28628",
-    "ingested_at": "2026-10-31T15:00:37.282052+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/75qcbn.webp",
     "tags": [],
-    "analyzed_at": "2026-11-01T09:46:54.748873+00:00"
+    "analyzed_at": "2026-11-01T09:46:50.385901+00:00"
   },
   {
     "id": "75mb5l",
@@ -1180,32 +631,8 @@
     "ingested_at": "2026-10-31T15:00:37.282131+00:00",
     "summary": "\"Le vrai croissant naturel et authentique\", voilà ce que veut défendre Frédéric Roy, un boulanger de Nice, face aux croissants industriels qui abondent sur les étals",
     "thumbnail": "thumbnails/75mb5l.webp",
-    "tags": [
-      "Frédéric Roy",
-      "Nice",
-      "Société"
-    ],
-    "analyzed_at": "2026-11-01T09:46:52.481501+00:00"
-  },
-  {
-    "id": "75h97n",
-    "title": "r/France connais-tu tes départements ?",
-    "url": "http://www.contefleur.fr/dossierjeux/france/depnomnum/depnom.htm",
-    "permalink": "/r/france/comments/75h97n/rfrance_connaistu_tes_départements/",
-    "created_at": "2017-10-10T14:05:45+00:00",
-    "score": 138,
-    "num_comments": 180,
-    "subreddit": "france",
-    "author": "uMunthu",
-    "flair": "",
-    "domain": "contefleur.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/__VHDNkDxBHKc3O58bkE7dsznhD0zcI0VlwU3l0WHz4.jpg?auto=webp&s=3124fc36377e957a4edaac77e19c50ab61cf8ca1",
-    "ingested_at": "2026-10-31T15:00:37.281766+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/75h97n.webp",
     "tags": [],
-    "analyzed_at": "2026-11-01T09:46:57.530945+00:00"
+    "analyzed_at": "2026-11-01T09:46:52.481501+00:00"
   },
   {
     "id": "75h7lb",
@@ -1224,56 +651,8 @@
     "ingested_at": "2026-10-31T15:00:37.280949+00:00",
     "summary": "",
     "thumbnail": "thumbnails/75h7lb.webp",
-    "tags": [
-      "Technos"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:46:52.942231+00:00"
-  },
-  {
-    "id": "75fg5z",
-    "title": "[Pas Le Gorafi] Un député LREM menace de démissionner s'il doit licencier son épouse.",
-    "url": "http://actu.orange.fr/politique/un-depute-lrem-menace-de-demissionner-s-il-doit-licencier-son-epouse-magic-CNT000000PJO2e.html",
-    "permalink": "/r/france/comments/75fg5z/pas_le_gorafi_un_député_lrem_menace_de/",
-    "created_at": "2017-10-10T07:20:08+00:00",
-    "score": 318,
-    "num_comments": 154,
-    "subreddit": "france",
-    "author": "Illya-ehrenbourg",
-    "flair": "Politique",
-    "domain": "actu.orange.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/yLr3DqlkhgaK4n3opvLrW2U7xsmeuMBcnp7Wu-4PXSA.jpg?auto=webp&s=3161b2b55e3e824f05f5ef316e692de1f9445b72",
-    "ingested_at": "2026-10-31T15:00:37.280834+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/75fg5z.webp",
-    "tags": [
-      "Gorafi",
-      "LREM",
-      "Politique"
-    ],
-    "analyzed_at": "2026-11-01T09:46:55.080195+00:00"
-  },
-  {
-    "id": "759zsf",
-    "title": "Le monde magique des hôtesses de caisse",
-    "url": "https://lecomptoirdetitam.files.wordpress.com/2013/09/mercredi.jpg",
-    "permalink": "/r/france/comments/759zsf/le_monde_magique_des_hôtesses_de_caisse/",
-    "created_at": "2017-10-09T15:56:24+00:00",
-    "score": 248,
-    "num_comments": 131,
-    "subreddit": "france",
-    "author": "Deepseakedelik",
-    "flair": "Humour",
-    "domain": "lecomptoirdetitam.files.wordpress.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/C2eo64VxSQspdMJ5WkXIaQHy9RR-Gd8ASAoNoB7QU-I.jpeg?auto=webp&s=165e3390f57fd0c3c0673a0a5881473bc377690e",
-    "ingested_at": "2026-10-31T15:00:37.280927+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/759zsf.webp",
-    "tags": [
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:46:53.562471+00:00"
   },
   {
     "id": "7580we",
@@ -1292,10 +671,7 @@
     "ingested_at": "2026-10-31T15:00:37.280655+00:00",
     "summary": "L'acteur est décédé dans la nuit de dimanche à lundi, il avait 87 ans...",
     "thumbnail": "thumbnails/7580we.webp",
-    "tags": [
-      "Jean Rochefort",
-      "Culture"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:46:54.431664+00:00"
   },
   {
@@ -1316,36 +692,9 @@
     "summary": "Alors que la dette de la SNCF s'envolait, son ancienne directrice générale chargée de SNCF Voyageurs et maintenant ministre des Armées, Florence Parly, a touché plus de 52 000 par mois durant les six premiers mois de 2017, révèle \"Marianne\".",
     "thumbnail": "thumbnails/7529zv.webp",
     "tags": [
-      "Florence Parly",
-      "SNCF",
-      "SNCF Voyageurs",
-      "Marianne",
-      "Politique"
+      "Transports"
     ],
     "analyzed_at": "2026-11-01T09:46:54.519385+00:00"
-  },
-  {
-    "id": "750pgu",
-    "title": "Paris – Le lobby automobile réclame la mise en place d’une journée sans vélo",
-    "url": "http://www.legorafi.fr/2017/10/04/paris-le-lobby-automobile-reclame-la-mise-en-place-dune-journee-sans-velo/",
-    "permalink": "/r/france/comments/750pgu/paris_le_lobby_automobile_réclame_la_mise_en/",
-    "created_at": "2017-10-08T09:00:57+00:00",
-    "score": 182,
-    "num_comments": 8,
-    "subreddit": "france",
-    "author": "KamiZole",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/usxOMoMi54eVONDEvGBMfwPbwiKxGXObD2lor07lSSo.jpeg?auto=webp&s=21f560b02d9aaf808f46d195aaa895f67eb97772",
-    "ingested_at": "2026-10-31T15:00:37.281317+00:00",
-    "summary": "La guerre est-elle déclarée entre automobilistes et cyclistes dans les rues de la capitale ? Deux jours après la journée sans voiture, les principaux constructeurs automobiles montent au créneau en réclamant une journée sans vélo dans Paris.",
-    "thumbnail": "thumbnails/750pgu.webp",
-    "tags": [
-      "Paris",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:46:54.602253+00:00"
   },
   {
     "id": "74vqs6",
@@ -1385,53 +734,9 @@
     "summary": "Monsanto aurait payÃ© des scientifiques pour discrÃ©diter les rapports Ã©voquant la toxicitÃ© de son dÃ©sherbant.",
     "thumbnail": "thumbnails/74ukoa.webp",
     "tags": [
-      "Monsanto Papers",
-      "Monsanto",
-      "Environnement",
-      "Sciences et Savoirs",
-      "Science"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T09:46:56.191601+00:00"
-  },
-  {
-    "id": "74n2h7",
-    "title": "La véritable affiche la plus malaisante jamais vue",
-    "url": "https://www.force-republicaine.fr/wp-content/uploads/2016/10/AFFICHE_FINALE-2.jpg",
-    "permalink": "/r/france/comments/74n2h7/la_véritable_affiche_la_plus_malaisante_jamais_vue/",
-    "created_at": "2017-10-06T11:43:55+00:00",
-    "score": 266,
-    "num_comments": 51,
-    "subreddit": "france",
-    "author": "Seetlord",
-    "flair": "",
-    "domain": "force-republicaine.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/tKC-mwHIUklbZDfkRLz-srXG3eAUyHwpRDo7G4uQVvo.jpg?auto=webp&s=1545f49dfe3894bcb1a2b9c9271cfe036fe89440",
-    "ingested_at": "2026-10-31T15:00:37.280879+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/74n2h7.webp",
-    "tags": [],
-    "analyzed_at": "2026-11-01T09:46:57.661660+00:00"
-  },
-  {
-    "id": "74mt8x",
-    "title": "La vie laborieuse du pauvre et la télévision",
-    "url": "https://streamable.com/blgd7",
-    "permalink": "/r/france/comments/74mt8x/la_vie_laborieuse_du_pauvre_et_la_télévision/",
-    "created_at": "2017-10-06T10:41:41+00:00",
-    "score": 139,
-    "num_comments": 55,
-    "subreddit": "france",
-    "author": "Kwibuka",
-    "flair": "",
-    "domain": "streamable.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/duUB6yhoDBoiiZfBYpZoKbpOP47ksNfQLr6loD9aZ18.jpg?auto=webp&s=d4e2fefe3f33c1056957ad48a654244a5f1b39c0",
-    "ingested_at": "2026-10-31T15:00:37.281746+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/74mt8x.webp",
-    "tags": [],
-    "analyzed_at": "2026-11-01T09:46:56.013331+00:00"
   },
   {
     "id": "74fsxn",
@@ -1450,33 +755,8 @@
     "ingested_at": "2026-10-31T15:00:37.281060+00:00",
     "summary": "",
     "thumbnail": "thumbnails/74fsxn.webp",
-    "tags": [
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:46:55.268989+00:00"
-  },
-  {
-    "id": "74f8mo",
-    "title": "Un cycliste se fait violemment insulter car il demande à un scooter de ne pas utiliser la piste cyclable.",
-    "url": "https://www.facebook.com/CinquanteEuros/videos/1545293562176653/",
-    "permalink": "/r/france/comments/74f8mo/un_cycliste_se_fait_violemment_insulter_car_il/",
-    "created_at": "2017-10-05T11:08:42+00:00",
-    "score": 182,
-    "num_comments": 368,
-    "subreddit": "france",
-    "author": "Fenstom",
-    "flair": "Société",
-    "domain": "facebook.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/bu1Z2lBHU42SArqGwoZ3GQ1xvawZJWDNnBFdGgGtdas.jpg?auto=webp&s=aa3c3fc9b655345167e0aedda0377e57173ac08a",
-    "ingested_at": "2026-10-31T15:00:37.281295+00:00",
-    "summary": "On en est arrivé à un point où c'est eux qui font de la merde mais c'est moi qui vais prendre une baffe. Tout est normal. La piste cyclable le long de la voie Pompidou est envahie par les scooters,...",
-    "thumbnail": "thumbnails/74f8mo.webp",
-    "tags": [
-      "Pompidou",
-      "Société"
-    ],
-    "analyzed_at": "2026-11-01T09:46:59.191403+00:00"
   },
   {
     "id": "746ryt",
@@ -1496,7 +776,7 @@
     "summary": "",
     "thumbnail": "thumbnails/746ryt.webp",
     "tags": [
-      "Science"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T09:46:55.591095+00:00"
   },
@@ -1517,60 +797,8 @@
     "ingested_at": "2026-10-31T15:00:37.281969+00:00",
     "summary": "\"Quand j'ai demandé à un homme de venir avec moi faire une photo, il a répondu avec enthousiasme.\"",
     "thumbnail": "thumbnails/746icv.webp",
-    "tags": [
-      "HARCÈLEMENT de RUE",
-      "Noa Jansma",
-      "Life",
-      "Féminisme",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:46:55.784009+00:00"
-  },
-  {
-    "id": "742x9e",
-    "title": "Viens bosser pour 2,93€ de l'heure avec Deliveroo!",
-    "url": "https://pbs.twimg.com/media/DLPKESvWsAIFC1p.jpg:large",
-    "permalink": "/r/france/comments/742x9e/viens_bosser_pour_293_de_lheure_avec_deliveroo/",
-    "created_at": "2017-10-03T19:53:18+00:00",
-    "score": 377,
-    "num_comments": 257,
-    "subreddit": "france",
-    "author": "PiqueAssiette",
-    "flair": "Politique",
-    "domain": "pbs.twimg.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/wlNJmV9RqzT9879A2_gPTp_EKZbevMPmpb0guDwoFiM.jpg?auto=webp&s=a4d95d5e9e5af1ec65097dff9e56babc7db76b7f",
-    "ingested_at": "2026-10-31T15:00:37.280790+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/742x9e.webp",
-    "tags": [
-      "Deliveroo",
-      "Politique"
-    ],
-    "analyzed_at": "2026-11-01T09:46:57.060524+00:00"
-  },
-  {
-    "id": "740x85",
-    "title": "Quand Ubisoft cherche à déclencher /r/France",
-    "url": "https://i.redditmedia.com/zka7NeTPI3jUEbj4J8M9tz05pLaARoU0aekc_-JwbLA.jpg?w=1024&s=6e63340706d162070e5b17f743b11c5b",
-    "permalink": "/r/france/comments/740x85/quand_ubisoft_cherche_à_déclencher_rfrance/",
-    "created_at": "2017-10-03T14:57:14+00:00",
-    "score": 140,
-    "num_comments": 43,
-    "subreddit": "france",
-    "author": "RedditTipiak",
-    "flair": "Humour",
-    "domain": "i.redditmedia.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/9RnftJuBEminzqMDL6aPTvlAZ4ptZ8w7XGf7lXiMfOY.jpg?auto=webp&s=7cd68333f027e39940c5a12de6c6b238c6cce2ac",
-    "ingested_at": "2026-10-31T15:00:37.281708+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/740x85.webp",
-    "tags": [
-      "Ubisoft",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:46:56.170122+00:00"
   },
   {
     "id": "740uo9",
@@ -1589,11 +817,7 @@
     "ingested_at": "2026-10-31T15:00:37.281106+00:00",
     "summary": "",
     "thumbnail": "thumbnails/740uo9.webp",
-    "tags": [
-      "Etats-Unis",
-      "Onion",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:46:56.565380+00:00"
   },
   {
@@ -1613,33 +837,10 @@
     "ingested_at": "2026-10-31T15:00:37.280904+00:00",
     "summary": "Dans un nouveau rapport, le Conseil scientifique des académies des sciences européennes rappelle l’absence de preuves solides et reproductibles de l’efficacité des produits homéopathiques.",
     "thumbnail": "thumbnails/73zy2s.webp",
-    "tags": [],
-    "analyzed_at": "2026-11-01T09:46:56.783586+00:00"
-  },
-  {
-    "id": "73z5tn",
-    "title": "Les Grands Projets abandonnés de l'Algérie française : L'Algérie Française",
-    "url": "http://diaressaada.alger.free.fr/l-mes_cartes-postales/Prefectures/CarteAlgerie_1400.jpg",
-    "permalink": "/r/france/comments/73z5tn/les_grands_projets_abandonnés_de_lalgérie/",
-    "created_at": "2017-10-03T08:46:06+00:00",
-    "score": 154,
-    "num_comments": 46,
-    "subreddit": "france",
-    "author": "Amiral_Poitou",
-    "flair": "Culture",
-    "domain": "diaressaada.alger.free.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/pwFKEN8H0ID4roDusTiKgZCL0Kk6Yo-tUYcD5d-F5C0.jpg?auto=webp&s=8f361195011d688b4bf7799b78f24be2609b920a",
-    "ingested_at": "2026-10-31T15:00:37.281537+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/73z5tn.webp",
     "tags": [
-      "Grands Projets",
-      "Algérie",
-      "Algérie Française",
-      "Culture"
+      "Élections"
     ],
-    "analyzed_at": "2026-11-01T09:46:56.846886+00:00"
+    "analyzed_at": "2026-11-01T09:46:56.783586+00:00"
   },
   {
     "id": "73v51i",
@@ -1658,56 +859,8 @@
     "ingested_at": "2026-10-31T15:00:37.281788+00:00",
     "summary": "Depuis un an, les agents de la Direction de la prévention, de la sécurité et de la protection (DPSP) ont pour mission de lutter contre les p",
     "thumbnail": "thumbnails/73v51i.webp",
-    "tags": [
-      "DPSP",
-      "Direction",
-      "PV",
-      "Société"
-    ],
-    "analyzed_at": "2026-11-01T09:46:57.184255+00:00"
-  },
-  {
-    "id": "73u2wn",
-    "title": "France becomes the world No 1 for soft power",
-    "url": "https://www.weforum.org/agenda/2017/07/france-new-world-leader-in-soft-power/?utm_content=buffer68970&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer",
-    "permalink": "/r/france/comments/73u2wn/france_becomes_the_world_no_1_for_soft_power/",
-    "created_at": "2017-10-02T17:02:32+00:00",
-    "score": 149,
-    "num_comments": 49,
-    "subreddit": "france",
-    "author": "[deleted]",
-    "flair": "Politique",
-    "domain": "weforum.org",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/iwqVKCQLov0RtlX3PRKCFORCykRKyVcjZhOyVhJAYyc.png?auto=webp&s=e21d11cce4384080acea60a14e63d49c24e1db37",
-    "ingested_at": "2026-10-31T15:00:37.281640+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/73u2wn.webp",
-    "tags": [
-      "No 1",
-      "Politique"
-    ],
-    "analyzed_at": "2026-11-01T09:46:58.419076+00:00"
-  },
-  {
-    "id": "73lnr0",
-    "title": "Si vous avez des cartes postales de vos régions, voila une bonne action à réaliser.",
-    "url": "https://pbs.twimg.com/media/DK5t8QiXUAImAYv.jpg:large",
-    "permalink": "/r/france/comments/73lnr0/si_vous_avez_des_cartes_postales_de_vos_régions/",
-    "created_at": "2017-10-01T13:36:35+00:00",
-    "score": 172,
-    "num_comments": 33,
-    "subreddit": "france",
-    "author": "xdadrunkx",
-    "flair": "",
-    "domain": "pbs.twimg.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/zxpLESn34W5ATFsdbKS1KxD_0EI2lUZWX-JAS8-oiJI.jpg?auto=webp&s=47c9e27d4b7ec16a2e3a784406e2295e50064ccd",
-    "ingested_at": "2026-10-31T15:00:37.281402+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/73lnr0.webp",
     "tags": [],
-    "analyzed_at": "2026-11-01T09:46:58.627991+00:00"
+    "analyzed_at": "2026-11-01T09:46:57.184255+00:00"
   },
   {
     "id": "73ko42",

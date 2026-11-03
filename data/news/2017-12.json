@@ -16,33 +16,8 @@
     "ingested_at": "2026-10-31T15:03:19.066699+00:00",
     "summary": "L'interdiction totale du commerce de l'ivoire est entrée en vigueur dimanche en Chine, autrefois premier marché de destination pour les défenses...",
     "thumbnail": "thumbnails/7n7pt4.webp",
-    "tags": [
-      "Chine",
-      "Environnement",
-      "Politique",
-      "Pékin"
-    ],
-    "analyzed_at": "2026-11-01T09:46:10.933967+00:00"
-  },
-  {
-    "id": "7n7eyw",
-    "title": "Najac, Aveyron, France",
-    "url": "https://c1.staticflickr.com/5/4300/35876403492_6f470ae795_o.jpg",
-    "permalink": "/r/france/comments/7n7eyw/najac_aveyron_france/",
-    "created_at": "2017-12-31T08:06:57+00:00",
-    "score": 467,
-    "num_comments": 8,
-    "subreddit": "france",
-    "author": "loulan",
-    "flair": "",
-    "domain": "c1.staticflickr.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/PdD66u7_qa4vXvSN7J0WBffMFQfnPSmS5OheO5kDddw.jpg?auto=webp&s=7caa657c8f0f51b6b19956894234bab647ac36dd",
-    "ingested_at": "2026-10-31T15:03:19.065655+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/7n7eyw.webp",
     "tags": [],
-    "analyzed_at": "2026-11-01T09:46:10.124507+00:00"
+    "analyzed_at": "2026-11-01T09:46:10.933967+00:00"
   },
   {
     "id": "7n02ur",
@@ -61,11 +36,7 @@
     "ingested_at": "2026-10-31T15:03:19.067028+00:00",
     "summary": "Des bidouilleurs ont réussi à trouver des failles permettant d’accéder au noyau logiciel de la console, ce qui ouvre la porte à l’exécution de jeux externes (Homebrew).",
     "thumbnail": "thumbnails/7n02ur.webp",
-    "tags": [
-      "Nintendo Switch",
-      "Switch",
-      "Technos"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:46:08.637068+00:00"
   },
   {
@@ -89,29 +60,6 @@
     "analyzed_at": "2026-11-01T09:46:09.988157+00:00"
   },
   {
-    "id": "7mwbco",
-    "title": "A toute fin utile: site officiel avec les coordonnées pour signaler le spam par téléphone / sms",
-    "url": "https://www.service-public.fr/particuliers/vosdroits/F33267",
-    "permalink": "/r/france/comments/7mwbco/a_toute_fin_utile_site_officiel_avec_les/",
-    "created_at": "2017-12-29T19:09:59+00:00",
-    "score": 103,
-    "num_comments": 11,
-    "subreddit": "france",
-    "author": "BewareOfJetBlast",
-    "flair": "Société",
-    "domain": "service-public.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/liU8GcUix3ZOuwPxLsKLFKPGNjr1QJFj1pGCWg8Kt7c.png?auto=webp&s=614348033a04ff916754033f45ed7c05663d0a9c",
-    "ingested_at": "2026-10-31T15:03:19.067090+00:00",
-    "summary": "Le démarchage téléphonique nécessite votre consentement préalable, sauf exceptions. Des règles s'appliquent aussi aux spams vocaux et aux spams par SMS.",
-    "thumbnail": "thumbnails/7mwbco.webp",
-    "tags": [
-      "SMS",
-      "Société"
-    ],
-    "analyzed_at": "2026-11-01T09:46:08.944137+00:00"
-  },
-  {
     "id": "7mszdu",
     "title": "Serge Paugam : « Le regard des riches sur les pauvres signale un danger pour nos sociétés »",
     "url": "https://www.humanite.fr/serge-paugam-le-regard-des-riches-sur-les-pauvres-signale-un-danger-pour-nos-societes-647953",
@@ -128,11 +76,7 @@
     "ingested_at": "2026-10-31T15:03:19.067069+00:00",
     "summary": "Ce que les riches pensent des pauvres : cet intitulé, faussement anodin, recouvre une vaste et novatrice enquête sociologique. Dans le contexte de la concentration croissante des ...",
     "thumbnail": "thumbnails/7mszdu.webp",
-    "tags": [
-      "Serge Paugam",
-      "Payant",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:46:09.598116+00:00"
   },
   {
@@ -153,10 +97,7 @@
     "summary": "La municipalité estime que ce projet \"conduirait à une pollution visuelle\" et irait à l'encontre de la volonté de Nantes (Loire-Atlantique) de \"valoriser les atouts patrimoniaux et environnementaux de son centre-ville\".",
     "thumbnail": "thumbnails/7mozrx.webp",
     "tags": [
-      "Nantes",
-      "Environnement",
-      "Monde",
-      "Société"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T09:46:09.538750+00:00"
   },
@@ -177,36 +118,8 @@
     "ingested_at": "2026-10-31T15:03:19.065876+00:00",
     "summary": "L’association Halte à l’obsolescence programmée a porté plainte ce mercredi contre le géant américain, qui a admis ralentir volontairement l",
     "thumbnail": "thumbnails/7mkfgc.webp",
-    "tags": [
-      "Apple",
-      "Halte",
-      "Technos"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:46:09.882586+00:00"
-  },
-  {
-    "id": "7mi6w9",
-    "title": "Grenoble confie ses logements vides aux sans-abri",
-    "url": "https://positivr.fr/grenoble-sdf-logements-vides/",
-    "permalink": "/r/france/comments/7mi6w9/grenoble_confie_ses_logements_vides_aux_sansabri/",
-    "created_at": "2017-12-27T22:09:35+00:00",
-    "score": 161,
-    "num_comments": 52,
-    "subreddit": "france",
-    "author": "wisi_eu",
-    "flair": "Société",
-    "domain": "positivr.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/hTgTTXwTeHKTG6hjbQb79geKPNLikFfEyHw-tFxFlZ0.jpeg?auto=webp&s=7cd22f2e6e9d267daf06cd83677774c1be2671b8",
-    "ingested_at": "2026-10-31T15:03:19.066492+00:00",
-    "summary": "Pourquoi faire simple quand on peut faire compliqué ? Pour reloger les SDF, le mieux est encore de leur donner… des logements ! Exemple à Grenoble.",
-    "thumbnail": "thumbnails/7mi6w9.webp",
-    "tags": [
-      "SDF",
-      "Grenoble",
-      "Société"
-    ],
-    "analyzed_at": "2026-11-01T09:46:11.665772+00:00"
   },
   {
     "id": "7mfpm9",
@@ -225,10 +138,7 @@
     "ingested_at": "2026-10-31T15:03:19.065985+00:00",
     "summary": "",
     "thumbnail": "thumbnails/7mfpm9.webp",
-    "tags": [
-      "Anna Muzychuk",
-      "Arabie"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:46:10.651089+00:00"
   },
   {
@@ -248,11 +158,7 @@
     "ingested_at": "2026-10-31T15:03:19.065832+00:00",
     "summary": "<p> Retrouvez l'actualité de Charente en direct et toutes les informations régionales : politique, économie, sport, photos et vidéos.</p>",
     "thumbnail": "thumbnails/7m8gf9.webp",
-    "tags": [
-      "SFR",
-      "Retrouvez",
-      "Charente"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:46:10.422962+00:00"
   },
   {
@@ -272,11 +178,7 @@
     "ingested_at": "2026-10-31T15:03:19.066863+00:00",
     "summary": "Il ne fait pas bon être athée en Egypte. Dans un contexte de dénonciation de la croissance de l’athéisme, particulièrement chez les jeunes, une mère a perdu la garde de ses deux enfants en raison de…",
     "thumbnail": "thumbnails/7m6kdh.webp",
-    "tags": [
-      "Egypte",
-      "Religion",
-      "Moyen-Orient"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:46:10.527531+00:00"
   },
   {
@@ -297,9 +199,9 @@
     "summary": "Les règles mises en place par l’administration Obama pour punir les agressions sexuelles sur les campus pourraient être démantelées par Trump. Elles…",
     "thumbnail": "thumbnails/7m18bh.webp",
     "tags": [
-      "Obama",
-      "Trump",
-      "Société"
+      "Violences sexuelles",
+      "Donald Trump",
+      "Barack Obama"
     ],
     "analyzed_at": "2026-11-01T09:46:10.899588+00:00"
   },
@@ -321,37 +223,9 @@
     "summary": "L'Allemagne, la Grèce, l'Italie, la Roumanie, ou encore l'Espagne... Et maintenant la France. La plupart des pays de l'Union européenne ont subi de profondes réformes du droit du travail. Une enquête (…)",
     "thumbnail": "thumbnails/7m0xem.webp",
     "tags": [
-      "Europe",
-      "Union",
-      "Espagne",
-      "Grèce",
-      "Politique"
+      "Travail"
     ],
     "analyzed_at": "2026-11-01T09:46:10.896229+00:00"
-  },
-  {
-    "id": "7lwpvd",
-    "title": "Liste [en anglais] des mythes et mensonges sur l’Union Européenne propagés par le Royaume-Uni depuis 1992",
-    "url": "http://blogs.ec.europa.eu/ECintheUK/euromyths-a-z-index/",
-    "permalink": "/r/france/comments/7lwpvd/liste_en_anglais_des_mythes_et_mensonges_sur/",
-    "created_at": "2017-12-24T18:42:34+00:00",
-    "score": 123,
-    "num_comments": 36,
-    "subreddit": "france",
-    "author": "dClauzel",
-    "flair": "Politique",
-    "domain": "blogs.ec.europa.eu",
-    "selftext": "",
-    "reddit_thumbnail": "https://b.thumbs.redditmedia.com/s2SaMH1JnZ8G936ulyQv-WHRySoZb_Fm4oG3rMxddUg.jpg",
-    "ingested_at": "2026-10-31T15:03:19.066821+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/7lwpvd.webp",
-    "tags": [
-      "Union Européenne",
-      "Royaume-Uni",
-      "Politique"
-    ],
-    "analyzed_at": "2026-11-01T09:46:11.538344+00:00"
   },
   {
     "id": "7lu1ng",
@@ -370,59 +244,8 @@
     "ingested_at": "2026-10-31T15:03:19.065965+00:00",
     "summary": "À l’approche de Noël, des débrayages s’organisent contre les conditions de travail imposées par la multinationale dans son entrepôt du sud-est de Milan. Face aux accidents ...",
     "thumbnail": "thumbnails/7lu1ng.webp",
-    "tags": [
-      "Noël",
-      "Milan",
-      "Piacenza",
-      "Castel San Giovanni",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:46:11.872125+00:00"
-  },
-  {
-    "id": "7lnewt",
-    "title": "QG d'Euronews à Lyon, Rhône, France",
-    "url": "https://c1.staticflickr.com/1/506/18759091734_7fa1bca6a6_o.jpg",
-    "permalink": "/r/france/comments/7lnewt/qg_deuronews_à_lyon_rhône_france/",
-    "created_at": "2017-12-23T07:33:46+00:00",
-    "score": 111,
-    "num_comments": 37,
-    "subreddit": "france",
-    "author": "loulan",
-    "flair": "",
-    "domain": "c1.staticflickr.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/BruvfTOJIm8SqI0ulg6mbvfmM_IoK-JHEtQzFiqaOFc.jpg?auto=webp&s=d534e1cf0e459128f860dc8233b34ff0146696d3",
-    "ingested_at": "2026-10-31T15:03:19.066945+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/7lnewt.webp",
-    "tags": [
-      "QG Euronews",
-      "Lyon"
-    ],
-    "analyzed_at": "2026-11-01T09:46:17.786676+00:00"
-  },
-  {
-    "id": "7lliqt",
-    "title": "En vert, zones où personne ne vit dans un rayon d'1km²",
-    "url": "https://pbs.twimg.com/media/DRroJcgWAAACJvj.png",
-    "permalink": "/r/france/comments/7lliqt/en_vert_zones_où_personne_ne_vit_dans_un_rayon/",
-    "created_at": "2017-12-23T00:42:16+00:00",
-    "score": 324,
-    "num_comments": 63,
-    "subreddit": "france",
-    "author": "UltraTurboBeaver",
-    "flair": "Science",
-    "domain": "pbs.twimg.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/YZHrwotBWOpfS6jc2BZMif1iSaBrKKngU4mokto2g9Q.png?auto=webp&s=7e428ef49c9cd5040b5095c1d7e35b5f6c09c6c9",
-    "ingested_at": "2026-10-31T15:03:19.065761+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/7lliqt.webp",
-    "tags": [
-      "Science"
-    ],
-    "analyzed_at": "2026-11-01T09:46:12.455321+00:00"
   },
   {
     "id": "7lhw1t",
@@ -442,9 +265,7 @@
     "summary": "",
     "thumbnail": "thumbnails/7lhw1t.webp",
     "tags": [
-      "LREM",
-      "Porsche Cayenne",
-      "Politique"
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T09:46:12.129695+00:00"
   },
@@ -466,183 +287,9 @@
     "summary": "ANIMAUX - Le délit de maltraitance aux animaux , déjà applicable pour les compagnons domestiques, sera étendu aux abattoirs dans le projet de loi qui sera dévoilé ce jeudi 21 décembre par le Premier ministre à l'issue des Etats généraux de l'Alimentation , selon une source gouvernementale.",
     "thumbnail": "thumbnails/7lgh94.webp",
     "tags": [
-      "Etats",
-      "Politique",
-      "Abattoir",
-      "Bien-être animal",
-      "Société"
+      "Cause animale"
     ],
     "analyzed_at": "2026-11-01T09:46:12.190060+00:00"
-  },
-  {
-    "id": "7l8t40",
-    "title": "En 2050, il y aura plus de plastique que de poissons en mer",
-    "url": "http://www.laterredufutur.com/accueil/en-2050-il-y-aura-plus-de-plastique-que-de-poissons-en-mer/",
-    "permalink": "/r/france/comments/7l8t40/en_2050_il_y_aura_plus_de_plastique_que_de/",
-    "created_at": "2017-12-21T11:10:24+00:00",
-    "score": 74,
-    "num_comments": 95,
-    "subreddit": "france",
-    "author": "MathlePicard",
-    "flair": "Société",
-    "domain": "laterredufutur.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/cEQ8MVPxu7SopDSE03fYuekBGjwr64s2LN8yzin76dA.jpeg?auto=webp&s=954e944093f7f99abe2dcb4d9b83076b37dd24a5",
-    "ingested_at": "2026-10-31T15:03:19.067130+00:00",
-    "summary": "L’ONU tire la sonnette d’alarme sur la pollution des océans en évoquant une « crise planétaire ». Le sujet est d’ailleurs au programme de l’Assemblée des Nations unies pour l’environnement, qui s’était ouvert lundi 4 décembre 2017 à Nairobi, en Afrique.",
-    "thumbnail": "thumbnails/7l8t40.webp",
-    "tags": [
-      "ONU",
-      "Société"
-    ],
-    "analyzed_at": "2026-11-01T09:46:13.577043+00:00"
-  },
-  {
-    "id": "7l868p",
-    "title": "Baie d'Upi, Nouvelle-Calédonie, France",
-    "url": "https://c2.staticflickr.com/4/3216/3036030760_ba220cc3df_o.jpg",
-    "permalink": "/r/france/comments/7l868p/baie_dupi_nouvellecalédonie_france/",
-    "created_at": "2017-12-21T08:25:08+00:00",
-    "score": 117,
-    "num_comments": 39,
-    "subreddit": "france",
-    "author": "loulan",
-    "flair": "",
-    "domain": "c2.staticflickr.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/9BqDsiZzCpUEWsK-c_r3X3goFi5e72NoEMVZWILAjKM.jpg?auto=webp&s=f63b660d59005c893531d4838f3df32ecca452e7",
-    "ingested_at": "2026-10-31T15:03:19.066883+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/7l868p.webp",
-    "tags": [
-      "Baie Upi"
-    ],
-    "analyzed_at": "2026-11-01T09:46:15.900471+00:00"
-  },
-  {
-    "id": "7l2ukr",
-    "title": "Votre avis sur Tintin et Mille Loups ?",
-    "url": "https://i.pinimg.com/originals/6c/d3/5e/6cd35e9ca455086579af3a64fbbbf00b.jpg",
-    "permalink": "/r/france/comments/7l2ukr/votre_avis_sur_tintin_et_mille_loups/",
-    "created_at": "2017-12-20T17:25:11+00:00",
-    "score": 467,
-    "num_comments": 25,
-    "subreddit": "france",
-    "author": "NaonedPride",
-    "flair": "Humour",
-    "domain": "i.pinimg.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/sDOV0mw7Xo-bqjgY6YzR1HVdtYGpdNgFPL5U7WodZgA.jpg?auto=webp&s=32b425c6d4c5d3d029eeb7024fad3b6286a4fda6",
-    "ingested_at": "2026-10-31T15:03:19.065636+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/7l2ukr.webp",
-    "tags": [
-      "Tintin et Mille Loups",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:46:13.661213+00:00"
-  },
-  {
-    "id": "7l2mdx",
-    "title": "Why France has been named 'Country of the Year' by The Economist",
-    "url": "https://www.thelocal.fr/20171220/why-france-has-been-named-country-of-the-year-by-the-economist",
-    "permalink": "/r/france/comments/7l2mdx/why_france_has_been_named_country_of_the_year_by/",
-    "created_at": "2017-12-20T16:52:56+00:00",
-    "score": 125,
-    "num_comments": 94,
-    "subreddit": "france",
-    "author": "AllynBeake",
-    "flair": "",
-    "domain": "thelocal.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/knI2MQcbX607pJ8ehNcYdjTXKZn4OwTCl7soDsjvqCg.jpg?auto=webp&s=91d1528c40b477b22ed3b2546d57ecaee8d87c6b",
-    "ingested_at": "2026-10-31T15:03:19.066759+00:00",
-    "summary": "The Economist magazine has named France as country of the year, just pipping South Korea to the title. And most of the credit goes to Emmanuel Macron.",
-    "thumbnail": "thumbnails/7l2mdx.webp",
-    "tags": [
-      "Economist",
-      "Why France",
-      "Emmanuel Macron",
-      "South Korea",
-      "Politics"
-    ],
-    "analyzed_at": "2026-11-01T09:46:13.738658+00:00"
-  },
-  {
-    "id": "7ksehn",
-    "title": "Des blessés après que le conducteur du bus de la campagne d’Emmanuel Macron a confondu sa droite avec sa gauche",
-    "url": "http://www.legorafi.fr/2017/02/24/plusieurs-blesses-apres-que-le-conducteur-du-bus-de-la-campagne-demmanuel-macron-a-confondu-sa-droite-avec-sa-gauche/",
-    "permalink": "/r/france/comments/7ksehn/des_blessés_après_que_le_conducteur_du_bus_de_la/",
-    "created_at": "2017-12-19T10:14:29+00:00",
-    "score": 184,
-    "num_comments": 21,
-    "subreddit": "france",
-    "author": "[deleted]",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/PBzBkyE944u3ujoH8ZNLALLp2oozDdd2aLIKuUGmsmI.jpeg?auto=webp&s=51443ed08f5bb6c70145839d9d17435652949171",
-    "ingested_at": "2026-10-31T15:03:19.066308+00:00",
-    "summary": "Orléans – Alors que le bus du candidat du mouvement « En Marche ! » se rendait à une réunion publique à Orléans, celui-ci a fait une brutale sortie de route. En cause, le conducteur, qui aurait confondu sa droite avec sa gauche.",
-    "thumbnail": "thumbnails/7ksehn.webp",
-    "tags": [
-      "Emmanuel Macron",
-      "Marche",
-      "Orléans",
-      "Sébastien Lecornu",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:46:13.892488+00:00"
-  },
-  {
-    "id": "7ks12o",
-    "title": "AJA qu'une fois la France a été gouvernée par un corse qui été vachement fort en stratégie millitaire.",
-    "url": "https://fr.wikipedia.org/wiki/Napol%C3%A9on_Ier",
-    "permalink": "/r/france/comments/7ks12o/aja_quune_fois_la_france_a_été_gouvernée_par_un/",
-    "created_at": "2017-12-19T08:37:24+00:00",
-    "score": 125,
-    "num_comments": 110,
-    "subreddit": "france",
-    "author": "Amiral_Poitou",
-    "flair": "Culture",
-    "domain": "fr.wikipedia.org",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/Y3c6unZaD0RJOFfp2Pqb3EYhO_XtSWr7Xjw3fjnYSWQ.jpeg?auto=webp&s=698e6e5a03c38c0ab015a10d7216d0d25803d0a2",
-    "ingested_at": "2026-10-31T15:03:19.066739+00:00",
-    "summary": "« Napoléon » redirige ici. Pour les autres significations, voir Napoléon (homonymie) et Bonaparte (homonymie) . Napoléon Bonaparte Écouter ⓘ , né le 15 août 1769 à Ajaccio en Corse et mort le 5 mai 1821 à Longwood sur l’île de Sainte-Hélène , est un militaire et homme d'État français .",
-    "thumbnail": "thumbnails/7ks12o.webp",
-    "tags": [
-      "AJA",
-      "Napoléon",
-      "État",
-      "Europe",
-      "Culture"
-    ],
-    "analyzed_at": "2026-11-01T09:46:14.584194+00:00"
-  },
-  {
-    "id": "7kl162",
-    "title": "[Repost] Sept règles pour aider à la diffusion des idées racistes en France, Jacques Rancière (Le Monde 21 mars 1997)",
-    "url": "http://www.bok.net/pajol/debat/presse/lemonde/ranciere.html",
-    "permalink": "/r/france/comments/7kl162/repost_sept_règles_pour_aider_à_la_diffusion_des/",
-    "created_at": "2017-12-18T12:54:39+00:00",
-    "score": 139,
-    "num_comments": 61,
-    "subreddit": "france",
-    "author": "jesuischarliedelta",
-    "flair": "Politique",
-    "domain": "bok.net",
-    "selftext": "",
-    "reddit_thumbnail": "",
-    "ingested_at": "2026-10-31T15:03:19.066641+00:00",
-    "summary": "par Jacques Rancière [ débat ] du vendredi 21 mars 1997 (Horizons-Débats). L A diffusion des idées racistes en France semble être aujourd'hui une priorité nationale Les racistes s'y emploient, ce qui est la moindre des choses.",
-    "thumbnail": "",
-    "tags": [
-      "Jacques Rancière",
-      "Monde 21",
-      "Politique"
-    ],
-    "analyzed_at": "2026-11-01T09:46:14.693010+00:00"
   },
   {
     "id": "7kjl35",
@@ -662,10 +309,9 @@
     "summary": "Le JDD dévoile en exclusivité ce que pourrait être la future loi \"asile - immigration\", préparée par le ministre de l'Intérieur Gérard Collomb. Le texte s'annonce plutôt répressif.",
     "thumbnail": "thumbnails/7kjl35.webp",
     "tags": [
-      "Emmanuel Macron et Gérard Collomb",
-      "JDD",
-      "Intérieur Gérard Collomb",
-      "Politique"
+      "Gérard Collomb",
+      "Emmanuel Macron",
+      "Immigration"
     ],
     "analyzed_at": "2026-11-01T09:46:14.908070+00:00"
   },
@@ -686,9 +332,7 @@
     "ingested_at": "2026-10-31T15:03:19.065398+00:00",
     "summary": "",
     "thumbnail": "thumbnails/7kf7qo.webp",
-    "tags": [
-      "Sport"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:46:15.941613+00:00"
   },
   {
@@ -709,35 +353,9 @@
     "summary": "Le \"Washington Post\" affirme que l'administration Trump a ordonné le bannissement de sept mots dans des documents qui vont servir à l'élaboration du prochain budget des CDC, la principale agence de santé américaine. Mais cette dernière dément.",
     "thumbnail": "thumbnails/7kcyc5.webp",
     "tags": [
-      "CDC",
-      "Washington Post",
-      "Trump",
-      "Donald Trump - Président des États-Unis",
-      "Science"
+      "Donald Trump"
     ],
     "analyzed_at": "2026-11-01T09:46:15.248867+00:00"
-  },
-  {
-    "id": "7k9111",
-    "title": "Je réalise un jeu mobile par navigateur inspiré des livres dont vous êtes le héros, et je cherche des testeurs pour la première partie !",
-    "url": "http://norveil.fr/",
-    "permalink": "/r/france/comments/7k9111/je_réalise_un_jeu_mobile_par_navigateur_inspiré/",
-    "created_at": "2017-12-16T19:40:18+00:00",
-    "score": 214,
-    "num_comments": 120,
-    "subreddit": "france",
-    "author": "BusyElephant",
-    "flair": "Culture",
-    "domain": "norveil.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://b.thumbs.redditmedia.com/qHdmDLvYOguwYAUahwz6sf-x0j0xKC7bTTP1jiD9EDw.jpg",
-    "ingested_at": "2026-10-31T15:03:19.066052+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/7k9111.webp",
-    "tags": [
-      "Culture"
-    ],
-    "analyzed_at": "2026-11-01T09:46:17.487661+00:00"
   },
   {
     "id": "7k6jui",
@@ -757,81 +375,9 @@
     "summary": "Les chiffres laissent sans voix. Une étude publiée en novembre dernier par l'organisation internationale GRAIN et la Fondation Heinrich Böll dénonce \"l'empreinte climatique démesurée des grandes entreprises du secteur de la viande et des produits laitiers\".",
     "thumbnail": "thumbnails/7k6jui.webp",
     "tags": [
-      "Agro-alimentaire",
-      "Élevage",
-      "Empreinte écologique",
-      "GRAIN et la Fondation Heinrich Böll",
-      "Agriculture"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T09:46:15.727263+00:00"
-  },
-  {
-    "id": "7k0ree",
-    "title": "La neutralité du net doit être une règle d'or en Europe – Blog Qwant",
-    "url": "https://blog.qwant.com/fr/la-neutralite-du-net-doit-etre-une-regle-dor-en-europe/",
-    "permalink": "/r/france/comments/7k0ree/la_neutralité_du_net_doit_être_une_règle_dor_en/",
-    "created_at": "2017-12-15T16:28:37+00:00",
-    "score": 163,
-    "num_comments": 19,
-    "subreddit": "france",
-    "author": "SuperGantDeToilette",
-    "flair": "",
-    "domain": "blog.qwant.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://b.thumbs.redditmedia.com/U1vOrTqeHHxjMfsSqiOGuczOTtn2easki1TRwpYd4ms.jpg",
-    "ingested_at": "2026-10-31T15:03:19.066447+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/7k0ree.webp",
-    "tags": [
-      "Europe",
-      "Blog Qwant"
-    ],
-    "analyzed_at": "2026-11-01T09:46:16.968676+00:00"
-  },
-  {
-    "id": "7k0ddb",
-    "title": "La nouvelle campagne de La Quadrature du Net",
-    "url": "https://pbs.twimg.com/media/DRE351OXkAAJHxU.jpg:large",
-    "permalink": "/r/france/comments/7k0ddb/la_nouvelle_campagne_de_la_quadrature_du_net/",
-    "created_at": "2017-12-15T15:29:32+00:00",
-    "score": 285,
-    "num_comments": 68,
-    "subreddit": "france",
-    "author": "[deleted]",
-    "flair": "Technos",
-    "domain": "pbs.twimg.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/36qgyDWLKhH_TjsYOLK5iEBo_tzxsi5JbOWl9Syh5eI.jpeg?auto=webp&s=029bfe8adf145de65873a1020c3dda40b218cc7e",
-    "ingested_at": "2026-10-31T15:03:19.065854+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/7k0ddb.webp",
-    "tags": [
-      "Quadrature du Net",
-      "Technos"
-    ],
-    "analyzed_at": "2026-11-01T09:46:17.164404+00:00"
-  },
-  {
-    "id": "7jykut",
-    "title": "TF1 qui propose de sauver une famille Rohingya \"tous les 1000 partages\"",
-    "url": "https://pbs.twimg.com/media/DRC5-7aWkAY9i3w.jpg:large",
-    "permalink": "/r/france/comments/7jykut/tf1_qui_propose_de_sauver_une_famille_rohingya/",
-    "created_at": "2017-12-15T09:00:30+00:00",
-    "score": 253,
-    "num_comments": 91,
-    "subreddit": "france",
-    "author": "[deleted]",
-    "flair": "Actus",
-    "domain": "pbs.twimg.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/_qbBUhFI_KUyITogcfrbKnV5UeOTb2tA4p_5xJ4QKac.jpeg?auto=webp&s=32d08fcbeb59f0e909dd366629da5967725deada",
-    "ingested_at": "2026-10-31T15:03:19.065898+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/7jykut.webp",
-    "tags": [
-      "Rohingya"
-    ],
-    "analyzed_at": "2026-11-01T09:46:16.998518+00:00"
   },
   {
     "id": "7jthfn",
@@ -850,58 +396,8 @@
     "ingested_at": "2026-10-31T15:03:19.065476+00:00",
     "summary": "",
     "thumbnail": "thumbnails/7jthfn.webp",
-    "tags": [
-      "Etats-Unis",
-      "Net",
-      "Internet"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:46:17.357225+00:00"
-  },
-  {
-    "id": "7jqd0s",
-    "title": "Le MEDEF qui sait pas comment marchent des engrenages on en parle ?",
-    "url": "https://pbs.twimg.com/media/CT7vwi9WwAA7VS6.jpg",
-    "permalink": "/r/france/comments/7jqd0s/le_medef_qui_sait_pas_comment_marchent_des/",
-    "created_at": "2017-12-14T08:34:33+00:00",
-    "score": 644,
-    "num_comments": 86,
-    "subreddit": "france",
-    "author": "Amiral_Poitou",
-    "flair": "Humour",
-    "domain": "pbs.twimg.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/28tDxcHmsrX9Whdi-NJj92-yjsFxw66apgf9QPWj6C4.jpeg?auto=webp&s=de6af2e676b766f5e09b17cd97a92ca153359e49",
-    "ingested_at": "2026-10-31T15:03:19.065549+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/7jqd0s.webp",
-    "tags": [
-      "MEDEF",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:46:18.665758+00:00"
-  },
-  {
-    "id": "7jidut",
-    "title": "Un homme braque un salon de coiffure avec un sabre de samouraï et emporte du gel alors qu'il est chauve",
-    "url": "http://www.dhnet.be/regions/charleroi-centre/un-homme-braque-un-salon-de-coiffure-avec-un-sabre-de-samourai-et-emporte-du-gel-alors-qu-il-est-chauve-5a17ea8bcd707514e8e568b0",
-    "permalink": "/r/france/comments/7jidut/un_homme_braque_un_salon_de_coiffure_avec_un/",
-    "created_at": "2017-12-13T10:32:20+00:00",
-    "score": 112,
-    "num_comments": 25,
-    "subreddit": "france",
-    "author": "__jonAtan",
-    "flair": "",
-    "domain": "dhnet.be",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/MVCo3WK3EkDCOyJg7zAZI4vyvXlyD3ZVNgkqctznUvU.jpeg?auto=webp&s=6b7c00a1ab37ba923becaf2745bd25a5ffd95f58",
-    "ingested_at": "2026-10-31T15:03:19.066925+00:00",
-    "summary": "Un individu multirécidiviste a comparu vendredi devant le tribunal correctionnel de Charleroi pour vol avec violences, rébellion et menaces.",
-    "thumbnail": "thumbnails/7jidut.webp",
-    "tags": [
-      "Charleroi",
-      "Antoine I"
-    ],
-    "analyzed_at": "2026-11-01T09:46:18.577028+00:00"
   },
   {
     "id": "7jh1rr",
@@ -921,80 +417,9 @@
     "summary": "",
     "thumbnail": "thumbnails/7jh1rr.webp",
     "tags": [
-      "Alabama",
-      "Donald Trump",
-      "Politique"
+      "Donald Trump"
     ],
     "analyzed_at": "2026-11-01T09:46:18.351592+00:00"
-  },
-  {
-    "id": "7jd5fe",
-    "title": "Selon une étude, le bonheur serait étroitement corrélé à l’ajout de fromage fondu sur tout",
-    "url": "http://www.legorafi.fr/2017/12/12/selon-une-etude-le-bonheur-serait-etroitement-correle-a-lajout-de-fromage-fondu-sur-tout/",
-    "permalink": "/r/france/comments/7jd5fe/selon_une_étude_le_bonheur_serait_étroitement/",
-    "created_at": "2017-12-12T19:16:02+00:00",
-    "score": 299,
-    "num_comments": 48,
-    "subreddit": "france",
-    "author": "[deleted]",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/FU9omqYTPZLElWvjVsNfbfkmxmXmNiLvwkW_7ZUV1E4.jpg?auto=webp&s=34e2c826e99ff1aafb51442903ab74d3abcfc315",
-    "ingested_at": "2026-10-31T15:03:19.065784+00:00",
-    "summary": "C’est une étude norvégienne qui vient confirmer une croyance populaire ancrée de longue date dans l’imaginaire collectif. Le bonheur d’un individu serait en effet étroitement lié à l’ajout de fromage fondu sur tout. Décryptage.",
-    "thumbnail": "thumbnails/7jd5fe.webp",
-    "tags": [
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:46:17.663727+00:00"
-  },
-  {
-    "id": "7jcqd0",
-    "title": "Buying a Metro Ticket in Paris — a UX Case Study – uxdesign.cc",
-    "url": "https://uxdesign.cc/buying-a-metro-ticket-in-paris-d259dd35cf9c",
-    "permalink": "/r/france/comments/7jcqd0/buying_a_metro_ticket_in_paris_a_ux_case_study/",
-    "created_at": "2017-12-12T18:18:36+00:00",
-    "score": 134,
-    "num_comments": 75,
-    "subreddit": "france",
-    "author": "[deleted]",
-    "flair": "Technos",
-    "domain": "uxdesign.cc",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/-a1eMV9QRR_rc645rFhJpDpahlgPPzs-HqJT2Wm33DI.jpg?auto=webp&s=7dd156f8a606dbf00e2e61d0219bfc6f07aa9548",
-    "ingested_at": "2026-10-31T15:03:19.066661+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/7jcqd0.webp",
-    "tags": [
-      "Metro Ticket",
-      "Paris",
-      "UX Case Study",
-      "Technos"
-    ],
-    "analyzed_at": "2026-11-01T09:46:20.663532+00:00"
-  },
-  {
-    "id": "7j9hcm",
-    "title": "Le péril blanc",
-    "url": "https://pbs.twimg.com/media/DQ1S0BqWAAArJqy.jpg",
-    "permalink": "/r/france/comments/7j9hcm/le_péril_blanc/",
-    "created_at": "2017-12-12T08:59:08+00:00",
-    "score": 878,
-    "num_comments": 66,
-    "subreddit": "france",
-    "author": "moviuro",
-    "flair": "Humour",
-    "domain": "pbs.twimg.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/BOmQPa420H9MjXZNGNx9mS5Sd6eRvzXUKlwkFiRO5vg.jpg?auto=webp&s=e2daf8ea5f787aecf230512bf9fd3a9976de4c80",
-    "ingested_at": "2026-10-31T15:03:19.065449+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/7j9hcm.webp",
-    "tags": [
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:46:19.153347+00:00"
   },
   {
     "id": "7j6k5w",
@@ -1014,84 +439,10 @@
     "summary": "Les sénateurs ont voté une augmentation de 40% de la rémunération des maires des grandes villes et des présidents de région et de département, durant l’examen du budget 2018.",
     "thumbnail": "thumbnails/7j6k5w.webp",
     "tags": [
-      "Sénat",
-      "Politique"
+      "Institutions",
+      "Travail"
     ],
     "analyzed_at": "2026-11-01T09:46:19.870112+00:00"
-  },
-  {
-    "id": "7j42am",
-    "title": "Un Français de 16 ans arrêté pour son site ARTV, qui diffusait des chaînes de télévision (TF1, Canal+, M6, France Télévision, etc)",
-    "url": "https://torrentfreak.com/16-year-old-boy-arrested-for-running-pirate-tv-service-171211/",
-    "permalink": "/r/france/comments/7j42am/un_français_de_16_ans_arrêté_pour_son_site_artv/",
-    "created_at": "2017-12-11T18:21:49+00:00",
-    "score": 106,
-    "num_comments": 48,
-    "subreddit": "france",
-    "author": "clems4ever",
-    "flair": "",
-    "domain": "torrentfreak.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://b.thumbs.redditmedia.com/M_2SGoRS9fu_nAX3KlRPhsrHeibCn53wTMmdgq87LsM.jpg",
-    "ingested_at": "2026-10-31T15:03:19.067006+00:00",
-    "summary": "A 16-year-old boy has been arrested by police in France for running a pirate TV service. The ARTV website and its associated Android app offered 176 channels belonging to Canal +, M6, TF1 Group, France Télévision Group, Paramount, Disney, and FOX.",
-    "thumbnail": "thumbnails/7j42am.webp",
-    "tags": [
-      "ARTV",
-      "Français de 16",
-      "France Télévision",
-      "TV",
-      "Android"
-    ],
-    "analyzed_at": "2026-11-01T09:46:18.539648+00:00"
-  },
-  {
-    "id": "7j1x5p",
-    "title": "Envol d'une baleine lyonnaise",
-    "url": "http://rachelita.oiseaux.net/images/harfang.des.neiges.rabi.57g.jpg",
-    "permalink": "/r/france/comments/7j1x5p/envol_dune_baleine_lyonnaise/",
-    "created_at": "2017-12-11T12:36:22+00:00",
-    "score": 216,
-    "num_comments": 14,
-    "subreddit": "france",
-    "author": "Ivrevirgule",
-    "flair": "Méta",
-    "domain": "rachelita.oiseaux.net",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/XcnYkd5ARfFNFRQBiB7ilxVbif4hYFqno6KnVIZ7L-o.jpeg?auto=webp&s=df44b2c7c91661104aab373143d5166cfdf2fe1d",
-    "ingested_at": "2026-10-31T15:03:19.066030+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/7j1x5p.webp",
-    "tags": [
-      "Méta"
-    ],
-    "analyzed_at": "2026-11-01T09:46:18.952322+00:00"
-  },
-  {
-    "id": "7ive26",
-    "title": "La signalétique originale du RER par @valentinsocha",
-    "url": "https://threadreaderapp.com/thread/939580951205736448",
-    "permalink": "/r/france/comments/7ive26/la_signalétique_originale_du_rer_par_valentinsocha/",
-    "created_at": "2017-12-10T17:53:36+00:00",
-    "score": 106,
-    "num_comments": 21,
-    "subreddit": "france",
-    "author": "agumonkey",
-    "flair": "Culture",
-    "domain": "threadreaderapp.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/1jbBekUkQ_EJPpKNDrucub2xMcBMf5yP0eqPPkLOX5o.jpeg?auto=webp&s=fa76697d9504f34b78a8297a8bf0f1836ef949f4",
-    "ingested_at": "2026-10-31T15:03:19.066986+00:00",
-    "summary": "@valentinsocha: Hop, c’est parti pour un thread sur la signalétique originale du #RER, mise en service il y a 40 ans. Tellement banale et insignifiante en apparence, et pourtant… Je vous l’explique avec quelques ani...…",
-    "thumbnail": "thumbnails/7ive26.webp",
-    "tags": [
-      "RER",
-      "Twitter",
-      "Twitter thread",
-      "Unroll",
-      "Culture"
-    ],
-    "analyzed_at": "2026-11-01T09:46:20.902662+00:00"
   },
   {
     "id": "7iu740",
@@ -1111,7 +462,8 @@
     "summary": "",
     "thumbnail": "thumbnails/7iu740.webp",
     "tags": [
-      "Blanquer"
+      "Jean-Michel Blanquer",
+      "Éducation"
     ],
     "analyzed_at": "2026-11-01T09:46:19.143499+00:00"
   },
@@ -1133,8 +485,7 @@
     "summary": "Dix jours après leurs collègues de l'Assemblée, les élus du Sénat ont réglementé ce jeudi 7 décembre l'utilisation de leurs frais de mandat. En n'oubliant pas de s'octroyer quelques bons petits privilèges...",
     "thumbnail": "thumbnails/7ilrlp.webp",
     "tags": [
-      "Sénat",
-      "Assemblée"
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T09:46:19.186494+00:00"
   },
@@ -1156,11 +507,8 @@
     "summary": "Pour le commissaire européen aux Affaires économiques et monétaires, à la Fiscalité et à l'Union douanière, Pierre Moscovici, \"il y a des pratiques qui sont à prohiber, à combattre dans l'Union européenne\" mais, selon lui, \"on ne peut pas qualifier tel ou tel pays de l'Union européenne de paradis fiscal\".",
     "thumbnail": "thumbnails/7ikxbm.webp",
     "tags": [
-      "Union",
-      "Pierre Moscovici",
-      "Affaires",
-      "Fiscalité",
-      "Exil fiscal"
+      "Union européenne",
+      "Budget et fiscalité"
     ],
     "analyzed_at": "2026-11-01T09:46:19.867957+00:00"
   },
@@ -1183,128 +531,9 @@
     "thumbnail": "thumbnails/7ihxlk.webp",
     "tags": [
       "Laurent Wauquiez",
-      "Politique"
+      "Élections"
     ],
     "analyzed_at": "2026-11-01T09:46:20.436725+00:00"
-  },
-  {
-    "id": "7igp8u",
-    "title": "Napoleon was the Best General Ever, and the Math Proves it.",
-    "url": "https://towardsdatascience.com/napoleon-was-the-best-general-ever-and-the-math-proves-it-86efed303eeb",
-    "permalink": "/r/france/comments/7igp8u/napoleon_was_the_best_general_ever_and_the_math/",
-    "created_at": "2017-12-08T18:00:47+00:00",
-    "score": 377,
-    "num_comments": 93,
-    "subreddit": "france",
-    "author": "magnusdeus123",
-    "flair": "Culture",
-    "domain": "towardsdatascience.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/aFHWwnC6iIIB1OfKAJgftPKSsCABmkdTJ3nj_4D2xIY.jpg?auto=webp&s=b605303c3f8d21b3fd5822c55d02ab167b76f79d",
-    "ingested_at": "2026-10-31T15:03:19.065719+00:00",
-    "summary": "*Almost every Like Hannibal, I wanted to rank powerful leaders in the history of warfare....",
-    "thumbnail": "thumbnails/7igp8u.webp",
-    "tags": [
-      "WAR",
-      "Best General Ever",
-      "Math Proves",
-      "Like Hannibal",
-      "Culture"
-    ],
-    "analyzed_at": "2026-11-01T09:46:19.439465+00:00"
-  },
-  {
-    "id": "7ifku1",
-    "title": "La ville d'Ivry refuse les cirques détenant des animaux",
-    "url": "https://www.politique-animaux.fr/zoo-cirque/ville-d-ivry-refuse-les-cirques-detenant-des-animaux",
-    "permalink": "/r/france/comments/7ifku1/la_ville_divry_refuse_les_cirques_détenant_des/",
-    "created_at": "2017-12-08T15:16:39+00:00",
-    "score": 143,
-    "num_comments": 53,
-    "subreddit": "france",
-    "author": "QuietCakeBionics",
-    "flair": "Société",
-    "domain": "politique-animaux.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/vT5aZGlxqp48x_9k0Q5Y1dUsobbe0-Z2AnP_-MsmSvw.jpg?auto=webp&s=b5ffb880098c499b129655829fe3821ef4ed34ea",
-    "ingested_at": "2026-10-31T15:03:19.066578+00:00",
-    "summary": "Ce soir le conseil municipal d'Ivry a décidé d'interdire les cirques avec animaux sur son territoire. Fier de ma ville et d'avoir porté ce combat localement...",
-    "thumbnail": "thumbnails/7ifku1.webp",
-    "tags": [
-      "Ivry",
-      "Société"
-    ],
-    "analyzed_at": "2026-11-01T09:46:20.382674+00:00"
-  },
-  {
-    "id": "7ifevd",
-    "title": "Comment les habitants de Villechien (Manche) s'appellent-ils ?",
-    "url": "https://fr.wikipedia.org/wiki/Villechien",
-    "permalink": "/r/france/comments/7ifevd/comment_les_habitants_de_villechien_manche/",
-    "created_at": "2017-12-08T14:50:12+00:00",
-    "score": 124,
-    "num_comments": 18,
-    "subreddit": "france",
-    "author": "vincentdidier",
-    "flair": "Humour",
-    "domain": "fr.wikipedia.org",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/ebs-tD4QNt0FRxcJ4bVtO5oO5Y24rmCxwMohkhe8pnw.jpeg?auto=webp&s=25e0af59990270b47c2cd303d42806090ec21db1",
-    "ingested_at": "2026-10-31T15:03:19.066780+00:00",
-    "summary": "Villechien est une ancienne commune française du département de la Manche et de la région Normandie , devenue le 1 er janvier 2016 une commune déléguée au sein de la commune nouvelle de Mortain-Bocage .",
-    "thumbnail": "thumbnails/7ifevd.webp",
-    "tags": [
-      "Villechien",
-      "Mortain",
-      "Teilleul",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:46:20.722736+00:00"
-  },
-  {
-    "id": "7idywo",
-    "title": "SNCF : Un train arrivé à l’heure provoque la paralysie de la gare Montparnasse",
-    "url": "http://www.legorafi.fr/2017/12/08/sncf-un-train-arrive-a-lheure-provoque-la-paralysie-de-la-gare-montparnasse/",
-    "permalink": "/r/france/comments/7idywo/sncf_un_train_arrivé_à_lheure_provoque_la/",
-    "created_at": "2017-12-08T09:38:20+00:00",
-    "score": 203,
-    "num_comments": 20,
-    "subreddit": "france",
-    "author": "YakaFokkon",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/C6GT3yoHqo35iQLYS2B9YNWgGl56BCj9eGSjJ-WaKi0.jpeg?auto=webp&s=fc1ab365ddf8cd0aed7fe772710ff2c0d86213a8",
-    "ingested_at": "2026-10-31T15:03:19.066119+00:00",
-    "summary": "Plus aucun train ne circule actuellement en gare de Paris-Montparnasse suite à une panne générale provoquée par l'arrivée d'un train à l'heure prévue. La circulation ne devrait pas reprendre avant demain.",
-    "thumbnail": "thumbnails/7idywo.webp",
-    "tags": [
-      "SNCF",
-      "Montparnasse",
-      "Paris-Montparnasse",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:46:20.177400+00:00"
-  },
-  {
-    "id": "7idr4a",
-    "title": "« Anticonstitutionnellement » détrôné comme mot le plus long de la langue française",
-    "url": "https://www.lavoixdelest.ca/actualites/insolite/anticonstitutionnellement-detrone-comme-mot-le-plus-long-de-la-langue-francaise-99a1d4d7a7e25c220ffeec89332f90e4",
-    "permalink": "/r/france/comments/7idr4a/anticonstitutionnellement_détrôné_comme_mot_le/",
-    "created_at": "2017-12-08T08:40:26+00:00",
-    "score": 132,
-    "num_comments": 89,
-    "subreddit": "france",
-    "author": "dClauzel",
-    "flair": "Actus",
-    "domain": "lavoixdelest.ca",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/nBVjatk4VXDC-6eJLvRBM9IevM_SDLENYIh16eNJ3yk.jpeg?auto=webp&s=37af825f539b11ec343e08d809efa8ea7cac15d9",
-    "ingested_at": "2026-10-31T15:03:19.066682+00:00",
-    "summary": "C’est officiel. Sonnez hautbois, résonnez musettes! Le mot «anticonstitutionnellement» n’est plus le mot le plus long de la langue française.",
-    "thumbnail": "thumbnails/7idr4a.webp",
-    "tags": [],
-    "analyzed_at": "2026-11-01T09:46:23.743852+00:00"
   },
   {
     "id": "7i921z",
@@ -1323,152 +552,8 @@
     "ingested_at": "2026-10-31T15:03:19.066426+00:00",
     "summary": "TÉLÉVISION / VIDÉO - Le 11 octobre 2008, sur le plateau de Thierry Ardisson, l’Académicien livrait sa théorie sur les «bons et mauvais jours pour mourir». Ce jour-là, il ignorait que son décès serait potentiellement éclipsé par celui de Johnny Hallyday.",
     "thumbnail": "thumbnails/7i921z.webp",
-    "tags": [
-      "Johnny Hallyday",
-      "Thierry Ardisson",
-      "Jean Ormesson",
-      "Jean D'ormesson",
-      "Mort"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:46:22.045568+00:00"
-  },
-  {
-    "id": "7i757n",
-    "title": "Metz – Il allume la radio et tombe sur une chanson qui n’est pas du Johnny",
-    "url": "http://www.legorafi.fr/2017/12/07/metz-il-allume-la-radio-et-tombe-sur-une-chanson-qui-nest-pas-du-johnny/",
-    "permalink": "/r/france/comments/7i757n/metz_il_allume_la_radio_et_tombe_sur_une_chanson/",
-    "created_at": "2017-12-07T15:24:32+00:00",
-    "score": 151,
-    "num_comments": 13,
-    "subreddit": "france",
-    "author": "Lussarc",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/d6sMNy5c8N8FJ89IEHO_OQCP5wYajeK7NGfOUcFoSZo.jpeg?auto=webp&s=b0bb755c6d8ebc3c57ef5d07f5aa1e8a6e8bdfe6",
-    "ingested_at": "2026-10-31T15:03:19.066534+00:00",
-    "summary": "Curieuse aventure pour Melvin, 25 ans. Alors qu’il allume la radio pour rendre hommage à la rockstar disparue, il s’aperçoit au bout de quelques secondes que la chanson qui passe dans le poste n’est absolument pas l’œuvre de Johnny. Récit.",
-    "thumbnail": "thumbnails/7i757n.webp",
-    "tags": [
-      "Johnny",
-      "Melvin",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:46:20.646335+00:00"
-  },
-  {
-    "id": "7i6j0e",
-    "title": "Les Palestiniens reconnaissent le Texas comme faisant partie du Mexique",
-    "url": "http://complots-faciles.com/blog/2017/12/07/palestiniens-reconnaissent-texas-faisant-partie-mexique/",
-    "permalink": "/r/france/comments/7i6j0e/les_palestiniens_reconnaissent_le_texas_comme/",
-    "created_at": "2017-12-07T13:42:25+00:00",
-    "score": 706,
-    "num_comments": 72,
-    "subreddit": "france",
-    "author": "vincentdidier",
-    "flair": "Humour",
-    "domain": "complots-faciles.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/D9mkbPKFJxQgV8DzTlW1_7mClJojsyUiOCRDgZiZYOE.jpg?auto=webp&s=9096a98c6f4f36055a26e81ad3bbf15446833633",
-    "ingested_at": "2026-10-31T15:03:19.065501+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/7i6j0e.webp",
-    "tags": [
-      "Palestiniens",
-      "Texas",
-      "Mexique",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:46:23.103254+00:00"
-  },
-  {
-    "id": "7i5yyv",
-    "title": "Kevin, 5 ans, ne sait toujours pas ce qu’il veut faire après la maternelle",
-    "url": "http://www.legorafi.fr/2017/12/05/kevin-5-ans-ne-sait-toujours-pas-ce-quil-veut-faire-apres-la-maternelle/",
-    "permalink": "/r/france/comments/7i5yyv/kevin_5_ans_ne_sait_toujours_pas_ce_quil_veut/",
-    "created_at": "2017-12-07T12:03:00+00:00",
-    "score": 218,
-    "num_comments": 111,
-    "subreddit": "france",
-    "author": "Lussarc",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/zhvOfCIqy9T3WWEaTPzOPQYpT0N01B4I_5Gjh5AhZxY.jpeg?auto=webp&s=094470fea000d49178dcd8d1089355d5de0b2f5a",
-    "ingested_at": "2026-10-31T15:03:19.066006+00:00",
-    "summary": "Actuellement en grande section, l'enfant a encore des doutes sur ce qu'il souhaite faire une fois qu'il aura terminé l'école maternelle.",
-    "thumbnail": "thumbnails/7i5yyv.webp",
-    "tags": [
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:46:20.878421+00:00"
-  },
-  {
-    "id": "7i5boe",
-    "title": "Filouthropie",
-    "url": "https://pbs.twimg.com/media/DQbeLNMUEAAcGdp.jpg",
-    "permalink": "/r/france/comments/7i5boe/filouthropie/",
-    "created_at": "2017-12-07T09:39:40+00:00",
-    "score": 571,
-    "num_comments": 87,
-    "subreddit": "france",
-    "author": "moviuro",
-    "flair": "Humour",
-    "domain": "pbs.twimg.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/TVHwjuHm25sVtDoPvrXOLbLHWghJB2BDyPHvPTDuSts.jpg?auto=webp&s=3449e1dbf1a6aa78cc64610f047d2868b077e550",
-    "ingested_at": "2026-10-31T15:03:19.065571+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/7i5boe.webp",
-    "tags": [
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:46:26.459209+00:00"
-  },
-  {
-    "id": "7hx0r9",
-    "title": "On dit numérique et pas digital (bordel) !",
-    "url": "https://www.24joursdeweb.fr/2017/on-dit-numerique-et-pas-digital-bordel/",
-    "permalink": "/r/france/comments/7hx0r9/on_dit_numérique_et_pas_digital_bordel/",
-    "created_at": "2017-12-06T09:42:25+00:00",
-    "score": 200,
-    "num_comments": 139,
-    "subreddit": "france",
-    "author": "Radagaise",
-    "flair": "Société",
-    "domain": "24joursdeweb.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/D_QIX112C0MTWn1ggGaNm0o-KGY4wL1sAQgpgi5oYPw.png?auto=webp&s=3149d03e83f71c91469b9ce1daca1a3e8308b8dd",
-    "ingested_at": "2026-10-31T15:03:19.066168+00:00",
-    "summary": "Une petite histoire de langue, de formules magiques, de didactique et de militantisme. Les templates, tu les utilises avec le package « vue » du framework. Si tu penses que le calcul risque d’être …",
-    "thumbnail": "thumbnails/7hx0r9.webp",
-    "tags": [
-      "Société"
-    ],
-    "analyzed_at": "2026-11-01T09:46:21.577825+00:00"
-  },
-  {
-    "id": "7hwam5",
-    "title": "Meanwhile in Heaven...",
-    "url": "https://files.newsnetz.ch/bildlegende//46488/3289827_pic_970x641.jpg?1512539733",
-    "permalink": "/r/france/comments/7hwam5/meanwhile_in_heaven/",
-    "created_at": "2017-12-06T06:37:53+00:00",
-    "score": 298,
-    "num_comments": 27,
-    "subreddit": "france",
-    "author": "[deleted]",
-    "flair": "Humour",
-    "domain": "files.newsnetz.ch",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/G2LkDYgtWI_EuvH_AVbm4ENCf-yRbaLqCNW1lGAmfOw.jpg?auto=webp&s=c3da0dfea81adf69d41c79b385eafae2dad54b63",
-    "ingested_at": "2026-10-31T15:03:19.065808+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/7hwam5.webp",
-    "tags": [
-      "Heaven",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:46:24.342643+00:00"
   },
   {
     "id": "7hp4a7",
@@ -1488,37 +573,10 @@
     "summary": "[EXCLUSIF] Recevant lundi les députés de la commission des affaires culturelles de l'Assemblée, le chef de l'État a prononcé une violente diatribe contre l'audiovisuel public. Frédérique Dumas, présente lors du discours, apporte un droit de réponse.",
     "thumbnail": "thumbnails/7hp4a7.webp",
     "tags": [
-      "République",
-      "Macron",
-      "Assemblée",
-      "État",
-      "Frédérique Dumas"
+      "Emmanuel Macron",
+      "Médias"
     ],
     "analyzed_at": "2026-11-01T09:46:22.412066+00:00"
-  },
-  {
-    "id": "7hoe1w",
-    "title": "Le Poussin de Claude Ponti, Jardin des Plantes de Nantes",
-    "url": "http://ekladata.com/rWV9tiuSUrIIwbt11ImZiY6_JEg.jpg",
-    "permalink": "/r/france/comments/7hoe1w/le_poussin_de_claude_ponti_jardin_des_plantes_de/",
-    "created_at": "2017-12-05T08:30:33+00:00",
-    "score": 209,
-    "num_comments": 17,
-    "subreddit": "france",
-    "author": "Amiral_Poitou",
-    "flair": "Culture",
-    "domain": "ekladata.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/E4NBOZYr39JgP8XWsgbTd0p5mNmnar9CC3vvifVpzaY.jpeg?auto=webp&s=fc68fe4e06daeab928fa025a7d344b3527af2e02",
-    "ingested_at": "2026-10-31T15:03:19.066075+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/7hoe1w.webp",
-    "tags": [
-      "Poussin de Claude Ponti",
-      "Plantes de Nantes",
-      "Culture"
-    ],
-    "analyzed_at": "2026-11-01T09:46:25.446978+00:00"
   },
   {
     "id": "7hnzch",
@@ -1537,108 +595,8 @@
     "ingested_at": "2026-10-31T15:03:19.065920+00:00",
     "summary": "",
     "thumbnail": "thumbnails/7hnzch.webp",
-    "tags": [
-      "Jean Ormesson",
-      "Culture"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:46:27.927549+00:00"
-  },
-  {
-    "id": "7hhesl",
-    "title": "L’ONU met fin à l’esclavage en Libye en envoyant les esclaves travailler au Qatar",
-    "url": "http://www.legorafi.fr/2017/12/04/lonu-met-fin-a-lesclavage-en-libye-en-envoyant-les-esclaves-travailler-au-qatar/",
-    "permalink": "/r/france/comments/7hhesl/lonu_met_fin_à_lesclavage_en_libye_en_envoyant/",
-    "created_at": "2017-12-04T13:48:48+00:00",
-    "score": 199,
-    "num_comments": 6,
-    "subreddit": "france",
-    "author": "Artichette",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/-JJM34WfpPm7Od6iY7Ep7H1QUbucUmSyTCXGKKxCsdk.jpeg?auto=webp&s=ef8ff0edebae564bf8ff1458ce14e3d93c0bea22",
-    "ingested_at": "2026-10-31T15:03:19.066190+00:00",
-    "summary": "L'Organisation des Nations Unies a annoncé avoir trouvé une solution au problème de l'esclavage en Libye : elle enverra désormais les esclaves libyens travailler au Qatar.",
-    "thumbnail": "thumbnails/7hhesl.webp",
-    "tags": [
-      "Qatar",
-      "Libye",
-      "ONU",
-      "Nations Unies",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:46:22.628419+00:00"
-  },
-  {
-    "id": "7hgo0t",
-    "title": "Les États-Unis s’apprêtent à tuer la neutralité du Web, et nous sommes tous concernés",
-    "url": "http://www.konbini.com/fr/tendances-2/fcc-etats-unis-mise-a-mort-internet-neutre-prevue-14-decembre/",
-    "permalink": "/r/france/comments/7hgo0t/les_étatsunis_sapprêtent_à_tuer_la_neutralité_du/",
-    "created_at": "2017-12-04T11:10:03+00:00",
-    "score": 128,
-    "num_comments": 72,
-    "subreddit": "france",
-    "author": "soulpleureur",
-    "flair": "Société",
-    "domain": "konbini.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/ka1npkOk6ccvNZkj2mxUp0unJ0FifIEfH-4ZruxOuZg.jpg?auto=webp&s=b453c836f88449dea2235aaf178fa7fbc05d90ea",
-    "ingested_at": "2026-10-31T15:03:19.066719+00:00",
-    "summary": "Le 22 novembre, le régulateur des télécoms américain publiera son plan pour faire disparaître la neutralité du Net, avant un vote le 14 décembre. La fin d’une ère.",
-    "thumbnail": "thumbnails/7hgo0t.webp",
-    "tags": [
-      "États-Unis",
-      "Web",
-      "Net",
-      "Internet",
-      "Société"
-    ],
-    "analyzed_at": "2026-11-01T09:46:23.265766+00:00"
-  },
-  {
-    "id": "7hgb9a",
-    "title": "La Sainte-Chapelle, Paris",
-    "url": "http://danieljknaggs.com/wp-content/uploads/2014/05/hr_s7_paris_st-chappelle.jpg",
-    "permalink": "/r/france/comments/7hgb9a/la_saintechapelle_paris/",
-    "created_at": "2017-12-04T09:36:30+00:00",
-    "score": 520,
-    "num_comments": 33,
-    "subreddit": "france",
-    "author": "Amiral_Poitou",
-    "flair": "Culture",
-    "domain": "danieljknaggs.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/FPKm9l62k0IpZRC9MV3-ZhpWu2hwijSWkcavwZvAmaY.jpeg?auto=webp&s=3a9f19b22a36d190495492e75fec6f633e5b6f4f",
-    "ingested_at": "2026-10-31T15:03:19.065615+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/7hgb9a.webp",
-    "tags": [
-      "Sainte-Chapelle",
-      "Culture"
-    ],
-    "analyzed_at": "2026-11-01T09:46:25.821278+00:00"
-  },
-  {
-    "id": "7hbmig",
-    "title": "6) Epilogue",
-    "url": "https://gfycat.com/allvapidafricanaugurbuzzard",
-    "permalink": "/r/france/comments/7hbmig/6_epilogue/",
-    "created_at": "2017-12-03T19:14:49+00:00",
-    "score": 366,
-    "num_comments": 28,
-    "subreddit": "france",
-    "author": "CatoHostilius",
-    "flair": "Méta",
-    "domain": "gfycat.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://b.thumbs.redditmedia.com/Stce5fpkLFOKDS8yWbIOxmrppeLVrIsd-oBaRZ7wnIY.jpg",
-    "ingested_at": "2026-10-31T15:03:19.065740+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/7hbmig.webp",
-    "tags": [
-      "Méta"
-    ],
-    "analyzed_at": "2026-11-01T09:46:24.187961+00:00"
   },
   {
     "id": "7habev",
@@ -1658,200 +616,9 @@
     "summary": "Député, Dominique Tian dénonçait les fraudeurs aux allocations, mais cachait trois comptes en Suisse.",
     "thumbnail": "thumbnails/7habev.webp",
     "tags": [
-      "Dominique Tian",
-      "Suisse",
-      "Société"
+      "Institutions",
+      "Justice"
     ],
     "analyzed_at": "2026-11-01T09:46:24.637809+00:00"
-  },
-  {
-    "id": "7h8m02",
-    "title": "Piton des Neiges, Réunion, France",
-    "url": "https://c2.staticflickr.com/6/5608/15746056301_b16e28558a_o.jpg",
-    "permalink": "/r/france/comments/7h8m02/piton_des_neiges_réunion_france/",
-    "created_at": "2017-12-03T08:20:39+00:00",
-    "score": 453,
-    "num_comments": 25,
-    "subreddit": "france",
-    "author": "loulan",
-    "flair": "",
-    "domain": "c2.staticflickr.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/5kaBEAT9JIhIvaEQv3GnIrv8LSPuYfgx8GYHqXpIlzs.jpg?auto=webp&s=75a499bf30199549ef06bc9e07bc0895f5f33341",
-    "ingested_at": "2026-10-31T15:03:19.065676+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/7h8m02.webp",
-    "tags": [
-      "Neiges"
-    ],
-    "analyzed_at": "2026-11-01T09:46:26.689381+00:00"
-  },
-  {
-    "id": "7h5zen",
-    "title": "Shouting ‘pay your taxes,’ activists occupy Apple retail stores across France",
-    "url": "https://www.marketwatch.com/story/shouting-pay-your-taxes-activists-occupy-apple-retail-stores-across-france-2017-12-02?siteid=rss&rss=1",
-    "permalink": "/r/france/comments/7h5zen/shouting_pay_your_taxes_activists_occupy_apple/",
-    "created_at": "2017-12-02T23:08:16+00:00",
-    "score": 194,
-    "num_comments": 85,
-    "subreddit": "france",
-    "author": "Dall0o",
-    "flair": "Société",
-    "domain": "marketwatch.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/iMWEClms4syS3XhyMfCpHyzaA1849GCYK3euT5OB7uU.jpg?auto=webp&s=a9f3ee8e64e81e8381adc17e97ee2de37182a0eb",
-    "ingested_at": "2026-10-31T15:03:19.066267+00:00",
-    "summary": "The Attac organization staged protests across Apple Stores in France on Saturday, demanding the company pay the taxes it owes the European Union.",
-    "thumbnail": "thumbnails/7h5zen.webp",
-    "tags": [
-      "Apple",
-      "Attac",
-      "Saturday",
-      "European Union",
-      "Société"
-    ],
-    "analyzed_at": "2026-11-01T09:46:27.003406+00:00"
-  },
-  {
-    "id": "7h3l74",
-    "title": "Déjà ennuyeux, il commence un régime sans gluten",
-    "url": "http://www.legorafi.fr/2015/12/02/deja-ennuyeux-il-commence-un-regime-sans-gluten/",
-    "permalink": "/r/france/comments/7h3l74/déjà_ennuyeux_il_commence_un_régime_sans_gluten/",
-    "created_at": "2017-12-02T16:35:03+00:00",
-    "score": 160,
-    "num_comments": 23,
-    "subreddit": "france",
-    "author": "Lussarc",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/tNoLhGMKsti9G4_hSl2rncUppIGGbg2zxV2-C1Szgtg.jpeg?auto=webp&s=c68413b6afd45c7699b898ffc9e2374a40e26074",
-    "ingested_at": "2026-10-31T15:03:19.066513+00:00",
-    "summary": "Paul Lefournie a 25 ans et il est conseiller bancaire. Ses costumes sont gris, il « fait des horaires pas possibles » et trouve que se faire appeler « Popo » ou « Paulot » est assez original. Sa vie déjà ennuyeuse n’avait pas besoin d’un nouveau fardeau, et pourtant, Paul a décidé de commencer un régime sans gluten.",
-    "thumbnail": "thumbnails/7h3l74.webp",
-    "tags": [
-      "Paul Lefournie",
-      "Français",
-      "Île-de-France",
-      "GORAFI",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:46:24.835450+00:00"
-  },
-  {
-    "id": "7h2ybs",
-    "title": "2 décembre 1804",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ingres%2C_Napoleon_on_his_Imperial_throne.jpg/800px-Ingres%2C_Napoleon_on_his_Imperial_throne.jpg",
-    "permalink": "/r/france/comments/7h2ybs/2_décembre_1804/",
-    "created_at": "2017-12-02T14:40:38+00:00",
-    "score": 377,
-    "num_comments": 62,
-    "subreddit": "france",
-    "author": "Neker",
-    "flair": "Culture",
-    "domain": "upload.wikimedia.org",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/613zb7aNOdn9RZFd8Vv2vonRdcEKOetatMbT6NuAKwo.jpg?auto=webp&s=741f0b84a57bb2c729ac94b00297f4495f94052c",
-    "ingested_at": "2026-10-31T15:03:19.065698+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/7h2ybs.webp",
-    "tags": [
-      "Culture"
-    ],
-    "analyzed_at": "2026-11-01T09:46:25.329723+00:00"
-  },
-  {
-    "id": "7h2hcv",
-    "title": "5) Les Tr/alls",
-    "url": "https://gfycat.com/spryfrighteninghadrosaurus",
-    "permalink": "/r/france/comments/7h2hcv/5_les_tralls/",
-    "created_at": "2017-12-02T12:55:21+00:00",
-    "score": 650,
-    "num_comments": 35,
-    "subreddit": "france",
-    "author": "CatoHostilius",
-    "flair": "Méta",
-    "domain": "gfycat.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://b.thumbs.redditmedia.com/_Ajg5vVxlyYQUOX-mc4R6VpohLgHG4MpjULp5UDn7wE.jpg",
-    "ingested_at": "2026-10-31T15:03:19.065526+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/7h2hcv.webp",
-    "tags": [
-      "Tr",
-      "Méta"
-    ],
-    "analyzed_at": "2026-11-01T09:46:26.598014+00:00"
-  },
-  {
-    "id": "7gvrl7",
-    "title": "This is Senator Serge Dassault. I'm not sure for how much he sold us, though.",
-    "url": "https://img.20mn.fr/0pMfYVxiRviOz5ieiP2-aA/830x532_serge-dassault-senateur-et-pdg-du-groupe-dassault-portrait-mastar-113605-credit-m-astar-sipa",
-    "permalink": "/r/france/comments/7gvrl7/this_is_senator_serge_dassault_im_not_sure_for/",
-    "created_at": "2017-12-01T15:41:40+00:00",
-    "score": 239,
-    "num_comments": 11,
-    "subreddit": "france",
-    "author": "1-Sisyphe",
-    "flair": "Méta",
-    "domain": "img.20mn.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/03Ty7BJH85JOuTQGc2ynM1Buy8x4tl6aaBCB4oGF8So.jpeg?auto=webp&s=6b1eb0402abedd781f329747b308cdf5b4f744a2",
-    "ingested_at": "2026-10-31T15:03:19.065943+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/7gvrl7.webp",
-    "tags": [
-      "Senator Serge Dassault",
-      "Méta"
-    ],
-    "analyzed_at": "2026-11-01T09:46:25.793772+00:00"
-  },
-  {
-    "id": "7guk6i",
-    "title": "L’aéroport de Notre-Dame-des-Landes finalement remplacé par une centrale nucléaire",
-    "url": "http://www.legorafi.fr/2017/11/30/laeroport-de-notre-dame-des-landes-finalement-remplace-par-une-centrale-nucleaire/",
-    "permalink": "/r/france/comments/7guk6i/laéroport_de_notredamedeslandes_finalement/",
-    "created_at": "2017-12-01T12:04:57+00:00",
-    "score": 139,
-    "num_comments": 16,
-    "subreddit": "france",
-    "author": "Gosseau",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/ylNrbOSlX_9VVzxTw1rwlKzNYfB99zQKDsZtqd11QQ8.jpeg?auto=webp&s=fd1875ef53558cadaedc479e02c3799cdca93880",
-    "ingested_at": "2026-10-31T15:03:19.066620+00:00",
-    "summary": "Suite au rapport des médiateurs sur le projet, le gouvernement a annoncé qu’il renonçait définitivement à faire construire un aéroport à Notre-Dame-des-Landes. La place laissée vacante servira à la construction d’une centrale nucléaire.",
-    "thumbnail": "thumbnails/7guk6i.webp",
-    "tags": [
-      "Notre-Dame-des-Landes",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:46:26.067579+00:00"
-  },
-  {
-    "id": "7gtxpx",
-    "title": "\"Cash Investigation\". Elise Lucet interpelle Carrefour sur sa filière coton (et se fait insulter par les actionnaires)",
-    "url": "http://www.dailymotion.com/video/x6asfkv",
-    "permalink": "/r/france/comments/7gtxpx/cash_investigation_elise_lucet_interpelle/",
-    "created_at": "2017-12-01T09:20:04+00:00",
-    "score": 181,
-    "num_comments": 162,
-    "subreddit": "france",
-    "author": "wisi_eu",
-    "flair": "Société",
-    "domain": "dailymotion.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/ZEfkyzK4sBUsW7GMtLVSWGXoh6fHM72iVrOS3EJsQUY.jpeg?auto=webp&s=0295540bcc5e53d139490db686a021627184ed28",
-    "ingested_at": "2026-10-31T15:03:19.066330+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/7gtxpx.webp",
-    "tags": [
-      "Cash Investigation",
-      "Elise Lucet",
-      "Carrefour",
-      "Société"
-    ],
-    "analyzed_at": "2026-11-01T09:46:26.211171+00:00"
   }
 ]

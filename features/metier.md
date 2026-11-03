@@ -2,8 +2,9 @@
 
 ## Concept
 
-FilNews présente **l'actualité vue par les Français** (slogan du site) : pas
-seulement l'actualité française, mais celle qui fait réagir r/france. Il ne rédige pas d'articles : il
+FilNews présente **l'actualité vue par r/france** (slogan du site) : pas
+seulement l'actualité française, mais celle qui fait réagir r/france — qui ne
+représente pas « les Français » dans leur ensemble. Il ne rédige pas d'articles : il
 **sélectionne** les liens d'actualité qui font réagir la communauté Reddit
 francophone, les **résume**, les **illustre** et les **relie entre eux** par des
 tags, pour donner le contexte d'un sujet dans le temps. Le but affiché sur le
@@ -20,8 +21,8 @@ suscitant le plus d'intérêt (le détail des seuils reste dans la doc technique
 | **Score** | Nombre de votes (upvotes) du post Reddit au moment de la dernière ingestion. |
 | **Seuil** | Score minimum pour qu'un post soit ingéré. Défaut : **250** (`FILNEWS_MIN_SCORE`). Un post à 200 votes n'est jamais ingéré. |
 | **Subreddit** | Source des news. Défaut : **r/france** (`FILNEWS_SUBREDDIT`). |
-| **Flair** | Catégorie choisie sur Reddit (Politique, Société, Écologie…). Utilisée comme tag sauf si elle est générique. |
-| **Tag** | Sujet d'une news : personne, lieu, organisation, thème. Identifié par son *slug* (`emmanuel-macron`) ; le libellé affiché est l'orthographe la plus fréquente. Un tag n'a sa page (et sa carte au survol) qu'à partir de **2 news** (`FILNEWS_TAG_MIN_NEWS`) ; en dessous, il s'affiche en texte simple. |
+| **Flair** | Catégorie choisie sur Reddit (Politique, Société, Écologie…). Ne devient un tag que si elle correspond à un thème du vocabulaire (Écologie → Environnement, Covid-19, Santé, Élections). |
+| **Tag (fil)** | Sujet d'une news, pris dans le **vocabulaire contrôlé** (`filnews/vocabulary.py`) : une **personnalité politique** ou un **grand thème politique ou de société**. Aucun autre tag n'est créé (ni lieux, ni organisations, ni médias). Identifié par son *slug* (`emmanuel-macron`) ; le libellé affiché est l'orthographe la plus fréquente. Un tag n'a sa page (et sa carte au survol) qu'à partir de **2 news** (`FILNEWS_TAG_MIN_NEWS`) ; en dessous, il s'affiche en texte simple. |
 | **Alias de tag** | Autre nom d'un même sujet (« Macron » → « Emmanuel Macron »), déclaré à la main dans `data/tag_aliases.json`. |
 | **Doublon** | Deux posts qui pointent vers le même article (même URL, hors `www`, protocole, `/amp` et paramètres de suivi). |
 | **Historique d'un tag** | Frise chronologique de toutes les news d'un tag (carte au survol). |
@@ -37,11 +38,21 @@ suscitant le plus d'intérêt (le détail des seuils reste dans la doc technique
 2. Seuls les posts avec **score ≥ seuil** sont retenus. Le listing étant trié
    par score décroissant, la lecture s'arrête au premier post sous le seuil.
 3. Sont exclus : posts texte (`self`), posts NSFW, posts épinglés, posts
-   supprimés, liens qui ne sont pas des articles (images/vidéos Reddit, imgur,
-   reddit.com, **Twitter/X, YouTube**).
-4. Une news déjà connue est **mise à jour** (score, commentaires, titre, flair)
+   supprimés.
+4. **Sélection des médias** (`filnews/media.py`, comparaison sur le domaine et
+   ses sous-domaines) :
+   - **sites refusés**, toujours : Reddit, vidéos (**YouTube**, Dailymotion…),
+     réseaux sociaux (**Twitter/X**, Facebook…), hébergeurs d'images,
+     Wikipédia, blogs et plateformes d'autopublication, sites satiriques
+     (Le Gorafi…) ;
+   - **médias autorisés** : presse nationale et régionale, audiovisuel,
+     médias indépendants, presse tech/science, presse étrangère, institutions ;
+   - par défaut (`FILNEWS_MEDIA_WHITELIST=1`), seuls les médias autorisés
+     sont ingérés ; sinon, tout site non refusé l'est. Un sous-domaine refusé
+     l'emporte sur un domaine autorisé (`blogs.mediapart.fr`).
+5. Une news déjà connue est **mise à jour** (score, commentaires, titre, flair)
    sans perdre son analyse.
-5. **Un article = une news** : un post vers un article déjà connu est ignoré,
+6. **Un article = une news** : un post vers un article déjà connu est ignoré,
    sauf s'il a un meilleur score ; il remplace alors l'ancien post et reprend
    son analyse.
 
@@ -61,14 +72,26 @@ suscitant le plus d'intérêt (le détail des seuils reste dans la doc technique
 
 1. On télécharge la page de l'article et on lit ses métadonnées (`og:title`,
    `og:description`, `og:image`, mots-clés éditeur) et ses paragraphes.
-2. **Tags** (5 maximum, `FILNEWS_MAX_TAGS`) :
-   - entités du titre (poids 4), du chapô (2), du texte (0,5) : suites de mots
-     à majuscule (« Emmanuel Macron », « État de Palestine »), sigles (« SNCF »),
-     nom + nombre (« Ligue 1 ») ;
-   - mots-clés de l'éditeur (bonus s'ils apparaissent aussi dans l'article) ;
-   - le flair Reddit, sauf flairs génériques (Actus, Paywall, Meta, Forum Libre…) ;
-   - exclus : mots isolés écrits aussi en minuscule dans l'article (noms
-     communs), mots-clés génériques (« actualité », « France »…).
+2. **Tags** (5 maximum, `FILNEWS_MAX_TAGS`), uniquement issus du
+   **vocabulaire contrôlé** (`filnews/vocabulary.py`, édité à la main) :
+   - **personnalités politiques** : noms complets et noms seuls non ambigus
+     (« Mélenchon », mais pas « Hollande » ni « Philippe »), sensibles à la
+     casse (« Poutine » ≠ « poutine ») ; le nom le plus long l'emporte
+     (« Jean-Marie Le Pen » avant « Le Pen ») ;
+   - **thèmes** (≈ 45) : environnement, police, justice, immigration,
+     logement, retraites, extrême droite, présidentielle… reconnus par une
+     liste d'expressions, sans tenir compte de la casse (sauf sigles : « IA »,
+     « CRS ») ;
+   - score : titre 4, chapô 2, mots-clés de l'éditeur 2, flair 3, texte 0,5
+     par mention (6 au plus). Il faut **2** pour une personnalité et **3**
+     pour un thème (dans le titre, ou confirmé par deux sources) ;
+   - à score égal, les personnalités passent avant les thèmes ;
+   - plus d'erreurs du type « Heures » (« 20 Heures »), « Rassemblement »
+     (« Rassemblement national ») ou « Payant » (flair).
+   - `analyze_news --retag` recalcule les tags à partir des données stockées
+     (titre, résumé, anciens tags comme mots-clés, flair), sans
+     téléchargement ; une ré-analyse complète (`--force`) profite en plus du
+     texte des articles.
 3. **Résumé** (≈ 320 caractères max, coupé en fin de phrase) : description de
    l'éditeur, sinon début de l'article, sinon texte du post Reddit.
 4. **Vignette** : image `og:image`, sinon aperçu Reddit ; recadrée en 16:9,
@@ -78,8 +101,9 @@ suscitant le plus d'intérêt (le détail des seuils reste dans la doc technique
    (archive.org) la plus proche de la date du post, image comprise
    (`FILNEWS_WAYBACK`). À défaut, l'analyse se fait sur le titre et les données
    Reddit ; la news reste publiée.
-6. Analyseur `local` (optionnel) : tags par le modèle CamemBERT
-   *keyword-extractor* fusionnés avec l'heuristique, résumé par un modèle T5
+6. Analyseur `local` (optionnel) : les mots-clés du modèle CamemBERT
+   *keyword-extractor* comptent comme mots-clés de l'éditeur (les tags restent
+   pris dans le vocabulaire), résumé par un modèle T5
    français. Aucune donnée n'est envoyée à un service tiers.
 
 ## Règles d'affichage
@@ -87,11 +111,35 @@ suscitant le plus d'intérêt (le détail des seuils reste dans la doc technique
 - **Accueil** :
   - « À la une » : news au **plus haut score** publiée dans les 24 h précédant
     la génération du site ; à défaut, la news la plus récente.
-  - **5 news** : les plus récentes (hors « À la une »), avec leurs tags sous
-    chaque encart.
-  - **Tags du moment** : 10 maximum, triés par date de la news la plus récente
-    qui les porte (à égalité : nombre de news).
-  - Lien vers le flux RSS.
+  - Bandeau d'introduction : « Chaque actu a une histoire. On vous donne le
+    fil. » et les trois étapes (une news remonte, on la rattache à ses fils,
+    chaque fil est une chronologie).
+  - **Le fil du moment** : à côté de « À la une », le fil (tag ayant une
+    page) qui compte le **plus de news sur les 48 h** précédant la plus
+    récente (à égalité : le plus récent). Affiche son nom, son nombre total
+    d'articles et sa date de début, ses **5 dernières news**
+    (`FILNEWS_HOME_THREAD_COUNT`) sur une ligne verticale avec l'écart de temps
+    entre deux news (la news à la une marquée), et un bouton « Remonter tout le
+    fil ».
+  - **5 news** : les plus récentes (hors « À la une »), en liste, avec leurs
+    fils.
+  - **Fils du moment** : 7 maximum (`FILNEWS_HOME_TAG_COUNT`), les tags ayant
+    une page qui comptent le plus de news sur les **7 derniers jours**, avec
+    leur sorte (Personnalité / Thème).
+  - Encart **Présidentielle 2027** (candidats déclarés), légende des deux
+    sortes de fils, lien vers le flux RSS.
+- **Présidentielle 2027** :
+  - liste des candidats dans `filnews/elections.py` (nom, parti, candidature
+    déclarée ou pressentie, tags associés — par défaut son nom), **à tenir à
+    jour à la main** ;
+  - **fil d'un candidat** : toutes les news portant un de ses tags depuis le
+    **1er janvier 2025** (`CAMPAIGN_START`) ;
+  - **fil de la campagne** : depuis la même date, les news dont le titre ou le
+    résumé contient « présidentielle 2027 », ou qui portent le tag d'un
+    candidat avec un mot de campagne (présidentiel, candidat, campagne,
+    primaire, 2027, Élysée) ; une présidentielle étrangère n'y entre pas.
+- **Tags** : une pastille par tag, avec une silhouette pour une personnalité
+  et `#` pour un thème.
 - **Survol / focus d'un tag** : carte avec l'historique du tag. **Clic** : page du tag.
 - **Carte au survol d'un tag**, de haut en bas : nom et nombre de news, la
   frise, puis la liste des **5 news les plus récentes** (date + titre,

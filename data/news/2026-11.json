@@ -193,7 +193,9 @@
     "ingested_at": "2026-11-01T12:23:31.458021+00:00",
     "summary": "Le ministère de l’intérieur prend des arrêtés d’assignation à résidence fondés sur les dispositions de lutte contre le terrorisme à l’encontre de militants n’ayant parfois aucun casier judiciaire. Te…",
     "thumbnail": "thumbnails/1xkyluh.webp",
-    "tags": [],
+    "tags": [
+      "Manifestations"
+    ],
     "analyzed_at": "2026-11-01T12:23:33.753277+00:00"
   }
 ]

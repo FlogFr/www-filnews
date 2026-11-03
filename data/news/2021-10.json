@@ -17,10 +17,7 @@
     "summary": "\"Scribe\", né en 2017 pour remplacer l'actuel logiciel de rédaction des plaintes, a été abandonné selon les informations de France Inter.",
     "thumbnail": "thumbnails/qjn9x5.webp",
     "tags": [
-      "Scribe",
-      "France Inter",
-      "Faits-divers",
-      "Société"
+      "Police"
     ],
     "analyzed_at": "2026-11-01T10:03:05.648204+00:00"
   },
@@ -42,11 +39,7 @@
     "summary": "\"Aucun pays ne prend véritablement le chemin\" de la neutralité carbone à l'horizon 2050, a estimé ce dimanche sur franceinfo le climatologue et ancien vice-président du Giec Jean Jouzel.",
     "thumbnail": "thumbnails/qjn7rb.webp",
     "tags": [
-      "COP26",
-      "Giec Jean Jouzel",
-      "Crise climatique",
-      "Environnement",
-      "Société"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T10:03:06.746683+00:00"
   },
@@ -68,11 +61,8 @@
     "summary": "La Commission des sondages relève plusieurs erreurs ou manquements dans la présentation faite par Cnews. La chaîne a présenté ses excuses depuis.",
     "thumbnail": "thumbnails/qj2xa0.webp",
     "tags": [
-      "Commission",
-      "Cnews",
-      "Zemmour",
       "Éric Zemmour",
-      "Politique"
+      "Élections"
     ],
     "analyzed_at": "2026-11-01T10:03:06.309485+00:00"
   },
@@ -94,9 +84,8 @@
     "summary": "Dans une interview accordée au Financial Times Emmanuel Macron s'est fendu d'une critique sévère contre le gouvernement de Boris Johnson, affirmant qu'il faisait le \"contraire de ce qui a été décidé\".",
     "thumbnail": "thumbnails/qixiuo.webp",
     "tags": [
-      "Boris Johnson",
-      "Financial Times Emmanuel Macron",
-      "Grande-Bretagne"
+      "Emmanuel Macron",
+      "Boris Johnson"
     ],
     "analyzed_at": "2026-11-01T10:03:06.312121+00:00"
   },
@@ -119,9 +108,9 @@
     "thumbnail": "thumbnails/qiah69.webp",
     "tags": [
       "Yannick Jadot",
-      "Présidentielle 2027",
-      "Elections en France",
-      "Elections"
+      "Élection présidentielle",
+      "Élections",
+      "Cause animale"
     ],
     "analyzed_at": "2026-11-01T10:03:06.705418+00:00"
   },
@@ -142,9 +131,7 @@
     "ingested_at": "2026-11-01T09:59:42.049978+00:00",
     "summary": "",
     "thumbnail": "thumbnails/qi8zgh.webp",
-    "tags": [
-      "Londres"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:03:11.908652+00:00"
   },
   {
@@ -165,38 +152,9 @@
     "summary": "Transdev obtient l'exploitation de la ligne ferroviaire Marseille-Nice à partir de 2025.",
     "thumbnail": "thumbnails/qhkg3r.webp",
     "tags": [
-      "SNCF",
-      "TER",
-      "Paca",
-      "Marseille-Nice",
-      "Économie"
+      "Transports"
     ],
     "analyzed_at": "2026-11-01T10:03:07.284157+00:00"
-  },
-  {
-    "id": "qhfyfc",
-    "title": "N'ayant pas suspendu l'application des dispositions de la législation nationale relatives, notamment, aux domaines de compétence de la chambre disciplinaire de la Cour suprême, la Pologne est condamnée à payer à la Commission européenne une astreinte journalière d'un montant de 1 000 000 €.",
-    "url": "https://curia.europa.eu/jcms/upload/docs/application/pdf/2021-10/cp210192en.pdf",
-    "permalink": "/r/france/comments/qhfyfc/nayant_pas_suspendu_lapplication_des_dispositions/",
-    "created_at": "2021-10-28T05:36:09+00:00",
-    "score": 153,
-    "num_comments": 66,
-    "subreddit": "france",
-    "author": "Rhynchocephale",
-    "flair": "Société",
-    "domain": "curia.europa.eu",
-    "selftext": "",
-    "reddit_thumbnail": "",
-    "ingested_at": "2026-11-01T09:59:42.049907+00:00",
-    "summary": "",
-    "thumbnail": "",
-    "tags": [
-      "Cour",
-      "Pologne",
-      "Commission",
-      "Société"
-    ],
-    "analyzed_at": "2026-11-01T10:03:06.550314+00:00"
   },
   {
     "id": "qgumws",
@@ -216,11 +174,7 @@
     "summary": "L'essayiste d'extrême-droite Alain Soral a été condamné définitivement pour contestation de la Shoah.",
     "thumbnail": "thumbnails/qgumws.webp",
     "tags": [
-      "Alain Soral",
-      "Shoah",
-      "Damien Viguier",
-      "Culture",
-      "Politique"
+      "Justice"
     ],
     "analyzed_at": "2026-11-01T10:03:09.928449+00:00"
   },
@@ -242,7 +196,7 @@
     "summary": "Ce jour-là, à Laroque, il était posté en battue à 300 mètres d’une maison.",
     "thumbnail": "thumbnails/qgs5vp.webp",
     "tags": [
-      "Laroque"
+      "Cause animale"
     ],
     "analyzed_at": "2026-11-01T10:03:07.207730+00:00"
   },
@@ -263,13 +217,7 @@
     "ingested_at": "2026-11-01T09:59:42.048729+00:00",
     "summary": "Le deuxième volet du film de Denis Villeneuve doit prendre l’affiche en octobre 2023.",
     "thumbnail": "thumbnails/qge4wo.webp",
-    "tags": [
-      "Denis Villeneuve",
-      "Dune",
-      "Frank Herbert",
-      "TV & Movies",
-      "Culture"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:03:08.935559+00:00"
   },
   {
@@ -290,11 +238,7 @@
     "summary": "Alors que la grand-messe consacrée au climat, la COP26, s’ouvre dans quelques jours, Coca-Cola, Pepsi et Unilever se retrouvent sur un podium peu honorable : celui des plus grands pollueurs plastique.…",
     "thumbnail": "thumbnails/qg4b3w.webp",
     "tags": [
-      "COP26",
-      "Environnement",
-      "Pollution",
-      "Entreprises",
-      "Écologie"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T10:03:07.199936+00:00"
   },
@@ -316,10 +260,6 @@
     "summary": "La France appelle à un découplage des prix de l'électricité et du gaz. Mais l'initiative remporte peu de succès auprès des autres pays membres.",
     "thumbnail": "thumbnails/qg2jab.webp",
     "tags": [
-      "UE",
-      "Paris",
-      "Berlin",
-      "Électricité",
       "Union européenne"
     ],
     "analyzed_at": "2026-11-01T10:03:07.224315+00:00"
@@ -342,7 +282,7 @@
     "summary": "",
     "thumbnail": "thumbnails/qg17ka.webp",
     "tags": [
-      "Stains"
+      "Police"
     ],
     "analyzed_at": "2026-11-01T10:03:07.677285+00:00"
   },
@@ -364,8 +304,7 @@
     "summary": "Il existe en France de grandes inégalités face à l’accès à l’offre de soins. On connaît depuis longtemps ces endroits du territoire national, où la moindre consultation chez un généraliste nécessite de longs déplacements, appelés « déserts médicaux.",
     "thumbnail": "thumbnails/qfmpo7.webp",
     "tags": [
-      "Sénat",
-      "Société"
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T10:03:08.523374+00:00"
   },
@@ -387,8 +326,8 @@
     "summary": "",
     "thumbnail": "thumbnails/qfl48d.webp",
     "tags": [
-      "Coordination",
-      "Politique"
+      "Racisme",
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T10:03:07.684702+00:00"
   },
@@ -409,12 +348,7 @@
     "ingested_at": "2026-11-01T09:59:42.048826+00:00",
     "summary": "L'adolescente s'était pendue le 5 octobre dernier. Sa famille organise une marche blanche en son souvenir ce dimanche 24 octobre à 15 heures, place de la Réunion à Mulhouse. Une enquête a été ouverte pour déterminer...",
     "thumbnail": "thumbnails/qesxhp.webp",
-    "tags": [
-      "Dinah",
-      "Mulhouse",
-      "Rayan",
-      "Fait Divers"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:03:07.813599+00:00"
   },
   {
@@ -436,7 +370,7 @@
     "thumbnail": "thumbnails/qenj3s.webp",
     "tags": [
       "Sandrine Rousseau",
-      "Politique"
+      "Éducation"
     ],
     "analyzed_at": "2026-11-01T10:03:08.199035+00:00"
   },
@@ -458,9 +392,7 @@
     "summary": "Les forces de l'ordre ont interpellé un homme menaçant armé d'un couteau à Montrouge mercredi 20 octobre 2021. La scène de l'interpellation a été entièrement filmée.",
     "thumbnail": "thumbnails/qe9nbg.webp",
     "tags": [
-      "Montrouge",
-      "OFII",
-      "Fait Divers"
+      "Police"
     ],
     "analyzed_at": "2026-11-01T10:03:08.166046+00:00"
   },
@@ -482,38 +414,9 @@
     "summary": "La semaine dernière, l’association NAOS (Nouvelle-Aquitaine Open Source) organisait à La Rochelle la deuxième édition de son B.Boost, un salon sur le…",
     "thumbnail": "thumbnails/qe17z1.webp",
     "tags": [
-      "NAOS",
-      "B Boost",
-      "Nouvelle-Aquitaine Open Source",
-      "Rochelle",
-      "Europe"
+      "Numérique"
     ],
     "analyzed_at": "2026-11-01T10:03:08.570798+00:00"
-  },
-  {
-    "id": "qdg3jx",
-    "title": "Le Luxembourg tolérera la culture du cannabis | Une première en Europe ! Les ministres de la Justice et de la Sécurité intérieure ont annoncé, vendredi matin, que chaque ménage luxembourgeois pourra disposer de quatre plants de cannabis.",
-    "url": "https://www.wort.lu/fr/luxembourg/le-luxembourg-accepte-la-culture-du-cannabis-61728e31de135b92360adf0d",
-    "permalink": "/r/france/comments/qdg3jx/le_luxembourg_tolérera_la_culture_du_cannabis_une/",
-    "created_at": "2021-10-22T12:42:22+00:00",
-    "score": 219,
-    "num_comments": 85,
-    "subreddit": "france",
-    "author": "sitarane",
-    "flair": "Société",
-    "domain": "wort.lu",
-    "selftext": "",
-    "reddit_thumbnail": "https://b.thumbs.redditmedia.com/7b_3zRPnGNqOKa26KcEl7ZR7q1Hio3ZoIpiCtg1qkLA.jpg",
-    "ingested_at": "2026-11-01T09:59:42.049545+00:00",
-    "summary": "Une première en Europe! Les ministres de la Justice et de la Sécurité intérieure ont annoncé, vendredi matin, que chaque ménage luxembourgeois pourra disposer de quatre plants de cannabis.",
-    "thumbnail": "thumbnails/qdg3jx.webp",
-    "tags": [
-      "Europe",
-      "Justice et de la Sécurité",
-      "Luxembourg",
-      "Société"
-    ],
-    "analyzed_at": "2026-11-01T10:03:11.524158+00:00"
   },
   {
     "id": "qddvfa",
@@ -532,10 +435,7 @@
     "ingested_at": "2026-11-01T09:59:42.049676+00:00",
     "summary": "Depuis 2017, l’Institut hospitalo-universitaire de Marseille mène une expérimentation sauvage contre la tuberculose, provoquant chez plusieurs patients, dont un mineur, de graves complications. En 20…",
     "thumbnail": "thumbnails/qddvfa.webp",
-    "tags": [
-      "IHU de Marseille",
-      "Marseille"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:03:09.302122+00:00"
   },
   {
@@ -556,9 +456,7 @@
     "summary": "L’auteur du coup de feu comparaissait ce jeudi devant le tribunal correctionnel de Beauvais pour homicide involontaire et détention sans déc",
     "thumbnail": "thumbnails/qcu0x0.webp",
     "tags": [
-      "Oise",
-      "Beauvais",
-      "Serge"
+      "Cause animale"
     ],
     "analyzed_at": "2026-11-01T10:03:09.001048+00:00"
   },
@@ -580,11 +478,8 @@
     "summary": "Le projet de loi a été adopté avec seulement 10 voix d’écart. Le texte sera examiné au Sénat dès le 28 octobre.",
     "thumbnail": "thumbnails/qck363.webp",
     "tags": [
-      "Sénat",
-      "Politique",
       "Covid-19",
-      "Assemblée nationale",
-      "Pass-sanitaire"
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T10:03:08.905212+00:00"
   },
@@ -606,11 +501,9 @@
     "summary": "Des amendements au projet de loi de vigilance sanitaire, portés par le député LREM Thierry Michels, visent à donner la possibilité aux employeurs qui le souhaitent de mettre en place le pass sanitaire dans leur entreprise. Et ce, quel que soit leur secteur d’activité.",
     "thumbnail": "thumbnails/qbuqfs.webp",
     "tags": [
-      "LREM",
-      "LREM Thierry Michels",
-      "Thierry Michels",
-      "Assemblée",
-      "Pass sanitaire"
+      "Covid-19",
+      "Institutions",
+      "Travail"
     ],
     "analyzed_at": "2026-11-01T10:03:10.174955+00:00"
   },
@@ -632,35 +525,9 @@
     "summary": "DÉCRYPTAGE - Trois chercheurs expliquent que le groupe pétrolier était au courant des risques liés à la consommation d'énergies fossiles dès 1971 et a par la suite essayé d'en minimiser la gravité.",
     "thumbnail": "thumbnails/qbu210.webp",
     "tags": [
-      "Total",
-      "Énergies fossiles",
-      "Réchauffement climatique",
-      "Pierre-Louis Choquet",
-      "Science"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T10:03:09.323504+00:00"
-  },
-  {
-    "id": "qbtcvm",
-    "title": "A 400m power washing mural on the Vouglans Dam in France",
-    "url": "https://www.macommune.info/wp-content/uploads/2021/10/vouglans-1200x766.jpeg",
-    "permalink": "/r/france/comments/qbtcvm/a_400m_power_washing_mural_on_the_vouglans_dam_in/",
-    "created_at": "2021-10-20T05:00:45+00:00",
-    "score": 289,
-    "num_comments": 30,
-    "subreddit": "france",
-    "author": "loulan",
-    "flair": "",
-    "domain": "macommune.info",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/Z569JNkIcLxFakgs4cQ4NBX1GUyIyflx80RZj8kDn70.jpg?auto=webp&s=20afdddc8a6290f1aeffc96c6b030a49cbba5da5",
-    "ingested_at": "2026-11-01T09:59:42.048802+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/qbtcvm.webp",
-    "tags": [
-      "Vouglans Dam"
-    ],
-    "analyzed_at": "2026-11-01T10:03:09.617621+00:00"
   },
   {
     "id": "qba2vm",
@@ -680,8 +547,7 @@
     "summary": "Le leader de la France insoumise a appelé à faire « ce qui marche » pour lutter notamment contre le trafic et la dépendance.",
     "thumbnail": "thumbnails/qba2vm.webp",
     "tags": [
-      "Jean-Luc Mélenchon",
-      "Soft paywall"
+      "Jean-Luc Mélenchon"
     ],
     "analyzed_at": "2026-11-01T10:03:09.730667+00:00"
   },
@@ -703,11 +569,7 @@
     "summary": "Un Valentinois de 43 ans est en garde à vue depuis lundi 18 octobre à Valence (Drôme), après avoir proféré des menaces au collège de son fils. L'adolescent de 11 ans venait d'être puni d'un avertissement pour avoir crié \"Allah akbar\" lors de l'hommage à Samuel Paty. Le père a soutenu ces propos.",
     "thumbnail": "thumbnails/qb7okq.webp",
     "tags": [
-      "Samuel Paty",
-      "Education Nationale",
-      "Valence",
-      "Assassinat de Samuel Paty",
-      "Fait Divers"
+      "Éducation"
     ],
     "analyzed_at": "2026-11-01T10:03:10.356098+00:00"
   },
@@ -729,10 +591,7 @@
     "summary": "«Semaine prochaine tu mourras», est-il écrit dans le dernier courrier reçu. Une enquête a été ouverte et un dispositif de mise en sécurité a été mis en place.",
     "thumbnail": "thumbnails/qaqx76.webp",
     "tags": [
-      "Samuel Paty",
-      "Marseille",
-      "Justice",
-      "Fait Divers"
+      "Éducation"
     ],
     "analyzed_at": "2026-11-01T10:03:10.779340+00:00"
   },
@@ -754,8 +613,8 @@
     "summary": "",
     "thumbnail": "thumbnails/qaiusg.webp",
     "tags": [
-      "Béziers",
-      "Eric Zemmour"
+      "Éric Zemmour",
+      "Élection présidentielle"
     ],
     "analyzed_at": "2026-11-01T10:03:09.835423+00:00"
   },
@@ -777,11 +636,7 @@
     "summary": "Devant 2 000 personnes à Reims, le candidat à l’élection présidentielle a fait part de ses projets radicaux pour le nucléaire, relatent « Les Échos ».",
     "thumbnail": "thumbnails/qa649t.webp",
     "tags": [
-      "Jean-Luc Mélenchon",
-      "Reims",
-      "Échos",
-      "Centrale nucléaire",
-      "Politique"
+      "Jean-Luc Mélenchon"
     ],
     "analyzed_at": "2026-11-01T10:03:17.587076+00:00"
   },
@@ -803,11 +658,7 @@
     "summary": "\"La majorité\" des contenus liés à la pratique de l'islam sur les réseaux sociaux en France sont aujourd'hui \"connectés à la sphère salafiste et s'i...",
     "thumbnail": "thumbnails/q9z21j.webp",
     "tags": [
-      "Police",
-      "Enquête",
-      "Gouvernement",
-      "Islamisme",
-      "Islam"
+      "Numérique"
     ],
     "analyzed_at": "2026-11-01T10:03:15.408147+00:00"
   },
@@ -828,10 +679,7 @@
     "ingested_at": "2026-11-01T09:59:42.049835+00:00",
     "summary": "Une femme âgée de 81 ans est morte après avoir été renversée par une moto jeudi 14 octobre à Clermont-Ferrand, alors qu’elle traversait sur un passage piéton. Un jeune homme de 19 ans s'est présenté à la police ce vendredi,...",
     "thumbnail": "thumbnails/q99ess.webp",
-    "tags": [
-      "Clermont-Ferrand",
-      "Fait Divers"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:03:10.717189+00:00"
   },
   {
@@ -851,12 +699,7 @@
     "ingested_at": "2026-11-01T09:59:42.049520+00:00",
     "summary": "Un groupe de personnes qui célébraient le jour de l'indépendance du Mali a été brutalement attaqué le 28 septembre dans la région de Kayes, dans l’ouest du pays. Pieds et poings liés, des habitants considérés…",
     "thumbnail": "thumbnails/q97rf1.webp",
-    "tags": [
-      "Mali",
-      "Afrique",
-      "Kayes",
-      "Souroubiré"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:03:10.853950+00:00"
   },
   {
@@ -877,7 +720,7 @@
     "summary": "",
     "thumbnail": "thumbnails/q8o2cc.webp",
     "tags": [
-      "CGT"
+      "Grèves et syndicats"
     ],
     "analyzed_at": "2026-11-01T10:03:11.219495+00:00"
   },
@@ -899,57 +742,12 @@
     "summary": "Huit mois après avoir lancé une concertation sur \"habiter la ville de demain\" pour repenser l'aménagement après la Covid-19, la ministre du Logement Emmanuelle Wargon espère voir fleurir des logements collectifs qui renouent avec « l'intensité heureuse » tout en qualifiant les maisons individuelles de « non-sens…",
     "thumbnail": "thumbnails/q8j9zw.webp",
     "tags": [
+      "Environnement",
       "Covid-19",
-      "Logement Emmanuelle Wargon",
-      "Français"
-    ],
-    "analyzed_at": "2026-11-01T10:03:11.316855+00:00"
-  },
-  {
-    "id": "q84knr",
-    "title": "Un petit article amusant issu d'un journal ardéchois daté de septembre 1892.",
-    "url": "https://scontent-cdg2-1.xx.fbcdn.net/v/t1.6435-9/245170543_4245396408891424_4120217881204312405_n.jpg?_nc_cat=107&_nc_rgb565=1&ccb=1-5&_nc_sid=825194&_nc_ohc=aUx8yjmrJIcAX_ZhoEJ&_nc_ht=scontent-cdg2-1.xx&oh=df8faa9cac7cf920b6d16723c4cc0f9c&oe=618D66A5",
-    "permalink": "/r/france/comments/q84knr/un_petit_article_amusant_issu_dun_journal/",
-    "created_at": "2021-10-14T17:33:01+00:00",
-    "score": 313,
-    "num_comments": 7,
-    "subreddit": "france",
-    "author": "Polewix",
-    "flair": "",
-    "domain": "scontent-cdg2-1.xx.fbcdn.net",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/jb4Jh1RPENdlbM7ZU3QhFIKzUg1RNL9YPAli0xNfUuo.jpg?auto=webp&s=78c5d53d6094b94453c40e7b3e6322d1305f9ea4",
-    "ingested_at": "2026-11-01T09:59:42.048623+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/q84knr.webp",
-    "tags": [],
-    "analyzed_at": "2026-11-01T10:03:16.598135+00:00"
-  },
-  {
-    "id": "q7we52",
-    "title": "EDF remet au gouvernement polonais une offre préliminaire non-engageante pour la construction de 4 à 6 réacteurs EPR en Pologne, d'une capacité totale de 6,6 à 9,9 GWe",
-    "url": "https://www.edf.fr/groupe-edf/espaces-dedies/journalistes/tous-les-communiques-de-presse/edf-remet-au-gouvernement-polonais-une-offre-preliminaire-non-engageante-pour-la-construction-de-4-a-6-reacteurs-epr-en-pologne-d-une-capacite-totale-de-6-6-a-9-9-gwe",
-    "permalink": "/r/france/comments/q7we52/edf_remet_au_gouvernement_polonais_une_offre/",
-    "created_at": "2021-10-14T09:46:04+00:00",
-    "score": 283,
-    "num_comments": 111,
-    "subreddit": "france",
-    "author": "BobbyLapointe01",
-    "flair": "Économie",
-    "domain": "edf.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/l2yi-ly940vDa3Xqp0rdeRMPo9r74NQqXnXZ6n_Hk4I.jpg?auto=webp&s=c7e4f9da0c55e975c882ac4938908a0682bc01ce",
-    "ingested_at": "2026-11-01T09:59:42.048926+00:00",
-    "summary": "EDF remet au gouvernement polonais une offre préliminaire non-engageante pour la construction de 4 à 6 réacteurs EPR en Pologne, d'une capacité totale de 6,6 à 9,9 GWe",
-    "thumbnail": "thumbnails/q7we52.webp",
-    "tags": [
-      "EPR",
-      "EDF",
-      "Pologne",
-      "GWe",
+      "Logement",
       "Économie"
     ],
-    "analyzed_at": "2026-11-01T10:03:17.549682+00:00"
+    "analyzed_at": "2026-11-01T10:03:11.316855+00:00"
   },
   {
     "id": "q7k4od",
@@ -969,8 +767,8 @@
     "summary": "La philosophe constate que, concernant la défense de la laïcité, l'envie d'éviter les conflits conduit à un affaissement de nos réactions collectives. Le \"oui mais\" règne...",
     "thumbnail": "thumbnails/q7k4od.webp",
     "tags": [
-      "Zemmour",
-      "Société"
+      "Éric Zemmour",
+      "Laïcité"
     ],
     "analyzed_at": "2026-11-01T10:03:12.095820+00:00"
   },
@@ -991,13 +789,7 @@
     "ingested_at": "2026-11-01T09:59:42.049002+00:00",
     "summary": "Technologie : \"504 Gateway Time-out. Site et mail out\". Voici le message que lisent de manière tout à fait désespérée les clients d'OVH ce matin. Les clients de l'hébergeur signalent une coupure totale des services : bases de données, serveurs dédiés, sites internet.",
     "thumbnail": "thumbnails/q76enh.webp",
-    "tags": [
-      "OVH",
-      "Gateway Time-out",
-      "OVHCloud",
-      "Hébergement",
-      "Science"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:03:11.508979+00:00"
   },
   {
@@ -1018,36 +810,10 @@
     "summary": "La chambre haute a approuvé la proposition de loi visant à autoriser de nouveau le cumul d'un mandat local avec un mandat national, interdit depuis 2017.",
     "thumbnail": "thumbnails/q73ryn.webp",
     "tags": [
-      "Sénat",
-      "Parlement",
-      "Gérard Larcher",
-      "Hervé Marseille",
-      "Assemblée"
+      "Institutions",
+      "Gérard Larcher"
     ],
     "analyzed_at": "2026-11-01T10:03:12.661307+00:00"
-  },
-  {
-    "id": "q6ruma",
-    "title": "Site pour suivre en temps réel la position de tous les trains en France",
-    "url": "https://carto.graou.info/",
-    "permalink": "/r/france/comments/q6ruma/site_pour_suivre_en_temps_réel_la_position_de/",
-    "created_at": "2021-10-12T17:57:50+00:00",
-    "score": 216,
-    "num_comments": 58,
-    "subreddit": "france",
-    "author": "Messidor",
-    "flair": "Société",
-    "domain": "carto.graou.info",
-    "selftext": "",
-    "reddit_thumbnail": "",
-    "ingested_at": "2026-11-01T09:59:42.049596+00:00",
-    "summary": "",
-    "thumbnail": "",
-    "tags": [
-      "GRAOU",
-      "Société"
-    ],
-    "analyzed_at": "2026-11-01T10:03:12.550987+00:00"
   },
   {
     "id": "q6o8wn",
@@ -1066,13 +832,7 @@
     "ingested_at": "2026-11-01T09:59:42.049623+00:00",
     "summary": "La ministre des Armées Florence Parly a annoncé la nouvelle ce mardi au sénat.",
     "thumbnail": "thumbnails/q6o8wn.webp",
-    "tags": [
-      "Hubert Germain",
-      "Libération",
-      "Parisien",
-      "Armées Florence Parly",
-      "Soft paywall"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:03:12.326502+00:00"
   },
   {
@@ -1093,63 +853,9 @@
     "summary": "The member states argue the current energy crunch, which has sent electricity prices soaring, makes the case for nuclear as an affordable, low-carbon energy source. #EuropeNews",
     "thumbnail": "thumbnails/q66q0d.webp",
     "tags": [
-      "EU",
-      "Brussels",
-      "European Commission",
-      "Commission",
-      "Écologie"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T10:03:12.884478+00:00"
-  },
-  {
-    "id": "q6114m",
-    "title": "Dix pays européens, dont la France, font un plaidoyer pour le nucléaire",
-    "url": "https://www.linfodurable.fr/politique/dix-pays-europeens-dont-la-france-font-un-plaidoyer-pour-le-nucleaire-29017",
-    "permalink": "/r/france/comments/q6114m/dix_pays_européens_dont_la_france_font_un/",
-    "created_at": "2021-10-11T17:30:52+00:00",
-    "score": 262,
-    "num_comments": 65,
-    "subreddit": "france",
-    "author": "wisi_eu",
-    "flair": "Écologie",
-    "domain": "linfodurable.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/VkisTtPGsKG2VHiXCKNsMb2wX-YoBcyocT31jgRvRL0.jpg?auto=webp&s=0ae5c154ba8081112d4a24158008383a79ada964",
-    "ingested_at": "2026-11-01T09:59:42.049100+00:00",
-    "summary": "Dix Etats membres de l'Union européenne, dont la France, ont publié dimanche une tribune soutenant l'énergie nucléaire, soulignant notamment qu'elle a un rôle à jouer contre le réchauffement climatique.",
-    "thumbnail": "thumbnails/q6114m.webp",
-    "tags": [
-      "Dix Etats",
-      "Union",
-      "Écologie"
-    ],
-    "analyzed_at": "2026-11-01T10:03:12.917547+00:00"
-  },
-  {
-    "id": "q5yyyj",
-    "title": "Le champion olympique Tom Daley appelle les Jeux Olympiques 2024 (à Paris) à refuser la participation des pays qui punissent l’homosexualité par la mort.",
-    "url": "https://www.google.com/amp/s/www.lalibre.be/sports/omnisports/2021/10/11/le-plongeur-britannique-tom-daley-veut-faire-interdire-de-jo-les-pays-ou-lhomosexualite-est-passible-de-peine-de-mort-4GFMA5EXLBCLLGYWPEMW7GVZBE/%3foutputType=amp",
-    "permalink": "/r/france/comments/q5yyyj/le_champion_olympique_tom_daley_appelle_les_jeux/",
-    "created_at": "2021-10-11T15:57:37+00:00",
-    "score": 802,
-    "num_comments": 144,
-    "subreddit": "france",
-    "author": "gherm4n",
-    "flair": "",
-    "domain": "google.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/h5x9kVHf9WMw6Y2aC2KLhP9RRbhDRNrBub3MWXVwt1c.jpeg?auto=webp&s=e31d232634bc16b77daf58a4d7784036216e2da4",
-    "ingested_at": "2026-11-01T09:59:42.047900+00:00",
-    "summary": "Le champion olympique Tom Daley veut lutter contre les discriminations envers la communauté LGBTQ+ en collaboration avec le Comité international...",
-    "thumbnail": "thumbnails/q5yyyj.webp",
-    "tags": [
-      "Tom Daley",
-      "Paris",
-      "Jeux Olympiques 2024",
-      "LGBTQ",
-      "Comité"
-    ],
-    "analyzed_at": "2026-11-01T10:03:14.767532+00:00"
   },
   {
     "id": "q5wuni",
@@ -1169,11 +875,7 @@
     "summary": "Mardi, Emmanuel Macron dévoilera un plan d'investissement pour se projeter vers 2030 et abordera le sujet du nucléaire.",
     "thumbnail": "thumbnails/q5wuni.webp",
     "tags": [
-      "EPR",
-      "Emmanuel Macron",
-      "Bernard Accoyer et Michel Simon",
-      "Patrimoine Nucléaire et Climat",
-      "Jean-Pierre Pervès"
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T10:03:13.395806+00:00"
   },
@@ -1195,10 +897,9 @@
     "summary": "Les technologies de surveillance à distance basées sur l'IA, telles que la reconnaissance faciale, ont d'énormes implications pour les droits et libertés fondamentaux tels que la vie privée, mais elles sont déjà de plus en plus utilisées dans le public en Europe.",
     "thumbnail": "thumbnails/q5ucz6.webp",
     "tags": [
-      "Parlement",
-      "IA",
-      "Europe",
-      "Société"
+      "Police",
+      "Intelligence artificielle",
+      "Union européenne"
     ],
     "analyzed_at": "2026-11-01T10:03:13.207024+00:00"
   },
@@ -1220,11 +921,8 @@
     "summary": "Ã quelques mois de l'Ã©lection prÃ©sidentielle, rares sont les candidats Ã s'opposer au nuclÃ©aire en France. La tendance est mÃªme inverse : beaucoup, Emmanuel Macron en tÃªte, ont une posture pro-nuclÃ©aire en pleine crise du coÃ»t de l'Ã©nergie et du rÃ©chauffement climatique.",
     "thumbnail": "thumbnails/q5re0m.webp",
     "tags": [
-      "Emmanuel Macron",
-      "Ãconomie",
       "Environnement",
-      "Consommation",
-      "Écologie"
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T10:03:14.152825+00:00"
   },
@@ -1246,10 +944,7 @@
     "summary": "Agnès Pannier-Runacher a estimé le 7 octobre dernier que \"la fierté de travailler dans l’usine\" n'était \"pas une punition\".",
     "thumbnail": "thumbnails/q5npps.webp",
     "tags": [
-      "Industrie",
-      "Agnès Pannier-Runacher",
-      "Politique",
-      "Usine"
+      "Agnès Pannier-Runacher"
     ],
     "analyzed_at": "2026-11-01T10:03:13.620714+00:00"
   },
@@ -1271,11 +966,7 @@
     "summary": "Après avoir reçu des menaces, insultes et violences verbales, la salle de spectacle a décidé d’annuler les représentations de l’humoriste.",
     "thumbnail": "thumbnails/q56wob.webp",
     "tags": [
-      "Gaëtan Matis",
-      "Point Virgule",
-      "Zemmour et le Bataclan",
-      "Éric Zemmour",
-      "Société"
+      "Éric Zemmour"
     ],
     "analyzed_at": "2026-11-01T10:03:13.703455+00:00"
   },
@@ -1297,11 +988,7 @@
     "summary": "Selon une étude réalisée par l’Ifop, une écrasante majorité d’habitants de Paris est mécontente de la propreté de la ville. Les résultats sont sans appel.",
     "thumbnail": "thumbnails/q5359i.webp",
     "tags": [
-      "Ifop",
-      "SaccageParis",
-      "Paris",
-      "Anne Hidalgo",
-      "Société"
+      "Anne Hidalgo"
     ],
     "analyzed_at": "2026-11-01T10:03:19.954137+00:00"
   },
@@ -1322,13 +1009,7 @@
     "ingested_at": "2026-11-01T09:59:42.050002+00:00",
     "summary": "À l'occasion des 30 ans de Linux, retour sur une épopée française fulgurante couronnée de succès à l'international : Mandrake. Une histoire pleine de rebondissements racontée par ses trois fondateurs, Frédéric Bastok, Gaël Duval et Jacques Le Marois.",
     "thumbnail": "thumbnails/q4rlty.webp",
-    "tags": [
-      "Linux",
-      "Mandrake",
-      "Frédéric Bastok",
-      "Gaël Duval et Jacques le Marois",
-      "Jacques le Marois"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:03:14.205679+00:00"
   },
   {
@@ -1348,11 +1029,7 @@
     "ingested_at": "2026-11-01T09:59:42.050027+00:00",
     "summary": "En minorité, les étudiantes qui vivent sur place dans des résidences mixtes se plaignent d’être sans cesse obligées d’être sur la défensive lors de soirées alcoolisées qui peuvent vite déraper.",
     "thumbnail": "thumbnails/q4f1ma.webp",
-    "tags": [
-      "CentraleSupélec",
-      "Anne",
-      "Esther"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:03:19.972190+00:00"
   },
   {
@@ -1372,12 +1049,7 @@
     "ingested_at": "2026-11-01T09:59:42.048568+00:00",
     "summary": "Un décret précise les modalités concernant le blocage de certains sites pornographiques, s'ils ne vérifient pas correctement l'âge des internautes. Les fournisseurs d'accès à Internet devront les rediriger sur le site du CSA. C'est une publication qui tombe à point nommé. Alors que doit être rendu ce 8 octobre un",
     "thumbnail": "thumbnails/q3unug.webp",
-    "tags": [
-      "CSA",
-      "DNS",
-      "Internet",
-      "PornHub"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:03:14.712400+00:00"
   },
   {
@@ -1398,11 +1070,7 @@
     "summary": "DIPLOMATIE - Malgré l'opposition de Pékin, Alain Richard et trois autres parlementaires français se sont rendus à Taïwan pour une visite de cinq jours. À la fin d'une brève allocution, le sénateur a qualifié l'île de \"pays\", ce qui pourrait à nouveau irriter la Chine.",
     "thumbnail": "thumbnails/q3nn1d.webp",
     "tags": [
-      "Pékin",
-      "Alain Richard",
-      "Taïwan",
-      "Chine",
-      "Société"
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T10:03:15.337057+00:00"
   },
@@ -1423,10 +1091,7 @@
     "ingested_at": "2026-11-01T09:59:42.048753+00:00",
     "summary": "Eurosport est votre source privilégiée pour les dernières mises à jour des matches de Ligue des Nations - Finales. Obtenez le résumé complet du Belgique - France, avec les statistiques et les temps forts.",
     "thumbnail": "thumbnails/q3i4ip.webp",
-    "tags": [
-      "Belgique",
-      "Ligue des Nations"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:03:16.849140+00:00"
   },
   {
@@ -1447,7 +1112,8 @@
     "summary": "",
     "thumbnail": "thumbnails/q3d6f1.webp",
     "tags": [
-      "Emmanuel Macron"
+      "Emmanuel Macron",
+      "Élection présidentielle"
     ],
     "analyzed_at": "2026-11-01T10:03:15.816261+00:00"
   },
@@ -1468,9 +1134,7 @@
     "ingested_at": "2026-11-01T09:59:42.049052+00:00",
     "summary": "",
     "thumbnail": "thumbnails/q35cqq.webp",
-    "tags": [
-      "CentraleSupélec"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:03:15.952538+00:00"
   },
   {
@@ -1490,11 +1154,7 @@
     "ingested_at": "2026-11-01T09:59:42.049295+00:00",
     "summary": "Les personnes déjà vaccinées ou disposant d'une ordonnance continueront de bénéficier de tests PCR et de tests antigéniques gratuits.",
     "thumbnail": "thumbnails/q34qlx.webp",
-    "tags": [
-      "PCR",
-      "Tests antigéniques",
-      "Tests PCR"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:03:17.116827+00:00"
   },
   {
@@ -1515,10 +1175,8 @@
     "summary": "VIDÉO. Le député et chef d’entreprise, épinglé pour ses liens avec une structure aux Seychelles, assure avoir été « victime d’une usurpation d’identité en 2010 ».",
     "thumbnail": "thumbnails/q2jffx.webp",
     "tags": [
-      "Pandora Papers",
-      "LREM Sylvain Maillard",
-      "Seychelles",
-      "Sylvain Maillard"
+      "Institutions",
+      "Budget et fiscalité"
     ],
     "analyzed_at": "2026-11-01T10:03:16.434430+00:00"
   },
@@ -1539,11 +1197,7 @@
     "ingested_at": "2026-11-01T09:59:42.048272+00:00",
     "summary": "C’est le genre de situation à provoquer des calvities précoces. Ce matin, un torrent de 125 Go contenant « l’intégralité de Twitch », comme le titre Video Games Chronicle, a été posté sur 4chan.",
     "thumbnail": "thumbnails/q2hdc5.webp",
-    "tags": [
-      "Twitch",
-      "Go",
-      "Video Games Chronicle"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:03:17.444010+00:00"
   },
   {
@@ -1563,13 +1217,7 @@
     "ingested_at": "2026-11-01T09:59:42.049439+00:00",
     "summary": "Le rapport Sauvé, réalisé avec l'Inserm, dévoile non seulement le nombre de victimes dans l'Église, mais aussi dans la société française. Les chiffres sont glaçants.",
     "thumbnail": "thumbnails/q2fi3a.webp",
-    "tags": [
-      "Sauvé",
-      "Église",
-      "Inserm",
-      "Abus sexuels",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:03:17.089152+00:00"
   },
   {
@@ -1590,7 +1238,7 @@
     "summary": "",
     "thumbnail": "thumbnails/q2ecc4.webp",
     "tags": [
-      "Société"
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T10:03:17.500682+00:00"
   },
@@ -1611,11 +1259,7 @@
     "ingested_at": "2026-11-01T09:59:42.048016+00:00",
     "summary": "Makram Akrout, boulanger tunisien naturalisé, est devenu en 2021 le lauréat de la «meilleure baguette de Paris». Mais d'anciens posts hostiles à la France ont refait surface.",
     "thumbnail": "thumbnails/q1wdkx.webp",
-    "tags": [
-      "Paris",
-      "Élysée",
-      "Makram Akrout"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:03:17.921984+00:00"
   },
   {
@@ -1635,10 +1279,7 @@
     "ingested_at": "2026-11-01T09:59:42.048246+00:00",
     "summary": "Pour avoir oublié un « s » dans l’orthographe du village aveyronnais où ils devaient jouer, les footballeurs tarbais sont éliminés de la Coupe de France",
     "thumbnail": "thumbnails/q1sswx.webp",
-    "tags": [
-      "Coupe de France",
-      "Tarbes"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:03:17.683501+00:00"
   },
   {
@@ -1659,11 +1300,7 @@
     "summary": "Fruit de deux ans et demi d'enquête, le rapport Sauvé, présenté mardi matin lors d'une conférence de presse, estime qu'entre 2 900 et 3 200 prêtres ou religieux pédocriminels ont sévi dans l'Eglise en France depuis près de 70 ans.",
     "thumbnail": "thumbnails/q1rkgr.webp",
     "tags": [
-      "Eglise",
-      "Sauvé",
-      "Jean-Marc Sauvé",
-      "Pédocriminalité dans l'Eglise",
-      "Société"
+      "Violences sexuelles"
     ],
     "analyzed_at": "2026-11-01T10:03:17.866761+00:00"
   },
@@ -1685,37 +1322,9 @@
     "summary": "Dans le Vieux-Lille, un prêtre et trois de ses amis ont été pris à partie par un groupe de jeunes \"Génération Zemmour\", ce samedi vers minuit. Sur Twitter, le religieux raconte son agression.",
     "thumbnail": "thumbnails/q1p1i5.webp",
     "tags": [
-      "Génération Zemmour",
-      "Twitter",
-      "Vieux-Lille",
-      "Lille",
-      "Fait Divers"
+      "Éric Zemmour"
     ],
     "analyzed_at": "2026-11-01T10:03:18.033654+00:00"
-  },
-  {
-    "id": "q112ej",
-    "title": "Bernard Tapie ne mérite pas d’hommage",
-    "url": "https://debian-economist.eu/wp/?p=1039",
-    "permalink": "/r/france/comments/q112ej/bernard_tapie_ne_mérite_pas_dhommage/",
-    "created_at": "2021-10-04T08:02:49+00:00",
-    "score": 512,
-    "num_comments": 177,
-    "subreddit": "france",
-    "author": "maltesto",
-    "flair": "Politique",
-    "domain": "debian-economist.eu",
-    "selftext": "",
-    "reddit_thumbnail": "",
-    "ingested_at": "2026-11-01T09:59:42.048072+00:00",
-    "summary": "Les hommages pour le délinquant en col blanc décédé qu’était Bernard Tapie, aka Nanard. Passons en revue ces différents hommages. Bernard Tapie s'en est allé. Je pense à son épouse, ses enfants et ses proches. Par delà nos divergences, je salue son énergie inouïe, y compris dans son combat contre la maladie.",
-    "thumbnail": "",
-    "tags": [
-      "Bernard Tapie",
-      "OM",
-      "Politique"
-    ],
-    "analyzed_at": "2026-11-01T10:03:18.242869+00:00"
   },
   {
     "id": "q10qgw",
@@ -1735,11 +1344,7 @@
     "summary": "En France, le passe sanitaire est devenu indispensable depuis cet été pour accéder à de nombreux lieux publics. Lexa, 25 ans, farouchement opposée à la vaccination, a décidé de contourner les règles…",
     "thumbnail": "thumbnails/q10qgw.webp",
     "tags": [
-      "Covid-19",
-      "Snapchat",
-      "Passe sanitaire",
-      "Réseaux sociaux",
-      "Fait Divers"
+      "Covid-19"
     ],
     "analyzed_at": "2026-11-01T10:03:17.948440+00:00"
   },
@@ -1761,7 +1366,8 @@
     "summary": "À six mois de l'élection présidentielle , le nucléaire semble bien parti pour être l'un des enjeux majeurs de la campagne. Une filière dans laquelle la France",
     "thumbnail": "thumbnails/q1062i.webp",
     "tags": [
-      "Emmanuel Macron"
+      "Emmanuel Macron",
+      "Énergie"
     ],
     "analyzed_at": "2026-11-01T10:03:18.311003+00:00"
   },
@@ -1782,13 +1388,7 @@
     "ingested_at": "2026-11-01T09:59:42.048530+00:00",
     "summary": "Au lendemain d'une agression gratuite à proximité de la place des Terreaux à Lyon, un couple de Lyonnais pousse un coup de gueule contre la violence dans la rue. Témoignage.",
     "thumbnail": "thumbnails/q0zyso.webp",
-    "tags": [
-      "Emma",
-      "Lyon",
-      "Terreaux",
-      "Lyonnais",
-      "Fait Divers"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:03:18.391278+00:00"
   },
   {
@@ -1808,13 +1408,7 @@
     "ingested_at": "2026-11-01T09:59:42.048324+00:00",
     "summary": "La nouvelle enquête du Consortium international des journalistes d’investigation (ICIJ) et ses partenaires, dont la cellule investigation de Radio France, démontre que de nombreuses personnalités fortunées échappent toujours à l’impôt en ayant recours aux paradis fiscaux.",
     "thumbnail": "thumbnails/q0llx4.webp",
-    "tags": [
-      "Pandora Papers",
-      "ICIJ",
-      "Consortium",
-      "Radio France",
-      "Îles Vierges"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:03:18.364816+00:00"
   },
   {
@@ -1835,37 +1429,9 @@
     "summary": "INFO LE FIGARO - Cette décision intervient après le rappel, samedi, de l'ambassadeur algérien en France, en réaction à des propos jugés «irresponsables» d'Emmanuel Macron.",
     "thumbnail": "thumbnails/q0gfri.webp",
     "tags": [
-      "Emmanuel Macron",
-      "Algérie",
-      "Abdelmadjid Tebboune",
-      "Opération Barkhane",
-      "FIGARO"
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T10:03:18.983608+00:00"
-  },
-  {
-    "id": "q0e0aw",
-    "title": "Paradis fiscaux. \"Pandora Papers\" : la nouvelle enquête explosive qui fait trembler le Panama",
-    "url": "https://www.lejsl.com/faits-divers-justice/2021/10/03/pandora-papers-la-nouvelle-enquete-explosive-qui-fait-trembler-le-panama",
-    "permalink": "/r/france/comments/q0e0aw/paradis_fiscaux_pandora_papers_la_nouvelle/",
-    "created_at": "2021-10-03T08:48:50+00:00",
-    "score": 299,
-    "num_comments": 36,
-    "subreddit": "france",
-    "author": "BoeufCarottes",
-    "flair": "Actus",
-    "domain": "lejsl.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/isrof43xnr1YweJg7kObUIppmqdLry_Vl54LcXs4Npw.jpg?auto=webp&s=376f447224dd6b395e7b39987f895e36d66220c5",
-    "ingested_at": "2026-11-01T09:59:42.048778+00:00",
-    "summary": "L'enquête dite des \"Pandora Papers\" qui doit être publiée ce dimanche soir, fruit du travail de plus de 600 journalistes dans 117 pays, effraye le Panama qui dit que \"les dommages pourraient être insurmontables\" concernant le pays, paradis fiscal, après les révélations.",
-    "thumbnail": "thumbnails/q0e0aw.webp",
-    "tags": [
-      "Panama",
-      "Pandora Papers",
-      "ICIJ"
-    ],
-    "analyzed_at": "2026-11-01T10:03:19.266555+00:00"
   },
   {
     "id": "q0d59p",
@@ -1884,9 +1450,7 @@
     "ingested_at": "2026-11-01T09:59:42.048504+00:00",
     "summary": "L'individu avait également menacé la police dans d'autres vidéos. Interpellé dimanche, il a finalement été relâché ce lundi, écopant d'un simple stage de citoyenneté.",
     "thumbnail": "thumbnails/q0d59p.webp",
-    "tags": [
-      "Fait Divers"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:03:19.466017+00:00"
   },
   {
@@ -1906,9 +1470,7 @@
     "ingested_at": "2026-11-01T09:59:42.047959+00:00",
     "summary": "",
     "thumbnail": "thumbnails/q0d1wu.webp",
-    "tags": [
-      "Bernard Tapie"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:03:18.937841+00:00"
   },
   {
@@ -1928,12 +1490,7 @@
     "ingested_at": "2026-11-01T09:59:42.049173+00:00",
     "summary": "EXCLUSIF. L’admirateur d’Adolf Hitler, âgé de 19 ans, victime de harcèlement scolaire dans son enfance, voulait commettre un massacre en s’a",
     "thumbnail": "thumbnails/pzzxc1.webp",
-    "tags": [
-      "Columbine",
-      "DGSI",
-      "Hitler",
-      "Adolf Hitler"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:03:18.773863+00:00"
   },
   {
@@ -1953,9 +1510,7 @@
     "ingested_at": "2026-11-01T09:59:42.047987+00:00",
     "summary": "La reprise économique post-Covid accentue les tensions sur le marché de l'emploi avec des entreprises qui peinent à recruter malgré un taux de chômage à 8%. Sans nier les problèmes structurels de formation, la Dares qui s'est penchée sur ce phénomène pointe avant tout le \"manque d'attractivité d'une...",
     "thumbnail": "thumbnails/pzv92b.webp",
-    "tags": [
-      "Dares"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:03:18.997925+00:00"
   },
   {
@@ -1976,11 +1531,7 @@
     "summary": "Un jeune homme de 24 ans a été condamné jeudi 30 septembre à dix mois de prison avec sursis par le tribunal correctionnel de Paris pour avoir menacé...",
     "thumbnail": "thumbnails/pz44qw.webp",
     "tags": [
-      "Affaire Mila",
-      "Mila",
-      "Cyberharcèlement",
-      "Menaces de mort",
-      "Paris"
+      "Justice"
     ],
     "analyzed_at": "2026-11-01T10:03:20.120059+00:00"
   },
@@ -2001,13 +1552,7 @@
     "ingested_at": "2026-11-01T09:59:42.048678+00:00",
     "summary": "Recherché depuis 35 ans, soupçonné de six viols et quatre meurtres entre 1986 et 1994, François Vérove devait être entendu mercredi. Selon les informations de franceinfo, il a laissé une lettre d'aveux.",
     "thumbnail": "thumbnails/pz1wvp.webp",
-    "tags": [
-      "ADN",
-      "Gard",
-      "François Vérove",
-      "Paris",
-      "Faits-divers"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:03:19.371792+00:00"
   }
 ]

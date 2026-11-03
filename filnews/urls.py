@@ -21,7 +21,14 @@ urlpatterns = [
     path("tags/<slug:slug>/", views.tag_detail, name="tag_detail"),
     path("tags/<slug:slug>/timeline/", views.tag_timeline, name="tag_timeline"),
     path("tags/<slug:slug>/<int:year>/", views.tag_detail, name="tag_year"),
+    path("presidentielle-2027/", views.election, name="election"),
+    path(
+        "presidentielle-2027/<slug:slug>/",
+        views.election_candidate,
+        name="election_candidate",
+    ),
     path("a-propos/", views.about, name="about"),
+    path("mentions-legales/", views.legal, name="legal"),
     path("rss.xml", NewsFeed(), name="rss"),
     path(
         "sitemap.xml",

@@ -17,7 +17,7 @@
     "summary": "",
     "thumbnail": "thumbnails/t3t0sz.webp",
     "tags": [
-      "Conseil"
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T10:08:13.661195+00:00"
   },
@@ -40,10 +40,7 @@
     "thumbnail": "thumbnails/t3n0oa.webp",
     "tags": [
       "François Fillon",
-      "Républicains",
-      "Les Républicains",
-      "Élection présidentielle",
-      "Politique"
+      "Élection présidentielle"
     ],
     "analyzed_at": "2026-11-01T10:08:17.345981+00:00"
   },
@@ -65,11 +62,8 @@
     "summary": "\"Il s'agit d'une mesure de grande ampleur par la Suisse\", a dit le président lundi lors d'un point-presse, ajoutant que le Conseil fédéral faisait \"ce pas avec conviction, de manière réfléchie et sans équivoque\".",
     "thumbnail": "thumbnails/t3jv03.webp",
     "tags": [
-      "Russie",
-      "Union",
-      "Vladimir Poutine",
-      "Conseil",
-      "Europe"
+      "Union européenne",
+      "Vladimir Poutine"
     ],
     "analyzed_at": "2026-11-01T10:08:14.052576+00:00"
   },
@@ -91,10 +85,7 @@
     "summary": "Les scientifiques publient lundi le deuxième volet de leur sixième rapport. Cette partie aborde les effets du changement climatique sur les sociétés humaines et les écosystèmes, ainsi que les moyens de s'y adapter.",
     "thumbnail": "thumbnails/t3djxd.webp",
     "tags": [
-      "Giec",
-      "Crise climatique",
-      "Monde",
-      "Les choix de la rédaction"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T10:08:14.544247+00:00"
   },
@@ -116,11 +107,9 @@
     "summary": "Le président ukrainien Volodymyr Zelensky a exhorté lundi l'Union européenne à intégrer sans délai son pays qui combat depuis cinq jours une invasion russe.",
     "thumbnail": "thumbnails/t3d7i1.webp",
     "tags": [
-      "UE",
-      "Volodymyr Zelensky",
-      "Union",
-      "Monde",
-      "Société"
+      "Union européenne",
+      "Guerre en Ukraine",
+      "Volodymyr Zelensky"
     ],
     "analyzed_at": "2026-11-01T10:08:14.573361+00:00"
   },
@@ -142,11 +131,10 @@
     "summary": "\"Poutine ne veut pas seulement conquérir le terrain, il veut aussi conquérir les esprits\", a estimé le vice-président de la Commission européenne, Josep Borrell.",
     "thumbnail": "thumbnails/t2s7zs.webp",
     "tags": [
-      "Russia Today et Sputnik",
-      "UE",
-      "Ukraine",
-      "Commission",
-      "Josep Borrell"
+      "Union européenne",
+      "Guerre en Ukraine",
+      "Médias",
+      "Vladimir Poutine"
     ],
     "analyzed_at": "2026-11-01T10:08:14.479887+00:00"
   },
@@ -168,37 +156,10 @@
     "summary": "La \"force de dissuasion\" de l'armée russe peut comprendre une composante nucléaire.",
     "thumbnail": "thumbnails/t2o7oa.webp",
     "tags": [
-      "Ukraine",
       "Vladimir Poutine",
-      "Russie"
+      "Guerre en Ukraine"
     ],
     "analyzed_at": "2026-11-01T10:08:14.505645+00:00"
-  },
-  {
-    "id": "t243b1",
-    "title": "Le processus pour retirer la Russie du SWIFT a commencé",
-    "url": "https://www.uawire.org/kyiv-full-consensus-for-disconnecting-russia-from-swift-has-been-achieved-the-process-has-begun",
-    "permalink": "/r/france/comments/t243b1/le_processus_pour_retirer_la_russie_du_swift_a/",
-    "created_at": "2022-02-26T18:48:19+00:00",
-    "score": 337,
-    "num_comments": 85,
-    "subreddit": "france",
-    "author": "Papytho",
-    "flair": "",
-    "domain": "uawire.org",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/mpfX_Wc4SOl9EW6zi0pA39U51DVfgCQhuCFhw8ZaYX0.png?auto=webp&s=d40c65e4c528e728c993b3ccd8930d661b680064",
-    "ingested_at": "2026-11-01T10:05:35.041963+00:00",
-    "summary": "Russia will be disconnected from the international payment system SWIFT. The official decision has not yet been formalized, but technical preparations for the adoption and implementation of this step have already begun, said Ukrainian Foreign Minister Dmytro Kuleba on his Facebook page.",
-    "thumbnail": "thumbnails/t243b1.webp",
-    "tags": [
-      "Russie du SWIFT",
-      "SWIFT",
-      "Ukrainian Foreign Minister Dmytro Kuleba",
-      "Facebook",
-      "All Ukrainian"
-    ],
-    "analyzed_at": "2026-11-01T10:08:16.517639+00:00"
   },
   {
     "id": "t1seh1",
@@ -217,10 +178,7 @@
     "ingested_at": "2026-11-01T10:05:35.040839+00:00",
     "summary": "",
     "thumbnail": "thumbnails/t1seh1.webp",
-    "tags": [
-      "Vladoche",
-      "Méta"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:08:15.080881+00:00"
   },
   {
@@ -241,11 +199,7 @@
     "summary": "L’invasion en Ukraine pourrait pousser Berlin à remettre en cause plus vite que prévu son partenariat énergétique avec la Russie. « La dépendance au gaz russe est devenue trop grande », reconnaît le nouveau chef de la CDU.",
     "thumbnail": "thumbnails/t1roh0.webp",
     "tags": [
-      "Russie",
-      "Allemagne",
-      "Ukraine",
-      "Berlin",
-      "CDU"
+      "Guerre en Ukraine"
     ],
     "analyzed_at": "2026-11-01T10:08:15.070719+00:00"
   },
@@ -268,10 +222,7 @@
     "thumbnail": "thumbnails/t18c9u.webp",
     "tags": [
       "François Fillon",
-      "Ukraine",
-      "JDD",
-      "Premier",
-      "Sibur"
+      "Guerre en Ukraine"
     ],
     "analyzed_at": "2026-11-01T10:08:15.103810+00:00"
   },
@@ -294,10 +245,7 @@
     "thumbnail": "thumbnails/t181ym.webp",
     "tags": [
       "François Fillon",
-      "Russie",
-      "Poutine",
-      "Ukraine",
-      "Politique"
+      "Vladimir Poutine"
     ],
     "analyzed_at": "2026-11-01T10:08:15.518010+00:00"
   },
@@ -339,9 +287,7 @@
     "summary": "Après la mort accidentelle d'une randonneuse tuée par une balle perdue lors d'une battue, une publication très virale assimile les panneaux de signalisation \"chasse en cours\" à une obligation, pour les promeneurs, de changer d'itinéraire.",
     "thumbnail": "thumbnails/t12von.webp",
     "tags": [
-      "AFP",
-      "Transition",
-      "Société"
+      "Cause animale"
     ],
     "analyzed_at": "2026-11-01T10:08:27.136529+00:00"
   },
@@ -363,8 +309,7 @@
     "summary": "",
     "thumbnail": "thumbnails/t11t2n.webp",
     "tags": [
-      "GIGN",
-      "Kiev"
+      "Guerre en Ukraine"
     ],
     "analyzed_at": "2026-11-01T10:08:15.806906+00:00"
   },
@@ -386,8 +331,6 @@
     "summary": "Les deux anciens chefs de gouvernements français et allemand reconvertis dans les affaires en Russie n'ont pas l'intention d'abandonner leurs postes à la différence de leurs homologues italiens et autrichiens.",
     "thumbnail": "thumbnails/t0jq9n.webp",
     "tags": [
-      "Russie",
-      "Schröder",
       "François Fillon"
     ],
     "analyzed_at": "2026-11-01T10:08:16.318135+00:00"
@@ -410,9 +353,10 @@
     "summary": "",
     "thumbnail": "thumbnails/t0ijaz.webp",
     "tags": [
-      "Eric Zemmour et Marine le Pen",
+      "Éric Zemmour",
       "Vladimir Poutine",
-      "Ukraine"
+      "Guerre en Ukraine",
+      "Marine Le Pen"
     ],
     "analyzed_at": "2026-11-01T10:08:16.221385+00:00"
   },
@@ -434,11 +378,7 @@
     "summary": "INFO LE FIGARO - Le président de sa commission Culture, Laurent Lafon, a envoyé un courrier au président du régulateur audiovisuel, Roch-Olivier Maistre.",
     "thumbnail": "thumbnails/t0bga2.webp",
     "tags": [
-      "Russia Today",
-      "Sénat",
-      "Arcom",
-      "Russie",
-      "Politique"
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T10:08:18.994804+00:00"
   },
@@ -460,10 +400,7 @@
     "summary": "Après avoir causé un accident en état d'ébriété, le pilote d'un scooter récalcitrant s'en était pris à un gendarme en criant chat-bite en joignant le geste à la parole. Lors de sa comparution immédiate devant le tribunal correctionnel dans le Gard, il a été condamné pour outrage sur une personne dép",
     "thumbnail": "thumbnails/t06pj1.webp",
     "tags": [
-      "Gard",
-      "Société",
-      "Insolite",
-      "Fait Divers"
+      "Police"
     ],
     "analyzed_at": "2026-11-01T10:08:16.819064+00:00"
   },
@@ -485,36 +422,9 @@
     "summary": "",
     "thumbnail": "thumbnails/t03p8w.webp",
     "tags": [
-      "Megathread Ukraine",
-      "Monde"
+      "Guerre en Ukraine"
     ],
     "analyzed_at": "2026-11-01T10:08:16.671616+00:00"
-  },
-  {
-    "id": "szm7mo",
-    "title": "France drops Australia from list of key Indo-Pacific partners.",
-    "url": "https://www.deccanherald.com/international/world-news-politics/france-drops-australia-from-list-of-key-indo-pacific-partners-1084285.html",
-    "permalink": "/r/france/comments/szm7mo/france_drops_australia_from_list_of_key/",
-    "created_at": "2022-02-23T17:00:07+00:00",
-    "score": 287,
-    "num_comments": 60,
-    "subreddit": "france",
-    "author": "king_bardock",
-    "flair": "Politique",
-    "domain": "deccanherald.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/4hc73TzsvQ6Q7M-5Hg_RqG1ltOzRjqWvwoqGVfyAg5s.jpeg?auto=webp&s=85e45ce060d26471d6c64de2bd3c208dcf1e9ebd",
-    "ingested_at": "2026-11-01T10:05:35.042319+00:00",
-    "summary": "France, a resident power in the Indo-Pacific, has said a degree of trust has been restored with the US but not with Australia",
-    "thumbnail": "thumbnails/szm7mo.webp",
-    "tags": [
-      "Australia",
-      "Indo-Pacific",
-      "US",
-      "Australia France",
-      "Politique"
-    ],
-    "analyzed_at": "2026-11-01T10:08:17.955480+00:00"
   },
   {
     "id": "szk4ca",
@@ -534,10 +444,8 @@
     "summary": "Une enquête de « Libération » menée sur le fichier des encartés Les Républicains révèle des « manœuvres frauduleuses » mises en œuvre pour faire augmenter le corps électoral du parti.",
     "thumbnail": "thumbnails/szk4ca.webp",
     "tags": [
-      "LR",
-      "Valérie Pécresse",
-      "Républicains",
-      "Elections"
+      "Élections",
+      "Valérie Pécresse"
     ],
     "analyzed_at": "2026-11-01T10:08:17.362890+00:00"
   },
@@ -559,11 +467,7 @@
     "summary": "Ils sont décédés, n’existent pas ou ne connaissent rien de LR et pourtant, ils ont quand même rejoint le mouvement juste avant la primaire. Nos journalistes ont mis au jour de nombreux adhérents fantômes ou fantoches.",
     "thumbnail": "thumbnails/szg3lp.webp",
     "tags": [
-      "Valérie Pécresse",
-      "LR",
-      "Election-presidentielle-2022",
-      "Primaire-droite-2022",
-      "Politique"
+      "Valérie Pécresse"
     ],
     "analyzed_at": "2026-11-01T10:08:19.255993+00:00"
   },
@@ -585,8 +489,7 @@
     "summary": "",
     "thumbnail": "thumbnails/syno00.webp",
     "tags": [
-      "Éric Zemmour",
-      "Bretagne"
+      "Éric Zemmour"
     ],
     "analyzed_at": "2026-11-01T10:08:22.809391+00:00"
   },
@@ -608,10 +511,7 @@
     "summary": "Jusqu'à présent, l'IVG n'était autorisé qu'en cas de viol, si la santé de la mère était en danger ou lorsque le fœtus présentait une malformation compromettant sa survie.",
     "thumbnail": "thumbnails/syi326.webp",
     "tags": [
-      "IVG",
-      "Colombie",
-      "Cour",
-      "Société"
+      "Droits des femmes"
     ],
     "analyzed_at": "2026-11-01T10:08:17.749275+00:00"
   },
@@ -633,11 +533,7 @@
     "summary": "Il n&rsquo;a pas fallu 24 heures aux enqu&ecirc;teurs pour retrouver l&rsquo;individu film&eacute; par Mila.",
     "thumbnail": "thumbnails/sxqgnu.webp",
     "tags": [
-      "Lyon",
-      "LyonMag",
-      "Rhône",
-      "Politique",
-      "Economique"
+      "Violences sexuelles"
     ],
     "analyzed_at": "2026-11-01T10:08:17.730236+00:00"
   },
@@ -658,11 +554,7 @@
     "ingested_at": "2026-11-01T10:05:35.040881+00:00",
     "summary": "L'association \"Demain sera non-fumeur\" appelle Ã bannir la cigarette des terrasses pour rÃ©duire le tabagisme passif. L'idÃ©e a dÃ©jÃ sÃ©duit une centaine de restaurateurs et cafetiers. Les grandes chaÃ®nes de restauration sont en train d'Ãªtre Ã leur tour dÃ©marchÃ©es.",
     "thumbnail": "thumbnails/sxp22d.webp",
-    "tags": [
-      "Ãªtre Ã",
-      "SociÃ©tÃ©",
-      "SantÃ©"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:08:19.604407+00:00"
   },
   {
@@ -683,8 +575,7 @@
     "summary": "Une enquête internationale menée par plusieurs médias assure que Crédit Suisse a hébergé pendant plusieurs décennies des dizaines de milliards d'euros de fonds d'origine criminelle ou illicite. L'établissement financier \"rejette fermement\" ces accusations.",
     "thumbnail": "thumbnails/sxi049.webp",
     "tags": [
-      "Crédit Suisse",
-      "Éco / Conso"
+      "Médias"
     ],
     "analyzed_at": "2026-11-01T10:08:18.086403+00:00"
   },
@@ -706,11 +597,7 @@
     "summary": "Les travaux du chercheur, mort vendredi à l'âge de 96 ans, ont ouvert la voie à l'utilisation de l'ARN messager dans les principaux vaccins utilisés contre le Covid-19.",
     "thumbnail": "thumbnails/sx73kx.webp",
     "tags": [
-      "ARN",
-      "François Gros",
-      "Covid-19",
-      "Découverte scientifique",
-      "Biologie - Génétique"
+      "Covid-19"
     ],
     "analyzed_at": "2026-11-01T10:08:18.343626+00:00"
   },
@@ -732,9 +619,7 @@
     "summary": "De 2009 à 2014, le dirigeant communiste a été rémunéré pour un temps plein par un député du Nord. Or le collaborateur ne travaillait pas à la permanence et des anciens collègues ne savent pas dire ce…",
     "thumbnail": "thumbnails/sx6d0i.webp",
     "tags": [
-      "Fabien Roussel",
-      "Assemblée",
-      "Nord"
+      "Fabien Roussel"
     ],
     "analyzed_at": "2026-11-01T10:08:18.398499+00:00"
   },
@@ -755,13 +640,7 @@
     "ingested_at": "2026-11-01T10:05:35.041072+00:00",
     "summary": "Ce samedi apr&egrave;s-midi, Mila se promenait dans Lyon, sur les Berges du Rh&ocirc;ne.",
     "thumbnail": "thumbnails/swy5em.webp",
-    "tags": [
-      "Lyon",
-      "Rhône",
-      "Mila",
-      "Berges du Rh",
-      "Fait Divers"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:08:18.653051+00:00"
   },
   {
@@ -782,9 +661,7 @@
     "summary": "Un accident de chasse s'est produit dans le Cantal, sur la commune de Cassaniouze, ce samedi 19 février aux alentours de 15 heures. Selon les premiers éléments, une randonneuse âgée de 25 ans a perdu la vie, touchée par une balle perdue tirée par une chasseuse.",
     "thumbnail": "thumbnails/swfzy1.webp",
     "tags": [
-      "Cassaniouze",
-      "Cantal",
-      "Faits divers"
+      "Cause animale"
     ],
     "analyzed_at": "2026-11-01T10:08:18.975777+00:00"
   },
@@ -805,13 +682,7 @@
     "ingested_at": "2026-11-01T10:05:35.041994+00:00",
     "summary": "Le Français était mis en examen pour « viol sur mineur » et placé sous le statut de témoin assisté pour « traite d’êtres humains ». Selon no",
     "thumbnail": "thumbnails/sw7e9j.webp",
-    "tags": [
-      "Jean-Luc Brunel",
-      "Affaire Epstein",
-      "Français",
-      "Jeffrey Epstein",
-      "Soft paywall"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:08:19.029207+00:00"
   },
   {
@@ -831,10 +702,7 @@
     "ingested_at": "2026-11-01T10:05:35.042460+00:00",
     "summary": "",
     "thumbnail": "thumbnails/sw5rlf.webp",
-    "tags": [
-      "Orpea",
-      "Ehpad"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:08:19.400426+00:00"
   },
   {
@@ -854,7 +722,9 @@
     "ingested_at": "2026-11-01T10:05:35.042988+00:00",
     "summary": "",
     "thumbnail": "thumbnails/svopgv.webp",
-    "tags": [],
+    "tags": [
+      "Covid-19"
+    ],
     "analyzed_at": "2026-11-01T10:08:19.375172+00:00"
   },
   {
@@ -875,38 +745,9 @@
     "summary": "La peine de l’écrivain gersois d’extrême droite, qui a notamment développé en France la thèse complotiste du « grand remplacement », a été réduite à un mois d’emprisonnement avec sursis, ce jeudi 17 février, par la chambre des appels correctionnels d’Agen",
     "thumbnail": "thumbnails/svizmd.webp",
     "tags": [
-      "Renaud Camus",
-      "Agen",
-      "Justice",
-      "Home",
-      "Thématiques"
+      "Justice"
     ],
     "analyzed_at": "2026-11-01T10:08:19.455869+00:00"
-  },
-  {
-    "id": "sum8qy",
-    "title": "Compte-rendu de cette tentative d'infiltration de Wikipedia par une équipe de Zemmour qui a réussi à débaucher l'un des plus gros contributeurs FR de",
-    "url": "https://fr.m.wikipedia.org/wiki/Wikip%C3%A9dia:Bulletin_des_administrateurs/2022/Semaine_7#Cellule_dissimul%C3%A9e_de_promotion_d'%C3%89ric_Zemmour_sur_Wikip%C3%A9dia",
-    "permalink": "/r/france/comments/sum8qy/compterendu_de_cette_tentative_dinfiltration_de/",
-    "created_at": "2022-02-17T11:03:59+00:00",
-    "score": 300,
-    "num_comments": 75,
-    "subreddit": "france",
-    "author": "pasjojo",
-    "flair": "Politique",
-    "domain": "fr.m.wikipedia.org",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/rIm1cdHYkeyAVNz1mWe0Fon_-mvFXMmvol8q3ShTa0k.jpg?auto=webp&s=f290fe71c525d2ac6e2e574bbc5341717dc76ec0",
-    "ingested_at": "2026-11-01T10:05:35.042178+00:00",
-    "summary": "Cette page est donc principalement destinée aux administrateurs et à leurs discussions entre eux , la page de discussion associée étant cependant à la disposition des autres contributeurs. Les nouveaux sujets sont placés en haut de ce bulletin, sous la date du jour.",
-    "thumbnail": "thumbnails/sum8qy.webp",
-    "tags": [
-      "Wikipedia",
-      "Zemmour",
-      "FR",
-      "Politique"
-    ],
-    "analyzed_at": "2026-11-01T10:08:20.937241+00:00"
   },
   {
     "id": "sujmfh",
@@ -926,7 +767,7 @@
     "summary": "",
     "thumbnail": "thumbnails/sujmfh.webp",
     "tags": [
-      "Zemmour"
+      "Éric Zemmour"
     ],
     "analyzed_at": "2026-11-01T10:08:19.695950+00:00"
   },
@@ -948,11 +789,7 @@
     "summary": "INFO LE PARISIEN. Visé par une information judiciaire, le naturopathe Thierry Casasnovas, adepte du jeûne et du crudivorisme, le régime alim",
     "thumbnail": "thumbnails/su2z4y.webp",
     "tags": [
-      "Thierry Casasnovas",
-      "YouTube",
-      "PARISIEN",
-      "Miviludes",
-      "Fait Divers"
+      "Police"
     ],
     "analyzed_at": "2026-11-01T10:08:19.949636+00:00"
   },
@@ -974,11 +811,7 @@
     "summary": "Des chercheurs chinois planchent sur la croissance des fœtus dans un utérus artificiel. Afin d’optimiser le système et le rendre autonome, ils ont mis au point une nounou basée sur une intelligence...",
     "thumbnail": "thumbnails/su1iza.webp",
     "tags": [
-      "Chine",
-      "IA",
-      "Intelligence artificielle",
-      "Utérus artificiel",
-      "Science"
+      "Intelligence artificielle"
     ],
     "analyzed_at": "2026-11-01T10:08:19.711446+00:00"
   },
@@ -1000,11 +833,7 @@
     "summary": "Le discours tenu par la candidate Les Républicains (LR) Valérie Pécresse lors de son meeting au Zénith de Paris ce 13 février a subi un déferlement de critiques. En cause notamment sa voix jugée mal placée et artificielle, selon bon nombre de commentaires sur les réseaux sociaux.",
     "thumbnail": "thumbnails/stx1os.webp",
     "tags": [
-      "Valérie Pécresse",
-      "Ve République",
-      "Pécresse",
-      "Zénith de Paris",
-      "Politique"
+      "Valérie Pécresse"
     ],
     "analyzed_at": "2026-11-01T10:08:20.455712+00:00"
   },
@@ -1026,11 +855,8 @@
     "summary": "Il était censé sécuriser les licenciements et lever pour les patrons la peur de l’embauche : le \"barème Macron\" a eu pour conséquence de limiter les dédommagements que touchent les salariés injustement licenciés, selon un travail de recherche mené par deux universitaires.",
     "thumbnail": "thumbnails/str27a.webp",
     "tags": [
-      "Macron",
-      "Emploi",
-      "Éco / Conso",
-      "Vie-professionnelle",
-      "Société"
+      "Emmanuel Macron",
+      "Travail"
     ],
     "analyzed_at": "2026-11-01T10:08:20.237751+00:00"
   },
@@ -1053,10 +879,8 @@
     "thumbnail": "thumbnails/stolic.webp",
     "tags": [
       "Emmanuel Macron",
-      "Capes",
       "Éducation",
-      "Enseignement",
-      "Politique"
+      "Travail"
     ],
     "analyzed_at": "2026-11-01T10:08:20.029510+00:00"
   },
@@ -1077,7 +901,10 @@
     "ingested_at": "2026-11-01T10:05:35.041100+00:00",
     "summary": "Mediapart s’est procuré l’enregistrement d’un message laissé par mégarde par un policier sur le répondeur d’une femme de 34 ans qui venait de porter plainte pour agression sexuelle. Il l’insulte à pl…",
     "thumbnail": "thumbnails/st2rqh.webp",
-    "tags": [],
+    "tags": [
+      "Police",
+      "Violences sexuelles"
+    ],
     "analyzed_at": "2026-11-01T10:08:20.930086+00:00"
   },
   {
@@ -1097,13 +924,7 @@
     "ingested_at": "2026-11-01T10:05:35.042498+00:00",
     "summary": "SAISON 2022 - Dans une interview donnée à la BBC, Novak Djokovic a, pour la première fois, publiquement reconnu qu'il n'était pas vacciné.",
     "thumbnail": "thumbnails/ssx5ob.webp",
-    "tags": [
-      "Novak Djokovic",
-      "Roland-Garros et Wimbledon",
-      "SAISON 2022",
-      "BBC",
-      "Sport"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:08:21.562442+00:00"
   },
   {
@@ -1123,10 +944,7 @@
     "ingested_at": "2026-11-01T10:05:35.041009+00:00",
     "summary": "Entre avril 2018 et septembre 2021, une thésarde a passé plusieurs nuits dans des laboratoires sensibles à Metz et Strasbourg, permettant à un de ses compatriotes d’y pénétrer. La DGSI s’inquiète des…",
     "thumbnail": "thumbnails/ssx0gv.webp",
-    "tags": [
-      "Metz et Strasbourg",
-      "DGSI"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:08:21.023250+00:00"
   },
   {
@@ -1147,8 +965,7 @@
     "summary": "",
     "thumbnail": "thumbnails/ss8ovj.webp",
     "tags": [
-      "Claude Guéant",
-      "Politique"
+      "Justice"
     ],
     "analyzed_at": "2026-11-01T10:08:20.642788+00:00"
   },
@@ -1170,9 +987,7 @@
     "summary": "Les faits se sont déroulés ce lundi matin à Paris vers 7 heures. L’homme s’était approché d’une patrouille avec une lame de 30 cm.",
     "thumbnail": "thumbnails/ss7s6s.webp",
     "tags": [
-      "Nord",
-      "Paris",
-      "Gare du Nord"
+      "Police"
     ],
     "analyzed_at": "2026-11-01T10:08:21.140729+00:00"
   },
@@ -1194,11 +1009,9 @@
     "summary": "Le candidat d'EELV, qui dit porter «des pulsions de vie» considère que son adversaire de Reconquête est animé par «des pulsions de mort».",
     "thumbnail": "thumbnails/srtj6f.webp",
     "tags": [
-      "Éric Zemmour",
       "Yannick Jadot",
-      "Reconquête",
-      "EELV",
-      "Politique"
+      "Éric Zemmour",
+      "Antisémitisme"
     ],
     "analyzed_at": "2026-11-01T10:08:22.139809+00:00"
   },
@@ -1220,10 +1033,8 @@
     "summary": "Les avertissements américains évoquant une attaque imminente de la Russie contre l'Ukraine \"provoquent la panique et n'aident pas\" les Ukrainiens, a dénoncé samedi le président Volodymyr Zelensky.",
     "thumbnail": "thumbnails/sr5jlg.webp",
     "tags": [
-      "Russie",
-      "Ukraine",
-      "Volodymyr Zelensky",
-      "Ukrainiens"
+      "Guerre en Ukraine",
+      "Volodymyr Zelensky"
     ],
     "analyzed_at": "2026-11-01T10:08:21.318693+00:00"
   },
@@ -1245,11 +1056,7 @@
     "summary": "C'est une pépite née à Bordeaux en Gironde. La Gazelle est fabriquée à partir de matériau composite dans des micro-usines, en un rien de temps. Très légère, elle consomme presque deux fois moins que ses concurrentes. Son...",
     "thumbnail": "thumbnails/sqm45k.webp",
     "tags": [
-      "CV",
-      "Gazelle",
-      "Bordeaux",
-      "Gironde",
-      "Gaël Lavaud"
+      "Énergie"
     ],
     "analyzed_at": "2026-11-01T10:08:21.397780+00:00"
   },
@@ -1271,11 +1078,8 @@
     "summary": "Eric Zemmour a affirmé mercredi qu'à Paris, \"75% des agressions sexuelles dans les transports en commun sont le fait d'étrangers\". C'est légèrement surévalué, puisqu'en réalité, les étrangers représentent 63% des auteurs de violences sexuelles dans les transports.",
     "thumbnail": "thumbnails/sqejxi.webp",
     "tags": [
-      "Eric Zemmour",
-      "Paris",
-      "Île-de-France",
-      "Intérieur",
-      "Politique"
+      "Violences sexuelles",
+      "Éric Zemmour"
     ],
     "analyzed_at": "2026-11-01T10:08:21.926714+00:00"
   },
@@ -1297,10 +1101,8 @@
     "summary": "Consultez l’actualité économique, politique et financière du jour, en France comme à l’international, ainsi que tous les derniers articles, éditos et vidéos de Challenges",
     "thumbnail": "thumbnails/spwnf4.webp",
     "tags": [
-      "Macron",
-      "PCR",
-      "Challenges",
-      "Politique"
+      "Emmanuel Macron",
+      "Vladimir Poutine"
     ],
     "analyzed_at": "2026-11-01T10:08:22.021550+00:00"
   },
@@ -1322,11 +1124,7 @@
     "summary": "",
     "thumbnail": "thumbnails/spvkdo.webp",
     "tags": [
-      "Gérald Darmanin",
-      "Nelly Garnier",
-      "LR",
-      "Paris",
-      "Politique"
+      "Gérald Darmanin"
     ],
     "analyzed_at": "2026-11-01T10:08:21.773203+00:00"
   },
@@ -1348,10 +1146,8 @@
     "summary": "A deux mois de l'élection présidentielle, le chef de l'Etat annonce une volte-face sur sa politique énergétique. Pour atteindre la neutralité carbone, il veut construire 14 réacteurs EPR et prolonger au-delà de cinquante ans la durée de vie des réacteurs existants.",
     "thumbnail": "thumbnails/sp9owq.webp",
     "tags": [
-      "EPR",
       "Emmanuel Macron",
-      "Etat",
-      "Écologie"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T10:08:27.167007+00:00"
   },
@@ -1372,10 +1168,7 @@
     "ingested_at": "2026-11-01T10:05:35.042880+00:00",
     "summary": "Très bavard face à la cour spéciale ce 9 février, Salah Abdeslam a avoué s’être demandé s’il aurait dû enclencher sa ceinture d’explosifs le soir du 13-Novembre. Au cours d'un interrogatoire extrêmement dense qui a duré plusieurs heures, l'accusé s'est montré bravache, parfois indécent, mais toujours prêt à parler.",
     "thumbnail": "thumbnails/sp46wt.webp",
-    "tags": [
-      "Salah Abdeslam",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:08:23.260965+00:00"
   },
   {
@@ -1396,9 +1189,7 @@
     "summary": "La vidéo de l'époux paradant dans la rue sourire aux lèvres avec la tête de Mona Heidari est devenue virale et suscite l'émoi en Iran.",
     "thumbnail": "thumbnails/sodcef.webp",
     "tags": [
-      "Iran",
-      "Mona Heidari",
-      "Monde"
+      "Droits des femmes"
     ],
     "analyzed_at": "2026-11-01T10:08:22.281048+00:00"
   },
@@ -1419,12 +1210,7 @@
     "ingested_at": "2026-11-01T10:05:35.042098+00:00",
     "summary": "Alors que la présentatrice de « Zone Interdite » Ophélie Meunier fait l’objet de menaces de mort et bénéficie d’une protection policière, huit dessinateurs se mobilisent dans « Marianne » et apportent leur soutien.",
     "thumbnail": "thumbnails/soc56n.webp",
-    "tags": [
-      "Ophélie Meunier",
-      "Zone Interdite",
-      "Marianne",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:08:22.868692+00:00"
   },
   {
@@ -1445,8 +1231,7 @@
     "summary": "",
     "thumbnail": "thumbnails/so8iu9.webp",
     "tags": [
-      "Paris",
-      "Politique"
+      "Manifestations"
     ],
     "analyzed_at": "2026-11-01T10:08:22.509875+00:00"
   },
@@ -1467,13 +1252,7 @@
     "ingested_at": "2026-11-01T10:05:35.041535+00:00",
     "summary": "Bien avant « Les Fossoyeurs », la lanceuse d’alerte Hella Kherief, aide-soignante marseillaise, avait dénoncé les conditions de vie dans les Ehpad. La ministre de la Santé avait refusé de la recevoir à l’époque",
     "thumbnail": "thumbnails/so7xbh.webp",
-    "tags": [
-      "Ehpad",
-      "Hella Kherief",
-      "Affaire Orpea",
-      "Agnès Buzyn",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:08:23.264609+00:00"
   },
   {
@@ -1494,10 +1273,7 @@
     "summary": "Pour atteindre la neutralité carbone en 2050, le chef de l'Etat devrait opter pour une relance franche du nucléaire en France. Plusieurs scénarios sont sur la table, dont celui de construire jusqu'à 14 nouveaux réacteurs de type EPR.",
     "thumbnail": "thumbnails/snk8ml.webp",
     "tags": [
-      "Emmanuel Macron",
-      "Etat",
-      "EPR",
-      "Politique"
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T10:08:28.279131+00:00"
   },
@@ -1519,10 +1295,10 @@
     "summary": "Notre enquête électorale hebdomadaire réalisée par Cluster17 laisse entrevoir de premiers mouvements d'opinion : l'ancienne ministre de la Justice perd trois points, tandis que le candidat communiste atteint les 3,5 %.",
     "thumbnail": "thumbnails/snis2u.webp",
     "tags": [
-      "Cluster17",
+      "Élections",
+      "Christiane Taubira",
       "Justice",
-      "Cluster 17",
-      "Elections"
+      "Élection présidentielle"
     ],
     "analyzed_at": "2026-11-01T10:08:23.569303+00:00"
   },
@@ -1544,11 +1320,7 @@
     "summary": "L’ancien maire de Levallois-Perret était convoqué par le parquet d’Evreux, quatre jours après la révocation de son bracelet électronique et celui de son épouse",
     "thumbnail": "thumbnails/smnsod.webp",
     "tags": [
-      "Affaire Balkany",
-      "Patrick Balkany",
-      "Fleury-Mérogis",
-      "Levallois-Perret",
-      "Evreux"
+      "Patrick Balkany"
     ],
     "analyzed_at": "2026-11-01T10:08:23.331629+00:00"
   },
@@ -1571,10 +1343,7 @@
     "thumbnail": "thumbnails/smjo18.webp",
     "tags": [
       "Justice",
-      "Insécurité",
-      "Aziz",
-      "Montpellier",
-      "Fait Divers"
+      "Police"
     ],
     "analyzed_at": "2026-11-01T10:08:24.136830+00:00"
   },
@@ -1596,9 +1365,7 @@
     "summary": "Jean-Michel Blanquer a affirmé dimanche qu'il faudrait \"probablement\" ajouter des mathématiques dans le tronc commun de la classe de première et terminale, pour que",
     "thumbnail": "thumbnails/sm3w6l.webp",
     "tags": [
-      "Première et Terminale",
-      "Jean-Michel Blanquer",
-      "Politique"
+      "Jean-Michel Blanquer"
     ],
     "analyzed_at": "2026-11-01T10:08:24.223988+00:00"
   },
@@ -1620,10 +1387,7 @@
     "summary": "L'ancien maire de Levallois, dont le placement sous bracelet électronique a été révoqué, a rendu public une note mentionnant plusieurs interventions récentes et un état de santé «très précaire».",
     "thumbnail": "thumbnails/sm0gd8.webp",
     "tags": [
-      "Patrick Balkany",
-      "Procès balkany",
-      "Levallois",
-      "Société"
+      "Patrick Balkany"
     ],
     "analyzed_at": "2026-11-01T10:08:24.192981+00:00"
   },
@@ -1645,11 +1409,7 @@
     "summary": "Selon la procureure d'Evreux, Isabelle et Patrick Balkany, condamnés à trois ans de prison pour fraude fiscale et qui avaient obtenu un aménagement de peine, ont fait l'objet de \"plusieurs recadrages\", sans qu'ils soient suivis \"d'amélioration\".",
     "thumbnail": "thumbnails/sl2ex4.webp",
     "tags": [
-      "Evreux",
-      "Balkany",
-      "Patrick Balkany",
-      "Affaire Balkany",
-      "Affaires"
+      "Patrick Balkany"
     ],
     "analyzed_at": "2026-11-01T10:08:24.008444+00:00"
   },
@@ -1671,9 +1431,7 @@
     "summary": "Lors d'un vote non contraignant à l'Assemblée nationale, les députés se sont majoritairement opposés au fait d'octroyer l'asile en France à Julian Assange, fondateur de Wikileaks.",
     "thumbnail": "thumbnails/skt2qo.webp",
     "tags": [
-      "Julian Assange",
-      "Wikileaks",
-      "Assemblée"
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T10:08:24.056806+00:00"
   },
@@ -1695,39 +1453,9 @@
     "summary": "Un double coup d'État qui n'a pas été anticipé, une campagne de désinformation qui n'a pas pu être contrée, malgré des succès opérationnels indéniables",
     "thumbnail": "thumbnails/skapdj.webp",
     "tags": [
-      "Mali",
-      "Barkhane",
-      "État",
-      "Takuba",
-      "Niger"
+      "Défense"
     ],
     "analyzed_at": "2026-11-01T10:08:24.260130+00:00"
-  },
-  {
-    "id": "sk89gq",
-    "title": "Non, le ghetto de Varsovie n’était pas un lieu pour préserver sa population du typhus",
-    "url": "https://factandfurious.com/fact-checking/non-le-ghetto-de-varsovie-netait-un-lieu-pour-preserver-sa-population-du-typhus",
-    "permalink": "/r/france/comments/sk89gq/non_le_ghetto_de_varsovie_nétait_pas_un_lieu_pour/",
-    "created_at": "2022-02-04T08:25:43+00:00",
-    "score": 224,
-    "num_comments": 168,
-    "subreddit": "france",
-    "author": "[deleted]",
-    "flair": "Politique",
-    "domain": "factandfurious.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/t1b3jYxYwWlsTuX81HUDLAePyNkQOjY5_F9TS1VW-nY.jpg?auto=webp&s=c3ff097ab86c219c97bd282d725c290e8ed4de31",
-    "ingested_at": "2026-11-01T10:05:35.042699+00:00",
-    "summary": "Le 1er février 2022, dans l’émission l’Heure des Pros sur Cnews, le journaliste et essayiste Ivan Rioufol a déclaré : « quand le ghetto de Varsovie a été créé en 1940, c’était un lieu de contaminés",
-    "thumbnail": "thumbnails/sk89gq.webp",
-    "tags": [
-      "Varsovie",
-      "Heure des Pros",
-      "Cnews",
-      "Ivan Rioufol",
-      "Politique"
-    ],
-    "analyzed_at": "2026-11-01T10:08:30.772699+00:00"
   },
   {
     "id": "sjq4q5",
@@ -1748,10 +1476,8 @@
     "thumbnail": "thumbnails/sjq4q5.webp",
     "tags": [
       "Éric Zemmour",
-      "Marine le Pen",
-      "Rassemblement",
-      "Figaro",
-      "Politique"
+      "Marine Le Pen",
+      "Élection présidentielle"
     ],
     "analyzed_at": "2026-11-01T10:08:24.843306+00:00"
   },
@@ -1773,10 +1499,8 @@
     "summary": "INFO LE FIGARO - L'institution judiciaire n'a fait preuve d'aucune mansuétude face aux manquements du célèbre couple durant leur incarcération à domicile. À l'annonce du verdict, Isabelle Balkany a fait une tentative de suicide.",
     "thumbnail": "thumbnails/sjii0d.webp",
     "tags": [
-      "Balkany",
-      "Isabelle Balkany",
-      "FIGARO",
-      "Paris"
+      "Patrick Balkany",
+      "Justice"
     ],
     "analyzed_at": "2026-11-01T10:08:25.564079+00:00"
   },
@@ -1798,9 +1522,8 @@
     "summary": "",
     "thumbnail": "thumbnails/siysz8.webp",
     "tags": [
-      "Valérie Pécresse et Marine le Pen",
-      "Mali de France",
-      "Politique"
+      "Valérie Pécresse",
+      "Marine Le Pen"
     ],
     "analyzed_at": "2026-11-01T10:08:24.590569+00:00"
   },
@@ -1821,11 +1544,7 @@
     "ingested_at": "2026-11-01T10:05:35.042674+00:00",
     "summary": "En juillet dernier, Yves Le Masne s'est séparé de 5456 titres pour un montant total de 588 157€.",
     "thumbnail": "thumbnails/sik5jt.webp",
-    "tags": [
-      "Yves le Masne",
-      "Orpéa",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:08:25.879658+00:00"
   },
   {
@@ -1846,11 +1565,7 @@
     "summary": "Mis en examen pour viol, les trois jeunes sont désormais jugés pour «agressions sexuelles». Selon l'avocate de la famille de la victime, les prévenus ont contesté les faits, malgré une vidéo accablante.",
     "thumbnail": "thumbnails/shygzv.webp",
     "tags": [
-      "Shaïna",
-      "Creil",
-      "Oise",
-      "Banlieues",
-      "Société"
+      "Violences sexuelles"
     ],
     "analyzed_at": "2026-11-01T10:08:25.793480+00:00"
   },
@@ -1871,7 +1586,9 @@
     "ingested_at": "2026-11-01T10:05:35.042801+00:00",
     "summary": "",
     "thumbnail": "thumbnails/shw23u.webp",
-    "tags": [],
+    "tags": [
+      "Laïcité"
+    ],
     "analyzed_at": "2026-11-01T10:08:25.311108+00:00"
   }
 ]

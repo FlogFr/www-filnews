@@ -1,31 +1,5 @@
 [
   {
-    "id": "x2nypt",
-    "title": "En Autriche, les Verts persistent et signent : oui au charbon, non au nucléaire, y compris chez les voisins",
-    "url": "https://fr.businessam.be/en-autriche-les-verts-persistent-et-signent-oui-au-charbon-non-au-nucleaire-y-compris-chez-les-voisins/",
-    "permalink": "/r/france/comments/x2nypt/en_autriche_les_verts_persistent_et_signent_oui/",
-    "created_at": "2022-08-31T20:36:55+00:00",
-    "score": 422,
-    "num_comments": 100,
-    "subreddit": "france",
-    "author": "233C",
-    "flair": "Écologie",
-    "domain": "fr.businessam.be",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/KQ1PVi-w-uC8XSgT-zORDrPD4o-BKhgVyemlfocQ6Qc.jpeg?auto=webp&s=fdf4faf9aefbf16462485880ad94384a2305f359",
-    "ingested_at": "2026-11-01T10:15:04.657308+00:00",
-    "summary": "Si la crise énergétique a poussé les écologistes belges et bientôt allemands a (légèrement) réviser leur abhorration de l'atome, ce n'est pas le cas en",
-    "thumbnail": "thumbnails/x2nypt.webp",
-    "tags": [
-      "Autriche",
-      "Verts",
-      "UJD",
-      "Mochovce",
-      "Écologie"
-    ],
-    "analyzed_at": "2026-11-01T10:16:18.470288+00:00"
-  },
-  {
     "id": "x27cde",
     "title": "En Savoie, des fans reproduisent la porte du film \"Stargate\" après douze ans de travail",
     "url": "https://www.francetvinfo.fr/culture/series/en-savoie-des-fans-reproduisent-la-porte-du-film-stargate-apres-douze-ans-de-travail_5333422.html",
@@ -42,10 +16,7 @@
     "ingested_at": "2026-11-01T10:15:04.658413+00:00",
     "summary": "C'est l'objet mythique de la série de science-fiction \"Stargate\" : la porte des étoiles qui mène à de lointains systèmes solaires. En Savoie, une équipe de passionnés a reproduit grandeur nature cet élément culte et le résultat est bluffant.",
     "thumbnail": "thumbnails/x27cde.webp",
-    "tags": [
-      "Savoie",
-      "Cinéma Séries"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:16:18.236775+00:00"
   },
   {
@@ -65,13 +36,7 @@
     "ingested_at": "2026-11-01T10:15:04.657777+00:00",
     "summary": "Prix Nobel de la Paix en 1990, Mikhaïl Gorbatchev avait initié la libéralisation économique, culturelle et politique de l'Union soviétique.",
     "thumbnail": "thumbnails/x1tqvo.webp",
-    "tags": [
-      "Mikhaïl Gorbatchev",
-      "URSS",
-      "Union",
-      "Prix Nobel de la Paix",
-      "Russie"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:16:18.113866+00:00"
   },
   {
@@ -93,10 +58,7 @@
     "thumbnail": "thumbnails/x1ehx5.webp",
     "tags": [
       "Fabien Roussel",
-      "Sandrine Rousseau",
-      "Politique",
-      "Gouvernement",
-      "Opposition"
+      "Sandrine Rousseau"
     ],
     "analyzed_at": "2026-11-01T10:16:18.697697+00:00"
   },
@@ -118,8 +80,7 @@
     "summary": "Un homme qui s’en est pris à un couple de personnes âgées en compagnie de deux complices, dimanche en fin de journée, a été grièvement bless",
     "thumbnail": "thumbnails/x0taie.webp",
     "tags": [
-      "Créteil",
-      "Fait Divers"
+      "Retraites"
     ],
     "analyzed_at": "2026-11-01T10:16:18.142171+00:00"
   },
@@ -141,11 +102,7 @@
     "summary": "« Tout le monde à besoin d’être remis à sa place de temps en temps », s’est défendu le chanteur et musicien électronique franco-américain Ma",
     "thumbnail": "thumbnails/x08d3n.webp",
     "tags": [
-      "Touquet Music Beach",
-      "Macron",
-      "Marc Rebillet",
-      "Emmanuel Macron",
-      "Soft paywall"
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T10:16:18.116057+00:00"
   },
@@ -167,11 +124,7 @@
     "summary": "Floqué \"Make la gauche great again\", le couvre-chef a été vertement critiqué par Yannick Jadot, qui a rappelé la nécessité d'être \"irréprochable\".",
     "thumbnail": "thumbnails/wzr7fy.webp",
     "tags": [
-      "Parti",
-      "Chine",
-      "Yannick Jadot",
-      "Blois",
-      "Politique"
+      "Yannick Jadot"
     ],
     "analyzed_at": "2026-11-01T10:16:18.117823+00:00"
   },
@@ -192,12 +145,7 @@
     "ingested_at": "2026-11-01T10:15:04.658589+00:00",
     "summary": "Elle est née l’année de la fatwa lancée contre Salman Rushdie, en 1989, et comme l’écrivain, elle est menacée de mort, et parfois sous protection policière quand elle intervient dans des conférences.",
     "thumbnail": "thumbnails/wzp5so.webp",
-    "tags": [
-      "Pakistan",
-      "Salman Rushdie",
-      "Coran",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:16:21.518863+00:00"
   },
   {
@@ -218,11 +166,8 @@
     "summary": "Un journaliste a découvert une journaliste inconnue au sein de l'effectif du \"Canard enchaîné\" mais à la carte de presse affiliée. Il s'agit de la compagne d'un ancien membre du conseil d'administration.",
     "thumbnail": "thumbnails/wyxhq9.webp",
     "tags": [
-      "Canard",
-      "Paris",
-      "Médias",
-      "Éco / Conso",
-      "Fait Divers"
+      "Travail",
+      "Médias"
     ],
     "analyzed_at": "2026-11-01T10:16:18.774044+00:00"
   },
@@ -244,7 +189,7 @@
     "summary": "Pour avoir un débat éclairé, il faut tout d'abord connaitre l'impact de l'aérien, et plus particulièrement celui des jets privés. Un rapport",
     "thumbnail": "thumbnails/wywyqt.webp",
     "tags": [
-      "Écologie"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T10:16:18.569247+00:00"
   },
@@ -266,11 +211,7 @@
     "summary": "TRIBUNE - L’enlaidissement du cadre de vie des Français est aussi criant que peu débattu. Or, cet enlaidissement a des effets catastrophiques sur la société et est source de malheur public, explique Tristan Claret-Trentelivres.",
     "thumbnail": "thumbnails/wybd35.webp",
     "tags": [
-      "Tristan Claret-Trentelivres",
-      "Paris",
-      "Anne Hidalgo",
-      "Patrimoine",
-      "Français"
+      "Anne Hidalgo"
     ],
     "analyzed_at": "2026-11-01T10:16:19.502091+00:00"
   },
@@ -291,13 +232,7 @@
     "ingested_at": "2026-11-01T10:15:04.658514+00:00",
     "summary": "En visite mardi 23 août 2022 sur le site de la centrale nucléaire de Penly, au nord de la Seine-Maritime, Hervé Morin a confirmé la volonté de la Région Normandie de s’impliquer dans le projet EPR2. Le chantier pourrait bien démarrer en 2024.",
     "thumbnail": "thumbnails/wy6gg1.webp",
-    "tags": [
-      "Penly",
-      "EPR2",
-      "Région Normandie",
-      "Hervé Morin",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:16:19.808903+00:00"
   },
   {
@@ -317,10 +252,7 @@
     "ingested_at": "2026-11-01T10:15:04.656800+00:00",
     "summary": "Il n’existe aucun plafond maximum au montant des amendes pour les dépassements de limitation de vitesse supérieurs à 20 km/h",
     "thumbnail": "thumbnails/wx75eb.webp",
-    "tags": [
-      "Finlande",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:16:18.932074+00:00"
   },
   {
@@ -361,36 +293,9 @@
     "summary": "Emmanuel Macron préside ce mercredi le Conseil des ministres de rentrée. Les caméras étaient conviées en ouverture à filmer son propos liminaire. Il en a appelé au sens du sacrifice des Français.",
     "thumbnail": "thumbnails/wwf15m.webp",
     "tags": [
-      "Emmanuel Macron",
-      "Conseil",
-      "Français"
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T10:16:18.804638+00:00"
-  },
-  {
-    "id": "wwcdet",
-    "title": "Les enfants ont 8 fois plus de chances de mourir quand ils sont heurtés par un SUV comparé à ceux heurtés par une voiture de tourisme",
-    "url": "https://www.sciencedirect.com/science/article/abs/pii/S0022437522000810",
-    "permalink": "/r/france/comments/wwcdet/les_enfants_ont_8_fois_plus_de_chances_de_mourir/",
-    "created_at": "2022-08-24T06:52:48+00:00",
-    "score": 452,
-    "num_comments": 206,
-    "subreddit": "france",
-    "author": "exatorc",
-    "flair": "Société",
-    "domain": "sciencedirect.com",
-    "selftext": "",
-    "reddit_thumbnail": "",
-    "ingested_at": "2026-11-01T10:15:04.657254+00:00",
-    "summary": "Introduction: Fatal pedestrian and pedalcyclist crashes have been on the rise in the United States since 2009. This rise in fatalities coincides with …",
-    "thumbnail": "thumbnails/wwcdet.webp",
-    "tags": [
-      "SUV",
-      "United States",
-      "American",
-      "Société"
-    ],
-    "analyzed_at": "2026-11-01T10:16:23.735810+00:00"
   },
   {
     "id": "wvk6st",
@@ -410,9 +315,7 @@
     "summary": "Le porte-parole du gouvernement soutient l’idée d’une concertation européenne, souhaitée par le ministre délégué aux Transports, sur ce suje",
     "thumbnail": "thumbnails/wvk6st.webp",
     "tags": [
-      "Véran",
-      "Olivier Véran",
-      "Politique"
+      "Olivier Véran"
     ],
     "analyzed_at": "2026-11-01T10:16:19.460574+00:00"
   },
@@ -434,11 +337,7 @@
     "summary": "Une ONG britannique a révélé ce lundi que des dizaines de travailleurs étrangers avaient été expulsés après avoir manifesté pour réclamer leur salaire le 14 août dernier. Certains n'étaient pas payés depuis sept mois.",
     "thumbnail": "thumbnails/wvh6xu.webp",
     "tags": [
-      "Qatar",
-      "Football",
-      "Coupe du Monde",
-      "ONG",
-      "Sports"
+      "Travail"
     ],
     "analyzed_at": "2026-11-01T10:16:22.276881+00:00"
   },
@@ -460,11 +359,8 @@
     "summary": "\"S'il n'y a pas un sentiment de justice, ce sera très difficile de faire cette transition\" écologique, insiste Lucas Chancel, de l’École d’économie de Paris. Depuis le début de l'été, la pression s'accentue sur les célébrités qui usent et abusent des jets privés.",
     "thumbnail": "thumbnails/wvgryj.webp",
     "tags": [
-      "Français",
-      "Lucas Chancel",
-      "École",
-      "Paris",
-      "Écologie"
+      "Environnement",
+      "Éducation"
     ],
     "analyzed_at": "2026-11-01T10:16:19.335817+00:00"
   },
@@ -485,12 +381,7 @@
     "ingested_at": "2026-11-01T10:15:04.658463+00:00",
     "summary": "Les praticiens concernés affirment avoir été formés par Irène Grosjean et Thierry Casasnovas, des personnalités influentes sur le Web, accusées d'être à l'origine de dérives sectaires.",
     "thumbnail": "thumbnails/wux6uu.webp",
-    "tags": [
-      "Irène Grosjean et Thierry Casasnovas",
-      "Web",
-      "Twitter",
-      "Science"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:16:19.595629+00:00"
   },
   {
@@ -511,11 +402,7 @@
     "summary": "Interrogé par le JDD sur le lien entre immigration et délinquance, le ministre de l'Intérieur a communiqué quelques statistiques sur la surreprésentation des étrangers dans les statistiques de la police et de la justice.",
     "thumbnail": "thumbnails/wun78a.webp",
     "tags": [
-      "Gérald Darmanin",
-      "Marseille",
-      "Intérieur",
-      "JDD",
-      "Politique"
+      "Gérald Darmanin"
     ],
     "analyzed_at": "2026-11-01T10:16:20.592552+00:00"
   },
@@ -537,11 +424,7 @@
     "summary": "Les écogardes du parc naturel régional du Ventoux font la chasse aux cairns, ces monticules de pierres qui nuisent à la biodiversité vauclusienne.",
     "thumbnail": "thumbnails/wtx4i2.webp",
     "tags": [
-      "Mont Ventoux",
-      "Ventoux",
-      "Parcs naturels",
-      "Protection de l'environnement",
-      "Tourisme"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T10:16:20.903493+00:00"
   },
@@ -563,7 +446,7 @@
     "summary": "",
     "thumbnail": "thumbnails/wttd2a.webp",
     "tags": [
-      "Putin's Ukraine"
+      "Guerre en Ukraine"
     ],
     "analyzed_at": "2026-11-01T10:16:20.750319+00:00"
   },
@@ -585,36 +468,9 @@
     "summary": "Le complexe de data centers de Microsoft à Middenmeer, au nord des Pays-Bas, aurait consommé 84 millions de litres en 2021, contre les 12 à 20 millions de litres initialement estimés par Microsoft et la municipalité. Une situatio...",
     "thumbnail": "thumbnails/wt8dk4.webp",
     "tags": [
-      "Microsoft",
-      "Pays-Bas",
-      "Middenmeer",
-      "Serveurs",
-      "Écologie"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T10:16:23.349985+00:00"
-  },
-  {
-    "id": "wt00dk",
-    "title": "Et si on donnait de l’argent à ceux qui se passent de voiture?",
-    "url": "http://carfree.fr/index.php/2022/08/19/et-si-on-donnait-de-largent-a-ceux-qui-se-passent-de-voiture/",
-    "permalink": "/r/france/comments/wt00dk/et_si_on_donnait_de_largent_à_ceux_qui_se_passent/",
-    "created_at": "2022-08-20T06:16:19+00:00",
-    "score": 278,
-    "num_comments": 400,
-    "subreddit": "france",
-    "author": "slashou",
-    "flair": "",
-    "domain": "carfree.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://b.thumbs.redditmedia.com/awOo_9-jYUkY9KJyQJEv-F7Hr9PxybXm68tp_YmdeJI.jpg",
-    "ingested_at": "2026-11-01T10:15:04.657945+00:00",
-    "summary": "On ne compte plus les aides financières ou autres crédits d’impôts pour changer de voiture ou pour passer à la voiture électrique.",
-    "thumbnail": "thumbnails/wt00dk.webp",
-    "tags": [
-      "Californie",
-      "État"
-    ],
-    "analyzed_at": "2026-11-01T10:16:21.496423+00:00"
   },
   {
     "id": "wspgib",
@@ -634,36 +490,9 @@
     "summary": "Le député de Paris considère que certaines «élites» sont en «sécession». «Nous sommes sur la même planète, mais plus dans le même monde», raille le patron d'EELV.",
     "thumbnail": "thumbnails/wspgib.webp",
     "tags": [
-      "Julien Bayou",
-      "EELV",
-      "Assemblée nationale",
-      "Paris",
-      "Politique"
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T10:16:21.795556+00:00"
-  },
-  {
-    "id": "wsfwoh",
-    "title": "Doctolib : Non, les naturopathes ne sont pas des professionnels de santé",
-    "url": "https://factandfurious.com/fact-checking/doctolib-non-les-naturopathes-ne-sont-pas-des-professionnels-de-sante",
-    "permalink": "/r/france/comments/wsfwoh/doctolib_non_les_naturopathes_ne_sont_pas_des/",
-    "created_at": "2022-08-19T14:49:13+00:00",
-    "score": 331,
-    "num_comments": 78,
-    "subreddit": "france",
-    "author": "[deleted]",
-    "flair": "Science",
-    "domain": "factandfurious.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/3pObc2nnGqzLHWvfpfuLRs_lAz_Fp6KvV-0XkftqLYA.jpg?auto=webp&s=12c3e60b04d594bd6d6c0a4a3f46b18766813a65",
-    "ingested_at": "2026-11-01T10:15:04.657628+00:00",
-    "summary": "Plusieurs internautes ont récemment dénoncé la présence de naturopathes sur la plateforme de rendez-vous en ligne Doctolib",
-    "thumbnail": "thumbnails/wsfwoh.webp",
-    "tags": [
-      "Doctolib",
-      "Science"
-    ],
-    "analyzed_at": "2026-11-01T10:16:29.039889+00:00"
   },
   {
     "id": "wri3hz",
@@ -683,37 +512,9 @@
     "summary": "",
     "thumbnail": "thumbnails/wri3hz.webp",
     "tags": [
-      "Lucas Chancel",
-      "Français",
-      "Écologie"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T10:16:22.225597+00:00"
-  },
-  {
-    "id": "wrbnct",
-    "title": "La Fédération nationale des chasseurs assise sur un tas d’or grâce à Emmanuel Macron",
-    "url": "https://lanceuralerte.org/2022/08/16/federation-national-chasseurs-comptes/",
-    "permalink": "/r/france/comments/wrbnct/la_fédération_nationale_des_chasseurs_assise_sur/",
-    "created_at": "2022-08-18T06:02:08+00:00",
-    "score": 211,
-    "num_comments": 120,
-    "subreddit": "france",
-    "author": "exatorc",
-    "flair": "Politique",
-    "domain": "lanceuralerte.org",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/iKW4_NvGBjmMEoG4WvPm-jNK2QhFm2-qRH2wgtDpzco.jpg?auto=webp&s=a3e12969fb8215290c50372299503ae9b7bd0dc0",
-    "ingested_at": "2026-11-01T10:15:04.658438+00:00",
-    "summary": "Les comptes de la Fédération nationale des chasseurs viennent d’être dévoilés ! Alors que l’association agréée d’utilité publique était tenue de publier chaque année ses comptes au Journal officiel, la structure des Nemrods se gardait bien d’accomplir cette formalité.",
-    "thumbnail": "thumbnails/wrbnct.webp",
-    "tags": [
-      "Fédération",
-      "Emmanuel Macron",
-      "Journal",
-      "Nemrods",
-      "Politique"
-    ],
-    "analyzed_at": "2026-11-01T10:16:26.745884+00:00"
   },
   {
     "id": "wqpwks",
@@ -753,11 +554,7 @@
     "summary": "Le Mali à nouveau à l’offensive contre la France, cette fois devant les Nations unies. Alors que le retrait de la force Barkhane s’est achevé en début de semaine, le ministre malien des Affaires étrangères…",
     "thumbnail": "thumbnails/wqpj34.webp",
     "tags": [
-      "Mali",
-      "ONU",
-      "Barkhane",
-      "Affaires",
-      "Nations"
+      "Terrorisme"
     ],
     "analyzed_at": "2026-11-01T10:16:22.585294+00:00"
   },
@@ -778,10 +575,7 @@
     "ingested_at": "2026-11-01T10:15:04.658113+00:00",
     "summary": "La publication dans un hors-série du « Figaro » d’un entretien-fleuve avec l’essayiste d’extrême droite Pío Moa, pour qui les gauches sont entièrement responsables du déclenchement de la guerre civil…",
     "thumbnail": "thumbnails/wqlh9a.webp",
-    "tags": [
-      "Figaro",
-      "Pío Moa"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:16:23.167287+00:00"
   },
   {
@@ -802,11 +596,8 @@
     "summary": "Aymeric Caron, tout nouveau député de Paris, prépare une proposition de loi transpartisane pour en finir avec une tradition toujours en vigueur dans le Sud de la France. Il compte sur la «liberté» des députés sur ce «sujet symbolique».",
     "thumbnail": "thumbnails/wppe62.webp",
     "tags": [
-      "Assemblée",
-      "Aymeric Caron",
-      "Paris",
-      "Sud de la France",
-      "Politics"
+      "Institutions",
+      "Cause animale"
     ],
     "analyzed_at": "2026-11-01T10:16:25.180586+00:00"
   },
@@ -827,13 +618,7 @@
     "ingested_at": "2026-11-01T10:15:04.658165+00:00",
     "summary": "Après un été qualifié d'\"historique\" selon Météo-France au niveau de la sécheresse, la pluie a fait son retour dimanche 14 août. Pour autant, les quelques précipitations ont peu d'impact sur la sécheresse en cours.",
     "thumbnail": "thumbnails/wpmc02.webp",
-    "tags": [
-      "Météo-France",
-      "Inondations et crues",
-      "Crise climatique",
-      "Vagues de chaleur et canicules",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:16:23.284171+00:00"
   },
   {
@@ -853,11 +638,7 @@
     "ingested_at": "2026-11-01T10:20:29.703991+00:00",
     "summary": "Déscolarisation, mariages forcés, répression... Depuis la prise de Kaboul par les talibans, le 15 août 2021, les Afghanes sont les premières victimes des fondamentalistes islamistes.",
     "thumbnail": "thumbnails/wow454.webp",
-    "tags": [
-      "Kaboul",
-      "Afghanistan",
-      "Les choix de la rédaction"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:45:05.004800+00:00"
   },
   {
@@ -878,10 +659,7 @@
     "summary": "Le maire de la ville a mis en place un arrêté municipal pour sanctionner les conducteurs qui laisseront leur moteur tourner à l’arrêt.",
     "thumbnail": "thumbnails/wovlta.webp",
     "tags": [
-      "Pollution",
-      "Nancy",
-      "Politique de la ville",
-      "Ecologie"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T10:16:27.985792+00:00"
   },
@@ -902,12 +680,7 @@
     "ingested_at": "2026-11-01T10:15:04.658038+00:00",
     "summary": "INFO LE FIGARO - Trois pompiers ont été légèrement blessés, dans le 12e arrondissement de la capitale. Leur véhicule a également été dégradé.",
     "thumbnail": "thumbnails/wov5ev.webp",
-    "tags": [
-      "Paris",
-      "Agression",
-      "FIGARO",
-      "Fait Divers"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:16:23.561119+00:00"
   },
   {
@@ -928,36 +701,10 @@
     "summary": "Tous les postes de dépenses augmentent, à l'exception des transports, selon l'Union nationale des étudiants de France.",
     "thumbnail": "thumbnails/wotdwy.webp",
     "tags": [
-      "Unef",
-      "Français",
-      "Union",
-      "Inflation",
-      "Éco / Conso"
+      "Éducation",
+      "Économie"
     ],
     "analyzed_at": "2026-11-01T10:16:23.891676+00:00"
-  },
-  {
-    "id": "wom1dk",
-    "title": "La France est championne du monde de Rocket League !",
-    "url": "https://clips.twitch.tv/SillyCooperativeChickenANELE-JF4R2pf0h9kYKFWA",
-    "permalink": "/r/france/comments/wom1dk/la_france_est_championne_du_monde_de_rocket_league/",
-    "created_at": "2022-08-15T01:06:55+00:00",
-    "score": 334,
-    "num_comments": 85,
-    "subreddit": "france",
-    "author": "Linkinito",
-    "flair": "Sport",
-    "domain": "clips.twitch.tv",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/BSXjbPNpHEtAFqEOwuYivsI6LDyW4gE8x3_EvhUaM5A.jpg?auto=webp&s=4695f03c8c5a08c37cd77e6704f5e80e0eb6fc2e",
-    "ingested_at": "2026-11-01T10:15:04.657541+00:00",
-    "summary": "Twitch is the world's leading video platform and community for gamers.",
-    "thumbnail": "thumbnails/wom1dk.webp",
-    "tags": [
-      "Rocket League",
-      "Sport"
-    ],
-    "analyzed_at": "2026-11-01T10:16:23.768120+00:00"
   },
   {
     "id": "wo3dam",
@@ -976,10 +723,7 @@
     "ingested_at": "2026-11-01T10:15:04.658716+00:00",
     "summary": "Le principal quotidien ultraconservateur iranien, Kayhan, a félicité samedi l’homme ayant poignardé la veille aux...",
     "thumbnail": "thumbnails/wo3dam.webp",
-    "tags": [
-      "Salman Rushdie",
-      "Iran"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:16:25.534956+00:00"
   },
   {
@@ -999,11 +743,7 @@
     "ingested_at": "2026-11-01T10:15:04.658242+00:00",
     "summary": "Salman Rushdie qui vit sous la menace d’une fatwa depuis 1989, a été poignardé vendredi lors d’une conférence aux Etats-Unis. En 2017, il lançait dans « l’Obs » un cri d’alarme en direction de l’Occident. « Cessons, disait-il, de refuser de voir la réalité des origines du djihadisme »",
     "thumbnail": "thumbnails/wns6k5.webp",
-    "tags": [
-      "Salman Rushdie",
-      "Etats-Unis",
-      "Occident"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:16:24.426370+00:00"
   },
   {
@@ -1023,34 +763,8 @@
     "ingested_at": "2026-11-01T10:20:29.704213+00:00",
     "summary": "En ligne et dans les librairies, les foules veulent acheter l’ouvrage qui avait valu une fatwa à l’auteur poignardé ce vendredi dans l’Etat",
     "thumbnail": "thumbnails/wnorro.webp",
-    "tags": [
-      "Salman Rushdie",
-      "Etat",
-      "Soft paywall"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:45:04.914586+00:00"
-  },
-  {
-    "id": "wn7y0f",
-    "title": "Jean-Marc Jancovici: \"Ceux qui ont fait le choix du gaz n'ont plus que leurs yeux pour pleurer\"",
-    "url": "https://trends.levif.be/economie/politique-economique/jean-marc-jancovici-ceux-qui-ont-fait-le-choix-du-gaz-n-ont-plus-que-leurs-yeux-pour-pleurer/article-normal-1579145.html?utm_medium=social_vif&utm_source=Facebook&cookie_check=1660373812#Echobox=1660053177",
-    "permalink": "/r/france/comments/wn7y0f/jeanmarc_jancovici_ceux_qui_ont_fait_le_choix_du/",
-    "created_at": "2022-08-13T06:57:21+00:00",
-    "score": 273,
-    "num_comments": 272,
-    "subreddit": "france",
-    "author": "slashou",
-    "flair": "",
-    "domain": "trends.levif.be",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/0tGBpVQVa87PtCLXS72AzRcU7gjVW_V8uzgYl0pMs94.jpg?auto=webp&s=a1dff0bcbef0a6cd292ac3cbbb25b8920d0d0ed8",
-    "ingested_at": "2026-11-01T10:15:04.658002+00:00",
-    "summary": "Consultant, essayiste, conférencier, Jean-Marc Jancovici prend depuis des années son bâton de pèlerin pour expliquer que, dans notre monde fini, la parenthèse des énergies fossiles se referme et qu'il vaut mieux s'y préparer. Autrement dit, ne pas suivre l'exemple belge.",
-    "thumbnail": "thumbnails/wn7y0f.webp",
-    "tags": [
-      "Jean-Marc Jancovici"
-    ],
-    "analyzed_at": "2026-11-01T10:16:27.239264+00:00"
   },
   {
     "id": "wmyagt",
@@ -1069,10 +783,7 @@
     "ingested_at": "2026-11-01T10:15:04.658668+00:00",
     "summary": "À l’heure où nous écrivons ces lignes, nous ne connaissons pas les motivations de l’auteur de l’attaque au couteau contre Salman Rushdie. Était-il révolté contre le réchauffement climatique, contre la baisse du pouvoir d’achat ou contre l’interdiction d’arroser les pots de fleurs pour cause de canicule ?",
     "thumbnail": "thumbnails/wmyagt.webp",
-    "tags": [
-      "Salman Rushdie",
-      "Charlie Hebdo"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:16:26.176086+00:00"
   },
   {
@@ -1092,13 +803,7 @@
     "ingested_at": "2026-11-01T10:15:04.658191+00:00",
     "summary": "L'écrivain d'origine indienne Salman Rushdie, cible de menaces de mort depuis la publication des \"Versets sataniques\" en 1988, a été placé sous assistance respiratoire après avoir été poignardé au cou…",
     "thumbnail": "thumbnails/wmoc3n.webp",
-    "tags": [
-      "Salman Rushdie",
-      "États-Unis",
-      "Iran",
-      "New York",
-      "Islam"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:16:25.194583+00:00"
   },
   {
@@ -1118,10 +823,7 @@
     "ingested_at": "2026-11-01T10:15:04.658487+00:00",
     "summary": "Le ministre néo-zélandais chargé du tourisme, Stuart Nash, veut privilégier les touristes à gros budget plutôt que ceux qui voyagent \"avec 10 dollars par jour\".",
     "thumbnail": "thumbnails/wmggkw.webp",
-    "tags": [
-      "Stuart Nash",
-      "Nouvelle-Zélande"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:16:25.396008+00:00"
   },
   {
@@ -1141,10 +843,7 @@
     "ingested_at": "2026-11-01T10:15:04.657717+00:00",
     "summary": "",
     "thumbnail": "thumbnails/wm1c8o.webp",
-    "tags": [
-      "Jean-Jacques Sempé",
-      "Culture"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:16:25.586861+00:00"
   },
   {
@@ -1165,8 +864,7 @@
     "summary": "Dans une tribune publiée ce mercredi dans le quotidien français Le Monde, un collectif de 31 sénateurs du groupe Socialiste, écologiste et républicain appelle à",
     "thumbnail": "thumbnails/wlexkw.webp",
     "tags": [
-      "Socialiste",
-      "Société"
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T10:16:26.009642+00:00"
   },
@@ -1187,11 +885,7 @@
     "ingested_at": "2026-11-01T10:15:04.658389+00:00",
     "summary": "Implantée dans le pays depuis 2015, la chaîne n'est pas parvenue à concurrencer les restaurateurs du pays, qui ont multiplié les accords avec les plateformes de livraison.",
     "thumbnail": "thumbnails/wkz6nw.webp",
-    "tags": [
-      "Italie",
-      "Domino's Pizza",
-      "Économie"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:16:26.625242+00:00"
   },
   {
@@ -1212,10 +906,7 @@
     "summary": "Le réseau social a fourni à la police américaine les messages privés qu'une femme mineure avait envoyés sur Facebook. Les autorités s'en sont servies pour l'arrêter et la poursuivre pour avoir avorté. L'histoire fait froid dans le dos, et laisse présager de futures poursuites similaires. C'est le site Motherboard qui",
     "thumbnail": "thumbnails/wkwumm.webp",
     "tags": [
-      "Facebook",
-      "Motherboard",
-      "États-Unis",
-      "Nebraska"
+      "Police"
     ],
     "analyzed_at": "2026-11-01T10:16:26.426899+00:00"
   },
@@ -1237,11 +928,8 @@
     "summary": "Selon le rapport annuel d’Europol sur le terrorisme dans le Vieux Continent, l’Hexagone totalise 37% des interpellations en Europe en lien avec des affaires de terrorisme jihadiste et 45% de celles concernant le terrorisme d’extrême droite.",
     "thumbnail": "thumbnails/wkrmrz.webp",
     "tags": [
-      "Europol",
-      "Europe",
-      "Vieux Continent",
-      "Social Issues",
-      "Extreme-droite"
+      "Extrême droite",
+      "Terrorisme"
     ],
     "analyzed_at": "2026-11-01T10:16:30.770679+00:00"
   },
@@ -1262,13 +950,7 @@
     "ingested_at": "2026-11-01T10:15:04.657744+00:00",
     "summary": "Alors que la sécheresse et les restrictions d'eau font rage, les images des golfs verdoyants font scandale. Soumis à des limitations d'arrosage, certains parviennent à s'y dérober.",
     "thumbnail": "thumbnails/wk97m5.webp",
-    "tags": [
-      "Reporterre",
-      "Fédération",
-      "Environnement",
-      "Écologie",
-      "Climat"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:16:26.748511+00:00"
   },
   {
@@ -1288,10 +970,7 @@
     "ingested_at": "2026-11-01T10:15:04.658292+00:00",
     "summary": "Des nappes phréatiques à sec, des centrales au ralenti et un fleuve au lit déserté : le journal belge “De Standaard” consacre sa une aux effets catastrophiques ...",
     "thumbnail": "thumbnails/wk3edc.webp",
-    "tags": [
-      "Loire",
-      "Standaard"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:16:27.621248+00:00"
   },
   {
@@ -1311,12 +990,7 @@
     "ingested_at": "2026-11-01T10:15:04.657919+00:00",
     "summary": "La Bibliothèque nationale de France possède l'une des plus grandes collections de jeux vidéos avec près de 20 000 consoles et jeux vidéos conservés.",
     "thumbnail": "thumbnails/wjxqb8.webp",
-    "tags": [
-      "BnF",
-      "Culture",
-      "Jeux Vidéo",
-      "Arts-Expos"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:16:27.161557+00:00"
   },
   {
@@ -1337,11 +1011,7 @@
     "summary": "Selon plusieurs médias américains, l'opération est liée à une enquête sur la mauvaise gestion de documents classifiés.",
     "thumbnail": "thumbnails/wjv91t.webp",
     "tags": [
-      "Donald Trump",
-      "FBI",
-      "Floride",
-      "Etats-Unis",
-      "Politique"
+      "Donald Trump"
     ],
     "analyzed_at": "2026-11-01T10:16:27.173336+00:00"
   },
@@ -1362,12 +1032,7 @@
     "ingested_at": "2026-11-01T10:15:04.658088+00:00",
     "summary": "Dans un décret, le gouvernement érige de nouvelles règles pour les applications de cartographie. Les mobilités douces devront être mises en avant et la voiture pourra être restreinte. Le décret n° 2022-1119, paru le 5 août 2022 au Journal officiel, s'attaque aux « services numériques d'assistance aux déplacements ».",
     "thumbnail": "thumbnails/wj98ij.webp",
-    "tags": [
-      "Waze",
-      "Google Maps",
-      "SeDéplacerMoinsPolluer",
-      "Journal"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:16:27.680144+00:00"
   },
   {
@@ -1387,12 +1052,7 @@
     "ingested_at": "2026-11-01T10:15:04.658341+00:00",
     "summary": "Un tiers des prostituées de l’Union européenne viennent de Roumanie. Les trafiquants profitent de la détresse sociale, mais aussi d’institutions policières et judiciaires déficientes, pour organiser …",
     "thumbnail": "thumbnails/wj3rq4.webp",
-    "tags": [
-      "Roumanie",
-      "Europe",
-      "Union",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:16:28.317007+00:00"
   },
   {
@@ -1413,11 +1073,7 @@
     "summary": "\"Faire l'ascension du Mont-Blanc, c'est une affaire d'alpinistes, ce n'est pas une affaire de marcheurs en baskets\", s'emporte Jean-Marc Peillex contre les touristes, notamment des pays d'Europe de l'Est, venus faire l'ascension du Mont-Blanc sans connaître \"les codes de la montagne\".",
     "thumbnail": "thumbnails/wj3dsc.webp",
     "tags": [
-      "Mont-Blanc",
-      "Saint-Gervais",
-      "Jean-Marc Peillex",
-      "Europe",
-      "Écologie"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T10:16:27.685091+00:00"
   },
@@ -1438,10 +1094,7 @@
     "ingested_at": "2026-11-01T10:15:04.656887+00:00",
     "summary": "Retrouvez les dernières actualités du jour en direct et en continu sur Le Nouvel Obs : société, politique, écologie, économie, toute l'info en France et à l'international !",
     "thumbnail": "thumbnails/wihoav.webp",
-    "tags": [
-      "Nouvel Obs",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:16:28.046216+00:00"
   },
   {
@@ -1462,8 +1115,7 @@
     "summary": "Sécheresse, canicule, incendies... Le dérèglement climatique s'invite dans les angoisses des gens, surtout chez les 20-30 ans qui se posent la question d'avoir des enfants... ou pas.",
     "thumbnail": "thumbnails/wib25y.webp",
     "tags": [
-      "Psycho - Bien-être",
-      "Écologie"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T10:16:28.071913+00:00"
   },
@@ -1485,11 +1137,7 @@
     "summary": "En martelant qu'il n'y a qu'«une seule Chine», l'Insoumis s'est attiré les foudres des partis de gauche alliés.",
     "thumbnail": "thumbnails/whusnk.webp",
     "tags": [
-      "Taïwan",
-      "Chine",
-      "Jean-Luc Mélenchon",
-      "LFI",
-      "Politique"
+      "Jean-Luc Mélenchon"
     ],
     "analyzed_at": "2026-11-01T10:16:28.748812+00:00"
   },
@@ -1511,9 +1159,7 @@
     "summary": "",
     "thumbnail": "thumbnails/whs3r0.webp",
     "tags": [
-      "Alex Jones",
-      "Sandy Hook",
-      "Société"
+      "Justice"
     ],
     "analyzed_at": "2026-11-01T10:16:28.115558+00:00"
   },
@@ -1534,9 +1180,7 @@
     "ingested_at": "2026-11-01T10:15:04.657158+00:00",
     "summary": "",
     "thumbnail": "thumbnails/wgxyw4.webp",
-    "tags": [
-      "Petit Stream"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:16:28.444995+00:00"
   },
   {
@@ -1557,11 +1201,7 @@
     "summary": "La prise de position du leader insoumis n’est pas passée inaperçue aux yeux de l’ambassade chinoise à Paris.",
     "thumbnail": "thumbnails/wgnlzu.webp",
     "tags": [
-      "Chine",
-      "Pelosi",
-      "Jean-Luc Mélenchon",
-      "Nancy Pelosi",
-      "Politique"
+      "Jean-Luc Mélenchon"
     ],
     "analyzed_at": "2026-11-01T10:16:28.843975+00:00"
   },
@@ -1582,10 +1222,7 @@
     "ingested_at": "2026-11-01T10:15:04.657048+00:00",
     "summary": "Le secteur du tourisme est toujours à la recherche d'employés. En Haute-Savoie, le Grand parc d'Andilly est contraint de fermer deux jours et de réduire ses amplitudes horaires. Le directeur du parc assure sur RMC ce jeudi être \"pris en otage\" par les demandes de jeunes saisonniers.",
     "thumbnail": "thumbnails/wfzicc.webp",
-    "tags": [
-      "Haute-Savoie",
-      "Andilly"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:16:28.374085+00:00"
   },
   {
@@ -1606,11 +1243,7 @@
     "summary": "Pour le secrétaire général de l’ONU, « il est immoral que les entreprises pétrolières et gazières fassent des profits record grâce à cette crise énergétique ».",
     "thumbnail": "thumbnails/wfw2kg.webp",
     "tags": [
-      "ONU",
-      "Antonio Guterres",
-      "Économie",
-      "Guerre en Ukraine",
-      "Politique"
+      "Budget et fiscalité"
     ],
     "analyzed_at": "2026-11-01T10:16:28.439301+00:00"
   },
@@ -1632,11 +1265,7 @@
     "summary": "Les dérogations accordées aux parcours de golf en pleine sécheresse sont critiquées par certains politiques. Sur le terrain, les professionnels insistent sur le besoin d'irrigation, comme au Golf National à Guyancourt.",
     "thumbnail": "thumbnails/wfuhpr.webp",
     "tags": [
-      "Guyancourt",
-      "Golf National",
-      "Lucas Pierré",
-      "Jeux",
-      "Écologie"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T10:16:28.749035+00:00"
   },
@@ -1658,9 +1287,7 @@
     "summary": "Nous avons suivi un militant écologiste francilien dans son action nocturne illégale. Bilan : une trentaine de véhicules 4x4 dégonflés dans",
     "thumbnail": "thumbnails/wfg8rs.webp",
     "tags": [
-      "SUV",
-      "Paris",
-      "Écologie"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T10:16:31.269015+00:00"
   },
@@ -1682,11 +1309,8 @@
     "summary": "L’Allemagne va-t-elle remettre en cause, ou en tout cas repousser, la sortie du nucléaire ? Face à la crise énergétique actuelle, beaucoup de tabous sont remis en cause dans un pays où la dépendance…",
     "thumbnail": "thumbnails/wf3i4q.webp",
     "tags": [
-      "Allemagne",
-      "Environnement",
-      "Économie",
-      "Europe",
-      "Écologie"
+      "Énergie",
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T10:16:28.916908+00:00"
   },
@@ -1707,13 +1331,7 @@
     "ingested_at": "2026-11-01T10:15:04.656831+00:00",
     "summary": "Les protocoles ont déjà été ratifiés par vingt autres Etats membres, selon la ministre des Affaires étrangères française, Catherine Colonna. La protection en cas d'attaque, garantie par l'article 5, est suspendue au vote favorable des 30 membres.",
     "thumbnail": "thumbnails/wez8tw.webp",
-    "tags": [
-      "Otan",
-      "Parlement",
-      "Suède et de la Finlande",
-      "Etats",
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:16:28.948520+00:00"
   },
   {
@@ -1734,7 +1352,7 @@
     "summary": "",
     "thumbnail": "thumbnails/weyv0y.webp",
     "tags": [
-      "Kansas"
+      "Droits des femmes"
     ],
     "analyzed_at": "2026-11-01T10:16:29.428028+00:00"
   },
@@ -1756,11 +1374,7 @@
     "summary": "La cheffe de file des députés du Rassemblement national a également dénoncé une \"inertie totale\" du gouvernement.",
     "thumbnail": "thumbnails/wek1a5.webp",
     "tags": [
-      "Marine le Pen",
-      "Russie",
-      "Rassemblement",
-      "RN",
-      "Politique"
+      "Marine Le Pen"
     ],
     "analyzed_at": "2026-11-01T10:16:29.163595+00:00"
   },
@@ -1782,10 +1396,8 @@
     "summary": "Les sénateurs ont démarré ce lundi les discussions sur le projet de loi de Finances rectificative par une passe d'armes sur la taxe sur les superprofits de TotalEnergies. La commission mixte paritaire sur le projet de loi pouvoir d'achat a abouti à un accord.",
     "thumbnail": "thumbnails/we75rw.webp",
     "tags": [
-      "Sénat",
-      "Finances",
-      "TotalEnergies",
-      "Soft paywall"
+      "Institutions",
+      "Budget et fiscalité"
     ],
     "analyzed_at": "2026-11-01T10:16:35.417089+00:00"
   },
@@ -1807,11 +1419,7 @@
     "summary": "Des rapports d’ONG et des témoignages de prisonniers ukrainiens libérés ou échangés font état de nombreux cas de torture, de mutilation et d’exécutions sommaires par les troupes russes. Des vidéos insoutenables tournent sur les réseaux sociaux.",
     "thumbnail": "thumbnails/wdd1ji.webp",
     "tags": [
-      "Russie",
-      "Kiev",
-      "Tetiana Petchontchyk",
-      "guerre en Ukraine",
-      "ONG"
+      "Guerre en Ukraine"
     ],
     "analyzed_at": "2026-11-01T10:16:30.177817+00:00"
   },
@@ -1833,8 +1441,7 @@
     "summary": "Trois enseignantes ou professeures franc-comtoises ont accepté de répondre à nos questions et nous expliquent pourquoi elles ont choisi de quitter l'Éducation nationale avant la rentrée 2022-2023. Témoignages.",
     "thumbnail": "thumbnails/wdbn37.webp",
     "tags": [
-      "Éducation",
-      "Société"
+      "Éducation"
     ],
     "analyzed_at": "2026-11-01T10:16:29.448415+00:00"
   },
@@ -1855,9 +1462,7 @@
     "ingested_at": "2026-11-01T10:15:04.658063+00:00",
     "summary": "",
     "thumbnail": "thumbnails/wdbdln.webp",
-    "tags": [
-      "France et le Royaume-Uni"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:16:29.492967+00:00"
   }
 ]

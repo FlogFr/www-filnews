@@ -16,13 +16,7 @@
     "ingested_at": "2026-11-01T11:17:32.731045+00:00",
     "summary": "An internal memo changed the standard from whether people are unlikely to show up for hearings to whether they could leave the scene.",
     "thumbnail": "thumbnails/1qshv6k.webp",
-    "tags": [
-      "ICE Expands Power",
-      "Arrest People Without Warrants",
-      "Illegal Immigration",
-      "Minnesota",
-      "Monde"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:19:16.689544+00:00"
   },
   {
@@ -43,11 +37,8 @@
     "summary": "Le gouvernement veut permettre aux employés des commerces alimentaires de récupérer plus facilement les invendus, alors que 300 000 tonnes de produits partent à la poubelle chaque année.",
     "thumbnail": "thumbnails/1qsgi3w.webp",
     "tags": [
-      "Éco / Conso",
-      "Gaspillage",
-      "Gestion des déchets",
-      "Actions écologiques",
-      "Écologie"
+      "Environnement",
+      "Travail"
     ],
     "analyzed_at": "2026-11-01T11:19:14.541843+00:00"
   },
@@ -69,11 +60,8 @@
     "summary": "\"Avec le Medef, c'est systématiquement le retour en arrière sur les droits sociaux\", s'insurge le syndicat qui estime que la proposition du Medef équivaut à une \"période d'essai de trois ans\", \"pire\" que le contrat première embauche tenté par Dominique de Villepin en 2006.",
     "thumbnail": "thumbnails/1qsbeyl.webp",
     "tags": [
-      "Medef",
-      "CGT",
-      "CDI",
-      "Dominique de Villepin",
-      "Smic"
+      "Grèves et syndicats",
+      "Dominique de Villepin"
     ],
     "analyzed_at": "2026-11-01T11:19:14.577642+00:00"
   },
@@ -95,11 +83,7 @@
     "summary": "Selon le ministère de la Santé de Gaza, sous l'autorité du Hamas, 71 500 Palestiniens ont perdu la vie dans la guerre Israël-Gaza lancée en 2023. Pour la première fois, ce bilan est confirmé par l'armée…",
     "thumbnail": "thumbnails/1qs4f2j.webp",
     "tags": [
-      "Palestiniens",
-      "Gaza",
-      "Guerre Israël-Gaza",
-      "Israël",
-      "Politique"
+      "Conflit israélo-palestinien"
     ],
     "analyzed_at": "2026-11-01T11:19:14.645394+00:00"
   },
@@ -120,11 +104,7 @@
     "ingested_at": "2026-11-01T11:17:32.730504+00:00",
     "summary": "L'enseigne américaine de restauration rapide, qui dispose déjà de plus de 1.500 sites en France, veut se développer, y compris dans les campagnes françaises. Et ni le refus des maires, ni la protestation des commerçants ne semblent pouvoir freiner cette arrivée.",
     "thumbnail": "thumbnails/1qs0mbp.webp",
-    "tags": [
-      "Saint-Amour",
-      "McDonald's",
-      "Économie"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:19:14.784919+00:00"
   },
   {
@@ -145,11 +125,7 @@
     "summary": "Sebastian Roché, directeur de recherches au CNRS et auteur de La Police contre la rue (Grasset), a mené une enquête, en 2024, sur les relations police-population. Il constate le fossé qui s'est creusé pour des fonctionnaires qui ne se reconnaissent plus dans la société.",
     "thumbnail": "thumbnails/1qrzy4u.webp",
     "tags": [
-      "Faits divers",
-      "Justice",
-      "Sebastian Roché",
-      "CNRS",
-      "Société"
+      "Police"
     ],
     "analyzed_at": "2026-11-01T11:19:15.202068+00:00"
   },
@@ -171,39 +147,9 @@
     "summary": "Le Medef souhaite s'inspirer du modèle italien en proposant la création d'un CDI avec \"une indemnisation croissante en lien avec l'ancienneté du salarié en cas de rupture\".",
     "thumbnail": "thumbnails/1qrync9.webp",
     "tags": [
-      "Medef",
-      "CDI",
-      "Emploi",
-      "Contrat",
-      "Économie"
+      "Travail"
     ],
     "analyzed_at": "2026-11-01T11:19:15.088714+00:00"
-  },
-  {
-    "id": "1qrioqm",
-    "title": "Elon Musk Emailed extensively with Jeffrey Epstein, asking to visit his notorious island",
-    "url": "https://futurism.com/future-society/elon-musk-jeffrey-epstein-island",
-    "permalink": "/r/france/comments/1qrioqm/elon_musk_emailed_extensively_with_jeffrey/",
-    "created_at": "2026-01-30T21:30:40+00:00",
-    "score": 1036,
-    "num_comments": 71,
-    "subreddit": "france",
-    "author": "la_mine_de_plomb",
-    "flair": "Actus",
-    "domain": "futurism.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/-vanYHojgU2TDT6paTf8ZIZu1FyLGoYnClVdjQnH4ck.jpeg?auto=webp&s=81c0ae6ce5734d76ba39a0d79d537a5a647069e5",
-    "ingested_at": "2026-11-01T11:17:32.725619+00:00",
-    "summary": "Newly released documents show how Elon Musk extensively communicated with Jeffrey Epstein to plan parties and trips to his island.",
-    "thumbnail": "thumbnails/1qrioqm.webp",
-    "tags": [
-      "Epstein",
-      "Jeffrey Epstein",
-      "Elon Musk Emailed",
-      "Elon Musk",
-      "Musk"
-    ],
-    "analyzed_at": "2026-11-01T11:19:15.914859+00:00"
   },
   {
     "id": "1qreydd",
@@ -223,9 +169,6 @@
     "summary": "Des millions de documents relatifs à l'affaire Epstein ont été partagés ce vendredi 30 janvier par l'administration Trump. Des photos et des vidéos qui peuvent être consultées en ligne, voici la marche à suivre.",
     "thumbnail": "thumbnails/1qreydd.webp",
     "tags": [
-      "Trump",
-      "Affaire Epstein",
-      "Epstein",
       "Donald Trump"
     ],
     "analyzed_at": "2026-11-01T11:19:15.318512+00:00"
@@ -247,13 +190,7 @@
     "ingested_at": "2026-11-01T11:17:32.728365+00:00",
     "summary": "La jeune (21 ans) superstar des San Antonio Spurs s’est récemment exprimée face à la presse au sujet des citoyens abattus par des agents fédéraux dans le Minnesota.",
     "thumbnail": "thumbnails/1qre9ay.webp",
-    "tags": [
-      "Minneapolis",
-      "Victor Wembanyama",
-      "Guerschon Yabusele",
-      "Wembanayama",
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:19:15.904602+00:00"
   },
   {
@@ -273,13 +210,7 @@
     "ingested_at": "2026-11-01T11:17:32.726485+00:00",
     "summary": "Luigi Mangione will not face the death penalty on charges of stalking and killing UnitedHealthcare CEO Brian Thompson in late 2024, a federal judge ruled Friday.",
     "thumbnail": "thumbnails/1qrc26q.webp",
-    "tags": [
-      "Luigi Mangione",
-      "UnitedHealthcare CEO's",
-      "UnitedHealthcare CEO Brian Thompson",
-      "Friday",
-      "Monde"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:19:45.666537+00:00"
   },
   {
@@ -300,11 +231,7 @@
     "summary": "Une étude alerte sur les conséquences économiques d’un renforcement des règles d’accès au territoire américain pour les touristes exemptés de visa",
     "thumbnail": "thumbnails/1qrbmzg.webp",
     "tags": [
-      "États-Unis",
-      "ESTA",
-      "WTTC",
-      "Economie du Tourisme",
-      "Monde"
+      "Économie"
     ],
     "analyzed_at": "2026-11-01T11:19:16.008671+00:00"
   },
@@ -326,34 +253,10 @@
     "summary": "En outre, le gouvernement, qui a insisté sur le fait que les «réfugiés doivent être au Danemark de manière temporaire», va renforcer les incitations au retour volontaire et serrer la vis pour les étrangers dans les centres de départ.",
     "thumbnail": "thumbnails/1qr5yp1.webp",
     "tags": [
-      "Danemark",
-      "Migrants",
-      "Politique"
+      "Justice",
+      "Immigration"
     ],
     "analyzed_at": "2026-11-01T11:19:16.218843+00:00"
-  },
-  {
-    "id": "1qr429c",
-    "title": "Capgemini délocalise son siège social en 1942",
-    "url": "https://www.legorafi.fr/2026/01/29/capgemini-delocalise-son-siege-social-en-1942/",
-    "permalink": "/r/france/comments/1qr429c/capgemini_délocalise_son_siège_social_en_1942/",
-    "created_at": "2026-01-30T12:26:17+00:00",
-    "score": 375,
-    "num_comments": 28,
-    "subreddit": "france",
-    "author": "word_clock",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/JKgDNkpEtrNhYotEJ2n70OanMqWMBnf34pmM99uiIlg.jpeg?auto=webp&s=7722c6dc41319d06e2d0256dd9e5cc3155c18832",
-    "ingested_at": "2026-11-01T11:17:32.728497+00:00",
-    "summary": "Accusée de fournir à la police de l’immigration américaine toutes les informations nécessaires à l’interpellation des étrangers sur leur sol, Capgemini a décidé d’aller au bout de ses convictions.",
-    "thumbnail": "thumbnails/1qr429c.webp",
-    "tags": [
-      "Donald Trump",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T11:19:16.299383+00:00"
   },
   {
     "id": "1qr3f7p",
@@ -373,11 +276,8 @@
     "summary": "Voir ou revoir l'émission Interdiction des réseaux sociaux aux moins de 15 ans : \"Ce n'est qu'un début, les VPN, c'est le prochain sujet sur ma liste\", assure Anne Le Hénanff, ministre de l'IA et du Numérique.",
     "thumbnail": "thumbnails/1qr3f7p.webp",
     "tags": [
-      "Anne le Hénanff",
-      "VPN",
-      "IA et du Numérique",
-      "Assemblée",
-      "Politique"
+      "Numérique",
+      "Intelligence artificielle"
     ],
     "analyzed_at": "2026-11-01T11:19:16.325673+00:00"
   },
@@ -399,11 +299,8 @@
     "summary": "Calomniée sur les réseaux sociaux, la principale de l’établissement, situé dans le quartier de Caudéran, a porté plainte contre lui le 27 janvier pour allégation mensongère et non-respect du droit à l’image. Au cœur de l’affaire : une histoire inventée de toilettes non genrées",
     "thumbnail": "thumbnails/1qr0y69.webp",
     "tags": [
-      "Bordeaux",
-      "Caudéran",
-      "Gironde",
-      "Yohan Pawer",
-      "Politique"
+      "Extrême droite",
+      "Éducation"
     ],
     "analyzed_at": "2026-11-01T11:19:16.559046+00:00"
   },
@@ -425,11 +322,7 @@
     "summary": "Tsahal rejette toutefois les affirmations de plusieurs organisations internationales selon lesquelles la majorité des victimes dans l’enclave palestinienne était des civils.",
     "thumbnail": "thumbnails/1qqyj6a.webp",
     "tags": [
-      "Gaza",
-      "Hamas",
-      "Palestiniens",
-      "Jerusalem Post",
-      "Monde"
+      "Conflit israélo-palestinien"
     ],
     "analyzed_at": "2026-11-01T11:19:21.144050+00:00"
   },
@@ -451,11 +344,7 @@
     "summary": "Donald Trump s’est largement confié à un journaliste de New York Magazine au sujet de sa santé. Niant souffrir du moindre problème mais déli",
     "thumbnail": "thumbnails/1qqs1c8.webp",
     "tags": [
-      "Donald Trump",
-      "New York Magazine",
-      "Trump",
-      "Maison Blanche",
-      "Monde"
+      "Donald Trump"
     ],
     "analyzed_at": "2026-11-01T11:19:16.687982+00:00"
   },
@@ -476,10 +365,7 @@
     "ingested_at": "2026-11-01T11:17:32.730764+00:00",
     "summary": "",
     "thumbnail": "thumbnails/1qqmou2.webp",
-    "tags": [
-      "Khaby Lame",
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:19:22.490504+00:00"
   },
   {
@@ -499,13 +385,7 @@
     "ingested_at": "2026-11-01T11:17:32.730787+00:00",
     "summary": "Visé par une procédure disciplinaire au Conseil d’État pour ses propos sur des « rafles » d’étrangers, l’ex-avocat Arno Klarsfeld va porter plainte pour « incitation à la haine » face aux « centaines de tweets abjects » le visant, ont annoncé jeudi 29 janvier ses avocats.",
     "thumbnail": "thumbnails/1qqm289.webp",
-    "tags": [
-      "Arno Klarsfeld",
-      "Conseil État",
-      "Conseil d'État",
-      "Justice",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:19:17.229829+00:00"
   },
   {
@@ -525,39 +405,8 @@
     "ingested_at": "2026-11-01T11:17:32.727151+00:00",
     "summary": "Dans la capitale iranienne, Arya décrit des hôpitaux où sont empilés les corps les uns sur les autres, et des morgues qui n’ont même plus de place. Dans la province du Guilan, à Lah...",
     "thumbnail": "thumbnails/1qqj92f.webp",
-    "tags": [
-      "Iran",
-      "Guilan",
-      "Lah",
-      "Payant",
-      "Monde"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:19:17.523659+00:00"
-  },
-  {
-    "id": "1qqcsvm",
-    "title": "76 % des Français favorables à la création de wagons SNCF sans cadres sup en conf’ call",
-    "url": "https://www.legorafi.fr/2026/01/29/76-des-francais-favorables-a-la-creation-de-wagons-sncf-sans-cadres-sup-en-conf-call/?fbclid=IwY2xjawPoZdNleHRuA2FlbQIxMABicmlkETFVQ0xiYWZrS3dVRUVudndGc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHihylhhps0z09taeRgYSH-MCjJKeYxP_2By_5MgXZcaR4gIivX_cS0B-HMkg_aem_ESOGatL6zvWbJKTfUTwExw",
-    "permalink": "/r/france/comments/1qqcsvm/76_des_français_favorables_à_la_création_de/",
-    "created_at": "2026-01-29T16:11:11+00:00",
-    "score": 1985,
-    "num_comments": 82,
-    "subreddit": "france",
-    "author": "I_poop_on_people",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/E-7hnSIlNJH7URaTHaEnUahzkMjddukqRmu1owd42fo.jpeg?auto=webp&s=69bea52dfc8b91ff7c0c1712055e6c364f040de2",
-    "ingested_at": "2026-11-01T11:17:32.725308+00:00",
-    "summary": "Après les wagons sans enfant, les Français attendent d’autres mesures pour améliorer leur confort à bord des trains SNCF.",
-    "thumbnail": "thumbnails/1qqcsvm.webp",
-    "tags": [
-      "SNCF",
-      "Français",
-      "Emmanuel Macron",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T11:19:17.944719+00:00"
   },
   {
     "id": "1qq5rvj",
@@ -576,12 +425,7 @@
     "ingested_at": "2026-11-01T11:17:32.728249+00:00",
     "summary": "La France insoumise, représentée par Clémence Guetté, a déposé le 15 janvier dernier une proposition de loi sur les droits à l’amitié, révèle \"Le Figaro\". Une proposition ouvrant la porte à de nombreuses idées et...",
     "thumbnail": "thumbnails/1qq5rvj.webp",
-    "tags": [
-      "LFI",
-      "Clémence Guetté",
-      "Figaro",
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:19:17.712237+00:00"
   },
   {
@@ -602,11 +446,7 @@
     "summary": "Le Premier ministre slovaque Robert Fico aurait confié à plusieurs dirigeants européens avoir été troublé par l'état d'esprit de Donald Trump après une rencontre à Mar-a-Lago le 17 janvier, selon Politico. Il aurait décrit un président américain « dangereux » et « hors de lui »",
     "thumbnail": "thumbnails/1qq4mk7.webp",
     "tags": [
-      "Donald Trump",
-      "Premier",
-      "Robert Fico",
-      "Politico",
-      "Monde"
+      "Donald Trump"
     ],
     "analyzed_at": "2026-11-01T11:19:18.572481+00:00"
   },
@@ -628,10 +468,7 @@
     "summary": "Le parti du président de la République changera bientôt de nom. Problème, il opterait pour celui d’un groupe de presse historique : le nôtre.",
     "thumbnail": "thumbnails/1qq3i4a.webp",
     "tags": [
-      "République",
-      "Nouvelle République",
-      "Gabriel Attal",
-      "Politique"
+      "Gabriel Attal"
     ],
     "analyzed_at": "2026-11-01T11:19:18.615996+00:00"
   },
@@ -652,12 +489,7 @@
     "ingested_at": "2026-11-01T11:17:32.726322+00:00",
     "summary": "Le géant français des services numériques est accusé de fournir des outils d’identification et de localisation de migrants sur le sol américain, suscitant le malaise, y compris en interne. Un conseil d’administration «exceptionnel» est prévu durant le week-end.",
     "thumbnail": "thumbnails/1qq1qm5.webp",
-    "tags": [
-      "Capgemini",
-      "ICE",
-      "États-Unis",
-      "Monde"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:19:18.269471+00:00"
   },
   {
@@ -678,10 +510,7 @@
     "summary": "Chantre d’un «non-alignement» sur la scène internationale, le leader insoumis «n’accepte pas l’idée que nous soyons obligés d’acheter du gaz et du pétrole américains».",
     "thumbnail": "thumbnails/1qq1asd.webp",
     "tags": [
-      "Jean-Luc Mélenchon",
-      "Russie",
-      "Nord Stream",
-      "Politique"
+      "Jean-Luc Mélenchon"
     ],
     "analyzed_at": "2026-11-01T11:19:18.586034+00:00"
   },
@@ -703,11 +532,8 @@
     "summary": "L'Assemblée nationale a adopté une proposition de loi précisant que le mariage \"ne crée aucune obligation\" sexuelle entre époux. Bientôt transmise au Sénat, elle vise à dépoussiérer le Code civil, à empêcher tout divorce fondé sur le \"devoir conjugal\" et à renforcer le consentement au sein des couples.",
     "thumbnail": "thumbnails/1qpp7h6.webp",
     "tags": [
-      "Sénat",
-      "Code",
-      "Violences sexuelles",
-      "Droits des femmes",
-      "Assemblée nationale"
+      "Institutions",
+      "Violences sexuelles"
     ],
     "analyzed_at": "2026-11-01T11:19:19.121698+00:00"
   },
@@ -729,11 +555,8 @@
     "summary": "« J’ai tué un Arabe et je suis fier de moi » avait lancé Florian Duplouis après avoir agressé un Algérien de 41 ans en 2024 croisé dans un c",
     "thumbnail": "thumbnails/1qpmb19.webp",
     "tags": [
-      "Pen",
-      "Florian Duplouis",
-      "Arabe",
-      "Algérien de 41",
-      "Fait Divers"
+      "Marine Le Pen",
+      "Racisme"
     ],
     "analyzed_at": "2026-11-01T11:19:19.191094+00:00"
   },
@@ -754,13 +577,7 @@
     "ingested_at": "2026-11-01T11:17:32.729286+00:00",
     "summary": "La star des Spurs de San Antonio a évoqué son inquiétude après l'opération anti-immigration lancée dans la ville américaine. \"Je trouve ça dingue que des gens puissent faire comme si (...) le meurtre de civils était tolérable.\"",
     "thumbnail": "thumbnails/1qpbo7n.webp",
-    "tags": [
-      "Minneapolis",
-      "Victor Wembanyama",
-      "Mort Alex Pretti",
-      "NBA",
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:19:18.929902+00:00"
   },
   {
@@ -782,10 +599,7 @@
     "thumbnail": "thumbnails/1qpbezk.webp",
     "tags": [
       "Elon Musk",
-      "Union",
-      "David Cormand",
-      "Grok",
-      "Société"
+      "Union européenne"
     ],
     "analyzed_at": "2026-11-01T11:19:19.948518+00:00"
   },
@@ -806,13 +620,7 @@
     "ingested_at": "2026-11-01T11:17:32.726224+00:00",
     "summary": "Le média spécialisé La Lettre révèle ce mercredi que le ministre des Finances Ro...",
     "thumbnail": "thumbnails/1qpazxg.webp",
-    "tags": [
-      "LMB Aerospace",
-      "Roland Lescure",
-      "Américain Loar Group",
-      "Lettre",
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:19:20.292084+00:00"
   },
   {
@@ -833,11 +641,8 @@
     "summary": "Julien Pereira, manager dans un club de tennis dans le Connecticut, a découvert avec surprise, en mars 2025, que son visa de travail n'est pas renouvelé. Il a alors été interpellé par la police aux frontières américaine. Il raconte.",
     "thumbnail": "thumbnails/1qp8ybq.webp",
     "tags": [
-      "ICE",
-      "Etats-Unis",
-      "Julien Pereira",
-      "Connecticut",
-      "Police de l'immigration américaine – ICE"
+      "Police",
+      "Prisons"
     ],
     "analyzed_at": "2026-11-01T11:19:19.530239+00:00"
   },
@@ -858,11 +663,7 @@
     "ingested_at": "2026-11-01T11:17:32.730433+00:00",
     "summary": "Plus de deux personnes âgées meurent chaque mois chez elle dans la solitude et l'indifférence. L'association les Petits Frères des Pauvres publie un rapport annuel. Un phénomène en augmentation et qui reste sous-évalué.",
     "thumbnail": "thumbnails/1qp5xpy.webp",
-    "tags": [
-      "Régions",
-      "Petits Frères des Pauvres",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:19:19.916389+00:00"
   },
   {
@@ -883,10 +684,7 @@
     "summary": "Le récit mortifère porté par l’administration Trump depuis que la police tue à Minneapolis gagne aussi du terrain en France. Il prend appui sur un fléau qui ronge la société et cogne chaque jour dava…",
     "thumbnail": "thumbnails/1qp5vyv.webp",
     "tags": [
-      "États-Unis",
-      "Minneapolis",
-      "Trump",
-      "Politique"
+      "Donald Trump"
     ],
     "analyzed_at": "2026-11-01T11:19:20.943059+00:00"
   },
@@ -908,39 +706,10 @@
     "summary": "L'ancien élu de 68 ans, accusé d'avoir agi dans le but de violer ou d'agresser sexuellement la victime, risquait jusqu'à cinq ans d'emprisonnement et 75 000 euros d'amende. Il a annoncé faire appel, par la voix de son avocat.",
     "thumbnail": "thumbnails/1qoqp5z.webp",
     "tags": [
-      "Sandrine Josso",
-      "Joël Guerriau",
-      "MDMA",
-      "Violences sexuelles",
-      "Justice – Procès"
+      "Justice",
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T11:19:20.317458+00:00"
-  },
-  {
-    "id": "1qompao",
-    "title": "A Call Is Rising for Nations to Boycott the Trump World Cup",
-    "url": "https://www.thenation.com/article/society/oke-goettlich-world-cup-boycott/",
-    "permalink": "/r/france/comments/1qompao/a_call_is_rising_for_nations_to_boycott_the_trump/",
-    "created_at": "2026-01-27T18:48:54+00:00",
-    "score": 326,
-    "num_comments": 28,
-    "subreddit": "france",
-    "author": "NoDiscount6470",
-    "flair": "Politique",
-    "domain": "thenation.com",
-    "selftext": "C'est une absolue nécessité ! En tant qu'Etats de boycotter le régime fachiste en place .",
-    "reddit_thumbnail": "https://external-preview.redd.it/bjT9EOoHsRGOwP2g4yGHQIaCcNiG2WOxKIh4WNmdJ-Q.jpeg?auto=webp&s=a254e192e9383b0d610a9891b651705c53bbc4e7",
-    "ingested_at": "2026-11-01T11:17:32.729263+00:00",
-    "summary": "As marauding state agents fill US streets, a leading German soccer official says countries should consider what was once unthinkable: skipping the 2026 World Cup.",
-    "thumbnail": "thumbnails/1qompao.webp",
-    "tags": [
-      "US",
-      "Call Is Rising",
-      "Trump World Cup",
-      "German",
-      "Politique"
-    ],
-    "analyzed_at": "2026-11-01T11:19:21.585073+00:00"
   },
   {
     "id": "1qolx99",
@@ -960,10 +729,7 @@
     "summary": "Une pétition lancée par des Danois pour \"acheter la Californie à Trump\" contre 1 000 milliards de dollars et des pâtisseries",
     "thumbnail": "thumbnails/1qolx99.webp",
     "tags": [
-      "Danois",
-      "Californie",
-      "Trump",
-      "Monde"
+      "Donald Trump"
     ],
     "analyzed_at": "2026-11-01T11:19:21.288970+00:00"
   },
@@ -985,60 +751,10 @@
     "summary": "Me Francis Vuillemin, conseil du prédicateur islamiste d’Abdelhakim Sefrioui, a affirmé lundi que le professeur décapité en 2020 « procédait",
     "thumbnail": "thumbnails/1qolme5.webp",
     "tags": [
-      "Samuel Paty",
-      "Abdelhakim Sefrioui",
-      "Francis Vuillemin",
-      "Société"
+      "Éducation",
+      "Justice"
     ],
     "analyzed_at": "2026-11-01T11:19:21.051019+00:00"
-  },
-  {
-    "id": "1qokzjr",
-    "title": "Arno Klarsfeld propose de coudre un petit symbole sur la veste des OQTF",
-    "url": "https://www.legorafi.fr/2026/01/27/arno-klarsfeld-propose-de-coudre-un-petit-symbole-sur-la-veste-des-oqtf/",
-    "permalink": "/r/france/comments/1qokzjr/arno_klarsfeld_propose_de_coudre_un_petit_symbole/",
-    "created_at": "2026-01-27T17:50:29+00:00",
-    "score": 657,
-    "num_comments": 50,
-    "subreddit": "france",
-    "author": "word_clock",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/NaPNPUxUDuoPcGY-KZS6ZcWFOyNhxJKJZowQU2_Oiz0.jpeg?auto=webp&s=e586add8e68a84482fe1236dd534ee8d5c5cbfc6",
-    "ingested_at": "2026-11-01T11:17:32.726369+00:00",
-    "summary": "L’avocat ne manque pas de bonnes idées pour régler la situation des personnes visées par une Obligation de Quitter le Territoire Français.",
-    "thumbnail": "thumbnails/1qokzjr.webp",
-    "tags": [
-      "OQTF",
-      "Arno Klarsfeld",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T11:19:21.088153+00:00"
-  },
-  {
-    "id": "1qoe4vd",
-    "title": "La police de l’immigration déboulonne la Statue de la Liberté et l’expulse vers la France",
-    "url": "https://www.legorafi.fr/2026/01/27/la-police-de-limmigration-deboulonne-la-statue-de-la-liberte-et-lexpulse-vers-la-france/",
-    "permalink": "/r/france/comments/1qoe4vd/la_police_de_limmigration_déboulonne_la_statue_de/",
-    "created_at": "2026-01-27T13:41:08+00:00",
-    "score": 754,
-    "num_comments": 40,
-    "subreddit": "france",
-    "author": "Short-Taste-2950",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/p1SHOeviiMR8LEckHG00s2tp-psyl9RtWJyZhJdm4YI.jpeg?auto=webp&s=1cae1f0f18ed08b6f7a3ff780910e12b99d13009",
-    "ingested_at": "2026-11-01T11:17:32.726081+00:00",
-    "summary": "La police de l’immigration américaine à basculé encore un petit peu plus dans l’horreur ce matin en attaquant un symbole du pays de la liberté.",
-    "thumbnail": "thumbnails/1qoe4vd.webp",
-    "tags": [
-      "Statue de la Liberté",
-      "Donald Trump",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T11:19:21.305295+00:00"
   },
   {
     "id": "1qod44c",
@@ -1057,13 +773,7 @@
     "ingested_at": "2026-11-01T11:17:32.726580+00:00",
     "summary": "Ces gardes à vue ne sont pas en lien direct avec l’enquête ouverte en « recherches des causes de la mort » à la suite du décès de Jean Porma",
     "thumbnail": "thumbnails/1qod44c.webp",
-    "tags": [
-      "Jean Pormanove",
-      "Kick",
-      "Safine",
-      "Jean Porma",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:19:21.402897+00:00"
   },
   {
@@ -1083,40 +793,8 @@
     "ingested_at": "2026-11-01T11:17:32.726629+00:00",
     "summary": "Ils viendront «afin d’évaluer et d’atténuer les risques liés aux organisations criminelles transnationales», a déclaré l’ICE dans un communiqué. Le maire de Milan s’y oppose.",
     "thumbnail": "thumbnails/1qoc1md.webp",
-    "tags": [
-      "Italie",
-      "ICE",
-      "Milan",
-      "Etats-Unis",
-      "Monde"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:19:21.517362+00:00"
-  },
-  {
-    "id": "1qoapef",
-    "title": "Stop Killing Games' EU petition amassed just under 1.3 million verified signatures, according to final count",
-    "url": "https://www.rockpapershotgun.com/stop-killing-games-eu-petition-amassed-just-under-13-million-verified-signatures-according-to-final-count",
-    "permalink": "/r/france/comments/1qoapef/stop_killing_games_eu_petition_amassed_just_under/",
-    "created_at": "2026-01-27T10:54:54+00:00",
-    "score": 318,
-    "num_comments": 37,
-    "subreddit": "france",
-    "author": "Folivao",
-    "flair": "Société",
-    "domain": "rockpapershotgun.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/B9H6BUg22yxKdS3EKrBLomLt1iSg4b-yKSltiTVHhcA.jpeg?auto=webp&s=bc8f1718ca96cfd7e25439859e81f0ecafe979e6",
-    "ingested_at": "2026-11-01T11:17:32.729521+00:00",
-    "summary": "A final count released by the Stop Killing Games campaign states that their EU Citizens' Initiative has amassed just under 1.3 million verified signatures.",
-    "thumbnail": "thumbnails/1qoapef.webp",
-    "tags": [
-      "Stop Killing Games EU",
-      "Stop Killing Games",
-      "Anthem",
-      "EU Citizens Initiative",
-      "Société"
-    ],
-    "analyzed_at": "2026-11-01T11:19:21.744526+00:00"
   },
   {
     "id": "1qo8gr9",
@@ -1135,13 +813,7 @@
     "ingested_at": "2026-11-01T11:17:32.729791+00:00",
     "summary": "More Democrats have signed on in the wake of U.S. citizen Alex Pretti being killed by federal agents in Minneapolis.",
     "thumbnail": "thumbnails/1qo8gr9.webp",
-    "tags": [
-      "Kristi Noem",
-      "Minneapolis",
-      "Noem",
-      "Alex Pretti",
-      "Monde"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:19:23.168841+00:00"
   },
   {
@@ -1162,8 +834,6 @@
     "summary": "Pour la troisième année consécutive, le PIB par habitant français est inférieur à la moyenne européenne. Antoine Foucher explique les causes de ce lent, constant et pénible déclassement national.",
     "thumbnail": "thumbnails/1qo5g8j.webp",
     "tags": [
-      "PIB",
-      "Antoine Foucher",
       "Économie"
     ],
     "analyzed_at": "2026-11-01T11:19:30.910890+00:00"
@@ -1186,7 +856,8 @@
     "summary": "",
     "thumbnail": "thumbnails/1qnsywn.webp",
     "tags": [
-      "Société"
+      "Numérique",
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T11:19:21.929143+00:00"
   },
@@ -1208,11 +879,8 @@
     "summary": "Capgemini, entreprise de services du numérique française, a décroché des contrats pour l'ICE, la très controversée police anti-immigration américaine. Elle l'aide notamment à identifier et localiser des étrangers, avec un important chèque à la clé.",
     "thumbnail": "thumbnails/1qns17n.webp",
     "tags": [
-      "ICE",
-      "Capgemini",
-      "Etats-Unis",
-      "Police de l'immigration américaine – ICE",
-      "Monde"
+      "Police",
+      "Immigration"
     ],
     "analyzed_at": "2026-11-01T11:19:21.838137+00:00"
   },
@@ -1234,11 +902,7 @@
     "summary": "La police de l’immigration, qui fait régner la terreur à Minneapolis, a plus que doublé ses effectifs depuis le retour du milliardaire à la Maison-Blanche. Étant l’une des agences fédérales les mieux…",
     "thumbnail": "thumbnails/1qnroxh.webp",
     "tags": [
-      "Donald Trump",
-      "ICE",
-      "Minneapolis",
-      "Maison-Blanche",
-      "Monde"
+      "Donald Trump"
     ],
     "analyzed_at": "2026-11-01T11:19:22.823129+00:00"
   },
@@ -1260,11 +924,7 @@
     "summary": "Jean-Marc Morandini a été condamné de façon définitive pour corruption de mineur. Il reste aussi impliqué dans une autre affaire pour harcèlement sexuel.",
     "thumbnail": "thumbnails/1qnqu8q.webp",
     "tags": [
-      "Jean-Marc Morandini",
-      "Morandini",
-      "CNews",
-      "RN",
-      "Fait Divers"
+      "Jordan Bardella"
     ],
     "analyzed_at": "2026-11-01T11:19:22.233251+00:00"
   },
@@ -1285,13 +945,7 @@
     "ingested_at": "2026-11-01T11:17:32.725790+00:00",
     "summary": "Alors que la police de l'immigration a fait deux victimes ces dernières semaines à Minneapolis, ses méthodes brutales sont de plus en plus décriées outre-Atlantique. Julien Pereira, 26 ans, a habité six ans aux États-Unis et a été détenu pendant un mois par l'ICE. Il témoigne d'un climat de \"peur\"...",
     "thumbnail": "thumbnails/1qnpnhi.webp",
-    "tags": [
-      "ICE",
-      "États-Unis",
-      "Français",
-      "Julien Pereira",
-      "Monde"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:19:22.173887+00:00"
   },
   {
@@ -1312,36 +966,10 @@
     "summary": "Pour son procès en appel, Marine Le Pen continue de raconter qu’elle n’a jamais eu l'intention de contourner les règles du Parlement européen car l'ex-patronne…",
     "thumbnail": "thumbnails/1qnllob.webp",
     "tags": [
-      "Marine le Pen",
-      "Canard",
-      "FN",
-      "Parlement",
-      "Politique"
+      "Marine Le Pen",
+      "Justice"
     ],
     "analyzed_at": "2026-11-01T11:19:22.542956+00:00"
-  },
-  {
-    "id": "1qnfelg",
-    "title": "Après les trains sans enfants, la SNCF renonce à lancer les trains sans retard",
-    "url": "https://www.legorafi.fr/2026/01/26/apres-les-trains-sans-enfants-la-sncf-renonce-a-lancer-les-trains-sans-retard/",
-    "permalink": "/r/france/comments/1qnfelg/après_les_trains_sans_enfants_la_sncf_renonce_à/",
-    "created_at": "2026-01-26T13:01:28+00:00",
-    "score": 281,
-    "num_comments": 38,
-    "subreddit": "france",
-    "author": "Short-Taste-2950",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/E-7hnSIlNJH7URaTHaEnUahzkMjddukqRmu1owd42fo.jpeg?auto=webp&s=69bea52dfc8b91ff7c0c1712055e6c364f040de2",
-    "ingested_at": "2026-11-01T11:17:32.730245+00:00",
-    "summary": "C’était une grande attente des usagers de la SNCF, mais le groupe ferroviaire a fait savoir qu’il renonçait finalement à lancer les “trains sans retard”, faute de faisabilité.",
-    "thumbnail": "thumbnails/1qnfelg.webp",
-    "tags": [
-      "SNCF",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T11:19:22.467107+00:00"
   },
   {
     "id": "1qne3aa",
@@ -1361,11 +989,8 @@
     "summary": "L’outil d’intelligence artificielle développé par OpenAI se réfèrerait à des informations issues de l’encyclopédie d’Elon Musk, concurrente de Wikipédia et dont la fiabilité est contestée.",
     "thumbnail": "thumbnails/1qne3aa.webp",
     "tags": [
-      "IA",
-      "OpenAI",
-      "Grokipedia",
-      "Elon Musk",
-      "Tech"
+      "Intelligence artificielle",
+      "Elon Musk"
     ],
     "analyzed_at": "2026-11-01T11:19:22.771555+00:00"
   },
@@ -1387,38 +1012,11 @@
     "summary": "",
     "thumbnail": "thumbnails/1qnd6bp.webp",
     "tags": [
-      "Orange",
-      "Yann Bompard",
-      "RN Marie-France Lorho",
-      "Politique"
+      "Manuel Bompard",
+      "Justice",
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T11:19:22.921121+00:00"
-  },
-  {
-    "id": "1qn9h53",
-    "title": "L’ancien chancelier allemand, Gerhard Schröder a appelé à mettre fin à la « diabolisation » de la Russie et à reprendre la coopération énergétique avec elle, dans une tribune publiée dans le Berliner Zeitung le 23 janvier.",
-    "url": "https://www.berliner-zeitung.de/politik-gesellschaft/ein-jahrzehnt-der-bewaehrung-li.10015423",
-    "permalink": "/r/france/comments/1qn9h53/lancien_chancelier_allemand_gerhard_schröder_a/",
-    "created_at": "2026-01-26T07:28:18+00:00",
-    "score": 442,
-    "num_comments": 170,
-    "subreddit": "france",
-    "author": "MundanePresence",
-    "flair": "Actus",
-    "domain": "berliner-zeitung.de",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/ixohT23rkqc0ShHiL_aamVbBczPq6v3DIO4ohpPm2CE.jpeg?auto=webp&s=9e9103d7f5e7f613ded033d9257015dac4311352",
-    "ingested_at": "2026-11-01T11:17:32.727691+00:00",
-    "summary": "Der Altkanzler hält Deutschlands Geschäftsmodell für überholt. Er warnt vor Hochrüstung, kritisiert „Zensurnetzwerke“ und plädiert für Kooperationen mit Russland.",
-    "thumbnail": "thumbnails/1qn9h53.webp",
-    "tags": [
-      "Gerhard Schröder",
-      "Russland",
-      "Russie",
-      "Berliner Zeitung le 23",
-      "SPD"
-    ],
-    "analyzed_at": "2026-11-01T11:19:23.461748+00:00"
   },
   {
     "id": "1qmyone",
@@ -1437,13 +1035,7 @@
     "ingested_at": "2026-11-01T11:17:32.730409+00:00",
     "summary": "L’Académie des sciences morales et politiques recevra, lundi 26 janvier, l’entrepreneur technofasciste Peter Thiel pour « une audition » dans le cadre d’un « g...",
     "thumbnail": "thumbnails/1qmyone.webp",
-    "tags": [
-      "Peter Thiel",
-      "Académie",
-      "Palantir",
-      "Gratuit",
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:19:23.583433+00:00"
   },
   {
@@ -1464,36 +1056,9 @@
     "summary": "",
     "thumbnail": "thumbnails/1qms0ni.webp",
     "tags": [
-      "Barack Obama",
-      "Alex Pretti",
-      "Minneapolis",
-      "Monde"
+      "Barack Obama"
     ],
     "analyzed_at": "2026-11-01T11:19:23.387102+00:00"
-  },
-  {
-    "id": "1qmnphy",
-    "title": "Yes, It’s Fascism",
-    "url": "https://www.theatlantic.com/ideas/2026/01/america-fascism-trump-maga-ice/685751/",
-    "permalink": "/r/france/comments/1qmnphy/yes_its_fascism/",
-    "created_at": "2026-01-25T16:28:24+00:00",
-    "score": 1251,
-    "num_comments": 149,
-    "subreddit": "france",
-    "author": "Folivao",
-    "flair": "Monde",
-    "domain": "theatlantic.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/KzctAiYOAT6UlqCoRuRFLLGLfeaSBtA12wDHhKr1jFM.png?auto=webp&s=7c00d3e95c7a6170785780c86338e56a7d552aa4",
-    "ingested_at": "2026-11-01T11:17:32.725418+00:00",
-    "summary": "Until recently, I thought it a term best avoided. But now, the resemblances are too many and too strong to deny.",
-    "thumbnail": "thumbnails/1qmnphy.webp",
-    "tags": [
-      "It's Fascism",
-      "Ideas",
-      "Monde"
-    ],
-    "analyzed_at": "2026-11-01T11:19:27.487718+00:00"
   },
   {
     "id": "1qmj9yt",
@@ -1513,11 +1078,8 @@
     "summary": "Le président du Conseil européen António Costa est arrivé en Inde, alors que les deux mastodontes économiques cherchent à conclure un accord de libre-échange, couronnant près de deux décennies de négociations.",
     "thumbnail": "thumbnails/1qmj9yt.webp",
     "tags": [
-      "Inde",
-      "Guerre commerciale",
-      "Union européenne",
-      "Conseil",
-      "Économie"
+      "Économie",
+      "Élections"
     ],
     "analyzed_at": "2026-11-01T11:19:23.587152+00:00"
   },
@@ -1539,11 +1101,8 @@
     "summary": "Interrogé sur CNews samedi 24 janvier, l’ancien avocat et conseiller d’État Arno Klarsfeld a appelé à organiser des rafles contre les personnes en situation irrégulière sur l...",
     "thumbnail": "thumbnails/1qmisdm.webp",
     "tags": [
-      "CNews",
-      "Arno Klarsfeld",
-      "OQTF",
-      "État Arno Klarsfeld",
-      "Politique"
+      "Médias",
+      "Immigration"
     ],
     "analyzed_at": "2026-11-01T11:19:24.224159+00:00"
   },
@@ -1565,38 +1124,9 @@
     "summary": "Alex Pretti’s death could be a moment of reckoning for Democrats to call time on Trump waging war on his people",
     "thumbnail": "thumbnails/1qmgi27.webp",
     "tags": [
-      "Minneapolis",
-      "Trump",
-      "Democrats",
-      "Donald Trump",
-      "Monde"
+      "Donald Trump"
     ],
     "analyzed_at": "2026-11-01T11:19:23.648110+00:00"
-  },
-  {
-    "id": "1qmbngt",
-    "title": "L’effondrement de la fiabilité de ChatGPT face à la contamination par Grokipedia",
-    "url": "https://blogs.mediapart.fr/romain-leclaire/blog/240126/l-effondrement-de-la-fiabilite-de-chatgpt-face-la-contamination-par-grokipedia",
-    "permalink": "/r/france/comments/1qmbngt/leffondrement_de_la_fiabilité_de_chatgpt_face_à/",
-    "created_at": "2026-01-25T06:35:05+00:00",
-    "score": 573,
-    "num_comments": 217,
-    "subreddit": "france",
-    "author": "taigaV",
-    "flair": "Société",
-    "domain": "blogs.mediapart.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/LvOoKidWISlJfbkHyTFKL2z2yYm1m2CDB3Y9317wauc.jpeg?auto=webp&s=23e499f076f0e2f0634d8632fcd6d4bef44e986f",
-    "ingested_at": "2026-11-01T11:17:32.726606+00:00",
-    "summary": "La promesse de départ de l'intelligence artificielle générative était celle d'un accès rapide, synthétique et relativement fiable à la connaissance humaine. Pourtant, les récents développements autou…",
-    "thumbnail": "thumbnails/1qmbngt.webp",
-    "tags": [
-      "Grokipedia",
-      "ChatGPT",
-      "OpenAI",
-      "Société"
-    ],
-    "analyzed_at": "2026-11-01T11:19:25.164688+00:00"
   },
   {
     "id": "1qmaz5l",
@@ -1616,11 +1146,9 @@
     "summary": "Cet Américain de 37 ans a été tué par des agents fédéraux en pleine rue, samedi, dans le Minnesota. Deux semaines plus tôt, ses parents lui avaient conseillé d’être prudent lors des manifestations.",
     "thumbnail": "thumbnails/1qmaz5l.webp",
     "tags": [
-      "Minneapolis",
-      "Alex Pretti",
-      "États-Unis",
-      "Donald Trump",
-      "Monde"
+      "Police",
+      "Immigration",
+      "Donald Trump"
     ],
     "analyzed_at": "2026-11-01T11:19:23.863465+00:00"
   },
@@ -1642,11 +1170,8 @@
     "summary": "Une vidéo postée sur X ce samedi 24 janvier montre des agents fédéraux tirer sur un homme en pleine rue, deux semaines après la mort de Renée Good. Sa mort a été confirmée par le chef de la police de Minneapolis.",
     "thumbnail": "thumbnails/1qludx0.webp",
     "tags": [
-      "Minneapolis",
-      "Etats-Unis",
-      "ICE",
-      "Renée Good",
-      "Monde"
+      "Police",
+      "Manifestations"
     ],
     "analyzed_at": "2026-11-01T11:19:26.230038+00:00"
   },
@@ -1667,13 +1192,7 @@
     "ingested_at": "2026-11-01T11:17:32.728871+00:00",
     "summary": "L’Académie des sciences morales et politiques recevra, lundi 26 janvier, l’entrepreneur pour «une audition» dans le cadre d’un «groupe de travail».",
     "thumbnail": "thumbnails/1qlqfjr.webp",
-    "tags": [
-      "Peter Thiel",
-      "Institut de France",
-      "Science & Tech",
-      "Technology",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:19:26.322689+00:00"
   },
   {
@@ -1695,10 +1214,7 @@
     "thumbnail": "thumbnails/1qloa26.webp",
     "tags": [
       "Emmanuel Macron",
-      "Assemblée",
-      "République",
-      "Laure Miller",
-      "Réseaux Sociaux"
+      "Numérique"
     ],
     "analyzed_at": "2026-11-01T11:19:24.302688+00:00"
   },
@@ -1719,13 +1235,7 @@
     "ingested_at": "2026-11-01T11:17:32.730057+00:00",
     "summary": "En 2024, près d'un quart des candidats au permis B ont financé leur formation avec un CPF.",
     "thumbnail": "thumbnails/1qlmwli.webp",
-    "tags": [
-      "CPF",
-      "Edouard Rudolf",
-      "Éco / Conso",
-      "Emploi",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:19:24.609134+00:00"
   },
   {
@@ -1747,9 +1257,7 @@
     "thumbnail": "thumbnails/1qlj8lf.webp",
     "tags": [
       "Jean-Luc Mélenchon",
-      "Jordan Bardella",
-      "Grand remplacement",
-      "Politique"
+      "Jordan Bardella"
     ],
     "analyzed_at": "2026-11-01T11:19:24.494416+00:00"
   },
@@ -1771,39 +1279,9 @@
     "summary": "Plusieurs personnalités ou partis politiques annoncent à Mediapart ne plus vouloir retourner dans l’émission de l’animateur condamné pour corruption de mineurs. Seul le Rassemblement national, qui pr…",
     "thumbnail": "thumbnails/1qlidub.webp",
     "tags": [
-      "Jean-Marc Morandini",
-      "CNews",
-      "RN",
-      "Rassemblement",
-      "Politique"
+      "Médias"
     ],
     "analyzed_at": "2026-11-01T11:19:24.874242+00:00"
-  },
-  {
-    "id": "1ql64sq",
-    "title": "Le Danemark Envisage De Lever Son Interdiction Du Nucléaire Vieille De 40 Ans",
-    "url": "https://energynews.pro/le-danemark-envisage-de-lever-son-interdiction-du-nucleaire-vieille-de-40-ans/",
-    "permalink": "/r/france/comments/1ql64sq/le_danemark_envisage_de_lever_son_interdiction_du/",
-    "created_at": "2026-01-23T23:11:00+00:00",
-    "score": 291,
-    "num_comments": 58,
-    "subreddit": "france",
-    "author": "Zealousideal-Pool575",
-    "flair": "Monde",
-    "domain": "energynews.pro",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/d3iB-H5Tlhqu5DtEV8MzIENAb4z_kZKS59Lc1aBWMTc.jpeg?auto=webp&s=235de004c01a5856c15417b93efc0b653468bff0",
-    "ingested_at": "2026-11-01T11:17:32.729932+00:00",
-    "summary": "Le Danemark Ã©tudie la levÃ©e de son interdiction du nuclÃ©aire datant de 1985 pour intÃ©grer des petits rÃ©acteurs modulaires (SMR) Ã son mix Ã©lectriqueâ¦",
-    "thumbnail": "thumbnails/1ql64sq.webp",
-    "tags": [
-      "Danemark Envisage de Lever",
-      "Interdiction du Nucléaire Vieille de 40",
-      "Ans",
-      "NuclÃ©aire",
-      "Monde"
-    ],
-    "analyzed_at": "2026-11-01T11:19:26.545088+00:00"
   },
   {
     "id": "1qkzqus",
@@ -1823,10 +1301,7 @@
     "summary": "La vidéo qui aurait été filmée lundi soir dans le 10e arrondissement de Paris montre plusieurs policiers frapper un homme, notamment à coups de matraque. La police des polices a été saisie.",
     "thumbnail": "thumbnails/1qkzqus.webp",
     "tags": [
-      "Paris",
-      "IGPN",
-      "Violences policières",
-      "Faits-divers"
+      "Police"
     ],
     "analyzed_at": "2026-11-01T11:19:25.203794+00:00"
   },
@@ -1848,8 +1323,8 @@
     "summary": "",
     "thumbnail": "thumbnails/1qkwvil.webp",
     "tags": [
-      "Assemblée",
-      "Politique"
+      "Police",
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T11:19:25.604739+00:00"
   },
@@ -1871,11 +1346,7 @@
     "summary": "Un an après le retour de Donald Trump, les États-Unis basculent vers un État autoritaire. Amnesty International a documenté de nombreuses attaques contre",
     "thumbnail": "thumbnails/1qkt6et.webp",
     "tags": [
-      "États-Unis",
-      "Donald Trump",
-      "Trump",
-      "Amnesty International France",
-      "Monde"
+      "Donald Trump"
     ],
     "analyzed_at": "2026-11-01T11:19:25.666978+00:00"
   },
@@ -1897,11 +1368,8 @@
     "summary": "Selon les informations de StreetPress, SOSÂ Racisme a dÃ©posÃ© plainte contre lâinfluenceuse dâextrÃªme droite Mila Orriols aprÃ¨s la diffusion dâun visuel faisant rÃ©fÃ©rence au nazisme sur Instagram.",
     "thumbnail": "thumbnails/1qkt04j.webp",
     "tags": [
-      "Mila Orriols",
-      "Instagram",
-      "Â Â",
-      "SOSÂ Racisme",
-      "Politique"
+      "Racisme",
+      "Extrême droite"
     ],
     "analyzed_at": "2026-11-01T11:19:25.858644+00:00"
   },
@@ -1923,11 +1391,7 @@
     "summary": "À plusieurs reprises, la chaîne du groupe Bolloré a présenté comme sa correspondante à Pékin une journaliste de CGTN-Français, la télévision d’information internationale chinoise francophone, sans so…",
     "thumbnail": "thumbnails/1qkso3a.webp",
     "tags": [
-      "BFMTV",
-      "État",
-      "Pékin",
-      "Bolloré",
-      "CGTN-Français"
+      "Médias"
     ],
     "analyzed_at": "2026-11-01T11:19:26.633538+00:00"
   },
@@ -1949,9 +1413,6 @@
     "summary": "",
     "thumbnail": "thumbnails/1qkq1lc.webp",
     "tags": [
-      "Nestlé",
-      "Bordeaux",
-      "Angers",
       "Santé"
     ],
     "analyzed_at": "2026-11-01T11:19:26.274516+00:00"
@@ -1974,11 +1435,7 @@
     "summary": "Après son discours agressif à Davos, des propos erronés ou encore la publication de messages privés échangés avec ses homologues, des élus démocrates avancent que le président américain est atteint de démence.",
     "thumbnail": "thumbnails/1qkolwq.webp",
     "tags": [
-      "Donald Trump",
-      "Davos",
-      "États-Unis",
-      "Donald Trump - Président des États-Unis",
-      "Etats Unis d'Amérique"
+      "Donald Trump"
     ],
     "analyzed_at": "2026-11-01T11:19:26.537074+00:00"
   },
@@ -2000,39 +1457,9 @@
     "summary": "Après avoir bousculé l’ordre mondial et s’être retiré de plusieurs instances de l’ONU, Donald Trump s’essaie à la création d’une institution",
     "thumbnail": "thumbnails/1qkknbi.webp",
     "tags": [
-      "Donald Trump",
-      "Premier",
-      "Conseil",
-      "ONU",
-      "Monde"
+      "Donald Trump"
     ],
     "analyzed_at": "2026-11-01T11:19:26.677393+00:00"
-  },
-  {
-    "id": "1qkaw0g",
-    "title": "Comment un champion du CAC40 [Capgemini] aide l'ICE de Trump à traquer les migrants",
-    "url": "https://multinationales.org/fr/a-chaud/actualites/comment-un-champion-du-cac40-aide-l-ice-de-trump-a-traquer-les-migrants",
-    "permalink": "/r/france/comments/1qkaw0g/comment_un_champion_du_cac40_capgemini_aide_lice/",
-    "created_at": "2026-01-22T23:50:54+00:00",
-    "score": 390,
-    "num_comments": 35,
-    "subreddit": "france",
-    "author": "Folivao",
-    "flair": "Monde",
-    "domain": "multinationales.org",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/4gCgfhBibNLPrAHu5A6kY1sIL_MdD9_fSq7iu02VbvU.png?auto=webp&s=2d542eae3f363662f0ef861ce3bafc6820e159f6",
-    "ingested_at": "2026-11-01T11:17:32.728226+00:00",
-    "summary": "ICE, la milice anti-migrants de Trump, est à nouveau au centre de l'actualité depuis l'assassinat de Renee Good à Minneapolis. De nombreuses entreprises profitent à plein de l'expansion du budget et des (…)",
-    "thumbnail": "thumbnails/1qkaw0g.webp",
-    "tags": [
-      "ICE",
-      "CAC40",
-      "ICE de Trump",
-      "Trump",
-      "Monde"
-    ],
-    "analyzed_at": "2026-11-01T11:19:26.855096+00:00"
   },
   {
     "id": "1qk72l9",
@@ -2052,10 +1479,7 @@
     "summary": "Pour le député (ex-LFI), le constat est clair : «Notre pays est en dépression».",
     "thumbnail": "thumbnails/1qk72l9.webp",
     "tags": [
-      "François Ruffin",
-      "Fou",
-      "États-Unis",
-      "Politique"
+      "François Ruffin"
     ],
     "analyzed_at": "2026-11-01T11:19:26.836616+00:00"
   },
@@ -2077,36 +1501,11 @@
     "summary": "Sur son site de campagne, la candidate Reconquête utilise des images générées par l’intelligence artificielle pour montrer des scènes parisi",
     "thumbnail": "thumbnails/1qjxxj1.webp",
     "tags": [
+      "Intelligence artificielle",
       "Sarah Knafo",
-      "Paris",
-      "IA",
-      "Reconquête",
-      "Politique"
+      "Élections"
     ],
     "analyzed_at": "2026-11-01T11:19:27.021709+00:00"
-  },
-  {
-    "id": "1qjxs4p",
-    "title": "\"Une fellation à son petit frère de 14 ans\" : Jean-Marc Morandini, ce qu’il aurait demandé à une de ses victimes",
-    "url": "https://www.public.fr/une-fellation-a-son-petit-frere-de-14-ans-jean-marc-morandini-ce-quil-aurait-demande-a-une-de-ses-victimes",
-    "permalink": "/r/france/comments/1qjxs4p/une_fellation_à_son_petit_frère_de_14_ans/",
-    "created_at": "2026-01-22T15:39:14+00:00",
-    "score": 479,
-    "num_comments": 66,
-    "subreddit": "france",
-    "author": "SaneFive",
-    "flair": "Actus",
-    "domain": "public.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/7B8NmcSmYDlP1h0Fc51ZMiDu014UXoy_FNPHNbayZAI.jpeg?auto=webp&s=d5243d10cad8e3e0f7bd0ed5ea12ec688e73c696",
-    "ingested_at": "2026-11-01T11:17:32.727340+00:00",
-    "summary": "Sur le plateau de l’émission À l’air libre, la journaliste Fanny Marlier a fait de terribles révélations concernant les supposés échanges qu’auraient eus le journaliste Jean-Marc Morandini avec ses présumées victimes mineurs.",
-    "thumbnail": "thumbnails/1qjxs4p.webp",
-    "tags": [
-      "Jean-Marc Morandini",
-      "Fanny Marlier"
-    ],
-    "analyzed_at": "2026-11-01T11:19:27.139482+00:00"
   },
   {
     "id": "1qjw4pg",
@@ -2126,8 +1525,8 @@
     "summary": "«Flic, violeur, assassin», le slogan entendu en manifestation n’a jamais été aussi justifié.",
     "thumbnail": "thumbnails/1qjw4pg.webp",
     "tags": [
-      "OQTF",
-      "Société"
+      "Police",
+      "Extrême droite"
     ],
     "analyzed_at": "2026-11-01T11:19:28.432122+00:00"
   },
@@ -2148,36 +1547,8 @@
     "ingested_at": "2026-11-01T11:17:32.725960+00:00",
     "summary": "Alors que l’établissement est visé par plus de 200 plaintes d’anciens élèves pour violences ou abus sexuelles, le président de l’organisme de gestion de l’enseignement catholique a déclaré ce jeudi 22 janvier que...",
     "thumbnail": "thumbnails/1qjw4ab.webp",
-    "tags": [
-      "Bétharram",
-      "Rome",
-      "Vincent Guéret"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:19:27.545903+00:00"
-  },
-  {
-    "id": "1qjv6pp",
-    "title": "Les supporters de Donald Trump inquiets de la “trumpisation” de Donald Trump",
-    "url": "https://www.legorafi.fr/2026/01/22/les-supporters-de-donald-trump-inquiets-de-la-trumpisation-de-donald-trump/",
-    "permalink": "/r/france/comments/1qjv6pp/les_supporters_de_donald_trump_inquiets_de_la/",
-    "created_at": "2026-01-22T13:56:45+00:00",
-    "score": 364,
-    "num_comments": 30,
-    "subreddit": "france",
-    "author": "Short-Taste-2950",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/PnJ412t4pT6fYec5fnpAFkOAkY8F_j_vH6ZW014ZRFY.png?auto=webp&s=d5dfb4ef513116c289a22e75022c6197a2c7d7e9",
-    "ingested_at": "2026-11-01T11:17:32.728573+00:00",
-    "summary": "Donald Trump serait-il en train de se “trumpiser”? C’est ce que craignent certains de ses électeurs, qui s’inquiètent de le voir peu à peu basculer dans l’outrance.",
-    "thumbnail": "thumbnails/1qjv6pp.webp",
-    "tags": [
-      "Donald Trump",
-      "Emmanuel Macron",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T11:19:27.043191+00:00"
   },
   {
     "id": "1qjulsr",
@@ -2196,13 +1567,7 @@
     "ingested_at": "2026-11-01T11:17:32.729862+00:00",
     "summary": "Une proposition de loi visant à lutter contre des « formes renouvelées » d’antisémitisme a été adoptée de justesse par les députés en commission des lois, mardi 20 janvier. Ce texte, qui a reçu le soutien du camp gouvernemental et de l’extrême droite, continue de susciter des inquiétudes à gauche.",
     "thumbnail": "thumbnails/1qjulsr.webp",
-    "tags": [
-      "Israël",
-      "Caroline Yadan",
-      "État",
-      "Projet de loi et réforme",
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:19:27.700734+00:00"
   },
   {
@@ -2223,11 +1588,10 @@
     "summary": "Un amendement déposé par des proches de Bruno Retailleau a totalement réécrit l'article consacré à l'assistance médicale à mourir, le vidant de sa substance.",
     "thumbnail": "thumbnails/1qjrp79.webp",
     "tags": [
-      "Sénat",
+      "Institutions",
       "Bruno Retailleau",
-      "Assemblée",
-      "Laurent Nunez",
-      "Politique"
+      "Fin de vie",
+      "Laurent Nuñez"
     ],
     "analyzed_at": "2026-11-01T11:19:27.567572+00:00"
   },
@@ -2249,10 +1613,7 @@
     "summary": "",
     "thumbnail": "thumbnails/1qjrjw9.webp",
     "tags": [
-      "SNCF",
-      "Optimum",
-      "TGV Paris-Lyon",
-      "Société"
+      "Transports"
     ],
     "analyzed_at": "2026-11-01T11:19:27.922543+00:00"
   },
@@ -2274,11 +1635,7 @@
     "summary": "Albane Buriel a été violemment attaquée samedi dans un village situé entre Jérusalem et Ramallah. Elle témoigne pour la première fois.",
     "thumbnail": "thumbnails/1qjdy30.webp",
     "tags": [
-      "Cisjordanie",
-      "Albane Buriel",
-      "Jérusalem et Ramallah",
-      "Léon XIV",
-      "Monde"
+      "Conflit israélo-palestinien"
     ],
     "analyzed_at": "2026-11-01T11:19:27.941963+00:00"
   },
@@ -2300,11 +1657,7 @@
     "summary": "Mark Carney a appelé les \"puissances moyennes\" à s'unir pour faire face aux forces \"hégémoniques\", sans citer ouvertement Donald Trump.",
     "thumbnail": "thumbnails/1qj4sq5.webp",
     "tags": [
-      "Davos",
-      "Premier",
-      "Donald Trump",
-      "Mark Carney",
-      "Canada"
+      "Donald Trump"
     ],
     "analyzed_at": "2026-11-01T11:19:28.112159+00:00"
   },
@@ -2327,38 +1680,9 @@
     "thumbnail": "thumbnails/1qizngp.webp",
     "tags": [
       "Donald Trump",
-      "Groenland",
-      "Otan",
-      "Davos",
-      "Monde"
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T11:19:28.575194+00:00"
-  },
-  {
-    "id": "1qix9re",
-    "title": "Denmark deploys F-35A stealth fighters over Greenland supported by French tanker",
-    "url": "https://www.flightglobal.com/fixed-wing/denmark-deploys-f-35a-stealth-fighters-over-greenland-supported-by-french-tanker/166002.article",
-    "permalink": "/r/france/comments/1qix9re/denmark_deploys_f35a_stealth_fighters_over/",
-    "created_at": "2026-01-21T13:01:10+00:00",
-    "score": 442,
-    "num_comments": 188,
-    "subreddit": "france",
-    "author": "Hawne",
-    "flair": "Monde",
-    "domain": "flightglobal.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/R2-0DHhTFFOR8_ww3ds6Gkg2vNfeX984iYyLQV3V8XQ.jpeg?auto=webp&s=42a745b8268c6f63dfb27b654ec57d678789587b",
-    "ingested_at": "2026-11-01T11:17:32.727668+00:00",
-    "summary": "US President Donald Trump has disparaged the Danish military presence in Greenland as consisting of nothing more than two dogsled teams.",
-    "thumbnail": "thumbnails/1qix9re.webp",
-    "tags": [
-      "Greenland",
-      "F-35A",
-      "French",
-      "US President Donald Trump",
-      "Monde"
-    ],
-    "analyzed_at": "2026-11-01T11:19:28.529066+00:00"
   },
   {
     "id": "1qih8xr",
@@ -2378,11 +1702,7 @@
     "summary": "In the past week, several publications from different government departments have been flagged for containing openly supremacist or fascist slogans",
     "thumbnail": "thumbnails/1qih8xr.webp",
     "tags": [
-      "Nazi",
-      "ICE",
-      "MAGA",
-      "Donald Trump",
-      "Monde"
+      "Donald Trump"
     ],
     "analyzed_at": "2026-11-01T11:19:28.617639+00:00"
   },
@@ -2404,11 +1724,7 @@
     "summary": "[VIDÉO] Par son agressivité, Donald Trump a réussi à inverser l'image des États-Unis. Selon une enquête de l'Ifop pour le site Partir à New York, 51% des Français estiment que Washington constituera une menace militaire pour Paris dans les années à venir.",
     "thumbnail": "thumbnails/1qig0ct.webp",
     "tags": [
-      "Français",
-      "États-Unis",
-      "Donald Trump",
-      "New York",
-      "Monde"
+      "Donald Trump"
     ],
     "analyzed_at": "2026-11-01T11:19:28.851925+00:00"
   },
@@ -2430,11 +1746,7 @@
     "summary": "Donald Trump a placé la 11e division aéroportée en alerte en vue d’un déploieme...",
     "thumbnail": "thumbnails/1qid1cj.webp",
     "tags": [
-      "Groenland",
-      "États-Unis",
-      "Donald Trump",
-      "Minnesota",
-      "Monde"
+      "Donald Trump"
     ],
     "analyzed_at": "2026-11-01T11:19:30.248132+00:00"
   },
@@ -2456,9 +1768,7 @@
     "summary": "",
     "thumbnail": "thumbnails/1qibnjv.webp",
     "tags": [
-      "CNCDH",
-      "Marine le Pen",
-      "Politique"
+      "Marine Le Pen"
     ],
     "analyzed_at": "2026-11-01T11:19:28.835712+00:00"
   },
@@ -2480,11 +1790,7 @@
     "summary": "Dans la nuit de lundi à mardi, Donald Trump a posté une série de photos générées par l’IA où on le voit devant une carte où le drapeau américain recouvre les États-Unis mais aussi le Canada, le Groenland et le Venezuela.",
     "thumbnail": "thumbnails/1qi7lsw.webp",
     "tags": [
-      "Canada",
-      "États-Unis",
-      "Armée",
-      "Donald Trump",
-      "Monde"
+      "Donald Trump"
     ],
     "analyzed_at": "2026-11-01T11:19:28.830009+00:00"
   },
@@ -2506,11 +1812,7 @@
     "summary": "A satirical petition urges Denmark to \"buy\" California, poking fun at Trump’s Greenland plans amid U.S.-Europe tensions and tariff threats.",
     "thumbnail": "thumbnails/1qi5snu.webp",
     "tags": [
-      "Denmark",
-      "USA",
-      "Danoise",
-      "Californie",
-      "Politique"
+      "Donald Trump"
     ],
     "analyzed_at": "2026-11-01T11:19:29.997083+00:00"
   },
@@ -2532,11 +1834,7 @@
     "summary": "Le Parlement européen suspend le processus de ratification de l’accord commercial transatlantique conclu à l’été 2025. Cette décision fait suite aux menaces de Donald Trump d’imposer des droits de douane massifs liés au dossier du Groenland.",
     "thumbnail": "thumbnails/1qi5fkk.webp",
     "tags": [
-      "Groenland",
-      "Washington",
-      "Trump",
-      "Parlement",
-      "Politique"
+      "Donald Trump"
     ],
     "analyzed_at": "2026-11-01T11:19:29.667671+00:00"
   },
@@ -2558,10 +1856,8 @@
     "summary": "Plusieurs centaines d’identitaires de membres de groupuscules d’extrême droite ont marché dans les rues de Paris ce week-end, contrés par des mobilisations antifascistes et des citoy...",
     "thumbnail": "thumbnails/1qi0w72.webp",
     "tags": [
-      "Paris",
-      "Louis XVI et Sainte-Geneviève",
-      "Gratuit",
-      "Société"
+      "Extrême droite",
+      "Manifestations"
     ],
     "analyzed_at": "2026-11-01T11:19:29.436109+00:00"
   },
@@ -2583,10 +1879,8 @@
     "summary": "",
     "thumbnail": "thumbnails/1qhzonv.webp",
     "tags": [
-      "Groenland",
       "Emmanuel Macron",
-      "Donald Trump",
-      "Monde"
+      "Donald Trump"
     ],
     "analyzed_at": "2026-11-01T11:19:29.155576+00:00"
   },
@@ -2608,11 +1902,7 @@
     "summary": "Au moment où l’ex-présidente de RN comparaît en appel dans le dossier des assistants parlementaires du parti, la justice doit se prononcer ce mardi sur une autre affaire, visant l'une de ses publications en ligne.",
     "thumbnail": "thumbnails/1qhw74q.webp",
     "tags": [
-      "Marine le Pen",
-      "RN",
-      "Yasmine Ouirhrane",
-      "Rassemblement",
-      "Politique"
+      "Marine Le Pen"
     ],
     "analyzed_at": "2026-11-01T11:19:32.918566+00:00"
   },
@@ -2634,10 +1924,7 @@
     "summary": "",
     "thumbnail": "thumbnails/1qhv0ay.webp",
     "tags": [
-      "French Response",
-      "Quai Orsay",
-      "Elon Musk",
-      "Politique"
+      "Elon Musk"
     ],
     "analyzed_at": "2026-11-01T11:19:29.457274+00:00"
   },
@@ -2658,11 +1945,7 @@
     "ingested_at": "2026-11-01T11:17:32.725392+00:00",
     "summary": "RÉCIT - Des études et recueils de témoignages de toutes sortes pointent une perte du « goût de l’effort » chez les jeunes générations. Derrière ce diagnostic se cache une autre réalité : le travail ne paie plus comme avant. Ce déclassement conduit à une radicalisation à...",
     "thumbnail": "thumbnails/1qhtrbc.webp",
-    "tags": [
-      "Gen Z",
-      "RÉCIT",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:19:29.775736+00:00"
   },
   {
@@ -2683,11 +1966,10 @@
     "summary": "Le président américain a réagi au refus du président français, à ce stade de rejoindre son initiative de \"Conseil de paix\" concurrent de l'ONU.",
     "thumbnail": "thumbnails/1qht32u.webp",
     "tags": [
-      "Donald Trump",
       "Emmanuel Macron",
-      "ONU",
-      "Vladimir Poutine",
-      "Paris"
+      "Donald Trump",
+      "Budget et fiscalité",
+      "Vladimir Poutine"
     ],
     "analyzed_at": "2026-11-01T11:19:29.861552+00:00"
   },
@@ -2709,37 +1991,10 @@
     "summary": "",
     "thumbnail": "thumbnails/1qhhgcu.webp",
     "tags": [
-      "Etats-Unis",
       "Emmanuel Macron",
-      "Monde"
+      "Conflit israélo-palestinien"
     ],
     "analyzed_at": "2026-11-01T11:19:30.034660+00:00"
-  },
-  {
-    "id": "1qhdg2l",
-    "title": "Let’s Buy California from Trump – Denmark’s Next Big Adventure",
-    "url": "https://denmarkification.com/",
-    "permalink": "/r/france/comments/1qhdg2l/lets_buy_california_from_trump_denmarks_next_big/",
-    "created_at": "2026-01-19T19:07:44+00:00",
-    "score": 344,
-    "num_comments": 45,
-    "subreddit": "france",
-    "author": "Hawne",
-    "flair": "Humour",
-    "domain": "denmarkification.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/rLA3h_klGEfnRp9T3ak8vtNrEnpi6eLLoj-8gEicN1w.jpeg?auto=webp&s=47897eaec1454cb1fc1381a5e62d41ef3c846d55",
-    "ingested_at": "2026-11-01T11:17:32.728973+00:00",
-    "summary": "Have you ever looked at a map and thought, \"You know what Denmark needs? More sunshine, palm trees, and roller skates.\" Well, we have a once-in-a-lifetime opportunity to make that dream a reality. Let’s buy California from Donald Trump! Yes, you heard that right.",
-    "thumbnail": "thumbnails/1qhdg2l.webp",
-    "tags": [
-      "California",
-      "Trump",
-      "Let's Buy California",
-      "Denmark's Next Big Adventure",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T11:19:30.100719+00:00"
   },
   {
     "id": "1qhakfp",
@@ -2759,11 +2014,8 @@
     "summary": "Selon Deutsche Bank, les pays européens pourraient décider d'une cession massive des milliers de milliards de dollars d'actifs américains qu'ils possèdent pour faire pression sur Donald Trump. Mais dans la pratique, ce \"scénario extrême\" paraît \"peu probable\" d'après l'analyste Alexandre Baradez.",
     "thumbnail": "thumbnails/1qhakfp.webp",
     "tags": [
-      "Etats-Unis",
-      "UE",
-      "Trump",
       "Donald Trump",
-      "Économie"
+      "Union européenne"
     ],
     "analyzed_at": "2026-11-01T11:19:30.199013+00:00"
   },
@@ -2785,38 +2037,9 @@
     "summary": "Plusieurs dirigeants étrangers ont annoncé avoir reçu une invitation à rejoindre cet organe, qui se présente comme une \"organisation internationale\" en alternative à l'ONU qui n'est jamais citée nommément.",
     "thumbnail": "thumbnails/1qhacwd.webp",
     "tags": [
-      "Donald Trump",
-      "ONU",
-      "Conseil",
-      "Etats",
-      "Monde"
+      "Donald Trump"
     ],
     "analyzed_at": "2026-11-01T11:19:30.396070+00:00"
-  },
-  {
-    "id": "1qh7vke",
-    "title": "Dry January – Un journaliste de CNews tente de tenir un mois sans parler d’islam et échoue au bout de 8 secondes",
-    "url": "https://www.legorafi.fr/2026/01/19/dry-january-un-journaliste-de-cnews-tente-de-tenir-un-mois-sans-parler-dislam-et-echoue-au-bout-de-8-secondes/",
-    "permalink": "/r/france/comments/1qh7vke/dry_january_un_journaliste_de_cnews_tente_de/",
-    "created_at": "2026-01-19T15:53:52+00:00",
-    "score": 1527,
-    "num_comments": 25,
-    "subreddit": "france",
-    "author": "Short-Taste-2950",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/JXz7TKsZarlJw6da06vw5ppcQFf-9T-s2upnGqCMAQ8.png?auto=webp&s=7ba606f89f28013b07cd06f0654def4e0e070e5e",
-    "ingested_at": "2026-11-01T11:17:32.725340+00:00",
-    "summary": "Un journaliste de la chaîne du groupe Bolloré qui s’était lancé pour défi de ne pas parler d’islam pendant un mois a craqué en quelques secondes. Reportage.",
-    "thumbnail": "thumbnails/1qh7vke.webp",
-    "tags": [
-      "CNews",
-      "Dry January",
-      "Bolloré",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T11:19:30.356063+00:00"
   },
   {
     "id": "1qh5q8k",
@@ -2837,10 +2060,8 @@
     "thumbnail": "thumbnails/1qh5q8k.webp",
     "tags": [
       "Sébastien Lecornu",
-      "BFMTV",
-      "Premier",
-      "État",
-      "Politique"
+      "Budget et fiscalité",
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T11:19:30.619831+00:00"
   },
@@ -2862,9 +2083,7 @@
     "summary": "",
     "thumbnail": "thumbnails/1qgyhvr.webp",
     "tags": [
-      "Trump Links Greenland Threats",
-      "Nobel Peace Prize Snub",
-      "Monde"
+      "Donald Trump"
     ],
     "analyzed_at": "2026-11-01T11:19:32.259405+00:00"
   },
@@ -2885,11 +2104,7 @@
     "ingested_at": "2026-11-01T11:17:32.726201+00:00",
     "summary": "Au niveau mondial, \"la barre des 3 000 milliardaires a été franchie pour la première fois en 2025\", chiffre l'ONG. Leur fortune cumulée est évaluée à 18 300 milliards de dollars, en augmentation de 16% sur un an.",
     "thumbnail": "thumbnails/1qgwmny.webp",
-    "tags": [
-      "Oxfam",
-      "ONG",
-      "Éco / Conso"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:19:30.567628+00:00"
   },
   {
@@ -2910,10 +2125,7 @@
     "summary": "Le déploiement de la ligne à grande vitesse entre Londres et Birmingham a donné lieu à de sérieuses dérives techniques et financières.",
     "thumbnail": "thumbnails/1qgo7bm.webp",
     "tags": [
-      "TGV",
-      "Histoire",
-      "Londres et Birmingham",
-      "Monde"
+      "Transports"
     ],
     "analyzed_at": "2026-11-01T11:19:30.752592+00:00"
   },
@@ -2935,9 +2147,7 @@
     "summary": "",
     "thumbnail": "thumbnails/1qgc7bz.webp",
     "tags": [
-      "Donald Trump",
-      "Nuuk",
-      "Monde"
+      "Donald Trump"
     ],
     "analyzed_at": "2026-11-01T11:19:30.958914+00:00"
   },
@@ -2958,10 +2168,7 @@
     "ingested_at": "2026-11-01T11:17:32.729769+00:00",
     "summary": "",
     "thumbnail": "thumbnails/1qgbo8t.webp",
-    "tags": [
-      "RN",
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:19:31.095772+00:00"
   },
   {
@@ -2982,10 +2189,7 @@
     "summary": "Si pour certains Français qui vivent aux États-Unis, le retour de Donald Trump à la Maison Blanche est de bon augure pour le business, pour d'autres, c'est un cauchemar.",
     "thumbnail": "thumbnails/1qg813s.webp",
     "tags": [
-      "Donald Trump",
-      "États-Unis",
-      "Maison Blanche",
-      "Monde"
+      "Donald Trump"
     ],
     "analyzed_at": "2026-11-01T11:19:30.904390+00:00"
   },
@@ -3007,65 +2211,10 @@
     "summary": "L'entourage du président a indiqué à BFMTV qu'Emmanuel Macron va demander, au nom de la France, de recourir à l'instrument anti-coercition, une sorte de \"bazooka commercial\" pour dissuader Donald Trump qui brandit de nouvelles menaces de surtaxes douanières.",
     "thumbnail": "thumbnails/1qg79nm.webp",
     "tags": [
-      "Donald Trump",
       "Emmanuel Macron",
-      "BFMTV",
-      "Macron",
-      "Politique"
+      "Donald Trump"
     ],
     "analyzed_at": "2026-11-01T11:19:30.969398+00:00"
-  },
-  {
-    "id": "1qg65lw",
-    "title": "L'UE s'apprête à suspendre l'accord commercial américain en raison de la nouvelle menace tarifaire de Trump. (en anglais)",
-    "url": "https://finance.yahoo.com/news/eu-set-halt-us-trade-211056932.html",
-    "permalink": "/r/france/comments/1qg65lw/lue_sapprête_à_suspendre_laccord_commercial/",
-    "created_at": "2026-01-18T11:21:00+00:00",
-    "score": 487,
-    "num_comments": 55,
-    "subreddit": "france",
-    "author": "Ubik78",
-    "flair": "Économie",
-    "domain": "finance.yahoo.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/w8Yx5nKl47uYBzYoQYY4QiWs4O5ODSnfmm99ly8w2oU.jpeg?auto=webp&s=7cf823dc88b88328c00268063ea4b3bb68395340",
-    "ingested_at": "2026-11-01T11:17:32.727268+00:00",
-    "summary": "European Union lawmakers are poised to halt approval of the EU’s trade deal with the US over President Donald Trump’s vow to impose tariffs on countries that supported Greenland in the face of American threats.",
-    "thumbnail": "thumbnails/1qg65lw.webp",
-    "tags": [
-      "US",
-      "Greenland",
-      "EU",
-      "Trump",
-      "Économie"
-    ],
-    "analyzed_at": "2026-11-01T11:19:36.749027+00:00"
-  },
-  {
-    "id": "1qg39e4",
-    "title": "Le premier ministre Canadien : \"Le futur du Groenland appartiens aux Groenlandais et au Danemark, nous les soutiendrons militairement en cas d'attaque\"",
-    "url": "https://old.reddit.com/r/ProgressiveHQ/comments/1qfky6o/mark_carney_states_canada_will_go_to_war_with_the/",
-    "permalink": "/r/france/comments/1qg39e4/le_premier_ministre_canadien_le_futur_du/",
-    "created_at": "2026-01-18T08:30:46+00:00",
-    "score": 2257,
-    "num_comments": 238,
-    "subreddit": "france",
-    "author": "Puzzleheaded-Week-0",
-    "flair": "Politique",
-    "domain": "old.reddit.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/cXBoYWtiNDZleWRnMW86J_Ug1U-G-exLW7rDLA7MPcnOgJMr3zNBURi9geNX.png?auto=webp&s=77186d7db9059de41c9964b555da9ae4e33b4859",
-    "ingested_at": "2026-11-01T11:17:32.725229+00:00",
-    "summary": "Posted in r/ProgressiveHQ by u/Sexy_Johnny282771 • 63,855 points and 2,841 comments",
-    "thumbnail": "thumbnails/1qg39e4.webp",
-    "tags": [
-      "Canadien",
-      "Groenland",
-      "Groenlandais",
-      "Danemark",
-      "Politique"
-    ],
-    "analyzed_at": "2026-11-01T11:19:34.244517+00:00"
   },
   {
     "id": "1qfoqv8",
@@ -3085,8 +2234,9 @@
     "summary": "Deux journalistes racontent l’enfer qu’ils ont traversé dans les geôles israéliennes, alors même qu’ils n’ont jamais été inculpés. Au moins une centaine de Palestiniens sont morts en prison depuis le…",
     "thumbnail": "thumbnails/1qfoqv8.webp",
     "tags": [
-      "Palestiniens",
-      "Monde"
+      "Conflit israélo-palestinien",
+      "Prisons",
+      "Violences sexuelles"
     ],
     "analyzed_at": "2026-11-01T11:19:31.969506+00:00"
   },
@@ -3108,8 +2258,9 @@
     "summary": "L’affaire de Mazan a-t-elle réellement sensibilisé à la question du consentement ? Une enquête choc révèle que plus de cent hommes ont répondu à une annonce invitant à un rapport sexuel avec une femme endormie.",
     "thumbnail": "thumbnails/1qfmeg3.webp",
     "tags": [
-      "Mazan",
-      "Hugo Meunier"
+      "Justice",
+      "Violences sexuelles",
+      "Médias"
     ],
     "analyzed_at": "2026-11-01T11:19:31.399200+00:00"
   },
@@ -3131,10 +2282,9 @@
     "summary": "Le président américain avait annoncé plus tôt de nouveaux droits de douane, notamment pour la France, « jusqu’à ce qu’un accord soit conclu",
     "thumbnail": "thumbnails/1qflnts.webp",
     "tags": [
-      "UE",
-      "Trump",
-      "Groenland",
-      "Politique"
+      "Donald Trump",
+      "Union européenne",
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T11:19:31.539380+00:00"
   },
@@ -3156,11 +2306,7 @@
     "summary": "La France figure parmi les pays les plus avancés en matière d’adoption de l’IA générative, se classant 5ᵉ mondial avec 44% d’utilisateurs, grâce à un écosystème dynamique (notamment Mistral AI), à l’implication des pouvoirs publics et des entreprises, malgré des enjeux persistants de régulation,...",
     "thumbnail": "thumbnails/1qfkg83.webp",
     "tags": [
-      "IA",
-      "Français",
-      "Etats-Unis",
-      "Royaume-Uni",
-      "Tech"
+      "Intelligence artificielle"
     ],
     "analyzed_at": "2026-11-01T11:19:31.552169+00:00"
   },
@@ -3182,39 +2328,9 @@
     "summary": "Les Etats-Unis ont vendu pour 250 millions de dollars de pétrole vénézuélien à l'entreprise Vitol, dont l'un des principaux traders est aussi l'un des plus généreux soutiens de Trump. Il avait surtout fait un don d'environ 6 millions à la campagne de réélection du président américain.",
     "thumbnail": "thumbnails/1qfioui.webp",
     "tags": [
-      "Trump",
-      "Etats-Unis",
-      "Vitol",
-      "Donald Trump",
-      "Monde"
+      "Donald Trump"
     ],
     "analyzed_at": "2026-11-01T11:19:31.972779+00:00"
-  },
-  {
-    "id": "1qeu5gy",
-    "title": "Mussolini Had His Blackshirts, Hitler Has the SS, and Trump Has ICE",
-    "url": "https://www.commondreams.org/opinion/mussolini-had-his-blackshirts-hitler-has-the-ss-and-trump-has-ice",
-    "permalink": "/r/france/comments/1qeu5gy/mussolini_had_his_blackshirts_hitler_has_the_ss/",
-    "created_at": "2026-01-16T22:22:33+00:00",
-    "score": 558,
-    "num_comments": 58,
-    "subreddit": "france",
-    "author": "Folivao",
-    "flair": "Monde",
-    "domain": "commondreams.org",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/uImzOUTEuj0zv7ljj4rPC2sW-sDFQQJqBYeL7B90xNI.jpeg?auto=webp&s=00422fe63d2a9d511746d9af1fd415a441264ec2",
-    "ingested_at": "2026-11-01T11:17:32.726744+00:00",
-    "summary": "The existence of this profoundly unaccountable, overtly fascist military apparatus poses a structural danger to our democracy. This is why \"Abolish ICE\" is an extremely moderate position.",
-    "thumbnail": "thumbnails/1qeu5gy.webp",
-    "tags": [
-      "Mussolini Had His Blackshirts",
-      "Hitler Has",
-      "SS",
-      "Trump Has ICE",
-      "Monde"
-    ],
-    "analyzed_at": "2026-11-01T11:19:31.909313+00:00"
   },
   {
     "id": "1qelwq8",
@@ -3234,62 +2350,9 @@
     "summary": "Selon les informations de Mediapart, la direction de l’autorité publique de régulation a ignoré deux fois au cours des derniers mois les recommandations de ses équipes, afin de ménager la chaîne d’ex…",
     "thumbnail": "thumbnails/1qelwq8.webp",
     "tags": [
-      "CNews",
-      "Arcom",
-      "Société"
+      "Médias"
     ],
     "analyzed_at": "2026-11-01T11:19:32.326601+00:00"
-  },
-  {
-    "id": "1qelwhu",
-    "title": "Après les Trans Musicales, le RN propose de supprimer le café Arabica",
-    "url": "https://www.legorafi.fr/2026/01/16/apres-les-trans-musicales-le-rn-propose-de-supprimer-le-cafe-arabica/",
-    "permalink": "/r/france/comments/1qelwhu/après_les_trans_musicales_le_rn_propose_de/",
-    "created_at": "2026-01-16T17:13:42+00:00",
-    "score": 991,
-    "num_comments": 63,
-    "subreddit": "france",
-    "author": "Short-Taste-2950",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/871mALppzbMCvP2MT_j6SdOroejOc70qxvh83sznaEY.jpeg?auto=webp&s=4da9f0b5eb3bbb11e9d35a5e358ffb40038c848e",
-    "ingested_at": "2026-11-01T11:17:32.725671+00:00",
-    "summary": "Le député RN Matthias Renault vient d’annoncer vouloir supprimer purement et simplement les stocks de café Arabica sur l’ensemble de l’Hexagone. Reportage.",
-    "thumbnail": "thumbnails/1qelwhu.webp",
-    "tags": [
-      "Arabica",
-      "RN",
-      "Trans Musicales",
-      "RN Matthias Renault",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T11:19:32.224358+00:00"
-  },
-  {
-    "id": "1qekj6f",
-    "title": "« Présomption de légitime défense » : LR, macronistes et RN unis pour renforcer l’impunité policière",
-    "url": "https://www.revolutionpermanente.fr/Presomption-de-legitime-defense-LR-macronistes-et-RN-unis-pour-renforcer-l-impunite-policiere",
-    "permalink": "/r/france/comments/1qekj6f/présomption_de_légitime_défense_lr_macronistes_et/",
-    "created_at": "2026-01-16T16:25:04+00:00",
-    "score": 265,
-    "num_comments": 100,
-    "subreddit": "france",
-    "author": "Hawne",
-    "flair": "Politique",
-    "domain": "revolutionpermanente.fr",
-    "selftext": "",
-    "reddit_thumbnail": "",
-    "ingested_at": "2026-11-01T11:17:32.730551+00:00",
-    "summary": "Mercredi 14 janvier, l'Assemblée nationale a examiné une proposition de loi des Républicains, qui vise à renforcer l'impunité policière. Si la loi est votée le 22 janvier, policiers et gendarmes bénéficieront d'une « présomption de légitime défense », véritable permis de tuer.",
-    "thumbnail": "thumbnails/1qekj6f.webp",
-    "tags": [
-      "LR",
-      "RN",
-      "Républicains",
-      "Politique"
-    ],
-    "analyzed_at": "2026-11-01T11:19:32.577244+00:00"
   },
   {
     "id": "1qejylc",
@@ -3309,11 +2372,7 @@
     "summary": "Le président américain a répété son intention d'acquérir ce territoire, malgré la fin de non-recevoir du Danemark.",
     "thumbnail": "thumbnails/1qejylc.webp",
     "tags": [
-      "Groenland",
-      "Donald Trump",
-      "Danemark",
-      "Tour de France",
-      "Ceuta"
+      "Donald Trump"
     ],
     "analyzed_at": "2026-11-01T11:19:32.513600+00:00"
   },
@@ -3334,11 +2393,7 @@
     "ingested_at": "2026-11-01T11:17:32.725937+00:00",
     "summary": "Le parquet de Paris a confirmé la perquisition mercredi de la boutique féministe et lesbienne pour saisir « des objets interdits à la vente ». Violette and Co, qui ne vendait déjà plus l’ouvrage « Fr…",
     "thumbnail": "thumbnails/1qegh68.webp",
-    "tags": [
-      "Co",
-      "Paris",
-      "Violette"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:19:33.649578+00:00"
   },
   {
@@ -3358,13 +2413,7 @@
     "ingested_at": "2026-11-01T11:17:32.725367+00:00",
     "summary": "Des comptes identifiés par les autorités françaises comme pro-iraniens ne postent plus depuis le black-out imposé par le régime de Téhéran. Un phénomène également observé au Royaume-Uni.",
     "thumbnail": "thumbnails/1qef2zu.webp",
-    "tags": [
-      "Iran",
-      "Internet",
-      "Téhéran",
-      "Royaume-Uni",
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:19:38.323492+00:00"
   },
   {
@@ -3384,38 +2433,8 @@
     "ingested_at": "2026-11-01T11:17:32.728412+00:00",
     "summary": "",
     "thumbnail": "thumbnails/1qeedci.webp",
-    "tags": [
-      "Americans",
-      "US",
-      "Greenland",
-      "CNN",
-      "Monde"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:19:33.652351+00:00"
-  },
-  {
-    "id": "1qebp64",
-    "title": "Après sa condamnation, Jean-Marc Morandini promu directeur d’antenne de CNews",
-    "url": "https://www.legorafi.fr/2026/01/15/apres-sa-condamnation-jean-marc-morandini-promu-directeur-dantenne-de-cnews/",
-    "permalink": "/r/france/comments/1qebp64/après_sa_condamnation_jeanmarc_morandini_promu/",
-    "created_at": "2026-01-16T09:39:33+00:00",
-    "score": 737,
-    "num_comments": 41,
-    "subreddit": "france",
-    "author": "Short-Taste-2950",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/3uxp9cixocFD10u4CsIjipJ9PRbL8NyRY0RzlrAZ0CA.jpeg?auto=webp&s=066a82742d1ce7b64a89edb656f1be5697ece8ad",
-    "ingested_at": "2026-11-01T11:17:32.726132+00:00",
-    "summary": "Condamné définitivement pour corruption de mineurs, le pédocriminel et animateur de télévision Jean-Marc Morandini a été immédiatement promu directeur d’antenne de la chaîne CNews. Reportage.",
-    "thumbnail": "thumbnails/1qebp64.webp",
-    "tags": [
-      "Jean-Marc Morandini",
-      "CNews",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T11:19:32.800743+00:00"
   },
   {
     "id": "1qebh2s",
@@ -3435,11 +2454,7 @@
     "summary": "[VIDÉO] Billy Long, choisi par Donald Trump pour devenir le prochain d'ambassadeur des États-Unis en Islande, défraie déjà la chronique dans le pays nordique. L'élu est critiqué pour une blague où il mentionnait l'idée de faire de l'île le \"52ᵉ État\" américain.",
     "thumbnail": "thumbnails/1qebh2s.webp",
     "tags": [
-      "Islande",
-      "État",
-      "Reykjavik",
-      "Donald Trump",
-      "Monde"
+      "Donald Trump"
     ],
     "analyzed_at": "2026-11-01T11:19:33.877641+00:00"
   },
@@ -3461,39 +2476,11 @@
     "summary": "Matignon accuse LFI et le RN de \"sabotage continu\" et juge \"impossible l'adoption d'un budget par un vote\".",
     "thumbnail": "thumbnails/1qe8qfx.webp",
     "tags": [
-      "Assemblée",
-      "LFI et le RN",
-      "Emmanuel Macron",
-      "Premier",
-      "Politique"
+      "Budget et fiscalité",
+      "Institutions",
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T11:19:33.208394+00:00"
-  },
-  {
-    "id": "1qdyllb",
-    "title": "ICE Now So Hated Even Their Own Agents Are Terrified",
-    "url": "https://www.thedailybeast.com/dhs-ice-hated-under-donald-trump-kristi-noem-after-renee-nicole-good-minneapolis-shooting-agents-terrified/",
-    "permalink": "/r/france/comments/1qdyllb/ice_now_so_hated_even_their_own_agents_are/",
-    "created_at": "2026-01-15T22:52:37+00:00",
-    "score": 315,
-    "num_comments": 39,
-    "subreddit": "france",
-    "author": "Folivao",
-    "flair": "Monde",
-    "domain": "thedailybeast.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/1Uq2nm9fojcEq12HyNyz1Lb4tGuYTh0NIaDzh2sEK8Q.jpeg?auto=webp&s=917b273d4f5fb4e6c0b0c0f133eea85a8539a623",
-    "ingested_at": "2026-11-01T11:17:32.729544+00:00",
-    "summary": "Agents are spooked by the public hostility provoked by Renee Goodâs killing.",
-    "thumbnail": "thumbnails/1qdyllb.webp",
-    "tags": [
-      "ICE",
-      "Minneapolis",
-      "Minnesota",
-      "Immigration and Customs Enforcement",
-      "Monde"
-    ],
-    "analyzed_at": "2026-11-01T11:19:34.991832+00:00"
   },
   {
     "id": "1qdxkc6",
@@ -3513,10 +2500,7 @@
     "summary": "« Ce monsieur est un porc. Il défend un génocide », avait notamment lancé le député insoumis à son collègue, qui a annoncé vouloir faire app",
     "thumbnail": "thumbnails/1qdxkc6.webp",
     "tags": [
-      "Meyer Habib",
-      "LFI David Guiraud",
-      "David Guiraud",
-      "Politique"
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T11:19:34.303034+00:00"
   },
@@ -3538,11 +2522,7 @@
     "summary": "Franceinfo révèle une affaire qui rappelle celle dite \"des viols de Mazan\". Un homme va être jugé en 2026 pour avoir, pendant sept ans, livré sa compagne à des dizaines d'hommes et d'avoir fait d'elle son esclave. Cette femme s'est confiée à nous.",
     "thumbnail": "thumbnails/1qdtqrt.webp",
     "tags": [
-      "Mazan",
-      "Manosque",
-      "Guillaume B",
-      "Faits-divers",
-      "Fait Divers"
+      "Violences sexuelles"
     ],
     "analyzed_at": "2026-11-01T11:19:34.024012+00:00"
   },
@@ -3564,11 +2544,8 @@
     "summary": "Le policier du commissariat d’Angoulême, interpellé mardi pour le viol d’une jeune fille de Nersac et cinq agressions sexuelles, a reconnu les faits devant la justice. Le parquet a requis son placement en détention.",
     "thumbnail": "thumbnails/1qdt149.webp",
     "tags": [
-      "Nersac",
-      "Angoulême",
-      "Cognac",
-      "Faits-divers",
-      "Fait Divers"
+      "Police",
+      "Violences sexuelles"
     ],
     "analyzed_at": "2026-11-01T11:19:34.145584+00:00"
   },
@@ -3590,39 +2567,10 @@
     "summary": "Le président français Emmanuel Macron a affirmé, jeudi 15 janvier, que la France fournissait à l'Ukraine «les deux tiers» des «capacités de renseignement» nécessaires dans son conflit face à la Russie,…",
     "thumbnail": "thumbnails/1qdmbsg.webp",
     "tags": [
-      "Ukraine",
       "Emmanuel Macron",
-      "Russie",
-      "Urgent",
-      "Politique"
+      "Guerre en Ukraine"
     ],
     "analyzed_at": "2026-11-01T11:19:40.134646+00:00"
-  },
-  {
-    "id": "1qdljdd",
-    "title": "Déçu de ne pas avoir eu la fève dans la galette, Emmanuel Macron dissout à nouveau l’Assemblée nationale",
-    "url": "https://www.legorafi.fr/2026/01/14/decu-de-ne-pas-avoir-eu-la-feve-dans-la-galette-emmanuel-macron-dissout-a-nouveau-lassemblee-nationale/",
-    "permalink": "/r/france/comments/1qdljdd/déçu_de_ne_pas_avoir_eu_la_fève_dans_la_galette/",
-    "created_at": "2026-01-15T14:50:39+00:00",
-    "score": 1093,
-    "num_comments": 33,
-    "subreddit": "france",
-    "author": "Short-Taste-2950",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/Dn2f3ixnLlUYGe_NgHLIve76mqU3oxHI90nPYiJGzic.jpeg?auto=webp&s=af47af01f8da5171d5d96b88454464a57f631ebd",
-    "ingested_at": "2026-11-01T11:17:32.725545+00:00",
-    "summary": "Après avoir célébré l’Épiphanie avec son gouvernement, le Président de la République, vexé d’avoir choisi une part sans fève, a décidé de dissoudre l’Assemblée Nationale.",
-    "thumbnail": "thumbnails/1qdljdd.webp",
-    "tags": [
-      "Emmanuel Macron",
-      "Assemblée",
-      "Épiphanie",
-      "Président de la République",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T11:19:34.364141+00:00"
   },
   {
     "id": "1qdjvy8",
@@ -3642,11 +2590,7 @@
     "summary": "Senate Republicans are vowing to block any effort by President Trump to seize Greenland by military force, as Trump officials on Wednesday refused to back off their demands to control the island du…",
     "thumbnail": "thumbnails/1qdjvy8.webp",
     "tags": [
-      "Greenland",
-      "Trump",
-      "Wednesday",
-      "NATO",
-      "Monde"
+      "Donald Trump"
     ],
     "analyzed_at": "2026-11-01T11:19:36.420942+00:00"
   },
@@ -3667,12 +2611,7 @@
     "ingested_at": "2026-11-01T11:17:32.730175+00:00",
     "summary": "Le Rassemblement national qui justifie cette coupe par sa volonté de \"réduire le millefeuille territorial\" a profité de la mobilisation de ses députés tandis que les élus des autres groupes étaient faiblement présents dans l'hémicycle.",
     "thumbnail": "thumbnails/1qdiv90.webp",
-    "tags": [
-      "RN",
-      "Rassemblement",
-      "Assemblée",
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:19:34.628810+00:00"
   },
   {
@@ -3693,10 +2632,8 @@
     "summary": "Wikipédia fête aujourd’hui son quart de siècle. Ce qui n’était au départ qu’une idée un peu folle née dans un garage, à savoir partager le savoir universellement et gratuitement, est devenue l’une des dernières enclaves de l’Internet libre des années 2000. Au-delà de ses nombreux succès, l'encycl...",
     "thumbnail": "thumbnails/1qdgt3v.webp",
     "tags": [
-      "Wikipédia",
-      "IA",
-      "Internet",
-      "Tech"
+      "Intelligence artificielle",
+      "Énergie"
     ],
     "analyzed_at": "2026-11-01T11:19:34.804827+00:00"
   },
@@ -3718,11 +2655,7 @@
     "summary": "Un policier du commissariat d'Angoulême est en garde à vue à la gendarmerie. L'homme, âgé de 45 ans, a été interpellé mardi matin à Nersac, où il est soupçonné, il y a près d'un an, d'avoir enlevé et violé d'une jeune fille de 17 ans à un arrêt de bus.",
     "thumbnail": "thumbnails/1qdeys4.webp",
     "tags": [
-      "Angoulême",
-      "ICI",
-      "Nersac",
-      "Enquêtes – Investigation",
-      "Fait Divers"
+      "Police"
     ],
     "analyzed_at": "2026-11-01T11:19:36.071979+00:00"
   },
@@ -3744,11 +2677,7 @@
     "summary": "Le président américain est accusé de dissimuler ses véritables liens avec Jeffrey Epstein, financier mort en 2019 et au cœur d'un vaste scandale de viols et d'agressions sexuelles impliquant des victimes mineures.",
     "thumbnail": "thumbnails/1qcz42n.webp",
     "tags": [
-      "Donald Trump",
-      "Jeffrey Epstein",
-      "Maison Blanche",
-      "Ford",
-      "Monde"
+      "Donald Trump"
     ],
     "analyzed_at": "2026-11-01T11:19:35.227942+00:00"
   },
@@ -3769,9 +2698,7 @@
     "ingested_at": "2026-11-01T11:17:32.726008+00:00",
     "summary": "",
     "thumbnail": "thumbnails/1qcxrwa.webp",
-    "tags": [
-      "Groenland"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:19:35.564784+00:00"
   },
   {
@@ -3792,11 +2719,9 @@
     "summary": "La présidente de la Commission européenne, Ursula von der Leyen, a refusé mercredi 14 janvier de confirmer que le Groenland serait couvert par la clause de défense mutuelle de l’Union européenne, alors que le président américain Donald Trump intensifie ses menaces de prise de contrôle du territoire danois…",
     "thumbnail": "thumbnails/1qcqpfv.webp",
     "tags": [
-      "Groenland",
-      "UE",
-      "Leyen",
-      "Union",
-      "Politique"
+      "Union européenne",
+      "Donald Trump",
+      "Ursula von der Leyen"
     ],
     "analyzed_at": "2026-11-01T11:19:41.802010+00:00"
   },
@@ -3818,11 +2743,8 @@
     "summary": "La mort de Renée Good lors d’une opération de l’ICE, la semaine passée dans le Minnesota, révèle l’étendue du pouvoir de cette agence créée en 2003 et dont les missions, effectifs et arrestations ont explosé sous l’administration Trump",
     "thumbnail": "thumbnails/1qcprvm.webp",
     "tags": [
-      "ICE",
-      "Etats-Unis",
-      "Allemagne de 1933",
-      "Renée Good",
-      "Monde"
+      "Police",
+      "Donald Trump"
     ],
     "analyzed_at": "2026-11-01T11:19:36.089165+00:00"
   },
@@ -3844,10 +2766,7 @@
     "summary": "Un passage du manuel qui qualifie notamment les victimes de l’attentat du 7 octobre 2023 de « colons juifs ». Le chef de l’État a lui dénonc",
     "thumbnail": "thumbnails/1qcnhh8.webp",
     "tags": [
-      "Emmanuel Macron",
-      "État",
-      "Hamas",
-      "Politique"
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T11:19:36.512654+00:00"
   },
@@ -3869,11 +2788,7 @@
     "summary": "Matthias Renault veut faire des économies en s’attaquant au secteur associatif, surtout lorsqu’il s’agit « de structures idéologiques et militantes. » Mais son exemple est très mal choisi.",
     "thumbnail": "thumbnails/1qclmyu.webp",
     "tags": [
-      "Transmusicales",
-      "RN Matthias Renault",
-      "Matthias Renault",
-      "Politique",
-      "Rassemblement National (RN)"
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T11:19:36.476002+00:00"
   },
@@ -3895,8 +2810,8 @@
     "summary": "",
     "thumbnail": "thumbnails/1qcjny6.webp",
     "tags": [
-      "Marine le Pen",
-      "Politique"
+      "Marine Le Pen",
+      "Justice"
     ],
     "analyzed_at": "2026-11-01T11:19:36.809788+00:00"
   },
@@ -3917,13 +2832,7 @@
     "ingested_at": "2026-11-01T11:17:32.728999+00:00",
     "summary": "«Le Groenland ne veut ni être possédé, ni être gouverné, nié, ni être intégré par les Etats-Unis. Le Groenland a fait le choix du Danemark, le choix de l’Otan et le choix de l’Union», a martelé le ministre français des Affaires étrangères.",
     "thumbnail": "thumbnails/1qcj3jm.webp",
-    "tags": [
-      "Groenland",
-      "Jean-Noël Barrot",
-      "Groenland le 6",
-      "Otan",
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:19:36.826886+00:00"
   },
   {
@@ -3944,38 +2853,10 @@
     "summary": "",
     "thumbnail": "thumbnails/1qc8xxo.webp",
     "tags": [
-      "Eric Coquerel",
-      "Bercy",
-      "Lombard",
-      "Politique"
+      "Éric Coquerel",
+      "Budget et fiscalité"
     ],
     "analyzed_at": "2026-11-01T11:19:36.950872+00:00"
-  },
-  {
-    "id": "1qc4ghf",
-    "title": "Personal Details of Thousands of Border Patrol and ICE Goons Allegedly Leaked in Huge Data Breach",
-    "url": "https://www.thedailybeast.com/personal-details-of-thousands-of-border-patrol-and-ice-goons-allegedly-leaked-in-huge-data-breach/",
-    "permalink": "/r/france/comments/1qc4ghf/personal_details_of_thousands_of_border_patrol/",
-    "created_at": "2026-01-13T21:47:27+00:00",
-    "score": 570,
-    "num_comments": 54,
-    "subreddit": "france",
-    "author": "Folivao",
-    "flair": "Monde",
-    "domain": "thedailybeast.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/q0C1WwSsSPXLNF2gIKE8qiIMGltquuOjjloE_YM5cKM.jpeg?auto=webp&s=7a481776b37ea036a5f93ec7ff04298832b71d3c",
-    "ingested_at": "2026-11-01T11:17:32.726653+00:00",
-    "summary": "A DHS whistleblower appears to have exposed data on federal immigration workers after the shooting of Renee Good.",
-    "thumbnail": "thumbnails/1qc4ghf.webp",
-    "tags": [
-      "Border Patrol",
-      "ICE",
-      "DHS",
-      "Personal Details",
-      "Monde"
-    ],
-    "analyzed_at": "2026-11-01T11:19:37.972121+00:00"
   },
   {
     "id": "1qbyroe",
@@ -3994,13 +2875,7 @@
     "ingested_at": "2026-11-01T11:17:32.729333+00:00",
     "summary": "L’entrée en grande pompe du patron de LVMH à l’Académie des sciences morales et politiques est une nouvelle preuve que le nouveau régime capitaliste reposera sur la prédation et la falsification. Ave…",
     "thumbnail": "thumbnails/1qbyroe.webp",
-    "tags": [
-      "Académie",
-      "Bernard Arnault",
-      "Coupole",
-      "LVMH",
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:19:38.249936+00:00"
   },
   {
@@ -4021,11 +2896,7 @@
     "summary": "La sanglante répression en Iran aurait atteint une échelle de l’ordre du massacre...",
     "thumbnail": "thumbnails/1qbrwnq.webp",
     "tags": [
-      "Iran",
-      "Iran International",
-      "« Un",
-      "Histoire",
-      "Monde"
+      "Manifestations"
     ],
     "analyzed_at": "2026-11-01T11:19:37.816616+00:00"
   },
@@ -4046,13 +2917,7 @@
     "ingested_at": "2026-11-01T11:17:32.728895+00:00",
     "summary": "Yoon Suk Yeol avait sidéré le pays le 3 décembre 2024 en annonçant par surprise à la télévision l’imposition de la loi martiale, envoyant des troupes au Parlement pour le museler. Le verdict sera connu le 19 février.",
     "thumbnail": "thumbnails/1qbql6i.webp",
-    "tags": [
-      "Yoon Suk Yeol",
-      "Corée du Sud",
-      "Yoon",
-      "Sud",
-      "Monde"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:19:37.330337+00:00"
   },
   {
@@ -4073,9 +2938,9 @@
     "summary": "LFI saisit l'Arcom et la justice après des propos de Pascal Praud sur les agriculteurs \"blancs\"",
     "thumbnail": "thumbnails/1qbpwmr.webp",
     "tags": [
-      "LFI",
-      "Arcom",
-      "Pascal Praud"
+      "Médias",
+      "Agriculture",
+      "Justice"
     ],
     "analyzed_at": "2026-11-01T11:19:37.876133+00:00"
   },
@@ -4096,9 +2961,7 @@
     "ingested_at": "2026-11-01T11:17:32.727292+00:00",
     "summary": "",
     "thumbnail": "",
-    "tags": [
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:19:37.879280+00:00"
   },
   {
@@ -4118,11 +2981,7 @@
     "ingested_at": "2026-11-01T11:17:32.727102+00:00",
     "summary": "Humusation, aquamation, terramation : ces pratiques funéraires s’invitent désormais dans le débat législatif français à travers une proposition de loi récente.",
     "thumbnail": "thumbnails/1qbmuw6.webp",
-    "tags": [
-      "Compost",
-      "Rites funéraires",
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:19:38.117851+00:00"
   },
   {
@@ -4143,11 +3002,8 @@
     "summary": "Du 13 janvier au 12 février 2026, le Rassemblement national et douze prévenus, dont Marine Le Pen, condamnée en première instance à quatre ans de prison et cinq ans d’inéligibilité, sont rejugés par …",
     "thumbnail": "thumbnails/1qbl9kz.webp",
     "tags": [
-      "Marine le Pen",
-      "FN",
-      "RN",
-      "Rassemblement",
-      "Politique"
+      "Marine Le Pen",
+      "Justice"
     ],
     "analyzed_at": "2026-11-01T11:19:38.147345+00:00"
   },
@@ -4168,9 +3024,7 @@
     "ingested_at": "2026-11-01T11:17:32.726417+00:00",
     "summary": "Pour la première fois, un antidote contre l'intoxication à la ricine a été trouvé et commercialisé par une PME lyonnaise spécialisée dans les immunothérapies contre les menaces biologiques. Une réussite importante pour le gouvernement français, alors que la ricine est considérée comme une menace...",
     "thumbnail": "thumbnails/1qb16ww.webp",
-    "tags": [
-      "PME"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:19:38.123893+00:00"
   },
   {
@@ -4190,13 +3044,7 @@
     "ingested_at": "2026-11-01T11:17:32.728133+00:00",
     "summary": "Moins de deux semaines après l’incendie du bar Le Constellation, un couple suisse a déposé plainte contre Charlie Hebdo pour une caricature inspiré du film «Les Bronzés font du ski», estimant qu’elle portait atteinte aux victimes du drame.",
     "thumbnail": "thumbnails/1qb0xtd.webp",
-    "tags": [
-      "Charlie Hebdo",
-      "Crans-Montana",
-      "Constellation",
-      "Bronzés",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:19:38.520489+00:00"
   },
   {
@@ -4217,37 +3065,10 @@
     "summary": "L’association AC !! Anti-Corruption a déposé une plainte début décembre pour détournement de fonds publics, visant une formation de média tr",
     "thumbnail": "thumbnails/1qawtuu.webp",
     "tags": [
-      "RN et Bardella",
-      "AC",
-      "RN",
       "Jordan Bardella",
-      "Politique"
+      "Corruption"
     ],
     "analyzed_at": "2026-11-01T11:19:38.539431+00:00"
-  },
-  {
-    "id": "1qavk9i",
-    "title": "Au vu de l’actualité internationale, l’OMS déconseille vivement d’arrêter l’alcool en janvier",
-    "url": "https://www.legorafi.fr/2026/01/12/au-vu-de-lactualite-internationale-loms-deconseille-vivement-darreter-lalcool-en-janvier/",
-    "permalink": "/r/france/comments/1qavk9i/au_vu_de_lactualité_internationale_loms/",
-    "created_at": "2026-01-12T13:57:39+00:00",
-    "score": 868,
-    "num_comments": 49,
-    "subreddit": "france",
-    "author": "Short-Taste-2950",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/AD01OIYwXOfpO0cvck4cqrvJxWbTeTIh9TlwbbM03fY.jpeg?auto=webp&s=d6eae93a949665b6f2710d713f7a8f928955c618",
-    "ingested_at": "2026-11-01T11:17:32.725889+00:00",
-    "summary": "Après un début d’année particulièrement difficile, l’Organisation Mondiale de la Santé invite la population mondiale à rester raisonnable.",
-    "thumbnail": "thumbnails/1qavk9i.webp",
-    "tags": [
-      "OMS",
-      "Organisation Mondiale de la Santé",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T11:19:38.420397+00:00"
   },
   {
     "id": "1qase65",
@@ -4266,11 +3087,7 @@
     "ingested_at": "2026-11-01T11:17:32.730645+00:00",
     "summary": "",
     "thumbnail": "thumbnails/1qase65.webp",
-    "tags": [
-      "Téhéran",
-      "Kahrizak",
-      "Monde"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:19:38.847385+00:00"
   },
   {
@@ -4291,10 +3108,7 @@
     "summary": "Andrius Kubilius, ex-premier ministre lituanien, a évoqué la création d’une «force militaire européenne permanente de 100.000 hommes» comme une option possible pour mieux protéger le continent.",
     "thumbnail": "thumbnails/1qaqhft.webp",
     "tags": [
-      "Andrius Kubilius",
-      "Union européenne",
-      "Europe",
-      "Politique"
+      "Union européenne"
     ],
     "analyzed_at": "2026-11-01T11:19:38.960087+00:00"
   },
@@ -4315,10 +3129,7 @@
     "ingested_at": "2026-11-01T11:17:32.726984+00:00",
     "summary": "Montée du discours identitaire, incapacité à trouver un accord, polarisation des partis politiques et culture de la petite phrase… En Belgique, la politique, longtemps vertueuse et dans la culture du compromis, prend des allures françaises",
     "thumbnail": "thumbnails/1qaqcb6.webp",
-    "tags": [
-      "Belgique",
-      "Monde"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:19:39.214937+00:00"
   },
   {
@@ -4339,11 +3150,8 @@
     "summary": "L'Indonésie a annoncé suspendre temporairement Grok, l'intelligence artificielle de la plateforme X d'Elon Musk, samedi 10 janvier, à la suite du scandale des fausses images de personnes dénudées diffusées…",
     "thumbnail": "thumbnails/1qanx3k.webp",
     "tags": [
-      "Elon Musk",
-      "IA Grok",
-      "Grok",
-      "Indonésie",
-      "Société"
+      "Intelligence artificielle",
+      "Elon Musk"
     ],
     "analyzed_at": "2026-11-01T11:19:39.139197+00:00"
   },
@@ -4364,12 +3172,7 @@
     "ingested_at": "2026-11-01T11:17:32.729310+00:00",
     "summary": "Cela fait plus de 60 heures que les autorités iraniennes ont suspendu internet. En Ouganda, alors que les élections présidentielles auront lieu jeudi 15 janvier dans un contexte tendu, le pays connaît depuis plusieurs semaines des coupures du réseau.",
     "thumbnail": "thumbnails/1qa86qh.webp",
-    "tags": [
-      "Couper Internet",
-      "Ouganda",
-      "Freedom House",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:19:42.058745+00:00"
   },
   {
@@ -4390,58 +3193,10 @@
     "summary": "",
     "thumbnail": "thumbnails/1qa7zjp.webp",
     "tags": [
-      "Écologie"
+      "Environnement",
+      "Agriculture"
     ],
     "analyzed_at": "2026-11-01T11:19:39.391295+00:00"
-  },
-  {
-    "id": "1q9x5ru",
-    "title": "Trump 'orders US army chiefs to draw up plan to invade Greenland'",
-    "url": "https://www.dailymail.co.uk/news/article-15452323/amp/Donald-Trump-orders-army-chiefs-plan-invade-Greenland-President.html",
-    "permalink": "/r/france/comments/1q9x5ru/trump_orders_us_army_chiefs_to_draw_up_plan_to/",
-    "created_at": "2026-01-11T11:31:49+00:00",
-    "score": 546,
-    "num_comments": 239,
-    "subreddit": "france",
-    "author": "B0M_B0M",
-    "flair": "Monde",
-    "domain": "dailymail.co.uk",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/uaxEqhzoaiFptWju4U0DOeyo9d6NJ8mufdjoPCDJxqM.jpeg?auto=webp&s=9f54af3b032fffba5d0ad583f3508e84e4e127ee",
-    "ingested_at": "2026-11-01T11:17:32.726887+00:00",
-    "summary": "Donald Trump has ordered his special forces commanders to draw up a plan for the invasion of Greenland - but is being resisted by senior military figures, The Mail on Sunday has learned.",
-    "thumbnail": "thumbnails/1q9x5ru.webp",
-    "tags": [
-      "Greenland",
-      "US",
-      "Trump",
-      "Nato",
-      "Monde"
-    ],
-    "analyzed_at": "2026-11-01T11:19:40.040839+00:00"
-  },
-  {
-    "id": "1q9w17h",
-    "title": "Le rapport qui tue : en France, jusqu’à 13 ans d’espérance de vie en moins pour les plus pauvres.",
-    "url": "https://fakirpresse.info/le-rapport-qui-tue-en-france-jusqua-13-ans-desperance-de-vie-en-moins-pour-les-plus-pauvres/",
-    "permalink": "/r/france/comments/1q9w17h/le_rapport_qui_tue_en_france_jusquà_13_ans/",
-    "created_at": "2026-01-11T10:23:11+00:00",
-    "score": 716,
-    "num_comments": 173,
-    "subreddit": "france",
-    "author": "Baobey",
-    "flair": "Société",
-    "domain": "fakirpresse.info",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/_9U-zSHZTJCSW-y-WBeZyWUNO55gxdLR0P0Zx8o--gg.jpeg?auto=webp&s=782a0647d4d163221244fde7786afdd2c963b5da",
-    "ingested_at": "2026-11-01T11:17:32.726248+00:00",
-    "summary": "Un rapport explosif de l’Insee le révèle : l’écart d’espérance de vie entre les plus riches et les plus pauvres se creuse, en France. Un rapport largement passé sous les radars, malgré des chiffres glaçants.",
-    "thumbnail": "thumbnails/1q9w17h.webp",
-    "tags": [
-      "Insee",
-      "Société"
-    ],
-    "analyzed_at": "2026-11-01T11:19:42.079940+00:00"
   },
   {
     "id": "1q9dfb5",
@@ -4461,11 +3216,7 @@
     "summary": "Jean-Luc Mélenchon a participé à une manifestation contre l’intervention américaine au Venezuela, ce samedi 10 janvier, dans le centre de Lyon. Le leader de la France Insoumise a réitéré à cette occasion son soutien à Nicolás Maduro et au peuple vénézuelien.",
     "thumbnail": "thumbnails/1q9dfb5.webp",
     "tags": [
-      "Jean-Luc Mélenchon",
-      "États-Unis",
-      "Venezuela",
-      "Lyon",
-      "Politique"
+      "Jean-Luc Mélenchon"
     ],
     "analyzed_at": "2026-11-01T11:19:45.797005+00:00"
   },
@@ -4487,11 +3238,8 @@
     "summary": "Alerté par une élue écologiste, le ministre de l'Intérieur Laurent Nuñez a demandé à ses services d'enquêter sur la légalité d'un site accusé de \"ficher\" les musulmans. SOS Racisme compte saisir la justice.",
     "thumbnail": "thumbnails/1q99n8a.webp",
     "tags": [
-      "Intérieur",
-      "MaFrance",
-      "SOS Racisme",
-      "Intérieur Laurent Nuñez",
-      "Politique"
+      "Laurent Nuñez",
+      "Racisme"
     ],
     "analyzed_at": "2026-11-01T11:19:39.692162+00:00"
   },
@@ -4513,7 +3261,8 @@
     "summary": "Face à des élèves en situation de handicap difficiles à prendre en charge, des personnels de l’académie de Lyon effectuent des signalements auprès de la protection de l’enfance. Officiellement pour «…",
     "thumbnail": "thumbnails/1q92z23.webp",
     "tags": [
-      "Lyon"
+      "Handicap",
+      "Éducation"
     ],
     "analyzed_at": "2026-11-01T11:19:40.628189+00:00"
   },
@@ -4535,39 +3284,10 @@
     "summary": "Candidate à la mairie de Paris, l’eurodéputée Reconquête Sarah Knafo a lancé un site participatif où ses sympathisants peuvent déposer leurs doléances. En quelques heures, plus de...",
     "thumbnail": "thumbnails/1q915px.webp",
     "tags": [
-      "Paris",
       "Sarah Knafo",
-      "Kaboul",
-      "Reconquête Sarah Knafo",
-      "Politique"
+      "Racisme"
     ],
     "analyzed_at": "2026-11-01T11:19:49.259732+00:00"
-  },
-  {
-    "id": "1q90c99",
-    "title": "Distrait, Bernard Arnault rachète un média qui lui appartenait déjà",
-    "url": "https://www.legorafi.fr/2026/01/08/distrait-bernard-arnault-rachete-un-media-qui-lui-appartenait-deja/",
-    "permalink": "/r/france/comments/1q90c99/distrait_bernard_arnault_rachète_un_média_qui_lui/",
-    "created_at": "2026-01-10T09:59:39+00:00",
-    "score": 1102,
-    "num_comments": 23,
-    "subreddit": "france",
-    "author": "Short-Taste-2950",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/2z-719Nli44Ual_CeLQdNno3ldKbKYFe6Fq4hstCfZg.jpeg?auto=webp&s=2b55b70c11c0aaf6bd1b5aa3cca8ce7418f3c885",
-    "ingested_at": "2026-11-01T11:17:32.725519+00:00",
-    "summary": "Dans la foulée de l’officialisation du rachat des titres Challenges, Sciences et Avenir et La Recherche, le milliardaire a annoncé le rachat de L’Opinion, dont il est déjà propriétaire.",
-    "thumbnail": "thumbnails/1q90c99.webp",
-    "tags": [
-      "Bernard Arnault",
-      "Opinion",
-      "Challenges",
-      "Avenir et la Recherche",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T11:19:40.258077+00:00"
   },
   {
     "id": "1q8zoa9",
@@ -4587,11 +3307,7 @@
     "summary": "Abou Dabi, qui craint l’influence des Frères musulmans et a interdit la confrérie sur son territoire en tant qu’organisation terroriste, milite de longue date pour que les pays européens fassent de même.",
     "thumbnail": "thumbnails/1q8zoa9.webp",
     "tags": [
-      "Royaume-Uni",
-      "Émirats",
-      "Frères",
-      "Emirats arabes unis",
-      "Monde"
+      "Éducation"
     ],
     "analyzed_at": "2026-11-01T11:19:40.719759+00:00"
   },
@@ -4612,13 +3328,7 @@
     "ingested_at": "2026-11-01T11:17:32.729590+00:00",
     "summary": "Stupéfaction, colère, peur, impuissance... Des parents ont confié à franceinfo leur désarroi après avoir découvert que leur fille adolescente se disait en relation avec un homme majeur. Entre tentative de dialogue et dépôt de plainte, comment protéger son enfant sans briser le lien ?",
     "thumbnail": "thumbnails/1q8zndz.webp",
-    "tags": [
-      "Charlotte",
-      "Enfance et adolescence",
-      "Violences sexuelles",
-      "Les choix de la rédaction",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:19:41.039967+00:00"
   },
   {
@@ -4639,11 +3349,8 @@
     "summary": "Prévu initialement du 14 au 16 juin, le prochain sommet des dirigeants du G7 aura lieu du 15 au 17 juin à Evian, en Haute-Savoie.",
     "thumbnail": "thumbnails/1q8x2v4.webp",
     "tags": [
-      "G7",
-      "Maison-Blanche",
-      "MMA",
-      "UFC",
-      "Monde"
+      "Emmanuel Macron",
+      "Donald Trump"
     ],
     "analyzed_at": "2026-11-01T11:19:41.024504+00:00"
   },
@@ -4666,10 +3373,7 @@
     "thumbnail": "thumbnails/1q8ofr4.webp",
     "tags": [
       "Jordan Bardella",
-      "RN",
-      "Moissac",
-      "Police - Justice",
-      "Rassemblement National (RN)"
+      "Justice"
     ],
     "analyzed_at": "2026-11-01T11:19:41.313946+00:00"
   },
@@ -4692,10 +3396,7 @@
     "thumbnail": "thumbnails/1q8dssv.webp",
     "tags": [
       "Elon Musk",
-      "Grok",
-      "IA",
-      "Premier",
-      "Tech"
+      "Intelligence artificielle"
     ],
     "analyzed_at": "2026-11-01T11:19:41.253550+00:00"
   },
@@ -4717,8 +3418,6 @@
     "summary": "Rester assis toute la journée ne relève plus d'un simple inconfort, mais d'un risque avéré pour la santé et la performance au travail. L'expert de la lutte contre la sédentarité Alexandre Dana appelle à repenser en profondeur nos façons de travailler.",
     "thumbnail": "thumbnails/1q86xj6.webp",
     "tags": [
-      "Alexandre Dana",
-      "Echos",
       "Santé"
     ],
     "analyzed_at": "2026-11-01T11:19:46.137188+00:00"
@@ -4741,8 +3440,7 @@
     "summary": "",
     "thumbnail": "thumbnails/1q847ga.webp",
     "tags": [
-      "Bruno Retailleau",
-      "Politique"
+      "Bruno Retailleau"
     ],
     "analyzed_at": "2026-11-01T11:19:41.735434+00:00"
   },
@@ -4764,11 +3462,7 @@
     "summary": "Le président américain a annoncé que l’opposante vénézuélienne serait à Washington la semaine prochaine. Se disant «impatient» de la rencontrer, Donald Trump a ajouté que ce serait «un grand honneur» si elle lui remettait son prix Nobel de la paix.",
     "thumbnail": "thumbnails/1q83m65.webp",
     "tags": [
-      "Donald Trump",
-      "Nobel",
-      "Venezuela",
-      "María Corina Machado",
-      "Monde"
+      "Donald Trump"
     ],
     "analyzed_at": "2026-11-01T11:19:42.014030+00:00"
   },
@@ -4790,9 +3484,7 @@
     "summary": "Le président américain a conversé pendant deux heures avec quatre journalistes du quotidien national américain dans le bureau ovale.",
     "thumbnail": "thumbnails/1q83krr.webp",
     "tags": [
-      "Donald Trump",
-      "États-Unis",
-      "Monde"
+      "Donald Trump"
     ],
     "analyzed_at": "2026-11-01T11:19:42.296723+00:00"
   },
@@ -4814,11 +3506,7 @@
     "summary": "Un ex-enseignant de l’établissement privé catholique Saint-Genès La Salle sera jugé par la cour criminelle de la Gironde pour des faits de viols et d’agressions sexuelles sur mineurs. L’enquête a permis d’identifier 36 victimes potentielles.",
     "thumbnail": "thumbnails/1q7skp6.webp",
     "tags": [
-      "Enquête pour viol",
-      "Enseignants",
-      "Saint-Genès la Salle",
-      "Gironde",
-      "Bordeaux"
+      "Violences sexuelles"
     ],
     "analyzed_at": "2026-11-01T11:19:42.328099+00:00"
   },
@@ -4840,11 +3528,9 @@
     "summary": "Le président français a informé de sa décision la présidente de la Commission européenne, Ursula von der Leyen, jeudi, selon France Inter de sources concordantes.",
     "thumbnail": "thumbnails/1q7j0ij.webp",
     "tags": [
+      "Union européenne",
       "Emmanuel Macron",
-      "UE et le Mercosur",
-      "Commission",
-      "Leyen",
-      "Politique"
+      "Ursula von der Leyen"
     ],
     "analyzed_at": "2026-11-01T11:19:42.541902+00:00"
   },
@@ -4866,9 +3552,7 @@
     "summary": "",
     "thumbnail": "thumbnails/1q7i61w.webp",
     "tags": [
-      "Lula",
-      "Jair Bolsonaro",
-      "Monde"
+      "Jair Bolsonaro"
     ],
     "analyzed_at": "2026-11-01T11:19:42.489227+00:00"
   },
@@ -4890,10 +3574,8 @@
     "summary": "Le Service météorologique national américain expérimente l’intelligence artificielle pour produire certaines cartes de prévisions. Mais plusieurs visuels diffusés récemment contenaient des erreurs de localisation, allant jusqu’à faire apparaître des villes inexistantes, relançant le débat sur...",
     "thumbnail": "thumbnails/1q7gflj.webp",
     "tags": [
-      "IA",
-      "Donald Trump",
-      "NWS",
-      "Monde"
+      "Intelligence artificielle",
+      "Donald Trump"
     ],
     "analyzed_at": "2026-11-01T11:19:42.653355+00:00"
   },
@@ -4915,10 +3597,8 @@
     "summary": "Le site Les Jours révèle que trois députés et trois eurodéputés du parti d’extrême droite appartiennent à un groupe raciste sur le réseau social Facebook. ...",
     "thumbnail": "thumbnails/1q7etpn.webp",
     "tags": [
-      "Facebook",
-      "RN",
-      "Gratuit",
-      "Politique"
+      "Racisme",
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T11:19:45.673441+00:00"
   },
@@ -4940,9 +3620,7 @@
     "summary": "",
     "thumbnail": "thumbnails/1q7bi5g.webp",
     "tags": [
-      "Donald Trump",
-      "Etats-Unis",
-      "Monde"
+      "Donald Trump"
     ],
     "analyzed_at": "2026-11-01T11:19:42.877053+00:00"
   },
@@ -4964,8 +3642,7 @@
     "summary": "",
     "thumbnail": "thumbnails/1q7b3b5.webp",
     "tags": [
-      "Emmanuel Macron",
-      "Etats-Unis"
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T11:19:42.993724+00:00"
   },
@@ -4987,10 +3664,8 @@
     "summary": "À l’approche du procès en appel de l’affaire des assistants parlementaires du Front national, la justice française s’inquiète de possibles pressions venues des États-Unis.",
     "thumbnail": "thumbnails/1q7acst.webp",
     "tags": [
-      "Marine le Pen",
-      "Front",
-      "États-Unis",
-      "Der Spiegel",
+      "Justice",
+      "Marine Le Pen",
       "Donald Trump"
     ],
     "analyzed_at": "2026-11-01T11:19:44.393630+00:00"
@@ -5012,34 +3687,10 @@
     "ingested_at": "2026-11-01T11:17:32.727715+00:00",
     "summary": "Si la thèse du suicide est privilégiée à ce stade, le décès de cet homme de 38 ans, survenu mardi matin, fait l’objet d’une enquête « pour d",
     "thumbnail": "thumbnails/1q78thi.webp",
-    "tags": [],
-    "analyzed_at": "2026-11-01T11:19:43.137247+00:00"
-  },
-  {
-    "id": "1q77dhn",
-    "title": "Les amateurs de brioche des Rois aux fruits confits seront désormais fichés S",
-    "url": "https://www.legorafi.fr/2026/01/07/les-amateurs-de-brioche-des-rois-aux-fruits-confits-seront-desormais-fiches-s/",
-    "permalink": "/r/france/comments/1q77dhn/les_amateurs_de_brioche_des_rois_aux_fruits/",
-    "created_at": "2026-01-08T09:26:02+00:00",
-    "score": 1187,
-    "num_comments": 157,
-    "subreddit": "france",
-    "author": "Short-Taste-2950",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/7soTArYo1qPcdMer0dMnGifuGY5j9qgGpQ9NNx47r2A.jpeg?auto=webp&s=9d68b4d3925797a0853debe7ae142e552f0b11b2",
-    "ingested_at": "2026-11-01T11:17:32.725468+00:00",
-    "summary": "Jugés dangereux, les Français qui achèteront des brioches pour l’Épiphanie feront l’objet d’une surveillance accrue par le Ministère de l’Intérieur.",
-    "thumbnail": "thumbnails/1q77dhn.webp",
     "tags": [
-      "Rois",
-      "Français",
-      "Épiphanie",
-      "Ministère de Intérieur",
-      "Humour"
+      "Médias"
     ],
-    "analyzed_at": "2026-11-01T11:19:43.299847+00:00"
+    "analyzed_at": "2026-11-01T11:19:43.137247+00:00"
   },
   {
     "id": "1q744t8",
@@ -5059,9 +3710,7 @@
     "summary": "Le 1er janvier 2026, Zaïd, un bébé de 4,42 kg est né, à 1 h 30 dans la nuit, faisant de lui la première naissance de l’année à Avignon, dans le Vaucluse. Pour fêter cela, le journal La Provence lui a dédié son...",
     "thumbnail": "thumbnails/1q744t8.webp",
     "tags": [
-      "Avignon",
-      "Provence",
-      "Vaucluse"
+      "Numérique"
     ],
     "analyzed_at": "2026-11-01T11:19:43.499317+00:00"
   },
@@ -5083,7 +3732,7 @@
     "summary": "Avec 11 livraisons supplémentaires d'avions en 2025, Dassault annonce qu'il va franchir la barre des 7 milliards d'euros de chiffre d'affaires pour la première fois.",
     "thumbnail": "thumbnails/1q6rqad.webp",
     "tags": [
-      "Rafale"
+      "Défense"
     ],
     "analyzed_at": "2026-11-01T11:19:46.510830+00:00"
   },
@@ -5105,39 +3754,10 @@
     "summary": "Si Donald Trump agite le spectre d’une option militaire pour annexer le Groenland, une autre stratégie, plus souterraine, est déjà à l’œuvre depuis le début de son mandat : une campagne d’influence destinée à retourner l’opinion groenlandaise. Objectif : convaincre les 57 000 habitants de proclamer...",
     "thumbnail": "thumbnails/1q6qe4t.webp",
     "tags": [
-      "Groenland",
-      "Trump",
-      "Groenlandaises",
       "Donald Trump",
-      "Monde"
+      "Défense"
     ],
     "analyzed_at": "2026-11-01T11:19:44.395415+00:00"
-  },
-  {
-    "id": "1q6qd6r",
-    "title": "Ardèche - Annonay - Voile - Incroyable : exclue depuis 2 mois du lycée car son bonnet de chimio est assimilé à un signe religieux",
-    "url": "https://le-reveil-vivarais.fr/a-la-une/voile-bonnet-chimio-exclue-lycee/",
-    "permalink": "/r/france/comments/1q6qd6r/ardèche_annonay_voile_incroyable_exclue_depuis_2/",
-    "created_at": "2026-01-07T20:16:48+00:00",
-    "score": 513,
-    "num_comments": 126,
-    "subreddit": "france",
-    "author": "taigaV",
-    "flair": "Politique",
-    "domain": "le-reveil-vivarais.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/34jJg989-GXqfLH8oEmYRBakeVn7QWHcSaiFSyfumyU.jpeg?auto=webp&s=ecf991d3718daf8340c9aaa26f60ac4807c0d133",
-    "ingested_at": "2026-11-01T11:17:32.727031+00:00",
-    "summary": "Une autre affaire du voile à Annonay ? Une lycéenne souffrant d'alopécie porte un couvre-chef vu comme symbole religieux et est exclue du lycée.",
-    "thumbnail": "thumbnails/1q6qd6r.webp",
-    "tags": [
-      "Annonay",
-      "Ardèche",
-      "Élève",
-      "Exclusion",
-      "Politique"
-    ],
-    "analyzed_at": "2026-11-01T11:19:44.774348+00:00"
   },
   {
     "id": "1q6q9if",
@@ -5157,9 +3777,7 @@
     "summary": "Local officials accuse immigration agents of \"recklessly using power\", as federal authorities say the officer fired shots in self-defence.",
     "thumbnail": "thumbnails/1q6q9if.webp",
     "tags": [
-      "US",
-      "Minneapolis",
-      "Monde"
+      "Immigration"
     ],
     "analyzed_at": "2026-11-01T11:19:44.975955+00:00"
   },
@@ -5181,9 +3799,7 @@
     "summary": "A l’approche de l'élection présidentielle de 2027, certains streameurs commencent à réfléchir à leurs prises de position politiques. Si historiquement, ces vidéastes sont restés plutôt discrets, les élections législatives anticipées de 2024 ont marqué un tournant dans l’écosystème.",
     "thumbnail": "thumbnails/1q6klkn.webp",
     "tags": [
-      "LFIste",
-      "Ponce",
-      "Politique"
+      "Élection présidentielle"
     ],
     "analyzed_at": "2026-11-01T11:19:45.053371+00:00"
   },
@@ -5205,62 +3821,11 @@
     "summary": "Le président des LR a présenté sa recette pour inciter au travail et permettre aux Français de gagner plus, faite de « zéro cotisation » au-delà des 35 heures, de plafonnement à 70 % du Smic des aides sociales et de relance de la réforme de l’allocation chômage. « Il faut changer totalement de modèle.",
     "thumbnail": "thumbnails/1q6i2z9.webp",
     "tags": [
+      "Travail",
       "Bruno Retailleau",
-      "LR",
-      "Français",
-      "Smic",
-      "Politique"
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T11:19:46.537502+00:00"
-  },
-  {
-    "id": "1q6e8pj",
-    "title": "WhatsApp – Elle envoie « Happy Nouilles Year » sur son groupe de travail et perd son emploi",
-    "url": "https://www.legorafi.fr/2026/01/05/whatsapp-elle-envoie-happy-nouilles-year-sur-son-groupe-de-travail-et-perd-son-emploi/",
-    "permalink": "/r/france/comments/1q6e8pj/whatsapp_elle_envoie_happy_nouilles_year_sur_son/",
-    "created_at": "2026-01-07T12:36:23+00:00",
-    "score": 669,
-    "num_comments": 57,
-    "subreddit": "france",
-    "author": "Short-Taste-2950",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/nYm4_48DbFn4OTQEW0LjT6rVWLqWkWO1pLkFhhp12q0.jpeg?auto=webp&s=190680e4fec31f4027bc75d97fabca87be53713c",
-    "ingested_at": "2026-11-01T11:17:32.726346+00:00",
-    "summary": "Une collègue a provoqué la polémique parmi son équipe éducative après avoir envoyé dans le groupe Whatsapp commune « Happy Nouilles Year »",
-    "thumbnail": "thumbnails/1q6e8pj.webp",
-    "tags": [
-      "Happy Nouilles Year",
-      "Whatsapp",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T11:19:45.287680+00:00"
-  },
-  {
-    "id": "1q6e7tt",
-    "title": "Donald Trump soutient qu’il fera tout pour assurer le bien-être du pétrole vénézuelien",
-    "url": "https://www.legorafi.fr/2026/01/07/donald-trump-soutient-quil-fera-tout-pour-assurer-le-bien-etre-du-petrole-venezuelien/",
-    "permalink": "/r/france/comments/1q6e7tt/donald_trump_soutient_quil_fera_tout_pour_assurer/",
-    "created_at": "2026-01-07T12:35:10+00:00",
-    "score": 286,
-    "num_comments": 20,
-    "subreddit": "france",
-    "author": "Short-Taste-2950",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/v_XZixXAUQCLa9HSVDYE9M5AzE3BNVFD23S0rIPp3vg.jpeg?auto=webp&s=72363013ce65e31f78e4e48b3accfb0e0c6b952c",
-    "ingested_at": "2026-11-01T11:17:32.730128+00:00",
-    "summary": "Le président américain a garanti qu’il déploierait tous les moyens nécessaires pour garantir la sécurité des ressources vénézuéliennes.",
-    "thumbnail": "thumbnails/1q6e7tt.webp",
-    "tags": [
-      "Donald Trump",
-      "Nicolás Maduro",
-      "Venezuela",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T11:19:45.441192+00:00"
   },
   {
     "id": "1q6a6k8",
@@ -5280,11 +3845,7 @@
     "summary": "RÉCIT - Cinq ans après l’assaut des manifestants, le nouveau récit, publié sur fond noir, est intitulé : «6 Janvier, une date qui restera comme une infamie».",
     "thumbnail": "thumbnails/1q6a6k8.webp",
     "tags": [
-      "Capitole",
-      "Maison-Blanche",
-      "Donald Trump",
-      "RÉCIT",
-      "Monde"
+      "Donald Trump"
     ],
     "analyzed_at": "2026-11-01T11:19:45.674322+00:00"
   },
@@ -5306,11 +3867,7 @@
     "summary": "It came as European allies rallied behind Denmark, which is pushing back against Trump's ambitions for the Arctic island.",
     "thumbnail": "thumbnails/1q5vwbf.webp",
     "tags": [
-      "US",
-      "Greenland",
-      "Denmark",
-      "White House",
-      "Monde"
+      "Donald Trump"
     ],
     "analyzed_at": "2026-11-01T11:19:46.230857+00:00"
   },
@@ -5332,11 +3889,10 @@
     "summary": "Deux jours après l’opération américaine ayant abouti à la capture du président vénézuélien, le magazine satirique a, non sans ironie, enjoint à Donald Trump de «ne pas s’arrêter en si bon chemin». Et de faire de même avec le leader insoumis.",
     "thumbnail": "thumbnails/1q5tng9.webp",
     "tags": [
-      "Charlie Hebdo",
       "Jean-Luc Mélenchon",
-      "Nicolás Maduro",
-      "LFI",
-      "Politique"
+      "Racisme",
+      "Extrême droite",
+      "Donald Trump"
     ],
     "analyzed_at": "2026-11-01T11:19:46.019973+00:00"
   },
@@ -5358,39 +3914,9 @@
     "summary": "",
     "thumbnail": "thumbnails/1q5rz3m.webp",
     "tags": [
-      "UE",
-      "États-Unis",
-      "Européens",
-      "Euractiv FR",
-      "Politique"
+      "Union européenne"
     ],
     "analyzed_at": "2026-11-01T11:19:51.920717+00:00"
-  },
-  {
-    "id": "1q5momn",
-    "title": "Prisons, Armée, Hermès : 844 Go de données critiques dans la nature, le cabinet français DC Conseil mis à nu par des hackers",
-    "url": "https://christopheboutry.com/2026/01/prisons-armee-hermes-844-go-de-donnees-critiques-dans-la-nature-le-cabinet-francais-dc-conseil-mis-a-nu-par-des-hackers/",
-    "permalink": "/r/france/comments/1q5momn/prisons_armée_hermès_844_go_de_données_critiques/",
-    "created_at": "2026-01-06T16:07:36+00:00",
-    "score": 270,
-    "num_comments": 77,
-    "subreddit": "france",
-    "author": "SweeneyisMad",
-    "flair": "Tech",
-    "domain": "christopheboutry.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/cTZwg5id7toMeyJWYVpwd63U87QG2GUWZNJGK-l46Cs.png?auto=webp&s=a9b9d0d1262baba532892740a2f6411b6fbc9ffe",
-    "ingested_at": "2026-11-01T11:17:32.730458+00:00",
-    "summary": "844 Go volés au cabinet DCE Conseil en vente sur BreachForums : plans de prisons, sites militaires et sécurité de boutiques Hermès exposés.",
-    "thumbnail": "thumbnails/1q5momn.webp",
-    "tags": [
-      "Go",
-      "DC Conseil",
-      "BreachForums",
-      "DCE Conseil",
-      "Tech"
-    ],
-    "analyzed_at": "2026-11-01T11:19:46.364250+00:00"
   },
   {
     "id": "1q5jliz",
@@ -5409,13 +3935,7 @@
     "ingested_at": "2026-11-01T11:17:32.727079+00:00",
     "summary": "La sécurité dans l'Arctique reste une priorité essentielle pour l'Europe et est cruciale pour la sécurité internationale et transatlantique.",
     "thumbnail": "thumbnails/1q5jliz.webp",
-    "tags": [
-      "Groenland",
-      "Europe",
-      "République",
-      "OTAN",
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:19:46.539561+00:00"
   },
   {
@@ -5436,11 +3956,7 @@
     "summary": "Interrogée lors du Face-à-Face de BFM-RMC, ce mardi, la présidente du groupe LFI à l’Assemblée nationale, Mathilde Panot, n'a pas souhaité se prononcer sur le fait de qualifier ou non Nicolàs Maduro de \"dictateur\".",
     "thumbnail": "thumbnails/1q5jjty.webp",
     "tags": [
-      "Nicolàs Maduro",
-      "Mathilde Panot",
-      "LFI",
-      "Assemblée",
-      "Politique"
+      "Mathilde Panot"
     ],
     "analyzed_at": "2026-11-01T11:19:46.529878+00:00"
   },
@@ -5463,9 +3979,7 @@
     "thumbnail": "thumbnails/1q5h1sv.webp",
     "tags": [
       "Mathilde Panot",
-      "Assemblée",
-      "BFMTV-RMC",
-      "Politique"
+      "Logement"
     ],
     "analyzed_at": "2026-11-01T11:19:46.645951+00:00"
   },
@@ -5486,10 +4000,7 @@
     "ingested_at": "2026-11-01T11:17:32.730314+00:00",
     "summary": "",
     "thumbnail": "thumbnails/1q5cjq9.webp",
-    "tags": [
-      "Etats-Unis",
-      "Monde"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:19:46.946074+00:00"
   },
   {
@@ -5509,9 +4020,7 @@
     "ingested_at": "2026-11-01T11:17:32.729647+00:00",
     "summary": "",
     "thumbnail": "thumbnails/1q4pmg8.webp",
-    "tags": [
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:19:46.943801+00:00"
   },
   {
@@ -5532,11 +4041,7 @@
     "summary": "Donald Trump a menacé de «frapper très durement» le régime des Mollahs en cas de répression des manifestations en Iran. Un avertissement qui intervient quelques jours après la capture de Nicolás Maduro.",
     "thumbnail": "thumbnails/1q4k5oe.webp",
     "tags": [
-      "Nicolás Maduro",
-      "Iran",
-      "Bachar Al-Assad",
-      "Russie",
-      "Monde"
+      "Donald Trump"
     ],
     "analyzed_at": "2026-11-01T11:19:47.559875+00:00"
   },
@@ -5558,11 +4063,8 @@
     "summary": "Confronté pour la première fois à la justice américaine depuis sa capture, le chef de l'État vénézuélien déchu Nicolas Maduro a déclaré lundi qu'il était un \"prisonnier de guerre\", en plaidant non coupable…",
     "thumbnail": "thumbnails/1q4jiw2.webp",
     "tags": [
-      "États-Unis",
-      "Venezuela",
-      "Nicolas Maduro",
-      "Donald Trump",
-      "Monde"
+      "Emmanuel Macron",
+      "Donald Trump"
     ],
     "analyzed_at": "2026-11-01T11:19:47.408929+00:00"
   },
@@ -5584,11 +4086,7 @@
     "summary": "L’intervention militaire américaine au Venezuela, qui a mis en exergue l’intérêt de Donald Trump pour les vastes ressources pétrolières du p",
     "thumbnail": "thumbnails/1q4gnyh.webp",
     "tags": [
-      "Groenland",
-      "Danemark",
-      "Donald Trump",
-      "Venezuela",
-      "Politique"
+      "Donald Trump"
     ],
     "analyzed_at": "2026-11-01T11:19:46.943571+00:00"
   },
@@ -5609,13 +4107,7 @@
     "ingested_at": "2026-11-01T11:17:32.730599+00:00",
     "summary": "Cuba assurait une partie de la sécurité de Nicolas Maduro depuis son arrivée au pouvoir. Le gouvernement cubain a annoncé deux jours de deuil national, les 5 et 6 janvier, en hommage aux victimes.",
     "thumbnail": "thumbnails/1q4gba3.webp",
-    "tags": [
-      "Nicolas Maduro",
-      "Venezuela",
-      "Havane",
-      "Cuba",
-      "Monde"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:19:47.035997+00:00"
   },
   {
@@ -5636,11 +4128,7 @@
     "summary": "It makes absolutely no sense to talk about the U.S. needing to take over, says Denmark PM",
     "thumbnail": "thumbnails/1q41nq8.webp",
     "tags": [
-      "Greenland",
-      "US",
-      "Denmark PM",
-      "Denmark",
-      "Politique"
+      "Donald Trump"
     ],
     "analyzed_at": "2026-11-01T11:19:47.483492+00:00"
   },
@@ -5661,12 +4149,7 @@
     "ingested_at": "2026-11-01T11:17:32.727959+00:00",
     "summary": "Les dirigeants du Vieux Continent se sont globalement abstenus de condamner le kidnapping de Nicolás Maduro. C’est la pire manière de défendre les principes dont ils se réclament et de se protéger co…",
     "thumbnail": "thumbnails/1q3ydnj.webp",
-    "tags": [
-      "Venezuela",
-      "Nicolás Maduro",
-      "Vieux Continent",
-      "Monde"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:19:47.994072+00:00"
   },
   {
@@ -5687,11 +4170,7 @@
     "summary": "La députée insoumise est accusée d'avoir tenté de réaliser un virement en tant que présidente du site Le Média alors qu'elle n'occupait plus ces fonctions.",
     "thumbnail": "thumbnails/1q3tmun.webp",
     "tags": [
-      "Paris",
-      "Sophia Chikirou",
-      "Média",
-      "Rachida Dati",
-      "Politique"
+      "Rachida Dati"
     ],
     "analyzed_at": "2026-11-01T11:19:47.327801+00:00"
   },
@@ -5714,10 +4193,8 @@
     "thumbnail": "thumbnails/1q3rcv3.webp",
     "tags": [
       "Emmanuel Macron",
-      "Villepin",
-      "Venezuela",
-      "BFMTV",
-      "Politique"
+      "Dominique de Villepin",
+      "Justice"
     ],
     "analyzed_at": "2026-11-01T11:19:47.259813+00:00"
   },
@@ -5739,11 +4216,7 @@
     "summary": "L'ambassadeur du Danemark aux États-Unis a appelé au \"respect total\" de l'intégrité territoriale du Groenland après une publication de Katie Miller, épouse du directeur de cabinet adjoint de la Maison Blanche. Le Groenland y apparait recouvert du drapeau des États-Unis.",
     "thumbnail": "thumbnails/1q3pmqu.webp",
     "tags": [
-      "Danemark",
-      "États-Unis",
-      "Groenland",
-      "Trump",
-      "Monde"
+      "Donald Trump"
     ],
     "analyzed_at": "2026-11-01T11:19:48.540580+00:00"
   },
@@ -5765,11 +4238,8 @@
     "summary": "Les députés ont voté le 17 décembre la reconduction de l’expérimentation de la vidéosurveillance algorithmique (VSA) jusqu’au 31 décembre 2027.",
     "thumbnail": "thumbnails/1q31ar9.webp",
     "tags": [
-      "VSA",
-      "Jeux",
-      "Monde",
-      "Sénat",
-      "Société"
+      "Libertés publiques",
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T11:19:48.583991+00:00"
   },
@@ -5790,38 +4260,8 @@
     "ingested_at": "2026-11-01T11:17:32.728295+00:00",
     "summary": "Stupéfiante par sa rapidité et son efficacité, l’intervention des forces spéciales au Venezuela pour capturer le président Nicolas Maduro connaît peu d’exemples comparables dans l’histoire. L’un des rares précédents fut la capture en 1989 du général Noriega au Panama.",
     "thumbnail": "thumbnails/1q2sjjk.webp",
-    "tags": [
-      "Panama",
-      "Noriega",
-      "George Bush",
-      "État",
-      "Monde"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:19:48.096409+00:00"
-  },
-  {
-    "id": "1q2qf7l",
-    "title": "Trump - Le président Nicolas Maduro, accompagné de son épouse, a été capturé et expulsé du pays",
-    "url": "https://www.zonebourse.com/actualite-bourse/trump-le-president-nicolas-maduro-accompagne-de-son-epouse-a-ete-capture-et-expulse-du-pays-ce7e59d9de8fff23",
-    "permalink": "/r/france/comments/1q2qf7l/trump_le_président_nicolas_maduro_accompagné_de/",
-    "created_at": "2026-01-03T09:29:42+00:00",
-    "score": 866,
-    "num_comments": 687,
-    "subreddit": "france",
-    "author": "Noirceuil",
-    "flair": "Monde",
-    "domain": "zonebourse.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/eDqTP987E9diGuNYNcD9oZz9NBeuSD6AsR5pxhrU9zQ.png?auto=webp&s=93e9b3305c1db13e86953e6e8c464b7f4a751cea",
-    "ingested_at": "2026-11-01T11:17:32.725913+00:00",
-    "summary": "Trump - Le président Nicolas Maduro, qui a été capturé avec son épouse, a été expulsé du pays par avion. ...",
-    "thumbnail": "thumbnails/1q2qf7l.webp",
-    "tags": [
-      "Nicolas Maduro",
-      "Bourse",
-      "Monde"
-    ],
-    "analyzed_at": "2026-11-01T11:19:47.938229+00:00"
   },
   {
     "id": "1q29tqo",
@@ -5841,8 +4281,7 @@
     "summary": "",
     "thumbnail": "",
     "tags": [
-      "Serge Zaka",
-      "Politique"
+      "Police"
     ],
     "analyzed_at": "2026-11-01T11:19:49.705961+00:00"
   },
@@ -5864,11 +4303,11 @@
     "summary": "Lors de son passage dans l’émission «la librairie Africaine», l’élu Insoumis avait déjà suscité la polémique en tenant des propos sexistes à l’encontre de la ministre Rachida Dati.",
     "thumbnail": "thumbnails/1q1i7wo.webp",
     "tags": [
-      "Rachida Dati",
-      "LFI",
-      "LFI Carlos Martens Bilongo",
       "Xavier Bertrand",
-      "Politique"
+      "Rachida Dati",
+      "Racisme",
+      "Pauvreté",
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T11:19:48.471058+00:00"
   },
@@ -5889,12 +4328,7 @@
     "ingested_at": "2026-11-01T11:17:32.725984+00:00",
     "summary": "La note est salée, mais pour le restaurateur. La DGCCRF annonce ce mardi 30 décembre qu'un restaurant d'altitude de Val Thorens, en Savoie, écope d'une amende 8.000 euros pour avoir refusé de servir de l'eau en carafe à ses clients, ce qui est pourtant prévu par la loi en France.",
     "thumbnail": "thumbnails/1q1fmyu.webp",
-    "tags": [
-      "Val Thorens",
-      "ICI",
-      "DGCCRF",
-      "Savoie"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:19:48.722365+00:00"
   },
   {
@@ -5915,11 +4349,9 @@
     "summary": "Le gouvernement états-unien entend multiplier les sanctions individuelles contre des personnalités européennes, à l’image de l’ancien commissaire européen Thierry Breton,...",
     "thumbnail": "thumbnails/1q1cr6i.webp",
     "tags": [
-      "Marine le Pen",
-      "Trump",
-      "Thierry Breton",
-      "Payant",
-      "Monde"
+      "Donald Trump",
+      "Marine Le Pen",
+      "Justice"
     ],
     "analyzed_at": "2026-11-01T11:19:48.795161+00:00"
   },
@@ -5941,34 +4373,9 @@
     "summary": "Grok, l'intelligence artificielle de X, permet de dénuder les gens et de les mettre en maillot de bain et très petite tenue sans même demander le consentement de la personne. Beaucoup d'utilisateurs ont utilisé cette fonction lors du réveillon",
     "thumbnail": "thumbnails/1q1cm9u.webp",
     "tags": [
-      "IA"
+      "Intelligence artificielle"
     ],
     "analyzed_at": "2026-11-01T11:19:48.925901+00:00"
-  },
-  {
-    "id": "1q1adj4",
-    "title": "For Nicolas Sarkozy, Far-Right Rule Is Tolerable",
-    "url": "https://jacobin.com/2025/12/sarkozy-le-pen-praise",
-    "permalink": "/r/france/comments/1q1adj4/for_nicolas_sarkozy_farright_rule_is_tolerable/",
-    "created_at": "2026-01-01T17:58:47+00:00",
-    "score": 279,
-    "num_comments": 39,
-    "subreddit": "france",
-    "author": "Folivao",
-    "flair": "Politique",
-    "domain": "jacobin.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/OSqOSHbhwKEskFH8LEsl1cH-Y-_7xU-g4DoPdvHhA9s.jpeg?auto=webp&s=08af484768a47fb2271ce6d736986f66db5b3bb0",
-    "ingested_at": "2026-11-01T11:17:32.730291+00:00",
-    "summary": "France’s former president Nicolas Sarkozy has called on his allies to stop demonizing Marine Le Pen. It’s part of a broader shift in establishment conservatism toward open collaboration with her far-right party.",
-    "thumbnail": "thumbnails/1q1adj4.webp",
-    "tags": [
-      "Nicolas Sarkozy",
-      "Far-Right Rule Is Tolerable",
-      "Marine le Pen",
-      "Politique"
-    ],
-    "analyzed_at": "2026-11-01T11:19:49.507799+00:00"
   },
   {
     "id": "1q1892v",
@@ -5988,10 +4395,8 @@
     "summary": "Une note destinée aux encadrants de la RATP, signée par Jean Castex en juillet 2025, incite à contrôler les pratiques religieuses des agents et prestataires, pour respecter la « neutr...",
     "thumbnail": "thumbnails/1q1892v.webp",
     "tags": [
-      "RATP",
-      "Jean Castex",
-      "Payant",
-      "Société"
+      "Transports",
+      "Jean Castex"
     ],
     "analyzed_at": "2026-11-01T11:19:49.717905+00:00"
   },
@@ -6012,7 +4417,10 @@
     "ingested_at": "2026-11-01T11:17:32.727909+00:00",
     "summary": "",
     "thumbnail": "thumbnails/1q114an.webp",
-    "tags": [],
+    "tags": [
+      "Immigration",
+      "Médias"
+    ],
     "analyzed_at": "2026-11-01T11:19:49.213452+00:00"
   }
 ]

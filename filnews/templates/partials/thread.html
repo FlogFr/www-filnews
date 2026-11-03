@@ -1,0 +1,12 @@
+<ol class="thread">
+  {% for entry in thread %}
+  {% if entry.new_year %}<li class="thread__year" aria-hidden="true"><span>{{ entry.news.created_at|date:"Y" }}</span></li>{% endif %}
+  <li class="thread__item thread__item--{{ entry.side }}">
+    <p class="thread__when">
+      <time class="thread__date" datetime="{{ entry.news.created_at|date:'c' }}">{{ entry.news.created_at|date:"j F Y" }}</time>
+      {% if entry.gap %}<span class="thread__gap">{{ entry.gap }} plus tôt</span>{% endif %}
+    </p>
+    {% include "partials/news_card.html" with news=entry.news %}
+  </li>
+  {% endfor %}
+</ol>

@@ -1,9 +1,11 @@
 FilNews.fr
 ==========
 
-**L'actualité vue par les Français.** FilNews sélectionne les liens d'actualité
+**L'actualité vue par r/france.** FilNews sélectionne les liens d'actualité
 qui font réagir r/france, les résume, les illustre et les relie entre eux par
-des tags pour donner le contexte d'un sujet dans le temps.
+des **fils** (personnalités politiques et grands thèmes) pour donner le
+contexte d'un sujet dans le temps. Le code est ouvert, par souci de
+transparence.
 
 Le site est généré en **statique** par Django, puis servi par **nginx** dans un
 conteneur Docker (port 8000). Il n'y a ni base de données ni Python en
@@ -29,8 +31,15 @@ production.
   (`FILNEWS_BACKFILL_DAY_TOP`, `FILNEWS_BACKFILL_DAY_MIN_SCORE`) : les
   scores d'avant 2020 sont bien plus faibles. `--dry-run` affiche seulement la
   répartition des scores.
-- Exclus : posts texte, NSFW, épinglés, supprimés, liens qui ne sont pas des articles
-  (images/vidéos Reddit, imgur, Twitter/X, YouTube…).
+- Exclus : posts texte, NSFW, épinglés, supprimés.
+- **Sélection des médias** (`filnews/media.py`) : une liste de **médias
+  autorisés** (presse nationale et régionale, audiovisuel, médias
+  indépendants, presse étrangère, institutions) et une liste de **sites
+  refusés** (YouTube, Twitter/X, réseaux sociaux, hébergeurs d'images,
+  Wikipédia, blogs, satire…). Par défaut seuls les médias autorisés sont
+  ingérés (`FILNEWS_MEDIA_WHITELIST=0` pour accepter tout site non refusé).
+  `prune_news` liste les news déjà stockées hors de cette politique
+  (`--apply` pour les supprimer).
 - Une news déjà connue est mise à jour (score, commentaires, titre) sans perdre
   son analyse.
 - **Un article = une news** : un second post vers le même article est ignoré,
@@ -42,7 +51,10 @@ production.
 
 - Commande `analyze_news` (8 téléchargements en parallèle, 2 au plus par site,
   `--workers`) : télécharge l'article et produit
-  - jusqu'à **5 tags** (personnes, lieux, organisations, thèmes, flair Reddit) ;
+  - jusqu'à **5 tags**, pris uniquement dans un **vocabulaire contrôlé**
+    (`filnews/vocabulary.py`) : **personnalités politiques** (françaises et
+    internationales) et **grands thèmes politiques et de société**
+    (environnement, police, logement, immigration…) ;
   - un **résumé** d'environ 320 caractères ;
   - une **vignette** WebP 640×360.
 - Deux analyseurs : `heuristic` (par défaut, sans dépendance lourde) et `local`
@@ -51,19 +63,30 @@ production.
 - Article disparu ou qui refuse les robots (404, 410, 403…) : on utilise sa
   copie de la **Wayback Machine** (`FILNEWS_WAYBACK=0` pour désactiver) ; à
   défaut, l'analyse se fait sur le titre et les données Reddit.
+- `analyze_news --retag` recalcule les tags de toutes les news à partir des
+  données stockées (titre, résumé, anciens tags, flair), sans rien télécharger.
 - **Alias de tags** : `data/tag_aliases.json` (`{"Macron": "Emmanuel Macron"}`),
   appliqué au chargement, sans réanalyse.
 
 ### Site
 
-- **Accueil** : « À la une » (news la plus populaire des 24 dernières heures),
-  les 5 news suivantes avec leurs tags, les 10 tags du moment, lien vers le
-  flux RSS.
+- **Accueil** : bandeau « Chaque actu a une histoire. On vous donne le
+  fil. », « À la une » (news la plus populaire des 24 dernières heures),
+  **le fil du moment** (le fil qui compte le plus de news sur les 48 dernières
+  heures : ses 5 dernières news sur une ligne chronologique, avec l'écart entre
+  elles), les 5 dernières news avec leurs fils, les **7 fils du
+  moment** (les plus présents sur 7 jours, avec leur sorte : personnalité ou
+  thème), un encart vers la présidentielle 2027 et le flux RSS.
+- **Présidentielle 2027** (`/presidentielle-2027/`) : les candidats déclarés
+  et pressentis (`filnews/elections.py`, édité à la main) avec leurs fils
+  associés, et **le fil de la campagne** ; une page par candidat
+  (`/presidentielle-2027/<candidat>/`) avec toutes ses news depuis
+  janvier 2025.
 - **Fiche news** : résumé, vignette, liens vers l'article et la discussion
   Reddit, tags, jusqu'à 5 news liées (tags en commun).
 - **Archives** : les mois par année, puis une page par mois
   (`/archives/AAAA/MM/`) avec les news jour par jour.
-- **Tags** :
+- **Fils (tags)** :
   - au **survol** (ou au focus) d'un tag, une carte affiche une **frise**
     chronologique (un point par news, ou une barre par période au-delà de 40
     news) dont l'échelle s'adapte à l'historique du tag (jours, mois ou
@@ -76,7 +99,8 @@ production.
   - un tag n'a sa page qu'à partir de 2 news (sinon : texte simple) ;
   - un index alphabétique des tags, avec une barre de lettres.
 - **Flux RSS** de toutes les news (les plus récentes d'abord), page « À
-  propos », page 404.
+  propos », **mentions légales** (éditeur non professionnel, hébergeur, données
+  personnelles, lien vers le code source sur GitHub), page 404.
 - **Thème clair/sombre** : automatique, avec un bouton pour choisir.
 
 ### Qualité

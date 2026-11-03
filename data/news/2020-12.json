@@ -18,9 +18,7 @@
     "thumbnail": "thumbnails/knwlne.webp",
     "tags": [
       "Jean-Luc Mélenchon",
-      "Assemblée",
-      "Bouches-du-Rhône",
-      "BFMTV et BFM Business"
+      "Laïcité"
     ],
     "analyzed_at": "2026-11-01T09:57:59.276994+00:00"
   },
@@ -42,11 +40,7 @@
     "summary": "Si Boris Johnson a toujours été un partisan du Brexit, ce n'est pas le cas de son père, qui veut obtenir la nationalité française.",
     "thumbnail": "thumbnails/knmdq9.webp",
     "tags": [
-      "Boris Johnson",
-      "Brexit",
-      "Royaume-Uni",
-      "Citoyens",
-      "Fil info"
+      "Boris Johnson"
     ],
     "analyzed_at": "2026-11-01T09:57:59.677703+00:00"
   },
@@ -68,11 +62,7 @@
     "summary": "Un gigantesque projet de parc solaire de 1.000 hectares pourrait bientôt voir le jour dans la commune de Saucats, en Gironde.",
     "thumbnail": "thumbnails/kmzu10.webp",
     "tags": [
-      "Gironde",
-      "Horizéo",
-      "Saucats",
-      "Engie et Neoen",
-      "Écologie"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T09:57:59.381666+00:00"
   },
@@ -94,35 +84,9 @@
     "summary": "La loi autorise désormais l'interruption volontaire de grossesse jusqu'à 14 semaines de grossesse dans un pays catholique et divisé sur la question.",
     "thumbnail": "thumbnails/kmz4dm.webp",
     "tags": [
-      "IVG",
-      "Sénat",
-      "Amériques",
-      "Monde"
+      "Droits des femmes"
     ],
     "analyzed_at": "2026-11-01T09:57:59.344773+00:00"
-  },
-  {
-    "id": "kmyyah",
-    "title": "Prix, publicité, résiliation... Le tableau des abonnements aux médias français",
-    "url": "https://gnppn.fr/prix-publicite-resiliation-le-tableau-des-abonnements-aux-medias-francais/",
-    "permalink": "/r/france/comments/kmyyah/prix_publicité_résiliation_le_tableau_des/",
-    "created_at": "2020-12-30T09:09:50+00:00",
-    "score": 201,
-    "num_comments": 58,
-    "subreddit": "france",
-    "author": "gnppn",
-    "flair": "",
-    "domain": "gnppn.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/4YbAxZClNkvHBc9NevywufgTIvA0oXMvfqrMgiW-p78.jpeg?auto=webp&s=1193b95c181337d938eca544adc46a4e9cf44c64",
-    "ingested_at": "2026-11-01T09:47:07.308949+00:00",
-    "summary": "Petit cadeau de NoÃ«l en retard. Voici un tableau des offres numÃ©riques des principaux mÃ©dias franÃ§ais. Presse nationale, mÃ©dias rÃ©gionaux, magazines, pure playersâ¦ Il fournit…",
-    "thumbnail": "thumbnails/kmyyah.webp",
-    "tags": [
-      "NoÃ",
-      "Google"
-    ],
-    "analyzed_at": "2026-11-01T09:57:59.312170+00:00"
   },
   {
     "id": "kml1j5",
@@ -142,8 +106,7 @@
     "summary": "Business Insider tells the global tech, finance, stock market, media, economy, lifestyle, real estate, AI and innovative stories you want to know.",
     "thumbnail": "thumbnails/kml1j5.webp",
     "tags": [
-      "Irlande",
-      "Économie"
+      "Budget et fiscalité"
     ],
     "analyzed_at": "2026-11-01T09:57:59.768660+00:00"
   },
@@ -164,11 +127,7 @@
     "ingested_at": "2026-11-01T09:47:07.309666+00:00",
     "summary": "Le gérant d’un des établissements visés par les terroristes du «commando des terrasses» en 2015 comptait ouvrir un nouveau site dans le 10e.",
     "thumbnail": "thumbnails/kmbetm.webp",
-    "tags": [
-      "Paris",
-      "Petit Cambodge",
-      "Soft paywall"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:57:59.814802+00:00"
   },
   {
@@ -189,10 +148,7 @@
     "summary": "Ce fichier sera partagé avec d'autres pays européens mais ne sera pas rendu public, a indiqué lundi le ministre espagnol de la Santé.",
     "thumbnail": "thumbnails/klw9g6.webp",
     "tags": [
-      "Covid-19",
-      "Espagne",
-      "Maladie",
-      "Monde"
+      "Covid-19"
     ],
     "analyzed_at": "2026-11-01T09:57:59.679433+00:00"
   },
@@ -213,7 +169,9 @@
     "ingested_at": "2026-11-01T09:47:07.308021+00:00",
     "summary": "Maîtrise du français, comportement, condition physique… L’Ile-de-France est la région accueillant le plus de recrues et qui sont, souvent, l",
     "thumbnail": "thumbnails/klmc7w.webp",
-    "tags": [],
+    "tags": [
+      "Police"
+    ],
     "analyzed_at": "2026-11-01T09:57:59.895169+00:00"
   },
   {
@@ -255,13 +213,7 @@
     "ingested_at": "2026-11-01T09:47:07.308400+00:00",
     "summary": "SÃ©rie - \"Ils font bouger le monde et les mentalitÃ©s\": France Inter se penche sur ceux qui faÃ§onnent l'avenir. Laurent de La Clergerie, PDG du groupe LDLC (e-commerce de matÃ©riel informatique), qui, au nom du bien-Ãªtre au travail, met en place la semaine de 32 heures sur 4 jours et sans perte de salaire.",
     "thumbnail": "thumbnails/kl45s8.webp",
-    "tags": [
-      "Clergerie",
-      "LDLC",
-      "SÃ",
-      "PDG",
-      "SociÃ©tÃ©"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:58:01.897552+00:00"
   },
   {
@@ -282,35 +234,9 @@
     "summary": "",
     "thumbnail": "thumbnails/kknw4y.webp",
     "tags": [
-      "Noël"
+      "Police"
     ],
     "analyzed_at": "2026-11-01T09:58:03.461094+00:00"
-  },
-  {
-    "id": "kkj78n",
-    "title": "AJA La France à un navire océanographique appelé le \"Pourquoi pas ?\"",
-    "url": "https://fr.wikipedia.org/wiki/Pourquoi_pas_%3F_(2005)",
-    "permalink": "/r/france/comments/kkj78n/aja_la_france_à_un_navire_océanographique_appelé/",
-    "created_at": "2020-12-26T14:14:59+00:00",
-    "score": 147,
-    "num_comments": 30,
-    "subreddit": "france",
-    "author": "Sapang",
-    "flair": "Culture",
-    "domain": "fr.wikipedia.org",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/wD-lgSjHZt7aTzhcE4_ei-72-ooGCAy0q98_0ZxB7d4.jpeg?auto=webp&s=4016f17d03e478a2a15539a0533d58eae001d204",
-    "ingested_at": "2026-11-01T09:47:07.309443+00:00",
-    "summary": "Le Pourquoi pas ? est un navire océanographique français de l’ Ifremer et de la Marine nationale . Pour cette dernière, c’est le Service hydrographique et océanographique de la marine (SHOM) qui en est le principal utilisateur.",
-    "thumbnail": "thumbnails/kkj78n.webp",
-    "tags": [
-      "AJA la France",
-      "Ifremer",
-      "Nautile",
-      "Victor 6000",
-      "Culture"
-    ],
-    "analyzed_at": "2026-11-01T09:58:00.596186+00:00"
   },
   {
     "id": "kjxuiz",
@@ -329,11 +255,7 @@
     "ingested_at": "2026-11-01T09:47:07.308767+00:00",
     "summary": "",
     "thumbnail": "thumbnails/kjxuiz.webp",
-    "tags": [
-      "Samuel Etienne",
-      "Twitch",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:58:00.156199+00:00"
   },
   {
@@ -354,84 +276,9 @@
     "summary": "Ce “massacre”, selon le bureau local du Parti socialiste, a eu lieu dans une zone de chasse protégée à Azambuja, dans l’Alentejo. Les chasseurs, 16 au total, on...",
     "thumbnail": "thumbnails/kjw6ry.webp",
     "tags": [
-      "Portugal",
-      "Azambuja",
-      "Alentejo"
+      "Cause animale"
     ],
     "analyzed_at": "2026-11-01T09:58:00.387907+00:00"
-  },
-  {
-    "id": "kjid8u",
-    "title": "\"Before the spin starts,it’s worth remembering that Brexit is happening against Scotland’s will. And there is no deal that will ever make up for what Brexit takes away from us. It’s time to chart our own future as an independent,European nation\" Nicola Sturgeon, Leader of SNP & 1st Minister Scotland",
-    "url": "https://www.facebook.com/NicolaSturgeonSNP/posts/4862922490416295",
-    "permalink": "/r/france/comments/kjid8u/before_the_spin_startsits_worth_remembering_that/",
-    "created_at": "2020-12-24T16:40:26+00:00",
-    "score": 221,
-    "num_comments": 58,
-    "subreddit": "france",
-    "author": "GrenobleLyon",
-    "flair": "Politique",
-    "domain": "facebook.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://b.thumbs.redditmedia.com/oCQVAK7RWYuUP1t4D7PvHvbqAJz3FTl8t6ItNwZ_OPM.jpg",
-    "ingested_at": "2026-11-01T09:47:07.308791+00:00",
-    "summary": "Before the spin starts, it’s worth remembering that Brexit is happening against Scotland’s will. And there is no deal that will ever make up for what Brexit takes away from us. It’s time to chart our...",
-    "thumbnail": "thumbnails/kjid8u.webp",
-    "tags": [
-      "Brexit",
-      "Scotland's",
-      "Nicola Sturgeon",
-      "SNP",
-      "Politique"
-    ],
-    "analyzed_at": "2026-11-01T09:58:03.258400+00:00"
-  },
-  {
-    "id": "kjgw2g",
-    "title": "Dans un excès de délire de fièvre, Emmanuel Macron prend accidentellement une mesure de gauche",
-    "url": "http://www.legorafi.fr/2020/12/18/dans-un-exces-de-delire-de-fievre-emmanuel-macron-prend-accidentellement-une-mesure-de-gauche/",
-    "permalink": "/r/france/comments/kjgw2g/dans_un_excès_de_délire_de_fièvre_emmanuel_macron/",
-    "created_at": "2020-12-24T15:07:34+00:00",
-    "score": 267,
-    "num_comments": 62,
-    "subreddit": "france",
-    "author": "[deleted]",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/HWXE8H5COwNhKibYdjPxMPTkWFxyNNt5P94yaGMEyws.jpeg?auto=webp&s=b7ae0b7485b1fce518c4de47492dc2282174af70",
-    "ingested_at": "2026-11-01T09:47:07.308518+00:00",
-    "summary": "Alors qu'il s'est isolé à la Lanterne, l'état de santé du président s'est brutalement aggravé. Aveuglé par la fièvre, Emmanuel Macron aurait pris accidentellement une mesure de gauche.",
-    "thumbnail": "thumbnails/kjgw2g.webp",
-    "tags": [
-      "Emmanuel Macron",
-      "Lanterne",
-      "Gorafi",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:58:00.139703+00:00"
-  },
-  {
-    "id": "kiwgfn",
-    "title": "Carte gastronomique de la France 1932 by A. Bourguignon",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Bourguignon_-_Carte_gastronomique_de_la_France_1932.png",
-    "permalink": "/r/france/comments/kiwgfn/carte_gastronomique_de_la_france_1932_by_a/",
-    "created_at": "2020-12-23T16:46:19+00:00",
-    "score": 181,
-    "num_comments": 28,
-    "subreddit": "france",
-    "author": "qwert2y3",
-    "flair": "",
-    "domain": "upload.wikimedia.org",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/hwOgqiQoCZAC1KKGJ-31is8XKOgks0QrePTvC8hZvGc.png?auto=webp&s=5efb9e4b8649fb3aba89b9955a3dcad9d53da14e",
-    "ingested_at": "2026-11-01T09:47:07.309122+00:00",
-    "summary": "",
-    "thumbnail": "",
-    "tags": [
-      "France 1932"
-    ],
-    "analyzed_at": "2026-11-01T09:58:11.441402+00:00"
   },
   {
     "id": "kineqi",
@@ -450,7 +297,9 @@
     "ingested_at": "2026-11-01T09:47:07.308339+00:00",
     "summary": "Les gendarmes sont intervenus après avoir été alertés de faits de violence sur conjoint. Ils ont été visés par des tirs à leur arrivée peu après minuit.",
     "thumbnail": "thumbnails/kineqi.webp",
-    "tags": [],
+    "tags": [
+      "Police"
+    ],
     "analyzed_at": "2026-11-01T09:58:00.444822+00:00"
   },
   {
@@ -471,57 +320,10 @@
     "summary": "L’Ordre des médecins a déposé six plaintes qui concernent notamment des propos tenus par plusieurs spécialistes concernant la crise sanitair",
     "thumbnail": "thumbnails/ki160a.webp",
     "tags": [
-      "Didier Raoult et Christian Perronne",
-      "Ordre",
-      "Cnom",
+      "Santé",
       "Covid-19"
     ],
     "analyzed_at": "2026-11-01T09:58:00.744116+00:00"
-  },
-  {
-    "id": "khx82g",
-    "title": "Napoléon ressemble à un ingénieur informatique random.",
-    "url": "https://gfycat.com/infantileunrealisticgoldenmantledgroundsquirrel",
-    "permalink": "/r/france/comments/khx82g/napoléon_ressemble_à_un_ingénieur_informatique/",
-    "created_at": "2020-12-22T03:36:33+00:00",
-    "score": 147,
-    "num_comments": 37,
-    "subreddit": "france",
-    "author": "anoxil",
-    "flair": "",
-    "domain": "gfycat.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://b.thumbs.redditmedia.com/NoJ5ZPO1KkffBzjAftAyh0j6pawDZtVt8yFG7Q6b1Wc.jpg",
-    "ingested_at": "2026-11-01T09:47:07.309394+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/khx82g.webp",
-    "tags": [],
-    "analyzed_at": "2026-11-01T09:58:04.576965+00:00"
-  },
-  {
-    "id": "khnbwr",
-    "title": "France : le ministre de l’Intérieur, Gérald Darmanin, a menti sur ses 20 000 euros offerts à la SPA",
-    "url": "https://lecourrier-du-soir.com/france-le-ministre-de-linterieur-gerald-darmani-a-menti-sur-ses-20-000-euros-offerts-a-la-spa/",
-    "permalink": "/r/france/comments/khnbwr/france_le_ministre_de_lintérieur_gérald_darmanin/",
-    "created_at": "2020-12-21T18:43:53+00:00",
-    "score": 233,
-    "num_comments": 78,
-    "subreddit": "france",
-    "author": "testing1838291",
-    "flair": "Trompeur ?",
-    "domain": "lecourrier-du-soir.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/6DGI239JVrdtYaIdK-kcY9-dWOmdI_lpROQZN_d2Ous.jpg?auto=webp&s=2de1b694c114c6244533138fbd6cfefbea7f31f6",
-    "ingested_at": "2026-11-01T09:47:07.308644+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/khnbwr.webp",
-    "tags": [
-      "Intérieur",
-      "Gérald Darmanin",
-      "SPA",
-      "Trompeur ?"
-    ],
-    "analyzed_at": "2026-11-01T09:58:03.374450+00:00"
   },
   {
     "id": "khjhjj",
@@ -540,12 +342,7 @@
     "ingested_at": "2026-11-01T09:47:07.307943+00:00",
     "summary": "Le Conseil d'Etat a rejeté le recours des laboratoires Boiron et Homéopathie Rocal contre l'arrêté ministériel actant le déremboursement de l'homéopathie à compter du 1er janvier 2021.",
     "thumbnail": "thumbnails/khjhjj.webp",
-    "tags": [
-      "Conseil Etat",
-      "Boiron",
-      "Boiron et Homéopathie Rocal",
-      "Science"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:58:00.828405+00:00"
   },
   {
@@ -566,32 +363,9 @@
     "summary": "",
     "thumbnail": "thumbnails/kgzjzy.webp",
     "tags": [
-      "Royaume-Uni"
+      "Covid-19"
     ],
     "analyzed_at": "2026-11-01T09:58:01.228962+00:00"
-  },
-  {
-    "id": "kgs349",
-    "title": "Vosges. Un chasseur braque son fusil sur Julien Absalon, double champion olympique, lors d'une sortie VTT",
-    "url": "https://www.vosgesmatin.fr/amp/sport/2020/12/19/julien-absalon-mis-en-joue-par-un-chasseur",
-    "permalink": "/r/france/comments/kgs349/vosges_un_chasseur_braque_son_fusil_sur_julien/",
-    "created_at": "2020-12-20T10:46:16+00:00",
-    "score": 244,
-    "num_comments": 93,
-    "subreddit": "france",
-    "author": "Efendiskander",
-    "flair": "",
-    "domain": "vosgesmatin.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/aEMWE8akpwld3Sh6IMShtIitJgfIOWcxXK2nRCmdAvY.jpg?auto=webp&s=3250c29611d0865c5973694fb5b73848c9dd3906",
-    "ingested_at": "2026-11-01T09:47:07.308618+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/kgs349.webp",
-    "tags": [
-      "Julien Absalon",
-      "VTT"
-    ],
-    "analyzed_at": "2026-11-01T09:58:07.288664+00:00"
   },
   {
     "id": "kg5cw7",
@@ -611,7 +385,7 @@
     "summary": "",
     "thumbnail": "thumbnails/kg5cw7.webp",
     "tags": [
-      "Soft paywall"
+      "Nicolas Dupont-Aignan"
     ],
     "analyzed_at": "2026-11-01T09:58:02.460858+00:00"
   },
@@ -632,13 +406,7 @@
     "ingested_at": "2026-11-01T09:47:07.309297+00:00",
     "summary": "Dans la nuit de mercredi à jeudi, des voleurs se sont introduits dans les locaux de l'association et ont dérobé des kilos de saumon, de chocolat et de fromages destinés aux repas de Noël des plus démunis. Une enquête a été ouverte.",
     "thumbnail": "thumbnails/kg35aa.webp",
-    "tags": [
-      "Noël",
-      "Secours Populaire",
-      "Noël du Secours",
-      "Vol",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:58:05.505500+00:00"
   },
   {
@@ -659,33 +427,9 @@
     "summary": "La société éditrice de jeux vidéos Ankama a fait un sacré cadeau de Noël aux sa...",
     "thumbnail": "thumbnails/kfn9mn.webp",
     "tags": [
-      "Ankama",
-      "Roubaix",
-      "Noël"
+      "Santé"
     ],
     "analyzed_at": "2026-11-01T09:58:03.555985+00:00"
-  },
-  {
-    "id": "kffi99",
-    "title": "Rocamadour ressemble à Minas Tirith",
-    "url": "https://live.staticflickr.com/65535/50523893038_8ee0e86e09_o.jpg",
-    "permalink": "/r/france/comments/kffi99/rocamadour_ressemble_à_minas_tirith/",
-    "created_at": "2020-12-18T06:03:41+00:00",
-    "score": 3500,
-    "num_comments": 157,
-    "subreddit": "france",
-    "author": "loulan",
-    "flair": "",
-    "domain": "live.staticflickr.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/1R4opb9pdDyud6EIhWo04dftI_c3XM9EOOJQ5IoVCnk.jpg?auto=webp&s=ac0d4fcca9c5738ba6ae98ef4b4db9fe4bbc9350",
-    "ingested_at": "2026-11-01T09:47:07.307472+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/kffi99.webp",
-    "tags": [
-      "Minas Tirith"
-    ],
-    "analyzed_at": "2026-11-01T09:58:08.347550+00:00"
   },
   {
     "id": "kev41y",
@@ -705,11 +449,7 @@
     "summary": "Le président de l'Assemblée nationale, Richard Ferrand, tente, tant bien que mal, de responsabiliser les Français face au Covid-19",
     "thumbnail": "thumbnails/kev41y.webp",
     "tags": [
-      "Richard Ferrand",
-      "Français",
-      "Assemblée",
-      "Covid-19",
-      "Article Ancien"
+      "Covid-19"
     ],
     "analyzed_at": "2026-11-01T09:58:03.697419+00:00"
   },
@@ -731,8 +471,7 @@
     "summary": "Le 8 avril dernier, Mohamed Gabsi, 33 ans, était mort après son interpellation lors d’un contrôle lié au confinement. La version des agents",
     "thumbnail": "thumbnails/keu9yi.webp",
     "tags": [
-      "Béziers",
-      "Mohamed Gabsi"
+      "Police"
     ],
     "analyzed_at": "2026-11-01T09:58:03.928547+00:00"
   },
@@ -774,9 +513,8 @@
     "summary": "Les mots n'ont pas plu. Leur auteur, domicilié dans le Roannais, a été convoqué à la gendarmerie et a reconnu les faits, estimant lui que ses propos n’étaient pas outrageants. Le tribunal tranchera le 22 mars prochain.",
     "thumbnail": "thumbnails/ke8zvk.webp",
     "tags": [
-      "Roannais",
-      "Facebook",
-      "Société"
+      "Police",
+      "Numérique"
     ],
     "analyzed_at": "2026-11-01T09:58:04.598709+00:00"
   },
@@ -798,10 +536,8 @@
     "summary": "Un professeur d’histoire de l’art de Meudon avait affiché dans la ville et partagé sur les réseaux un dessin de Jacques Maire, député des Ha",
     "thumbnail": "thumbnails/ke7x9a.webp",
     "tags": [
-      "Meudon",
-      "Jacques Maire",
-      "Ha",
-      "Soft paywall"
+      "Institutions",
+      "Police"
     ],
     "analyzed_at": "2026-11-01T09:58:04.248103+00:00"
   },
@@ -823,8 +559,7 @@
     "summary": "Les 388 députés qui ont voté pour la proposition de loi sécurité globale ont vu leur portrait caricaturé sous le nom de « trombinoscope de la honte ». Une pratique qui a heurté certains d’entre eux quand d’autres ne veulent pas s’aventurer sur le terrain périlleux de la liberté de caricaturer",
     "thumbnail": "thumbnails/ke6wu0.webp",
     "tags": [
-      "Loi Sécurité globale",
-      "Politique"
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T09:58:05.418183+00:00"
   },
@@ -845,11 +580,7 @@
     "ingested_at": "2026-11-01T09:47:07.309021+00:00",
     "summary": "Depuis l'introduction d'un salaire minimum à Genève de 23 francs de l'heure voté en septembre dernier, les livreurs Uber eats voient leurs pourboires leur passer sous le nez.",
     "thumbnail": "thumbnails/ke5y9g.webp",
-    "tags": [
-      "Genève",
-      "Uber",
-      "Genève de 23"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:58:05.710042+00:00"
   },
   {
@@ -869,13 +600,7 @@
     "ingested_at": "2026-11-01T09:47:07.308459+00:00",
     "summary": "Confronté à une recrudescence de violences urbaines, dernièrement à La Toussaint, le maire LR Nicolas Daragon affiche sa volonté de «restaurer un peu d'autorité» dans la ville.",
     "thumbnail": "thumbnails/kdtm2v.webp",
-    "tags": [
-      "Toussaint",
-      "Justice",
-      "Valence",
-      "LR Nicolas Daragon",
-      "Nicolas Daragon"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:58:05.802245+00:00"
   },
   {
@@ -895,36 +620,8 @@
     "ingested_at": "2026-11-01T09:47:07.309047+00:00",
     "summary": "Dans la métropole de Lille, plusieurs restaurateurs se sont unis pour dénoncer les commissions des sociétés émettrices des tickets restaurants. Ils demandent un geste pour Noël.",
     "thumbnail": "thumbnails/kdocbr.webp",
-    "tags": [
-      "Diane",
-      "Lille",
-      "Noël",
-      "Père Noël",
-      "Économie"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:58:05.131329+00:00"
-  },
-  {
-    "id": "kd28hf",
-    "title": "La députée Martine Wonner nous enjoint de supprimer toute publication la concernant",
-    "url": "https://www.conspiracywatch.info/la-deputee-martine-wonner-nous-enjoint-de-supprimer-toute-publication-la-concernant.html",
-    "permalink": "/r/france/comments/kd28hf/la_députée_martine_wonner_nous_enjoint_de/",
-    "created_at": "2020-12-14T17:37:57+00:00",
-    "score": 318,
-    "num_comments": 50,
-    "subreddit": "france",
-    "author": "HellYodan",
-    "flair": "",
-    "domain": "conspiracywatch.info",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/GAM7uCEADjahUgq2cZ_oEmfpCojWPEEU5CdzH4-mlDQ.jpg?auto=webp&s=77a327bd77548283dc275743f7fa01e4e39fec72",
-    "ingested_at": "2026-11-01T09:47:07.308266+00:00",
-    "summary": "Ce qui est en jeu, c'est la liberté d'informer sur ces fléaux que sont le complotisme et la désinformation.",
-    "thumbnail": "thumbnails/kd28hf.webp",
-    "tags": [
-      "Martine Wonner"
-    ],
-    "analyzed_at": "2026-11-01T09:58:05.405863+00:00"
   },
   {
     "id": "kcu3zr",
@@ -943,13 +640,7 @@
     "ingested_at": "2026-11-01T09:47:07.307756+00:00",
     "summary": "La situation sâaggrave encore au magazine Â« Science & Vie Â», rachetÃ© par le groupe Reworld Media. Une information France Inter.",
     "thumbnail": "thumbnails/kcu3zr.webp",
-    "tags": [
-      "Science Vie",
-      "Reworld Media",
-      "Science Vie Â",
-      "Â Science",
-      "SociÃ©tÃ©"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:58:07.748629+00:00"
   },
   {
@@ -970,8 +661,8 @@
     "summary": "Les forces de l'ordre ont changé de tactique et procédé à près de 150 interpellations dans le cortège.",
     "thumbnail": "thumbnails/kctzcq.webp",
     "tags": [
-      "Paris",
-      "Loi sur la \"sécurité globale\""
+      "Grèves et syndicats",
+      "Manifestations"
     ],
     "analyzed_at": "2026-11-01T09:58:05.747305+00:00"
   },
@@ -993,11 +684,9 @@
     "summary": "Un jeune homme du collectif Désarmons-les a été condamné à huit mois de prison ferme pour violences envers des policiers lors d'une manifestation à Montpellier le 28 septembre 2019, ce qu'il conteste. Il fait appel et dénonce des violences judiciaires.",
     "thumbnail": "thumbnails/kctwmj.webp",
     "tags": [
-      "Agression",
-      "Manifestations",
-      "Police nationale",
-      "Sécurité intérieure",
-      "Société"
+      "Police",
+      "Justice",
+      "Manifestations"
     ],
     "analyzed_at": "2026-11-01T09:58:06.413114+00:00"
   },
@@ -1020,35 +709,9 @@
     "thumbnail": "thumbnails/kchfdz.webp",
     "tags": [
       "Gérald Darmanin",
-      "Paris"
+      "Manifestations"
     ],
     "analyzed_at": "2026-11-01T09:58:06.525733+00:00"
-  },
-  {
-    "id": "kc7hd0",
-    "title": "Endangered Firefox: The state of Mozilla",
-    "url": "https://www.zdnet.com/article/endangered-firefox-the-state-of-mozilla/",
-    "permalink": "/r/france/comments/kc7hd0/endangered_firefox_the_state_of_mozilla/",
-    "created_at": "2020-12-13T08:59:05+00:00",
-    "score": 111,
-    "num_comments": 109,
-    "subreddit": "france",
-    "author": "jeyreymii",
-    "flair": "",
-    "domain": "zdnet.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/tfD48DRePr2SVl7Ixbuzh_Wz-FMnI83sIbyB49nMZp8.jpeg?auto=webp&s=bf820c0c27778e03c34b47a3675c4c9f60c0a1ab",
-    "ingested_at": "2026-11-01T09:47:07.309642+00:00",
-    "summary": "UPDATED: Firefox web browser share keeps going down, while The Mozilla Foundation continues to make staff cuts and gives up its Mountain View California offices.",
-    "thumbnail": "thumbnails/kc7hd0.webp",
-    "tags": [
-      "Mozilla",
-      "Endangered Firefox",
-      "Mozilla Foundation",
-      "Mountain View California",
-      "Firefox"
-    ],
-    "analyzed_at": "2026-11-01T09:58:06.624099+00:00"
   },
   {
     "id": "kbmuqv",
@@ -1068,11 +731,8 @@
     "summary": "Parmi les individus interpellés figure un militant anarchiste autonome revenu de Syrie, qui avait combattu pendant près de 10 mois contre l’Etat islamique aux côtés des Kurdes du Rojava, une enclave kurde en Syrie.",
     "thumbnail": "thumbnails/kbmuqv.webp",
     "tags": [
-      "Syrie",
-      "Etat",
-      "Kurdes du Rojava",
-      "Antiterrorisme",
-      "Politique"
+      "Terrorisme",
+      "Extrême gauche"
     ],
     "analyzed_at": "2026-11-01T09:58:06.252763+00:00"
   },
@@ -1094,7 +754,7 @@
     "summary": "",
     "thumbnail": "thumbnails/kbmfyr.webp",
     "tags": [
-      "Michel Zecler"
+      "Police"
     ],
     "analyzed_at": "2026-11-01T09:58:06.664351+00:00"
   },
@@ -1116,10 +776,7 @@
     "summary": "Lors du défilé contre la loi dite de “Sécurité gobale” samedi à Paris, Claire, 28 ans, a été arrêtée, mise en garde à vue 48 heures et présentée devant la justice ...",
     "thumbnail": "thumbnails/kb7b7v.webp",
     "tags": [
-      "Paris",
-      "CGT",
-      "Claire",
-      "Gratuit"
+      "Police"
     ],
     "analyzed_at": "2026-11-01T09:58:07.506914+00:00"
   },
@@ -1141,7 +798,7 @@
     "summary": "",
     "thumbnail": "thumbnails/kb5ax8.webp",
     "tags": [
-      "Soft paywall"
+      "Logement"
     ],
     "analyzed_at": "2026-11-01T09:58:08.013580+00:00"
   },
@@ -1162,11 +819,7 @@
     "ingested_at": "2026-11-01T09:47:07.307572+00:00",
     "summary": "",
     "thumbnail": "thumbnails/kai11n.webp",
-    "tags": [
-      "Huawei",
-      "Ouïghours",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:58:07.858541+00:00"
   },
   {
@@ -1186,7 +839,10 @@
     "ingested_at": "2026-11-01T09:47:07.307863+00:00",
     "summary": "",
     "thumbnail": "thumbnails/kaee40.webp",
-    "tags": [],
+    "tags": [
+      "Éducation",
+      "Défense"
+    ],
     "analyzed_at": "2026-11-01T09:58:08.358922+00:00"
   },
   {
@@ -1207,11 +863,8 @@
     "summary": "\"Je veux lui redire mon soutien personnel et l'affection et le respect profond que j'ai pour sa vie d'homme politique et sa vie d'homme\", a affirmé sur franceinfo le ministre de l'Intérieur à propos de l'ancien chef de l'Etat, en plein procès de l'affaire dite \"des écoutes\".",
     "thumbnail": "thumbnails/kactvd.webp",
     "tags": [
-      "Gérald Darmanin",
       "Nicolas Sarkozy",
-      "Intérieur",
-      "Etat",
-      "Politique"
+      "Gérald Darmanin"
     ],
     "analyzed_at": "2026-11-01T09:58:07.675727+00:00"
   },
@@ -1233,35 +886,9 @@
     "summary": "Bien qu’il y travaille depuis plus de dix-huit mois, le gouvernement fait tout pour conserver le secret sur le projet Hercule chez EDF. Son objectif : démanteler le groupe public, détruire un bien co…",
     "thumbnail": "thumbnails/kabsyp.webp",
     "tags": [
-      "EDF",
-      "Démantèlement EDF",
-      "Hercule"
+      "Énergie"
     ],
     "analyzed_at": "2026-11-01T09:58:08.599525+00:00"
-  },
-  {
-    "id": "kabrcr",
-    "title": "L'armure d'Antonie Fraveau, un soldat français mort d'un coup de canon à Waterloo en 1815.",
-    "url": "https://gfycat.com/scratchylinearacouchi",
-    "permalink": "/r/france/comments/kabrcr/larmure_dantonie_fraveau_un_soldat_français_mort/",
-    "created_at": "2020-12-10T08:29:28+00:00",
-    "score": 413,
-    "num_comments": 108,
-    "subreddit": "france",
-    "author": "[deleted]",
-    "flair": "Culture",
-    "domain": "gfycat.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://b.thumbs.redditmedia.com/1JgnkWTaW_JyHfiJJNn63ONtKJQNnTrpXaIROjyX4cQ.jpg",
-    "ingested_at": "2026-11-01T09:47:07.307915+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/kabrcr.webp",
-    "tags": [
-      "Antonie Fraveau",
-      "Waterloo",
-      "Culture"
-    ],
-    "analyzed_at": "2026-11-01T09:58:08.993774+00:00"
   },
   {
     "id": "kaayy8",
@@ -1281,11 +908,9 @@
     "summary": "Lâarticle 15 de la loi SÃ©curitÃ© globale ouvre aux policiers la possibilitÃ© de cumuler leur retraite et des missions de sÃ©curitÃ© rÃ©munÃ©rÃ©es. Et devinez qui est justement retraitÃ© de la policeÂ ? Le dÃ©putÃ© Jean-Michel Fauvergue qui propose cette loiÂ !",
     "thumbnail": "thumbnails/kaayy8.webp",
     "tags": [
-      "Jean-Michel Fauvergue",
-      "Loi Sécurité",
-      "SÃ",
-      "AssemblÃ",
-      "Politique"
+      "Police",
+      "Retraites",
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T09:58:08.010704+00:00"
   },
@@ -1312,29 +937,6 @@
     "analyzed_at": "2026-11-01T09:58:08.271619+00:00"
   },
   {
-    "id": "k9nehl",
-    "title": "Oh the story about that anti-LGBT Hungarian politician who got caught at an orgy just keeps getting better and better. Apparently, the guests originally thought that the cops were there to entertain them, so they tried to unzip the pants of the cops.",
-    "url": "https://www.queerty.com/daddy-orgy-guests-thought-cops-play-tried-unzip-pants-20201208",
-    "permalink": "/r/france/comments/k9nehl/oh_the_story_about_that_antilgbt_hungarian/",
-    "created_at": "2020-12-09T07:22:15+00:00",
-    "score": 1528,
-    "num_comments": 106,
-    "subreddit": "france",
-    "author": "popey123",
-    "flair": "",
-    "domain": "queerty.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/ilkgP4qen3Yz71XHCuE-p2g1p_kBb8tFZ6fYUh4Ihh4.jpg?auto=webp&s=0e57dd6ba0941d12afdb40cd67f0058e027e401d",
-    "ingested_at": "2026-11-01T09:47:07.307630+00:00",
-    "summary": "Yet another absurd detail emerges in the story of the antigay lawmaker busted trying to escape a gay sex party.",
-    "thumbnail": "thumbnails/k9nehl.webp",
-    "tags": [
-      "József Szájer",
-      "Hungarian"
-    ],
-    "analyzed_at": "2026-11-01T09:58:09.009607+00:00"
-  },
-  {
     "id": "k99p2s",
     "title": "Procès des écoutes : quatre ans de prison dont deux avec sursis requis contre Nicolas Sarkozy",
     "url": "https://www.lemonde.fr/societe/article/2020/12/08/proces-des-ecoutes-quatre-ans-de-prison-dont-deux-avec-sursis-requis-contre-nicolas-sarkozy_6062663_3224.html",
@@ -1352,7 +954,8 @@
     "summary": "",
     "thumbnail": "thumbnails/k99p2s.webp",
     "tags": [
-      "Nicolas Sarkozy"
+      "Nicolas Sarkozy",
+      "Justice"
     ],
     "analyzed_at": "2026-11-01T09:58:08.583327+00:00"
   },
@@ -1373,9 +976,7 @@
     "ingested_at": "2026-11-01T09:47:07.308230+00:00",
     "summary": "",
     "thumbnail": "thumbnails/k90z2l.webp",
-    "tags": [
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:58:08.642724+00:00"
   },
   {
@@ -1395,13 +996,7 @@
     "ingested_at": "2026-11-01T09:47:07.307685+00:00",
     "summary": "Un Français vient de \"craquer\" l'Elamite Linéaire, une écriture jusque-là non déchiffrée vieille de plus de 4400 ans!",
     "thumbnail": "thumbnails/k8yfro.webp",
-    "tags": [
-      "Iran",
-      "Mésopotamie",
-      "EXCLU",
-      "Age du Bronze",
-      "François Desset"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:58:08.903969+00:00"
   },
   {
@@ -1425,28 +1020,6 @@
     "analyzed_at": "2026-11-01T09:58:09.016185+00:00"
   },
   {
-    "id": "k8i803",
-    "title": "Anne-Sophie Simpere - Par décret la semaine dernière, @gouvernementFR vient de s’autoriser à ficher les personnes en fonction de leurs opinions politiques, leurs convictions philosophiques, religieuses ou leur appartenance syndicale.",
-    "url": "https://nitter.fdn.fr/asimpere/status/1335193945706467329",
-    "permalink": "/r/france/comments/k8i803/annesophie_simpere_par_décret_la_semaine_dernière/",
-    "created_at": "2020-12-07T15:05:56+00:00",
-    "score": 195,
-    "num_comments": 66,
-    "subreddit": "france",
-    "author": "[deleted]",
-    "flair": "",
-    "domain": "nitter.fdn.fr",
-    "selftext": "",
-    "reddit_thumbnail": "",
-    "ingested_at": "2026-11-01T09:47:07.308996+00:00",
-    "summary": "",
-    "thumbnail": "",
-    "tags": [
-      "Anne-Sophie Simpere"
-    ],
-    "analyzed_at": "2026-11-01T09:58:12.181578+00:00"
-  },
-  {
     "id": "k8cgcy",
     "title": "Intégration. En France, des réfugiés qui suivent un stage où le pays d’accueil est dénigré",
     "url": "https://www.courrierinternational.com/article/integration-en-france-des-refugies-qui-suivent-un-stage-ou-le-pays-daccueil-est-denigre?utm_medium=Social&utm_source=Facebook&Echobox=1607327275&fbclid=IwAR3cHDpUzh5BVgY0VjMwWYwPCDWZbJS7s7YuzQLXX1AwEzJ9_xb6Y6LpxJM",
@@ -1463,7 +1036,9 @@
     "ingested_at": "2026-11-01T09:47:07.307713+00:00",
     "summary": "Dans le cadre d’une politique d’intégration des réfugiés, un journaliste syrien a assisté à quatre jours d’information sur la France et ses valeurs, dispensés p...",
     "thumbnail": "thumbnails/k8cgcy.webp",
-    "tags": [],
+    "tags": [
+      "Immigration"
+    ],
     "analyzed_at": "2026-11-01T09:58:09.147060+00:00"
   },
   {
@@ -1484,9 +1059,7 @@
     "summary": "Un nouveau rapport de l'ILC annonce que les inégalités d'accès aux terres agricoles serait presque deux fois plus importantes que les précédentes estimations.",
     "thumbnail": "thumbnails/k7z4ep.webp",
     "tags": [
-      "ILC",
-      "Terres agricoles",
-      "Économie"
+      "Agriculture"
     ],
     "analyzed_at": "2026-11-01T09:58:09.255117+00:00"
   },
@@ -1508,11 +1081,8 @@
     "summary": "Vendredi 4 décembre 2020, une femme a été condamnée pour défaut d'attestation par le tribunal de police de Vesoul, en Haute-Saône. Au premier confinement, elle avait été verbalisée pour une attestation mal datée. Or, cette dame est atteinte d’Alzheimer depuis cinq ans, sa fille est abasourdie.",
     "thumbnail": "thumbnails/k7sirb.webp",
     "tags": [
-      "Alzheimer",
-      "Coronavirus Covid-19",
-      "Vesoul",
-      "Haute-Saône",
-      "Covid-19"
+      "Covid-19",
+      "Justice"
     ],
     "analyzed_at": "2026-11-01T09:58:09.896642+00:00"
   },
@@ -1533,13 +1103,7 @@
     "ingested_at": "2026-11-01T09:47:07.308431+00:00",
     "summary": "FIGAROVOX/TRIBUNE - La Haute Cour de Londres a estimé le 1er décembre dernier qu’un enfant de 14 ans ne pouvait pas avoir le consentement éclairé pour demander de changer de sexe avec des conséquences médicales irréversibles, explique la juriste Olivia Sarton.",
     "thumbnail": "thumbnails/k79jf8.webp",
-    "tags": [
-      "PMA",
-      "Haute Cour de Londres",
-      "Olivia Sarton",
-      "Sasha",
-      "Keira Bell"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:58:10.163052+00:00"
   },
   {
@@ -1560,7 +1124,8 @@
     "summary": "Députés macronistes et syndicats de police reprochent à des journalistes filmant l'agression d'un policier par des manifestants de ne pas avoir secouru ce dernier. Selon eux, ces vidéastes et photographes se seraient rendus coupables de non-assistance à personne en danger.",
     "thumbnail": "thumbnails/k73jps.webp",
     "tags": [
-      "Marianne"
+      "Police",
+      "Médias"
     ],
     "analyzed_at": "2026-11-01T09:58:10.093387+00:00"
   },
@@ -1583,7 +1148,7 @@
     "thumbnail": "thumbnails/k6ssf8.webp",
     "tags": [
       "Emmanuel Macron",
-      "Écologie"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T09:58:09.344821+00:00"
   },
@@ -1605,11 +1170,7 @@
     "summary": "[VIDÉO] LOI POLÉMIQUE - Les critiques multiples au sujet de l'article 24 de la proposition de loi LaREM ont conduit Emmanuel Macron à demander au Parlement de réécrire cet article.",
     "thumbnail": "thumbnails/k6in3m.webp",
     "tags": [
-      "ONU",
-      "Emmanuel Macron",
-      "Parlement",
-      "LOI POLÉMIQUE",
-      "LaREM"
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T09:58:10.371470+00:00"
   },
@@ -1631,10 +1192,7 @@
     "summary": "Le jeune homme de 25 ans a été tué mercredi 2 soir près de son domicile à Calvignac, touché par la balle d'un chasseur.",
     "thumbnail": "thumbnails/k64vzi.webp",
     "tags": [
-      "Morgan",
-      "Calvignac",
-      "Lilliane",
-      "Cajarc"
+      "Cause animale"
     ],
     "analyzed_at": "2026-11-01T09:58:11.982692+00:00"
   },
@@ -1655,13 +1213,7 @@
     "ingested_at": "2026-11-01T09:47:07.309494+00:00",
     "summary": "L'association de défense des animaux utilisés dans la production alimentaire annonce porter plainte contre un élevage de l'Allier pour \"maltraitance\" et pour \"tromperie du consommateur\".",
     "thumbnail": "thumbnails/k5t83z.webp",
-    "tags": [
-      "L214",
-      "Herta",
-      "Allier",
-      "Belloy",
-      "Bien-être animal"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:58:09.818227+00:00"
   },
   {
@@ -1681,10 +1233,7 @@
     "ingested_at": "2026-11-01T09:47:07.307602+00:00",
     "summary": "Europe 1 a appris ce mercredi soir la mort du 20e président de la République française, Valéry Giscard d'Estaing",
     "thumbnail": "thumbnails/k5jd0w.webp",
-    "tags": [
-      "Valéry Giscard Estaing",
-      "République"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:58:10.353474+00:00"
   },
   {
@@ -1704,10 +1253,7 @@
     "ingested_at": "2026-11-01T09:47:07.308117+00:00",
     "summary": "",
     "thumbnail": "thumbnails/k57h5g.webp",
-    "tags": [
-      "Élise Lucet",
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:58:11.320654+00:00"
   },
   {
@@ -1728,11 +1274,7 @@
     "summary": "Des dossiers officiels chinois ont Ã©tÃ© transmis Ã CNN par un donneur d'alerte anonyme. L'enquÃªte s'appelle les \"Wuhan files\" et se concentre sur le dÃ©but de la crise en fÃ©vrier 2020. CNN rÃ©vÃ¨le ce que la Chine savait au dÃ©but de la pandÃ©mie, et n'a pas dit au public.",
     "thumbnail": "thumbnails/k55idf.webp",
     "tags": [
-      "CNN",
-      "Chine",
-      "Covid-19",
-      "Ã CNN",
-      "Hubei"
+      "Covid-19"
     ],
     "analyzed_at": "2026-11-01T09:58:12.613128+00:00"
   },
@@ -1754,9 +1296,7 @@
     "summary": "Après sept ans de processus parlementaire, le Conseil des Etats a rejoint le Conseil national pour ouvrir l’institution à tous les couples. Les milieux LGBT jubilent",
     "thumbnail": "thumbnails/k54n2j.webp",
     "tags": [
-      "Conseil",
-      "LGBT",
-      "Conseil des Etats"
+      "LGBT+"
     ],
     "analyzed_at": "2026-11-01T09:58:10.822785+00:00"
   },
@@ -1778,36 +1318,9 @@
     "summary": "",
     "thumbnail": "thumbnails/k4w1jy.webp",
     "tags": [
-      "French",
-      "Société"
+      "Laïcité"
     ],
     "analyzed_at": "2026-11-01T09:58:11.740168+00:00"
-  },
-  {
-    "id": "k4u8kq",
-    "title": "«Lockdown partouze» dans le centre de Bruxelles: l’eurodéputé en cause est le Hongrois Jozsef Szajer, un poids lourd ouvertement homophobe du parti de Viktor Orban",
-    "url": "https://www.lavenir.net/cnt/dmf20201201_01533666/un-eurodepute-hongrois-reconnait-avoir-participe-a-la-lockdown-partouze-des-diplomates",
-    "permalink": "/r/france/comments/k4u8kq/lockdown_partouze_dans_le_centre_de_bruxelles/",
-    "created_at": "2020-12-01T21:11:44+00:00",
-    "score": 344,
-    "num_comments": 118,
-    "subreddit": "france",
-    "author": "asimovwasright",
-    "flair": "",
-    "domain": "lavenir.net",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/lpeHckDFjwoPM_fSydGhh0sdN0c-eHbADPQDEvMXsd4.jpeg?auto=webp&s=a585ebba8ef35b6891a99a6d4c6e60216d021bb2",
-    "ingested_at": "2026-11-01T09:47:07.308202+00:00",
-    "summary": "L'eurodéputé verbalisé lors de la lockdown party à laquelle la zone de Bruxelles-Ixelles a mis fin ce 27 novembre est Jozsef Szajer. L'homme de 59 ans...",
-    "thumbnail": "thumbnails/k4u8kq.webp",
-    "tags": [
-      "Bruxelles",
-      "Jozsef Szajer",
-      "Hongrois Jozsef Szajer",
-      "Viktor Orban",
-      "Bruxelles-Ixelles"
-    ],
-    "analyzed_at": "2026-11-01T09:58:11.696353+00:00"
   },
   {
     "id": "k4opcv",
@@ -1827,35 +1340,9 @@
     "summary": "",
     "thumbnail": "thumbnails/k4opcv.webp",
     "tags": [
-      "Europe"
+      "Médias"
     ],
     "analyzed_at": "2026-11-01T09:58:11.176501+00:00"
-  },
-  {
-    "id": "k4lf9m",
-    "title": "Pascal Praud licencié du groupe Canal après une émission parodiant le journalisme",
-    "url": "http://www.legorafi.fr/2020/11/30/pascal-praud-licencie-du-groupe-canal-apres-une-emission-parodiant-le-journalisme/",
-    "permalink": "/r/france/comments/k4lf9m/pascal_praud_licencié_du_groupe_canal_après_une/",
-    "created_at": "2020-12-01T14:04:13+00:00",
-    "score": 372,
-    "num_comments": 62,
-    "subreddit": "france",
-    "author": "[deleted]",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/i9-RNZo3FQ9H2pQFHtatmMVdwcoIa1wAUOgJEHSzZPU.jpeg?auto=webp&s=75ee602e9133aef523d1b6a73a4e53017417c64a",
-    "ingested_at": "2026-11-01T09:47:07.307996+00:00",
-    "summary": "Après Sébastien Thoen, c’est au tour de Pascal Praud d’être viré du groupe Canal + à la suite d’une émission dans laquelle il a parodié le journalisme.",
-    "thumbnail": "thumbnails/k4lf9m.webp",
-    "tags": [
-      "Pascal Praud",
-      "Canal",
-      "Sébastien Thoen",
-      "Gorafi",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:58:11.401578+00:00"
   },
   {
     "id": "k4knkr",
@@ -1874,9 +1361,7 @@
     "ingested_at": "2026-11-01T09:47:07.308669+00:00",
     "summary": "L’article 24 de la proposition de loi Sécurité globale focalise les critiques. Manifestations, charges politiques, dénonciation des syndicats et des…",
     "thumbnail": "thumbnails/k4knkr.webp",
-    "tags": [
-      "Assemblée"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:58:12.230719+00:00"
   }
 ]

@@ -18,10 +18,8 @@
     "thumbnail": "thumbnails/1b3bzxc.webp",
     "tags": [
       "Marion Maréchal",
-      "Salon de Agriculture",
       "Éric Zemmour",
-      "Reconquête",
-      "Politique"
+      "Agriculture"
     ],
     "analyzed_at": "2026-11-01T11:00:09.578050+00:00"
   },
@@ -43,32 +41,10 @@
     "summary": "",
     "thumbnail": "thumbnails/1b337me.webp",
     "tags": [
-      "Gaza"
+      "Conflit israélo-palestinien",
+      "Numérique"
     ],
     "analyzed_at": "2026-11-01T11:00:10.173678+00:00"
-  },
-  {
-    "id": "1b31ht7",
-    "title": "La chouette de Duolingo condamnée à 2 ans de prison ferme pour harcèlement",
-    "url": "https://www.legorafi.fr/2024/02/29/la-chouette-de-duolingo-condamnee-a-2-ans-de-prison-ferme-pour-harcelement/",
-    "permalink": "/r/france/comments/1b31ht7/la_chouette_de_duolingo_condamnée_à_2_ans_de/",
-    "created_at": "2024-02-29T14:23:43+00:00",
-    "score": 658,
-    "num_comments": 69,
-    "subreddit": "france",
-    "author": "Canard-jaune",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/Kx91TlTEXI1IwZG47TdfGQvUm1Rh5N7WHEAnnDOD2Hk.jpeg?auto=webp&s=3afef7e6bfc6d6344a3d2f21481dba343a1efb00",
-    "ingested_at": "2026-11-01T10:50:39.648851+00:00",
-    "summary": "Après près de 5 ans de traque, la chouette de Duolingo vient enfin d’être condamnée à une lourde peine pour avoir harcelé quotidiennement plusieurs millions de personnes. Récit.",
-    "thumbnail": "thumbnails/1b31ht7.webp",
-    "tags": [
-      "Duolingo",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T11:00:09.671628+00:00"
   },
   {
     "id": "1b2giwo",
@@ -88,11 +64,9 @@
     "summary": "Emmanuel Macron a salué \"un pas décisif dont je me félicite\" après le vote des sénateurs, qui ouvre la voie à une révision de la Constitution.",
     "thumbnail": "thumbnails/1b2giwo.webp",
     "tags": [
-      "Sénat",
-      "IVG",
-      "Constitution",
-      "Parlement",
-      "Politique"
+      "Institutions",
+      "Droits des femmes",
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T11:00:09.850522+00:00"
   },
@@ -113,7 +87,9 @@
     "ingested_at": "2026-11-01T10:50:39.650673+00:00",
     "summary": "Alors que le premier ministre promet de nouvelles attaques contre les droits des chômeurs, une évaluation de la première réforme de l’assurance-chômage vient d’être publiée. Les jeunes et les plus pr…",
     "thumbnail": "thumbnails/1b2gd9o.webp",
-    "tags": [],
+    "tags": [
+      "Protection sociale"
+    ],
     "analyzed_at": "2026-11-01T11:00:10.643246+00:00"
   },
   {
@@ -133,10 +109,7 @@
     "ingested_at": "2026-11-01T10:50:39.650313+00:00",
     "summary": "L’application gouvernementale, qui permet d’héberger numériquement le permis de conduire des Français depuis quelques jours, a lancé un vaste «bug bounty».",
     "thumbnail": "thumbnails/1b2ci7z.webp",
-    "tags": [
-      "France Identité",
-      "Français"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:00:11.534130+00:00"
   },
   {
@@ -157,11 +130,8 @@
     "summary": "Il avait été condamné à huit mois de prison avec sursis en première instance.",
     "thumbnail": "thumbnails/1b2c7uf.webp",
     "tags": [
-      "Trappes",
-      "Laurent Nuñez",
-      "Faits-divers",
-      "Violences faites aux femmes",
-      "Société"
+      "Police",
+      "Laurent Nuñez"
     ],
     "analyzed_at": "2026-11-01T11:00:10.190417+00:00"
   },
@@ -182,13 +152,7 @@
     "ingested_at": "2026-11-01T10:50:39.650548+00:00",
     "summary": "INFO BFMTV. Un ordinateur et des clefs USB contenant les plans de sécurisation des Jeux olympiques pour la mairie de Paris ont été volés dans un train à la gare du Nord. Une enquête a été ouverte.",
     "thumbnail": "thumbnails/1b1lxym.webp",
-    "tags": [
-      "USB",
-      "BFMTV",
-      "JO de Paris",
-      "Paris",
-      "Fait Divers"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:00:10.253606+00:00"
   },
   {
@@ -210,9 +174,8 @@
     "thumbnail": "thumbnails/1b1e06o.webp",
     "tags": [
       "Gabriel Attal",
-      "Marine le Pen",
-      "Vladimir Poutine",
-      "Politique"
+      "Marine Le Pen",
+      "Vladimir Poutine"
     ],
     "analyzed_at": "2026-11-01T11:00:10.557104+00:00"
   },
@@ -233,12 +196,7 @@
     "ingested_at": "2026-11-01T10:50:39.649002+00:00",
     "summary": "La mesure était une revendication des éleveurs, qui estiment que des termes comme \"jambon végétal\", \"saucisse vegan\" ou \"bacon végétarien\" peuvent créer la confusion chez les consommateurs.",
     "thumbnail": "thumbnails/1b1ccxr.webp",
-    "tags": [
-      "Cuisine et Gastronomie",
-      "Alimentation",
-      "Crise climatique",
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:00:10.653368+00:00"
   },
   {
@@ -259,10 +217,7 @@
     "summary": "Interrogée mardi sur les transports en commun franciliens, la présidente de la région Île-de-France a annoncé plusieurs innovations, notamme",
     "thumbnail": "thumbnails/1b19bjs.webp",
     "tags": [
-      "Île-de-France",
-      "Valérie Pécresse",
-      "Tokyo",
-      "JO"
+      "Valérie Pécresse"
     ],
     "analyzed_at": "2026-11-01T11:00:10.647729+00:00"
   },
@@ -284,11 +239,7 @@
     "summary": "Des policiers et gendarmes ont répondu de manière volontaire à un questionnaire de la Défenseure des droits concernant leur pratique en matière de maintien de l'ordre et de secours à la personne.",
     "thumbnail": "thumbnails/1b167aa.webp",
     "tags": [
-      "Défenseure",
-      "Paris",
-      "Faits-divers",
-      "Justice",
-      "Société"
+      "Police"
     ],
     "analyzed_at": "2026-11-01T11:00:12.019897+00:00"
   },
@@ -309,13 +260,7 @@
     "ingested_at": "2026-11-01T10:50:39.649787+00:00",
     "summary": "Avast a été condamné par la FTC américaine à une amende de 16,5 millions de dollars pour avoir vendu les données de navigation des utilisateurs de son logiciel antivirus sans leur consentement. Une amende assortie d'autres sanctions.",
     "thumbnail": "thumbnails/1b15ziv.webp",
-    "tags": [
-      "FTC",
-      "Avast",
-      "Donnees-personnelles",
-      "Protection-des-donnees",
-      "Économie"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:00:10.690731+00:00"
   },
   {
@@ -336,7 +281,7 @@
     "summary": "",
     "thumbnail": "thumbnails/1b0pvo6.webp",
     "tags": [
-      "CNews"
+      "Médias"
     ],
     "analyzed_at": "2026-11-01T11:00:13.469682+00:00"
   },
@@ -358,9 +303,8 @@
     "summary": "L’homme, un membre actif de l’armée de l’air, avait été transporté à l’hôpital dans un état grave. Il a filmé et diffusé son geste en direct",
     "thumbnail": "thumbnails/1b0dxem.webp",
     "tags": [
-      "Israël",
-      "Twitch",
-      "Politique"
+      "Conflit israélo-palestinien",
+      "Défense"
     ],
     "analyzed_at": "2026-11-01T11:00:11.098008+00:00"
   },
@@ -382,11 +326,7 @@
     "summary": "Israël a menacé dimanche de se retirer du concours Eurovision de cette année si les organisateurs refusaient les paroles de sa chanson en les considérant comme trop politique.",
     "thumbnail": "thumbnails/1azsbbo.webp",
     "tags": [
-      "Eurovision",
-      "Israël",
-      "Culture",
-      "Musique",
-      "UER"
+      "Conflit israélo-palestinien"
     ],
     "analyzed_at": "2026-11-01T11:00:11.340492+00:00"
   },
@@ -407,9 +347,7 @@
     "ingested_at": "2026-11-01T10:50:39.649934+00:00",
     "summary": "",
     "thumbnail": "thumbnails/1aznj13.webp",
-    "tags": [
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:00:11.137013+00:00"
   },
   {
@@ -430,7 +368,7 @@
     "summary": "Les organisateurs risquent jusqu’à six mois d’emprisonnement.",
     "thumbnail": "thumbnails/1azm4rr.webp",
     "tags": [
-      "Isère"
+      "Extrême droite"
     ],
     "analyzed_at": "2026-11-01T11:00:11.235655+00:00"
   },
@@ -452,10 +390,7 @@
     "summary": "La Cour européenne des droits de l'homme (CEDH) a déclaré que l'introduction de portes dérobées dans les applications de messagerie chiffrées pour déchiffrer les communications privées viole les droits de l'homme.",
     "thumbnail": "thumbnails/1ayt2fm.webp",
     "tags": [
-      "Cour",
-      "CEDH",
-      "Commission",
-      "Société"
+      "Police"
     ],
     "analyzed_at": "2026-11-01T11:00:12.052354+00:00"
   },
@@ -477,11 +412,7 @@
     "summary": "Affichée en Une du quotidien régional « La Marseillaise », cette citation attri...",
     "thumbnail": "thumbnails/1ayrmtd.webp",
     "tags": [
-      "Emmanuel Macron",
-      "Macron",
-      "Modef",
-      "Marseillaise",
-      "Politique"
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T11:00:12.421788+00:00"
   },
@@ -504,33 +435,9 @@
     "thumbnail": "thumbnails/1ay6itf.webp",
     "tags": [
       "Emmanuel Macron",
-      "Politique"
+      "Agriculture"
     ],
     "analyzed_at": "2026-11-01T11:00:12.958471+00:00"
-  },
-  {
-    "id": "1ay3vtc",
-    "title": "Près de 700 millions supprimés à l'Education nationale - Mis à jour",
-    "url": "https://www.cafepedagogique.net/2024/02/22/pres-de-11-000-emplois-supprimes-a-leducation-nationale/",
-    "permalink": "/r/france/comments/1ay3vtc/près_de_700_millions_supprimés_à_leducation/",
-    "created_at": "2024-02-23T15:54:22+00:00",
-    "score": 489,
-    "num_comments": 150,
-    "subreddit": "france",
-    "author": "Alarming-Estimate-19",
-    "flair": "Politique",
-    "domain": "cafepedagogique.net",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/Axgr_DPM-plgsknR_rNVfoVGScPhwUPUxpkmxuaTncg.jpeg?auto=webp&s=dbc4dad481cd57d5654f03c7d8bf87b970208dcf",
-    "ingested_at": "2026-11-01T10:50:39.649053+00:00",
-    "summary": "Mis à jour le 23 février - Le décret annulant 10 milliards de dépenses est paru le 22 février au Journal officiel. L'Education nationale rend 692 millions,",
-    "thumbnail": "thumbnails/1ay3vtc.webp",
-    "tags": [
-      "Education",
-      "Journal",
-      "Politique"
-    ],
-    "analyzed_at": "2026-11-01T11:00:11.959257+00:00"
   },
   {
     "id": "1ay2yc3",
@@ -549,10 +456,7 @@
     "ingested_at": "2026-11-01T10:50:39.649376+00:00",
     "summary": "La légalisation du cannabis récréatif avait été en Allemagne en août 2023 en conseil des ministres, mais faisait toujours l'objet de dissensions au sein du gouvernement.",
     "thumbnail": "thumbnails/1ay2yc3.webp",
-    "tags": [
-      "Allemagne",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:00:11.993283+00:00"
   },
   {
@@ -572,7 +476,9 @@
     "ingested_at": "2026-11-01T10:50:39.650028+00:00",
     "summary": "",
     "thumbnail": "thumbnails/1axx7ld.webp",
-    "tags": [],
+    "tags": [
+      "Budget et fiscalité"
+    ],
     "analyzed_at": "2026-11-01T11:00:12.105506+00:00"
   },
   {
@@ -593,11 +499,7 @@
     "summary": "Le ministre de l’Intérieur Gérald Darmanin l’a annoncé sur X. L’imam avait qualifié le «drapeau tricolore» de «satanique» dans un prêche diffusé sur les réseaux sociaux.",
     "thumbnail": "thumbnails/1axksrl.webp",
     "tags": [
-      "Gard Mahjoub Mahjoubi",
-      "Tunisie",
-      "Imam",
-      "Intérieur Gérald Darmanin",
-      "Société"
+      "Gérald Darmanin"
     ],
     "analyzed_at": "2026-11-01T11:00:13.235287+00:00"
   },
@@ -618,13 +520,7 @@
     "ingested_at": "2026-11-01T10:50:39.650288+00:00",
     "summary": "Experts report evidence of rape, sexual humiliation and threats of rape against girls and women",
     "thumbnail": "thumbnails/1axisoa.webp",
-    "tags": [
-      "Israeli",
-      "Palestinian",
-      "Israel",
-      "Gaza",
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:00:12.215180+00:00"
   },
   {
@@ -644,63 +540,8 @@
     "ingested_at": "2026-11-01T10:50:39.650100+00:00",
     "summary": "",
     "thumbnail": "thumbnails/1axh6vo.webp",
-    "tags": [
-      "Angleterre",
-      "Économie"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:00:15.230442+00:00"
-  },
-  {
-    "id": "1axcxn4",
-    "title": "Éric Zemmour condamné à son deuxième procès en appel pour sa diatribe anti-islam et anti-immigration",
-    "url": "https://fr.news.yahoo.com/%C3%A9ric-zemmour-condamn%C3%A9-%C3%A0-deuxi%C3%A8me-151321111.html",
-    "permalink": "/r/france/comments/1axcxn4/éric_zemmour_condamné_à_son_deuxième_procès_en/",
-    "created_at": "2024-02-22T17:59:23+00:00",
-    "score": 369,
-    "num_comments": 67,
-    "subreddit": "france",
-    "author": "Weekend-Allowed",
-    "flair": "Politique",
-    "domain": "fr.news.yahoo.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/iCbPNGVaJTsV9g4x0DteVbecgFBOFr8pwOjhSbW5etM.jpeg?auto=webp&s=5c25bd73315981a2d7866b7a0b1baa1e32d7db2c",
-    "ingested_at": "2026-11-01T10:50:39.649591+00:00",
-    "summary": "Lors de la « Convention de la droite » organisée par des proches de Marion Maréchal en 2019, le président de Reconquête ! avait fustigé des immigrés « colonisateurs ».",
-    "thumbnail": "thumbnails/1axcxn4.webp",
-    "tags": [
-      "Éric Zemmour",
-      "Marion Maréchal",
-      "Reconquête",
-      "Paris",
-      "Politique"
-    ],
-    "analyzed_at": "2026-11-01T11:00:14.010676+00:00"
-  },
-  {
-    "id": "1ax25rt",
-    "title": "Sad that I didnt have time to love with all my heart: Farewell note of a 22-year-old Frenchman who died in Ukraine shocks the network",
-    "url": "https://www.dniprotoday.com/en/news/sad-that-i-didnt-have-time-to-love-with-all-my-heart-farewell-note-of-a-22-year-old-frenchman-who-died-in-ukraine-shocks-the-network-1311",
-    "permalink": "/r/france/comments/1ax25rt/sad_that_i_didnt_have_time_to_love_with_all_my/",
-    "created_at": "2024-02-22T09:14:24+00:00",
-    "score": 617,
-    "num_comments": 210,
-    "subreddit": "france",
-    "author": "Chacodile",
-    "flair": "Politique",
-    "domain": "dniprotoday.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/k_5YzFVD_DUZyu65iAbsmALonxwIRO8JbIX_o23ogRE.jpeg?auto=webp&s=c776180d5f27ca31b6c37922810774e588d54a4b",
-    "ingested_at": "2026-11-01T10:50:39.648927+00:00",
-    "summary": "Andreas Gallotzi, a 22-year-old Frenchman who joined the International Legion to defend Ukraine during the Russian invasion, left behind a poignant farewell note before his tragic death in battle.",
-    "thumbnail": "thumbnails/1ax25rt.webp",
-    "tags": [
-      "Ukraine",
-      "Frenchman",
-      "Andreas Gallotzi",
-      "International Legion",
-      "Politique"
-    ],
-    "analyzed_at": "2026-11-01T11:00:13.034356+00:00"
   },
   {
     "id": "1awct2f",
@@ -720,7 +561,7 @@
     "summary": "",
     "thumbnail": "thumbnails/1awct2f.webp",
     "tags": [
-      "Gaza"
+      "Conflit israélo-palestinien"
     ],
     "analyzed_at": "2026-11-01T11:00:12.729433+00:00"
   },
@@ -742,8 +583,7 @@
     "summary": "Alors que Gabriel Attal a promis que les agents d’entretien de l’administration pourraient travailler « aux mêmes horaires que tout le monde",
     "thumbnail": "thumbnails/1awa9yj.webp",
     "tags": [
-      "Gabriel Attal",
-      "Économie"
+      "Gabriel Attal"
     ],
     "analyzed_at": "2026-11-01T11:00:12.793586+00:00"
   },
@@ -765,8 +605,9 @@
     "summary": "",
     "thumbnail": "thumbnails/1avj4vh.webp",
     "tags": [
+      "Jean-Luc Mélenchon",
       "François Ruffin",
-      "Mélenchon"
+      "Élection présidentielle"
     ],
     "analyzed_at": "2026-11-01T11:00:13.170909+00:00"
   },
@@ -788,10 +629,7 @@
     "summary": "Pour la ministre déléguée chargée des Relations avec le Parlement Marie Lebec, la « réflexion » autour du droit de grève dans les transports",
     "thumbnail": "thumbnails/1avfbdb.webp",
     "tags": [
-      "Relations",
-      "Parlement Marie Lebec",
-      "Sud-Rail",
-      "Économie"
+      "Grèves et syndicats"
     ],
     "analyzed_at": "2026-11-01T11:00:13.155446+00:00"
   },
@@ -813,8 +651,7 @@
     "summary": "Le conseil départemental de Haute-Marne annonce un plan massif d’abattage d’arbres le long de ses axes routiers les plus fréquentés. Un diagnostic est en cours pour identifier les plus dangereux, au nom de la sécurité routière.",
     "thumbnail": "thumbnails/1aumgkf.webp",
     "tags": [
-      "Haute-Marne",
-      "Écologie"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T11:00:13.588863+00:00"
   },
@@ -836,11 +673,8 @@
     "summary": "L'expérimentation a du mal à se mettre en place : certains établissements, un temps candidats, ont fait marche arrière.",
     "thumbnail": "thumbnails/1aujp7d.webp",
     "tags": [
-      "FCPE",
-      "Emmanuel Macron",
       "Éducation",
-      "Grégoire Ensel",
-      "Politique"
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T11:00:13.627312+00:00"
   },
@@ -862,9 +696,7 @@
     "summary": "Invitée sur RTL ce dimanche, la ministre du Travail a assuré que le gouvernement n'avait pas l'intention de réformer ou supprimer le dispositif de rupture conventionnelle.",
     "thumbnail": "thumbnails/1au58uf.webp",
     "tags": [
-      "Catherine Vautrin",
-      "RTL",
-      "Politique"
+      "Catherine Vautrin"
     ],
     "analyzed_at": "2026-11-01T11:00:13.645958+00:00"
   },
@@ -886,11 +718,8 @@
     "summary": "Le parti d’extrême droite est épinglé par ses détracteurs pour avoir refusé de soutenir une résolution dénonçant les conditions d’incarcération « inhumaine » de l’opposant russe, un an avant sa mort.",
     "thumbnail": "thumbnails/1au2fn5.webp",
     "tags": [
-      "Parlement",
-      "Navalny",
-      "Alexeï Navalny",
-      "Pen",
-      "Politique"
+      "Marine Le Pen",
+      "Union européenne"
     ],
     "analyzed_at": "2026-11-01T11:00:13.737816+00:00"
   },
@@ -912,11 +741,7 @@
     "summary": "Regrettant des critères juridiques trop flous, la France a refusé de soutenir un texte visant à requalifier comme salariés de nombreuses personnes, livreurs de repas ou chauffeurs de VTC indépendants.",
     "thumbnail": "thumbnails/1at31li.webp",
     "tags": [
-      "Livreurs Uber et Deliveroo",
-      "Uber",
-      "VTC",
-      "Deliveroo",
-      "Politique"
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T11:00:13.736233+00:00"
   },
@@ -938,7 +763,7 @@
     "summary": "",
     "thumbnail": "thumbnails/1asxq1u.webp",
     "tags": [
-      "Chape"
+      "Éducation"
     ],
     "analyzed_at": "2026-11-01T11:00:13.976852+00:00"
   },
@@ -960,37 +785,10 @@
     "summary": "\"Le droit de grève, c'est la démocratie sociale\", a jugé la cheffe de file des députés LFI.",
     "thumbnail": "thumbnails/1ascpja.webp",
     "tags": [
-      "Jeux",
-      "Mathilde Panot",
-      "LFI",
-      "Grève et manifestations",
-      "Politique"
+      "Grèves et syndicats",
+      "Mathilde Panot"
     ],
     "analyzed_at": "2026-11-01T11:00:14.183714+00:00"
-  },
-  {
-    "id": "1as9tbw",
-    "title": "Russie : Alexeï Navalny condamné à 20 ans d’emprisonnement supplémentaire pour s’être évadé en décédant",
-    "url": "https://www.legorafi.fr/2024/02/16/russie-alexei-navalny-condamne-a-20-ans-demprisonnement-supplementaire-pour-setre-evade-en-decedant/",
-    "permalink": "/r/france/comments/1as9tbw/russie_alexeï_navalny_condamné_à_20_ans/",
-    "created_at": "2024-02-16T14:25:12+00:00",
-    "score": 407,
-    "num_comments": 44,
-    "subreddit": "france",
-    "author": "sitarane",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/sGp3Pe8cOFHy184kFpNpjUSnCTt3K0q_i-VNbE_KXps.png?auto=webp&s=fe997e15e96cfc5f417fc792d895246334952e67",
-    "ingested_at": "2026-11-01T10:50:39.649496+00:00",
-    "summary": "Le célèbre opposant à Vladimir Poutine a été condamné par une cour spéciale de justice russe, estimant que l'opposant avait volontairement profité de sa mort pour s'évader.",
-    "thumbnail": "thumbnails/1as9tbw.webp",
-    "tags": [
-      "Alexeï Navalny",
-      "Vladimir Poutine",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T11:00:14.009035+00:00"
   },
   {
     "id": "1as6fhi",
@@ -1009,10 +807,7 @@
     "ingested_at": "2026-11-01T10:50:39.648770+00:00",
     "summary": "",
     "thumbnail": "thumbnails/1as6fhi.webp",
-    "tags": [
-      "Alexeï Navalny",
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:00:30.071842+00:00"
   },
   {
@@ -1034,7 +829,7 @@
     "thumbnail": "thumbnails/1arp84e.webp",
     "tags": [
       "Alexandre Benalla",
-      "Politique"
+      "Police"
     ],
     "analyzed_at": "2026-11-01T11:00:17.070954+00:00"
   },
@@ -1056,8 +851,7 @@
     "summary": "",
     "thumbnail": "thumbnails/1aropfx.webp",
     "tags": [
-      "Français",
-      "OFCE"
+      "Économie"
     ],
     "analyzed_at": "2026-11-01T11:00:14.139418+00:00"
   },
@@ -1079,7 +873,7 @@
     "summary": "Un policier américain, croyant avoir entendu un coup de feu provenant d'un suspect qu'il venait pourtant de menotter, a été pris de panique et a vidé son chargeur sur la voiture où l'homme avait été placé. Le bruit...",
     "thumbnail": "thumbnails/1arbw52.webp",
     "tags": [
-      "Fait Divers"
+      "Police"
     ],
     "analyzed_at": "2026-11-01T11:00:14.409861+00:00"
   },
@@ -1101,10 +895,7 @@
     "summary": "L’État devra indemniser Patrice Dupas. En plein Covid et malgré le feu vert des gendarmes du Loir-et-Cher où il habite, ce vigneron avait ét",
     "thumbnail": "thumbnails/1aqsd25.webp",
     "tags": [
-      "État",
-      "Patrice Dupas",
-      "Loir-et-Cher",
-      "Covid"
+      "Covid-19"
     ],
     "analyzed_at": "2026-11-01T11:00:14.513786+00:00"
   },
@@ -1126,10 +917,9 @@
     "summary": "Le premier ministre a déploré également «une forme d'habitude, à chaque vacances qui arrivent, d'avoir l'annonce d'un mouvement de grève» à la SNCF.",
     "thumbnail": "thumbnails/1aqkhc2.webp",
     "tags": [
-      "SNCF",
+      "Transports",
       "Gabriel Attal",
-      "Français",
-      "Politique"
+      "Grèves et syndicats"
     ],
     "analyzed_at": "2026-11-01T11:00:15.314221+00:00"
   },
@@ -1151,10 +941,8 @@
     "summary": "VIDÉO - L’animateur n’a pu cacher sa stupéfaction, ce mardi 13 février, face à un auditeur qu’il recevait dans son émission «Pascal Praud et vous» sur Europe 1 dans le cadre du préavis de grève déposé par la société ferroviaire.",
     "thumbnail": "thumbnails/1aqibwr.webp",
     "tags": [
-      "Pascal Praud",
-      "SNCF",
-      "Europe 1",
-      "Politique"
+      "Transports",
+      "Grèves et syndicats"
     ],
     "analyzed_at": "2026-11-01T11:00:15.478872+00:00"
   },
@@ -1176,10 +964,7 @@
     "summary": "La majorité des Français (74%) trouve injustifié de faire souffrir des animaux au nom de certaines traditions locales, d'après un baromètre mené par l’Ifop et la Fondation 30 Millions d’Amis.",
     "thumbnail": "thumbnails/1aq06yt.webp",
     "tags": [
-      "Français",
-      "Millions Amis",
-      "Ifop et la Fondation 30",
-      "Société"
+      "Cause animale"
     ],
     "analyzed_at": "2026-11-01T11:00:14.498541+00:00"
   },
@@ -1200,11 +985,7 @@
     "ingested_at": "2026-11-01T10:50:39.650388+00:00",
     "summary": "L'ancienne chaîne de production de yaourts de Villecomtal-sur-Arros (Gers) a subi deux ans de travaux pour se convertir à la fabrication de lait d'avoine. Une transformation qui permet de maintenir l'emploi dans le secteur,...",
     "thumbnail": "thumbnails/1apuuwl.webp",
-    "tags": [
-      "Villecomtal-sur-Arros",
-      "Danone",
-      "Économie"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:00:14.860214+00:00"
   },
   {
@@ -1245,11 +1026,8 @@
     "summary": "Le journal l’Humanité révèle ce lundi que 50 % des ministres du gouvernement Attal sont millionnaires. Parmi les plus fortunés, on retrouve Franck Riester ou encore Amélie Oudéa-Castéra.",
     "thumbnail": "thumbnails/1ap5d64.webp",
     "tags": [
-      "Humanité",
-      "Attal",
-      "Franck Riester",
-      "Amélie Oudéa-Castéra",
-      "Politique"
+      "Gabriel Attal",
+      "Amélie Oudéa-Castéra"
     ],
     "analyzed_at": "2026-11-01T11:00:15.037997+00:00"
   },
@@ -1271,11 +1049,11 @@
     "summary": "Jordan Bardella, Éric Ciotti, Éric Zemmour... Tous appellent Gérald Darmanin à aller plus loin après l'annonce de la suppression du droit du sol à Mayotte.",
     "thumbnail": "thumbnails/1ap28gt.webp",
     "tags": [
-      "Mayotte",
       "Jordan Bardella",
-      "Éric Ciotti",
       "Éric Zemmour",
-      "Politique"
+      "Éric Ciotti",
+      "Extrême droite",
+      "Outre-mer"
     ],
     "analyzed_at": "2026-11-01T11:00:15.741854+00:00"
   },
@@ -1297,11 +1075,7 @@
     "summary": "Des propriétaires peu scrupuleux tentent de récupérer leurs logements à Paris, à quelques mois du début des Jeux olympiques d'été.",
     "thumbnail": "thumbnails/1aoxdg1.webp",
     "tags": [
-      "Jeux",
-      "Paris",
-      "Airbnb",
-      "JO",
-      "Économie"
+      "Logement"
     ],
     "analyzed_at": "2026-11-01T11:00:15.797265+00:00"
   },
@@ -1323,11 +1097,8 @@
     "summary": "En France et dans l’UE, des inégalités de salaires énormes entre agriculteurs tandis que l’agroalimentaire engrange les superprofits.",
     "thumbnail": "thumbnails/1aox84z.webp",
     "tags": [
-      "PAC",
-      "UE",
-      "Confédération",
-      "FNSEA",
-      "Politique"
+      "Agriculture",
+      "Union européenne"
     ],
     "analyzed_at": "2026-11-01T11:00:15.504606+00:00"
   },
@@ -1348,10 +1119,7 @@
     "ingested_at": "2026-11-01T10:50:39.650001+00:00",
     "summary": "Au-dessus de 5000 mètres d'altitude, ces déchets ne se désagrègent pas complètement à cause des températures extrêmes.",
     "thumbnail": "thumbnails/1aod4nl.webp",
-    "tags": [
-      "Everest",
-      "Mont Everest"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:00:19.728383+00:00"
   },
   {
@@ -1372,10 +1140,7 @@
     "summary": "La fillette palestinienne a vu ses proches périr sous ses yeux, puis s’est retrouvée seule face aux tirs, avant de ne plus donner signe de v",
     "thumbnail": "thumbnails/1aobcm9.webp",
     "tags": [
-      "Gaza",
-      "Hind Rajab",
-      "PRCS",
-      "Croissant-Rouge"
+      "Conflit israélo-palestinien"
     ],
     "analyzed_at": "2026-11-01T11:00:15.661704+00:00"
   },
@@ -1397,9 +1162,9 @@
     "summary": "",
     "thumbnail": "thumbnails/1ao49cp.webp",
     "tags": [
+      "Emmanuel Macron",
       "Gérald Darmanin",
-      "Macron",
-      "Mayotte"
+      "Outre-mer"
     ],
     "analyzed_at": "2026-11-01T11:00:15.869285+00:00"
   },
@@ -1421,37 +1186,9 @@
     "summary": "Le candidat républicain à la présidence des États-Unis souhaite que les membres de l’alliance militaire dépensent plus d’argent pour le fonc",
     "thumbnail": "thumbnails/1ao394x.webp",
     "tags": [
-      "Otan",
-      "Russie",
-      "Donald Trump",
-      "États-Unis",
-      "Ukraine"
+      "Donald Trump"
     ],
     "analyzed_at": "2026-11-01T11:00:16.747000+00:00"
-  },
-  {
-    "id": "1ane34d",
-    "title": "Quel est le salaire moyen en France en 2024 ? Voici ce que gagnent réellement les Français",
-    "url": "https://www.hellowork.com/fr-fr/medias/salaire-moyen-france-secteurs-regions-metiers.html",
-    "permalink": "/r/france/comments/1ane34d/quel_est_le_salaire_moyen_en_france_en_2024_voici/",
-    "created_at": "2024-02-10T11:14:41+00:00",
-    "score": 170,
-    "num_comments": 497,
-    "subreddit": "france",
-    "author": "chou-coco",
-    "flair": "Économie",
-    "domain": "hellowork.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/R2Q9a-TxO2lIBJ-Q8ISCWVIR7_8r6VuU_wcoW6GYWvM.jpeg?auto=webp&s=2c224a3b6d3b451d19ea24cacabb865751914098",
-    "ingested_at": "2026-11-01T10:50:39.650835+00:00",
-    "summary": "Notre analyse complète par départements, secteurs ou encore catégorie socio-professionnelle pour mieux comprendre les tendances actuelles des salaires en France et parvenir à mieux situer votre revenu selon votre emploi. Qu’est-ce qu’un bon salaire en France actuellement ?",
-    "thumbnail": "thumbnails/1ane34d.webp",
-    "tags": [
-      "Insee",
-      "EQTP",
-      "Économie"
-    ],
-    "analyzed_at": "2026-11-01T11:00:16.151417+00:00"
   },
   {
     "id": "1an9e3r",
@@ -1470,13 +1207,7 @@
     "ingested_at": "2026-11-01T10:50:39.650786+00:00",
     "summary": "DÉCRYPTAGE - À Nîmes, le CHU vient de lancer une expérimentation pionnière sur l’effet cette substance psychédélique, auprès de patients atteints de troubles de l’usage de l’alcool.",
     "thumbnail": "thumbnails/1an9e3r.webp",
-    "tags": [
-      "Hallucinations",
-      "Acide : LSD25",
-      "Psychiatrie",
-      "Nîmes",
-      "Science"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:00:16.751003+00:00"
   },
   {
@@ -1496,9 +1227,7 @@
     "ingested_at": "2026-11-01T10:50:39.649127+00:00",
     "summary": "",
     "thumbnail": "thumbnails/1amla19.webp",
-    "tags": [
-      "Robert Badinter"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:00:16.123859+00:00"
   },
   {
@@ -1519,9 +1248,8 @@
     "summary": "",
     "thumbnail": "thumbnails/1amiuc0.webp",
     "tags": [
-      "Cour",
-      "Lyon",
-      "Politique"
+      "Justice",
+      "Manifestations"
     ],
     "analyzed_at": "2026-11-01T11:00:16.275909+00:00"
   },
@@ -1544,10 +1272,7 @@
     "thumbnail": "thumbnails/1am2r9o.webp",
     "tags": [
       "Amélie Oudéa-Castéra",
-      "Éducation",
-      "Nicole Belloubet",
-      "Gabriel Attal",
-      "Politique"
+      "Gabriel Attal"
     ],
     "analyzed_at": "2026-11-01T11:00:16.702114+00:00"
   },
@@ -1569,7 +1294,7 @@
     "summary": "",
     "thumbnail": "thumbnails/1am03m8.webp",
     "tags": [
-      "TPMP"
+      "Violences sexuelles"
     ],
     "analyzed_at": "2026-11-01T11:00:16.606118+00:00"
   },
@@ -1591,10 +1316,7 @@
     "summary": "«Alors que cela arrive si je la donne à un homosexuel», a-t-il poursuivi, rappelant qu’il ne bénissait pas de «mariage homosexuel». Il répond ainsi aux critiques après sa décision d’autoriser les bénédictions de couples de même sexe.",
     "thumbnail": "thumbnails/1alim2k.webp",
     "tags": [
-      "François",
-      "Pape François",
-      "Mariage homosexuel",
-      "Société"
+      "LGBT+"
     ],
     "analyzed_at": "2026-11-01T11:00:21.164569+00:00"
   },
@@ -1616,9 +1338,7 @@
     "summary": "",
     "thumbnail": "thumbnails/1al3kmu.webp",
     "tags": [
-      "Assemblée",
-      "Gabriel Attal",
-      "Politique"
+      "Gabriel Attal"
     ],
     "analyzed_at": "2026-11-01T11:00:19.242875+00:00"
   },
@@ -1639,7 +1359,9 @@
     "ingested_at": "2026-11-01T10:50:39.649543+00:00",
     "summary": "",
     "thumbnail": "thumbnails/1al1idl.webp",
-    "tags": [],
+    "tags": [
+      "Environnement"
+    ],
     "analyzed_at": "2026-11-01T11:00:17.151141+00:00"
   },
   {
@@ -1660,7 +1382,7 @@
     "summary": "",
     "thumbnail": "thumbnails/1akxljm.webp",
     "tags": [
-      "Lyon"
+      "Extrême droite"
     ],
     "analyzed_at": "2026-11-01T11:00:17.130938+00:00"
   },
@@ -1682,11 +1404,8 @@
     "summary": "La maire de Paris a confirmé qu’elle se baignera en juillet dans la Seine, au pied de l’Hôtel de Ville, et invité le Président de la République et les sportifs à l’imiter.",
     "thumbnail": "thumbnails/1ak60m3.webp",
     "tags": [
-      "Anne Hidalgo",
-      "Seine",
-      "Hôtel de Ville",
       "Emmanuel Macron",
-      "JO Paris 2024"
+      "Anne Hidalgo"
     ],
     "analyzed_at": "2026-11-01T11:00:22.705780+00:00"
   },
@@ -1707,13 +1426,7 @@
     "ingested_at": "2026-11-01T10:50:39.650811+00:00",
     "summary": "C'est une baisse inédite depuis cinquante ans: les Français et les Françaises ont de moins en moins de relations sexuelles. Si le temps passé sur les écrans est en cause, il semble qu'une sexualité active ne soit plus forcément synonyme de bonheur.",
     "thumbnail": "thumbnails/1ak1kw9.webp",
-    "tags": [
-      "Français",
-      "Françaises",
-      "Ifop",
-      "François Kraus",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:00:17.336187+00:00"
   },
   {
@@ -1733,9 +1446,7 @@
     "ingested_at": "2026-11-01T10:50:39.649273+00:00",
     "summary": "",
     "thumbnail": "thumbnails/1ajioe8.webp",
-    "tags": [
-      "Fait Divers"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:00:18.926487+00:00"
   },
   {
@@ -1756,10 +1467,7 @@
     "summary": "De 10 000 à 80 000 euros mensuels : les dirigeants de coopératives agricoles s'octroient de très généreux salaires. Pour les agriculteurs, qui gagnent en moyenne 1700 euros par mois, ces sommes sont juste « (…)",
     "thumbnail": "thumbnails/1ajd5t6.webp",
     "tags": [
-      "Eureden",
-      "SCI",
-      "Cooperl",
-      "Politique"
+      "Agriculture"
     ],
     "analyzed_at": "2026-11-01T11:00:17.584639+00:00"
   },
@@ -1781,11 +1489,8 @@
     "summary": "Porte-parole de l’organisation, Laurence Marandola explique au « HuffPost » pourquoi son syndicat ne se contente pas des annonces de l’exécutif, contrairement à la FNSEA et aux Jeunes Agriculteurs.",
     "thumbnail": "thumbnails/1ajbkor.webp",
     "tags": [
-      "Confédération",
-      "Laurence Marandola",
-      "FNSEA",
-      "Jeunes Agriculteurs",
-      "Politique"
+      "Environnement",
+      "Agriculture"
     ],
     "analyzed_at": "2026-11-01T11:00:17.658722+00:00"
   },
@@ -1806,10 +1511,7 @@
     "ingested_at": "2026-11-01T10:50:39.649615+00:00",
     "summary": "Ce dimanche 4 février, les Parisiens se sont rendus aux urnes afin de se positionner sur une augmentation du tarif de stationnement des SUV",
     "thumbnail": "thumbnails/1aiymqv.webp",
-    "tags": [
-      "SUV",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:00:17.975123+00:00"
   },
   {
@@ -1829,12 +1531,7 @@
     "ingested_at": "2026-11-01T10:50:39.649812+00:00",
     "summary": "Le ministère des Transports invite à « anticiper » se commandes de colis pour être livré avant ou après les Jeux olympiques et paralympiques",
     "thumbnail": "thumbnails/1aivqtm.webp",
-    "tags": [
-      "JO Paris 2024",
-      "Transports",
-      "Jeux",
-      "Sport"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:00:18.066248+00:00"
   },
   {
@@ -1855,8 +1552,7 @@
     "summary": "",
     "thumbnail": "thumbnails/1aio3u0.webp",
     "tags": [
-      "Exclure Israël de Eurovision 2024",
-      "Culture"
+      "Conflit israélo-palestinien"
     ],
     "analyzed_at": "2026-11-01T11:00:20.416415+00:00"
   },
@@ -1877,11 +1573,7 @@
     "ingested_at": "2026-11-01T10:50:39.650722+00:00",
     "summary": "Selon nos informations, le suspect, d’origine malienne et détenteur d’un titre de séjour italien, a déclaré au policier qu’il voulait « tuer",
     "thumbnail": "thumbnails/1ahrmp6.webp",
-    "tags": [
-      "Paris",
-      "Lyon",
-      "Fait Divers"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:00:18.353222+00:00"
   },
   {
@@ -1902,11 +1594,7 @@
     "summary": "La porte-parole du gouvernement, Prisca Thevenot, a justifié la mise « en pause » du plan Ecophyto par la volonté de « sortir de l’écologie punitive »",
     "thumbnail": "thumbnails/1ahq7u4.webp",
     "tags": [
-      "Prisca Thevenot",
-      "Ecophyto",
-      "Agriculture",
-      "Santé",
-      "Écologie"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T11:00:18.850317+00:00"
   },
@@ -1928,7 +1616,7 @@
     "summary": "FIGAROVOX/TRIBUNE - L’évolution de notre alimentation depuis les années 1970 a entraîné une explosion des maladies chroniques comme, explique le docteur Jean-David Zeitoun. Face à ce fléau, seules la loi et l'économie pourront faire évoluer notre système, argumente-t-il.",
     "thumbnail": "thumbnails/1ah2hmq.webp",
     "tags": [
-      "Jean-David Zeitoun"
+      "Budget et fiscalité"
     ],
     "analyzed_at": "2026-11-01T11:00:23.894167+00:00"
   },
@@ -1950,7 +1638,7 @@
     "summary": "Des barquettes de mélanges de légumes pour soupes, ainsi que deux types de céleris, vendus dans les magasins Leclerc de plusieurs départements, font l’objet d’un rappel pour cause de dépassement des limites autorisées de pesticides.",
     "thumbnail": "thumbnails/1ah2fz3.webp",
     "tags": [
-      "Leclerc"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T11:00:19.198319+00:00"
   },
@@ -1972,7 +1660,9 @@
     "summary": "",
     "thumbnail": "thumbnails/1agx03j.webp",
     "tags": [
-      "Gabriel Attal"
+      "Gabriel Attal",
+      "Environnement",
+      "Agriculture"
     ],
     "analyzed_at": "2026-11-01T11:00:19.553740+00:00"
   },
@@ -1993,9 +1683,7 @@
     "ingested_at": "2026-11-01T10:50:39.648876+00:00",
     "summary": "Face à des offres de plus en plus restrictives du côté des services de streaming légaux, de nombreux utilisateurs se tournent désormais vers le piratage, qu'il s'agisse de téléchargement ou de sites de streaming illégaux.",
     "thumbnail": "thumbnails/1agd9q4.webp",
-    "tags": [
-      "Culture"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:00:22.133169+00:00"
   },
   {
@@ -2015,33 +1703,7 @@
     "ingested_at": "2026-11-01T10:50:39.649908+00:00",
     "summary": "Les présidents ligérien et breton ont souligné de plus belle leur volonté d’organiser un référendum, à la suite de la publication d’une étude technique consacrée aux conséquences pratiques d’un tel changement.",
     "thumbnail": "thumbnails/1ag68tf.webp",
-    "tags": [
-      "Bretagne",
-      "Loire-Atlantique",
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:00:25.881717+00:00"
-  },
-  {
-    "id": "1afxfxv",
-    "title": "Licencié parce qu’il refusait de participer aux apéros de sa boîte, il obtient 500 000 € d’indemnités",
-    "url": "https://www.francelive.fr/article/france-live/licencie-parce-quil-refusait-de-participer-aux-aperos-de-sa-boite-il-obtient-500-000-euros-dindemnites-8387102/",
-    "permalink": "/r/france/comments/1afxfxv/licencié_parce_quil_refusait_de_participer_aux/",
-    "created_at": "2024-02-01T00:24:38+00:00",
-    "score": 1311,
-    "num_comments": 149,
-    "subreddit": "france",
-    "author": "lifrielle",
-    "flair": "Société",
-    "domain": "francelive.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/BqMiqX0arybkzvyijLy2oGph1v_TwLMH9vpC95YFErs.jpg?auto=webp&s=cb73135e737f2a2c4e9a62f727ce2a57b18a4109",
-    "ingested_at": "2026-11-01T10:50:39.648726+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/1afxfxv.webp",
-    "tags": [
-      "Société"
-    ],
-    "analyzed_at": "2026-11-01T11:00:21.536441+00:00"
   }
 ]

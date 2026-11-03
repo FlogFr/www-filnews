@@ -17,10 +17,7 @@
     "summary": "Vous reprendrez bien un peu d'Elon Musk ? Le truculent milliardaire a encore fait une sortie publique remarquée en évoquant le rachat d'Hasbro pour sauver la licence Donjons & Dragons d'une prétendue dérive woke.",
     "thumbnail": "thumbnails/1hqfrxx.webp",
     "tags": [
-      "Hasbro",
-      "Elon Musk",
-      "Donjons Dragons",
-      "Société"
+      "Elon Musk"
     ],
     "analyzed_at": "2026-11-01T11:14:05.374656+00:00"
   },
@@ -42,34 +39,9 @@
     "summary": "Le directeur des affaires publiques de l’opérateur s’est ému sur les réseaux sociaux de la décision du gouvernement, estimant qu’elle le priverait de générateurs pouvant permettre de relancer le réseau mobile.",
     "thumbnail": "thumbnails/1hqezqu.webp",
     "tags": [
-      "Mayotte",
-      "Starlink",
-      "Orange"
+      "Outre-mer"
     ],
     "analyzed_at": "2026-11-01T11:14:05.143179+00:00"
-  },
-  {
-    "id": "1hpr13k",
-    "title": "Gisèle Pelicot n’a «pas peur» d’un nouveau procès",
-    "url": "https://www.lematin.ch/story/france-gisele-pelicot-n-a-pas-peur-d-un-nouveau-proces-103243564",
-    "permalink": "/r/france/comments/1hpr13k/gisèle_pelicot_na_pas_peur_dun_nouveau_procès/",
-    "created_at": "2024-12-30T16:30:12+00:00",
-    "score": 320,
-    "num_comments": 29,
-    "subreddit": "france",
-    "author": "roux-cool",
-    "flair": "Actus",
-    "domain": "lematin.ch",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/pdYhLtraENbJhMSkRz6GGDvjBiwL1LsN5Umsk-fZLXc.jpeg?auto=webp&s=db510338eeb7d27e63e34793282681e95557faaa",
-    "ingested_at": "2026-11-01T11:02:04.666862+00:00",
-    "summary": "En cas de procès en appel, la Française «fera face», affirme l'un de ses avocats.",
-    "thumbnail": "thumbnails/1hpr13k.webp",
-    "tags": [
-      "Gisèle Pelicot",
-      "Dominique Pelicot"
-    ],
-    "analyzed_at": "2026-11-01T11:14:05.506433+00:00"
   },
   {
     "id": "1hppl5s",
@@ -90,10 +62,9 @@
     "thumbnail": "thumbnails/1hppl5s.webp",
     "tags": [
       "Élisabeth Borne",
-      "Mayotte",
       "Éducation",
-      "François Bayrou",
-      "Politique"
+      "Outre-mer",
+      "François Bayrou"
     ],
     "analyzed_at": "2026-11-01T11:14:05.292284+00:00"
   },
@@ -115,9 +86,9 @@
     "summary": "Le député Alexandre Allegret-Pilot (UDR) a diffusé sur X une carte dont sont friands les partisans de la théorie d’une hiérarchisation intellectuelle des races. Interrogé par Mediapart, il dit la tro…",
     "thumbnail": "thumbnails/1hpjah5.webp",
     "tags": [
-      "Alexandre Allegret-Pilot",
-      "QI",
-      "UDR"
+      "Institutions",
+      "Racisme",
+      "Extrême droite"
     ],
     "analyzed_at": "2026-11-01T11:14:06.252231+00:00"
   },
@@ -138,10 +109,7 @@
     "ingested_at": "2026-11-01T11:02:04.665752+00:00",
     "summary": "",
     "thumbnail": "thumbnails/1hp6czx.webp",
-    "tags": [
-      "Jimmy Carter",
-      "Etats-Unis et Prix Nobel"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:14:05.534650+00:00"
   },
   {
@@ -161,13 +129,7 @@
     "ingested_at": "2026-11-01T11:02:04.667200+00:00",
     "summary": "La congressiste du Bronx visait le poste de numéro un chez les démocrates au sein d’une des commissions les plus prestigieuses de la Chambre des représentants. Son élection aurait opéré un changement générationnel et politique majeur. Mais Nancy Pelosi a œuvré en coulisses pour lui barrer la route",
     "thumbnail": "thumbnails/1hp4rrh.webp",
-    "tags": [
-      "Alexandria Ocasio-Cortez",
-      "Chambre",
-      "Bronx",
-      "Nancy Pelosi",
-      "Etats-Unis"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:14:06.490346+00:00"
   },
   {
@@ -187,10 +149,7 @@
     "ingested_at": "2026-11-01T11:02:04.665665+00:00",
     "summary": "",
     "thumbnail": "thumbnails/1how5nd.webp",
-    "tags": [
-      "Magnus Carlsen",
-      "Sport"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:14:05.813645+00:00"
   },
   {
@@ -210,9 +169,7 @@
     "ingested_at": "2026-11-01T11:02:04.667816+00:00",
     "summary": "Depuis le retour de ce groupe terroriste au pouvoir en août 2021, les femmes ont progressivement été chassées de l’espace public.",
     "thumbnail": "thumbnails/1hovhv3.webp",
-    "tags": [
-      "Afghanistan"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:14:06.265511+00:00"
   },
   {
@@ -232,10 +189,7 @@
     "ingested_at": "2026-11-01T11:02:04.666366+00:00",
     "summary": "Selon les autorités, 175 passagers et 6 membres d’équipage se trouvaient à bord de l’avion. Il s’agit de la pire catastrophe aérienne connue par le pays.",
     "thumbnail": "thumbnails/1hoqben.webp",
-    "tags": [
-      "Corée du Sud",
-      "Muan"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:14:09.756168+00:00"
   },
   {
@@ -256,11 +210,7 @@
     "summary": "Le président de la République, absent de la scène nationale depuis plusieurs jours, doit prendre la parole, mardi soir, pour ses traditionnels vœux aux Français.",
     "thumbnail": "thumbnails/1ho51ic.webp",
     "tags": [
-      "Emmanuel Macron",
-      "Français",
-      "Fort de Brégançon",
-      "République",
-      "Politique"
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T11:14:05.856225+00:00"
   },
@@ -282,7 +232,7 @@
     "summary": "La reconduction du budget 2024 en 2025 a annulé la hausse des taxes sur l'électricité, ce qui va tirer les prix vers le bas.",
     "thumbnail": "thumbnails/1ho3zhc.webp",
     "tags": [
-      "Économie"
+      "Énergie"
     ],
     "analyzed_at": "2026-11-01T11:14:05.894285+00:00"
   },
@@ -304,11 +254,7 @@
     "summary": "L’encyclopédie en ligne, quatrième site le plus visité au monde, est accusée par le patron de Tesla de véhiculer des idées progressistes et des informations erronées.",
     "thumbnail": "thumbnails/1hnmgi1.webp",
     "tags": [
-      "Elon Musk",
-      "Wikipedia",
-      "Wokisme",
-      "Tesla",
-      "Fondation Wikimedia"
+      "Elon Musk"
     ],
     "analyzed_at": "2026-11-01T11:14:09.538425+00:00"
   },
@@ -330,9 +276,7 @@
     "summary": "Le Parlement italien a adopté au mois d’octobre une loi qui criminalise le recours à la GPA, y compris dans les pays où la pratique est légale. Il s’agit désormais d’un « crime universel », dont les …",
     "thumbnail": "thumbnails/1hngejv.webp",
     "tags": [
-      "Italie",
-      "Parlement",
-      "GPA"
+      "Cause animale"
     ],
     "analyzed_at": "2026-11-01T11:14:06.967761+00:00"
   },
@@ -353,12 +297,7 @@
     "ingested_at": "2026-11-01T11:02:04.664452+00:00",
     "summary": "La déflagration du procès des viols de Mazan a été mondiale. En Allemagne, un groupe de la messagerie Telegram laisse sans voix.",
     "thumbnail": "thumbnails/1hnd372.webp",
-    "tags": [
-      "Telegram",
-      "Pélicot",
-      "Mazan",
-      "Allemagne"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:14:06.348961+00:00"
   },
   {
@@ -379,32 +318,9 @@
     "summary": "",
     "thumbnail": "thumbnails/1hnctai.webp",
     "tags": [
-      "Parlement",
-      "Politique"
+      "Élections"
     ],
     "analyzed_at": "2026-11-01T11:14:07.732723+00:00"
-  },
-  {
-    "id": "1hnbl4l",
-    "title": "Chargeur universel obligatoire à compter du 28 décembre 2024 pour tous les appareils électroniques de petite et moyenne taille",
-    "url": "https://presse.economie.gouv.fr/chargeur-universel-obligatoire-a-compter-du-28-decembre-2024-pour-tous-les-appareils-electroniques-de-petite-et-moyenne-taille/",
-    "permalink": "/r/france/comments/1hnbl4l/chargeur_universel_obligatoire_à_compter_du_28/",
-    "created_at": "2024-12-27T09:49:17+00:00",
-    "score": 269,
-    "num_comments": 106,
-    "subreddit": "france",
-    "author": "MrJibus",
-    "flair": "Actus",
-    "domain": "presse.economie.gouv.fr",
-    "selftext": "",
-    "reddit_thumbnail": "",
-    "ingested_at": "2026-11-01T11:02:04.667767+00:00",
-    "summary": "COMMUNIQUÉ DE PRESSE Paris, le 28/12/2023N°1483 Chargeur universel obligatoire à compter du 28 décembre 2024 pour tous les appareils électroniques de petite et moyenne taille Le décret n°2023-1271 du 27 décembre 2023 et son arrêté d’application transposent en droit français la réglementation européenne imposant un…",
-    "thumbnail": "",
-    "tags": [
-      "COMMUNIQUÉ de PRESSE Paris"
-    ],
-    "analyzed_at": "2026-11-01T11:14:07.148446+00:00"
   },
   {
     "id": "1hn8xnw",
@@ -424,11 +340,7 @@
     "summary": "Une série de reportages consacrés à la thématique du rire. C'est ce que vous propose RFI toute cette semaine. Et ce matin, nous rions de Dieu avec le journal satirique Charlie Hebdo. Le 7 janvier 2015,…",
     "thumbnail": "thumbnails/1hn8xnw.webp",
     "tags": [
-      "Charlie Hebdo",
-      "Dieu",
-      "Journalisme",
-      "Gérard Biard",
-      "Société"
+      "Terrorisme"
     ],
     "analyzed_at": "2026-11-01T11:14:06.835700+00:00"
   },
@@ -450,7 +362,7 @@
     "summary": "Le 1er janvier, l’attribution du RSA devient conditionnée à une activité, aux contours flous, d’au moins quinze heures hebdomadaires. La Commission nationale consultative des droits de l’homme demand…",
     "thumbnail": "thumbnails/1hmzafq.webp",
     "tags": [
-      "RSA"
+      "Pauvreté"
     ],
     "analyzed_at": "2026-11-01T11:14:07.390667+00:00"
   },
@@ -472,11 +384,7 @@
     "summary": "Jeff Bezos ne veut plus signer le contrat prévu, d'une valeur de 860 millions d’euros, avec l'électricien français. Il s'agissait de stocker les informations…",
     "thumbnail": "thumbnails/1hmrxkn.webp",
     "tags": [
-      "EDF",
-      "Jeff Bezos",
-      "Canard",
-      "Nucléaire",
-      "Société"
+      "Énergie"
     ],
     "analyzed_at": "2026-11-01T11:14:07.316672+00:00"
   },
@@ -498,10 +406,7 @@
     "summary": "Le sénateur LR des Alpes-Maritimes savait que son nom circulait. Mais il a dû regarder la télévision pour connaître la décision de l’exécutif.",
     "thumbnail": "thumbnails/1hmrfbe.webp",
     "tags": [
-      "Gouvernement Bayrou",
-      "Philippe Tabarot",
-      "LR des Alpes-Maritimes",
-      "Politique"
+      "François Bayrou"
     ],
     "analyzed_at": "2026-11-01T11:14:07.359988+00:00"
   },
@@ -523,11 +428,7 @@
     "summary": "Le leader mondial du luxe a installé une immense malle Louis Vuitton sur la célèbre avenue parisienne, à l'automne 2023, pour masquer un chantier sur l'un de ses bâtiments.",
     "thumbnail": "thumbnails/1hmpod9.webp",
     "tags": [
-      "LVMH des Champs-Élysées",
-      "Louis Vuitton",
-      "Emile Meunier",
-      "Paris",
-      "Société"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T11:14:07.426135+00:00"
   },
@@ -548,9 +449,7 @@
     "ingested_at": "2026-11-01T11:02:04.667919+00:00",
     "summary": "",
     "thumbnail": "thumbnails/1hmn8hy.webp",
-    "tags": [
-      "Kazakhstan"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:14:08.990085+00:00"
   },
   {
@@ -571,11 +470,8 @@
     "summary": "A contrario, Joe Biden a choisi des formules classiques pour son dernier Noël comme président des Etats-Unis.",
     "thumbnail": "thumbnails/1hmn5si.webp",
     "tags": [
-      "Noël",
       "Donald Trump",
-      "Panama",
-      "Etats-Unis",
-      "Canada et le Groenland"
+      "Joe Biden"
     ],
     "analyzed_at": "2026-11-01T11:14:07.820837+00:00"
   },
@@ -597,11 +493,7 @@
     "summary": "Le Global Engagement Center était depuis longtemps dans le viseur de parlementaires républicains, majoritaires à la Chambre des représentants, qui l'accusaient de censure et de surveiller des Américains.",
     "thumbnail": "thumbnails/1hlxlb5.webp",
     "tags": [
-      "Congrès",
-      "Global Engagement Center",
-      "Chambre",
-      "Américains",
-      "Société"
+      "Budget et fiscalité"
     ],
     "analyzed_at": "2026-11-01T11:14:08.143277+00:00"
   },
@@ -643,9 +535,9 @@
     "summary": "",
     "thumbnail": "thumbnails/1hlbwco.webp",
     "tags": [
-      "Marine le Pen",
       "Gérald Darmanin",
-      "Monde"
+      "Marine Le Pen",
+      "Justice"
     ],
     "analyzed_at": "2026-11-01T11:14:07.888152+00:00"
   },
@@ -667,11 +559,8 @@
     "summary": "Des soldats non rémunérés : c’est ce qu’a souhaité Elon Musk pour son Doge, un organe censé aider le gouvernement Trump à tailler dans l’État fédéral. Des condi...",
     "thumbnail": "thumbnails/1hl9qi5.webp",
     "tags": [
-      "Wall Street Journal",
-      "Musk",
       "Elon Musk",
-      "Doge",
-      "Société"
+      "Donald Trump"
     ],
     "analyzed_at": "2026-11-01T11:14:08.679781+00:00"
   },
@@ -693,9 +582,8 @@
     "summary": "Après le verdict du procès de l’assassinat de son frère Samuel Paty, vendredi, Mickaëlle Paty a dû être exfiltrée de la salle d’audience en",
     "thumbnail": "thumbnails/1hkx2h0.webp",
     "tags": [
-      "Mickaëlle Paty",
-      "Samuel Paty",
-      "Fait Divers"
+      "Justice",
+      "Police"
     ],
     "analyzed_at": "2026-11-01T11:14:08.117544+00:00"
   },
@@ -716,13 +604,7 @@
     "ingested_at": "2026-11-01T11:02:04.666206+00:00",
     "summary": "L’homme, devenu une véritable star outre-Atlantique, comparaît pour acte «terroriste». Une accusation qu’il réfute.",
     "thumbnail": "thumbnails/1hksbfc.webp",
-    "tags": [
-      "Luigi Mangione",
-      "PDG de United Healthcare",
-      "Etats-Unis",
-      "Procès",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:14:12.072105+00:00"
   },
   {
@@ -744,10 +626,8 @@
     "thumbnail": "thumbnails/1hks0i2.webp",
     "tags": [
       "François Bayrou",
-      "Gouvernement Bayrou",
-      "Manuel Valls et Élisabeth Borne",
-      "BFMTV",
-      "Politique"
+      "Élisabeth Borne",
+      "Manuel Valls"
     ],
     "analyzed_at": "2026-11-01T11:14:08.397838+00:00"
   },
@@ -768,11 +648,7 @@
     "ingested_at": "2026-11-01T11:02:04.664479+00:00",
     "summary": "C'est une première dans le département du Nord, au collège Schaffner de Roost-Warendin, les équipes du restaurant scolaire regorgent de bonnes idées pour éviter de jeter de la nourriture. Avec la mise en place de l'assiette...",
     "thumbnail": "thumbnails/1hkmk1h.webp",
-    "tags": [
-      "Nord",
-      "Schaffner de Roost-Warendin",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:14:08.637231+00:00"
   },
   {
@@ -793,11 +669,7 @@
     "summary": "En 2019, le président élu des États-Unis avait déjà manifesté son intérêt pour le territoire sous souveraineté danoise, dont le sous-sol et la position géographique suscitent de nombreuses convoitises. «Le Groenland est à nous», lui a répondu le chef du gouvernement du pays constitutif.",
     "thumbnail": "thumbnails/1hkmbgf.webp",
     "tags": [
-      "Groenland",
-      "Donald Trump",
-      "États-Unis",
-      "Panama",
-      "Société"
+      "Donald Trump"
     ],
     "analyzed_at": "2026-11-01T11:14:10.859373+00:00"
   },
@@ -819,8 +691,7 @@
     "summary": "",
     "thumbnail": "thumbnails/1hkcbht.webp",
     "tags": [
-      "Donald Trump",
-      "Société"
+      "Donald Trump"
     ],
     "analyzed_at": "2026-11-01T11:14:08.801771+00:00"
   },
@@ -841,9 +712,7 @@
     "ingested_at": "2026-11-01T11:02:04.665580+00:00",
     "summary": "",
     "thumbnail": "thumbnails/1hk6ljm.webp",
-    "tags": [
-      "Noël"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:14:11.068689+00:00"
   },
   {
@@ -884,35 +753,9 @@
     "summary": "La septuagénaire emprisonnée pour avoir bloqué une route n’a pas pu être libérée sous bracelet électronique car ses poignets sont trop fins",
     "thumbnail": "thumbnails/1hjwe96.webp",
     "tags": [
-      "Société"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T11:14:12.648886+00:00"
-  },
-  {
-    "id": "1hjmdb3",
-    "title": "La longue parade des policiers new-yorkais avec Luigi Mangione, soupçonné d'avoir tué le PDG de UnitedHealthcare, suscite la colère sur les réseaux sociaux ; pourquoi le maire de NYC est critiqué",
-    "url": "https://economictimes.indiatimes.com/news/international/global-trends/luigi-mangiones-perp-walk-unitedhealthcare-ceo-murder-suspect-has-left-social-media-fuming-why-the-mayor-of-nyc-eric-adams-is-under-scrutiny/articleshow/116534506.cms",
-    "permalink": "/r/france/comments/1hjmdb3/la_longue_parade_des_policiers_newyorkais_avec/",
-    "created_at": "2024-12-21T23:47:48+00:00",
-    "score": 443,
-    "num_comments": 66,
-    "subreddit": "france",
-    "author": "roux-cool",
-    "flair": "Société",
-    "domain": "economictimes.indiatimes.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/gS00EcdGH0cwmDQx3lvgz3SfzrJbIExkG-Upy_sg3R4.jpg?auto=webp&s=63444c70ce4b08117357fdef01addd32bd5371f4",
-    "ingested_at": "2026-11-01T11:02:04.665824+00:00",
-    "summary": "Authorities led Luigi Mangione, the suspect in the killing of UnitedHealthcare CEO Brian Thompson, in a slow, lengthy perp walk during his transportation to a New York federal prison. What caught people's attention was Mangione being flanked by NYC mayor Eric Adams.",
-    "thumbnail": "thumbnails/1hjmdb3.webp",
-    "tags": [
-      "Luigi Mangione",
-      "NYC",
-      "PDG de UnitedHealthcare",
-      "Luigi Mangione perp walk",
-      "Société"
-    ],
-    "analyzed_at": "2026-11-01T11:14:10.066820+00:00"
   },
   {
     "id": "1hjkyck",
@@ -932,11 +775,9 @@
     "summary": "Quelques heures après l'attaque sur le marché de Noël, Jordan Bardella et Marine Le Pen ont dénoncé un \"attentat islamiste\" ou la \"barbarie islamiste\" alors que les motivations de l'auteur présumé semblent tout autres.",
     "thumbnail": "thumbnails/1hjkyck.webp",
     "tags": [
-      "RN",
-      "Allemagne",
-      "Noël",
-      "Jordan Bardella et Marine le Pen",
-      "Politique"
+      "Terrorisme",
+      "Jordan Bardella",
+      "Marine Le Pen"
     ],
     "analyzed_at": "2026-11-01T11:14:09.664182+00:00"
   },
@@ -958,11 +799,7 @@
     "summary": "Le géant chinois de la «fast fashion» vient d’annoncer le recrutement de l’ancien ministre de l’Intérieur au sein d’un comité régional stratégique chargé de l’accompagner sur son volet RSE. De quoi susciter l’indignation des professionnels tricolores.",
     "thumbnail": "thumbnails/1hjhooo.webp",
     "tags": [
-      "Shein",
-      "Christophe Castaner",
-      "Économie",
-      "Intérieur",
-      "RSE"
+      "Christophe Castaner"
     ],
     "analyzed_at": "2026-11-01T11:14:10.908430+00:00"
   },
@@ -983,13 +820,7 @@
     "ingested_at": "2026-11-01T11:02:04.668051+00:00",
     "summary": "La fresque inspirée d'Alexandre Dumas, avec Pierre Niney, est sortie dans les salles américaines. Objectif de son équipe: séduire le public et l'Académie des Oscars.",
     "thumbnail": "thumbnails/1hjbhsh.webp",
-    "tags": [
-      "Monte Cristo",
-      "États-Unis",
-      "Pierre Niney",
-      "Alexandre Dumas",
-      "Culture"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:14:09.939089+00:00"
   },
   {
@@ -1010,8 +841,8 @@
     "summary": "",
     "thumbnail": "thumbnails/1hjb4k1.webp",
     "tags": [
-      "Mazan",
-      "Société"
+      "Justice",
+      "Violences sexuelles"
     ],
     "analyzed_at": "2026-11-01T11:14:10.316409+00:00"
   },
@@ -1032,13 +863,7 @@
     "ingested_at": "2026-11-01T11:02:04.664593+00:00",
     "summary": "INFO ACTU.FR. Maïté est morte dans la nuit de vendredi à samedi à l'âge de 86 ans. Elle restera comme l'une des plus belles représentantes du Sud-Ouest.",
     "thumbnail": "thumbnails/1hjaip3.webp",
-    "tags": [
-      "Sud-Ouest",
-      "ACTU FR",
-      "Rion-des-Landes",
-      "Maïté",
-      "Culture"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:14:10.389800+00:00"
   },
   {
@@ -1058,13 +883,7 @@
     "ingested_at": "2026-11-01T11:02:04.665801+00:00",
     "summary": "[VIDÉO] Un individu a foncé dans la foule vendredi soir au marché de Noël de Magdebourg, dans le nord-est de l'Allemagne. L'attaque a fait cinq morts et plus de 200 blessés. Suivez les dernières informations en direct.",
     "thumbnail": "thumbnails/1hisbuf.webp",
-    "tags": [
-      "Allemagne",
-      "Noël de Magdebourg",
-      "Magdebourg",
-      "Noël",
-      "Berlin"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:14:11.393971+00:00"
   },
   {
@@ -1085,10 +904,7 @@
     "summary": "VIDÉO - Après sept semaines d'audience, la cour d'assises spéciale de Paris annonce ce vendredi soir son verdict à l'encontre des huit accusés impliqués, à des degrés divers, dans l'assassinat du professeur Samuel Paty par un jeune islamiste radical tchétchène en 2020.",
     "thumbnail": "thumbnails/1hirhj8.webp",
     "tags": [
-      "Procès Paty",
-      "Paris",
-      "Samuel Paty",
-      "Société"
+      "Justice"
     ],
     "analyzed_at": "2026-11-01T11:14:11.023705+00:00"
   },
@@ -1110,11 +926,9 @@
     "summary": "En 2022, les importations de biens en provenance de l'UE s'élevaient à 553,3 milliards de dollars (533,17 milliards d'euros) tandis que les exportations des États-Unis vers les Vingt-Sept représentaient 350,8 milliards de dollars (338,04 milliards d'euros).",
     "thumbnail": "thumbnails/1hik2ug.webp",
     "tags": [
-      "UE",
-      "États-Unis",
-      "Vingt-Sept",
+      "Union européenne",
       "Donald Trump",
-      "Économie"
+      "Budget et fiscalité"
     ],
     "analyzed_at": "2026-11-01T11:14:10.676520+00:00"
   },
@@ -1135,13 +949,7 @@
     "ingested_at": "2026-11-01T11:02:04.665317+00:00",
     "summary": "Selon cette étude comparative menée par l'Atelier parisien d'urbanisme, que France Inter relaie, la baisse de la vitesse ne permet toutefois pas encore de déterminer si la pollution de l'air s'est également résorbée.",
     "thumbnail": "thumbnails/1hiit0z.webp",
-    "tags": [
-      "Atelier",
-      "France Inter",
-      "Apur",
-      "Transports",
-      "Éco / Conso"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:14:11.459805+00:00"
   },
   {
@@ -1161,13 +969,7 @@
     "ingested_at": "2026-11-01T11:02:04.667407+00:00",
     "summary": "Le YouTubeur le plus influent de France regrette d’être catalogué «à droite» simplement pour «avoir défendu des valeurs comme l’amour du drapeau français». Il reconnaît certaines affinités avec le RN, mais estime qu’il y a «du bon et du mauvais dans chaque camp».",
     "thumbnail": "thumbnails/1hihn9y.webp",
-    "tags": [
-      "RN",
-      "YouTubeur Tibo InShape",
-      "Tiboinshape",
-      "Youtubeuses",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:14:12.954688+00:00"
   },
   {
@@ -1187,11 +989,7 @@
     "ingested_at": "2026-11-01T11:02:04.667842+00:00",
     "summary": "Le chef de bord a salué les passagers en français alors qu'il se trouvait en territoire flamand, région néerlandophone. La situation a pris des proportions démesurées outre-Quiévrain.",
     "thumbnail": "thumbnails/1hihl6h.webp",
-    "tags": [
-      "Belgique",
-      "SNCB",
-      "Fait Divers"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:14:11.401567+00:00"
   },
   {
@@ -1212,11 +1010,8 @@
     "summary": "Emmanuel Macron poursuit son déplacement à Mayotte ce vendredi 20 décembre. Toute la journée de jeudi, il a dû faire face à la détresse des sinistrés, au cours d’échanges souvent musclés. Le chef de l’État promet de...",
     "thumbnail": "thumbnails/1hieubv.webp",
     "tags": [
-      "Mayotte",
       "Emmanuel Macron",
-      "Cyclone Chido",
-      "État",
-      "Politique"
+      "Outre-mer"
     ],
     "analyzed_at": "2026-11-01T11:14:11.830487+00:00"
   },
@@ -1238,11 +1033,8 @@
     "summary": "Une enquête du \"Monde\" dévoile l’homophobie décomplexée du président de la République et de ses proches conseillers.",
     "thumbnail": "thumbnails/1hi7qre.webp",
     "tags": [
-      "Elysée",
       "Emmanuel Macron",
-      "République",
-      "Monde",
-      "Société"
+      "LGBT+"
     ],
     "analyzed_at": "2026-11-01T11:14:11.469372+00:00"
   },
@@ -1264,8 +1056,9 @@
     "summary": "En marge du procès des viols de Mazan, des tensions ont éclaté entre les militants et l’un des avocats, Maître Christophe Bruschi. Face à une foule déçue des peines prononcées, l’avocat a préféré provoquer les...",
     "thumbnail": "thumbnails/1hi2znk.webp",
     "tags": [
-      "Mazan",
-      "Maître Christophe Bruschi"
+      "Justice",
+      "Violences sexuelles",
+      "Droits des femmes"
     ],
     "analyzed_at": "2026-11-01T11:14:12.117487+00:00"
   },
@@ -1287,8 +1080,7 @@
     "summary": "",
     "thumbnail": "thumbnails/1hi2opj.webp",
     "tags": [
-      "Emmanuel Macron",
-      "Politique"
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T11:14:11.815050+00:00"
   },
@@ -1310,11 +1102,8 @@
     "summary": "Info « Les Jours ». Au milieu de messages d’une violence inouïe, les élus partagent l’air de rien leurs actualités politiques. Parfois depuis des années.",
     "thumbnail": "thumbnails/1hi15vf.webp",
     "tags": [
-      "RN",
-      "Facebook",
-      "Alexandre Loubet",
-      "Alexandre Sabatou",
-      "Alpes-de-Haute-Provence"
+      "Racisme",
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T11:14:11.927315+00:00"
   },
@@ -1337,10 +1126,7 @@
     "thumbnail": "thumbnails/1hhyb4c.webp",
     "tags": [
       "François Bayrou",
-      "Matignon",
-      "Olivier Faure",
-      "PS",
-      "Politique"
+      "Olivier Faure"
     ],
     "analyzed_at": "2026-11-01T11:14:12.159394+00:00"
   },
@@ -1362,11 +1148,11 @@
     "summary": "Le Premier ministre imagine un gouvernement avec Fabien Roussel, Marine Tondelier, Édouard Philippe, Olivier Faure et un membre des Républicains.",
     "thumbnail": "thumbnails/1hhv0cn.webp",
     "tags": [
-      "Marine Tondelier",
       "Olivier Faure",
-      "Républicains",
+      "Marine Tondelier",
+      "Édouard Philippe",
       "François Bayrou",
-      "Politique"
+      "Fabien Roussel"
     ],
     "analyzed_at": "2026-11-01T11:14:12.082326+00:00"
   },
@@ -1388,7 +1174,8 @@
     "summary": "",
     "thumbnail": "thumbnails/1hhtc7e.webp",
     "tags": [
-      "Israël"
+      "Conflit israélo-palestinien",
+      "Santé"
     ],
     "analyzed_at": "2026-11-01T11:14:14.307938+00:00"
   },
@@ -1409,11 +1196,7 @@
     "ingested_at": "2026-11-01T11:02:04.666530+00:00",
     "summary": "Le célèbre fort Boyard menace de s’effondrer. Le département de Charente-Maritime a lancé ce mardi 17 décembre un appel aux dons pour assurer la protection de la fortification.",
     "thumbnail": "thumbnails/1hht72z.webp",
-    "tags": [
-      "Boyard",
-      "Charente-Maritime",
-      "Culture"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:14:12.094621+00:00"
   },
   {
@@ -1433,13 +1216,7 @@
     "ingested_at": "2026-11-01T11:02:04.666670+00:00",
     "summary": "Dominique Pelicot et les 50 autres accusés du procès des viols de Mazan ont tous été condamnés, jeudi 19 décembre. Mais pour la “Tageszeitung”, l’issue du procè...",
     "thumbnail": "thumbnails/1hhqgbo.webp",
-    "tags": [
-      "Gisèle Pelicot",
-      "Mazan",
-      "Dominique Pelicot",
-      "Tageszeitung",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:14:12.649770+00:00"
   },
   {
@@ -1460,36 +1237,9 @@
     "summary": "Le principal accusé des viols de Mazan a été déclaré coupable ce jeudi de «viols aggravés» sur son ex-femme.",
     "thumbnail": "thumbnails/1hhp5mn.webp",
     "tags": [
-      "Mazan",
-      "Dominique Pelicot"
+      "Violences sexuelles"
     ],
     "analyzed_at": "2026-11-01T11:14:12.354760+00:00"
-  },
-  {
-    "id": "1hhp1lt",
-    "title": "François Bayrou découvre Manuel Valls dans une fenêtre de son calendrier de l’Avent",
-    "url": "https://www.legorafi.fr/2024/12/19/francois-bayrou-decouvre-manuel-valls-dans-une-fenetre-de-son-calendrier-de-lavent/",
-    "permalink": "/r/france/comments/1hhp1lt/françois_bayrou_découvre_manuel_valls_dans_une/",
-    "created_at": "2024-12-19T09:15:14+00:00",
-    "score": 289,
-    "num_comments": 9,
-    "subreddit": "france",
-    "author": "jirazi",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/wubnoLucj8BTQyxsFshf6JI_l0ZIpbsmrVbP16zhRQY.jpg?auto=webp&s=38f5731afbdbdd68bc411dbaa080dd9500abd3ac",
-    "ingested_at": "2026-11-01T11:02:04.667505+00:00",
-    "summary": "Alors qu’il se réjouissait d’ouvrir une fenêtre de son calendrier de l’Avent, le Premier ministre a eu la mauvaise surprise de découvrir que Manuel Valls s’y cachait.",
-    "thumbnail": "thumbnails/1hhp1lt.webp",
-    "tags": [
-      "François Bayrou",
-      "Manuel Valls",
-      "Avent",
-      "Premier",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T11:14:12.469321+00:00"
   },
   {
     "id": "1hho8mj",
@@ -1509,10 +1259,6 @@
     "summary": "VIDÉO - Alors que l’on reste dans l’attente de la formation du gouvernement de François Bayrou, dont le premier objectif sera de parvenir au vote du budget 2025, BFMTV met en place un nouveau numéro de l’émission spéciale “L’Assemblée BFM”, qui voit débattre des représentantes des principales formations...",
     "thumbnail": "thumbnails/1hho8mj.webp",
     "tags": [
-      "Manon Aubry",
-      "LFI",
-      "Julien Odoul",
-      "RN",
       "François Bayrou"
     ],
     "analyzed_at": "2026-11-01T11:14:12.578105+00:00"
@@ -1535,7 +1281,7 @@
     "summary": "",
     "thumbnail": "thumbnails/1hho6fl.webp",
     "tags": [
-      "Économie"
+      "Justice"
     ],
     "analyzed_at": "2026-11-01T11:14:12.643827+00:00"
   },
@@ -1557,10 +1303,7 @@
     "summary": "Lors de la campagne présidentielle de 2002, François Bayrou avait donner une claque à un jeune garçon lors d’un bain de foule. Si ce premier est désormais premier ministre, en charge de composer un gouvernement, le jeune homme est lui en prison, condamné pour trafic de drogue.",
     "thumbnail": "thumbnails/1hhn9os.webp",
     "tags": [
-      "François Bayrou",
-      "Bayrou",
-      "Délinquance juvénile",
-      "Société"
+      "François Bayrou"
     ],
     "analyzed_at": "2026-11-01T11:14:12.979017+00:00"
   },
@@ -1582,8 +1325,7 @@
     "summary": "La condamnation définitive de Nicolas Sarkozy pour corruption lance sa procédure d’exclusion de la Légion d’honneur. D’après les informations de Mediapart, le dossier a d’ores et déjà été préparé à l…",
     "thumbnail": "thumbnails/1hhbg4d.webp",
     "tags": [
-      "Nicolas Sarkozy",
-      "Légion"
+      "Nicolas Sarkozy"
     ],
     "analyzed_at": "2026-11-01T11:14:13.373881+00:00"
   },
@@ -1605,36 +1347,10 @@
     "summary": "",
     "thumbnail": "thumbnails/1hh3fmk.webp",
     "tags": [
-      "Sainte-Soline",
-      "Écologie"
+      "Environnement",
+      "Justice"
     ],
     "analyzed_at": "2026-11-01T11:14:13.092269+00:00"
-  },
-  {
-    "id": "1hh3cpk",
-    "title": "« Bien plus compétent en économie » : 75% des Français favorables au remplacement de François Bayrou par un raton laveur",
-    "url": "https://www.legorafi.fr/2024/12/18/75-des-francais-favorables-au-remplacement-de-francois-bayrou-par-un-raton-laveur/",
-    "permalink": "/r/france/comments/1hh3cpk/bien_plus_compétent_en_économie_75_des_français/",
-    "created_at": "2024-12-18T14:58:08+00:00",
-    "score": 1304,
-    "num_comments": 68,
-    "subreddit": "france",
-    "author": "AllAloneInKyoto",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/2UxmrP5Jot3q3OeCnB7MPkPB1fxxDjvnXTkbDyUTyO0.jpeg?auto=webp&s=924374439f7b59c301a89fb1b9bf3479973a2b4d",
-    "ingested_at": "2026-11-01T11:02:04.664376+00:00",
-    "summary": "Selon un sondage IPSOS pour Le Parisien, 75% des Français souhaiteraient déjà remplacer le nouveau Premier ministre par un raton laveur.",
-    "thumbnail": "thumbnails/1hh3cpk.webp",
-    "tags": [
-      "François Bayrou",
-      "Français",
-      "Premier",
-      "IPSOS",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T11:14:12.972773+00:00"
   },
   {
     "id": "1hh2p1k",
@@ -1653,10 +1369,7 @@
     "ingested_at": "2026-11-01T11:02:04.666911+00:00",
     "summary": "",
     "thumbnail": "thumbnails/1hh2p1k.webp",
-    "tags": [
-      "Français",
-      "Kremlin"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:14:13.304156+00:00"
   },
   {
@@ -1678,7 +1391,8 @@
     "thumbnail": "thumbnails/1hh193e.webp",
     "tags": [
       "Nicolas Sarkozy",
-      "Politique"
+      "Justice",
+      "Corruption"
     ],
     "analyzed_at": "2026-11-01T11:14:14.870070+00:00"
   },
@@ -1701,9 +1415,6 @@
     "thumbnail": "thumbnails/1hh0roy.webp",
     "tags": [
       "Elon Musk",
-      "Nigel Farage",
-      "Reform UK",
-      "Grande-Bretagne",
       "Donald Trump"
     ],
     "analyzed_at": "2026-11-01T11:14:14.303160+00:00"
@@ -1726,9 +1437,7 @@
     "summary": "Le tueur présumé d'un patron américain du secteur de l'assurance santé à New York a été inculpé pour meurtre « considéré comme un acte de terrorisme »",
     "thumbnail": "thumbnails/1hgzu8v.webp",
     "tags": [
-      "Luigi Mangione",
-      "New York",
-      "Société"
+      "Terrorisme"
     ],
     "analyzed_at": "2026-11-01T11:14:13.344424+00:00"
   },
@@ -1749,13 +1458,7 @@
     "ingested_at": "2026-11-01T11:02:04.666319+00:00",
     "summary": "Jeran Campanella, célèbre youtubeur américain qui affirme depuis des années que la Terre est plate, a fait une expédition jusqu’en Antarctiq",
     "thumbnail": "thumbnails/1hgiwgf.webp",
-    "tags": [
-      "Terre",
-      "Antarctique",
-      "Jeran Campanella",
-      "Antarctiq",
-      "Science"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:14:13.494116+00:00"
   },
   {
@@ -1776,39 +1479,10 @@
     "summary": "Au cœur d’une polémique pour ne pas s’être rendu à Mayotte alors que l’île fait face à une situation dramatique, le nouveau premier ministre François Bayrou s’est justifié devant les députés ce mardi 17 décembre d'une façon maladroite. «Il n’est pas d’usage que le premier...",
     "thumbnail": "thumbnails/1hgdzet.webp",
     "tags": [
-      "Mayotte",
       "François Bayrou",
-      "Vidéo",
-      "Fl-no-import-add",
-      "Politique"
+      "Outre-mer"
     ],
     "analyzed_at": "2026-11-01T11:14:14.644376+00:00"
-  },
-  {
-    "id": "1hgct38",
-    "title": "« Ça va me permettre de zoomer où je veux pour constater l’ampleur des dégâts » : François Bayrou survolera Mayotte sur Google Maps",
-    "url": "https://www.legorafi.fr/2024/12/17/mayotte-francois-bayrou-survolera-lile-sur-google-maps/",
-    "permalink": "/r/france/comments/1hgct38/ça_va_me_permettre_de_zoomer_où_je_veux_pour/",
-    "created_at": "2024-12-17T15:16:20+00:00",
-    "score": 895,
-    "num_comments": 73,
-    "subreddit": "france",
-    "author": "AllAloneInKyoto",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/o1H8ciGvVYVBUVW7AqY61bzY8LsOUF0xFlUL0HrWZ9c.jpeg?auto=webp&s=c6ea52d013673216db366c9930c4f58893a7584a",
-    "ingested_at": "2026-11-01T11:02:04.664505+00:00",
-    "summary": "Afin d’éteindre au plus vite la polémique, le nouveau Premier ministre a fait une annonce forte ce matin aux représentants.",
-    "thumbnail": "thumbnails/1hgct38.webp",
-    "tags": [
-      "François Bayrou",
-      "Google Maps",
-      "Mayotte",
-      "Premier",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T11:14:13.529764+00:00"
   },
   {
     "id": "1hgc8pl",
@@ -1828,9 +1502,8 @@
     "summary": "L’élection de Donald Trump transforme la plateforme d’Elon Musk en arme de désinformation massive. Mediapart refuse de servir la cause des ennemis du journalisme et de l’intérêt général.",
     "thumbnail": "thumbnails/1hgc8pl.webp",
     "tags": [
-      "Elon Musk",
       "Donald Trump",
-      "Politique"
+      "Elon Musk"
     ],
     "analyzed_at": "2026-11-01T11:14:14.433534+00:00"
   },
@@ -1852,11 +1525,7 @@
     "summary": "Un haut responsable de l'armée russe a été tué dans l'explosion, survenue mardi 17 décembre au matin, près d'un immeuble résidentiel dans le sud-est de Moscou, a annoncé le Comité d'enquête russe, chargé…",
     "thumbnail": "thumbnails/1hgb4gy.webp",
     "tags": [
-      "Moscou",
-      "Ukraine",
-      "Russie",
-      "Comité",
-      "Igor Kirillov"
+      "Guerre en Ukraine"
     ],
     "analyzed_at": "2026-11-01T11:14:14.572504+00:00"
   },
@@ -1878,11 +1547,7 @@
     "summary": "L'étude fondatrice de l'IHU de Marseille du professeur Didier Raoult, préconisant l'usage de l'hydroxychloroquine contre le Covid-19, a été officiellement invalidée par l'éditeur de la revue qui l'avait publiée en mars 2020.",
     "thumbnail": "thumbnails/1hg8zxs.webp",
     "tags": [
-      "Covid-19",
-      "Didier Raoult",
-      "IHU de Marseille",
-      "Pr Didier Raoult",
-      "Science"
+      "Covid-19"
     ],
     "analyzed_at": "2026-11-01T11:14:13.678745+00:00"
   },
@@ -1903,10 +1568,7 @@
     "ingested_at": "2026-11-01T11:02:04.667074+00:00",
     "summary": "Le Pass culture permet depuis 2021 à tous les jeunes de 18 ans de bénéficier d’un crédit de 300 euros pour accéder à des activités ou à des biens culturels de leur choix.",
     "thumbnail": "thumbnails/1hg8x0t.webp",
-    "tags": [
-      "Cour",
-      "Culture"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:14:15.583147+00:00"
   },
   {
@@ -1927,11 +1589,8 @@
     "summary": "Le Japon réclamait son extradition en l'accusant d'être responsable de dommages et blessures à bord d'un navire baleinier nippon en 2010.",
     "thumbnail": "thumbnails/1hg8834.webp",
     "tags": [
-      "Paul Watson",
-      "Sea Shepherd",
-      "Japon",
-      "Danemark",
-      "Écologie"
+      "Environnement",
+      "Prisons"
     ],
     "analyzed_at": "2026-11-01T11:14:14.320927+00:00"
   },
@@ -1953,7 +1612,7 @@
     "summary": "",
     "thumbnail": "thumbnails/1hg61om.webp",
     "tags": [
-      "Inrae"
+      "Agriculture"
     ],
     "analyzed_at": "2026-11-01T11:14:14.834435+00:00"
   },
@@ -1975,11 +1634,7 @@
     "summary": "VIDÉO - François Bayrou répond aux critiques sur son déplacement à Pau en jet de la République pour présider le conseil municipal",
     "thumbnail": "thumbnails/1hfvz13.webp",
     "tags": [
-      "François Bayrou",
-      "Pau",
-      "République",
-      "État",
-      "Politique"
+      "François Bayrou"
     ],
     "analyzed_at": "2026-11-01T11:14:14.859639+00:00"
   },
@@ -2001,8 +1656,7 @@
     "summary": "",
     "thumbnail": "thumbnails/1hfu7tw.webp",
     "tags": [
-      "Internet",
-      "Société"
+      "Conflit israélo-palestinien"
     ],
     "analyzed_at": "2026-11-01T11:14:15.231013+00:00"
   },
@@ -2024,10 +1678,7 @@
     "summary": "La volonté du premier ministre de conserver son fauteuil de maire, à rebours de l’usage en vigueur depuis 2012, ne fait pas l’unanimité. «On s’est trompé en (rendant) incompatibles les responsabilités locales et nationales, c’est une erreur», a-t-il déclaré lundi.",
     "thumbnail": "thumbnails/1hfptbn.webp",
     "tags": [
-      "François Bayrou",
-      "Pau",
-      "Mayotte",
-      "Politique"
+      "François Bayrou"
     ],
     "analyzed_at": "2026-11-01T11:14:15.414593+00:00"
   },
@@ -2049,11 +1700,7 @@
     "summary": "Le groupe Bolloré va bénéficier d’un régime spécial lui permettant d’alléger la fiscalité sur la scission de Vivendi. Il devrait économiser plus de 500 millions d’euros d’impôt.",
     "thumbnail": "thumbnails/1hfnwuf.webp",
     "tags": [
-      "Vincent Bolloré",
-      "Canal et Hachette",
-      "Bolloré",
-      "Vivendi",
-      "Économie"
+      "Budget et fiscalité"
     ],
     "analyzed_at": "2026-11-01T11:14:14.976312+00:00"
   },
@@ -2075,11 +1722,7 @@
     "summary": "Condamnés en Italie pour avoir copié le titre \"Une fille de France\" de Gianni Nazzaro, le chanteur et son parolier, Didier Barbelivien, ne perçevront plus aucun droit d’auteur sur leur morceau.",
     "thumbnail": "thumbnails/1hfhxut.webp",
     "tags": [
-      "Gilbert Montagné",
-      "Gianni Nazzaro",
-      "Didier Barbelivien",
-      "Italie",
-      "Blabla"
+      "Justice"
     ],
     "analyzed_at": "2026-11-01T11:14:15.218476+00:00"
   },
@@ -2101,8 +1744,7 @@
     "summary": "",
     "thumbnail": "thumbnails/1heuzlv.webp",
     "tags": [
-      "Mahmoud Al-Madhoun",
-      "Gaza Soup Kitchen"
+      "Conflit israélo-palestinien"
     ],
     "analyzed_at": "2026-11-01T11:14:15.306505+00:00"
   },
@@ -2125,9 +1767,7 @@
     "thumbnail": "thumbnails/1heryv3.webp",
     "tags": [
       "Rachida Dati",
-      "Paris",
-      "Hôtel de Ville",
-      "Gratuit"
+      "Laïcité"
     ],
     "analyzed_at": "2026-11-01T11:14:15.622348+00:00"
   },
@@ -2148,12 +1788,7 @@
     "ingested_at": "2026-11-01T11:02:04.665102+00:00",
     "summary": "L’artiste Parastoo Ahmadi a diffusé sur YouTube un mini-concert dans lequel elle apparaît sans le hidjab que la loi impose aux Iraniennes. Des poursuites ont été engagées contre elle et la production, ont indiqué les autorités.",
     "thumbnail": "thumbnails/1healig.webp",
-    "tags": [
-      "Parastoo Ahmadi",
-      "Iran",
-      "Iraniennes",
-      "YouTube"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:14:15.314554+00:00"
   },
   {
@@ -2174,11 +1809,7 @@
     "summary": "The San Francisco medical examiner's office determined Suchir Balaji's death to be suicide and police found no evidence of foul play.",
     "thumbnail": "thumbnails/1he89ll.webp",
     "tags": [
-      "Suchir Balaji",
-      "OpenAI",
-      "San Francisco",
-      "Suchir Balaji's",
-      "Mr Balaji"
+      "Intelligence artificielle"
     ],
     "analyzed_at": "2026-11-01T11:14:15.407811+00:00"
   },
@@ -2200,11 +1831,7 @@
     "summary": "Sur les réseaux sociaux, la porte-parole de Lutte ouvrière a souhaité mettre en lumière la cause qui a poussé Luigi Mangione à passer à l’acte le 4 décembre à New York.",
     "thumbnail": "thumbnails/1he2n4g.webp",
     "tags": [
-      "Nathalie Arthaud",
-      "Luigi Mangione",
-      "Brian Thompson",
-      "New York",
-      "Société"
+      "Nathalie Arthaud"
     ],
     "analyzed_at": "2026-11-01T11:14:15.713410+00:00"
   },
@@ -2226,10 +1853,7 @@
     "summary": "Les salariés de l’Agco s’organisent contre les plans de licenciements annoncés par la direction. L’équipementier agricole prévoit la suppression de 133 postes sur l’ensemble du ...",
     "thumbnail": "thumbnails/1hdysl0.webp",
     "tags": [
-      "Agco",
-      "Beauvais",
-      "Gratuit",
-      "Société"
+      "Travail"
     ],
     "analyzed_at": "2026-11-01T11:14:16.065801+00:00"
   },
@@ -2251,38 +1875,9 @@
     "summary": "",
     "thumbnail": "thumbnails/1hdwyhu.webp",
     "tags": [
-      "Moody's",
-      "Aa3",
-      "François Bayrou",
-      "Politique"
+      "François Bayrou"
     ],
     "analyzed_at": "2026-11-01T11:14:15.688780+00:00"
-  },
-  {
-    "id": "1hdhj2a",
-    "title": "En Floride, une mère de famille arrêtée pour avoir proféré « Delay, deny, depose » lors d'un appel téléphonique à l'assureur santé BlueCross BlueShield : « You people are next »",
-    "url": "https://nypost.com/2024/12/12/us-news/florida-mom-arrested-for-saying-delay-deny-depose-on-call-with-bluecross-blueshield/",
-    "permalink": "/r/france/comments/1hdhj2a/en_floride_une_mère_de_famille_arrêtée_pour_avoir/",
-    "created_at": "2024-12-13T17:34:28+00:00",
-    "score": 410,
-    "num_comments": 92,
-    "subreddit": "france",
-    "author": "roux-cool",
-    "flair": "Société",
-    "domain": "nypost.com",
-    "selftext": "",
-    "reddit_thumbnail": "",
-    "ingested_at": "2026-11-01T11:02:04.666037+00:00",
-    "summary": "“Delay, deny, depose. You people are next,” the mom alleged told the health insurer during a call about a claim denial.",
-    "thumbnail": "",
-    "tags": [
-      "BlueCross BlueShield",
-      "Floride",
-      "Florida",
-      "Luigi Mangione",
-      "Société"
-    ],
-    "analyzed_at": "2026-11-01T11:14:16.258548+00:00"
   },
   {
     "id": "1hdhdxa",
@@ -2302,36 +1897,9 @@
     "summary": "Crise des opiacés : le cabinet McKinsey va payer 650 millions de dollars pour éviter un procès pénal aux États-Unis",
     "thumbnail": "thumbnails/1hdhdxa.webp",
     "tags": [
-      "McKinsey",
-      "États-Unis"
+      "Justice"
     ],
     "analyzed_at": "2026-11-01T11:14:16.051001+00:00"
-  },
-  {
-    "id": "1hdbmau",
-    "title": "“La démission d’Emmanuel Macron” à nouveau en tête des listes au Père Noël des Français",
-    "url": "https://www.legorafi.fr/2024/12/11/la-demission-demmanuel-macron-a-nouveau-en-tete-des-listes-au-pere-noel-des-francais/",
-    "permalink": "/r/france/comments/1hdbmau/la_démission_demmanuel_macron_à_nouveau_en_tête/",
-    "created_at": "2024-12-13T12:57:37+00:00",
-    "score": 768,
-    "num_comments": 34,
-    "subreddit": "france",
-    "author": "Caramel_Mou",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/YZvDEUGncAY_srlN6l6PIt5WYrsfsqY13OkjPWHsayU.jpg?auto=webp&s=f01feb01f2770145e27cc661b1204aa6faeea592",
-    "ingested_at": "2026-11-01T11:02:04.664690+00:00",
-    "summary": "Pour la 3e année consécutive, les Français sont une majorité à souhaiter la démission du Président de la République pour Noël.",
-    "thumbnail": "thumbnails/1hdbmau.webp",
-    "tags": [
-      "Emmanuel Macron",
-      "Père Noël des Français",
-      "Français",
-      "Noël",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T11:14:15.685940+00:00"
   },
   {
     "id": "1hdb5be",
@@ -2351,9 +1919,7 @@
     "summary": "",
     "thumbnail": "thumbnails/1hdb5be.webp",
     "tags": [
-      "François Bayrou",
-      "Premier",
-      "Politique"
+      "François Bayrou"
     ],
     "analyzed_at": "2026-11-01T11:14:18.459806+00:00"
   },
@@ -2374,13 +1940,7 @@
     "ingested_at": "2026-11-01T11:02:04.668017+00:00",
     "summary": "He’s a highly educated, heterodox, politically homeless moderate – and that fact should terrify us all",
     "thumbnail": "thumbnails/1hd9jwr.webp",
-    "tags": [
-      "American",
-      "Luigi Mangione",
-      "Democrats",
-      "Republicans",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:14:15.993411+00:00"
   },
   {
@@ -2400,13 +1960,7 @@
     "ingested_at": "2026-11-01T11:02:04.667966+00:00",
     "summary": "Aux Pays-Bas, une page d’histoire se tourne. Il n’y aura plus de défilé annuel de jeunes femmes en maillot ou robe longue : le concours annuel des Miss s’arrête au bout de 35 ans d’activité. C’est la…",
     "thumbnail": "thumbnails/1hd49xn.webp",
-    "tags": [
-      "Pays-Bas",
-      "Miss Pays-Bas",
-      "Droits des femmes",
-      "Europe",
-      "Culture"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:14:16.089863+00:00"
   },
   {
@@ -2427,37 +1981,9 @@
     "summary": "Emmanuel Macron est en Pologne ce jeudi, et la nomination interviendra «plutôt à son retour» dans la soirée, une semaine après la censure du",
     "thumbnail": "thumbnails/1hcs4uk.webp",
     "tags": [
-      "Élysée",
-      "Emmanuel Macron",
-      "Pologne",
-      "Ukraine",
-      "Politique"
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T11:14:16.216919+00:00"
-  },
-  {
-    "id": "1hcr51f",
-    "title": "Selon Elon Musk, les sans-abris n'existent pas : \"En réalité, ce ne sont que des zombies drogués\"",
-    "url": "https://www.netcost-security.fr/actualites/238191/selon-elon-musk-les-sans-abris-nexistent-pas-en-realite-ce-ne-sont-que-des-zombies-drogues/",
-    "permalink": "/r/france/comments/1hcr51f/selon_elon_musk_les_sansabris_nexistent_pas_en/",
-    "created_at": "2024-12-12T18:04:13+00:00",
-    "score": 311,
-    "num_comments": 161,
-    "subreddit": "france",
-    "author": "LeBoulu777",
-    "flair": "Société",
-    "domain": "netcost-security.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/0lRiX5o4wianLmMMMf5B7e8JJbK5crNeFPWFxi5MRAI.jpg?auto=webp&s=6d3e5454a9d48389b2bea221bfa61c3e5bc8311b",
-    "ingested_at": "2026-11-01T11:02:04.667025+00:00",
-    "summary": "Elon Musk défie la définition classique des sans-abri, les qualifiant de \"toxicos violents avec des problèmes mentaux\". Cette affirmation controversée soulève",
-    "thumbnail": "thumbnails/1hcr51f.webp",
-    "tags": [
-      "Elon Musk",
-      "San Francisco",
-      "Société"
-    ],
-    "analyzed_at": "2026-11-01T11:14:16.704741+00:00"
   },
   {
     "id": "1hcl0bk",
@@ -2477,9 +2003,7 @@
     "summary": "Alors que les scientifiques la considéraient disparue depuis plusieurs décennies, une loutre d’Europe a été filmée dans l’Eure.",
     "thumbnail": "thumbnails/1hcl0bk.webp",
     "tags": [
-      "Europe",
-      "Eure",
-      "Écologie"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T11:14:16.328787+00:00"
   },
@@ -2501,10 +2025,8 @@
     "summary": "Interrogé à l’Assemblée nationale, l’ancien ministre de l’économie a dénoncé «l’hypocrisie» des élus sur le redressement des finances publiques.",
     "thumbnail": "thumbnails/1hciw7e.webp",
     "tags": [
-      "Maire",
-      "Finances publiques",
-      "Bruno le Maire",
-      "Politique"
+      "Institutions",
+      "Budget et fiscalité"
     ],
     "analyzed_at": "2026-11-01T11:14:17.102815+00:00"
   },
@@ -2526,11 +2048,8 @@
     "summary": "Selon l’ONG de défense de la presse, «les forces armées israéliennes sont responsables de la mort» de dix-huit journalistes cette année, seize à Gaza et deux au Liban.",
     "thumbnail": "thumbnails/1hch1u0.webp",
     "tags": [
-      "RSF",
-      "Gaza",
-      "Israël",
-      "ONG",
-      "Journaliste"
+      "Médias",
+      "Conflit israélo-palestinien"
     ],
     "analyzed_at": "2026-11-01T11:14:17.046229+00:00"
   },
@@ -2552,39 +2071,10 @@
     "summary": "Reconnu coupable de détournement de fonds publics entre 2009 et 2017, l’ancien député LR va devoir quitter son mandat de maire de Caluire-et-Cuire et de conseiller à la métropole de Lyon. Le couple devra aussi payer près de 800 000 euros à l’Assemblée nationale.",
     "thumbnail": "thumbnails/1hceyxa.webp",
     "tags": [
-      "Philippe Cochet",
-      "LR",
-      "Caluire-et-Cuire",
-      "Assemblée",
-      "Politique"
+      "Justice",
+      "Travail"
     ],
     "analyzed_at": "2026-11-01T11:14:16.523520+00:00"
-  },
-  {
-    "id": "1hc0nfl",
-    "title": "Luigi Mangione Allegedly Considered Using Bomb to Murder CEO but Did Not Want to 'Kill Innocents': Source",
-    "url": "https://people.com/luigi-mangione-allegedly-considered-using-bomb-to-kill-healthcare-ceo-source-8759545",
-    "permalink": "/r/france/comments/1hc0nfl/luigi_mangione_allegedly_considered_using_bomb_to/",
-    "created_at": "2024-12-11T18:43:19+00:00",
-    "score": 497,
-    "num_comments": 78,
-    "subreddit": "france",
-    "author": "roux-cool",
-    "flair": "Société",
-    "domain": "people.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/zS_ZAYIQiHO-1lCxxq7Y4P7HJowO9KDhS0GK2ELzKBw.jpg?auto=webp&s=7dd361be444fcb8ef3806fed3c7c1a43105da79a",
-    "ingested_at": "2026-11-01T11:02:04.665269+00:00",
-    "summary": "Mangione was allegedly found with a notebook that contained a to-do list related to the murder. A source says he allegedly wrote that he did not want to \"kill innocents.\"",
-    "thumbnail": "thumbnails/1hc0nfl.webp",
-    "tags": [
-      "Murder CEO",
-      "Did Not Want",
-      "Kill Innocents",
-      "Mangione",
-      "Société"
-    ],
-    "analyzed_at": "2026-11-01T11:14:16.794515+00:00"
   },
   {
     "id": "1hc05tj",
@@ -2603,12 +2093,7 @@
     "ingested_at": "2026-11-01T11:02:04.665056+00:00",
     "summary": "À l’été 2022, Bernard Arnault panique à l’idée qu’un député LFI arrive à la tête de la commission des finances de l’Assemblée nationale. Des représentants du patron de LVMH demandent alors à faire cl…",
     "thumbnail": "thumbnails/1hc05tj.webp",
-    "tags": [
-      "Bernard Arnault",
-      "LFI",
-      "Assemblée",
-      "LVMH"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:14:17.461838+00:00"
   },
   {
@@ -2628,13 +2113,7 @@
     "ingested_at": "2026-11-01T11:02:04.665454+00:00",
     "summary": "Luigi Mangione's full manifesto was released by journalist Ken Klippenstein and later confirmed to be legitimate by police.",
     "thumbnail": "thumbnails/1hbvqjy.webp",
-    "tags": [
-      "Luigi Mangione",
-      "Ken Klippenstein",
-      "Luigi Mangione's",
-      "Mangione",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:14:17.030731+00:00"
   },
   {
@@ -2656,10 +2135,7 @@
     "thumbnail": "thumbnails/1hbs3zk.webp",
     "tags": [
       "Olivier Faure",
-      "Jean-Luc Mélenchon",
-      "LFI",
-      "Parti",
-      "Blabla"
+      "Jean-Luc Mélenchon"
     ],
     "analyzed_at": "2026-11-01T11:14:16.934875+00:00"
   },
@@ -2681,10 +2157,8 @@
     "summary": "",
     "thumbnail": "thumbnails/1hbrewp.webp",
     "tags": [
-      "PS",
-      "Premier",
-      "Bayrou",
-      "Politique"
+      "François Bayrou",
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T11:14:19.056546+00:00"
   },
@@ -2706,11 +2180,7 @@
     "summary": "Dans une étude publiée lundi, l'organisme rattaché à Matignon s'alarme de la désaffection des candidats aux concours publics.",
     "thumbnail": "thumbnails/1hbp8gi.webp",
     "tags": [
-      "France Stratégie",
-      "Matignon",
-      "État",
-      "Fonction publique",
-      "Politique"
+      "Travail"
     ],
     "analyzed_at": "2026-11-01T11:14:17.186326+00:00"
   },
@@ -2731,11 +2201,7 @@
     "ingested_at": "2026-11-01T11:02:04.666576+00:00",
     "summary": "",
     "thumbnail": "thumbnails/1hbd0lv.webp",
-    "tags": [
-      "Luigi Mangione",
-      "United Healthcare",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:14:24.342895+00:00"
   },
   {
@@ -2756,11 +2222,8 @@
     "summary": "Le procès des viols de Mazan se poursuit ce mardi, avec les plaidoiries de la défense devant la cour criminelle de Vaucluse. Une avocate, qui plaide l'acquittement, a estimé que Gisèle Pelicot a \"réagi\" sur la vidéo qui concerne son client. La principale victime, exaspérée, a quitté la salle.",
     "thumbnail": "thumbnails/1hbayje.webp",
     "tags": [
-      "Gisèle Pelicot",
-      "Mazan",
-      "Affaire des viols de Mazan",
-      "Vaucluse",
-      "Société"
+      "Violences sexuelles",
+      "Justice"
     ],
     "analyzed_at": "2026-11-01T11:14:18.041361+00:00"
   },
@@ -2781,7 +2244,9 @@
     "ingested_at": "2026-11-01T11:02:04.665196+00:00",
     "summary": "",
     "thumbnail": "thumbnails/1hazxe2.webp",
-    "tags": [],
+    "tags": [
+      "Police"
+    ],
     "analyzed_at": "2026-11-01T11:14:24.409984+00:00"
   },
   {
@@ -2802,11 +2267,7 @@
     "summary": "Le 1er novembre, Mauricia Guenengaye et son conjoint se présentent devant les urgenc...",
     "thumbnail": "thumbnails/1haymyk.webp",
     "tags": [
-      "Mauricia Guenengaye",
-      "« avait",
-      "Bleues »",
-      "Hôpital",
-      "Fait Divers"
+      "Santé"
     ],
     "analyzed_at": "2026-11-01T11:14:18.526317+00:00"
   },
@@ -2828,9 +2289,8 @@
     "summary": "",
     "thumbnail": "thumbnails/1hapzx9.webp",
     "tags": [
-      "Marine le Pen et Jean-Luc Mélenchon",
-      "Bachar Al-Assad",
-      "Politique"
+      "Jean-Luc Mélenchon",
+      "Marine Le Pen"
     ],
     "analyzed_at": "2026-11-01T11:14:17.770459+00:00"
   },
@@ -2852,11 +2312,8 @@
     "summary": "Les salariés Free de Marseille, Bordeaux et Paris sont appelés à la grève ce lundi 9 décembre, après l’annonce la semaine dernière de la fin du télétravail dans les centres d’appels, Proxi et Free réseau. Le groupe de Xavier...",
     "thumbnail": "thumbnails/1haedum.webp",
     "tags": [
-      "Free",
-      "Free de Marseille",
-      "Paris",
-      "Xavier",
-      "Société"
+      "Travail",
+      "Grèves et syndicats"
     ],
     "analyzed_at": "2026-11-01T11:14:17.877764+00:00"
   },
@@ -2877,12 +2334,7 @@
     "ingested_at": "2026-11-01T11:02:04.665637+00:00",
     "summary": "En vertu de théories infondées, de nombreux ostéopathes réalisent des gestes depuis l’intérieur du vagin ou du rectum de leurs patients. Une pratique illégale qui se retrouve dans de nombreuses affaires de viol.",
     "thumbnail": "thumbnails/1ha5gxg.webp",
-    "tags": [
-      "Sciences et Santé",
-      "Sciences",
-      "Santé",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:14:18.571702+00:00"
   },
   {
@@ -2902,13 +2354,7 @@
     "ingested_at": "2026-11-01T11:02:04.668126+00:00",
     "summary": "La 9e édition du Dictionnaire de l’Académie française, remise le 14 novembre au président de la République, a suscité de vives polémiques autour de définitions archaïques de la société. Plusieurs linguistes militent pour la création d’une nouvelle instance chargée de réfléchir aux évolutions de la langue française.",
     "thumbnail": "thumbnails/1h9qt23.webp",
-    "tags": [
-      "Académie",
-      "Dictionnaire de Académie",
-      "République",
-      "DAF",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:14:18.506955+00:00"
   },
   {
@@ -2929,11 +2375,7 @@
     "summary": "La Russie a accordé l'asile à Bachar al-Assad et à sa famille qui se trouvent à Moscou, ont révélé des agences russes, citant une source au Kremlin. Joe Biden a estimé qu'il devrait \"rendre des comptes\".…",
     "thumbnail": "thumbnails/1h9d8sk.webp",
     "tags": [
-      "Damas",
-      "Bachar",
-      "Syrie",
-      "OSDH",
-      "Moyen-Orient"
+      "Joe Biden"
     ],
     "analyzed_at": "2026-11-01T11:14:18.733030+00:00"
   },
@@ -2954,35 +2396,8 @@
     "ingested_at": "2026-11-01T11:02:04.664913+00:00",
     "summary": "Alors qu'une crise démographique touche le Japon depuis plusieurs années, la ville de Tokyo souhaite stimuler la fertilité chez ses employés municipaux avec plus de temps accordé en famille.",
     "thumbnail": "thumbnails/1h8tjbs.webp",
-    "tags": [
-      "Tokyo",
-      "Japon"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:14:19.078447+00:00"
-  },
-  {
-    "id": "1h8fvj5",
-    "title": "États-Unis: La mort de l’assureur santé abattu à New York suscite railleries et sarcasmes",
-    "url": "https://www.tdg.ch/pluie-de-commentaires-sarcastiques-apres-la-mort-du-patron-du-geant-americain-de-lassurance-sante-549241358509",
-    "permalink": "/r/france/comments/1h8fvj5/étatsunis_la_mort_de_lassureur_santé_abattu_à_new/",
-    "created_at": "2024-12-07T00:17:10+00:00",
-    "score": 737,
-    "num_comments": 341,
-    "subreddit": "france",
-    "author": "roux-cool",
-    "flair": "Société",
-    "domain": "tdg.ch",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/LbLLiU040fUdI7jQCSDeIV7vqOrhK-ZKPNeVNOMxP9k.jpg?auto=webp&s=d961381e04f601e672793b9fe4f7cc0048ded789",
-    "ingested_at": "2026-11-01T11:02:04.664715+00:00",
-    "summary": "Le dÃ©ferlement de publications acerbes au lendemain de son dÃ©cÃ¨s illustre le dÃ©saveu de la population amÃ©ricaine envers le secteur de lâassurance santÃ©.",
-    "thumbnail": "thumbnails/1h8fvj5.webp",
-    "tags": [
-      "New York",
-      "UnitedHealthcare",
-      "Société"
-    ],
-    "analyzed_at": "2026-11-01T11:14:19.256088+00:00"
   },
   {
     "id": "1h851jp",
@@ -3002,10 +2417,8 @@
     "summary": "L’enseignante en question a porté plainte. Une enquête a été ouverte et confiée à la gendarmerie.",
     "thumbnail": "thumbnails/1h851jp.webp",
     "tags": [
-      "Recep Tayyip Erdogan",
-      "Erdogan",
-      "Enseignants",
-      "Fait Divers"
+      "Recep Tayyip Erdoğan",
+      "Éducation"
     ],
     "analyzed_at": "2026-11-01T11:14:19.602599+00:00"
   },
@@ -3027,11 +2440,7 @@
     "summary": "Un contrôle d’inspection du lycée privé musulman Al-Kindi de Décines-Charpieu a révélé des «manquements grave» selon la préfecture du Rhône. Ce dont se défend l’établissement, dernier lycée sous-contrat de France après le retrait du contrat du lycée Averroès de Lille.",
     "thumbnail": "thumbnails/1h81y9e.webp",
     "tags": [
-      "Lyon",
-      "Islam",
-      "Radicalisation",
-      "Rhône",
-      "Société"
+      "Éducation"
     ],
     "analyzed_at": "2026-11-01T11:14:19.650411+00:00"
   },
@@ -3053,11 +2462,7 @@
     "summary": "Une haute juridiction roumaine a annulé le premier tour de l'élection présidentielle du pays, quelques jours après que des informations déclassifiées ont affirmé que la Russie avait mené une campagne coordonnée en ligne pour promouvoir l'outsider d'extrême droite qui a remporté le vote. #EuropeNews",
     "thumbnail": "thumbnails/1h81glr.webp",
     "tags": [
-      "Cour",
-      "Russie",
-      "Constitution",
-      "Roumanie",
-      "Politique"
+      "Élection présidentielle"
     ],
     "analyzed_at": "2026-11-01T11:14:19.458986+00:00"
   },
@@ -3079,10 +2484,7 @@
     "summary": "C'est son homologue bahreïni qui l'aurait prévenu après avoir reçu un SMS inhabituel de sa part",
     "thumbnail": "thumbnails/1h7wl9x.webp",
     "tags": [
-      "Jean-Noël Barrot",
-      "Affaires",
-      "SMS",
-      "Politique"
+      "Numérique"
     ],
     "analyzed_at": "2026-11-01T11:14:19.661998+00:00"
   },
@@ -3104,11 +2506,7 @@
     "summary": "Une action surprise de la Confédération paysanne contre le libre-échange a donné lieu à des heurts avec la police, devant le Grand Palais à Paris",
     "thumbnail": "thumbnails/1h7d0ma.webp",
     "tags": [
-      "Confédération",
-      "Paris",
-      "Grand Palais",
-      "AFP type FGT",
-      "Société"
+      "Police"
     ],
     "analyzed_at": "2026-11-01T11:14:19.773385+00:00"
   },
@@ -3130,11 +2528,9 @@
     "summary": "VIDÉO - Au lendemain d'une censure historique, Michel Barnier est attendu ce jeudi 5 décembre à 10h à l'Élysée pour présenter sa démission à Emmanuel Macron. Le chef de l'État va s'exprimer à 20 heures à la télévision pour tenter de fixer un cap alors que s'ouvre une nouvelle période politique d'une rare...",
     "thumbnail": "thumbnails/1h7b07a.webp",
     "tags": [
-      "Stéphane Vojetta",
-      "Ensemble",
       "Michel Barnier",
-      "Élysée",
-      "Politique"
+      "Institutions",
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T11:14:19.706688+00:00"
   },
@@ -3157,37 +2553,9 @@
     "thumbnail": "thumbnails/1h76xx6.webp",
     "tags": [
       "Ségolène Royal",
-      "Matignon",
-      "Michel Barnier",
-      "Premier",
-      "Politique"
+      "Michel Barnier"
     ],
     "analyzed_at": "2026-11-01T11:14:33.673745+00:00"
-  },
-  {
-    "id": "1h759va",
-    "title": "Manuel Valls s’introduit à Matignon après qu’un employé a laissé une fenêtre ouverte",
-    "url": "https://www.legorafi.fr/2024/12/05/manuel-valls-sintroduit-a-matignon-apres-quun-employe-a-laisse-une-fenetre-ouverte/",
-    "permalink": "/r/france/comments/1h759va/manuel_valls_sintroduit_à_matignon_après_quun/",
-    "created_at": "2024-12-05T09:20:37+00:00",
-    "score": 1208,
-    "num_comments": 56,
-    "subreddit": "france",
-    "author": "AllAloneInKyoto",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/jV4NPt3hwwn0iqmb6ctM27xJSrwiG98olUM3fmMPk2g.jpeg?auto=webp&s=9d331f8358977852e097ee1fbdde05aa0ab11e0d",
-    "ingested_at": "2026-11-01T11:02:04.664423+00:00",
-    "summary": "Suite à une négligence d'un employé de ménage, Manuel Valls a réussi à s'introduire dans Matignon cette nuit avant d'être reconduit à l'extérieur du bâtiment.",
-    "thumbnail": "thumbnails/1h759va.webp",
-    "tags": [
-      "Manuel Valls",
-      "Matignon",
-      "Michel Barnier",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T11:14:19.875342+00:00"
   },
   {
     "id": "1h74u4e",
@@ -3207,11 +2575,7 @@
     "summary": "En attente de leur procès devant le juge des enfants, trois élèves de 15 à 16 ans ont interdiction de se rendre au lycée Rempart-Vinci de Marseille, où un professeur a été menacé de mort sur les réseaux sociaux.",
     "thumbnail": "thumbnails/1h74u4e.webp",
     "tags": [
-      "Snapchat",
-      "Menaces de mort",
-      "Rempart-Vinci de Marseille",
-      "Marseille",
-      "Fait Divers"
+      "Éducation"
     ],
     "analyzed_at": "2026-11-01T11:14:20.470002+00:00"
   },
@@ -3234,10 +2598,7 @@
     "thumbnail": "thumbnails/1h74lqo.webp",
     "tags": [
       "Emmanuel Macron",
-      "Gouvernement Barnier",
-      "Etat",
-      "Français",
-      "Politique"
+      "Michel Barnier"
     ],
     "analyzed_at": "2026-11-01T11:14:20.897428+00:00"
   },
@@ -3258,11 +2619,7 @@
     "ingested_at": "2026-11-01T11:02:04.665895+00:00",
     "summary": "",
     "thumbnail": "thumbnails/1h73xb4.webp",
-    "tags": [
-      "Brian Thompson",
-      "Etats-Unis",
-      "New York"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:14:27.467791+00:00"
   },
   {
@@ -3283,11 +2640,7 @@
     "summary": "Une décision de justice doit être rendue jeudi sur le sort des orques du parc animalier Marineland, qui envisageait un transfert controversé au Japon.",
     "thumbnail": "thumbnails/1h6evql.webp",
     "tags": [
-      "Marineland",
-      "Antibes",
-      "Bien être animal",
-      "Japon",
-      "Écologie"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T11:14:20.846647+00:00"
   },
@@ -3309,10 +2662,7 @@
     "summary": "Tout juste nommée préfète de l’Isère, Catherine Séguin a inscrit son fils à la Cité scolaire internationale de Grenoble. Sans passer les tests obligatoires pour intégrer cet établissement convoité. A…",
     "thumbnail": "thumbnails/1h6e3o5.webp",
     "tags": [
-      "Grenoble",
-      "Isère",
-      "Cité",
-      "Catherine Séguin"
+      "Éducation"
     ],
     "analyzed_at": "2026-11-01T11:14:20.207773+00:00"
   },
@@ -3334,11 +2684,8 @@
     "summary": "Emmanuel Macron a annoncé mardi qu'il allait coprésider avec le prince héritier et dirigeant de facto de l'Arabie saoudite Mohammed ben Salmane une conférence sur la création d'un État palestinien en juin 2025.",
     "thumbnail": "thumbnails/1h6bp69.webp",
     "tags": [
-      "État",
-      "France et Arabie",
       "Emmanuel Macron",
-      "Arabie",
-      "Politique"
+      "Conflit israélo-palestinien"
     ],
     "analyzed_at": "2026-11-01T11:14:20.506371+00:00"
   },
@@ -3360,11 +2707,7 @@
     "summary": "Des militants de la CGT ont manifesté ce mardi 3 décembre à midi devant un restaurant d’une chaîne asiatique afin d’exiger de cet employeur et de l’État qu’ils assument le...",
     "thumbnail": "thumbnails/1h6aqnz.webp",
     "tags": [
-      "Albi",
-      "CGT",
-      "État",
-      "Gratuit",
-      "Société"
+      "Grèves et syndicats"
     ],
     "analyzed_at": "2026-11-01T11:14:21.476697+00:00"
   },
@@ -3387,8 +2730,7 @@
     "thumbnail": "thumbnails/1h5u8np.webp",
     "tags": [
       "Emmanuel Macron",
-      "Barnier",
-      "Politique"
+      "Michel Barnier"
     ],
     "analyzed_at": "2026-11-01T11:14:21.039464+00:00"
   },
@@ -3409,13 +2751,7 @@
     "ingested_at": "2026-11-01T11:02:04.666414+00:00",
     "summary": "Dans une allocution surprise, le conservateur Yoon Suk-yeol a annoncé cette mesure destinée selon lui à \"éliminer les éléments anti-étatiques\" et \"les menaces posées par les forces communistes nord-coréennes\".",
     "thumbnail": "thumbnails/1h5ohe6.webp",
-    "tags": [
-      "Yoon Suk-yeol",
-      "Corée du Sud",
-      "Corée du Nord",
-      "Parlement",
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:14:21.430907+00:00"
   },
   {
@@ -3436,11 +2772,8 @@
     "summary": "Deux ans après l'ouverture en accès libre de ChatGPT, de nombreux élèves ont appris à s'en servir, parfois comme une simple aide à la rédaction, parfois pour écrire des devoirs entiers à leur place. Une évolution qui contraint déjà les enseignants à adapter leur correction ou leurs exercices.",
     "thumbnail": "thumbnails/1h5nl1y.webp",
     "tags": [
-      "ChatGPT",
-      "IA",
       "Intelligence artificielle",
-      "Tech / Web",
-      "Société"
+      "Éducation"
     ],
     "analyzed_at": "2026-11-01T11:14:21.527986+00:00"
   },
@@ -3462,9 +2795,8 @@
     "summary": "Huit arrêtés d’interdiction de manifestations de mars 2023 contre la réforme des retraites ont été annulés par le tribunal administratif de Paris. Les personnes verbalisées pourron...",
     "thumbnail": "thumbnails/1h5lpkt.webp",
     "tags": [
-      "Paris",
-      "Gratuit",
-      "Économie"
+      "Retraites",
+      "Manifestations"
     ],
     "analyzed_at": "2026-11-01T11:14:22.129984+00:00"
   },
@@ -3486,8 +2818,8 @@
     "summary": "",
     "thumbnail": "thumbnails/1h5hslh.webp",
     "tags": [
-      "Musk",
-      "Tesla"
+      "Elon Musk",
+      "Justice"
     ],
     "analyzed_at": "2026-11-01T11:14:21.783698+00:00"
   },
@@ -3509,37 +2841,12 @@
     "summary": "",
     "thumbnail": "thumbnails/1h4ws2a.webp",
     "tags": [
-      "Assemblée",
       "Michel Barnier",
-      "Constitution",
-      "Sécurité",
-      "Politique"
+      "Institutions",
+      "Protection sociale",
+      "Budget et fiscalité"
     ],
     "analyzed_at": "2026-11-01T11:14:21.634213+00:00"
-  },
-  {
-    "id": "1h4un9m",
-    "title": "Une touriste millionnaire fait croire qu’on lui a volé sa montre et accuse des Maghrébins : elle avait tout inventé pour se venger de son assurance",
-    "url": "https://www.centrepresseaveyron.fr/2024/12/01/une-touriste-millionnaire-fait-croire-quon-lui-a-vole-sa-montre-et-accuse-des-maghrebins-elle-avait-tout-invente-pour-se-venger-de-son-assurance-12359093.php",
-    "permalink": "/r/france/comments/1h4un9m/une_touriste_millionnaire_fait_croire_quon_lui_a/",
-    "created_at": "2024-12-02T13:12:15+00:00",
-    "score": 547,
-    "num_comments": 55,
-    "subreddit": "france",
-    "author": "Ed_Dantesk",
-    "flair": "Fait Divers",
-    "domain": "centrepresseaveyron.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://b.thumbs.redditmedia.com/fwQj_shoiWwscjemyvexjd2pOrOtVytj9Eu-vZ3Nm3c.jpg",
-    "ingested_at": "2026-11-01T11:02:04.665079+00:00",
-    "summary": "Les gendarmes ont vu la riche touriste enlever elle-même sa montre au moment de consulter les caméras, elle a tenté de s’expliquer devant le tribunal correctionnel.",
-    "thumbnail": "thumbnails/1h4un9m.webp",
-    "tags": [
-      "Maghrébins",
-      "Monaco",
-      "Fait Divers"
-    ],
-    "analyzed_at": "2026-11-01T11:14:21.968480+00:00"
   },
   {
     "id": "1h4tkub",
@@ -3558,13 +2865,7 @@
     "ingested_at": "2026-11-01T11:02:04.666599+00:00",
     "summary": "De petites fioles contenant un liquide à l’odeur nauséabonde ont été répandues par des militants d’Extinction Rébellion dans les cabines d’essayage de boutiques d’habillement de la Presqu’île de Lyon samedi.",
     "thumbnail": "thumbnails/1h4tkub.webp",
-    "tags": [
-      "Extinction Rébellion",
-      "Black Friday",
-      "Lyon",
-      "Friday",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:14:22.549273+00:00"
   },
   {
@@ -3585,35 +2886,9 @@
     "summary": "",
     "thumbnail": "thumbnails/1h4rxuk.webp",
     "tags": [
-      "Monde"
+      "Budget et fiscalité"
     ],
     "analyzed_at": "2026-11-01T11:14:22.257325+00:00"
-  },
-  {
-    "id": "1h4qvh8",
-    "title": "Unmasked: The defiant doctor who prescribed fistfuls of sedatives to the French husband at heart of world's most shocking rape trial... and this is what he has to say for himself",
-    "url": "https://www.dailymail.co.uk/news/article-14145847/Unmasked-doctor-sedatives-French-husband-heart-worlds-shocking-rape-trial-evil-elixir-Dominique-Pelicot.html",
-    "permalink": "/r/france/comments/1h4qvh8/unmasked_the_defiant_doctor_who_prescribed/",
-    "created_at": "2024-12-02T09:02:05+00:00",
-    "score": 362,
-    "num_comments": 62,
-    "subreddit": "france",
-    "author": "Prosperyouplaboum",
-    "flair": "Société",
-    "domain": "dailymail.co.uk",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/uM3wK5gkO5thGrujBXZv2P5Yd0pkXTOToJFrjcx-0gQ.jpg?auto=webp&s=e1cc1df464d4117ccacdfa1e6c2a29022efc115a",
-    "ingested_at": "2026-11-01T11:02:04.666507+00:00",
-    "summary": "Dawn breaks over Mazan and in a cobbled square three patients huddle outside a GP's surgery. As the church bells clang, the man they have come to see steps jauntily out of his black Vauxhall Zafira.",
-    "thumbnail": "thumbnails/1h4qvh8.webp",
-    "tags": [
-      "French",
-      "Mazan",
-      "GP's",
-      "Vauxhall Zafira",
-      "Société"
-    ],
-    "analyzed_at": "2026-11-01T11:14:23.656846+00:00"
   },
   {
     "id": "1h4qomz",
@@ -3633,8 +2908,7 @@
     "summary": "",
     "thumbnail": "thumbnails/1h4qomz.webp",
     "tags": [
-      "Joe Biden",
-      "Hunter"
+      "Joe Biden"
     ],
     "analyzed_at": "2026-11-01T11:14:22.484401+00:00"
   },
@@ -3655,9 +2929,7 @@
     "ingested_at": "2026-11-01T11:02:04.665528+00:00",
     "summary": "La Belgique devient le premier pays au monde à permettre aux travailleurs et travailleuses du sexe de signer contrat de travail, et donc de bénéficier d'une véritable protection sociale.",
     "thumbnail": "thumbnails/1h41wze.webp",
-    "tags": [
-      "Belgique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T11:14:22.485323+00:00"
   },
   {
@@ -3678,7 +2950,9 @@
     "summary": "Elles annoncent la création d'un site dédié, qui doit servir de \"cadre de réflexion et d'actions communes, afin de gagner la bataille culturelle contre la droite et l'extrême droite\".",
     "thumbnail": "thumbnails/1h41ssp.webp",
     "tags": [
-      "Marine Tondelier et Lucie Castets",
+      "Marine Tondelier",
+      "Lucie Castets",
+      "Élection présidentielle",
       "Jean-Luc Mélenchon"
     ],
     "analyzed_at": "2026-11-01T11:14:23.303031+00:00"
@@ -3701,7 +2975,6 @@
     "summary": "Donald Trump a menacé samedi les pays des BRICS de droits de douane «à 100%» s'ils sapent la domination du dollar, certains de ces puissants pays...",
     "thumbnail": "thumbnails/1h3ztny.webp",
     "tags": [
-      "BRICS",
       "Donald Trump"
     ],
     "analyzed_at": "2026-11-01T11:14:22.951496+00:00"
@@ -3725,10 +2998,7 @@
     "thumbnail": "thumbnails/1h3xf45.webp",
     "tags": [
       "Michel Barnier",
-      "CHU de France",
-      "Trappes",
-      "CHU",
-      "Économie"
+      "Santé"
     ],
     "analyzed_at": "2026-11-01T11:14:23.182235+00:00"
   }

@@ -1,0 +1,42 @@
+{% extends "base.html" %}
+{% load filnews_tags %}
+
+{% block title %}Le fil de la présidentielle 2027 : candidats et actualité — {{ SITE_NAME }}{% endblock %}
+{% block description %}Toute l'actualité de la présidentielle 2027 vue par r/france : les candidats déclarés et pressentis, et le fil de la campagne, news après news.{% endblock %}
+{% block og_title %}Le fil de la présidentielle 2027 — {{ SITE_NAME }}{% endblock %}
+{% block og_description %}Les candidats et le fil de la campagne présidentielle 2027, vus par r/france.{% endblock %}
+{% block structured_data %}{% breadcrumb_ld "Accueil" "/" "Présidentielle 2027" request.path %}{% endblock %}
+
+{% block content %}
+{% include "partials/breadcrumb.html" with current="Présidentielle 2027" %}
+<header class="page-header">
+  <h1 class="page-title"><span class="page-title__kicker">Le fil de la présidentielle</span> {{ election_name }}</h1>
+  <p class="page-intro">Premier tour prévu le {{ first_round|date:"j F Y" }}. Les candidats, leurs fils, et toute la campagne telle qu'elle est discutée sur r/france depuis {{ campaign_start|date:"F Y" }}.</p>
+</header>
+
+<section class="candidates" aria-labelledby="candidates-title">
+  <h2 class="section-title" id="candidates-title">Les candidats</h2>
+  <ul class="candidate-grid">
+    {% for item in candidates %}
+    <li class="candidate">
+      <p class="candidate__status candidate__status--{% if item.candidate.is_declared %}declared{% else %}potential{% endif %}">{% if item.candidate.is_declared %}Candidature déclarée{% else %}Candidature pressentie{% endif %}</p>
+      <h3 class="candidate__name"><a href="{% url 'election_candidate' item.candidate.slug %}">{{ item.candidate.name }}</a></h3>
+      <p class="candidate__party">{{ item.candidate.party }}</p>
+      <p class="candidate__count">{{ item.count }} news depuis {{ campaign_start|date:"Y" }}</p>
+      {% include "partials/tag_list.html" with tags=item.tags label="Fils associés" %}
+    </li>
+    {% endfor %}
+  </ul>
+  <p class="candidates__note">Liste établie d'après l'actualité, mise à jour à la main. Chaque candidat est rattaché aux fils indiqués : toutes les news qui portent ces fils alimentent son fil de campagne.</p>
+</section>
+
+<section aria-labelledby="thread-title">
+  <h2 class="section-title" id="thread-title">Le fil de la campagne</h2>
+  {% if thread %}
+  <p class="thread__summary">{{ thread|length }} news, de la plus récente à la plus ancienne.</p>
+  {% include "partials/thread.html" %}
+  {% else %}
+  <p>Pas encore de news sur la campagne.</p>
+  {% endif %}
+</section>
+{% endblock %}

@@ -16,10 +16,7 @@
     "ingested_at": "2026-11-01T10:35:17.096852+00:00",
     "summary": "",
     "thumbnail": "thumbnails/11enioi.webp",
-    "tags": [
-      "Suisse",
-      "Royaume-Uni"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:44:00.322805+00:00"
   },
   {
@@ -40,11 +37,7 @@
     "summary": "La justice française a jugé mardi \"irrecevables\" les demandes de six ONG contre un projet controversé d'oléoduc et de forages pétroliers de TotalEnergies en Ouganda et en Tanzanie. Les organisations…",
     "thumbnail": "thumbnails/11emxro.webp",
     "tags": [
-      "TotalEnergies",
-      "ONG",
-      "Ouganda",
-      "Tanzanie",
-      "Afrique"
+      "Justice"
     ],
     "analyzed_at": "2026-11-01T10:44:00.299837+00:00"
   },
@@ -66,9 +59,7 @@
     "summary": "Le ministre du Travail avait avancé ces dernières semaines le chiffre de 40 000 bénéficiaires, avant que le député socialiste Jérôme Guedj n",
     "thumbnail": "thumbnails/11efi1w.webp",
     "tags": [
-      "Olivier Dussopt",
-      "Travail",
-      "Jérôme Guedj"
+      "Retraites"
     ],
     "analyzed_at": "2026-11-01T10:44:00.963144+00:00"
   },
@@ -89,7 +80,10 @@
     "ingested_at": "2026-11-01T10:35:17.096385+00:00",
     "summary": "",
     "thumbnail": "thumbnails/11eaoyr.webp",
-    "tags": [],
+    "tags": [
+      "Emmanuel Macron",
+      "Éducation"
+    ],
     "analyzed_at": "2026-11-01T10:44:01.422317+00:00"
   },
   {
@@ -110,10 +104,7 @@
     "summary": "Comme 200 autres employés de Twitter, Esther Crawford a été licenciée ce week-end par Elon Musk. L'ex-cheffe de produit du réseau social était pourtant connue pour son dévouement à toute épreuve envers le le fantasque milliardaire.",
     "thumbnail": "thumbnails/11dhti6.webp",
     "tags": [
-      "Twitter",
-      "Elon Musk",
-      "Esther Crawford",
-      "Société"
+      "Elon Musk"
     ],
     "analyzed_at": "2026-11-01T10:44:00.681447+00:00"
   },
@@ -135,9 +126,7 @@
     "summary": "Parmi les personnes mises à la porte: la tête pensante de Twitter Blue, l’abonnement de Twitter censé assainir les finances du réseau social.",
     "thumbnail": "thumbnails/11dejj6.webp",
     "tags": [
-      "Twitter",
-      "Elon Musk",
-      "Twitter Blue"
+      "Elon Musk"
     ],
     "analyzed_at": "2026-11-01T10:44:00.610542+00:00"
   },
@@ -159,11 +148,7 @@
     "summary": "Marine Le Pen avait soutenu le ministre du Travail lorsqu’il avait été traité d’« assassin » par le député LFI Aurélien Saintoul.",
     "thumbnail": "thumbnails/11dadun.webp",
     "tags": [
-      "Marine le Pen",
-      "Olivier Dussopt",
-      "Nupes",
-      "Travail",
-      "Trompeur ?"
+      "Marine Le Pen"
     ],
     "analyzed_at": "2026-11-01T10:44:01.212114+00:00"
   },
@@ -184,12 +169,7 @@
     "ingested_at": "2026-11-01T10:35:17.095615+00:00",
     "summary": "INTRVIEW - Le groupe d’électronique français Thales embauchera plus de 12 000 salariés en 2023. Son PDG, Patrice Caine, estime que le nombre d’ingénieurs en France est insuffisant et appelle à en former davantage.",
     "thumbnail": "thumbnails/11d68az.webp",
-    "tags": [
-      "Patrice Caine",
-      "PDG de Thalès",
-      "Thales",
-      "PDG"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:44:01.209606+00:00"
   },
   {
@@ -210,11 +190,7 @@
     "summary": "Urgent action needed as DNA tests show their genetic diversity is so low they could vanish from the country in 30 years",
     "thumbnail": "thumbnails/11cgcko.webp",
     "tags": [
-      "DNA",
-      "Europe",
-      "Switzerland",
-      "Biodiversity",
-      "Écologie"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T10:44:01.114332+00:00"
   },
@@ -236,7 +212,7 @@
     "summary": "Le premier jour du salon de l'agriculture 2023 a été marqué par une forte affluence, mais surtout par un grand nombre de visiteurs très alcoolisés.",
     "thumbnail": "thumbnails/11cga3s.webp",
     "tags": [
-      "France 3"
+      "Agriculture"
     ],
     "analyzed_at": "2026-11-01T10:44:01.168996+00:00"
   },
@@ -257,9 +233,7 @@
     "ingested_at": "2026-11-01T10:35:17.095096+00:00",
     "summary": "",
     "thumbnail": "thumbnails/11c78ed.webp",
-    "tags": [
-      "SUV"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:44:01.469992+00:00"
   },
   {
@@ -280,8 +254,7 @@
     "summary": "Les propos du président Kaïs Saïed dénonçant la présence de migrants subsahariens dans son pays ont suscité un tollé. Une manifestation anti-raciste est prévue samedi.",
     "thumbnail": "thumbnails/11bvig8.webp",
     "tags": [
-      "Tunisie",
-      "Kaïs Saïed"
+      "Racisme"
     ],
     "analyzed_at": "2026-11-01T10:44:02.006547+00:00"
   },
@@ -302,10 +275,7 @@
     "ingested_at": "2026-11-01T10:35:17.096806+00:00",
     "summary": "",
     "thumbnail": "thumbnails/11bp93n.webp",
-    "tags": [
-      "TikTok",
-      "Fait Divers"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:44:03.066375+00:00"
   },
   {
@@ -326,11 +296,8 @@
     "summary": "Un message contre le droit à l'avortement a été inscrit en rouge sur la façade des locaux à Bordeaux. L'association a déposé une nouvelle plainte \"pour délit d'entrave à l'IVG\".",
     "thumbnail": "thumbnails/11aoify.webp",
     "tags": [
-      "Planning",
-      "IVG",
-      "Gironde",
-      "Bordeaux",
-      "Fait Divers"
+      "Extrême droite",
+      "Droits des femmes"
     ],
     "analyzed_at": "2026-11-01T10:44:01.786321+00:00"
   },
@@ -351,7 +318,9 @@
     "ingested_at": "2026-11-01T10:35:17.096040+00:00",
     "summary": "",
     "thumbnail": "thumbnails/11aoeqq.webp",
-    "tags": [],
+    "tags": [
+      "Immigration"
+    ],
     "analyzed_at": "2026-11-01T10:44:01.611646+00:00"
   },
   {
@@ -372,10 +341,7 @@
     "summary": "Christophe Béchu appelle mercredi sur franceinfo à \"sortir du déni\", à construire une stratégie \"d'atténuation\" pour se \"préparer au pire\".",
     "thumbnail": "thumbnails/11am586.webp",
     "tags": [
-      "Christophe Béchu",
-      "Crise climatique",
-      "Environnement",
-      "Politique"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T10:44:01.972275+00:00"
   },
@@ -397,10 +363,8 @@
     "summary": "",
     "thumbnail": "thumbnails/119vaog.webp",
     "tags": [
-      "EDF",
-      "Total",
       "Fabien Roussel",
-      "Société"
+      "Énergie"
     ],
     "analyzed_at": "2026-11-01T10:44:02.748766+00:00"
   },
@@ -422,31 +386,9 @@
     "summary": "",
     "thumbnail": "thumbnails/119v1ih.webp",
     "tags": [
-      "Bezos"
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T10:44:02.904278+00:00"
-  },
-  {
-    "id": "119sluv",
-    "title": "Une longue étude réfute les liens entre les jeux vidéo violents chez les jeunes et la violence chez les adultes",
-    "url": "https://sciencepost.fr/une-longue-etude-refute-les-liens-entre-les-jeux-video-violents-chez-les-jeunes-et-la-violence-chez-les-adultes/",
-    "permalink": "/r/france/comments/119sluv/une_longue_étude_réfute_les_liens_entre_les_jeux/",
-    "created_at": "2023-02-23T08:26:29+00:00",
-    "score": 858,
-    "num_comments": 203,
-    "subreddit": "france",
-    "author": "Rerel",
-    "flair": "Science",
-    "domain": "sciencepost.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/KQZzTsBg4-8be1V8rD5hjHSOfiX-1FitcIgi58pBfc0.jpeg?auto=webp&s=9f738d4b36ce1c60248768b2b4f016d3bc1aa573",
-    "ingested_at": "2026-11-01T10:35:17.095020+00:00",
-    "summary": "Les jeux vidéo ont souvent mauvaise réputation, en raison de la présence de jeux parfois très violents. Une nouvelle étude menée sur une...",
-    "thumbnail": "thumbnails/119sluv.webp",
-    "tags": [
-      "Science"
-    ],
-    "analyzed_at": "2026-11-01T10:44:02.463256+00:00"
   },
   {
     "id": "118w2xx",
@@ -466,11 +408,7 @@
     "summary": "Une professeure de 53 ans a été tuée en plein cours dans sa classe ce mercredi 22 février 2023 dans son lycée privé Saint-Thomas d'Aquin à St-Jean-de-Luz dans les Pyrénées-Atlantiques. Un élève de 16 ans est mis en cause....",
     "thumbnail": "thumbnails/118w2xx.webp",
     "tags": [
-      "St-Jean-de-Luz",
-      "Saint-Thomas Aquin",
-      "Pyrénées-Atlantiques",
-      "Saint Jean de Luz",
-      "Fait Divers"
+      "Éducation"
     ],
     "analyzed_at": "2026-11-01T10:44:02.569198+00:00"
   },
@@ -491,13 +429,7 @@
     "ingested_at": "2026-11-01T10:35:17.094920+00:00",
     "summary": "Lorsque \"Le Canard enchaîné\" dévoile le taux d'imposition \"riquiqui\" de Bernard Arnault, début février, aucun média ou presque ne juge l'information digne d'intérêt. Le palmipède dénonce l'omerta en évoquant le poids de la publicité de LVMH dans la presse ? Il ne se passe toujours rien.",
     "thumbnail": "thumbnails/118tlii.webp",
-    "tags": [
-      "Bernard Arnault",
-      "Canard",
-      "LVMH",
-      "Orsay",
-      "Économie"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:44:04.128601+00:00"
   },
   {
@@ -518,8 +450,7 @@
     "summary": "Depuis 2017, la direction générale de la gendarmerie et le ministère de l’intérieur sont alertés sur les pratiques brutales du colonel Touron. Pourtant, il a été promu général, à la tête du Pôle judi…",
     "thumbnail": "thumbnails/118sb2m.webp",
     "tags": [
-      "Touron",
-      "Pôle"
+      "Police"
     ],
     "analyzed_at": "2026-11-01T10:44:03.449991+00:00"
   },
@@ -541,8 +472,7 @@
     "summary": "",
     "thumbnail": "thumbnails/118b671.webp",
     "tags": [
-      "Eric Zemmour",
-      "Politique"
+      "Éric Zemmour"
     ],
     "analyzed_at": "2026-11-01T10:44:03.630682+00:00"
   },
@@ -563,7 +493,9 @@
     "ingested_at": "2026-11-01T10:35:17.096586+00:00",
     "summary": "",
     "thumbnail": "thumbnails/118082y.webp",
-    "tags": [],
+    "tags": [
+      "Retraites"
+    ],
     "analyzed_at": "2026-11-01T10:44:03.093973+00:00"
   },
   {
@@ -584,11 +516,7 @@
     "summary": "La branche européenne de l'Association internationale lesbienne, gay, bisexuelle, trans et intersexe s'inquiète de la montée de la violence, physique et psychologique, contre les personnes LGBT+ dans 54 pays d'Europe et d'Asie centrale.",
     "thumbnail": "thumbnails/117hg4o.webp",
     "tags": [
-      "Europe",
-      "LGBT",
-      "Association",
-      "Europe et Asie",
-      "Société"
+      "LGBT+"
     ],
     "analyzed_at": "2026-11-01T10:44:03.199293+00:00"
   },
@@ -611,10 +539,8 @@
     "thumbnail": "thumbnails/1173bgh.webp",
     "tags": [
       "François Ruffin",
-      "LFI",
-      "Konbini",
-      "LFI de la Somme François Ruffin",
-      "Politique"
+      "Institutions",
+      "Élection présidentielle"
     ],
     "analyzed_at": "2026-11-01T10:44:03.327816+00:00"
   },
@@ -636,7 +562,7 @@
     "summary": "",
     "thumbnail": "thumbnails/116glvb.webp",
     "tags": [
-      "Société"
+      "Fin de vie"
     ],
     "analyzed_at": "2026-11-01T10:44:03.464925+00:00"
   },
@@ -658,11 +584,7 @@
     "summary": "Vivendi, le groupe de Vincent Bolloré, n'a toujours pas officiellement eu l'aval pour racheter le groupe Lagardère dont l'hebdomadaire \"Paris Match\" fait partie. Pour autant, une journaliste, qui a fait jouer sa clause de conscience, dénonce aujourd'hui l'influence du milliardaire au sein du magazine.",
     "thumbnail": "thumbnails/116b1v5.webp",
     "tags": [
-      "Vincent Bolloré",
-      "Paris Match",
-      "Lagardère",
-      "Match",
-      "Politique"
+      "Médias"
     ],
     "analyzed_at": "2026-11-01T10:44:03.426822+00:00"
   },
@@ -684,53 +606,9 @@
     "summary": "",
     "thumbnail": "thumbnails/115ipfz.webp",
     "tags": [
-      "Société"
+      "Travail"
     ],
     "analyzed_at": "2026-11-01T10:44:03.726394+00:00"
-  },
-  {
-    "id": "115awic",
-    "title": "4 enseignants qui s'en vont et 19 signalements : un élève de 7 ans fait vivre l'enfer à sa classe - francelive.fr",
-    "url": "https://www.francelive.fr/article/france-live/4-enseignants-qui-s-en-vont-et-19-signalements-un-eleve-de-7-ans-fait-vivre-l-enfer-a-sa-classe-7879310/",
-    "permalink": "/r/france/comments/115awic/4_enseignants_qui_sen_vont_et_19_signalements_un/",
-    "created_at": "2023-02-18T08:45:58+00:00",
-    "score": 346,
-    "num_comments": 185,
-    "subreddit": "france",
-    "author": "thom986",
-    "flair": "Société",
-    "domain": "francelive.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://b.thumbs.redditmedia.com/IpzT8-kZ2jhxfMfkTD-XVY1Ikv1yMP32PY6D2_BZj9c.jpg",
-    "ingested_at": "2026-11-01T10:35:17.095589+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/115awic.webp",
-    "tags": [
-      "Société"
-    ],
-    "analyzed_at": "2026-11-01T10:44:05.232490+00:00"
-  },
-  {
-    "id": "114zqls",
-    "title": "Sécheresse : 27 jours sans pluie en France, du jamais vu en hiver",
-    "url": "https://meteofrance.com/actualites-et-dossiers/actualites/climat/secheresse-27-jours-sans-pluie-en-france-du-jamais-vu-en-hiver",
-    "permalink": "/r/france/comments/114zqls/sécheresse_27_jours_sans_pluie_en_france_du/",
-    "created_at": "2023-02-17T22:36:50+00:00",
-    "score": 264,
-    "num_comments": 105,
-    "subreddit": "france",
-    "author": "thom986",
-    "flair": "Écologie",
-    "domain": "meteofrance.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/uA3oVxNPVt52spDpJpjBRSHrJlT6ODaq4mRECNwG_is.jpeg?auto=webp&s=082db4b09f2f5f9f33a92a9157dff46f0915aecb",
-    "ingested_at": "2026-11-01T10:35:17.096158+00:00",
-    "summary": "La pluie n'est pas tombée en France depuis le 21 janvier, soit une série de 32 jours consécutifs (20 février inclus), du jamais vu tous mois confondus depuis le début des enregistrements en 1959, battant celle de l'année 2020 entre le 17 mars et le 16 avril de 31 jours.",
-    "thumbnail": "thumbnails/114zqls.webp",
-    "tags": [
-      "Écologie"
-    ],
-    "analyzed_at": "2026-11-01T10:44:03.715217+00:00"
   },
   {
     "id": "114z31a",
@@ -750,11 +628,7 @@
     "summary": "Une enquête publique est ouverte à Vittel (Vosges) sur l’avenir de la nappe souterraine surexploitée, notamment par Nestlé. Pour un collectif local, il s'agit d'une « démarche écocidaire ».",
     "thumbnail": "thumbnails/114z31a.webp",
     "tags": [
-      "Vittel",
-      "Reporterre",
-      "Nestlé",
-      "Eau 88",
-      "Écologie"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T10:44:04.031591+00:00"
   },
@@ -776,8 +650,7 @@
     "summary": "L’année 2022 aura été une année tristement record pour EDF qui a vu sa production électrique nucléaire et hydraulique tomber à des niveaux historiquement bas",
     "thumbnail": "thumbnails/114e0fy.webp",
     "tags": [
-      "EDF",
-      "Économie"
+      "Énergie"
     ],
     "analyzed_at": "2026-11-01T10:44:04.064589+00:00"
   },
@@ -799,7 +672,7 @@
     "summary": "Sept victimes accusaient le ministère de la culture d’avoir protégé son agent et d’avoir ignoré de nombreuses alertes dans cette affaire hors norme. Dans une décision publiée ce jeudi, le tribunal ad…",
     "thumbnail": "thumbnails/114c8a6.webp",
     "tags": [
-      "État"
+      "Justice"
     ],
     "analyzed_at": "2026-11-01T10:44:04.709525+00:00"
   },
@@ -820,11 +693,7 @@
     "ingested_at": "2026-11-01T10:35:17.095714+00:00",
     "summary": "Cette mesure fait partie d'un texte beaucoup plus large qui renforce notamment l'accès à l'avortement dans les hôpitaux publics.",
     "thumbnail": "thumbnails/113qu8m.webp",
-    "tags": [
-      "Europe",
-      "Espagne",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:44:04.055960+00:00"
   },
   {
@@ -844,13 +713,7 @@
     "ingested_at": "2026-11-01T10:35:17.095170+00:00",
     "summary": "CÃ©dric Chouviat est mort aprÃ¨s un contrÃ´le routier Ã Paris. Dans le documentaire Violences PoliciÃ¨res, le combat des familles, sa fille Sofia prend la parole pour que Â«Â cela ne se reproduise plus jamaisÂ Â».",
     "thumbnail": "thumbnails/113o31l.webp",
-    "tags": [
-      "CÃ",
-      "Chouviat",
-      "Â Â",
-      "Cédric Chouviat",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:44:04.089540+00:00"
   },
   {
@@ -870,7 +733,10 @@
     "ingested_at": "2026-11-01T10:35:17.096314+00:00",
     "summary": "",
     "thumbnail": "thumbnails/113nwnf.webp",
-    "tags": [],
+    "tags": [
+      "Extrême droite",
+      "Médias"
+    ],
     "analyzed_at": "2026-11-01T10:44:07.257198+00:00"
   },
   {
@@ -892,10 +758,7 @@
     "thumbnail": "thumbnails/1131vqv.webp",
     "tags": [
       "Louis Boyard",
-      "LFI",
-      "PARISIEN",
-      "PJ",
-      "Société"
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T10:44:04.535544+00:00"
   },
@@ -917,11 +780,8 @@
     "summary": "SONDAGE BFMTV. D'après le nouveau sondage Elabe \"L'Opinion en direct\" pour BFMTV que nous diffusons ce mercredi après-midi, les Français approuvent largement la volonté de l'intersyndicale de \"mettre la France à l'arrêt\" le 7 mars prochain. Au-delà de cette initiative, l'opposition à la réforme des...",
     "thumbnail": "thumbnails/1131n94.webp",
     "tags": [
-      "Français",
-      "Elabe",
-      "BFMTV",
-      "SONDAGE BFMTV",
-      "Politique"
+      "Retraites",
+      "Élections"
     ],
     "analyzed_at": "2026-11-01T10:44:04.580706+00:00"
   },
@@ -943,9 +803,7 @@
     "summary": "",
     "thumbnail": "thumbnails/112tcpv.webp",
     "tags": [
-      "Musk",
-      "Twitter",
-      "Société"
+      "Elon Musk"
     ],
     "analyzed_at": "2026-11-01T10:44:05.602710+00:00"
   },
@@ -967,11 +825,7 @@
     "summary": "Une enquête de la cellule investigation de Radio France, avec le consortium Forbidden stories, dévoile que BFMTV a diffusé des informations fournies par une agence de désinformation israélienne dirigée par des anciens de l’armée et des services secrets.",
     "thumbnail": "thumbnails/112r8f7.webp",
     "tags": [
-      "BFMTV",
-      "Story Killers",
-      "Rachid Barki",
-      "Radio France",
-      "Israël"
+      "Conflit israélo-palestinien"
     ],
     "analyzed_at": "2026-11-01T10:44:04.631856+00:00"
   },
@@ -993,11 +847,7 @@
     "summary": "La cellule investigation de Radio France a enquêté pendant plusieurs mois aux côtés de 30 médias internationaux dans le cadre du projet \"Story Killers\", coordonné par Forbidden Stories. Il lève le voile sur les coulisses de l’industrie de la désinformation, aujourd’hui en plein essor.",
     "thumbnail": "thumbnails/112c0be.webp",
     "tags": [
-      "Story Killers",
-      "Forbidden Stories",
-      "Radio France",
-      "Inde",
-      "Société"
+      "Médias"
     ],
     "analyzed_at": "2026-11-01T10:44:04.805718+00:00"
   },
@@ -1018,32 +868,8 @@
     "ingested_at": "2026-11-01T10:35:17.095046+00:00",
     "summary": "",
     "thumbnail": "thumbnails/1126hx9.webp",
-    "tags": [
-      "Économie"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:44:06.728146+00:00"
-  },
-  {
-    "id": "1123382",
-    "title": "Voiture puissante et petit pénis : un lien psychologique aujourd’hui avéré",
-    "url": "https://trustmyscience.com/voiture-puissante-petit-penis-lien-psychologique-avere/",
-    "permalink": "/r/france/comments/1123382/voiture_puissante_et_petit_pénis_un_lien/",
-    "created_at": "2023-02-14T11:24:57+00:00",
-    "score": 389,
-    "num_comments": 267,
-    "subreddit": "france",
-    "author": "CerveauRecyclable",
-    "flair": "Science",
-    "domain": "trustmyscience.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/XXJ0S7CAGaomy_95w1BndBWubxVzMaDcON0UBuTotDU.jpeg?auto=webp&s=6bf8314c7e6a6b57f4f757d4017a153bfe1df168",
-    "ingested_at": "2026-11-01T10:35:17.095415+00:00",
-    "summary": "Une étude prouve le lien psychologique entre le fait d'avoir un petit pénis et celui de désirer ou posséder une voiture de sport.",
-    "thumbnail": "thumbnails/1123382.webp",
-    "tags": [
-      "Science"
-    ],
-    "analyzed_at": "2026-11-01T10:44:05.775991+00:00"
   },
   {
     "id": "111zd8j",
@@ -1062,13 +888,7 @@
     "ingested_at": "2026-11-01T10:35:17.095763+00:00",
     "summary": "Le joueur de 27 ans, passé par les championnats italien et espagnol, a publié une vidéo sur ses réseaux sociaux, lundi, \"pour arrêter de se cacher\".",
     "thumbnail": "thumbnails/111zd8j.webp",
-    "tags": [
-      "Tchèque Jakub Jankto",
-      "Jakub Jankto",
-      "Jeux",
-      "Jeunesse",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:44:07.612780+00:00"
   },
   {
@@ -1088,9 +908,7 @@
     "ingested_at": "2026-11-01T10:35:17.095341+00:00",
     "summary": "Les fumées dégagées peuvent potentiellement être «mortelles» si «inhalées»",
     "thumbnail": "thumbnails/111w133.webp",
-    "tags": [
-      "Américains"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:44:05.379757+00:00"
   },
   {
@@ -1111,10 +929,7 @@
     "summary": "Le député Renaissance Karl Olive a posté sur son compte Twitter une recette de noix de Saint-Jacques. Le geste a choqué plusieurs députés de gauche, après son refus de voter pour étendre les repas à un euro pour tous les étudiants.",
     "thumbnail": "thumbnails/111dhtq.webp",
     "tags": [
-      "Saint-Jacques",
-      "Twitter",
-      "Renaissance Karl Olive",
-      "Politique"
+      "Éducation"
     ],
     "analyzed_at": "2026-11-01T10:44:05.167465+00:00"
   },
@@ -1135,10 +950,7 @@
     "ingested_at": "2026-11-01T10:35:17.096759+00:00",
     "summary": "Le comité appelle les autorités à interdire les arômes dans les produits contenant de la nicotine. Leur caractère récréatif et la publicité illicite faite autour de ces appareils inciteraient les consommateurs, notamment les jeunes.",
     "thumbnail": "thumbnails/111980y.webp",
-    "tags": [
-      "Cigarette électronique",
-      "CNCT"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:44:07.831421+00:00"
   },
   {
@@ -1158,10 +970,7 @@
     "ingested_at": "2026-11-01T10:35:17.096016+00:00",
     "summary": "",
     "thumbnail": "thumbnails/110ewhk.webp",
-    "tags": [
-      "Montpellier",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:44:05.791079+00:00"
   },
   {
@@ -1182,10 +991,8 @@
     "summary": "Passer à la vitesse supérieure pour convaincre le gouvernement de reculer. Sur le front syndical comme dans les rangs du cortège ce samedi, les voix se font de plus en plus nombreuses pour installer le mouvement de contestation dans la durée.",
     "thumbnail": "thumbnails/110epak.webp",
     "tags": [
-      "Paris",
-      "Français",
-      "BFMTV",
-      "Société"
+      "Retraites",
+      "Manifestations"
     ],
     "analyzed_at": "2026-11-01T10:44:05.685446+00:00"
   },
@@ -1206,11 +1013,7 @@
     "ingested_at": "2026-11-01T10:35:17.095872+00:00",
     "summary": "Aux Etats-Unis, un projet de loi propose d’octroyer à des détenus une réduction de leur peine d’emprisonnement en échange d’un don d’organe ou de moelle osseuse. Une proposition qui fait polémique.",
     "thumbnail": "thumbnails/110cynu.webp",
-    "tags": [
-      "Etats-Unis",
-      "MIT Technology Review",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:44:06.154978+00:00"
   },
   {
@@ -1231,9 +1034,7 @@
     "summary": "",
     "thumbnail": "thumbnails/110ci9v.webp",
     "tags": [
-      "LEAK",
-      "EU's",
-      "Écologie"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T10:44:07.195871+00:00"
   },
@@ -1254,13 +1055,7 @@
     "ingested_at": "2026-11-01T10:35:17.095968+00:00",
     "summary": "Le céréalier a été frappé et ligoté par trois personnes dans son garage à Bernac, au nord d'Angoulême, la semaine dernière, a-t-on appris par son avocat.",
     "thumbnail": "thumbnails/10zvaik.webp",
-    "tags": [
-      "Paul François",
-      "Monsanto",
-      "Agriculture",
-      "Environnement",
-      "Fait Divers"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:44:06.785974+00:00"
   },
   {
@@ -1280,38 +1075,8 @@
     "ingested_at": "2026-11-01T10:35:17.095146+00:00",
     "summary": "Au lendemain du grave accident qui a coûté la vie au bébé que portait une femme e...",
     "thumbnail": "thumbnails/10zs25m.webp",
-    "tags": [
-      "Pierre Palmade",
-      "Voix du Nord",
-      "Pierre",
-      "Palmade"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:44:07.173150+00:00"
-  },
-  {
-    "id": "10znvit",
-    "title": "La Normandie abat un ballon espion breton au dessus du Mont-Saint-Michel",
-    "url": "https://www.legorafi.fr/2023/02/07/la-normandie-abat-un-ballon-espion-breton-au-dessus-du-mont-saint-michel/",
-    "permalink": "/r/france/comments/10znvit/la_normandie_abat_un_ballon_espion_breton_au/",
-    "created_at": "2023-02-11T13:39:52+00:00",
-    "score": 370,
-    "num_comments": 35,
-    "subreddit": "france",
-    "author": "Ubik78",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/Hv16XLmJV_E7bNbosI2jzF3CCjwazbREYc2LeUXU8Ro.jpg?auto=webp&s=e9b3e09f145667bd1d43637acb0cc58edc4a613c",
-    "ingested_at": "2026-11-01T10:35:17.095463+00:00",
-    "summary": "Mont-Saint-Michel - Les autorités normandes ont annoncé avoir abattu tôt dans la soirée un ballon espion breton qui survolait le Mont-Saint-Michel. La Bretagne parle d’un “acte de guerre”. Reportage.",
-    "thumbnail": "thumbnails/10znvit.webp",
-    "tags": [
-      "Mont-Saint-Michel",
-      "Normandie",
-      "Bretagne",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T10:44:06.379104+00:00"
   },
   {
     "id": "10yuvh5",
@@ -1331,11 +1096,8 @@
     "summary": "Le ministre de l'Intérieur Gérald Darmanin a annoncé jeudi 9 février l'interdiction d'une soirée intitulée «Qu'ils retournent en Afrique»,...",
     "thumbnail": "thumbnails/10yuvh5.webp",
     "tags": [
-      "Afrique",
       "Gérald Darmanin",
-      "Citadelle",
-      "Intérieur Gérald Darmanin",
-      "Nord"
+      "Extrême droite"
     ],
     "analyzed_at": "2026-11-01T10:44:09.288552+00:00"
   },
@@ -1357,11 +1119,7 @@
     "summary": "Alors que l'examen de la réforme des retraites se poursuit à l'Assemblée nationale et à la veille d'une nouvelle journée de manifestation, l'exécutif veut éviter que les jeunes ne rejoignent massivement le mouvement de contestation. Le SNU fait les frais de cette prudence.",
     "thumbnail": "thumbnails/10yozm5.webp",
     "tags": [
-      "SNU",
-      "Éducation",
-      "Assemblée",
-      "Éco / Conso",
-      "Société"
+      "Retraites"
     ],
     "analyzed_at": "2026-11-01T10:44:08.375185+00:00"
   },
@@ -1383,10 +1141,7 @@
     "summary": "Proposition de loi visant à la nationalisation du groupe Électricité de France",
     "thumbnail": "thumbnails/10yjyle.webp",
     "tags": [
-      "Électricité de France",
-      "EDF",
-      "Philippe Brun",
-      "Société"
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T10:44:07.690807+00:00"
   },
@@ -1407,13 +1162,7 @@
     "ingested_at": "2026-11-01T10:35:17.095823+00:00",
     "summary": "La chaîne qui diffuse « Touche pas à mon poste » avait choisi de saisir la CEDH pour contester deux sanctions, au nom de la liberté d’expression.",
     "thumbnail": "thumbnails/10xzy5x.webp",
-    "tags": [
-      "CEDH",
-      "Cyril Hanouna",
-      "Cyril Hanouna et C8",
-      "Arcom",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:44:07.724297+00:00"
   },
   {
@@ -1434,11 +1183,7 @@
     "summary": "Cette proposition de loi portée par les socialistes a échoué… d’une seule voix.",
     "thumbnail": "thumbnails/10xx2p7.webp",
     "tags": [
-      "LR",
-      "Nupes",
-      "Politique",
-      "Renaissance (RE)",
-      "Parti Socialiste (PS)"
+      "Éducation"
     ],
     "analyzed_at": "2026-11-01T10:44:07.831658+00:00"
   },
@@ -1460,11 +1205,9 @@
     "summary": "ENTRETIEN EXCLUSIF - Le président ukrainien encourage les Occidentaux à surmonter leurs dernières réticences et à fournir à son pays toutes les armes dont il a besoin.",
     "thumbnail": "thumbnails/10xw507.webp",
     "tags": [
+      "Vladimir Poutine",
       "Volodymyr Zelensky",
-      "Figaro",
-      "Poutine",
-      "guerre en Ukraine",
-      "Occidentaux"
+      "Guerre en Ukraine"
     ],
     "analyzed_at": "2026-11-01T10:44:08.259474+00:00"
   },
@@ -1485,9 +1228,7 @@
     "ingested_at": "2026-11-01T10:35:17.095391+00:00",
     "summary": "Le géant français du bâtiment réalise de bonnes performances aussi bien dans le domaine des autoroutes que dans ceux de la construction ou d",
     "thumbnail": "thumbnails/10xs3k5.webp",
-    "tags": [
-      "Économie"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:44:08.073183+00:00"
   },
   {
@@ -1507,10 +1248,7 @@
     "ingested_at": "2026-11-01T10:35:17.095318+00:00",
     "summary": "En marge d’une manifestation tenue dimanche à Villeron dans le Val-d’Oise, des habitants ont expulsé des familles roms et détruit leur bidonville. Interrogés par Mediapart, des villageois reconnaisse…",
     "thumbnail": "thumbnails/10wuh6n.webp",
-    "tags": [
-      "Villeron",
-      "Val-d'Oise"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:44:08.647710+00:00"
   },
   {
@@ -1531,10 +1269,7 @@
     "summary": "Ivres de vengeance, les Balkany ont envoyé à plusieurs élus et à l’actuelle maire de Levallois-Perret des photomontages pornographiques mettant en scène le premier adjoint de la ville. « C’était pour…",
     "thumbnail": "thumbnails/10wtvzc.webp",
     "tags": [
-      "Patrick Balkany",
-      "Levallois",
-      "Balkany",
-      "Levallois-Perret"
+      "Patrick Balkany"
     ],
     "analyzed_at": "2026-11-01T10:44:08.719413+00:00"
   },
@@ -1555,37 +1290,8 @@
     "ingested_at": "2026-11-01T10:35:17.096457+00:00",
     "summary": "",
     "thumbnail": "thumbnails/10w8m1y.webp",
-    "tags": [
-      "Erik Orsenna",
-      "Vincent Bolloré"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:44:08.234771+00:00"
-  },
-  {
-    "id": "10vw78q",
-    "title": "Protection des consommateurs : pratiques de manipulation en ligne constatées dans 148 des 399 boutiques en ligne examinées",
-    "url": "https://france.representation.ec.europa.eu/informations/protection-des-consommateurs-pratiques-de-manipulation-en-ligne-constatees-dans-148-des-399-2023-01-30_fr",
-    "permalink": "/r/france/comments/10vw78q/protection_des_consommateurs_pratiques_de/",
-    "created_at": "2023-02-07T07:50:02+00:00",
-    "score": 163,
-    "num_comments": 13,
-    "subreddit": "france",
-    "author": "Yseader",
-    "flair": "Économie",
-    "domain": "france.representation.ec.europa.eu",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/D8vRjkbRRimT2q7_MzZPJSECSLnVWdWmiBe2M0NA_lk.jpeg?auto=webp&s=6dce365b9b80eb9641e6cd4ce65339c7c4f1d2b3",
-    "ingested_at": "2026-11-01T10:35:17.096734+00:00",
-    "summary": "La Commission européenne et les autorités nationales de protection des consommateurs de 23 États membres, de la Norvège et de l'Islande publient les résultats d'un passage au crible de sites web de vente au détail.",
-    "thumbnail": "thumbnails/10vw78q.webp",
-    "tags": [
-      "Commission",
-      "États",
-      "Norvège et de Islande",
-      "CPC",
-      "Économie"
-    ],
-    "analyzed_at": "2026-11-01T10:44:08.322489+00:00"
   },
   {
     "id": "10vcjia",
@@ -1604,10 +1310,7 @@
     "ingested_at": "2026-11-01T10:35:17.096504+00:00",
     "summary": "Contrairement à ce que le ministre du travail a affirmé tout le week-end, la police a bien mis la main, lors d’une perquisition chez lui, sur des échanges compromettants avec l’un des leaders françai…",
     "thumbnail": "thumbnails/10vcjia.webp",
-    "tags": [
-      "Affaire Dussopt",
-      "PNF"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:44:09.615203+00:00"
   },
   {
@@ -1627,9 +1330,7 @@
     "ingested_at": "2026-11-01T10:35:17.096111+00:00",
     "summary": "",
     "thumbnail": "thumbnails/10v9ygm.webp",
-    "tags": [
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:44:10.376351+00:00"
   },
   {
@@ -1649,13 +1350,7 @@
     "ingested_at": "2026-11-01T10:35:17.096663+00:00",
     "summary": "Pékin juge que l'opération américaine \"viole gravement les pratiques internationales\" et se \"réserve le droit\" de répliquer.",
     "thumbnail": "thumbnails/10ubyaq.webp",
-    "tags": [
-      "Chine",
-      "Etats-Unis",
-      "Flavio Bolsonaro",
-      "Espagne",
-      "Israël"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:44:08.617641+00:00"
   },
   {
@@ -1676,7 +1371,7 @@
     "summary": "",
     "thumbnail": "thumbnails/10uaz1v.webp",
     "tags": [
-      "Politique"
+      "Travail"
     ],
     "analyzed_at": "2026-11-01T10:44:11.612547+00:00"
   },
@@ -1697,13 +1392,7 @@
     "ingested_at": "2026-11-01T10:35:17.095488+00:00",
     "summary": "En mettant en avant les tarifs de 7 euros et 8 euros par mois, sans indiquer qu'il s'agit de prix hors-taxes, Twitter ne respecte pas la loi française. En l'état, l'abonnement payant Blue ne devrait pas pouvoir être vendu en France. Depuis le 2 février, l'abonnement Twitter Blue est disponible en France. À peine",
     "thumbnail": "thumbnails/10tkpl5.webp",
-    "tags": [
-      "Twitter Blue",
-      "TVA",
-      "Twitter",
-      "Blue",
-      "Économie"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:44:09.344638+00:00"
   },
   {
@@ -1724,11 +1413,9 @@
     "summary": "L’homme, âgé d’une cinquantaine d’années, est fonctionnaire de police au commissariat de Douai. Il a été placé en détention provisoire.",
     "thumbnail": "thumbnails/10tal6n.webp",
     "tags": [
-      "Aide Sociale",
-      "Enfance",
-      "Nord",
-      "Douai",
-      "Fait Divers"
+      "Police",
+      "Justice",
+      "Violences sexuelles"
     ],
     "analyzed_at": "2026-11-01T10:44:18.967672+00:00"
   },
@@ -1749,7 +1436,9 @@
     "ingested_at": "2026-11-01T10:35:17.096431+00:00",
     "summary": "",
     "thumbnail": "thumbnails/10sj2qp.webp",
-    "tags": [],
+    "tags": [
+      "Gérald Darmanin"
+    ],
     "analyzed_at": "2026-11-01T10:44:09.133892+00:00"
   },
   {
@@ -1770,36 +1459,9 @@
     "summary": "Le tramway et les bus gratuits pour tous les habitants de la métropole montpelliéraine, ce sera lancé le 21 décembre 2023. Cette date a été annoncée en conseil de Métropole ce jeudi matin.",
     "thumbnail": "thumbnails/10sgl8y.webp",
     "tags": [
-      "Montpellier",
-      "Argent (finance)",
-      "Transports en commun",
-      "Société"
+      "Transports"
     ],
     "analyzed_at": "2026-11-01T10:44:10.451291+00:00"
-  },
-  {
-    "id": "10rl8jj",
-    "title": "Les armées étrangères reconnaissent les cuisiniers militaires français comme notre principale unité d’élite",
-    "url": "https://www.caporalstrategique.fr/2023/02/01/les-armees-etrangeres-reconnaissent-les-cuisiniers-militaires-francais-comme-notre-principale-unite-delite/",
-    "permalink": "/r/france/comments/10rl8jj/les_armées_étrangères_reconnaissent_les/",
-    "created_at": "2023-02-02T08:50:00+00:00",
-    "score": 222,
-    "num_comments": 32,
-    "subreddit": "france",
-    "author": "Gadac",
-    "flair": "Parodie",
-    "domain": "caporalstrategique.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/iHV9zvJW_SCyF-TvYqWlPJgL2828SnN0jMwCFOXFP4g.jpeg?auto=webp&s=885f1fd23f2af4dd668fe9b9ee6a9e18cdd0c1e4",
-    "ingested_at": "2026-11-01T10:35:17.096528+00:00",
-    "summary": "Dans la compétition que se portent les différentes forces spéciales dans le monde, il est toujours difficile de nommer un vainqueur qui sera accepté par tous.",
-    "thumbnail": "thumbnails/10rl8jj.webp",
-    "tags": [
-      "FOI",
-      "SAS",
-      "Parodie"
-    ],
-    "analyzed_at": "2026-11-01T10:44:10.265841+00:00"
   },
   {
     "id": "10rkizf",
@@ -1819,8 +1481,7 @@
     "summary": "",
     "thumbnail": "thumbnails/10rkizf.webp",
     "tags": [
-      "Belgique",
-      "Écologie"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T10:44:10.630173+00:00"
   },
@@ -1842,11 +1503,9 @@
     "summary": "Le texte adopté en première lecture par les sénateurs, qui doit maintenant retourner à l'Assemblée nationale, vise à compléter l'article 34 de la Constitution.",
     "thumbnail": "thumbnails/10r5vww.webp",
     "tags": [
-      "Constitution",
-      "IVG",
-      "Sénat",
-      "Assemblée",
-      "Laurent Nunez"
+      "Institutions",
+      "Droits des femmes",
+      "Laurent Nuñez"
     ],
     "analyzed_at": "2026-11-01T10:44:09.663963+00:00"
   },
@@ -1868,8 +1527,8 @@
     "summary": "La CGT, très active dans la lutte contre le projet gouvernemental de réforme des retraites, a annoncé avoir organisé une opération de baisse de production d’électricité cette nuit. Les grévistes ont diminué la production de 3.000 mégawatts, soit l’équivalent de trois centrales nucléaires, pendant quelques heures.",
     "thumbnail": "thumbnails/10qowrd.webp",
     "tags": [
-      "CGT",
-      "Politique"
+      "Grèves et syndicats",
+      "Retraites"
     ],
     "analyzed_at": "2026-11-01T10:44:10.957601+00:00"
   }

@@ -17,11 +17,7 @@
     "summary": "\"Une enquête administrative\" a été ouverte après le passage d'individus présentés comme des membres de la BRAV-M dans l'émission de Cyril Hanouna, ce que dément la préfecture de police de Paris.",
     "thumbnail": "thumbnails/12827d7.webp",
     "tags": [
-      "Brav-M",
-      "TPMP",
-      "Cyril Hanouna",
-      "Paris",
-      "C8"
+      "Police"
     ],
     "analyzed_at": "2026-11-01T10:43:40.322970+00:00"
   },
@@ -43,10 +39,7 @@
     "summary": "INFO LE PARISIEN. La secrétaire d’État chargée de l’Économie sociale et solidaire a accepté de poser pour le magazine et a accordé une inter",
     "thumbnail": "thumbnails/127ooq7.webp",
     "tags": [
-      "Marlène Schiappa",
-      "Playboy",
-      "État",
-      "PARISIEN"
+      "Marlène Schiappa"
     ],
     "analyzed_at": "2026-11-01T10:43:40.173811+00:00"
   },
@@ -68,9 +61,6 @@
     "summary": "Un bug connu de Twitter, mais toujours pas corrigé, a eu pour conséquence de suspendre le compte Twitter de LCP pendant plusieurs heures. L'entreprise l'a finalement remis en ligne. Connaissez-vous le « bug des 13 ans » ? Régulièrement, des personnalités ou des marques se plaignent de ne plus pouvoir se connecter à",
     "thumbnail": "thumbnails/127kbjb.webp",
     "tags": [
-      "LCP",
-      "Twitter",
-      "Twitter de LCP",
       "Elon Musk"
     ],
     "analyzed_at": "2026-11-01T10:43:41.286956+00:00"
@@ -93,10 +83,7 @@
     "summary": "",
     "thumbnail": "thumbnails/127d9s4.webp",
     "tags": [
-      "Sophie Binet",
-      "Philippe Martinez",
-      "CGT",
-      "Politique"
+      "Grèves et syndicats"
     ],
     "analyzed_at": "2026-11-01T10:43:43.206962+00:00"
   },
@@ -118,10 +105,7 @@
     "summary": "Sarah, la maman du petit Fares, lance un cri de détresse pour son fils victime de harcèlement scolaire au collège Jules-Verne de Carcassonne. L'inspection académique assure prendre la situation au sérieux.",
     "thumbnail": "thumbnails/127cqsy.webp",
     "tags": [
-      "Fares",
-      "Jules-Verne",
-      "Jules-Verne de Carcassonne",
-      "Montpellier"
+      "Éducation"
     ],
     "analyzed_at": "2026-11-01T10:43:43.131875+00:00"
   },
@@ -143,11 +127,7 @@
     "summary": "Un grand jury d’un tribunal de New York a voté l’inculpation au pénal de Donald...",
     "thumbnail": "thumbnails/1271j3r.webp",
     "tags": [
-      "Donald Trump",
-      "Donald",
-      "New York",
-      "Stormy Daniels",
-      "États-Unis"
+      "Donald Trump"
     ],
     "analyzed_at": "2026-11-01T10:43:42.520816+00:00"
   },
@@ -169,11 +149,7 @@
     "summary": "[VIDÉO] Dans un nouveau rapport publié ce jeudi 30 mars, Greenpeace dénonce l'utilisation croissante des jets privés en Europe et en France. Selon ses chiffres, le nombre de vols a augmenté de 64% en 2022 sur le Vieux Continent.",
     "thumbnail": "thumbnails/126utyf.webp",
     "tags": [
-      "Greenpeace",
-      "Europe",
-      "Union",
-      "ONG",
-      "Écologie"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T10:43:41.475560+00:00"
   },
@@ -194,11 +170,7 @@
     "ingested_at": "2026-11-01T10:38:14.247486+00:00",
     "summary": "Ce mercredi, l'Assemblée nationale a voté en faveur d'une interdiction de la promotion du secteur crypto par les influenceurs.",
     "thumbnail": "thumbnails/126sw0y.webp",
-    "tags": [
-      "PSAN",
-      "AMF",
-      "Économie"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:43:41.161685+00:00"
   },
   {
@@ -219,11 +191,8 @@
     "summary": "Un adolescent drômois de 13 ans a reçu sur le visage une partie ou un éclat d'une grenade lacrymogène, tirée par la police, lors de la manifestation contre la réforme des retraites, à Valence, le 28 mars. Sa famille a porté plainte ce mercredi 29 mars.",
     "thumbnail": "thumbnails/126rbzs.webp",
     "tags": [
-      "Valence",
-      "Tilio",
-      "Manifestations",
-      "Réforme des retraites",
-      "Société"
+      "Retraites",
+      "Manifestations"
     ],
     "analyzed_at": "2026-11-01T10:43:42.215293+00:00"
   },
@@ -245,9 +214,7 @@
     "summary": "",
     "thumbnail": "thumbnails/126n74i.webp",
     "tags": [
-      "Sainte-Soline",
-      "Etat",
-      "ONU"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T10:43:41.704565+00:00"
   },
@@ -270,10 +237,7 @@
     "thumbnail": "thumbnails/126k8r4.webp",
     "tags": [
       "Emmanuel Macron",
-      "Etat",
-      "Savines-le-Lac",
-      "Hautes-Alpes",
-      "Politique"
+      "Retraites"
     ],
     "analyzed_at": "2026-11-01T10:43:42.282007+00:00"
   },
@@ -295,8 +259,7 @@
     "summary": "",
     "thumbnail": "thumbnails/126hkpw.webp",
     "tags": [
-      "Conseil Etat",
-      "Politique"
+      "Manifestations"
     ],
     "analyzed_at": "2026-11-01T10:43:42.226645+00:00"
   },
@@ -317,7 +280,9 @@
     "ingested_at": "2026-11-01T10:38:14.246106+00:00",
     "summary": "La rhétorique sur les « extrêmes qui se rejoignent » a désormais laissé place à pire : une inconséquente diabolisation de l’ensemble de la gauche, fondée sur une relativisation des violences en prove…",
     "thumbnail": "thumbnails/125x3uk.webp",
-    "tags": [],
+    "tags": [
+      "Extrême droite"
+    ],
     "analyzed_at": "2026-11-01T10:43:43.390784+00:00"
   },
   {
@@ -338,11 +303,7 @@
     "summary": "ENTRETIEN - Le chef de l'État a accordé un entretien aux lecteurs du magazine pour enfants Pif, le 20 février dernier. Dans un contexte social enflammé, les Français pourraient l'interpréter comme une forme d'évitement, explique David Desgouilles.",
     "thumbnail": "thumbnails/125wn7b.webp",
     "tags": [
-      "Emmanuel Macron",
-      "République",
-      "Figaro",
-      "Pif Gadjet",
-      "Politique"
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T10:43:43.133435+00:00"
   },
@@ -365,10 +326,7 @@
     "thumbnail": "thumbnails/125renu.webp",
     "tags": [
       "Gérald Darmanin",
-      "Intérieur",
-      "Gérald",
-      "Darmanin",
-      "Politique"
+      "Police"
     ],
     "analyzed_at": "2026-11-01T10:43:43.688524+00:00"
   },
@@ -390,8 +348,7 @@
     "summary": "",
     "thumbnail": "thumbnails/125n3y8.webp",
     "tags": [
-      "LBD",
-      "Politique"
+      "Justice"
     ],
     "analyzed_at": "2026-11-01T10:43:43.438243+00:00"
   },
@@ -413,10 +370,7 @@
     "summary": "<b>EXCLUSIF.</b> Le Service national universel ne sera pas généralisé – à court terme. Pas question de jeter de l’huile sur le feu en pleine crise sociale, notamment dans la jeunesse",
     "thumbnail": "thumbnails/125j7ny.webp",
     "tags": [
-      "SNU",
-      "Emmanuel Macron",
-      "Armée",
-      "Politique"
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T10:43:43.497441+00:00"
   },
@@ -438,11 +392,7 @@
     "summary": "Elle est accusée d’outrage et insulte envers le président de la République suite...",
     "thumbnail": "thumbnails/125ixn4.webp",
     "tags": [
-      "Audomaroise",
-      "Emmanuel Macron",
-      "République",
-      "Emmanuel",
-      "Politique"
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T10:43:44.146186+00:00"
   },
@@ -464,10 +414,7 @@
     "summary": "DÉCRYPTAGE - Le parquet national financier a perquisitionné ces établissements, dont BNP Paribas, Société générale et HSBC, suspectés d'avoir permis à des investisseurs étrangers d'échapper à l'impôt sur les dividendes.",
     "thumbnail": "thumbnails/125h7ja.webp",
     "tags": [
-      "BNP Paribas",
-      "Fraude fiscale",
-      "HSBC",
-      "PNF"
+      "Budget et fiscalité"
     ],
     "analyzed_at": "2026-11-01T10:43:43.442335+00:00"
   },
@@ -488,9 +435,7 @@
     "ingested_at": "2026-11-01T10:38:14.245722+00:00",
     "summary": "",
     "thumbnail": "thumbnails/124zf9a.webp",
-    "tags": [
-      "SAMU"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:43:43.715164+00:00"
   },
   {
@@ -511,8 +456,8 @@
     "summary": "",
     "thumbnail": "thumbnails/124tthe.webp",
     "tags": [
-      "Sainte-Soline",
-      "Gérald Darmanin"
+      "Gérald Darmanin",
+      "Police"
     ],
     "analyzed_at": "2026-11-01T10:43:44.678426+00:00"
   },
@@ -533,10 +478,7 @@
     "ingested_at": "2026-11-01T10:38:14.248453+00:00",
     "summary": "",
     "thumbnail": "thumbnails/124s8h1.webp",
-    "tags": [
-      "Claire Hédon",
-      "Etat"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:43:43.931451+00:00"
   },
   {
@@ -558,7 +500,7 @@
     "thumbnail": "thumbnails/124ovbh.webp",
     "tags": [
       "Gérald Darmanin",
-      "Soulèvements de la Terre"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T10:43:44.090683+00:00"
   },
@@ -580,9 +522,9 @@
     "summary": "Des opposants à la réforme des retraites ont muré le domicile de l'élue de la majorité présidentielle ce mardi.",
     "thumbnail": "thumbnails/124obcx.webp",
     "tags": [
-      "Violette Spillebout",
-      "Lille",
-      "Politique"
+      "Retraites",
+      "Manifestations",
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T10:43:43.701111+00:00"
   },
@@ -604,9 +546,7 @@
     "summary": "",
     "thumbnail": "thumbnails/124jjd8.webp",
     "tags": [
-      "Société",
-      "BNP Paribas",
-      "HSBC"
+      "Budget et fiscalité"
     ],
     "analyzed_at": "2026-11-01T10:43:44.543765+00:00"
   },
@@ -628,11 +568,7 @@
     "summary": "Si le texte dépasse les 500 000 signatures, issues de 30 départements au moins, elle pourrait faire l'objet d'un débat dans l'Hémicycle.",
     "thumbnail": "thumbnails/1244l5j.webp",
     "tags": [
-      "BRAV-M",
-      "Hémicycle",
-      "Assemblée",
-      "Violences policières",
-      "Société"
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T10:43:45.409159+00:00"
   },
@@ -654,33 +590,9 @@
     "summary": "À travers des documents, courriers internes et témoignages exclusifs, Blast révèle la manière dont le service de la correspondance de l'Elysée a été réquisitionné au moment des législatives de 2022, pour servir de boîte aux lettres au parti d'Emmanuel…",
     "thumbnail": "thumbnails/123z68p.webp",
     "tags": [
-      "Elysée",
-      "BLAST",
-      "Kohler",
-      "Emmanuel",
-      "Politique"
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T10:43:44.819180+00:00"
-  },
-  {
-    "id": "123tzf1",
-    "title": "67% des français souhaitent la poursuite des manifestations et des blocages d'après l'institut indépendant Odoxa (+6 points en une semaine).",
-    "url": "http://www.odoxa.fr/sondage/emmanuel-macron-a-attise-la-colere-sociale/",
-    "permalink": "/r/france/comments/123tzf1/67_des_français_souhaitent_la_poursuite_des/",
-    "created_at": "2023-03-27T17:27:51+00:00",
-    "score": 895,
-    "num_comments": 108,
-    "subreddit": "france",
-    "author": "Dall0o",
-    "flair": "Actus",
-    "domain": "odoxa.fr",
-    "selftext": "",
-    "reddit_thumbnail": "",
-    "ingested_at": "2026-11-01T10:38:14.245800+00:00",
-    "summary": "Plus des trois-quarts des Français (76%) n’ont pas été convaincus par Emmanuel Macron. S’ils jugent que le président a été « clair » (54%) hier, les Français estiment qu’il n’a pas du tout « compris leurs préoccupations » (71%) ni « pris la mesure de la gravité de la situation » (70%).",
-    "thumbnail": "",
-    "tags": [],
-    "analyzed_at": "2026-11-01T10:43:43.987298+00:00"
   },
   {
     "id": "123tyty",
@@ -699,7 +611,9 @@
     "ingested_at": "2026-11-01T10:38:14.246365+00:00",
     "summary": "Les dérives du maintien de l’ordre en France depuis l’activation de l’article 49 alinéa 3 par le gouvernement ont été dénoncées par l’ensemble de la société civile, les autorités administratives indé…",
     "thumbnail": "thumbnails/123tyty.webp",
-    "tags": [],
+    "tags": [
+      "Police"
+    ],
     "analyzed_at": "2026-11-01T10:43:44.739107+00:00"
   },
   {
@@ -720,11 +634,8 @@
     "summary": "Cette mobilisation s'inscrit dans un contexte de tensions sociales croissantes en Allemagne, où les grèves pour les salaires se multiplient depuis le début de l'année, des écoles aux hôpitaux.",
     "thumbnail": "thumbnails/123mjom.webp",
     "tags": [
-      "Allemagne",
-      "Europe",
-      "Monde",
-      "Inflation",
-      "Société"
+      "Travail",
+      "Grèves et syndicats"
     ],
     "analyzed_at": "2026-11-01T10:43:44.544497+00:00"
   },
@@ -745,7 +656,10 @@
     "ingested_at": "2026-11-01T10:38:14.247163+00:00",
     "summary": "",
     "thumbnail": "thumbnails/123iqg2.webp",
-    "tags": [],
+    "tags": [
+      "Environnement",
+      "Justice"
+    ],
     "analyzed_at": "2026-11-01T10:43:44.401371+00:00"
   },
   {
@@ -765,13 +679,7 @@
     "ingested_at": "2026-11-01T10:38:14.248404+00:00",
     "summary": "Dr Nozman a reconnu ne pas avoir été assez «vigilant et consciencieux dans la prise de connaissance de ce texte», tandis que Cyprien ou Gotaga ont affirmé ne pas avoir donné leur accord pour que leur nom figure parmi les signataires.",
     "thumbnail": "thumbnails/123dzg9.webp",
-    "tags": [
-      "Squeezie",
-      "Cyprien",
-      "Dr Nozman",
-      "Gotaga",
-      "Twitter"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:43:45.369037+00:00"
   },
   {
@@ -814,8 +722,9 @@
     "summary": "",
     "thumbnail": "thumbnails/123d7sb.webp",
     "tags": [
-      "IGPN",
-      "Société"
+      "Police",
+      "Retraites",
+      "Manifestations"
     ],
     "analyzed_at": "2026-11-01T10:43:46.127998+00:00"
   },
@@ -837,7 +746,8 @@
     "summary": "Proposition de loi visant à limiter les nuisances causées par l'usage abusif du droit de grève dans les transports en commun, n° 997 , déposée le mardi 21 mars 2023 .",
     "thumbnail": "thumbnails/122yt5s.webp",
     "tags": [
-      "Société"
+      "Grèves et syndicats",
+      "Transports"
     ],
     "analyzed_at": "2026-11-01T10:43:53.731441+00:00"
   },
@@ -859,7 +769,9 @@
     "summary": "Une proposition de loi transpartisane va être examinée la semaine prochaine pour encadrer les activités des influenceurs",
     "thumbnail": "thumbnails/122gwxj.webp",
     "tags": [
-      "Société"
+      "Économie",
+      "Numérique",
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T10:43:45.253223+00:00"
   },
@@ -881,11 +793,9 @@
     "summary": "La Première ministre s'exprimait en marge du Congrès du parti de la majorité Horizons, réuni samedi au Parc Floral de Paris.",
     "thumbnail": "thumbnails/121tiuj.webp",
     "tags": [
-      "Elisabeth Borne",
-      "Français",
-      "VIDEO",
-      "Première",
-      "Politique"
+      "Élisabeth Borne",
+      "Retraites",
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T10:43:45.289231+00:00"
   },
@@ -907,9 +817,8 @@
     "summary": "",
     "thumbnail": "thumbnails/121nngk.webp",
     "tags": [
-      "GIGN",
-      "Guyane",
-      "Fait Divers"
+      "Outre-mer",
+      "Police"
     ],
     "analyzed_at": "2026-11-01T10:43:45.244988+00:00"
   },
@@ -931,11 +840,7 @@
     "summary": "La répression policière qui s’abat sur notre pays doit conduire à remettre à l’ordre du jour l’impératif démantèlement de la BRAV-M.",
     "thumbnail": "thumbnails/121kjpb.webp",
     "tags": [
-      "BRAV-M",
-      "Lallement",
-      "Gilets Jaunes",
-      "Malik Oussekine",
-      "Politique"
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T10:43:45.460685+00:00"
   },
@@ -957,10 +862,7 @@
     "summary": "Deux jeunes interpellés dans le IIIe arrondissement de Paris lundi soir dénoncent auprès de Mediapart les insultes, menaces et coups infligés par des policiers à moto de la BRAV-M. Un enregistrement …",
     "thumbnail": "thumbnails/121i3ry.webp",
     "tags": [
-      "BRAV",
-      "Paris",
-      "BRAV-M",
-      "IIIe"
+      "Racisme"
     ],
     "analyzed_at": "2026-11-01T10:43:46.129354+00:00"
   },
@@ -982,7 +884,7 @@
     "summary": "Cet étudiant a été percuté par un policier à moto alors qu’il défilait mardi 21 mars au soir pour protester contre la réforme des retraites. Il affirme n’avoir commis aucune infraction et raconte avo…",
     "thumbnail": "thumbnails/121gjnt.webp",
     "tags": [
-      "Paris"
+      "Cause animale"
     ],
     "analyzed_at": "2026-11-01T10:43:46.053908+00:00"
   },
@@ -1004,11 +906,8 @@
     "summary": "Dans un enregistrement sonore, que franceinfo a pu consulter ce vendredi soir, plusieurs policiers de la Brav-M menacent et intimident un groupe de sept individus, interpellés lundi soir dans Paris.",
     "thumbnail": "thumbnails/121eu4l.webp",
     "tags": [
-      "Brav-M",
-      "Alliance",
-      "Paris",
-      "Réforme des retraites",
-      "Retraite"
+      "Police",
+      "Grèves et syndicats"
     ],
     "analyzed_at": "2026-11-01T10:43:45.579258+00:00"
   },
@@ -1030,11 +929,10 @@
     "summary": "Des sifflets ont été entendus au Stade de France à la 49eme minute du match France-Pays-Bas vendredi à Saint-Denis. Des spectateurs ont répondu à l’appel de François Ruffin qui a demandé au public de siffler à la 49e minute et 3 secondes de jeu, afin de protester contre le recours au 49.3 du...",
     "thumbnail": "thumbnails/120zbtq.webp",
     "tags": [
-      "Stade de France",
+      "Institutions",
+      "Emmanuel Macron",
       "François Ruffin",
-      "France-Pays-Bas",
-      "Saint-Denis",
-      "Politique"
+      "Retraites"
     ],
     "analyzed_at": "2026-11-01T10:43:45.765816+00:00"
   },
@@ -1056,11 +954,7 @@
     "summary": "Le président du Groupement national des Indépendants de l’hôtellerie et de la restauration a dénoncé, vendredi sur franceinfo, \"l'inertie des maires des grandes villes\" concernées par les violences citant ainsi Paris, Nantes et Rennes.",
     "thumbnail": "thumbnails/120vjg7.webp",
     "tags": [
-      "Paris",
-      "Groupement",
-      "Indépendants",
-      "Rennes",
-      "Économie"
+      "Manifestations"
     ],
     "analyzed_at": "2026-11-01T10:43:45.825780+00:00"
   },
@@ -1082,35 +976,11 @@
     "summary": "Face aux manifestations contre le projet de loi du gouvernement, les forces de l'ordre sont critiquées pour leur usage de la force, que certains trouvent disproportionné.",
     "thumbnail": "thumbnails/120slim.webp",
     "tags": [
-      "Conseil de Europe",
-      "Police",
-      "Réforme des retraites",
-      "Fil info"
+      "Retraites",
+      "Manifestations",
+      "Police"
     ],
     "analyzed_at": "2026-11-01T10:43:46.444998+00:00"
-  },
-  {
-    "id": "120qun0",
-    "title": "Solidaires Informatique s’engage à défendre, judiciairement et financièrement, toutes les personnes salariées de l’informatique, des bureaux d’études et du jeu vidéo qui feraient l’objet de pressions, représailles ou discrimination pour avoir fait grève",
-    "url": "https://solidairesinformatique.org/2023/03/24/represailles-sur-les-grevistes/",
-    "permalink": "/r/france/comments/120qun0/solidaires_informatique_sengage_à_défendre/",
-    "created_at": "2023-03-24T17:09:08+00:00",
-    "score": 282,
-    "num_comments": 37,
-    "subreddit": "france",
-    "author": "Dall0o",
-    "flair": "Politique",
-    "domain": "solidairesinformatique.org",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/GGmq5h400VfLtpDq9a1Ikf2YOrn8TOUWE9s4-GBHUto.jpg?auto=webp&s=ded188bc477a0462caee7d489424bfb9ca9df1c8",
-    "ingested_at": "2026-11-01T10:38:14.248063+00:00",
-    "summary": "ReprÃ©sailles Ã la grÃ¨ve Il semble que certaines entreprises tentent d’empÃªcher leurs salariÃ©Â·es d’exercer leur droit de grÃ¨ve. Que le patronat du numÃ©rique mente dÃ©libÃ©rÃ©ment, ou soit incompÃ©tent au point…",
-    "thumbnail": "thumbnails/120qun0.webp",
-    "tags": [
-      "Ãªtre",
-      "Politique"
-    ],
-    "analyzed_at": "2026-11-01T10:43:45.852838+00:00"
   },
   {
     "id": "120on3f",
@@ -1129,34 +999,8 @@
     "ingested_at": "2026-11-01T10:38:14.245886+00:00",
     "summary": "",
     "thumbnail": "thumbnails/120on3f.webp",
-    "tags": [
-      "BRAV-M"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:43:46.295830+00:00"
-  },
-  {
-    "id": "120ns19",
-    "title": "Stéphane Bern hospitalisé d'urgence après l'annonce du report de la visite de Charles III",
-    "url": "https://www.legorafi.fr/2023/03/24/stephane-bern-hospitalise-durgence-apres-lannonce-du-report-de-la-visite-de-charles-iii/",
-    "permalink": "/r/france/comments/120ns19/stéphane_bern_hospitalisé_durgence_après_lannonce/",
-    "created_at": "2023-03-24T15:30:49+00:00",
-    "score": 524,
-    "num_comments": 16,
-    "subreddit": "france",
-    "author": "saintsulpice",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/5E764ZeXm_f4AyeqnOfT0aAPnel-0tmHlPMbb0l-ZHw.jpeg?auto=webp&s=4b8b2e65b79dd81d7b2b477e948f4496ed52e9ca",
-    "ingested_at": "2026-11-01T10:38:14.246225+00:00",
-    "summary": "L’animateur de France Télévision a été amené dans un état grave au centre hospitalier de Chartres après avoir appris que le souverain britannique ne pourrait honorer sa visite . » Il a été placé en soins intensifs, on lui a mis la saison 4 de The Crown en perfusion.",
-    "thumbnail": "thumbnails/120ns19.webp",
-    "tags": [
-      "Stéphane Bern",
-      "Charles III",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T10:43:46.046041+00:00"
   },
   {
     "id": "120m21a",
@@ -1176,9 +1020,7 @@
     "summary": "",
     "thumbnail": "thumbnails/120m21a.webp",
     "tags": [
-      "Marseille",
-      "IGPN",
-      "Société"
+      "Police"
     ],
     "analyzed_at": "2026-11-01T10:43:51.396609+00:00"
   },
@@ -1200,11 +1042,7 @@
     "summary": "Le compte Twitter de Florie Marie, la présidente du Parti Pirate international, a été suspendu de manière permanente. Alors qu'Elon Musk avait annoncé racheter le réseau social pour « sauver la liberté d'expression », cette suppression étonne. Que s'est-il passé sur le compte Twitter de Florie Marie ? Son nom vous",
     "thumbnail": "thumbnails/120h2f3.webp",
     "tags": [
-      "Twitter",
-      "Parti Pirate",
-      "Twitter de Florie Marie",
-      "Musk",
-      "Politique"
+      "Elon Musk"
     ],
     "analyzed_at": "2026-11-01T10:43:46.602733+00:00"
   },
@@ -1226,8 +1064,8 @@
     "summary": "",
     "thumbnail": "thumbnails/120gxo3.webp",
     "tags": [
-      "Charles III",
-      "Politique"
+      "Retraites",
+      "Manifestations"
     ],
     "analyzed_at": "2026-11-01T10:43:49.103657+00:00"
   },
@@ -1248,13 +1086,7 @@
     "ingested_at": "2026-11-01T10:38:14.248428+00:00",
     "summary": "La comédienne, qui incarnait Huguette dans la série à succès de M6 est morte jeudi à l'âge de 84 ans, après une longue carrière au théâtre, à la télévision et au cinéma, selon sa fille.",
     "thumbnail": "thumbnails/120fs1b.webp",
-    "tags": [
-      "Marion Game",
-      "Scènes",
-      "Huguette",
-      "M6",
-      "Culture"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:43:46.578191+00:00"
   },
   {
@@ -1275,8 +1107,9 @@
     "summary": "",
     "thumbnail": "thumbnails/120eq3t.webp",
     "tags": [
-      "Darmanin",
-      "Société"
+      "Gérald Darmanin",
+      "Police",
+      "Retraites"
     ],
     "analyzed_at": "2026-11-01T10:43:49.470777+00:00"
   },
@@ -1298,11 +1131,8 @@
     "summary": "Dans une note interne que l’Humanité a pu consulter, les services d’Olivier Dussopt font des préconisations contre le droit de grève.De quoi licencier les élus du personnel coupable...",
     "thumbnail": "thumbnails/120cobv.webp",
     "tags": [
-      "Humanité",
-      "Olivier Dussopt",
-      "DGT",
-      "CGT",
-      "Politique"
+      "Grèves et syndicats",
+      "Cause animale"
     ],
     "analyzed_at": "2026-11-01T10:43:47.189364+00:00"
   },
@@ -1323,13 +1153,7 @@
     "ingested_at": "2026-11-01T10:38:14.246829+00:00",
     "summary": "L’article 7 de la loi sur les Jeux olympiques a été adopté ce midi par l’Assemblée, actant l’entrée formelle de la vidéosurveillance algorithmique (VSA) dans le droit français, jusqu'en décembre 2024. À l’ombre du tumulte de la réforme des retraites, et grâce à une procédure comme d'habitude extrême",
     "thumbnail": "thumbnails/11ztwow.webp",
-    "tags": [
-      "Europe",
-      "VSA",
-      "Jeux",
-      "Assemblée",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:43:46.805375+00:00"
   },
   {
@@ -1350,32 +1174,11 @@
     "summary": "Une semaine après un huitième round en demi-teinte, les cortèges ont fait à nouveau le plein de contestataires.",
     "thumbnail": "thumbnails/11zsnm2.webp",
     "tags": [
-      "CGT",
-      "Intérieur",
-      "Paris",
-      "Politique"
+      "Grèves et syndicats",
+      "Retraites",
+      "Manifestations"
     ],
     "analyzed_at": "2026-11-01T10:43:46.898183+00:00"
-  },
-  {
-    "id": "11zqq0w",
-    "title": "Une nouvelle loi européenne va imposer aux entreprises d'indiquer une fourchette de salaire dans les offres d'emploi",
-    "url": "https://www.businesspost.ie/politics/companies-will-have-to-publish-salary-ranges-in-job-adverts-under-new-eu-transparency-rules/",
-    "permalink": "/r/france/comments/11zqq0w/une_nouvelle_loi_européenne_va_imposer_aux/",
-    "created_at": "2023-03-23T17:10:26+00:00",
-    "score": 435,
-    "num_comments": 66,
-    "subreddit": "france",
-    "author": "nowitslikemagic",
-    "flair": "Actus",
-    "domain": "businesspost.ie",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/LehLS0D7JFFdhdlxE2aozO3wU0lElaIK2ybEQ6HktJo.jpeg?auto=webp&s=dd303e5e1e97ce1d6ffb66c3f6052efed0ab2822",
-    "ingested_at": "2026-11-01T10:38:14.246681+00:00",
-    "summary": "The measure is aimed at making sure that women are not paid less than men for doing the same job",
-    "thumbnail": "thumbnails/11zqq0w.webp",
-    "tags": [],
-    "analyzed_at": "2026-11-01T10:43:47.256751+00:00"
   },
   {
     "id": "11zntpr",
@@ -1395,9 +1198,8 @@
     "summary": "",
     "thumbnail": "thumbnails/11zntpr.webp",
     "tags": [
-      "JO 2024",
-      "Jeux",
-      "Politique"
+      "Libertés publiques",
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T10:43:47.181317+00:00"
   },
@@ -1418,7 +1220,9 @@
     "ingested_at": "2026-11-01T10:38:14.247556+00:00",
     "summary": "Depuis quelques jours, les images montrant des policiers frapper gratuitement des manifestants, les insulter ou les humilier, s’accumulent au risque de banaliser les violences policières. Petit rappe…",
     "thumbnail": "thumbnails/11zijtv.webp",
-    "tags": [],
+    "tags": [
+      "Police"
+    ],
     "analyzed_at": "2026-11-01T10:43:47.902772+00:00"
   },
   {
@@ -1438,13 +1242,7 @@
     "ingested_at": "2026-11-01T10:38:14.248547+00:00",
     "summary": "La cour d’appel de Paris vient d’infirmer la décision de justice qui condamnait, en première instance, l’Assurance maladie à verser 700 000",
     "thumbnail": "thumbnails/11zi4os.webp",
-    "tags": [
-      "Assurance",
-      "Paris",
-      "Philadelphie",
-      "Laura",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:43:47.488545+00:00"
   },
   {
@@ -1464,7 +1262,10 @@
     "ingested_at": "2026-11-01T10:38:14.247321+00:00",
     "summary": "L’adolescente de 14 ans rêvait d’un stage de troisième au sein de la police technique et scientifique. Son interlocuteur de 60 ans lui a adressé une série de dessins mettant en scène des policières a…",
     "thumbnail": "thumbnails/11zd8qu.webp",
-    "tags": [],
+    "tags": [
+      "Police",
+      "Justice"
+    ],
     "analyzed_at": "2026-11-01T10:43:48.062974+00:00"
   },
   {
@@ -1485,9 +1286,8 @@
     "summary": "",
     "thumbnail": "thumbnails/11yrck4.webp",
     "tags": [
-      "Macron",
-      "RSA",
-      "Politique"
+      "Emmanuel Macron",
+      "Pauvreté"
     ],
     "analyzed_at": "2026-11-01T10:43:51.913660+00:00"
   },
@@ -1508,12 +1308,7 @@
     "ingested_at": "2026-11-01T10:38:14.246057+00:00",
     "summary": "Mardi après-midi, un adolescent de 19 ans s’est effondré en plein examen du Bac, ...",
     "thumbnail": "thumbnails/11yqc43.webp",
-    "tags": [
-      "Gaston-Berger",
-      "Lille",
-      "Vincent",
-      "Fait Divers"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:43:48.737712+00:00"
   },
   {
@@ -1535,10 +1330,8 @@
     "thumbnail": "thumbnails/11ypw3q.webp",
     "tags": [
       "Emmanuel Macron",
-      "République",
-      "Etat",
-      "Philippe Martinez",
-      "Politique"
+      "Retraites",
+      "Grèves et syndicats"
     ],
     "analyzed_at": "2026-11-01T10:43:49.153152+00:00"
   },
@@ -1560,7 +1353,7 @@
     "summary": "Sept manifestants interpellés samedi et dimanche à Paris passaient en comparution immédiate ce mardi. Une étudiante en psychologie, un agent immobilier, une graphiste ou un prof... Si les autorités a…",
     "thumbnail": "thumbnails/11yhtky.webp",
     "tags": [
-      "Paris"
+      "Justice"
     ],
     "analyzed_at": "2026-11-01T10:43:48.905656+00:00"
   },
@@ -1582,11 +1375,9 @@
     "summary": "Plusieurs manifestants dénoncent des violences policières mais aussi des arrestations abusives lors des rassemblements de ces derniers jours, après le recours au 49.3 pour faire adopter sans vote la réforme des retraites.",
     "thumbnail": "thumbnails/11yep6w.webp",
     "tags": [
-      "Brav-M",
-      "Réforme des retraites",
-      "Retraite",
-      "Éco / Conso",
-      "Politique"
+      "Retraites",
+      "Police",
+      "Manifestations"
     ],
     "analyzed_at": "2026-11-01T10:43:49.173933+00:00"
   },
@@ -1608,11 +1399,7 @@
     "summary": "Le président de la République s'est exprimé devant les parlementaires de la majorité ce mardi soir à l'Élysée, au lendemain de l'adoption de la réforme des retraites au Parlement.",
     "thumbnail": "thumbnails/11xtx2i.webp",
     "tags": [
-      "MACRON",
-      "FOULE",
-      "PEUPLE",
-      "EXPRIME",
-      "Politique"
+      "Retraites"
     ],
     "analyzed_at": "2026-11-01T10:43:49.570063+00:00"
   },
@@ -1634,34 +1421,9 @@
     "summary": "",
     "thumbnail": "thumbnails/11xmcl4.webp",
     "tags": [
-      "Concorde",
-      "Autriche",
-      "Politique"
+      "Manifestations"
     ],
     "analyzed_at": "2026-11-01T10:43:55.564023+00:00"
-  },
-  {
-    "id": "11xev74",
-    "title": "Bernard de la Villardière : « les gens pleurnichent parce qu’ils doivent bosser 2 ans de plus, ça me désespère. Il y a tellement de choses à faire aujourd’hui dans le monde ! »",
-    "url": "https://fr.news.yahoo.com/amphtml/gens-pleurnichent-parce-quils-vont-155102787.html",
-    "permalink": "/r/france/comments/11xev74/bernard_de_la_villardière_les_gens_pleurnichent/",
-    "created_at": "2023-03-21T12:06:31+00:00",
-    "score": 387,
-    "num_comments": 263,
-    "subreddit": "france",
-    "author": "gavarnie",
-    "flair": "Politique",
-    "domain": "fr.news.yahoo.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/XS_VD-8X7taeiFh9rb8fjJXrw1zGjczybSixgpqNmxo.jpg?auto=webp&s=5a977676f62c88d2fc9ec30cfb8d8249ac1927b9",
-    "ingested_at": "2026-11-01T10:38:14.247072+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/11xev74.webp",
-    "tags": [
-      "Villardière",
-      "Politique"
-    ],
-    "analyzed_at": "2026-11-01T10:43:51.116852+00:00"
   },
   {
     "id": "11xcahe",
@@ -1681,11 +1443,10 @@
     "summary": "À Paris, des policiers, CRS et agents de la BRAV-M ont violenté des manifestants qui défilaient contre la réforme des retraites après l'échec des motions de censure à l'Assemblée nationale ce lundi. Des députés LFI interpellent Gérald Darmanin.",
     "thumbnail": "thumbnails/11xcahe.webp",
     "tags": [
-      "CRS",
-      "BRAV-M",
-      "Paris",
-      "Assemblée",
-      "Politique"
+      "Police",
+      "Retraites",
+      "Manifestations",
+      "Gérald Darmanin"
     ],
     "analyzed_at": "2026-11-01T10:43:49.504691+00:00"
   },
@@ -1706,7 +1467,9 @@
     "ingested_at": "2026-11-01T10:38:14.247862+00:00",
     "summary": "Alors que le recours au 49-3 a entraîné une multiplication des rassemblements et actions spontanés partout en France, le dispositif policier a renoué avec ses travers : interpellations massives et ma…",
     "thumbnail": "thumbnails/11wveu2.webp",
-    "tags": [],
+    "tags": [
+      "Police"
+    ],
     "analyzed_at": "2026-11-01T10:43:50.363679+00:00"
   },
   {
@@ -1727,9 +1490,10 @@
     "summary": "La motion de censure transpartisane a été rejetée à seulement 9 vois près. Élisabeth Borne et Emmanuel Macron sortent très affaiblis de cette séquence politique. Pour tenter de rendre la main, le président va consulter très largement demain en recevant les chefs de la majorité et ses députés.",
     "thumbnail": "thumbnails/11wrar7.webp",
     "tags": [
-      "RN",
-      "Élisabeth Borne et Emmanuel Macron",
-      "Politique"
+      "Institutions",
+      "Emmanuel Macron",
+      "Élisabeth Borne",
+      "Retraites"
     ],
     "analyzed_at": "2026-11-01T10:43:49.859557+00:00"
   },
@@ -1751,9 +1515,8 @@
     "summary": "",
     "thumbnail": "thumbnails/11wpw1t.webp",
     "tags": [
-      "LIOT",
-      "Assemblée",
-      "Politique"
+      "Retraites",
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T10:43:50.066549+00:00"
   },
@@ -1794,10 +1557,7 @@
     "ingested_at": "2026-11-01T10:38:14.248113+00:00",
     "summary": "",
     "thumbnail": "thumbnails/11wfesp.webp",
-    "tags": [
-      "Instagram de Borne",
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:43:56.448677+00:00"
   },
   {
@@ -1817,35 +1577,8 @@
     "ingested_at": "2026-11-01T10:38:14.247892+00:00",
     "summary": "",
     "thumbnail": "thumbnails/11vk9ef.webp",
-    "tags": [
-      "Économie"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:43:53.233966+00:00"
-  },
-  {
-    "id": "11vfcxc",
-    "title": "Reforme des retraites. La popularité de Macron au plus bas depuis les Gilets jaunes",
-    "url": "https://www.lejsl.com/social/2023/03/19/la-popularite-de-macron-au-plus-bas-depuis-les-gilets-jaunes",
-    "permalink": "/r/france/comments/11vfcxc/reforme_des_retraites_la_popularité_de_macron_au/",
-    "created_at": "2023-03-19T08:12:16+00:00",
-    "score": 445,
-    "num_comments": 154,
-    "subreddit": "france",
-    "author": "anyatrans",
-    "flair": "Politique",
-    "domain": "lejsl.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/8XcsTmUhx3r3DtQSB0xTecDNft9NiwE9otupuZXU7-I.jpeg?auto=webp&s=e83fc1811abe7104d44002a242584762fff30dcd",
-    "ingested_at": "2026-11-01T10:38:14.246588+00:00",
-    "summary": "La popularité d'Emmanuel Macron a chuté de 13 points depuis sa réélection en mai 2022 et atteint désormais 28%.",
-    "thumbnail": "thumbnails/11vfcxc.webp",
-    "tags": [
-      "Gilets",
-      "Macron",
-      "Emmanuel Macron",
-      "Politique"
-    ],
-    "analyzed_at": "2026-11-01T10:43:52.278585+00:00"
   },
   {
     "id": "11v5byg",
@@ -1865,7 +1598,8 @@
     "summary": "À Nantes, quatre étudiantes ont déposé plainte, vendredi, pour « violences sexuelles par dépositaire de l’autorité publique » après avoir subi une fouille au corps lors d’une nasse par la police, le …",
     "thumbnail": "thumbnails/11v5byg.webp",
     "tags": [
-      "Nantes"
+      "Police",
+      "Violences sexuelles"
     ],
     "analyzed_at": "2026-11-01T10:43:52.339037+00:00"
   },
@@ -1887,11 +1621,8 @@
     "summary": "Le président du Rassemblement national, Jordan Bardella, a appelé vendredi sur C8 les députés LR à \"avoir le courage de résister aux pressions et à la macronie\".",
     "thumbnail": "thumbnails/11uupps.webp",
     "tags": [
-      "LR",
-      "RN",
-      "Rassemblement",
-      "Jordan Bardella",
-      "Politique"
+      "Institutions",
+      "Jordan Bardella"
     ],
     "analyzed_at": "2026-11-01T10:43:52.107851+00:00"
   },
@@ -1913,9 +1644,8 @@
     "summary": "",
     "thumbnail": "thumbnails/11ustau.webp",
     "tags": [
-      "Concorde",
-      "Paris",
-      "Politique"
+      "Police",
+      "Retraites"
     ],
     "analyzed_at": "2026-11-01T10:43:55.475982+00:00"
   },
@@ -1937,11 +1667,7 @@
     "summary": "Entendu ce jeudi 16 mars à l’Assemblée nationale par la Commission d'enquête visant à établir les raisons de la perte de souveraineté et d'indépendance énergétique de la France pour sa dernière audition, l’ancien Président de la République s’est attelé à une tâche difficile : faire croire qu’il n’était pour rien dans…",
     "thumbnail": "thumbnails/11una6g.webp",
     "tags": [
-      "François Hollande",
-      "Assemblée",
-      "Commission",
-      "Président de la République",
-      "Société"
+      "François Hollande"
     ],
     "analyzed_at": "2026-11-01T10:43:52.723870+00:00"
   },
@@ -1962,9 +1688,7 @@
     "ingested_at": "2026-11-01T10:38:14.245961+00:00",
     "summary": "Alors que les premières réquisitions d'agents commencent, les éboueurs du garage d'Ivry-sur-Seine ne comptent pas affaiblir le mouvement",
     "thumbnail": "thumbnails/11tv1el.webp",
-    "tags": [
-      "Ivry-sur-Seine"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:43:53.006903+00:00"
   },
   {
@@ -1985,9 +1709,8 @@
     "summary": "Suivez avec nous les informations sur le conflit de ce vendredi 17 mars 2023",
     "thumbnail": "thumbnails/11tub16.webp",
     "tags": [
-      "Ukraine",
-      "Cour",
-      "Vladimir Poutine"
+      "Vladimir Poutine",
+      "Guerre en Ukraine"
     ],
     "analyzed_at": "2026-11-01T10:43:53.296540+00:00"
   },
@@ -2008,36 +1731,8 @@
     "ingested_at": "2026-11-01T10:38:14.246342+00:00",
     "summary": "",
     "thumbnail": "thumbnails/11tnsde.webp",
-    "tags": [
-      "Salomé Saqué",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:43:54.891344+00:00"
-  },
-  {
-    "id": "11tmu0q",
-    "title": "Joseph-Ignace Guillotin",
-    "url": "https://fr.m.wikipedia.org/wiki/Joseph-Ignace_Guillotin",
-    "permalink": "/r/france/comments/11tmu0q/josephignace_guillotin/",
-    "created_at": "2023-03-17T10:06:25+00:00",
-    "score": 276,
-    "num_comments": 64,
-    "subreddit": "france",
-    "author": "hurricanebones",
-    "flair": "Forum Libre",
-    "domain": "fr.m.wikipedia.org",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/x_KAMb5kjKkvFU6lBBagacR5HqfVpI7mO2btogo-JWQ.jpg?auto=webp&s=188f03e284702424df17e0fd13e21616ccde08b7",
-    "ingested_at": "2026-11-01T10:38:14.248190+00:00",
-    "summary": "Joseph-Ignace Guillotin , né le 28 mai 1738 à Saintes et mort le 26 mars 1814 à Paris , est un médecin et homme politique français . Il est connu pour avoir fait adopter, sous la Révolution française , la guillotine comme mode unique d’ exécution capitale .",
-    "thumbnail": "thumbnails/11tmu0q.webp",
-    "tags": [
-      "Joseph-Ignace Guillotin",
-      "Paris",
-      "Saintes",
-      "Révolution"
-    ],
-    "analyzed_at": "2026-11-01T10:43:54.487063+00:00"
   },
   {
     "id": "11t2s8p",
@@ -2057,11 +1752,10 @@
     "summary": "Après le recours du 49.3 à l'Assemblée nationale ce jeudi après-midi par Élisabeth Borne, une manifestation surprise s'est organisée à la Concorde dans l'après-midi.",
     "thumbnail": "thumbnails/11t2s8p.webp",
     "tags": [
-      "Concorde",
-      "Assemblée",
+      "Manifestations",
+      "Institutions",
       "Élisabeth Borne",
-      "Paris",
-      "Politique"
+      "Retraites"
     ],
     "analyzed_at": "2026-11-01T10:43:53.571727+00:00"
   },
@@ -2083,7 +1777,7 @@
     "summary": "",
     "thumbnail": "thumbnails/11sxuga.webp",
     "tags": [
-      "Bruno le Maire"
+      "Bruno Le Maire"
     ],
     "analyzed_at": "2026-11-01T10:43:57.142064+00:00"
   },
@@ -2105,11 +1799,9 @@
     "summary": "La mobilisation contre la réforme des retraites se poursuit jeudi après le recours à l'article 49.3 de la Constitution par le gouvernement pour faire adopter le texte. Plusieurs oppositions ont d'ores et déjà annoncé déposer une motion de censure.",
     "thumbnail": "thumbnails/11suqzp.webp",
     "tags": [
-      "Assemblée",
-      "BFMTV",
-      "Paris",
-      "Elisabeth Borne",
-      "Politique"
+      "Retraites",
+      "Institutions",
+      "Élisabeth Borne"
     ],
     "analyzed_at": "2026-11-01T10:43:54.025033+00:00"
   },
@@ -2131,10 +1823,10 @@
     "summary": "SONDAGE BFMTV - Selon une nouvelle enquête Elabe publiée ce mercredi, six Français sur dix souhaitent que la mobilisation contre la réforme des retraites se poursuive après le 16 mars, même si les députés votent le texte ou que le gouvernement utilise l'article 49.3 de la Constitution.",
     "thumbnail": "thumbnails/11s17zm.webp",
     "tags": [
-      "Français",
-      "Elabe",
-      "SONDAGE BFMTV",
-      "Constitution",
+      "Retraites",
+      "Manifestations",
+      "Institutions",
+      "Élections",
       "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T10:43:54.770035+00:00"
@@ -2157,9 +1849,8 @@
     "summary": "Face à un policier toulousain qui évoque \"des relations sexuelles consenties\", ses victimes n’ont pas osé dénoncer les faits croyant le combat perdu. C’est la police des polices qui les a retrouvées.",
     "thumbnail": "thumbnails/11rpolp.webp",
     "tags": [
-      "Toulouse",
-      "IGPN",
-      "Fait Divers"
+      "Police",
+      "Violences sexuelles"
     ],
     "analyzed_at": "2026-11-01T10:43:54.864284+00:00"
   },
@@ -2181,9 +1872,8 @@
     "summary": "",
     "thumbnail": "thumbnails/11rcd9b.webp",
     "tags": [
-      "Paris",
-      "Monde",
-      "Politique"
+      "Retraites",
+      "Grèves et syndicats"
     ],
     "analyzed_at": "2026-11-01T10:43:55.251350+00:00"
   },
@@ -2205,9 +1895,8 @@
     "summary": "VIDÉO - Invité de BFMTV ce lundi soir, l'économiste Jacques Attali explique qu'il aurait cherché les 13 milliards d'euros manquants pour financer le déficit des retraites \"dans les impôts sur les plus riches\".",
     "thumbnail": "thumbnails/11r3rki.webp",
     "tags": [
-      "Jacques Attali",
-      "BFMTV",
-      "Politique"
+      "Retraites",
+      "Budget et fiscalité"
     ],
     "analyzed_at": "2026-11-01T10:43:55.222287+00:00"
   },
@@ -2229,11 +1918,7 @@
     "summary": "[VIDÉO] Un groupe aurait dépensé plus de quatre millions de dollars pour acheter les données d'applications homosexuelles. Le collectif catholique du Colorado visait explicitement les prêtres qui utilisaient ces plateformes. Le président de ce groupe assume vouloir aider \"l'Église à être sainte\".",
     "thumbnail": "thumbnails/11r0u09.webp",
     "tags": [
-      "États-Unis",
-      "Grinder",
-      "Colorado",
-      "Église",
-      "High-tech"
+      "LGBT+"
     ],
     "analyzed_at": "2026-11-01T10:43:55.922936+00:00"
   },
@@ -2274,10 +1959,7 @@
     "ingested_at": "2026-11-01T10:38:14.248333+00:00",
     "summary": "La faute de cette salariée, licenciée en 2021 : avoir révélé que la firme californienne transforme ses employés en cobayes. Allant jusqu’à les traquer dans leur intimité.",
     "thumbnail": "thumbnails/11qynqm.webp",
-    "tags": [
-      "Ashley Gjøvik",
-      "Apple"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:43:55.564806+00:00"
   },
   {
@@ -2298,38 +1980,10 @@
     "summary": "Le renforcement des effectifs de police et le faible attrait du métier entraînent depuis plusieurs années une baisse du niveau des recrues. Près d’un candidat sur cinq est aujourd’hui admis contre un sur 50 il y a dix ans.",
     "thumbnail": "thumbnails/11qbidf.webp",
     "tags": [
-      "Gérald Darmanin",
-      "Violence policière",
-      "Gendarmerie",
-      "Société"
+      "Police",
+      "Gérald Darmanin"
     ],
     "analyzed_at": "2026-11-01T10:43:55.988208+00:00"
-  },
-  {
-    "id": "11q1wne",
-    "title": "SpeeDons 3 : Un nouveau record de 1 252 637 € au profit de Médecins du Monde.",
-    "url": "https://www.jeuxvideo.com/news/1722527/speedons-3-un-nouveau-record-atteint-a-toute-vitesse-par-le-marathon-caritatif-de-mistermv.htm",
-    "permalink": "/r/france/comments/11q1wne/speedons_3_un_nouveau_record_de_1_252_637_au/",
-    "created_at": "2023-03-13T06:14:48+00:00",
-    "score": 371,
-    "num_comments": 67,
-    "subreddit": "france",
-    "author": "tyanu_khah",
-    "flair": "Forum Libre",
-    "domain": "jeuxvideo.com",
-    "selftext": "Je suis fier d'avoir pu apporter ma pierre à l'édifice.",
-    "reddit_thumbnail": "https://external-preview.redd.it/IsTQHD7DVDQPfx6SgCQB5_vyytrEndD2vFWLGxxfZ5o.jpeg?auto=webp&s=4cfa8dbe39c9a3284e199ae73d7f3b0042fd57f3",
-    "ingested_at": "2026-11-01T10:38:14.247244+00:00",
-    "summary": "Les adeptes du speedruns avaient encore l'AGDQ en tête qu'ils ont eu droit à du rab avec sa version française, SpeeDons. Organisé par MisterMV en faveur de Médecins du Monde, l'événement se déroulait pour la troisième fois ces derniers jours avec un objectif évident et parfaitement de...",
-    "thumbnail": "thumbnails/11q1wne.webp",
-    "tags": [
-      "Médecins du Monde",
-      "News culture",
-      "AGDQ",
-      "MisterMV",
-      "News Game"
-    ],
-    "analyzed_at": "2026-11-01T10:43:56.529656+00:00"
   },
   {
     "id": "11pf0ki",
@@ -2349,11 +2003,8 @@
     "summary": "La justice a effectué des saisies d’un montant de 461 millions d’euros mercredi sur les actifs d’un riche homme d’affaires.",
     "thumbnail": "thumbnails/11pf0ki.webp",
     "tags": [
-      "Paris",
-      "Économie",
-      "Fraude fiscale",
-      "Fil info",
-      "Replay"
+      "Justice",
+      "Budget et fiscalité"
     ],
     "analyzed_at": "2026-11-01T10:43:56.040392+00:00"
   },
@@ -2374,10 +2025,7 @@
     "ingested_at": "2026-11-01T10:38:14.248837+00:00",
     "summary": "On n'avait pas vu ça depuis 150 ans, c'est donc une tradition ancestrale qui est remise à l'ordre du jour à la demande d'agriculteurs désespérés mais qui savent fort bien à quel saint se vouer : Gaudérique. Ce samedi...",
     "thumbnail": "thumbnails/11p9p0d.webp",
-    "tags": [
-      "Perpignan",
-      "Saint-Gaudérique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:43:56.050132+00:00"
   },
   {
@@ -2398,9 +2046,8 @@
     "summary": "La plupart des achats se faisant désormais par carte bancaire, les Français ont perdu l’habitude d’avoir de la monnaie sur eux. Un manque particulièrement visible pour les sans-abri",
     "thumbnail": "thumbnails/11ooobn.webp",
     "tags": [
-      "SDF",
-      "Français",
-      "Société"
+      "Logement",
+      "Pauvreté"
     ],
     "analyzed_at": "2026-11-01T10:43:56.073266+00:00"
   },
@@ -2422,10 +2069,9 @@
     "summary": "EXCLUSIF L’Institut des politiques publiques (Ecole d’Economie de Paris), en collaboration avec l'administration fiscale à Bercy, finalise une étude qui devrait démontrer que les ultra riches évitent massivement l’impôt en France par rapport au reste de la population.",
     "thumbnail": "thumbnails/11ok6fu.webp",
     "tags": [
-      "Ecole Economie de Paris",
-      "Bercy",
-      "Institut",
-      "ISF",
+      "Budget et fiscalité",
+      "Éducation",
+      "Économie",
       "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T10:43:56.513080+00:00"
@@ -2448,11 +2094,9 @@
     "summary": "\"On n'est pas pro-russes, mais on n'est pas pro-ukrainiens non plus\", affirme sur le plateau de BFMTV Olivier Mateu, secrétaire de l’union départementale CGT des Bouches-du-Rhône et candidat déclaré à la succession de Philippe Martinez, qui ne veut \"pas choisir entre un impérialisme ou un autre.\"",
     "thumbnail": "thumbnails/11ofp31.webp",
     "tags": [
-      "Olivier Mateu",
-      "CGT",
-      "Zelensky et Poutine",
-      "Philippe Martinez",
-      "Politique"
+      "Grèves et syndicats",
+      "Vladimir Poutine",
+      "Volodymyr Zelensky"
     ],
     "analyzed_at": "2026-11-01T10:43:57.028084+00:00"
   },
@@ -2474,10 +2118,9 @@
     "summary": "La septième journée de mobilisation contre le projet du gouvernement samedi 11 mars va rassembler des salariés et fonctionnaires qui peuvent difficilement cesser le travail, notamment pour raison financière.",
     "thumbnail": "thumbnails/11oemc0.webp",
     "tags": [
-      "Français",
-      "Réforme des retraites",
-      "Éco / Conso",
-      "Société"
+      "Retraites",
+      "Manifestations",
+      "Grèves et syndicats"
     ],
     "analyzed_at": "2026-11-01T10:43:56.638329+00:00"
   },
@@ -2499,11 +2142,8 @@
     "summary": "SONDAGE - La dernière vague de l'étude Odoxa-Backbone Consulting pour Le Figaro révèle que, en cas de nouveaux blocages, le pays en tiendrait davantage rigueur à l'exécutif qu'à l'intersyndicale.",
     "thumbnail": "thumbnails/11ntxmn.webp",
     "tags": [
-      "Français",
-      "Réforme des retraites",
-      "Odoxa-Backbone Consulting",
-      "Figaro",
-      "CGT"
+      "Retraites",
+      "Grèves et syndicats"
     ],
     "analyzed_at": "2026-11-01T10:43:57.233383+00:00"
   },
@@ -2524,13 +2164,7 @@
     "ingested_at": "2026-11-01T10:38:14.246202+00:00",
     "summary": "Ces informations ont été obtenues à la suite d'une fuite de données sur internet. Les documents font aussi apparaître les montages complexes mis en place pour acheter les avions utilisés par le patron français, relate \"Complément d'enquête\".",
     "thumbnail": "thumbnails/11nrfim.webp",
-    "tags": [
-      "Patrick Drahi",
-      "CO2",
-      "VIDEO",
-      "Paradis fiscaux",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:43:56.537137+00:00"
   },
   {
@@ -2551,7 +2185,7 @@
     "summary": "",
     "thumbnail": "thumbnails/11noxyh.webp",
     "tags": [
-      "Société"
+      "Antisémitisme"
     ],
     "analyzed_at": "2026-11-01T10:43:57.140186+00:00"
   },
@@ -2573,10 +2207,9 @@
     "summary": "Le mardi 7 mars 2023, quatre gendarmes ont été condamnés pour des faits de harcèlement sexuel commis entre 2016 et 2021 au GOS (groupe d'observation et de surveillance) de Strasbourg sur une gendarme. Trois d'entre eux étaient...",
     "thumbnail": "thumbnails/11nk40m.webp",
     "tags": [
-      "Strasbourg",
-      "GOS",
-      "WhatsApp",
-      "Fait Divers"
+      "Police",
+      "Justice",
+      "Violences sexuelles"
     ],
     "analyzed_at": "2026-11-01T10:43:57.193565+00:00"
   },
@@ -2597,10 +2230,7 @@
     "ingested_at": "2026-11-01T10:38:14.248627+00:00",
     "summary": "Pour la première fois, un organisme officiel a pu établir le chiffrage exact des dépenses en consultants de l’Etat. Dans un rapport rendu en janvier 2023, l’Inspection générale des Finances chiffre à 2,5 milliards d’euros les achats en prestations intellectuelles au niveau des ministères.",
     "thumbnail": "thumbnails/11n1txo.webp",
-    "tags": [
-      "Etat",
-      "Finances"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:43:57.246021+00:00"
   },
   {
@@ -2620,12 +2250,7 @@
     "ingested_at": "2026-11-01T10:38:14.246611+00:00",
     "summary": "Ce naturopathe, aux près de 600.000 abonnés sur Youtube, défend le jeûne et le manger cru. Il a fait l'objet de centaines de saisines auprès de la Miviludes.",
     "thumbnail": "thumbnails/11mxntu.webp",
-    "tags": [
-      "Youtube",
-      "Thierry Casasnovas",
-      "Miviludes",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:43:57.284129+00:00"
   },
   {
@@ -2646,11 +2271,9 @@
     "summary": "La chambre haute a adopté l'article 8 de la réforme des retraites, qui porte sur les carrières longues, jeudi, par 245 voix pour et 94 contre.",
     "thumbnail": "thumbnails/11mqo7a.webp",
     "tags": [
-      "CGT",
-      "Saint-Denis",
-      "Réforme des retraites",
-      "Éco / Conso",
-      "Politique"
+      "Retraites",
+      "Grèves et syndicats",
+      "Manifestations"
     ],
     "analyzed_at": "2026-11-01T10:43:57.242741+00:00"
   },
@@ -2672,11 +2295,7 @@
     "summary": "INFO LE FIGARO - Depuis cinq ans, le journaliste Stefan de Vries réclame la communication des notes de frais d'Anne Hidalgo et de ses adjoints. Le Conseil d'État avait donné un mois à la maire de Paris pour s'exécuter. Passé ce délai, et après la publication de cet article, la Ville de Paris...",
     "thumbnail": "thumbnails/11mq5y0.webp",
     "tags": [
-      "Anne Hidalgo",
-      "Paris",
-      "Conseil État",
-      "FIGARO",
-      "Stefan de Vries"
+      "Anne Hidalgo"
     ],
     "analyzed_at": "2026-11-01T10:43:58.646688+00:00"
   },
@@ -2699,9 +2318,7 @@
     "thumbnail": "thumbnails/11m3la9.webp",
     "tags": [
       "Aurore Bergé",
-      "ITT",
-      "Violences faites aux femmes",
-      "Politique"
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T10:43:58.114306+00:00"
   },
@@ -2723,11 +2340,7 @@
     "summary": "Après une enquête menée par l'IGPN, ce fonctionnaire de police est cité à comparaître devant le tribunal de Pontoise, mercredi, pour \"omission de porter secours\".",
     "thumbnail": "thumbnails/11lqtlx.webp",
     "tags": [
-      "IGPN",
-      "Pontoise",
-      "PV",
-      "Ophélie",
-      "Société"
+      "Police"
     ],
     "analyzed_at": "2026-11-01T10:43:57.609455+00:00"
   },
@@ -2749,11 +2362,10 @@
     "summary": "L'entourage d'Emmanuel Macron ne répond toutefois pas directement à la demande des syndicats d'être reçus \"en urgence\" par le président.",
     "thumbnail": "thumbnails/11l8bv2.webp",
     "tags": [
-      "CGT",
-      "Interieur",
+      "Grèves et syndicats",
+      "Retraites",
       "Emmanuel Macron",
-      "Réforme des retraites",
-      "Politique"
+      "Manifestations"
     ],
     "analyzed_at": "2026-11-01T10:43:58.042733+00:00"
   },
@@ -2775,11 +2387,8 @@
     "summary": "Plusieurs parlementaires de la majorité ont exprimé des réticences à l'égard du projet de loi actuellement débattu au Sénat, qui reviendra à l'Assemblée nationale la semaine prochaine.",
     "thumbnail": "thumbnails/11l4p7n.webp",
     "tags": [
-      "Renaissance",
-      "Assemblée",
-      "Sénat",
-      "Réforme des retraites",
-      "Politique"
+      "Institutions",
+      "Retraites"
     ],
     "analyzed_at": "2026-11-01T10:43:58.524606+00:00"
   },
@@ -2801,10 +2410,8 @@
     "summary": "La commune d'Annonay (Ardèche) a été visée par des coupures d'électricité ce mardi 7 mars. La CGT confirme vouloir viser délibérement le fief du ministre du Travail Olivier Dussopt, qui figure parmi les symboles de la réforme des retraites du gouvernement.",
     "thumbnail": "thumbnails/11l48xg.webp",
     "tags": [
-      "CGT",
-      "Olivier Dussopt",
-      "Travail Olivier Dussopt",
-      "Annonay"
+      "Grèves et syndicats",
+      "Retraites"
     ],
     "analyzed_at": "2026-11-01T10:43:57.697084+00:00"
   },
@@ -2825,10 +2432,7 @@
     "ingested_at": "2026-11-01T10:38:14.248040+00:00",
     "summary": "",
     "thumbnail": "thumbnails/11kvp03.webp",
-    "tags": [
-      "Julien Bayou",
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:43:58.453210+00:00"
   },
   {
@@ -2849,10 +2453,7 @@
     "summary": "",
     "thumbnail": "thumbnails/11ktn5f.webp",
     "tags": [
-      "LFI",
-      "Valérie Pécresse",
-      "ENA",
-      "Politique"
+      "Valérie Pécresse"
     ],
     "analyzed_at": "2026-11-01T10:44:02.677175+00:00"
   },
@@ -2874,11 +2475,7 @@
     "summary": "Au nom de la protection de l’eau, des militants de Youth for Climate et Extinction Rebellion ont occupé une centrale à béton près de Lyon. Des bétonnières, des réservoirs d’essence et un concasseur ont été sabotés.",
     "thumbnail": "thumbnails/11jxcpf.webp",
     "tags": [
-      "Lyon",
-      "Luttes",
-      "Youth",
-      "Reporterre",
-      "Écologie"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T10:43:58.139812+00:00"
   },
@@ -2900,8 +2497,8 @@
     "summary": "",
     "thumbnail": "thumbnails/11jsh05.webp",
     "tags": [
-      "RSA",
-      "Politique"
+      "Pauvreté",
+      "Cause animale"
     ],
     "analyzed_at": "2026-11-01T10:43:59.069901+00:00"
   },
@@ -2923,35 +2520,9 @@
     "summary": "Ramzan Kadyrov souffrirait de problèmes rénaux venant d'un empoisonnement présumé, selon plusieurs sources.",
     "thumbnail": "thumbnails/11jroqq.webp",
     "tags": [
-      "Tchétchénie",
-      "Poutine",
-      "Ramzan Kadyrov"
+      "Vladimir Poutine"
     ],
     "analyzed_at": "2026-11-01T10:43:59.616229+00:00"
-  },
-  {
-    "id": "11ivt7s",
-    "title": "Vif échange entre Macron et le président Congolais",
-    "url": "https://streamable.com/99dcsf",
-    "permalink": "/r/france/comments/11ivt7s/vif_échange_entre_macron_et_le_président_congolais/",
-    "created_at": "2023-03-05T12:19:06+00:00",
-    "score": 513,
-    "num_comments": 121,
-    "subreddit": "france",
-    "author": "Rep_That_West",
-    "flair": "Politique",
-    "domain": "streamable.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/PUOMisoKWWULTC9JJ_wCNlkcyYjfkYh6h_DmDYqDEFw.jpeg?auto=webp&s=96563298616cfc7f3d00f05cd81be11d4a5c9446",
-    "ingested_at": "2026-11-01T10:38:14.246294+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/11ivt7s.webp",
-    "tags": [
-      "Macron",
-      "Congolais",
-      "Politique"
-    ],
-    "analyzed_at": "2026-11-01T10:43:58.678028+00:00"
   },
   {
     "id": "11isehd",
@@ -2970,9 +2541,7 @@
     "ingested_at": "2026-11-01T10:38:14.247743+00:00",
     "summary": "",
     "thumbnail": "thumbnails/11isehd.webp",
-    "tags": [
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:43:59.660954+00:00"
   },
   {
@@ -2992,9 +2561,7 @@
     "ingested_at": "2026-11-01T10:38:14.248864+00:00",
     "summary": "",
     "thumbnail": "thumbnails/11i91t2.webp",
-    "tags": [
-      "Abou Merguez"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:43:59.038419+00:00"
   },
   {
@@ -3015,9 +2582,8 @@
     "summary": "Barrages filtrants, blocages de plates-formes logistiques, opérations escargot… Les chauffeurs, discrets lors des premières mobilisations co",
     "thumbnail": "thumbnails/11hyjmm.webp",
     "tags": [
-      "Fabrice Michaud",
-      "CFA",
-      "Société"
+      "Retraites",
+      "Grèves et syndicats"
     ],
     "analyzed_at": "2026-11-01T10:43:58.964623+00:00"
   },
@@ -3039,35 +2605,9 @@
     "summary": "",
     "thumbnail": "thumbnails/11gxux0.webp",
     "tags": [
-      "ECB",
       "Économie"
     ],
     "analyzed_at": "2026-11-01T10:44:04.745643+00:00"
-  },
-  {
-    "id": "11gtuad",
-    "title": "898 entrées pour la première semaine du film Slava Ukraini de BHL",
-    "url": "https://www.allocine.fr/film/fichefilm-311432/box-office/",
-    "permalink": "/r/france/comments/11gtuad/898_entrées_pour_la_première_semaine_du_film/",
-    "created_at": "2023-03-03T06:46:59+00:00",
-    "score": 221,
-    "num_comments": 123,
-    "subreddit": "france",
-    "author": "saintsulpice",
-    "flair": "Humour",
-    "domain": "allocine.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/ReYkkchNHI9AV5wAxelZBT70eqiUkVBwLVrUolQsoek.jpeg?auto=webp&s=1fbc64fd5dd81ac51837ea50a2d877bd96242e1c",
-    "ingested_at": "2026-11-01T10:38:14.248917+00:00",
-    "summary": "Retrouvez les chiffres du box-office pour le film Slava Ukraini. Découvrez le détail, semaine par semaine, des entrées cinéma en France du film Slava Ukraini realisé par Bernard-Henri Lévy",
-    "thumbnail": "thumbnails/11gtuad.webp",
-    "tags": [
-      "Slava Ukraini de BHL",
-      "Slava Ukraini",
-      "Bernard-Henri Lévy",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T10:43:58.927982+00:00"
   },
   {
     "id": "11g45qi",
@@ -3087,7 +2627,8 @@
     "summary": "",
     "thumbnail": "thumbnails/11g45qi.webp",
     "tags": [
-      "Société"
+      "Violences sexuelles",
+      "Santé"
     ],
     "analyzed_at": "2026-11-01T10:44:00.682701+00:00"
   },
@@ -3109,11 +2650,7 @@
     "summary": "La secrétaire d'Etat Sarah El-Haïry souhaite rendre le SNU obligatoire dans six départements, avant d'élargir l'expérimentation, selon une note que franceinfo a pu consulter.",
     "thumbnail": "thumbnails/11fyx28.webp",
     "tags": [
-      "Éducation",
-      "SNU",
-      "Etat Sarah El-Haïry",
-      "Service national universel",
-      "Société"
+      "Éducation"
     ],
     "analyzed_at": "2026-11-01T10:43:59.244250+00:00"
   },
@@ -3136,8 +2673,7 @@
     "thumbnail": "thumbnails/11f73h6.webp",
     "tags": [
       "Olivier Véran",
-      "Français",
-      "Politique"
+      "Retraites"
     ],
     "analyzed_at": "2026-11-01T10:43:59.581965+00:00"
   },
@@ -3158,13 +2694,7 @@
     "ingested_at": "2026-11-01T10:38:14.246906+00:00",
     "summary": "Le ministre du Travail a été interpellé par une députée LFI à l’Assemblée après la révélation de son appel d’une décision du tribunal administratif de Paris qui avait donné raison à un syndicat qui réclamait depuis 2019 un contrôle d’Uber par l’Inspection du travail.",
     "thumbnail": "thumbnails/11f2yfv.webp",
-    "tags": [
-      "Uber",
-      "Inspection",
-      "Olivier Dussopt",
-      "Paris",
-      "Assemblée"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:43:59.673267+00:00"
   },
   {
@@ -3185,7 +2715,7 @@
     "summary": "",
     "thumbnail": "thumbnails/11f0enp.webp",
     "tags": [
-      "Portugal"
+      "Retraites"
     ],
     "analyzed_at": "2026-11-01T10:43:59.744974+00:00"
   },
@@ -3206,7 +2736,10 @@
     "ingested_at": "2026-11-01T10:38:14.246538+00:00",
     "summary": "",
     "thumbnail": "thumbnails/11ezm75.webp",
-    "tags": [],
+    "tags": [
+      "Éducation",
+      "Pauvreté"
+    ],
     "analyzed_at": "2026-11-01T10:43:59.903275+00:00"
   }
 ]

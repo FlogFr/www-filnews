@@ -4,7 +4,9 @@
 }
 
 .site-main {
-  padding-block: var(--space-4) var(--space-5);
+  &__inner {
+    padding-block: var(--space-4) var(--space-5);
+  }
 
   &:focus {
     outline: none;
@@ -38,6 +40,7 @@
 
   &__mark {
     grid-row: span 2;
+    color: var(--color-brand);
   }
 
   &__name {

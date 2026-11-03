@@ -5,54 +5,129 @@
 {% block structured_data %}{% website_ld %}{% endblock %}
 {% block og_image %}{% if headline.thumbnail %}<meta property="og:image" content="{{ headline.thumbnail|media_url|absolute }}">{% else %}{{ block.super }}{% endif %}{% endblock %}
 
-{% block content %}
-<h1 class="visually-hidden">{{ SITE_NAME }} — {{ SITE_TAGLINE }}</h1>
-
-{% if headline %}
-<section class="headline" aria-labelledby="headline-title">
-  <p class="section-label">À la une</p>
-  <article class="hero">
-    {% if headline.thumbnail %}
-    <a class="hero__media" href="{% url 'news_detail' headline.slug %}" tabindex="-1" aria-hidden="true">
-      <img src="{{ headline.thumbnail|media_url }}" width="640" height="360" alt="" fetchpriority="high" decoding="async">
-    </a>
-    {% endif %}
-    <div class="hero__body">
-      {% include "partials/news_meta.html" with news=headline %}
-      <h2 class="hero__title" id="headline-title"><a href="{% url 'news_detail' headline.slug %}">{{ headline.title }}</a></h2>
-      {% if headline.summary %}<p class="hero__summary">{{ headline.summary }}</p>{% endif %}
-      {% include "partials/news_stats.html" with news=headline %}
-      {% include "partials/tag_list.html" with tags=headline.tag_items %}
+{% block intro %}
+<section class="intro" aria-labelledby="intro-title">
+  <div class="container intro__inner">
+    <div>
+      <h1 class="intro__title" id="intro-title">Chaque actu a une histoire.<br><span>On vous donne le fil.</span></h1>
+      <p class="intro__lead">Les news les plus discutées sur r/france, reliées aux articles précédents qui parlent des mêmes personnalités et des mêmes thèmes. Lisez la news, puis remontez le fil.</p>
     </div>
-  </article>
+    <ol class="intro__steps">
+      <li><span><strong>Une news remonte</strong> parmi les plus discutées de r/france.</span></li>
+      <li><span><strong>On la rattache à ses fils</strong> : personnalités politiques et grands thèmes.</span></li>
+      <li><span><strong>Chaque fil est une chronologie</strong> : tout ce qui s'est passé avant.</span></li>
+    </ol>
+  </div>
 </section>
+{% endblock %}
+
+{% block content %}
+{% if headline %}
+<div class="front">
+  <section class="headline" aria-labelledby="headline-title">
+    <p class="section-label">À la une</p>
+    <article class="hero">
+      {% if headline.thumbnail %}
+      <a class="hero__media" href="{% url 'news_detail' headline.slug %}" tabindex="-1" aria-hidden="true">
+        <img src="{{ headline.thumbnail|media_url }}" width="640" height="360" alt="" fetchpriority="high" decoding="async">
+      </a>
+      {% endif %}
+      <div class="hero__body">
+        {% include "partials/news_meta.html" with news=headline %}
+        <h2 class="hero__title" id="headline-title"><a href="{% url 'news_detail' headline.slug %}">{{ headline.title }}</a></h2>
+        {% if headline.summary %}<p class="hero__summary">{{ headline.summary }}</p>{% endif %}
+        {% include "partials/tag_list.html" with tags=headline.tag_items %}
+        {% include "partials/news_stats.html" with news=headline %}
+      </div>
+    </article>
+  </section>
+
+  {% if featured %}
+  {% with tag=featured.tag %}
+  <section class="tag-thread" aria-labelledby="tag-thread-title">
+    <p class="tag-thread__kicker">Le fil du moment</p>
+    <h2 class="tag-thread__title" id="tag-thread-title"><a href="{% url 'tag_detail' tag.slug %}">{{ tag.name }}</a></h2>
+    <p class="tag-thread__intro">{{ tag.count }} article{{ tag.count|pluralize }} · depuis {{ tag.first_seen|date:"F Y" }}</p>
+    <ol class="tag-thread__list">
+      {% for entry in featured.thread %}
+      {% with news=entry.news %}
+      <li class="tag-thread__item{% if news.id == headline.id %} tag-thread__item--current{% endif %}">
+        <p class="tag-thread__meta"><time datetime="{{ news.created_at|date:'c' }}">{{ news.created_at|date:"j M Y" }}</time>{% if news.domain %} · {{ news.domain }}{% endif %}</p>
+        <a class="tag-thread__link" href="{% url 'news_detail' news.slug %}">{{ news.title }}</a>
+        {% if news.id == headline.id %}<p class="tag-thread__current">À la une</p>{% endif %}
+        {% if entry.gap_after %}<p class="tag-thread__gap">{{ entry.gap_after }} plus tôt</p>{% endif %}
+      </li>
+      {% endwith %}
+      {% endfor %}
+    </ol>
+    <a class="button button--dark" href="{% url 'tag_detail' tag.slug %}">Remonter tout le fil {{ tag.name }}</a>
+  </section>
+  {% endwith %}
+  {% endif %}
+</div>
 {% endif %}
 
 <div class="home-layout">
   <section class="latest" aria-labelledby="latest-title">
-    <h2 class="section-title" id="latest-title">Dernières news</h2>
-    {% if news_list %}
-    <div class="card-grid">
-      {% for news in news_list %}{% include "partials/news_card.html" %}{% endfor %}
+    <div class="section-head">
+      <h2 class="section-head__title" id="latest-title">Dernières news</h2>
+      <a class="section-head__more" href="{% url 'archive' %}">Toutes les news →</a>
     </div>
-    <p><a class="button" href="{% url 'archive' %}">Toutes les news</a></p>
+    {% if news_list %}
+    <ul class="news-rows">
+      {% for news in news_list %}
+      <li class="news-row">
+        {% include "partials/news_meta.html" %}
+        <h3 class="news-row__title"><a href="{% url 'news_detail' news.slug %}">{{ news.title }}</a></h3>
+        {% if news.summary %}<p class="news-row__summary">{{ news.summary|truncatechars:200 }}</p>{% endif %}
+        <div class="news-row__footer">
+          {% include "partials/tag_list.html" with tags=news.tag_items %}
+          {% include "partials/news_stats.html" %}
+        </div>
+      </li>
+      {% endfor %}
+    </ul>
     {% elif not headline %}
     <p>Aucune news pour le moment. Revenez bientôt !</p>
     {% endif %}
   </section>
 
   <aside class="sidebar" aria-label="Compléments">
-    <section class="panel" aria-labelledby="tags-title">
-      <h2 class="section-title" id="tags-title">Tags du moment</h2>
-      {% if recent_tags %}
-        {% include "partials/tag_list.html" with tags=recent_tags label="Tags du moment" %}
-        <p class="panel__more"><a href="{% url 'tag_index' %}">Tous les tags</a></p>
+    <section aria-labelledby="trending-title">
+      <div class="section-head">
+        <h2 class="section-head__title" id="trending-title">Fils du moment</h2>
+      </div>
+      {% if trending_tags %}
+      <ol class="trending">
+        {% for tag in trending_tags %}
+        <li class="trending__item">
+          <a class="trending__link" href="{% url 'tag_detail' tag.slug %}" data-timeline="{% url 'tag_timeline' tag.slug %}">{{ tag.name }}</a>
+          <span class="trending__kind">{{ tag|tag_kind_label }}</span>
+        </li>
+        {% endfor %}
+      </ol>
+      <p class="panel__more"><a href="{% url 'tag_index' %}">Parcourir tous les fils →</a></p>
       {% else %}
-        <p>Pas encore de tags.</p>
+      <p>Pas encore de fils.</p>
       {% endif %}
     </section>
-    <section class="panel panel--rss" aria-labelledby="rss-title">
-      <h2 class="section-title" id="rss-title">Suivre FilNews</h2>
+
+    <section class="panel panel--election" aria-labelledby="election-title">
+      <h2 class="panel__title" id="election-title">{{ election_name }}</h2>
+      <p>Le fil de la campagne et un fil par candidat{% if candidates %} : {% for c in candidates %}<a href="{% url 'election_candidate' c.slug %}">{{ c.name }}</a>{% if not forloop.last %}, {% endif %}{% endfor %}{% endif %}…</p>
+      <a class="button" href="{% url 'election' %}">Le fil de la présidentielle</a>
+    </section>
+
+    <section class="panel" aria-labelledby="kinds-title">
+      <h2 class="panel__title" id="kinds-title">2 sortes de fils</h2>
+      <ul class="kinds">
+        <li>{% include "partials/icon_person.html" %}<span><strong>Personnalités</strong> — politiques, en France et dans le monde</span></li>
+        <li><span class="kinds__hash" aria-hidden="true">#</span><span><strong>Thèmes</strong> — environnement, police, logement…</span></li>
+      </ul>
+    </section>
+
+    <section class="panel panel--outline" aria-labelledby="rss-title">
+      <h2 class="panel__title" id="rss-title">Suivre FilNews</h2>
       <p>Recevez toutes les news dans votre lecteur de flux.</p>
       <a class="button button--rss" href="{% url 'rss' %}">{% include "partials/icon_rss.html" %}<span>S'abonner au flux RSS</span></a>
     </section>

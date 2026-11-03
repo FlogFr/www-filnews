@@ -1,31 +1,5 @@
 [
   {
-    "id": "ei2hyv",
-    "title": "A French Man Has Died While At A Hospital In ICE Custody",
-    "url": "https://www.buzzfeednews.com/article/hamedaleaziz/french-man-died-hospital-ice-custody-immigration-customs",
-    "permalink": "/r/france/comments/ei2hyv/a_french_man_has_died_while_at_a_hospital_in_ice/",
-    "created_at": "2019-12-31T12:53:12+00:00",
-    "score": 139,
-    "num_comments": 21,
-    "subreddit": "france",
-    "author": "SarEngland",
-    "flair": "Politique",
-    "domain": "buzzfeednews.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/Etb1Uni0xisOCjZ4exHJBG3ugeNGC2GKNA9aOWYqvT0.jpeg?auto=webp&s=002adc1920ab74237186fe142032a8e3de1ed6e1",
-    "ingested_at": "2026-10-31T15:35:23.900325+00:00",
-    "summary": "This is the fourth person to die in Immigration and Customs Enforcement custody in the current fiscal year, which began in October.",
-    "thumbnail": "thumbnails/ei2hyv.webp",
-    "tags": [
-      "ICE",
-      "Immigration",
-      "French Man Has Died While At",
-      "ICE Custody",
-      "Politique"
-    ],
-    "analyzed_at": "2026-11-01T09:40:47.149896+00:00"
-  },
-  {
     "id": "ehu59l",
     "title": "La Cour de cassation confirme la redevance sur les musiques libres diffusées dans les magasins",
     "url": "https://www.nextinpact.com/news/108542-la-cour-cassation-confirme-redevance-sur-musiques-libres-diffusees-dans-magasins.htm",
@@ -43,10 +17,7 @@
     "summary": "Jamendo SA, Audiovalley SA (ex-Musicmatic SA) et Storever France SAS (ex-Musicmatic France SAS) avaient formé un pourvoi en cassation. Selon eux, la cour…",
     "thumbnail": "thumbnails/ehu59l.webp",
     "tags": [
-      "Audiovalley",
-      "Storever France SAS",
-      "France SAS",
-      "Saint Maclou"
+      "Justice"
     ],
     "analyzed_at": "2026-11-01T09:40:47.850715+00:00"
   },
@@ -68,11 +39,8 @@
     "summary": "La CGT appelle à un blocage de toutes les raffineries de France, du 7 au 10 janvier. Thierry Defresne, délégué central CGT chez Total l'annonce sur franceinfo.",
     "thumbnail": "thumbnails/ehse4v.webp",
     "tags": [
-      "CGT",
-      "Thierry Defresne",
-      "Hausse des prix des carburants",
-      "Réforme des retraites",
-      "Politique"
+      "Grèves et syndicats",
+      "Retraites"
     ],
     "analyzed_at": "2026-11-01T09:40:47.412620+00:00"
   },
@@ -93,7 +61,9 @@
     "ingested_at": "2026-10-31T15:35:23.900665+00:00",
     "summary": "",
     "thumbnail": "thumbnails/ehmydu.webp",
-    "tags": [],
+    "tags": [
+      "Éducation"
+    ],
     "analyzed_at": "2026-11-01T09:40:47.172118+00:00"
   },
   {
@@ -113,9 +83,7 @@
     "ingested_at": "2026-10-31T15:35:23.900605+00:00",
     "summary": "",
     "thumbnail": "thumbnails/eh8i72.webp",
-    "tags": [
-      "Etats-Unis"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:40:47.143085+00:00"
   },
   {
@@ -135,7 +103,10 @@
     "ingested_at": "2026-10-31T15:35:23.900624+00:00",
     "summary": "Un mouvement \"unique sur une durée aussi longue\" qui vise notamment à grossir les rangs des manifestations contre la réforme des retraites.",
     "thumbnail": "thumbnails/eh6obq.webp",
-    "tags": [],
+    "tags": [
+      "Grèves et syndicats",
+      "Transports"
+    ],
     "analyzed_at": "2026-11-01T09:40:47.746305+00:00"
   },
   {
@@ -157,10 +128,7 @@
     "thumbnail": "thumbnails/egoyes.webp",
     "tags": [
       "Santé",
-      "Stéphane Dauger",
-      "André Grimaldi",
-      "Robert-Debré",
-      "Grève des médecins"
+      "Grèves et syndicats"
     ],
     "analyzed_at": "2026-11-01T09:40:47.920484+00:00"
   },
@@ -181,7 +149,10 @@
     "ingested_at": "2026-10-31T15:35:23.900685+00:00",
     "summary": "",
     "thumbnail": "thumbnails/egizch.webp",
-    "tags": [],
+    "tags": [
+      "Police",
+      "Justice"
+    ],
     "analyzed_at": "2026-11-01T09:40:47.536491+00:00"
   },
   {
@@ -201,37 +172,8 @@
     "ingested_at": "2026-10-31T15:35:23.900267+00:00",
     "summary": "En Chine, le trafic aérien a été perturbé par des gangs utilisant des drones visant à transmettre la peste porcine africaine aux animaux des éleveurs. L'objectif : faire pression sur ces derniers pour faire baisser les prix.",
     "thumbnail": "thumbnails/eg9faa.webp",
-    "tags": [
-      "Chine",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:40:47.864768+00:00"
-  },
-  {
-    "id": "eg8vud",
-    "title": "Netflix devient la 5e chaine de France en termes d'audience",
-    "url": "https://www.generation-nt.com/netflix-devient-5e-chaine-france-termes-audience-actualite-1971661.html",
-    "permalink": "/r/france/comments/eg8vud/netflix_devient_la_5e_chaine_de_france_en_termes/",
-    "created_at": "2019-12-27T09:02:04+00:00",
-    "score": 112,
-    "num_comments": 169,
-    "subreddit": "france",
-    "author": "[deleted]",
-    "flair": "",
-    "domain": "generation-nt.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/QRsrom1rBeEgDPCKsP1hK93dvGwYLXd4n12yZe5BB5Y.jpg?auto=webp&s=67bfb45ba19b2237b30963267a59fb88487b3261",
-    "ingested_at": "2026-10-31T15:35:23.900583+00:00",
-    "summary": "Le rouleau compresseur américain Netflix s'impose un peu partout à travers le monde, y compris en France. Désormais, la plateforme de SVOD représente plus d'audience que la majorité des chaines de tél",
-    "thumbnail": "thumbnails/eg8vud.webp",
-    "tags": [
-      "Netflix",
-      "SVOD",
-      "Amazon Prime",
-      "Netflix SVOD France",
-      "Audience"
-    ],
-    "analyzed_at": "2026-11-01T09:40:47.940294+00:00"
   },
   {
     "id": "efyidz",
@@ -250,31 +192,10 @@
     "ingested_at": "2026-10-31T15:35:23.900460+00:00",
     "summary": "",
     "thumbnail": "thumbnails/efyidz.webp",
-    "tags": [],
-    "analyzed_at": "2026-11-01T09:40:48.250580+00:00"
-  },
-  {
-    "id": "efsaiz",
-    "title": "L'ONU reconnaît le droit des palestiniens à réclamer des réparations à Israël",
-    "url": "https://www.i24news.tv/fr/actu/israel/diplomatie-defense/1576828997-l-onu-vote-une-resolution-reconnaissant-le-droit-des-palestiniens-a-reclamer-des-reparations-a-israel",
-    "permalink": "/r/france/comments/efsaiz/lonu_reconnaît_le_droit_des_palestiniens_à/",
-    "created_at": "2019-12-26T07:05:01+00:00",
-    "score": 355,
-    "num_comments": 158,
-    "subreddit": "france",
-    "author": "[deleted]",
-    "flair": "",
-    "domain": "i24news.tv",
-    "selftext": "",
-    "reddit_thumbnail": "",
-    "ingested_at": "2026-10-31T15:35:23.899267+00:00",
-    "summary": "",
-    "thumbnail": "",
     "tags": [
-      "ONU",
-      "Israël"
+      "Police"
     ],
-    "analyzed_at": "2026-11-01T09:40:47.863145+00:00"
+    "analyzed_at": "2026-11-01T09:40:48.250580+00:00"
   },
   {
     "id": "efip35",
@@ -294,11 +215,7 @@
     "summary": "Le secrétaire d'Etat en charge des Retraites préfère que les salariés “se reconvertissent”.",
     "thumbnail": "thumbnails/efip35.webp",
     "tags": [
-      "Etat",
-      "Laurent Pietraszewski",
-      "BFMTV",
-      "Politique",
-      "Réforme des retraites"
+      "Retraites"
     ],
     "analyzed_at": "2026-11-01T09:40:48.262175+00:00"
   },
@@ -320,37 +237,9 @@
     "summary": "INFO LE FIGARO - Après plusieurs polémiques, l’ex-ministre est convoquée à l’initiative de l’UDI. Elle a fait savoir par son entourage qu’elle se rendra devant les députés.",
     "thumbnail": "thumbnails/efbjoh.webp",
     "tags": [
-      "Ségolène Royal",
-      "Royal",
-      "Marielle De Sarnez",
-      "FIGARO",
-      "UDI"
+      "Ségolène Royal"
     ],
     "analyzed_at": "2026-11-01T09:40:48.271346+00:00"
-  },
-  {
-    "id": "ef0f4h",
-    "title": "Firefox propose également son Flashback 2019",
-    "url": "https://www.mozilla.org/fr/firefox/flashback",
-    "permalink": "/r/france/comments/ef0f4h/firefox_propose_également_son_flashback_2019/",
-    "created_at": "2019-12-24T11:51:15+00:00",
-    "score": 173,
-    "num_comments": 8,
-    "subreddit": "france",
-    "author": "JohnDnk",
-    "flair": "Humour",
-    "domain": "mozilla.org",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/5c_ODAWKSjGIwh9N01ihZyKe0YJUAXVtfHg5QvE8qO4.png?auto=webp&s=e6e0247e31b0017ceae74f6216746b3d454bdcf0",
-    "ingested_at": "2026-10-31T15:35:23.900011+00:00",
-    "summary": "The independent browser that has your back. Firefox blocks trackers, has a free built-in VPN, puts you in control of AI, and never sells your personal data.",
-    "thumbnail": "thumbnails/ef0f4h.webp",
-    "tags": [
-      "Flashback 2019",
-      "VPN",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:40:48.558480+00:00"
   },
   {
     "id": "eezkib",
@@ -370,9 +259,7 @@
     "summary": "Le site, qui trie 50 000 colis chaque nuit, a été privé d’électricité jusqu’à 7 h 30 ce lundi. La CGT, qui a revendiqué l’action, dénonce à",
     "thumbnail": "thumbnails/eezkib.webp",
     "tags": [
-      "CGT",
-      "Amazon du Blanc-Mesnil",
-      "Amazon"
+      "Grèves et syndicats"
     ],
     "analyzed_at": "2026-11-01T09:40:48.220999+00:00"
   },
@@ -394,9 +281,7 @@
     "summary": "",
     "thumbnail": "thumbnails/eekplk.webp",
     "tags": [
-      "Raise Pollution Tax",
-      "SUVs",
-      "Trucks"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T09:40:48.940754+00:00"
   },
@@ -417,50 +302,10 @@
     "ingested_at": "2026-10-31T15:35:23.899121+00:00",
     "summary": "En mai dernier à Paris, une étudiante de 23 ans a passé plus de 30 heures en cellule de dégrisement et en garde à vue. Elle raconte avoir subi de graves humiliations, des blessures physiques et un vo…",
     "thumbnail": "thumbnails/eeiabs.webp",
-    "tags": [],
-    "analyzed_at": "2026-11-01T09:40:48.383404+00:00"
-  },
-  {
-    "id": "ee857c",
-    "title": "Un \"transâgé\" né en 1986 se sent dans un corps de 1974 et évite la réforme des retraites",
-    "url": "https://secretnews.fr/2019/12/19/transage-evite-reforme-retraites/",
-    "permalink": "/r/france/comments/ee857c/un_transâgé_né_en_1986_se_sent_dans_un_corps_de/",
-    "created_at": "2019-12-22T18:16:09+00:00",
-    "score": 337,
-    "num_comments": 154,
-    "subreddit": "france",
-    "author": "KvitDod",
-    "flair": "Humour",
-    "domain": "secretnews.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://b.thumbs.redditmedia.com/IBvj16mudGk4c3WOjt2MHJw7RNjLYlKj_MiUZx2FXfo.jpg",
-    "ingested_at": "2026-10-31T15:35:23.899317+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/ee857c.webp",
     "tags": [
-      "Humour"
+      "Police"
     ],
-    "analyzed_at": "2026-11-01T09:40:49.775026+00:00"
-  },
-  {
-    "id": "ee2bvk",
-    "title": "House built in 1509, Argentan, Normandy, France",
-    "url": "https://external-preview.redd.it/SzRAZRmKau0fFHW_V57y_-Y8sz1vFjbpHvllq0WEiXc.png?auto=webp&s=998e90d85937572b784835d99e89ae7a32c69645",
-    "permalink": "/r/france/comments/ee2bvk/house_built_in_1509_argentan_normandy_france/",
-    "created_at": "2019-12-22T07:45:10+00:00",
-    "score": 131,
-    "num_comments": 20,
-    "subreddit": "france",
-    "author": "skxcii",
-    "flair": "",
-    "domain": "external-preview.redd.it",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/VXCG_cEgFdR5BmwU1-BT2p10laohQQ7XopmveJhJYhA.png?auto=webp&s=0b52c4a4e8da9f8aafce645578e61e9190f5da7c",
-    "ingested_at": "2026-10-31T15:35:23.900428+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/ee2bvk.webp",
-    "tags": [],
-    "analyzed_at": "2026-11-01T09:40:48.554699+00:00"
+    "analyzed_at": "2026-11-01T09:40:48.383404+00:00"
   },
   {
     "id": "edsous",
@@ -480,10 +325,7 @@
     "summary": "L'opinion publique est partagée sur la réforme du gouvernement. Mais dans le détail, seules les personnes âgées de plus de 65 ans la soutiennent majoritairement.",
     "thumbnail": "thumbnails/edsous.webp",
     "tags": [
-      "Français",
-      "Politique",
-      "Réforme des retraites",
-      "Société"
+      "Retraites"
     ],
     "analyzed_at": "2026-11-01T09:40:48.539518+00:00"
   },
@@ -505,35 +347,9 @@
     "summary": "Macron’s proposed retirement reforms are his latest attempt to erode the safety net. Tomorrow the people are fighting back, says journalist Cole Stangler",
     "thumbnail": "thumbnails/edsi7j.webp",
     "tags": [
-      "Europe",
-      "Cole Stangler",
-      "France's",
-      "French",
-      "Politique"
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T09:40:48.497636+00:00"
-  },
-  {
-    "id": "ed9lhn",
-    "title": "Territorial evolution of France, 985 AD to 1947 (gif)",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/French_borders_from_985_to_1947.gif",
-    "permalink": "/r/france/comments/ed9lhn/territorial_evolution_of_france_985_ad_to_1947_gif/",
-    "created_at": "2019-12-20T12:31:50+00:00",
-    "score": 420,
-    "num_comments": 58,
-    "subreddit": "france",
-    "author": "Grumby__",
-    "flair": "",
-    "domain": "upload.wikimedia.org",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/eq2uB1l44wX_LFhYre8xwqXaYWSmv6CA_IsrcJuH_7A.gif?format=png8&s=c6e80a2529bad535196db1e9f85642f627e5c45a",
-    "ingested_at": "2026-10-31T15:35:23.899202+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/ed9lhn.webp",
-    "tags": [
-      "AD"
-    ],
-    "analyzed_at": "2026-11-01T09:40:48.476531+00:00"
   },
   {
     "id": "ed7xyj",
@@ -556,30 +372,6 @@
     "analyzed_at": "2026-11-01T09:40:48.625746+00:00"
   },
   {
-    "id": "ed7rly",
-    "title": "Le gouvernement autorise les chauffeurs des bus Macron à prendre de la cocaïne pour rouler 36 heures d’affilée",
-    "url": "http://www.legorafi.fr/2019/12/19/le-gouvernement-autorise-les-chauffeurs-des-bus-macron-a-prendre-de-la-cocaine-pour-rouler-36-heures-daffilee/",
-    "permalink": "/r/france/comments/ed7rly/le_gouvernement_autorise_les_chauffeurs_des_bus/",
-    "created_at": "2019-12-20T09:09:49+00:00",
-    "score": 624,
-    "num_comments": 51,
-    "subreddit": "france",
-    "author": "Rascar__Capac",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/H0gceb0cRtAKKsDBllPQ3F1anmdd-ob-S1N_IcpncSQ.jpeg?auto=webp&s=0088124dc4b0fbc38f7efaf71358c6ea1c6b4e95",
-    "ingested_at": "2026-10-31T15:35:23.899027+00:00",
-    "summary": "Paris – Pour aider les Français à pouvoir profiter des fêtes en famille, le gouvernement a passé une série de mesures destinées à faciliter le transport via les bus Macron.",
-    "thumbnail": "thumbnails/ed7rly.webp",
-    "tags": [
-      "Macron",
-      "Français",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:40:48.841962+00:00"
-  },
-  {
     "id": "ed759s",
     "title": "Est-il vrai que la France n'a pas connu une seule année sans grève à la SNCF depuis 1947 ? [Oui]",
     "url": "https://www.francetvinfo.fr/economie/transports/sncf/greve-a-la-sncf/est-il-vrai-que-la-france-n-a-pas-connu-une-seule-annee-sans-greve-a-la-sncf-depuis-1947_3748597.html#xtor=CS2-765-[autres]-",
@@ -597,11 +389,8 @@
     "summary": "Les relevés des ressources humaines de la SNCF confirment que l'entreprise n'a pas connu une seule année sans mouvement social depuis plus de soixante-dix ans. Mais les grèves qui ont eu un impact à grande échelle sont plus rares.",
     "thumbnail": "thumbnails/ed759s.webp",
     "tags": [
-      "SNCF",
-      "Vrai ou faux",
-      "Grève à la SNCF",
-      "Transports",
-      "Société"
+      "Grèves et syndicats",
+      "Transports"
     ],
     "analyzed_at": "2026-11-01T09:40:49.079829+00:00"
   },
@@ -622,9 +411,7 @@
     "ingested_at": "2026-10-31T15:35:23.899370+00:00",
     "summary": "Dans une lettre envoyÃ©e Ã deux sÃ©nateurs amÃ©ricains, Facebook admet continuer Ã traquer ses utilisateurs mÃªme lorsque ceux-ci ont refusÃ© sciemment la",
     "thumbnail": "thumbnails/ecpk4y.webp",
-    "tags": [
-      "Twitter"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:40:49.230358+00:00"
   },
   {
@@ -645,11 +432,7 @@
     "summary": "Lorsqu'il était à la direction des ressources humaines du groupe Auchan, le nouveau \"monsieur retraites\" du gouvernement a appelé la police et fait placer en garde à vue l'une de ses caissières \"pour une histoire de petit pain\".",
     "thumbnail": "thumbnails/ecl37e.webp",
     "tags": [
-      "Laurent Pietraszewski",
-      "Auchan",
-      "Grève du 29 janvier",
-      "Réforme des retraites",
-      "Éco / Conso"
+      "Retraites"
     ],
     "analyzed_at": "2026-11-01T09:40:48.920017+00:00"
   },
@@ -671,8 +454,7 @@
     "summary": "Le Premier Ministre va-t-il écouter les 40.706 citoyens consultés du 3 octobre à début décembre, sur « Participez.reforme.retraite.gouv.fr » ? Entre jeunes actifs et plus de 65 ans, la guerre des générations fait en tout cas rage...",
     "thumbnail": "thumbnails/echy7t.webp",
     "tags": [
-      "Premier Ministre",
-      "Politique"
+      "Retraites"
     ],
     "analyzed_at": "2026-11-01T09:40:48.980035+00:00"
   },
@@ -694,39 +476,10 @@
     "summary": "Le parquet général a demandé mercredi \"l'exécution provisoire\" des peines prononcées, ce qui empêcherait Patrick Balkany de se présenter aux prochaines municipales.",
     "thumbnail": "thumbnails/ecaxb3.webp",
     "tags": [
-      "Balkany",
-      "Levallois-Perret",
       "Patrick Balkany",
-      "Affaire Balkany",
       "Justice"
     ],
     "analyzed_at": "2026-11-01T09:40:49.519980+00:00"
-  },
-  {
-    "id": "ec2vc8",
-    "title": "Thread twitter de Manon Bril pour la légalisation de l'euthanasie",
-    "url": "https://threadreaderapp.com/thread/1207004820638486530.html",
-    "permalink": "/r/france/comments/ec2vc8/thread_twitter_de_manon_bril_pour_la_légalisation/",
-    "created_at": "2019-12-17T22:09:17+00:00",
-    "score": 222,
-    "num_comments": 94,
-    "subreddit": "france",
-    "author": "PoufPoal",
-    "flair": "Société",
-    "domain": "threadreaderapp.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/bLvYv41M36rEKJ_VhAET2KCVOV70R1KvQskc_5Cib0c.jpg?auto=webp&s=e540b237cdb3c43b1fdbc31838429710c025e2ad",
-    "ingested_at": "2026-10-31T15:35:23.899763+00:00",
-    "summary": "Thread by @BrilManon: \"Les hÃ´pitaux sont en colÃ¨re et je souhaite me joindre Ã eux et attirer l'attention d'@agnesbuzyn et du MinistÃ¨re @MinSle droit Ã Ãªtre soignÃ© et Ã mourir dignement. Ayant perdu ma mÃ¨re cet Ã©tÃ©, j'ai Ã©tÃ© touchÃ©e de prÃ¨s par cette [â¦]\"",
-    "thumbnail": "thumbnails/ec2vc8.webp",
-    "tags": [
-      "Manon Bril",
-      "BrilManon",
-      "MinistÃ",
-      "MinSle",
-      "Société"
-    ],
-    "analyzed_at": "2026-11-01T09:40:50.144707+00:00"
   },
   {
     "id": "ebtqcq",
@@ -746,11 +499,9 @@
     "summary": "Patrick et Isabelle Balkany sont jugés en appel à Paris depuis lundi. Le maire de Levallois-Perret, 71 ans, hospitalisé, n'a pas pu se déplacer à l'audience. Sa femme s'est défendue seule et a reconnu la fraude fiscale.",
     "thumbnail": "thumbnails/ebtqcq.webp",
     "tags": [
-      "Isabelle Balkany",
-      "Balkany",
-      "Patrick",
-      "Levallois-Perret",
-      "Paris"
+      "Patrick Balkany",
+      "Budget et fiscalité",
+      "Justice"
     ],
     "analyzed_at": "2026-11-01T09:40:49.256068+00:00"
   },
@@ -771,10 +522,7 @@
     "ingested_at": "2026-10-31T15:35:23.900162+00:00",
     "summary": "C’est la première fois que le Défenseur des droits s’autosaisit du cas d’un mineur blessé par les forces de l’ordre lors d’une action des « gilets jaunes »",
     "thumbnail": "thumbnails/ebte93.webp",
-    "tags": [
-      "Défenseur",
-      "LBD"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:40:49.374467+00:00"
   },
   {
@@ -795,9 +543,7 @@
     "summary": "Le youtubeur et humoriste Rémi Gaillard a annoncé se présenter aux élections municipales de mars 2020 à Montpellier. Élu maire, sa première mesure serait de baisser son salaire au smic et reverser la différence à des...",
     "thumbnail": "thumbnails/ebspot.webp",
     "tags": [
-      "Rémi Gaillard",
-      "Montpellier",
-      "Politique"
+      "Élections"
     ],
     "analyzed_at": "2026-11-01T09:40:49.578792+00:00"
   },
@@ -819,8 +565,7 @@
     "summary": "",
     "thumbnail": "thumbnails/ebqng5.webp",
     "tags": [
-      "Français",
-      "Société"
+      "Budget et fiscalité"
     ],
     "analyzed_at": "2026-11-01T09:40:50.028901+00:00"
   },
@@ -841,11 +586,7 @@
     "ingested_at": "2026-10-31T15:35:23.899651+00:00",
     "summary": "Alors que le haut-commissaire a présenté sa démission ce lundi, la Haute Autorité pour la transparence de la vie publique poursuivait ses in",
     "thumbnail": "thumbnails/ebfwvh.webp",
-    "tags": [
-      "Jean-Paul Delevoye",
-      "Haute Autorité",
-      "Soft paywall"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:40:49.501833+00:00"
   },
   {
@@ -866,8 +607,7 @@
     "summary": "",
     "thumbnail": "thumbnails/ebe3ca.webp",
     "tags": [
-      "Jean-Paul Delevoye",
-      "Politique"
+      "Retraites"
     ],
     "analyzed_at": "2026-11-01T09:40:49.441195+00:00"
   },
@@ -889,11 +629,7 @@
     "summary": "Jean-Paul Delevoye, président de la commission nationale d'investiture d'En Marche !, est épinglé par un rapport concernant la gestion du Conseil économique, social et environnemental, du temps où il en était le président.",
     "thumbnail": "thumbnails/ebcm97.webp",
     "tags": [
-      "Emmanuel Macron",
-      "Jean-Paul Delevoye",
-      "Marche",
-      "Conseil",
-      "Politique"
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T09:40:50.137390+00:00"
   },
@@ -914,9 +650,7 @@
     "ingested_at": "2026-10-31T15:35:23.900288+00:00",
     "summary": "Nommé au gouvernement le 3 septembre dernier, le haut-commissaire aux retraites Jean-Paul Delevoye a décidé de percevoir à nouveau des pensions liées à ses anciennes fonctions, auxquelles il avait un temps renoncé.",
     "thumbnail": "thumbnails/eaxxow.webp",
-    "tags": [
-      "Jean-Paul Delevoye"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:40:49.606543+00:00"
   },
   {
@@ -937,11 +671,8 @@
     "summary": "Jean-Paul Delevoye aurait omis de déclarer sa participation au sein d'une instance à la SNCF ainsi que dans un think tank ou dans le domaine des assurances. Le haut-commissaire aux retraites siégeait notamment depuis 2016 au conseil d’administration de la Fondation SNCF.",
     "thumbnail": "thumbnails/eaxof6.webp",
     "tags": [
-      "Jean-Paul Delevoye",
-      "SNCF",
-      "Fondation SNCF",
-      "Emmanuel Macron",
-      "Politique"
+      "Transports",
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T09:40:50.568461+00:00"
   },
@@ -962,12 +693,7 @@
     "ingested_at": "2026-10-31T15:35:23.900072+00:00",
     "summary": "Retrouvez les dernières actualités du jour en direct et en continu sur Le Nouvel Obs : société, politique, écologie, économie, toute l'info en France et à l'international !",
     "thumbnail": "thumbnails/eawpi3.webp",
-    "tags": [
-      "Ile-de-France",
-      "Asiatiques",
-      "Nouvel Obs",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:40:50.127836+00:00"
   },
   {
@@ -987,9 +713,7 @@
     "ingested_at": "2026-10-31T15:35:23.899226+00:00",
     "summary": "",
     "thumbnail": "thumbnails/eapwoo.webp",
-    "tags": [
-      "Jean-Paul Delevoye"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:40:49.708687+00:00"
   },
   {
@@ -1010,11 +734,8 @@
     "summary": "FIGAROVOX/GRAND ENTRETIEN - Alors que la COP25 s’achève à Madrid, le spécialiste reconnu des enjeux écologiques Jean-Marc Jancovici a accordé au FigaroVox un grand entretien. Sceptique quant à l’issue de la COP, il plaide pour des économies d’énergie et la poursuite du nucléaire comme...",
     "thumbnail": "thumbnails/eajdlq.webp",
     "tags": [
-      "Jean-Marc Jancovici",
-      "Changements Climatiques",
-      "Crise Des Gilets Jaunes",
-      "Pouvoir d'achat",
-      "Écologie"
+      "Environnement",
+      "Énergie"
     ],
     "analyzed_at": "2026-11-01T09:40:50.040972+00:00"
   },
@@ -1035,11 +756,7 @@
     "ingested_at": "2026-10-31T15:35:23.900225+00:00",
     "summary": "\"Le Monde\" révèle ce samedi que deux autres fonctions n'ont pas été portées à la connaissance de la HATVP.",
     "thumbnail": "thumbnails/eahxlj.webp",
-    "tags": [
-      "Jean-Paul Delevoye",
-      "HATVP",
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:40:50.050848+00:00"
   },
   {
@@ -1060,10 +777,7 @@
     "summary": "Le parquet de Paris a classé sans suite la plainte de Gabriel Pontonnier qui a eu la main arrachée par une grenade GLI-F4 en novembre 2018, à Paris, à la fin de l’acte II des « gilets jaunes ». Pourt…",
     "thumbnail": "thumbnails/ea73wf.webp",
     "tags": [
-      "Paris",
-      "Gabriel Pontonnier",
-      "GLI-F4",
-      "II"
+      "Police"
     ],
     "analyzed_at": "2026-11-01T09:40:50.439330+00:00"
   },
@@ -1085,11 +799,7 @@
     "summary": "INFO CAPITAL : Le haut-commissaire aux retraites siège depuis 2016 au conseil d’administration de la Fondation SNCF, qui pilote les opérations de mécénat du groupe ferroviaire, particulièrement concerné par la réforme en cours.",
     "thumbnail": "thumbnails/ea5of8.webp",
     "tags": [
-      "Jean-Paul Delevoye",
-      "Fondation SNCF",
-      "SNCF",
-      "CAPITAL",
-      "Politique"
+      "Transports"
     ],
     "analyzed_at": "2026-11-01T09:40:50.572829+00:00"
   },
@@ -1111,9 +821,8 @@
     "summary": "",
     "thumbnail": "thumbnails/e9urbo.webp",
     "tags": [
-      "Royaume-Uni",
       "Boris Johnson",
-      "Soft paywall"
+      "Élections"
     ],
     "analyzed_at": "2026-11-01T09:40:50.935317+00:00"
   },
@@ -1135,109 +844,9 @@
     "summary": "Greve 12 décembre : suivez en direct les informations concernant la manifestation de la réforme des retraites, découvrez les perturbations de la grève RATP et de la grève SNCF",
     "thumbnail": "thumbnails/e9ly5y.webp",
     "tags": [
-      "Noël",
-      "CGT-Cheminots",
-      "RATP",
-      "SNCF",
-      "Politique"
+      "Transports"
     ],
     "analyzed_at": "2026-11-01T09:40:50.687779+00:00"
-  },
-  {
-    "id": "e97f5o",
-    "title": "TIME’s 2019 Person of the Year",
-    "url": "https://time.com/person-of-the-year-2019-greta-thunberg/",
-    "permalink": "/r/france/comments/e97f5o/times_2019_person_of_the_year/",
-    "created_at": "2019-12-11T13:58:01+00:00",
-    "score": 181,
-    "num_comments": 156,
-    "subreddit": "france",
-    "author": "JeanGuy17",
-    "flair": "Actus",
-    "domain": "time.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/vqnh7UIcfDAj2aE2aOLNvmFuDFWqjBmNSqYBfJcD43M.jpg?auto=webp&s=693337e8f5c0d5662c4e963e6a4f2792c73234fb",
-    "ingested_at": "2026-10-31T15:35:23.899966+00:00",
-    "summary": "It began with a story line familiar to every parent of every generation in every corner of the globe: an indignant teenager and a sudden...",
-    "thumbnail": "thumbnails/e97f5o.webp",
-    "tags": [
-      "Person",
-      "Year 2019"
-    ],
-    "analyzed_at": "2026-11-01T09:40:50.760581+00:00"
-  },
-  {
-    "id": "e96d2a",
-    "title": "Jean-Paul Delevoye contraint de démissionner de 5 conseils d’assurances, 8 lobbies et 7 think tanks",
-    "url": "http://www.legorafi.fr/2019/12/11/jean-paul-delevoye-contraint-de-demissionner-de-5-conseils-dassurances-8-lobbies-et-7-think-tanks/",
-    "permalink": "/r/france/comments/e96d2a/jeanpaul_delevoye_contraint_de_démissionner_de_5/",
-    "created_at": "2019-12-11T12:15:52+00:00",
-    "score": 314,
-    "num_comments": 32,
-    "subreddit": "france",
-    "author": "[deleted]",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/whBX_dZ9c-I1XonaY71qk4OfJt4XVN9dGuJZAVlhRM4.jpeg?auto=webp&s=fe26d84fe796dd8d511612440ca6fe6b2ea6e49f",
-    "ingested_at": "2026-10-31T15:35:23.899435+00:00",
-    "summary": "Paris – Face aux polémiques naissantes, Jean-Paul Delevoye n'a eu d'autres choix que de démissionner rapidement de tous les postes bénévoles pour lesquels il touchait une rémunération nette cumulée de 200 000 euros par mois. Reportage.",
-    "thumbnail": "thumbnails/e96d2a.webp",
-    "tags": [
-      "Jean-Paul Delevoye",
-      "Jordan Bardella",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:40:50.632728+00:00"
-  },
-  {
-    "id": "e94zwa",
-    "title": "Arthur, 23 ans : « Des CRS m’ont cassé la gueule, littéralement »",
-    "url": "https://www.rue89lyon.fr/2019/12/10/arthur-23-ans-je-me-suis-fait-casser-la-gueule-dans-le-vrai-sens-du-terme-par-des-crs/",
-    "permalink": "/r/france/comments/e94zwa/arthur_23_ans_des_crs_mont_cassé_la_gueule/",
-    "created_at": "2019-12-11T09:38:15+00:00",
-    "score": 594,
-    "num_comments": 277,
-    "subreddit": "france",
-    "author": "Niafron",
-    "flair": "Actus",
-    "domain": "rue89lyon.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/lSfy4l8wCElk2sFqWCTLGILIQLkTo4zeyNBiyhGyTD8.jpeg?auto=webp&s=7eca9ac1e708d7c64209bda6d67bbdfab61b2e6a",
-    "ingested_at": "2026-10-31T15:35:23.899073+00:00",
-    "summary": "Arthur a livré son témoignage à Rue89Lyon depuis l'hôpital, après s'être fait passer à tabac par des policiers ce mardi 10 décembre, à Lyon.",
-    "thumbnail": "thumbnails/e94zwa.webp",
-    "tags": [
-      "CRS",
-      "Rue89Lyon",
-      "Lyon",
-      "Manifestation",
-      "Réforme des retraites"
-    ],
-    "analyzed_at": "2026-11-01T09:40:50.634441+00:00"
-  },
-  {
-    "id": "e94s1j",
-    "title": "Violences policières répétées contre les journalistes couvrant les manifestations | Conseil de l'Europe",
-    "url": "https://www.coe.int/fr/web/media-freedom/detail-alert?p_p_id=sojdashboard_WAR_coesojportlet&p_p_lifecycle=0&p_p_col_id=column-1&p_p_col_pos=1&p_p_col_count=2&_sojdashboard_WAR_coesojportlet_alertId=42860786",
-    "permalink": "/r/france/comments/e94s1j/violences_policières_répétées_contre_les/",
-    "created_at": "2019-12-11T09:11:10+00:00",
-    "score": 202,
-    "num_comments": 15,
-    "subreddit": "france",
-    "author": "elemiah_",
-    "flair": "Société",
-    "domain": "coe.int",
-    "selftext": "",
-    "reddit_thumbnail": "https://a.thumbs.redditmedia.com/UG2NWCkm35WKWr7sMQpIj9chR0x9_-_LDl-N1BBGEn0.jpg",
-    "ingested_at": "2026-10-31T15:35:23.899891+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/e94s1j.webp",
-    "tags": [
-      "Europe",
-      "Société"
-    ],
-    "analyzed_at": "2026-11-01T09:40:51.064293+00:00"
   },
   {
     "id": "e94h9j",
@@ -1257,8 +866,7 @@
     "summary": "",
     "thumbnail": "thumbnails/e94h9j.webp",
     "tags": [
-      "Italie",
-      "Paris"
+      "Police"
     ],
     "analyzed_at": "2026-11-01T09:40:50.880424+00:00"
   },
@@ -1281,8 +889,8 @@
     "thumbnail": "thumbnails/e8p819.webp",
     "tags": [
       "Jean-Luc Mélenchon",
-      "Élection présidentielle 2017",
-      "Politique"
+      "Justice",
+      "Élection présidentielle"
     ],
     "analyzed_at": "2026-11-01T09:40:51.065048+00:00"
   },
@@ -1304,39 +912,10 @@
     "summary": "Avec ce dispositif – s'il est définitivement adopté par le Parlement – des objectifs successifs de réduction, de réutilisation ou de recyclage des emballages plastique à usage unique seraient fixés tous les cinq ans.",
     "thumbnail": "thumbnails/e8oze6.webp",
     "tags": [
-      "Parlement",
       "Environnement",
-      "Monde",
-      "Politique",
-      "Écologie"
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T09:40:51.147339+00:00"
-  },
-  {
-    "id": "e8g7my",
-    "title": "A French Police Union Releases a List of Journalists Described as Enemies of the National Police",
-    "url": "https://www.coe.int/en/web/media-freedom/detail-alert?p_p_id=sojdashboard_WAR_coesojportlet&p_p_lifecycle=0&p_p_col_id=column-4&p_p_col_count=1&_sojdashboard_WAR_coesojportlet_alertId=56051989",
-    "permalink": "/r/france/comments/e8g7my/a_french_police_union_releases_a_list_of/",
-    "created_at": "2019-12-09T21:17:48+00:00",
-    "score": 214,
-    "num_comments": 126,
-    "subreddit": "france",
-    "author": "[deleted]",
-    "flair": "Société",
-    "domain": "coe.int",
-    "selftext": "",
-    "reddit_thumbnail": "https://a.thumbs.redditmedia.com/9IsWFBXJ4WiUmaiD2lTkn2ZcrFszO8WDsLgwA5CuF_8.jpg",
-    "ingested_at": "2026-10-31T15:35:23.899804+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/e8g7my.webp",
-    "tags": [
-      "French Police Union Releases",
-      "List",
-      "Journalists Described",
-      "Enemies",
-      "Société"
-    ],
-    "analyzed_at": "2026-11-01T09:40:51.472480+00:00"
   },
   {
     "id": "e89p7v",
@@ -1356,10 +935,8 @@
     "summary": "Le maire de Levallois-Perret ne sera pas libéré avant son procès en appel pour fraude fiscale qui commence mercredi.",
     "thumbnail": "thumbnails/e89p7v.webp",
     "tags": [
-      "Patrick Balkany",
-      "Procès balkany",
-      "Levallois-Perret",
-      "Politique"
+      "Justice",
+      "Patrick Balkany"
     ],
     "analyzed_at": "2026-11-01T09:40:51.234070+00:00"
   },
@@ -1381,7 +958,7 @@
     "summary": "La déclaration d’intérêts du haut-commissaire aux Retraites a été publiée samedi. Il y manque sa fonction d’administrateur au sein d’un inst",
     "thumbnail": "thumbnails/e80p5q.webp",
     "tags": [
-      "Jean-Paul Delevoye"
+      "Retraites"
     ],
     "analyzed_at": "2026-11-01T09:40:51.131385+00:00"
   },
@@ -1403,8 +980,8 @@
     "summary": "",
     "thumbnail": "thumbnails/e7rl42.webp",
     "tags": [
-      "France 2",
-      "Action Critique Médias"
+      "Médias",
+      "Grèves et syndicats"
     ],
     "analyzed_at": "2026-11-01T09:40:51.325721+00:00"
   },
@@ -1429,29 +1006,6 @@
     "analyzed_at": "2026-11-01T09:40:51.145620+00:00"
   },
   {
-    "id": "e7gx3a",
-    "title": "Pétition contre la mort programmée du Palais de la découverte en Septembre 2020",
-    "url": "https://www.palais-decouverte-danger-2020.fr/",
-    "permalink": "/r/france/comments/e7gx3a/pétition_contre_la_mort_programmée_du_palais_de/",
-    "created_at": "2019-12-07T17:17:22+00:00",
-    "score": 261,
-    "num_comments": 36,
-    "subreddit": "france",
-    "author": "sitarane",
-    "flair": "Science",
-    "domain": "palais-decouverte-danger-2020.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/3QZc-jcXl676Y4r1kEbAL2HJZ4uSATDrhAUBnTmmnUs.jpg?auto=webp&s=0251cab92b98df309cb2f0aae13f18ef75d14362",
-    "ingested_at": "2026-10-31T15:35:23.899564+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/e7gx3a.webp",
-    "tags": [
-      "Palais",
-      "Science"
-    ],
-    "analyzed_at": "2026-11-01T09:40:51.589721+00:00"
-  },
-  {
     "id": "e7dl1h",
     "title": "François Bayrou mis en examen pour \"complicité de détournement de fonds publics\"",
     "url": "https://www.france24.com/fr/20191206-fran%C3%A7ois-bayrou-mis-en-examen-pour-complicit%C3%A9-de-d%C3%A9tournement-de-fonds-publics",
@@ -1470,9 +1024,8 @@
     "thumbnail": "thumbnails/e7dl1h.webp",
     "tags": [
       "François Bayrou",
-      "MoDem",
-      "Parlement",
-      "Justice"
+      "Justice",
+      "Corruption"
     ],
     "analyzed_at": "2026-11-01T09:40:51.315226+00:00"
   },
@@ -1493,7 +1046,9 @@
     "ingested_at": "2026-10-31T15:35:23.899586+00:00",
     "summary": "",
     "thumbnail": "thumbnails/e7d54l.webp",
-    "tags": [],
+    "tags": [
+      "Police"
+    ],
     "analyzed_at": "2026-11-01T09:40:51.463859+00:00"
   },
   {
@@ -1514,33 +1069,10 @@
     "summary": "",
     "thumbnail": "thumbnails/e738ez.webp",
     "tags": [
-      "François Fillon"
+      "François Fillon",
+      "Retraites"
     ],
     "analyzed_at": "2026-11-01T09:40:51.825288+00:00"
-  },
-  {
-    "id": "e705gi",
-    "title": "\"Raffarinade\" — une de mes pages Wikipédia préférées",
-    "url": "https://fr.wikipedia.org/wiki/Raffarinade",
-    "permalink": "/r/france/comments/e705gi/raffarinade_une_de_mes_pages_wikipédia_préférées/",
-    "created_at": "2019-12-06T15:26:28+00:00",
-    "score": 87,
-    "num_comments": 14,
-    "subreddit": "france",
-    "author": "Amiral_Poitou",
-    "flair": "Culture",
-    "domain": "fr.wikipedia.org",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/JiZ66bphL9HgKflGAbLko9r3xCrw6CKa5vL2_XWeQH0.jpeg?auto=webp&s=2da0a49ffc560023bc8c13140f8428356a902d51",
-    "ingested_at": "2026-10-31T15:35:23.900644+00:00",
-    "summary": "Le terme raffarinade est un néologisme politique inventé pour qualifier les diverses petites phrases de l' homme politique et ancien Premier ministre français Jean-Pierre Raffarin , en particulier les phrases imagées et les lapalissades dont il est friand au cours de ses interventions publiques.",
-    "thumbnail": "thumbnails/e705gi.webp",
-    "tags": [
-      "Wikipédia",
-      "Europe",
-      "Culture"
-    ],
-    "analyzed_at": "2026-11-01T09:40:51.535029+00:00"
   },
   {
     "id": "e6fgsr",
@@ -1561,10 +1093,9 @@
     "thumbnail": "thumbnails/e6fgsr.webp",
     "tags": [
       "Marlène Schiappa",
-      "Fillon",
-      "Grève du 29 janvier",
-      "Grève et manifestations",
-      "Politique"
+      "Retraites",
+      "Grèves et syndicats",
+      "François Fillon"
     ],
     "analyzed_at": "2026-11-01T09:40:51.699695+00:00"
   },
@@ -1586,32 +1117,9 @@
     "summary": "",
     "thumbnail": "thumbnails/e6f2fc.webp",
     "tags": [
-      "YouTube",
-      "Société"
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T09:40:51.941882+00:00"
-  },
-  {
-    "id": "e615rg",
-    "title": "Institut de biologie moléculaire et cellulaire, Université de Strasbourg, Alsace [2418 × 1770]",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Institut_de_biologie_mol%C3%A9culaire_et_cellulaire_de_Strasbourg.jpg",
-    "permalink": "/r/france/comments/e615rg/institut_de_biologie_moléculaire_et_cellulaire/",
-    "created_at": "2019-12-04T15:51:40+00:00",
-    "score": 609,
-    "num_comments": 36,
-    "subreddit": "france",
-    "author": "wisi_eu",
-    "flair": "Forum Libre",
-    "domain": "upload.wikimedia.org",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/G0iqQM5K-qhue8YzBVtcSBahowilwkbZ1xtbTvb480Q.jpeg?auto=webp&s=0664552b65249fa472a1d43a85a83fd6879ed66b",
-    "ingested_at": "2026-10-31T15:35:23.899050+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/e615rg.webp",
-    "tags": [
-      "Strasbourg"
-    ],
-    "analyzed_at": "2026-11-01T09:40:51.806918+00:00"
   },
   {
     "id": "e60kod",
@@ -1630,40 +1138,8 @@
     "ingested_at": "2026-10-31T15:35:23.899932+00:00",
     "summary": "La compagnie aérienne américaine a choisi des A 321 XLR pour développer de nouvelles lignes. En face, Boeing n’avait pas d’appareils de cett",
     "thumbnail": "thumbnails/e60kod.webp",
-    "tags": [
-      "Airbus",
-      "Boeing",
-      "United Airlines",
-      "American",
-      "Soft paywall"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:40:51.745243+00:00"
-  },
-  {
-    "id": "e5kyo7",
-    "title": "Macron Uses Toddler Reverse Psychology Trick to Fool Trump Into Supporting NATO",
-    "url": "http://nymag.com/intelligencer/amp/2019/12/macrons-toddler-psychology-trick-makes-trump-endorse-nato.html?__twitter_impression=true",
-    "permalink": "/r/france/comments/e5kyo7/macron_uses_toddler_reverse_psychology_trick_to/",
-    "created_at": "2019-12-03T18:05:02+00:00",
-    "score": 331,
-    "num_comments": 107,
-    "subreddit": "france",
-    "author": "Troufee",
-    "flair": "",
-    "domain": "nymag.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/jPGjlrEHOai9tsRt_X_2w4NjaJV-XDA3tLtdHPPMHoo.jpg?auto=webp&s=07e3e3d0f160095f0333752a0a062aae56b707fe",
-    "ingested_at": "2026-10-31T15:35:23.899340+00:00",
-    "summary": "President who railed against Western alliance decides he loves it after being scolded by his rival.",
-    "thumbnail": "thumbnails/e5kyo7.webp",
-    "tags": [
-      "Trump",
-      "Fool Trump Into Supporting NATO",
-      "NATO",
-      "Western",
-      "Politics"
-    ],
-    "analyzed_at": "2026-11-01T09:40:51.895870+00:00"
   },
   {
     "id": "e5jqia",
@@ -1683,11 +1159,8 @@
     "summary": "Face aux pollutions et aux catastrophes industrielles, des associations environnementales, des avocats, des universitaires et des juristes appellent à \"donner à la justice les moyens de protéger l'environnement et la santé\".",
     "thumbnail": "thumbnails/e5jqia.webp",
     "tags": [
-      "Incendie de l'usine Lubrizol à Rouen",
-      "Incendies",
-      "Faits-divers",
-      "Droit et justice",
-      "Écologie"
+      "Environnement",
+      "Justice"
     ],
     "analyzed_at": "2026-11-01T09:40:51.876973+00:00"
   },
@@ -1709,39 +1182,9 @@
     "summary": "Open Source : La CDU, le parti d’Angela Merkel, opte pour le passage sous licence libre des logiciels développés avec un financement public.",
     "thumbnail": "thumbnails/e5eyzl.webp",
     "tags": [
-      "CDU",
-      "Open Source",
-      "Angela Merkel",
-      "Logiciel Libre",
-      "Politique"
+      "Angela Merkel"
     ],
     "analyzed_at": "2026-11-01T09:40:51.858182+00:00"
-  },
-  {
-    "id": "e52aou",
-    "title": "Pour le Parlement européen l'énergie nucléaire fait partie de la solution au changement climatique.",
-    "url": "https://www.eurasiareview.com/02122019-nuclear-forms-part-of-climate-change-solution-says-european-parliament/",
-    "permalink": "/r/france/comments/e52aou/pour_le_parlement_européen_lénergie_nucléaire/",
-    "created_at": "2019-12-02T17:29:11+00:00",
-    "score": 584,
-    "num_comments": 154,
-    "subreddit": "france",
-    "author": "[deleted]",
-    "flair": "",
-    "domain": "eurasiareview.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/ZzAr4ANJLiAZMBgnfpPKq7_06Dti_HatdcSRSXOxfBo.jpg?auto=webp&s=906b46ca015cb8b07a8b845d1efeae19554956d6",
-    "ingested_at": "2026-10-31T15:35:23.899096+00:00",
-    "summary": "The European Parliament this week adopted a resolution on COP25 - the 25th Session of the Conference of the Parties to the United Nations Framework Convention",
-    "thumbnail": "thumbnails/e52aou.webp",
-    "tags": [
-      "European Parliament",
-      "Parlement",
-      "COP25",
-      "Session",
-      "Conference"
-    ],
-    "analyzed_at": "2026-11-01T09:40:51.961125+00:00"
   },
   {
     "id": "e50qkx",
@@ -1760,7 +1203,10 @@
     "ingested_at": "2026-10-31T15:35:23.899001+00:00",
     "summary": "",
     "thumbnail": "thumbnails/e50qkx.webp",
-    "tags": [],
+    "tags": [
+      "Antisémitisme",
+      "Institutions"
+    ],
     "analyzed_at": "2026-11-01T09:40:51.909180+00:00"
   },
   {
@@ -1780,9 +1226,7 @@
     "ingested_at": "2026-10-31T15:35:23.900346+00:00",
     "summary": "",
     "thumbnail": "thumbnails/e4wtnj.webp",
-    "tags": [
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:40:52.782651+00:00"
   },
   {
@@ -1803,10 +1247,7 @@
     "summary": "Eliot, un étudiant de 18 ans, a reçu une amende salée dans un train dans la Meuse. 111 euros. Son billet était bien en règle. Mais il avait perdu sa carte d'identité. Explications.",
     "thumbnail": "thumbnails/e4vpzn.webp",
     "tags": [
-      "Meuse",
-      "Eliot",
-      "SNCF",
-      "Société"
+      "Éducation"
     ],
     "analyzed_at": "2026-11-01T09:40:52.151278+00:00"
   },
@@ -1828,11 +1269,7 @@
     "summary": "C’est un tournant dans l’affaire Sarkozy-Kadhafi. Thierry Gaubert, ancien collaborateur de Nicolas Sarkozy, et intime de son lieutenant Brice Hortefeux, a reçu en février 2006 sur un compte secret au…",
     "thumbnail": "thumbnails/e4h930.webp",
     "tags": [
-      "Sarkozy",
-      "Sarkozy-Kadhafi",
-      "Thierry Gaubert",
-      "Nicolas Sarkozy",
-      "Brice Hortefeux"
+      "Nicolas Sarkozy"
     ],
     "analyzed_at": "2026-11-01T09:40:52.213750+00:00"
   },
@@ -1854,7 +1291,7 @@
     "summary": "",
     "thumbnail": "thumbnails/e4f5h3.webp",
     "tags": [
-      "Airbnb"
+      "Logement"
     ],
     "analyzed_at": "2026-11-01T09:40:52.301076+00:00"
   }

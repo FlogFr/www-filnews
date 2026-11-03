@@ -17,8 +17,7 @@
     "summary": "",
     "thumbnail": "thumbnails/rt6dor.webp",
     "tags": [
-      "Bernard Cazeneuve",
-      "Politique"
+      "Bernard Cazeneuve"
     ],
     "analyzed_at": "2026-11-01T10:02:41.097385+00:00"
   },
@@ -39,13 +38,7 @@
     "ingested_at": "2026-11-01T10:02:32.818920+00:00",
     "summary": "Eloi Relange adresse ses \"félicitations\" au joueur d'échecs français qui vient de remporter les championnats du monde dans la catégorie blitz, cadence ultra-rapide, chez les séniors.",
     "thumbnail": "thumbnails/rt24rf.webp",
-    "tags": [
-      "Maxime Vachier-Lagrave",
-      "Eloi Relange",
-      "Route du Rhum",
-      "Jeux",
-      "Jeunesse"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:02:42.735336+00:00"
   },
   {
@@ -66,7 +59,6 @@
     "summary": "",
     "thumbnail": "thumbnails/rsoft0.webp",
     "tags": [
-      "Medef",
       "Covid-19"
     ],
     "analyzed_at": "2026-11-01T10:02:46.843503+00:00"
@@ -89,9 +81,7 @@
     "summary": "L'Albigeois Jean-François Marche, 67 ans, poète, photographe et acteur majeur des manifestations contre le pass sanitaire, vient de disparaître, victime du Covid.",
     "thumbnail": "thumbnails/rsd0xk.webp",
     "tags": [
-      "Covid-19",
-      "Covid",
-      "Albigeois Jean-François Marche"
+      "Covid-19"
     ],
     "analyzed_at": "2026-11-01T10:02:41.120058+00:00"
   },
@@ -113,11 +103,8 @@
     "summary": "L’admission prioritaire, à l’hôpital, des malades du Covid non vaccinés, doit-elle rester la règle, alors que des patients vaccinés souffrant d’autres pathologies voient leur prise en charge retardée ? Si la déontologie médicale interdit ce qui serait de la discrimination, le dilemme taraude certains soignants.",
     "thumbnail": "thumbnails/rrxeib.webp",
     "tags": [
-      "Covid",
-      "Coronavirus",
-      "Vaccin (vaccination)",
-      "Hôpital",
-      "Société"
+      "Santé",
+      "Covid-19"
     ],
     "analyzed_at": "2026-11-01T10:02:41.221486+00:00"
   },
@@ -139,11 +126,8 @@
     "summary": "À l'hôpital de Toulouse, aucun patient en service de réanimation pour cause de Covid-19 n'est vacciné. Le variant Delta continue d'envoyer chaque jour des Toulousains au CHU.",
     "thumbnail": "thumbnails/rr7a7k.webp",
     "tags": [
-      "Toulouse",
-      "Covid",
-      "Coronavirus Covid-19",
-      "Hôpitaux",
-      "Covid-19"
+      "Covid-19",
+      "Santé"
     ],
     "analyzed_at": "2026-11-01T10:02:41.467639+00:00"
   },
@@ -165,36 +149,9 @@
     "summary": "Me Edouard de Lamaze a confirmé les informations du « Monde » selon lesquelles le frère jumeau d’Igor était malade du Covid-19, en réanimation, et qu’il n’était pas vacciné",
     "thumbnail": "thumbnails/rr2zil.webp",
     "tags": [
-      "Covid-19",
-      "Grichka Bogdanoff",
-      "Edouard de Lamaze",
-      "Igor"
+      "Covid-19"
     ],
     "analyzed_at": "2026-11-01T10:02:41.213193+00:00"
-  },
-  {
-    "id": "rqr2hx",
-    "title": "Les bars en France le 1er janvier 2022",
-    "url": "https://gfycat.com/fr/illinformedclearammonite",
-    "permalink": "/r/france/comments/rqr2hx/les_bars_en_france_le_1er_janvier_2022/",
-    "created_at": "2021-12-28T22:07:45+00:00",
-    "score": 1390,
-    "num_comments": 27,
-    "subreddit": "france",
-    "author": "[deleted]",
-    "flair": "Humour",
-    "domain": "gfycat.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://b.thumbs.redditmedia.com/ocwRqRRXfLQX1UzFEviK0AQckdSudjd2uf5UyBN8etQ.jpg",
-    "ingested_at": "2026-11-01T10:02:32.817648+00:00",
-    "summary": "Watch and share La Grande Vadrouille Fre None Louis De Funes GIFs on Gfycat",
-    "thumbnail": "thumbnails/rqr2hx.webp",
-    "tags": [
-      "Gif",
-      "Animated",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T10:02:46.516411+00:00"
   },
   {
     "id": "rqaz3h",
@@ -214,7 +171,8 @@
     "summary": "",
     "thumbnail": "thumbnails/rqaz3h.webp",
     "tags": [
-      "Commission"
+      "Énergie",
+      "Union européenne"
     ],
     "analyzed_at": "2026-11-01T10:02:41.635395+00:00"
   },
@@ -236,10 +194,6 @@
     "summary": "La directrice de l'Ehpad, situé en Seine-et-Marne, a été licenciée et est convoquée devant la justice en 2022.",
     "thumbnail": "thumbnails/rpo6hl.webp",
     "tags": [
-      "Ehpad",
-      "Seine-et-Marne",
-      "Pass-sanitaire",
-      "Soignant",
       "Covid-19"
     ],
     "analyzed_at": "2026-11-01T10:02:41.535781+00:00"
@@ -262,11 +216,7 @@
     "summary": "Alors que se tient lundi à 16 heures un conseil de défense sanitaire à l'Elysée, il n'est pas question, à ce stade, selon les informations de franceinfo, d'instaurer un couvre-feu pour le réveillon du Nouvel An, ni de prolonger les vacances scolaires.",
     "thumbnail": "thumbnails/rpg6ah.webp",
     "tags": [
-      "Covid-19",
-      "Nouvel An",
-      "Elysée",
-      "Variant Omicron",
-      "Noël et fêtes de fin d'année"
+      "Covid-19"
     ],
     "analyzed_at": "2026-11-01T10:02:43.207651+00:00"
   },
@@ -288,11 +238,9 @@
     "summary": "Le tribunal judiciaire a condamné l'État pour le refus d'un policier d'enregistrer une plainte la veille d'un féminicide en 2010.",
     "thumbnail": "thumbnails/rp72hd.webp",
     "tags": [
-      "État",
-      "Hager Sehili",
-      "Ahlam Sehili",
-      "Strasbourg",
-      "Société"
+      "Police",
+      "Justice",
+      "Droits des femmes"
     ],
     "analyzed_at": "2026-11-01T10:02:42.664381+00:00"
   },
@@ -313,10 +261,7 @@
     "ingested_at": "2026-11-01T10:02:32.818092+00:00",
     "summary": "",
     "thumbnail": "thumbnails/ros5m9.webp",
-    "tags": [
-      "Desmond Tutu",
-      "Prix Nobel"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:02:41.889247+00:00"
   },
   {
@@ -336,13 +281,7 @@
     "ingested_at": "2026-11-01T10:02:32.818165+00:00",
     "summary": "Après trente ans d'attente et plusieurs reports, une fusée Ariane 5 a décollé de la base de Kourou samedi 25 décembre, à 13h20, heure française, avec à son bord le télescope James Webb.",
     "thumbnail": "thumbnails/ro9r9o.webp",
-    "tags": [
-      "James Webb",
-      "Ariane 5",
-      "Kourou",
-      "Hubble",
-      "Science"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:02:43.579960+00:00"
   },
   {
@@ -383,11 +322,7 @@
     "summary": "Avant de paraître au Seuil en octobre, la première biographie non autorisée sur Éric Zemmour du journaliste Étienne Girard devait être publiée chez Plon, propriété de Vincent Bolloré. La direction a …",
     "thumbnail": "thumbnails/rnjvjy.webp",
     "tags": [
-      "Plon",
-      "Bolloré",
-      "Zemmour",
-      "Éric Zemmour",
-      "Vincent Bolloré"
+      "Éric Zemmour"
     ],
     "analyzed_at": "2026-11-01T10:02:43.093551+00:00"
   },
@@ -409,11 +344,7 @@
     "summary": "À Châteaubriant, le cinéma Émeraude a décidé de fermer « jusqu’à nouvel ordre », jeudi 23 décembre, après avoir vécu deux contrôles de passes sanitaires, en pleine séance, par la gendarmerie.",
     "thumbnail": "thumbnails/rngntx.webp",
     "tags": [
-      "Châteaubriant",
-      "Émeraude",
-      "Pass sanitaire",
-      "Loire-Atlantique",
-      "Une"
+      "Police"
     ],
     "analyzed_at": "2026-11-01T10:02:45.282091+00:00"
   },
@@ -435,9 +366,7 @@
     "summary": "En juin, François Fillon avait déjà rejoint le conseil d'administration d'une autre société russe spécialisée dans le développement et l'exploitation des gisements d'hydrocarbures",
     "thumbnail": "thumbnails/rn51pm.webp",
     "tags": [
-      "François Fillon",
-      "Sibur",
-      "Politique"
+      "François Fillon"
     ],
     "analyzed_at": "2026-11-01T10:02:43.333865+00:00"
   },
@@ -459,11 +388,8 @@
     "summary": "Le fondateur du groupe Provalliance a été placé sous contrôle judiciaire «avec une caution fixée à plusieurs centaines de milliers d'euros», a précisé le parquet de Nanterre.",
     "thumbnail": "thumbnails/rmsg0k.webp",
     "tags": [
-      "Franck Provost",
-      "Provalliance",
-      "Nanterre",
-      "Coiffeurs",
-      "Société"
+      "Justice",
+      "Budget et fiscalité"
     ],
     "analyzed_at": "2026-11-01T10:02:45.960657+00:00"
   },
@@ -484,11 +410,7 @@
     "ingested_at": "2026-11-01T10:02:32.819077+00:00",
     "summary": "Le gouvernement belge est parvenu jeudi à un accord sur la fermeture des centrales nucléaires du pays en 2025, sans pour autant tourner le dos à la technologie nucléaire pour produire de l'électricité, rapportent les chaînes publiques RTBF et VRT.",
     "thumbnail": "thumbnails/rmrl62.webp",
-    "tags": [
-      "Belgique",
-      "RTBF et VRT",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:02:43.978185+00:00"
   },
   {
@@ -508,13 +430,7 @@
     "ingested_at": "2026-11-01T10:02:32.818799+00:00",
     "summary": "Ce geste a été décrié par des militants pro démocratie en exil, ainsi que par l'auteur de l'œuvre, qui n'exclut pas des poursuites judiciaires en cas de destruction.",
     "thumbnail": "thumbnails/rmpvgc.webp",
-    "tags": [
-      "Tiananmen",
-      "Hongkong",
-      "Chine",
-      "HKU",
-      "Pékin"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:02:47.262136+00:00"
   },
   {
@@ -534,7 +450,9 @@
     "ingested_at": "2026-11-01T10:02:32.818580+00:00",
     "summary": "",
     "thumbnail": "thumbnails/rm1pha.webp",
-    "tags": [],
+    "tags": [
+      "Budget et fiscalité"
+    ],
     "analyzed_at": "2026-11-01T10:02:44.008095+00:00"
   },
   {
@@ -554,11 +472,7 @@
     "ingested_at": "2026-11-01T10:02:32.817788+00:00",
     "summary": "Mauvaise nouvelle pour l'ancien ministre de l'Intérieur Claude Guéant . L'homme politique passera les fêtes de Noël et le Nouvel An en prison alors qu'il a pourtant",
     "thumbnail": "thumbnails/rm0let.webp",
-    "tags": [
-      "Claude Guéant",
-      "Noël et le Nouvel An",
-      "Intérieur Claude Guéant"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:02:44.423229+00:00"
   },
   {
@@ -581,7 +495,7 @@
     "tags": [
       "Philippe Poutou",
       "Gérald Darmanin",
-      "NPA"
+      "Police"
     ],
     "analyzed_at": "2026-11-01T10:02:44.486267+00:00"
   },
@@ -603,7 +517,8 @@
     "summary": "",
     "thumbnail": "thumbnails/rlajiz.webp",
     "tags": [
-      "Covid-19"
+      "Covid-19",
+      "Santé"
     ],
     "analyzed_at": "2026-11-01T10:02:44.905734+00:00"
   },
@@ -625,10 +540,8 @@
     "summary": "Dans une vidéo diffusée sur les réseaux sociaux par le groupe antifasciste Jeune Garde, on découvre deux soutiens d’Éric Zemmour s’entraînant au tir tout en expliquant viser des élus de La France ins…",
     "thumbnail": "thumbnails/rkt6n2.webp",
     "tags": [
-      "LFI",
-      "Zemmour",
-      "Jeune Garde",
-      "Éric Zemmour"
+      "Éric Zemmour",
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T10:02:45.734687+00:00"
   },
@@ -655,29 +568,6 @@
     "analyzed_at": "2026-11-01T10:02:45.361384+00:00"
   },
   {
-    "id": "rjvv1y",
-    "title": "DOSSIER DECLASSIFIÉ GACCIO VS CANAL+ : Chronique d’un projet d’assassinat",
-    "url": "https://elucid.media/democratie/dossier-declassifie-gaccio-vs-canal-chronique-d-un-projet-d-assassinat",
-    "permalink": "/r/france/comments/rjvv1y/dossier_declassifié_gaccio_vs_canal_chronique_dun/",
-    "created_at": "2021-12-19T12:32:26+00:00",
-    "score": 246,
-    "num_comments": 37,
-    "subreddit": "france",
-    "author": "BoeufCarottes",
-    "flair": "Société",
-    "domain": "elucid.media",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/vJGBynIWh64MM1NVOaEwh3HtetGtSG1FLiKIAPgWIxg.png?auto=webp&s=e40c20bdfe71a047f6777e0298ffcda41c89b6ce",
-    "ingested_at": "2026-11-01T10:02:32.819028+00:00",
-    "summary": "Comment un engagement syndical déplaisant pour des dirigeants finit en volonté de se débarrasser d'un salarié gênant...",
-    "thumbnail": "thumbnails/rjvv1y.webp",
-    "tags": [
-      "DOSSIER DECLASSIFIÉ GACCIO VS CANAL",
-      "Société"
-    ],
-    "analyzed_at": "2026-11-01T10:02:46.262009+00:00"
-  },
-  {
     "id": "rjvayc",
     "title": "Une enquête du \"New York Times\" dévoile comment des milliers de civils ont été tués dans des frappes de drones américaines",
     "url": "https://www.francetvinfo.fr/monde/proche-orient/irak/une-enquete-du-new-york-times-devoile-comment-des-milliers-de-civils-ont-ete-tues-dans-des-frappes-de-drones-americains_4886741.html",
@@ -694,13 +584,7 @@
     "ingested_at": "2026-11-01T10:02:32.818467+00:00",
     "summary": "Le journal américain a eu accès à 1 300 rapports du Pentagone qui montrent les défaillances dans le renseignement en Irak, Afghanistan et Syrie, sans qu'aucune sanction ne soit jamais prise.",
     "thumbnail": "thumbnails/rjvayc.webp",
-    "tags": [
-      "New York Times",
-      "Irak",
-      "Syrie",
-      "Afghanistan",
-      "Pentagone"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:02:45.718774+00:00"
   },
   {
@@ -720,10 +604,7 @@
     "ingested_at": "2026-11-01T10:02:32.818334+00:00",
     "summary": "Une jeune Rouennaise de 20 ans a développé une technique bien à elle pour se défendre contre le harcèlement de rue. Les vidéos de ses esquives, face aux hommes beaucoup trop insistants, cumulent des millions de vues sur les réseaux sociaux.",
     "thumbnail": "thumbnails/rjsvcx.webp",
-    "tags": [
-      "Rouennaise de 20",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:02:46.617315+00:00"
   },
   {
@@ -744,11 +625,7 @@
     "summary": "Le député Philippe Latombe (MoDem) dénonce à l'Assemblée nationale le choix de la SNCF, de confier l'hébergement de ses serveurs à Amazon Web Services, ainsi que celui d'Orange d'en assurer la commercialisation auprès de ses clients.",
     "thumbnail": "thumbnails/rjspab.webp",
     "tags": [
-      "SNCF",
-      "Orange",
-      "Etat-actionnaire",
-      "Philippe Latombe",
-      "Assemblée"
+      "Transports"
     ],
     "analyzed_at": "2026-11-01T10:02:46.377885+00:00"
   },
@@ -769,11 +646,7 @@
     "ingested_at": "2026-11-01T10:02:32.818956+00:00",
     "summary": "Environ 350 personnes ont manifesté ce samedi soir dans les rues de Nancy, contre le pass vaccinal. Les manifestants, accompagnés d’une sono crachant ...",
     "thumbnail": "thumbnails/rjicx7.webp",
-    "tags": [
-      "Algérie",
-      "Saint-Nicolas",
-      "Nancy"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:02:47.301552+00:00"
   },
   {
@@ -794,9 +667,7 @@
     "summary": "Selon la Drees, 38% des décès liés au Covid-19 entre le 8 novembre et le 5 décembre dernier concernaient des Français non-vaccinés et âgés de plus de 20 ans (9% de la population éligible au vaccin).",
     "thumbnail": "thumbnails/rjdhz6.webp",
     "tags": [
-      "Drees",
-      "Covid-19",
-      "Français"
+      "Covid-19"
     ],
     "analyzed_at": "2026-11-01T10:02:46.614210+00:00"
   },
@@ -817,9 +688,7 @@
     "ingested_at": "2026-11-01T10:02:32.818419+00:00",
     "summary": "[BLOG You Will Never Hate Alone] Quand débordés par l'afflux de patients, des hôpitaux déprogramment des opérations, il est légitime de se demander si…",
     "thumbnail": "thumbnails/rjdemc.webp",
-    "tags": [
-      "BLOG You Will Never Hate Alone"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:02:46.606864+00:00"
   },
   {
@@ -840,35 +709,9 @@
     "summary": "",
     "thumbnail": "thumbnails/rimd3x.webp",
     "tags": [
-      "François Ruffin",
-      "LVMH"
+      "François Ruffin"
     ],
     "analyzed_at": "2026-11-01T10:02:46.962380+00:00"
-  },
-  {
-    "id": "ridkrd",
-    "title": "Semaine de quatre jours : « On ne travaille pas moins, on travaille mieux ! »",
-    "url": "https://www.helloworkplace.fr/semaine-quatre-jours-travail/",
-    "permalink": "/r/france/comments/ridkrd/semaine_de_quatre_jours_on_ne_travaille_pas_moins/",
-    "created_at": "2021-12-17T09:16:20+00:00",
-    "score": 291,
-    "num_comments": 139,
-    "subreddit": "france",
-    "author": "Folivao",
-    "flair": "Société",
-    "domain": "helloworkplace.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/rzxyBrRKwmXYQkk0eernaEEAjxoMjEcGXVtOenHHK9Q.jpg?auto=webp&s=011e293a2877b216fb64872b2e62ea902f016676",
-    "ingested_at": "2026-11-01T10:02:32.818725+00:00",
-    "summary": "Pourquoi et comment mettre en place la semaine de quatre jours dans votre entreprise ? Trois dirigeants ont répondu à toutes nos questions.",
-    "thumbnail": "thumbnails/ridkrd.webp",
-    "tags": [
-      "Julien Gargowitsch",
-      "Qualité de vie au travail",
-      "Vie pro vie perso",
-      "Société"
-    ],
-    "analyzed_at": "2026-11-01T10:02:47.649741+00:00"
   },
   {
     "id": "ri0xws",
@@ -888,10 +731,7 @@
     "summary": "Focus Métier : La tribune d’un chasseur de têtes, parue dans les Échos a beaucoup fait rire les techs.",
     "thumbnail": "thumbnails/ri0xws.webp",
     "tags": [
-      "Échos",
-      "Focus Métier",
-      "Technologie",
-      "Société"
+      "Travail"
     ],
     "analyzed_at": "2026-11-01T10:02:46.824551+00:00"
   },
@@ -932,13 +772,7 @@
     "ingested_at": "2026-11-01T10:02:32.818189+00:00",
     "summary": "Au terme d'une compétition intense face à Boeing et Embraer, Airbus a été choisi par Qantas pour remplacer la totalité de sa flotte de Boeing 737 et 717 utilisée sur le réseau domestique. Qantas a commandé 40 A321 A321 XLR et A220 assorties de 94 options.",
     "thumbnail": "thumbnails/rhkpcd.webp",
-    "tags": [
-      "Qantas",
-      "Boeing",
-      "Australie",
-      "A321 et A220",
-      "Boeing et Embraer"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:02:47.736636+00:00"
   },
   {
@@ -959,11 +793,7 @@
     "summary": "L'ancien rédacteur en chef adjoint de \"Spécial investigation\", évincé de Canal+ par le milliardaire, a dénoncé la \"brutalité\" de sa gestion dans un documentaire de RSF.",
     "thumbnail": "thumbnails/rh08bm.webp",
     "tags": [
-      "Vincent Bolloré",
-      "Canal",
-      "RSF",
-      "Jean-Baptiste Rivoire",
-      "Reporters"
+      "Médias"
     ],
     "analyzed_at": "2026-11-01T10:02:47.275609+00:00"
   },
@@ -985,33 +815,10 @@
     "summary": "Le policier avait été copieusement insulté et filmé par la jeune femme en marge d’une manifestation d’hommage à Adama Traoré, en juin 2020.",
     "thumbnail": "thumbnails/rgkcfz.webp",
     "tags": [
-      "Youtubeuse Nadjélika",
-      "Adama Traoré",
-      "Fait Divers"
+      "Police",
+      "Manifestations"
     ],
     "analyzed_at": "2026-11-01T10:02:47.243442+00:00"
-  },
-  {
-    "id": "rgiok8",
-    "title": "Le lait \"C'est qui le patron\" devient le plus vendu en France, une première pour un produit équitable",
-    "url": "https://www.novethic.fr/actualite/social/consommation/isr-rse/le-lait-de-c-est-qui-le-patron-devient-le-plus-vendu-en-france-une-premiere-pour-un-produit-equitable-150399.html",
-    "permalink": "/r/france/comments/rgiok8/le_lait_cest_qui_le_patron_devient_le_plus_vendu/",
-    "created_at": "2021-12-14T22:10:11+00:00",
-    "score": 436,
-    "num_comments": 94,
-    "subreddit": "france",
-    "author": "alpaca033",
-    "flair": "Société",
-    "domain": "novethic.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/vYIiGO7GSrsfW2f25E3-rq-hBdZ7SvLMo4kbY4oaUDc.jpg?auto=webp&s=9c82001046743c4bdaa348dcde986dc0e711daa9",
-    "ingested_at": "2026-11-01T10:02:32.818116+00:00",
-    "summary": "C’est un signe que le monde change. \"Pour la première fois dans l’histoire du monde agroalimentaire, un produit équitable devient le produit le plus vendu de sa catégorie\", explique C’est qui le patron. Depuis 2016, la marque connaît en effet un succès sans faille.",
-    "thumbnail": "thumbnails/rgiok8.webp",
-    "tags": [
-      "Société"
-    ],
-    "analyzed_at": "2026-11-01T10:02:48.128833+00:00"
   },
   {
     "id": "rgfj4s",
@@ -1030,12 +837,7 @@
     "ingested_at": "2026-11-01T10:02:32.818981+00:00",
     "summary": "Question trans, voile, prostitution... Accusée d'être une \"sale TERF\", l'ex-Femen Marguerite Stern dénonce les tabous du féminisme et le \"harcèlement\" qu'elle subit.",
     "thumbnail": "thumbnails/rgfj4s.webp",
-    "tags": [
-      "Marguerite Stern",
-      "TERF",
-      "Idées et débats",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:02:48.275574+00:00"
   },
   {
@@ -1055,12 +857,7 @@
     "ingested_at": "2026-11-01T10:02:32.819461+00:00",
     "summary": "Les Rouennais ont tranché : ils sont 68% à souhaiter le retour de la statue de Napoléon sur la place de l'hôtel de ville. C'est l'un des enseignements de la consultation tenue la semaine dernière par la mairie. La collectivité redit qu'elle \"suivra ces orientations\".",
     "thumbnail": "thumbnails/rfdjjw.webp",
-    "tags": [
-      "Napoléon",
-      "Polémique",
-      "Rouennais",
-      "Rouen"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:02:48.126543+00:00"
   },
   {
@@ -1080,40 +877,8 @@
     "ingested_at": "2026-11-01T10:02:32.818264+00:00",
     "summary": "L'information a été confirmée par son avocat, lundi matin. L'ancien ministre, âgé de 76 ans, avait été condamné à deux ans d'emprisonnement dont un ferme en appel, en janvier 2017.",
     "thumbnail": "thumbnails/rfckxv.webp",
-    "tags": [
-      "Claude Guéant",
-      "Intérieur Claude Guéant",
-      "Intérieur",
-      "Etat",
-      "Les primes de Guéant"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:02:47.615265+00:00"
-  },
-  {
-    "id": "renwcg",
-    "title": "Greece Says Deal With France is Final Ruling Out US Frigate Offer",
-    "url": "https://greekreporter.com/2021/12/11/us-frigate-sale-greece-challenge-france/",
-    "permalink": "/r/france/comments/renwcg/greece_says_deal_with_france_is_final_ruling_out/",
-    "created_at": "2021-12-12T12:17:21+00:00",
-    "score": 307,
-    "num_comments": 63,
-    "subreddit": "france",
-    "author": "[deleted]",
-    "flair": "Politique",
-    "domain": "greekreporter.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/5LSRr01NizAcN6_ozNA-VZmA0k9uuNHUAdL0Lg8IdV8.jpg?auto=webp&s=d098bfb8bb985ee016141375dd5a4d25ab8f918c",
-    "ingested_at": "2026-11-01T10:02:32.818674+00:00",
-    "summary": "The US State Department announced the potential sale of naval frigates to Athens to challenge a deal announced between France and Greece.",
-    "thumbnail": "thumbnails/renwcg.webp",
-    "tags": [
-      "Greece Says Deal",
-      "Final Ruling Out US Frigate Offer",
-      "Greece",
-      "US State Department",
-      "Politique"
-    ],
-    "analyzed_at": "2026-11-01T10:02:48.774222+00:00"
   },
   {
     "id": "remsy7",
@@ -1133,10 +898,8 @@
     "summary": "C'est la troisième fois que les Néo-Calédoniens étaient invités à se prononcer sur l'indépendance de l'archipel. Mais les indépendantistes avaient appelé à boycotter le scrutin.",
     "thumbnail": "thumbnails/remsy7.webp",
     "tags": [
-      "Nouvelle-Calédonie",
-      "Néo-Calédoniens",
-      "Emmanuel Macron",
-      "Référendum Nouvelle-Calédonie 2021"
+      "Outre-mer",
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T10:02:47.938509+00:00"
   },
@@ -1158,9 +921,7 @@
     "summary": "À quatre mois de l’élection présidentielle, l’enquête de l’Ifop pour « Décider ensemble » sur la perception de la démocratie par les Français est importante car elle intervient dans un moment où les démocraties sont...",
     "thumbnail": "thumbnails/rejddc.webp",
     "tags": [
-      "Français",
-      "Ifop",
-      "Société"
+      "Élection présidentielle"
     ],
     "analyzed_at": "2026-11-01T10:02:48.111867+00:00"
   },
@@ -1181,13 +942,7 @@
     "ingested_at": "2026-11-01T10:02:32.818556+00:00",
     "summary": "Mercredi 8 décembre, une trentaine de fidèles de la paroisse des Fontenelles a fait l'objet de menaces de mort et d'insultes. «Kouffars» («mécréants»), «bandes de p...», «vous êtes pas chez vous» leur ont notamment lancé leurs agresseurs.",
     "thumbnail": "thumbnails/re87ru.webp",
-    "tags": [
-      "Nanterre",
-      "Coran",
-      "Eglise catholique",
-      "Menaces de mort",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:02:48.150345+00:00"
   },
   {
@@ -1208,7 +963,7 @@
     "summary": "",
     "thumbnail": "thumbnails/rdsgdc.webp",
     "tags": [
-      "Écologie"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T10:02:48.510323+00:00"
   },
@@ -1229,11 +984,7 @@
     "ingested_at": "2026-11-01T10:02:32.818360+00:00",
     "summary": "ENQUÊTE - La série qui cartonne sur Netflix a été réalisée par les animateurs expérimentés de Fortiche Production. Avec des moyens à la hauteur du résultat.",
     "thumbnail": "thumbnails/rdfn6h.webp",
-    "tags": [
-      "Netflix",
-      "Fortiche Production",
-      "CNC"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:02:49.205695+00:00"
   },
   {
@@ -1254,9 +1005,7 @@
     "summary": "TRIBUNE// 100.000, 200.000 euros par an. Les jeunes talents de la tech exigent toujours plus, conscients de la rareté de leurs compétences. Pour le chasseur de têtes chez Cala Partners, Stéphane Romano, il faut mettre un terme à cette hyperinflation afin de recentrer sur leur projet professionnel.",
     "thumbnail": "thumbnails/rdercc.webp",
     "tags": [
-      "Cala Partners",
-      "Stéphane Romano",
-      "Économie"
+      "Travail"
     ],
     "analyzed_at": "2026-11-01T10:02:55.727596+00:00"
   },
@@ -1278,9 +1027,7 @@
     "summary": "",
     "thumbnail": "thumbnails/rd5ujt.webp",
     "tags": [
-      "Julian Assange",
-      "Etats-Unis",
-      "Soft paywall"
+      "Justice"
     ],
     "analyzed_at": "2026-11-01T10:02:54.079296+00:00"
   },
@@ -1302,11 +1049,7 @@
     "summary": "Votée à l’unanimité à l’Assemblée nationale, la proposition de loi interdisant les pratiques visant à modifier l’orientation sexuelle ou l’identité de genre d’une personne a aussi été adoptée par le Sénat.",
     "thumbnail": "thumbnails/rd391h.webp",
     "tags": [
-      "Sénat",
-      "Assemblée",
-      "Lgbt",
-      "Assemblee-nationale",
-      "Société"
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T10:02:54.745322+00:00"
   },
@@ -1328,9 +1071,7 @@
     "summary": "Le géant américain de la distribution en ligne a discriminé des vendeurs qui n'avaient pas eu recours à son service logistique.",
     "thumbnail": "thumbnails/rcgywk.webp",
     "tags": [
-      "Amazon",
-      "Italie",
-      "Tech / Web"
+      "Justice"
     ],
     "analyzed_at": "2026-11-01T10:02:48.568154+00:00"
   },
@@ -1351,12 +1092,7 @@
     "ingested_at": "2026-11-01T10:02:32.817752+00:00",
     "summary": "Selon une étude de l'Ifop pour la Licra, 47 % des lycéens déclarent avoir assisté à des revendications religieuses au sein de leur établissement. Ceux qui sont scolarisés dans les zones d'éducation prioritaires y sont particulièrement confrontés.",
     "thumbnail": "thumbnails/rcdyds.webp",
-    "tags": [
-      "Ifop",
-      "Licra",
-      "ZEP",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:02:48.925474+00:00"
   },
   {
@@ -1376,9 +1112,7 @@
     "ingested_at": "2026-11-01T10:02:32.817859+00:00",
     "summary": "Business Insider tells the global tech, finance, stock market, media, economy, lifestyle, real estate, AI and innovative stories you want to know.",
     "thumbnail": "thumbnails/rcb4dv.webp",
-    "tags": [
-      "Économie"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:02:48.897005+00:00"
   },
   {
@@ -1399,8 +1133,6 @@
     "summary": "Le nombre de patients Covid+ hospitalisés au CHU de Toulouse a doublé ces trois dernières semaines. Parmi eux, une forte proportion de personnes non vaccinées, et notamment de \"non vaccinés volontaires\" par opposition...",
     "thumbnail": "thumbnails/rblybd.webp",
     "tags": [
-      "Dr Alvarez du CHU de Toulouse",
-      "CHU de Toulouse",
       "Covid-19"
     ],
     "analyzed_at": "2026-11-01T10:02:49.294386+00:00"
@@ -1423,8 +1155,7 @@
     "summary": "",
     "thumbnail": "thumbnails/rbkmug.webp",
     "tags": [
-      "Sénat",
-      "Société"
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T10:02:49.214624+00:00"
   },
@@ -1445,9 +1176,7 @@
     "ingested_at": "2026-11-01T10:02:32.818527+00:00",
     "summary": "",
     "thumbnail": "thumbnails/rbibh1.webp",
-    "tags": [
-      "Nantes"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:02:49.510588+00:00"
   },
   {
@@ -1468,35 +1197,9 @@
     "summary": "L'auteur de l'agression sur Éric Zemmour dimanche dernier était encarté chez les Républicains depuis début novembre.",
     "thumbnail": "thumbnails/rb4vcq.webp",
     "tags": [
-      "Éric Zemmour",
-      "Républicains",
-      "RTL",
-      "Agression",
-      "Politique"
+      "Éric Zemmour"
     ],
     "analyzed_at": "2026-11-01T10:02:49.715835+00:00"
-  },
-  {
-    "id": "rb0wd8",
-    "title": "Marseille, c'est propre.",
-    "url": "https://www.marius-fabre.com/1955-large_default/cube-de-savon-de-marseille-a-lhuile-dolive.jpg",
-    "permalink": "/r/france/comments/rb0wd8/marseille_cest_propre/",
-    "created_at": "2021-12-07T14:53:14+00:00",
-    "score": 244,
-    "num_comments": 21,
-    "subreddit": "france",
-    "author": "backtolurk",
-    "flair": "Méta",
-    "domain": "marius-fabre.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/HcanfbrGPA4iSKtOblvZHrrfRJdJxJ5UeQdMP_qKoII.jpg?auto=webp&s=0c24f27a4b9a6c85ff574d3681eb15b338874ebc",
-    "ingested_at": "2026-11-01T10:02:32.819053+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/rb0wd8.webp",
-    "tags": [
-      "Méta"
-    ],
-    "analyzed_at": "2026-11-01T10:02:52.383823+00:00"
   },
   {
     "id": "ra2n1n",
@@ -1515,13 +1218,7 @@
     "ingested_at": "2026-11-01T10:02:32.819511+00:00",
     "summary": "Organisé le week-end dernier dans le 18e arrondissement, l'événement rassemblait des produits de «créateurs africains et afro-descendants».",
     "thumbnail": "thumbnails/ra2n1n.webp",
-    "tags": [
-      "Noël",
-      "Consomme Noir",
-      "Paris",
-      "Consommation",
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:02:50.208232+00:00"
   },
   {
@@ -1542,8 +1239,8 @@
     "summary": "15 personnes en train de déjeuner dans une sandwicherie située en périphérie de Toulouse ont été verbalisées ce samedi par les policiers pour ne pas avoir été en mesure de présenter le pass sanitaire pourtant...",
     "thumbnail": "thumbnails/r9yr8u.webp",
     "tags": [
-      "Toulouse",
-      "Covid-19"
+      "Covid-19",
+      "Police"
     ],
     "analyzed_at": "2026-11-01T10:02:50.167110+00:00"
   },
@@ -1564,65 +1261,8 @@
     "ingested_at": "2026-11-01T10:02:32.819485+00:00",
     "summary": "Pop-ups range from straightforward to cheeky. One calls Chrome \"so 2008.\"",
     "thumbnail": "thumbnails/r9jgwg.webp",
-    "tags": [
-      "Microsoft Edge",
-      "Chrome",
-      "Google Chrome",
-      "Edge"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:02:51.428093+00:00"
-  },
-  {
-    "id": "r9ey5z",
-    "title": "Quand certains pensent que tout leur est dû mais qu’ils n’ont rien à se reprocher…",
-    "url": "https://threadreaderapp.com/thread/1467427054102749184.html",
-    "permalink": "/r/france/comments/r9ey5z/quand_certains_pensent_que_tout_leur_est_dû_mais/",
-    "created_at": "2021-12-05T12:42:14+00:00",
-    "score": 310,
-    "num_comments": 89,
-    "subreddit": "france",
-    "author": "BeautifulOk6158",
-    "flair": "Fait Divers",
-    "domain": "threadreaderapp.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/Udcx2y5p0L0FTDt8EWLbF2OFAn5zfp5FTyRgiyHqJ4E.png?auto=webp&s=f923a460cc3535439ac66fa77799d04ef9c8f8bf",
-    "ingested_at": "2026-11-01T10:02:32.818628+00:00",
-    "summary": "Thread Reader helps you read and share the best of Twitter Threads",
-    "thumbnail": "thumbnails/r9ey5z.webp",
-    "tags": [
-      "Thread Reader",
-      "Twitter Threads",
-      "Twitter",
-      "Twitter thread",
-      "Fait Divers"
-    ],
-    "analyzed_at": "2026-11-01T10:02:51.123300+00:00"
-  },
-  {
-    "id": "r8mcoc",
-    "title": "Au-delà de 400.000 euros de revenus par an, \"on prendra tout\" : le projet fiscal de Jean-Luc Mélenchon",
-    "url": "https://www.boursorama.com/patrimoine/actualites/au-dela-de-400-000-euros-de-revenus-par-an-on-prendra-tout-le-projet-fiscal-de-jean-luc-melenchon-d8ae183f662907f4e5f61f4043a5045e",
-    "permalink": "/r/france/comments/r8mcoc/audelà_de_400000_euros_de_revenus_par_an_on/",
-    "created_at": "2021-12-04T09:49:06+00:00",
-    "score": 474,
-    "num_comments": 665,
-    "subreddit": "france",
-    "author": "Fluid-Mirror",
-    "flair": "",
-    "domain": "boursorama.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/wbzBRDuSjFA3mZKAe7SjPRnLPExe_nZ706m3dSBg17g.jpg?auto=webp&s=96121cd652594286a9145a6ebe15f452dadd6ddf",
-    "ingested_at": "2026-11-01T10:02:32.818018+00:00",
-    "summary": "\"Il y a une limite à l'accumulation\", a souligné le coordinateur national de La France insoumise Adriens Quatennens. Création de quatorze tranches d'imposition avec une imposition à 100% au-delà de 400",
-    "thumbnail": "thumbnails/r8mcoc.webp",
-    "tags": [
-      "Jean-Luc Mélenchon",
-      "Adrien Quatennens",
-      "Adriens Quatennens",
-      "Nord",
-      "bourse de Paris"
-    ],
-    "analyzed_at": "2026-11-01T10:02:57.214652+00:00"
   },
   {
     "id": "r8jvlz",
@@ -1642,10 +1282,7 @@
     "summary": "L'avion de chasse de Dassault, qui a mis quinze ans à percer à l'export, vient de remporter le contrat le plus important de son histoire avec 80 exemplaires vendus aux Emirats. Désormais « combat proven », l'avion intéresse de nombreux Etats et multiplie les ventes depuis quelques années.",
     "thumbnail": "thumbnails/r8jvlz.webp",
     "tags": [
-      "Dassault",
-      "Emirats",
-      "Etats",
-      "Économie"
+      "Défense"
     ],
     "analyzed_at": "2026-11-01T10:02:57.905946+00:00"
   },
@@ -1667,11 +1304,7 @@
     "summary": "Un hôpital britannique a vécu cette semaine un branle-bas de combat quand un patient s'est présenté aux urgences avec un obus de la Deuxième Guerre mondiale dans le rectum, les secouristes craignant que la charge n'explose.",
     "thumbnail": "thumbnails/r874or.webp",
     "tags": [
-      "Deuxième Guerre",
-      "Sun",
-      "Monde",
-      "Faits divers",
-      "Fait Divers"
+      "Santé"
     ],
     "analyzed_at": "2026-11-01T10:02:51.956322+00:00"
   },
@@ -1693,11 +1326,7 @@
     "summary": "Les Émirats Arabes Unis offrent à la France le plus gros contrat d’armement de son histoire. Soit un contrat de plus de 16 milliards d’euros pour 80 Rafale F4 armés des missiles air-air Mica NG et de croisière Black Shaheen.",
     "thumbnail": "thumbnails/r7uspp.webp",
     "tags": [
-      "Emirats Arabes Unis",
-      "Rafale",
-      "Dassault Aviation",
-      "Rafale F4",
-      "Mica NG"
+      "Défense"
     ],
     "analyzed_at": "2026-11-01T10:02:52.011219+00:00"
   },
@@ -1719,9 +1348,7 @@
     "summary": "« Les règlements de YouTube interdisent de manière générale les contenus choquants ou violents », explique YouTube, qui vient de soumettre la vidéo d'Eric Zemmour à une restriction d'âge. La vidéo est inaccessible également depuis les sites tiers, ainsi que pour les gens qui n'ont pas de compte YouTube. La vidéo dans",
     "thumbnail": "thumbnails/r7btl9.webp",
     "tags": [
-      "YouTube",
-      "Éric Zemmour",
-      "Politique"
+      "Éric Zemmour"
     ],
     "analyzed_at": "2026-11-01T10:02:52.917840+00:00"
   },
@@ -1743,11 +1370,8 @@
     "summary": "On connaît désormais l'affiche du second tour du Congrès LR: il opposera Éric Ciotti à Valérie Pécresse. Les deux candidats ont répondu aux questions de nos journalistes et débattu ce jeudi soir sur notre antenne.",
     "thumbnail": "thumbnails/r77t61.webp",
     "tags": [
-      "Valérie Pécresse",
-      "Congrès LR",
       "Éric Ciotti",
-      "Eric Ciotti et Valérie Pécresse",
-      "Politique"
+      "Valérie Pécresse"
     ],
     "analyzed_at": "2026-11-01T10:02:52.247745+00:00"
   },
@@ -1768,13 +1392,7 @@
     "ingested_at": "2026-11-01T10:02:32.819411+00:00",
     "summary": "Le président de la WTA Steve Simon a annoncé sa décision de ne plus disputer, pour le moment, de tournois en Chine.",
     "thumbnail": "thumbnails/r6nnb0.webp",
-    "tags": [
-      "Chine",
-      "WTA",
-      "Peng Shuai",
-      "WTA Steve Simon",
-      "Pékin"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:02:53.277194+00:00"
   },
   {
@@ -1795,9 +1413,8 @@
     "summary": "Interrogé par des députés sur la cherté des prix du transport ferroviaire, le PDG de la SNCF, Jean-Pierre Farandou, a tiré à vue sur le transport aérien en appelant à taxer les compagnies en fonction de l'impact carbone.",
     "thumbnail": "thumbnails/r6lgnu.webp",
     "tags": [
-      "PDG de la SNCF",
-      "Jean-Pierre Farandou",
-      "Société"
+      "Transports",
+      "Budget et fiscalité"
     ],
     "analyzed_at": "2026-11-01T10:02:52.861317+00:00"
   }

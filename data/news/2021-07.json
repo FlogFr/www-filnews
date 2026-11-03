@@ -17,10 +17,7 @@
     "summary": "Le géant américain du commerce en ligne a été condamné à une lourde amende de 746 millions au Luxembourg, à la suite de la plainte d’une association française, a-t-on appris vendredi 30 juillet.",
     "thumbnail": "thumbnails/ova0kw.webp",
     "tags": [
-      "Luxembourg",
-      "RGPD",
-      "Cnil",
-      "Amazon"
+      "Justice"
     ],
     "analyzed_at": "2026-11-01T09:56:39.127214+00:00"
   },
@@ -42,11 +39,7 @@
     "summary": "Michael Freedy, 39&nbsp;ans, est tombé malade du Covid-19 après des vacances à San Diego, en Californie. Hospitalisé, il est mort deux semaines plus tard.",
     "thumbnail": "thumbnails/ov2epe.webp",
     "tags": [
-      "SMS",
-      "Covid",
-      "Américain de 39",
-      "Covid-19",
-      "Michael Freedy"
+      "Covid-19"
     ],
     "analyzed_at": "2026-11-01T09:56:39.087702+00:00"
   },
@@ -68,39 +61,10 @@
     "summary": "Le candidat à la présidentielle de 2017 a annoncé avoir des «courbatures, de la fièvre et avoir toussé au cours de la journée de dimanche». Il a cependant appelé les Français «à descendre dans la rue pour manifester» contre le passe sanitaire.",
     "thumbnail": "thumbnails/ouk34o.webp",
     "tags": [
-      "François Asselineau",
       "Covid-19",
-      "Passe sanitaire",
-      "Vaccination covid",
-      "Paris"
+      "Manifestations"
     ],
     "analyzed_at": "2026-11-01T09:56:39.776598+00:00"
-  },
-  {
-    "id": "oujls9",
-    "title": "Amazon Gets Record $888 Million EU Fine Over GDPR Data Violations",
-    "url": "https://www.bloombergquint.com/onweb/amazon-given-record-888-million-eu-fine-for-data-privacy-breach",
-    "permalink": "/r/france/comments/oujls9/amazon_gets_record_888_million_eu_fine_over_gdpr/",
-    "created_at": "2021-07-30T12:25:25+00:00",
-    "score": 256,
-    "num_comments": 36,
-    "subreddit": "france",
-    "author": "GrenobleLyon",
-    "flair": "Économie",
-    "domain": "bloombergquint.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/3aHduOYYeWivANACNX_nql4OusYHUqlKgWhxLR2s8ps.jpg?auto=webp&s=52ae036a990942502c223e31da2f99f06e60e724",
-    "ingested_at": "2026-11-01T09:56:07.726789+00:00",
-    "summary": "Amazon Given Record $888 Million EU Fine for Data Privacy Breach",
-    "thumbnail": "thumbnails/oujls9.webp",
-    "tags": [
-      "Amazon Gets Record 888",
-      "Europe",
-      "Amazon Given Record 888",
-      "Million EU Fine",
-      "Économie"
-    ],
-    "analyzed_at": "2026-11-01T09:56:43.683807+00:00"
   },
   {
     "id": "ouf32r",
@@ -120,10 +84,6 @@
     "summary": "La contractuelle de la CPAM de Saint-Denis avait généré 200 faux QR codes pour les vendre sur l'application Snapchat.",
     "thumbnail": "thumbnails/ouf32r.webp",
     "tags": [
-      "Certificat de vaccination",
-      "QR",
-      "Snapchat",
-      "CPAM de Saint-Denis",
       "Covid-19"
     ],
     "analyzed_at": "2026-11-01T09:56:39.895259+00:00"
@@ -145,13 +105,7 @@
     "ingested_at": "2026-11-01T09:56:07.727155+00:00",
     "summary": "Le Guadeloupéen, qui dispute ses quatrièmes Jeux olympiques vendredi, domine son sport de façon si hégémonique en France que certains de ses adversaires ont préféré aller voir ailleurs.",
     "thumbnail": "thumbnails/otu7v1.webp",
-    "tags": [
-      "Teddy Riner",
-      "JO 2021",
-      "Jeux",
-      "Sven Holtzinger",
-      "JO"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:56:38.987735+00:00"
   },
   {
@@ -171,10 +125,7 @@
     "ingested_at": "2026-11-01T09:56:07.726166+00:00",
     "summary": "Un logiciel contrôle l’activité de millions de sous-traitants du leader du commerce en ligne. Il les pousse à des cadences infernales au péril de leur vie pour répondre aux e...",
     "thumbnail": "thumbnails/ots8zu.webp",
-    "tags": [
-      "Amazon Flex",
-      "Payant"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:56:39.554601+00:00"
   },
   {
@@ -195,11 +146,7 @@
     "summary": "C'est l'une des conséquences du dérèglement climatique, pointé du doigt par le GIEC dans son dernier rapport.",
     "thumbnail": "thumbnails/ot69tz.webp",
     "tags": [
-      "GIEC",
-      "Vagues de chaleur et canicules",
-      "Environnement",
-      "Monde",
-      "Écologie"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T09:56:39.159536+00:00"
   },
@@ -221,7 +168,8 @@
     "summary": "",
     "thumbnail": "thumbnails/ot4wzr.webp",
     "tags": [
-      "Covid-19"
+      "Covid-19",
+      "Éducation"
     ],
     "analyzed_at": "2026-11-01T09:56:39.571255+00:00"
   },
@@ -242,13 +190,7 @@
     "ingested_at": "2026-11-01T09:56:07.726980+00:00",
     "summary": "L'ancien directeur de feu le Collectif contre l'islamophobie en France (CCIF) s'est illustré en direct à la télévision publique turque en alignant un grand nombre de mensonges quant à la situation des musulmans en France. Toute honte bue, Marwan Muhammad a même appelé à une enquête internationale sur le sujet.",
     "thumbnail": "thumbnails/osqw5n.webp",
-    "tags": [
-      "Marwan Muhammad",
-      "CCIF Marwan Muhammad",
-      "CCIF",
-      "Collectif",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:56:39.778236+00:00"
   },
   {
@@ -269,11 +211,9 @@
     "summary": "L’actuelle maire LR du VIIe arrondissement de Paris avait initialement échappé à ces poursuites en novembre",
     "thumbnail": "thumbnails/osqg6q.webp",
     "tags": [
-      "Affaire Carlos Goshn",
       "Rachida Dati",
-      "LR du VIIe",
-      "Paris",
-      "Politique"
+      "Justice",
+      "Corruption"
     ],
     "analyzed_at": "2026-11-01T09:56:39.634223+00:00"
   },
@@ -294,9 +234,7 @@
     "ingested_at": "2026-11-01T09:56:07.726572+00:00",
     "summary": "Suzy Colombani a eu la désagréable surprise de recevoir 33 contraventions les 13 et 16 juillet derniers, datées de la fin de l’année 2020. Ces excès ...",
     "thumbnail": "thumbnails/oskv9p.webp",
-    "tags": [
-      "Suzy Colombani"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:56:40.193248+00:00"
   },
   {
@@ -318,10 +256,7 @@
     "thumbnail": "thumbnails/osjnjt.webp",
     "tags": [
       "Emmanuel Macron",
-      "EXCLU FRANCEINFO",
-      "Polynésie",
-      "République",
-      "État"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T09:56:40.051211+00:00"
   },
@@ -343,10 +278,8 @@
     "summary": "Sur un total de 51 patients admis entre le 5 et le 19 juillet en réanimation dans les hôpitaux de la région Paca, seuls trois reçu toutes leurs doses de vaccin.",
     "thumbnail": "thumbnails/osjb5e.webp",
     "tags": [
-      "Paca",
       "Covid-19",
-      "Hôpital",
-      "Maladie"
+      "Santé"
     ],
     "analyzed_at": "2026-11-01T09:56:40.043143+00:00"
   },
@@ -367,13 +300,7 @@
     "ingested_at": "2026-11-01T09:56:07.727226+00:00",
     "summary": "Le compromis franco-allemand, qui vise à préserver l'avenir d'Ariane 6 tout en ouvrant le marché à la concurrence sur les petits lanceurs, doit encore convaincre les partenaires de l'Agence spatiale européenne.",
     "thumbnail": "thumbnails/oshwun.webp",
-    "tags": [
-      "Ariane 6",
-      "Accord Franco-Allemand",
-      "Vernon",
-      "Lampoldshausen",
-      "Vinci"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:56:50.003986+00:00"
   },
   {
@@ -393,40 +320,8 @@
     "ingested_at": "2026-11-01T09:56:07.727493+00:00",
     "summary": "La croissance économique rapide conduira à un effondrement de la société au milieu du 21e siècle, selon une étude du MIT publiée en 1972... et confirmée par des analyses de risques effectuées en 2020.",
     "thumbnail": "thumbnails/orv0s0.webp",
-    "tags": [
-      "MIT",
-      "KPMG",
-      "Occident",
-      "Environnement",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:56:40.612613+00:00"
-  },
-  {
-    "id": "orumgy",
-    "title": "Woman in Charlie Hebdo shirt stabbed at Speaker's Corner in Hyde Park",
-    "url": "https://metro.co.uk/2021/07/26/woman-in-charlie-hebdo-shirt-stabbed-at-speakers-corner-in-hyde-park-14988171/",
-    "permalink": "/r/france/comments/orumgy/woman_in_charlie_hebdo_shirt_stabbed_at_speakers/",
-    "created_at": "2021-07-26T08:33:55+00:00",
-    "score": 403,
-    "num_comments": 99,
-    "subreddit": "france",
-    "author": "Nobidexx",
-    "flair": "Actus",
-    "domain": "metro.co.uk",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/yncnmvggLKSYvTWVBrsc1_GvxbK9rHD4EIfljzvqw7A.jpg?auto=webp&s=c1708053edce84628e43794b755e2047b5c9fe0c",
-    "ingested_at": "2026-11-01T09:56:07.726141+00:00",
-    "summary": "A woman wearing a Charlie Hebdo t-shirt has been stabbed at London ’s Speakers’ Corner. She was taken to hospital following the incident in Hyde Park on Sunday afternoon.",
-    "thumbnail": "thumbnails/orumgy.webp",
-    "tags": [
-      "Charlie Hebdo",
-      "Hyde Park",
-      "London",
-      "Speaker's Corner",
-      "Crime News"
-    ],
-    "analyzed_at": "2026-11-01T09:56:40.981173+00:00"
   },
   {
     "id": "orc5o9",
@@ -445,13 +340,7 @@
     "ingested_at": "2026-11-01T09:56:07.725909+00:00",
     "summary": "Deux ans après avoir éliminé les États-Unis de la Coupe du monde, les Bleus avaient de nouveau la recette pour battre le favori américain (83-76), dimanche à Saïtama, lors de leur premier match de poules.",
     "thumbnail": "thumbnails/orc5o9.webp",
-    "tags": [
-      "Basket",
-      "États-Unis",
-      "JO",
-      "Bleus",
-      "États-Unis de la Coupe"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:56:43.151954+00:00"
   },
   {
@@ -471,13 +360,7 @@
     "ingested_at": "2026-11-01T09:56:07.725990+00:00",
     "summary": "Alors qu'il n'aurait même pas dû participer au tournoi olympique, l'escrimeur français s'est offert un parcours historique.",
     "thumbnail": "thumbnails/orasp2.webp",
-    "tags": [
-      "Romain Cannone",
-      "JO de Tokyo",
-      "Tokyo",
-      "Sport",
-      "JO"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:56:40.520609+00:00"
   },
   {
@@ -517,10 +400,7 @@
     "ingested_at": "2026-11-01T09:56:07.727701+00:00",
     "summary": "La députée Martine Wonner, en vidéo, a annoncé que la Garde Républicaine se serait retirée. C'est faux.",
     "thumbnail": "thumbnails/oqmi3c.webp",
-    "tags": [
-      "Garde Républicaine",
-      "Martine Wonner"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:56:40.528220+00:00"
   },
   {
@@ -540,10 +420,7 @@
     "ingested_at": "2026-11-01T09:56:07.725856+00:00",
     "summary": "Suivez l'info en direct pour savoir ce qui se passe maintenant ! Toutes les infos livrées minute par minute par la rédaction, les photos, vidéos, tweets et vos interventions",
     "thumbnail": "thumbnails/opzidk.webp",
-    "tags": [
-      "Jean-Yves Lafesse",
-      "AFP"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:56:41.361030+00:00"
   },
   {
@@ -563,13 +440,7 @@
     "ingested_at": "2026-11-01T09:56:07.726305+00:00",
     "summary": "À bientôt 80 ans, l’artiste, qui habite Givraines, près de Pithiviers (Loiret) vient d’être élevée au grade de chevalier dans l’ordre nation",
     "thumbnail": "thumbnails/opz1mo.webp",
-    "tags": [
-      "Bernadette Després",
-      "Légion",
-      "Nana",
-      "Givraines",
-      "Culture"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:56:41.014869+00:00"
   },
   {
@@ -589,11 +460,7 @@
     "ingested_at": "2026-11-01T09:56:07.726116+00:00",
     "summary": "Trois jours de musique et de festivité « sans passe sanitaire ni aucune obligation inacceptable » ? C’est ce que prévoyait d’organiser le chanteur Erik Skar Baroux entre le 30 juillet et le 1er août à Uzès, dans le Gard, avec le gratin du mouvement « antivax ».",
     "thumbnail": "thumbnails/opwpah.webp",
-    "tags": [
-      "Uzès",
-      "Erik Skar Baroux",
-      "Gard"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:56:41.200149+00:00"
   },
   {
@@ -614,11 +481,8 @@
     "summary": "Activison Blizzard est attaqué en justice aux États-Unis pour des faits de harcèlement généralisés. Les faits reprochés, entre discrimination et harcèlement sexuel, sont très nombreux. Surtout, une enquête menée en Californie montre que le management de Blizzard aurait été au courant. Des actes de « harcèlement",
     "thumbnail": "thumbnails/opvbax.webp",
     "tags": [
-      "États-Unis",
-      "Activision Blizzard",
-      "Blizzard",
-      "Californie",
-      "Société"
+      "Justice",
+      "Violences sexuelles"
     ],
     "analyzed_at": "2026-11-01T09:56:42.004882+00:00"
   },
@@ -639,13 +503,7 @@
     "ingested_at": "2026-11-01T09:56:07.727470+00:00",
     "summary": "Un nouveau sketch ? L'humoriste ne voulait pas de contrôle à ses représentations à Fréjus et à Nice. Avant de changer d'avis, sous la pression des salles qui l'accueillent et de son producteur.",
     "thumbnail": "thumbnails/opg2zc.webp",
-    "tags": [
-      "Jean-Marie Bigard",
-      "Fréjus",
-      "Nice",
-      "Passe sanitaire",
-      "Salles de spectacles"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:56:41.410419+00:00"
   },
   {
@@ -666,7 +524,6 @@
     "summary": "Grâce à la campagne de vaccination, l’épidémiologiste Catherine Hill se veut rassurante pour la suite de l’été, car les plus fragiles sont vaccinés. Pour elle, l’ampleur de la quatrième vague dépendra du nombre de personnes qui se feront vacciner.",
     "thumbnail": "thumbnails/op9s2b.webp",
     "tags": [
-      "Catherine Hill",
       "Covid-19"
     ],
     "analyzed_at": "2026-11-01T09:56:41.751869+00:00"
@@ -689,9 +546,6 @@
     "summary": "Le président de la République l'a annoncé : le pass sanitaire sera obligatoire pour l'entrée dans les lieux recevant du public. Depuis le lundi 12 juillet, c'est la ruée vers les centres de vaccinations. Problème : les doses...",
     "thumbnail": "thumbnails/oolpi3.webp",
     "tags": [
-      "Pfizer",
-      "République",
-      "ARS",
       "Covid-19"
     ],
     "analyzed_at": "2026-11-01T09:56:47.717125+00:00"
@@ -714,11 +568,8 @@
     "summary": "JUSTICE - Déjà mis en examen pour prise illégale d'intérêts, le garde des Sceaux ne sera cependant pas poursuivi pour avoir omis d'avoir déclaré 300 000 euros de revenus. Explication.",
     "thumbnail": "thumbnails/oolasl.webp",
     "tags": [
-      "Eric Dupond-Moretti",
-      "Justice et faits divers",
-      "Sceaux",
-      "HATVP",
-      "Politique"
+      "Justice",
+      "Éric Dupond-Moretti"
     ],
     "analyzed_at": "2026-11-01T09:56:42.267902+00:00"
   },
@@ -739,36 +590,8 @@
     "ingested_at": "2026-11-01T09:56:07.726869+00:00",
     "summary": "Quiz Charlie Hebdo : Selon certains lanceurs d'alerte, la France vient de basculer dans la dictature avec le pass sanitaire. Comment savoir si vous vivez toujours ou non dans",
     "thumbnail": "thumbnails/oo7eh5.webp",
-    "tags": [
-      "Quiz Charlie Hebdo",
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:56:47.229361+00:00"
-  },
-  {
-    "id": "onw8uh",
-    "title": "Des joueuses professionnelles de beach handball sommées d'enlever leur short pour jouer en bikini",
-    "url": "https://www.aufeminin.com/news-societe/des-joueuses-professionnelles-de-beach-handball-obligees-d-enlever-leur-short-pour-jouer-en-bikini-s4026749.html",
-    "permalink": "/r/france/comments/onw8uh/des_joueuses_professionnelles_de_beach_handball/",
-    "created_at": "2021-07-20T06:08:00+00:00",
-    "score": 258,
-    "num_comments": 339,
-    "subreddit": "france",
-    "author": "CerberusXt",
-    "flair": "Société",
-    "domain": "aufeminin.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/Biexysmisj4oDFkSpcodwK3DJmLN85ML3VgUVGR2i-Q.jpg?auto=webp&s=5b0a3afb4498dbd8ed7165d80b9feaa8f7f65751",
-    "ingested_at": "2026-11-01T09:56:07.726764+00:00",
-    "summary": "Lors du championnat d’Europe de beach handball en Bulgarie, la délégation de Norvège s’est vue menacée d’une amende de plus de 4000 euros si elle décidait de faire jouer son équipe féminine en short. Les joueurs hommes, eux, y ont pourtant droit.",
-    "thumbnail": "thumbnails/onw8uh.webp",
-    "tags": [
-      "Norvège",
-      "Europe",
-      "Bulgarie",
-      "Société"
-    ],
-    "analyzed_at": "2026-11-01T09:56:42.938510+00:00"
   },
   {
     "id": "onl5o7",
@@ -788,9 +611,7 @@
     "summary": "Quelques jours après la violente agression d’un couple gay à Macinaggio, dans la commune de Rogliano, beaucoup de villageois mettent en cause les victimes. D’après des éléments consultés par Mediapar…",
     "thumbnail": "thumbnails/onl5o7.webp",
     "tags": [
-      "Rogliano",
-      "Macinaggio",
-      "Mediapar"
+      "LGBT+"
     ],
     "analyzed_at": "2026-11-01T09:56:43.196783+00:00"
   },
@@ -811,7 +632,9 @@
     "ingested_at": "2026-11-01T09:56:07.727005+00:00",
     "summary": "",
     "thumbnail": "thumbnails/onjlen.webp",
-    "tags": [],
+    "tags": [
+      "Manifestations"
+    ],
     "analyzed_at": "2026-11-01T09:56:42.703388+00:00"
   },
   {
@@ -832,8 +655,6 @@
     "summary": "La mairie d’Audincourt (Doubs) a porté plainte lundi après la coupure des disjoncteurs d’alimentation électrique qui a touché dimanche son centre de vaccination",
     "thumbnail": "thumbnails/oncvh4.webp",
     "tags": [
-      "Doubs",
-      "Audincourt",
       "Covid-19"
     ],
     "analyzed_at": "2026-11-01T09:56:43.141190+00:00"
@@ -856,37 +677,9 @@
     "summary": "Un établissement du Cap d'Ail dans les Alpes-Maritimes a pris le nom du professeur assassiné en octobre 2020.",
     "thumbnail": "thumbnails/omuent.webp",
     "tags": [
-      "Samuel Paty",
-      "Cap Ail",
-      "Alpes-Maritimes",
-      "République",
-      "Société"
+      "Éducation"
     ],
     "analyzed_at": "2026-11-01T09:56:43.577006+00:00"
-  },
-  {
-    "id": "omt8c9",
-    "title": "« Cette comparaison est odieuse » : une victime de la rafle du Vél d’Hiv s’indigne contre les comparaisons entre Shoah et vaccination",
-    "url": "https://www.dailymotion.com/video/x82rv55",
-    "permalink": "/r/france/comments/omt8c9/cette_comparaison_est_odieuse_une_victime_de_la/",
-    "created_at": "2021-07-18T15:56:58+00:00",
-    "score": 776,
-    "num_comments": 135,
-    "subreddit": "france",
-    "author": "Typlo",
-    "flair": "Covid-19",
-    "domain": "dailymotion.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/fczDeEj-CyjjKOvJZjqjoaOFeB19he6hnHW7sBwtSbs.jpg?auto=webp&s=0d90c0634ae0f2fc5913d5ad1c366d7f0f3c50b3",
-    "ingested_at": "2026-11-01T09:56:07.725803+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/omt8c9.webp",
-    "tags": [
-      "Vél Hiv",
-      "Shoah",
-      "Covid-19"
-    ],
-    "analyzed_at": "2026-11-01T09:56:43.515168+00:00"
   },
   {
     "id": "omrm8a",
@@ -906,36 +699,9 @@
     "summary": "Cette interdiction prendra effet au 1er janvier 2022. Le ministre de l'Agriculture français, avec son homologue allemand, va tenter de convaincre les autres pays européens de faire de même.",
     "thumbnail": "thumbnails/omrm8a.webp",
     "tags": [
-      "Agriculture",
-      "Europe",
-      "Julien Denormandie",
-      "Bien-être animal",
-      "Animaux"
+      "Agriculture"
     ],
     "analyzed_at": "2026-11-01T09:56:43.551998+00:00"
-  },
-  {
-    "id": "om0yxh",
-    "title": "À lire si vous ne savez pas quoi penser des vaccins COVID19",
-    "url": "https://www.atoute.org/n/article401.html",
-    "permalink": "/r/france/comments/om0yxh/à_lire_si_vous_ne_savez_pas_quoi_penser_des/",
-    "created_at": "2021-07-17T09:20:11+00:00",
-    "score": 147,
-    "num_comments": 25,
-    "subreddit": "france",
-    "author": "Harkonnen",
-    "flair": "Covid-19",
-    "domain": "atoute.org",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/LLCcSagM2WvMQKX8hTuyYwPw0bkXR4J1zCCluDsHRGQ.jpg?auto=webp&s=84d3c57db31aa9c03d7262075e9c2655e704c2bb",
-    "ingested_at": "2026-11-01T09:56:07.727626+00:00",
-    "summary": "Si je n'étais pas moi-même médecin, j'avoue que je serais bien en peine de me faire une opinion sur la vaccination contre le COVID19 !",
-    "thumbnail": "thumbnails/om0yxh.webp",
-    "tags": [
-      "COVID19",
-      "Covid-19"
-    ],
-    "analyzed_at": "2026-11-01T09:56:59.627018+00:00"
   },
   {
     "id": "olzuba",
@@ -955,33 +721,10 @@
     "summary": "Trois policiers municipaux de Melun ont sauvé une désespérée qui menaçait de se jeter dans la Seine. Cette mère de famille aurait expliqué son geste à cause de la vaccination.",
     "thumbnail": "thumbnails/olzuba.webp",
     "tags": [
-      "Seine",
-      "Melun",
+      "Police",
       "Covid-19"
     ],
     "analyzed_at": "2026-11-01T09:56:43.983735+00:00"
-  },
-  {
-    "id": "olhip8",
-    "title": "Ce cube-là a bien bougé",
-    "url": "https://i2.wp.com/secretnews.fr/wp-content/uploads/2019/02/alexandre-benalla-coffre-fort.jpg?fit=1200%2C629&ssl=1",
-    "permalink": "/r/france/comments/olhip8/ce_cubelà_a_bien_bougé/",
-    "created_at": "2021-07-16T14:05:30+00:00",
-    "score": 265,
-    "num_comments": 8,
-    "subreddit": "france",
-    "author": "[deleted]",
-    "flair": "Méta",
-    "domain": "i2.wp.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/h4cDXb2HRbGo8hwFTQICQS2IUu8ryTKeSxcjg6vMyl4.jpg?auto=webp&s=2f16817fa18c323617d8505210723b7992a69350",
-    "ingested_at": "2026-11-01T09:56:07.726598+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/olhip8.webp",
-    "tags": [
-      "Méta"
-    ],
-    "analyzed_at": "2026-11-01T09:56:44.112484+00:00"
   },
   {
     "id": "olfzfz",
@@ -1001,7 +744,6 @@
     "summary": "Nous avons pu être «faussement vacciné» dans un centre francilien dédié au Covid. La fraude implique plusieurs membres du personnel soignant",
     "thumbnail": "thumbnails/olfzfz.webp",
     "tags": [
-      "Covid",
       "Covid-19"
     ],
     "analyzed_at": "2026-11-01T09:56:44.025196+00:00"
@@ -1024,11 +766,8 @@
     "summary": "Elle avait été saisie par deux femmes musulmanes qui vivent en Allemagne. L'employeur devra en revanche prouver \"qu'il subirait des conséquences négatives en raison de la nature de ses activités\".",
     "thumbnail": "thumbnails/okqebv.webp",
     "tags": [
-      "Cour",
-      "Union",
-      "Allemagne",
-      "Europe",
-      "Société"
+      "Justice",
+      "Union européenne"
     ],
     "analyzed_at": "2026-11-01T09:56:44.155738+00:00"
   },
@@ -1049,12 +788,7 @@
     "ingested_at": "2026-11-01T09:56:07.726680+00:00",
     "summary": "En Haïti les arrestations des auteurs présumés de l’assassinat du président Jovenel Moïse se poursuivent. L’enquête préliminaire révèle que l’opération aurait été commanditée aux États-Unis. Washington qui craint une vague de migrants a dépêché ses représentants à Port-au-Prince.",
     "thumbnail": "thumbnails/okms87.webp",
-    "tags": [
-      "États-Unis",
-      "Haïti",
-      "Jovenel Moïse",
-      "Port-au-Prince"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:56:44.360759+00:00"
   },
   {
@@ -1075,33 +809,9 @@
     "summary": "Isolement contrôlé des malades, 45 000 euros d'amende aux établissements récalcitrants... L'exécutif accroît sa fermeté.",
     "thumbnail": "thumbnails/ok4yhq.webp",
     "tags": [
-      "Pass sanitaire",
       "Covid-19"
     ],
     "analyzed_at": "2026-11-01T09:56:45.467250+00:00"
-  },
-  {
-    "id": "ojrt1o",
-    "title": "Nucléaire et renouvelables, l'Académie des sciences remet les pendules à l'heure",
-    "url": "https://www.transitionsenergies.com/nucleaire-renouvelables-academie-des-sciences-remet-pendules-heure/",
-    "permalink": "/r/france/comments/ojrt1o/nucléaire_et_renouvelables_lacadémie_des_sciences/",
-    "created_at": "2021-07-13T23:31:42+00:00",
-    "score": 155,
-    "num_comments": 32,
-    "subreddit": "france",
-    "author": "Exogalaxies",
-    "flair": "Science",
-    "domain": "transitionsenergies.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/HzK43l6k_egaHw_ZMIJnOoXzXeerx71f-uvEw-t7yHE.jpeg?auto=webp&s=20960d39a292d607dbe79b32efbb67f4d6ad6404",
-    "ingested_at": "2026-11-01T09:56:07.727543+00:00",
-    "summary": "L'Académie des sciences vient en quelque sorte de mettre le gouvernement en demeure de se donner enfin une stratégie de transition énergétique efficace et réaliste.",
-    "thumbnail": "thumbnails/ojrt1o.webp",
-    "tags": [
-      "Ademe et RTE",
-      "Science"
-    ],
-    "analyzed_at": "2026-11-01T09:56:44.412178+00:00"
   },
   {
     "id": "ojdea7",
@@ -1120,39 +830,8 @@
     "ingested_at": "2026-11-01T09:56:07.726015+00:00",
     "summary": "Avec sa nouvelle loi antiterroriste adoptée le 8 juillet au Parlement, l’Autriche devient le premier pays européen à interdire la confrérie islamiste fondée il y a près d'un siècle par l'Égyptien Hassan al-Banna.",
     "thumbnail": "thumbnails/ojdea7.webp",
-    "tags": [
-      "Frères",
-      "Parlement",
-      "Égyptien Hassan",
-      "Graz"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:56:45.192572+00:00"
-  },
-  {
-    "id": "ojbf7a",
-    "title": "Bien fait : un an de prison pour un faux certificat de test PCR",
-    "url": "https://www.air-journal.fr/2021-07-13-bien-fait-un-an-de-prison-pour-un-faux-certificat-de-test-pcr-5229129.html",
-    "permalink": "/r/france/comments/ojbf7a/bien_fait_un_an_de_prison_pour_un_faux_certificat/",
-    "created_at": "2021-07-13T08:36:44+00:00",
-    "score": 230,
-    "num_comments": 44,
-    "subreddit": "france",
-    "author": "BeautifulOk6158",
-    "flair": "Covid-19",
-    "domain": "air-journal.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://b.thumbs.redditmedia.com/yIVHtBFpzE-XmNlS3sup7rpb3rCAOjBTp4qppH5gN2Y.jpg",
-    "ingested_at": "2026-11-01T09:56:07.727080+00:00",
-    "summary": "Un tribunal de Bruxelles a condamné par défaut un passager indélicat à un an de prison et 4000 euros d'amende, après qu’il a tenté de prendre l'avion avec un",
-    "thumbnail": "thumbnails/ojbf7a.webp",
-    "tags": [
-      "Bruxelles",
-      "PCR",
-      "Aeroport",
-      "Coronavirus",
-      "Covid-19"
-    ],
-    "analyzed_at": "2026-11-01T09:56:44.800327+00:00"
   },
   {
     "id": "oiyrp1",
@@ -1172,61 +851,11 @@
     "summary": "CORONAVIRUS : Retrouvez toutes les dernières actualités sur le Coronavirus en direct sur Cnews.fr - Morts,Nombre de cas ... (articles,photos,vidéos)",
     "thumbnail": "thumbnails/oiyrp1.webp",
     "tags": [
+      "Covid-19",
       "Olivier Véran",
-      "Covid-19"
+      "Santé"
     ],
     "analyzed_at": "2026-11-01T09:56:45.766301+00:00"
-  },
-  {
-    "id": "oix88a",
-    "title": "DIRECT. Discours de Macron : des annonces fortes, le pass sanitaire devient incontournable",
-    "url": "https://www.linternaute.com/actualite/politique/2498313-direct-discours-de-macron-pass-sanitaire-et-vaccination-obligatoire-au-centre-des-annonces/",
-    "permalink": "/r/france/comments/oix88a/direct_discours_de_macron_des_annonces_fortes_le/",
-    "created_at": "2021-07-12T18:26:32+00:00",
-    "score": 435,
-    "num_comments": 1539,
-    "subreddit": "france",
-    "author": "IntelArtiGen",
-    "flair": "Covid-19",
-    "domain": "linternaute.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/33tR0rMSYVrKdxXSvAWRDglDuyFesJSvz4AMEa0QKhA.jpg?auto=webp&s=da6b3c6151f157849c487d167553f813ac5e3128",
-    "ingested_at": "2026-11-01T09:56:07.726065+00:00",
-    "summary": "Emmanuel Macron a souhaité s'adresser aux jeunes en accordant une interview au journaliste et youtubeur de la chaîne Hugo décrypte, le 4 septembre 2023. Ecole, pouvoir d'achat, climat... Voici ce qu'il faut retenir.",
-    "thumbnail": "thumbnails/oix88a.webp",
-    "tags": [
-      "Emmanuel Macron",
-      "Macron",
-      "Etat",
-      "Hugo",
-      "Covid-19"
-    ],
-    "analyzed_at": "2026-11-01T09:56:45.135495+00:00"
-  },
-  {
-    "id": "oioe46",
-    "title": "Décès de Philippe Aigrain cofondateur de La Quadrature du Net",
-    "url": "https://mamot.fr/@jz/106567011851418993",
-    "permalink": "/r/france/comments/oioe46/décès_de_philippe_aigrain_cofondateur_de_la/",
-    "created_at": "2021-07-12T10:15:33+00:00",
-    "score": 322,
-    "num_comments": 19,
-    "subreddit": "france",
-    "author": "[deleted]",
-    "flair": "Politique",
-    "domain": "mamot.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/BPeihckkimKbdFBlGdDA66EzKVX8t9UzwB9zUueoyQ8.jpeg?auto=webp&s=84c364101b4dc25434349fc3c42812d58d839e6a",
-    "ingested_at": "2026-11-01T09:56:07.726363+00:00",
-    "summary": "Attached: 1 image Je viens d'apprendre le décès de Philippe Aigrain, dans sa maison à la montagne, près d'Argeles.. je suis si triste. Philippe avait été mon inspiration pour mes recherches sur les brevets sur les logiciels lorsque j'étais étudiant. Plus tard nous avons co-fondé La Quadrature du Net ensemble.",
-    "thumbnail": "thumbnails/oioe46.webp",
-    "tags": [
-      "Philippe Aigrain",
-      "Quadrature du Net",
-      "Argeles",
-      "Politique"
-    ],
-    "analyzed_at": "2026-11-01T09:56:45.465926+00:00"
   },
   {
     "id": "oidir4",
@@ -1245,10 +874,7 @@
     "ingested_at": "2026-11-01T09:56:07.726903+00:00",
     "summary": "",
     "thumbnail": "thumbnails/oidir4.webp",
-    "tags": [
-      "Euro",
-      "Angleterre"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:56:45.757021+00:00"
   },
   {
@@ -1269,11 +895,8 @@
     "summary": "Vincent Fichot, un père de famille privé de ses enfants depuis leur enlèvement par leur mère japonaise en 2018, a démarré ce samedi 10 juillet une grève de la faim à Tokyo, deux semaines avant l'ouverture des Jeux olympiques et la venue d'Emmanuel Macron.",
     "thumbnail": "thumbnails/oi13ko.webp",
     "tags": [
-      "Emmanuel Macron",
-      "Tokyo",
-      "Vincent Fichot",
-      "Jeux Olympiques",
-      "Jeux"
+      "Grèves et syndicats",
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T09:56:51.995198+00:00"
   },
@@ -1295,11 +918,8 @@
     "summary": "FIN DE VIE - Une majorité de Français se dit favorable à un référendum sur la légalisation du suicide assisté et de l’euthanasie, selon un sondage Ifop dévoilé vendredi. - Euthanasie : 82% des Français favorables à un référendum sur la fin de vie (Sujets de société).",
     "thumbnail": "thumbnails/ohiz47.webp",
     "tags": [
-      "Français",
-      "Bernard Tapie",
-      "Ifop",
-      "FIN de VIE",
-      "Société"
+      "Fin de vie",
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T09:56:46.434741+00:00"
   },
@@ -1320,33 +940,8 @@
     "ingested_at": "2026-11-01T09:56:07.726738+00:00",
     "summary": "Il n'y a eu aucun rayon de soleil du 3 au 8 juillet, selon les relevés météorologiques.",
     "thumbnail": "thumbnails/ohf0ou.webp",
-    "tags": [
-      "Brest"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:56:46.024806+00:00"
-  },
-  {
-    "id": "ohd5ll",
-    "title": "Norway passes law requiring influencers to label retouched photos on social media",
-    "url": "https://www.dpreview.com/news/1157704583/norway-passes-law-requiring-influencers-to-label-retouched-photos-on-social-media",
-    "permalink": "/r/france/comments/ohd5ll/norway_passes_law_requiring_influencers_to_label/",
-    "created_at": "2021-07-10T06:00:07+00:00",
-    "score": 1576,
-    "num_comments": 60,
-    "subreddit": "france",
-    "author": "[deleted]",
-    "flair": "",
-    "domain": "dpreview.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/8NMhWSjt3vBi1R-xKv11qH_CailOMOQvrLEMC7bMYvk.jpg?auto=webp&s=4449732fadb79d7594b363845135104ea1df93c5",
-    "ingested_at": "2026-11-01T09:56:07.725659+00:00",
-    "summary": "Retouched and manipulated photos are everywhere on social media, and groups in Norway believe that edited images are harmful, especially to young people.",
-    "thumbnail": "thumbnails/ohd5ll.webp",
-    "tags": [
-      "Norway",
-      "Family Affairs"
-    ],
-    "analyzed_at": "2026-11-01T09:56:52.273113+00:00"
   },
   {
     "id": "ogvosn",
@@ -1366,8 +961,8 @@
     "summary": "Dans plusieurs travaux récents, les économistes de l'OCDE et du FMI rappellent que la montée de la pauvreté, du chômage et des inégalités risquent d'exacerber les troubles sociaux partout sur la planète.",
     "thumbnail": "thumbnails/ogvosn.webp",
     "tags": [
-      "OCDE et du FMI",
-      "Société"
+      "Pauvreté",
+      "Travail"
     ],
     "analyzed_at": "2026-11-01T09:56:46.785379+00:00"
   },
@@ -1389,9 +984,7 @@
     "summary": "De nouveaux documents, dont Mediapart a pu prendre connaissance, révèlent l’ampleur inédite des dessous de la fausse rétractation de Ziad Takieddine dans le scandale Sarkozy-Kadhafi. Une « entrepris…",
     "thumbnail": "thumbnails/ogs87u.webp",
     "tags": [
-      "Paris Match",
-      "Ziad Takieddine",
-      "Sarkozy-Kadhafi"
+      "Nicolas Sarkozy"
     ],
     "analyzed_at": "2026-11-01T09:56:47.718438+00:00"
   },
@@ -1413,10 +1006,7 @@
     "summary": "Actuellement, le nord de l'Afrique enregistre des records de température particulièrement importants. Un puissant anticyclone, appelé \"dôme de chaleur\", est en train de se former entre le Maroc et l'Espagne. Celui-ci...",
     "thumbnail": "thumbnails/ogq2t8.webp",
     "tags": [
-      "Maroc et Espagne",
-      "Afrique",
-      "Espagne",
-      "Écologie"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T09:56:47.152967+00:00"
   },
@@ -1438,7 +1028,6 @@
     "summary": "La promesse de campagne de la maire de Paris, Anne Hidalgo, va entrer en vigueur le 30 août.",
     "thumbnail": "thumbnails/ogb2bt.webp",
     "tags": [
-      "Paris",
       "Anne Hidalgo"
     ],
     "analyzed_at": "2026-11-01T09:56:47.840482+00:00"
@@ -1464,32 +1053,6 @@
     "analyzed_at": "2026-11-01T09:56:47.721250+00:00"
   },
   {
-    "id": "ofq0tt",
-    "title": "L'UE propose d'exempter les jets privés de la taxe sur le carburant (Anglais)",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/The-EU-Proposes-To-Exempt-Private-Jets-From-Fuel-Tax.html",
-    "permalink": "/r/france/comments/ofq0tt/lue_propose_dexempter_les_jets_privés_de_la_taxe/",
-    "created_at": "2021-07-07T19:20:44+00:00",
-    "score": 341,
-    "num_comments": 74,
-    "subreddit": "france",
-    "author": "Nohan07",
-    "flair": "Écologie",
-    "domain": "oilprice.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/Ea742IPPovZ1ffn39wSOxy6n3UO-v1Dp0mUdGunk8uM.jpg?auto=webp&s=bd1e28028a3f9e2d4a201329474d0b41a5c0b2cd",
-    "ingested_at": "2026-11-01T09:56:07.726279+00:00",
-    "summary": "The European Commission has proposed an exemption for both private jets and cargo flights when it comes to the EU jet fuel tax",
-    "thumbnail": "thumbnails/ofq0tt.webp",
-    "tags": [
-      "EU",
-      "European Commission",
-      "UE",
-      "Private Jets",
-      "Écologie"
-    ],
-    "analyzed_at": "2026-11-01T09:56:49.380991+00:00"
-  },
-  {
     "id": "ofidaa",
     "title": "Le ministre Éric Dupond-Moretti a omis de déclarer plus de 300 000 euros de revenus",
     "url": "https://www.mediapart.fr/journal/france/070721/le-ministre-eric-dupond-moretti-omis-de-declarer-plus-de-300-000-euros-de-revenus?utm_source=2021070",
@@ -1507,8 +1070,7 @@
     "summary": "Les vérifications de la situation fiscale de chaque ministre ont abouti à une découverte de taille : le garde des Sceaux, Éric Dupond-Moretti, a omis de déclarer plus de 300 000 euros de revenus, lié…",
     "thumbnail": "thumbnails/ofidaa.webp",
     "tags": [
-      "Éric Dupond-Moretti",
-      "Sceaux"
+      "Éric Dupond-Moretti"
     ],
     "analyzed_at": "2026-11-01T09:56:48.724056+00:00"
   },
@@ -1529,13 +1091,7 @@
     "ingested_at": "2026-11-01T09:56:07.726653+00:00",
     "summary": "Selon nos informations, la France devrait prendre l'initiative de quitter le programme MAWS (avions de patrouille maritime) après la décision de l'Allemagne d'acquérir cinq P-8A Poseidon de Boeing. Très agacée par Berlin, Paris envisagerait un plan B à partir du Falcon 10X de Dassault Aviation",
     "thumbnail": "thumbnails/ofeaav.webp",
-    "tags": [
-      "Allemagne",
-      "MAWS",
-      "P-8A Poseidon de Boeing",
-      "Berlin",
-      "Falcon"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:56:48.407206+00:00"
   },
   {
@@ -1556,11 +1112,7 @@
     "summary": "Private equity's cryptocurrency experiment pushes more costs on the public.",
     "thumbnail": "thumbnails/ofc43e.webp",
     "tags": [
-      "Greenidge",
-      "Seneca Lake",
-      "MW",
-      "Atlas",
-      "Écologie"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T09:56:49.846047+00:00"
   },
@@ -1582,9 +1134,6 @@
     "summary": "Lanceuse d’alerte de l’affaire du Mediator, Irène Frachon prend position pour la vaccination dans une tribune ce lundi sur notre site. Le bé",
     "thumbnail": "thumbnails/oereit.webp",
     "tags": [
-      "Irène Frachon",
-      "Mediator",
-      "ARN",
       "Covid-19"
     ],
     "analyzed_at": "2026-11-01T09:56:48.935092+00:00"
@@ -1606,10 +1155,7 @@
     "ingested_at": "2026-11-01T09:56:07.725741+00:00",
     "summary": "Le plus grand test jamais réalisé au monde révèle les effets vertueux d'une semaine de travail réduite.",
     "thumbnail": "thumbnails/oeppu2.webp",
-    "tags": [
-      "Islande",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:56:49.091258+00:00"
   },
   {
@@ -1630,8 +1176,8 @@
     "summary": "La cliente de 34 ans avait reconnu les insultes capturées sur une vidéo très partagée de 29 secondes, expliquant que ses mots « avaient dépa",
     "thumbnail": "thumbnails/oepk6r.webp",
     "tags": [
-      "Carrefour",
-      "Fait Divers"
+      "Justice",
+      "Racisme"
     ],
     "analyzed_at": "2026-11-01T09:56:49.270299+00:00"
   },
@@ -1673,11 +1219,8 @@
     "summary": "« Nous craignons qu’inclure l’énergie nucléaire dans la taxonomie ne porte atteinte à son intégrité et à sa crédibilité, et donc à son utilité », écrivent les ministres de ces pays dans une lettre adressée à la Commission européenne",
     "thumbnail": "thumbnails/oe23vt.webp",
     "tags": [
-      "UE",
-      "Commission",
-      "Allemagne",
-      "Espagne",
-      "Politique"
+      "Union européenne",
+      "Énergie"
     ],
     "analyzed_at": "2026-11-01T09:56:50.299262+00:00"
   },
@@ -1698,37 +1241,8 @@
     "ingested_at": "2026-11-01T09:56:07.726840+00:00",
     "summary": "Sous prétexte de vengeance, la victime avait été conduite dans une maison abandonnée à Villeurbanne en juillet 2018, afin d’être séquestrée, battue et violée",
     "thumbnail": "thumbnails/odpjlx.webp",
-    "tags": [
-      "Villeurbanne",
-      "Fait Divers"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:56:49.986349+00:00"
-  },
-  {
-    "id": "odesxh",
-    "title": "La Russie se prépare à donner l'appellation \"Champagne\" uniquement à ce qui est produit en son territoire. Le Champagne français, quant à lui, deviendrait un simple \"vin pétillant\".",
-    "url": "https://www.themoscowtimes.com/2021/07/03/russian-law-takes-fizz-out-of-french-champagne-supplies-a74419",
-    "permalink": "/r/france/comments/odesxh/la_russie_se_prépare_à_donner_lappellation/",
-    "created_at": "2021-07-04T06:29:55+00:00",
-    "score": 1414,
-    "num_comments": 253,
-    "subreddit": "france",
-    "author": "Jeez_Louise_loulou",
-    "flair": "Économie",
-    "domain": "themoscowtimes.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/m86BbekFX4VxEl67QjTzOBP8a4fO1A5lv3ktCPb-UBQ.jpg?auto=webp&s=1e91d85a74fbeb8f1da2c0cd75e88bf5aebecc08",
-    "ingested_at": "2026-11-01T09:56:07.725709+00:00",
-    "summary": "Russian elites could soon find themselves without their favorite French bubbles if Moet Hennessy makes good on a threat to halt champagne supplies following a new law signed by President Vladimir Putin.",
-    "thumbnail": "thumbnails/odesxh.webp",
-    "tags": [
-      "French",
-      "Russie",
-      "Moet Hennessy",
-      "Russian",
-      "Économie"
-    ],
-    "analyzed_at": "2026-11-01T09:56:49.925929+00:00"
   },
   {
     "id": "odegz8",
@@ -1753,32 +1267,6 @@
     "analyzed_at": "2026-11-01T09:56:51.201428+00:00"
   },
   {
-    "id": "ocxdr9",
-    "title": "Elles ont fui l’Algérie pour pouvoir s’aimer et échapper aux violences et menaces de leurs familles",
-    "url": "https://positivr.fr/fuir-algerie-pour-echapper-aux-violences-menaces-et-pouvoir-s-aimer-sans-a/",
-    "permalink": "/r/france/comments/ocxdr9/elles_ont_fui_lalgérie_pour_pouvoir_saimer_et/",
-    "created_at": "2021-07-03T12:44:47+00:00",
-    "score": 154,
-    "num_comments": 61,
-    "subreddit": "france",
-    "author": "yukibouygues",
-    "flair": "",
-    "domain": "positivr.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/5J12XXHAr3352XDBiYn_8bGAvbja2bD3yHLDi22KEc0.jpg?auto=webp&s=81cdd7a22d39d66ddc787b518d3eb0755b52d9ad",
-    "ingested_at": "2026-11-01T09:56:07.727568+00:00",
-    "summary": "Rosi et Dany sont deux femmes Algériennes qui ont dû fuir leur pays en raison de leur homosexualité. Voici leur histoire. Rencontre.",
-    "thumbnail": "thumbnails/ocxdr9.webp",
-    "tags": [
-      "Dany",
-      "Algérie",
-      "Algériennes",
-      "Rosi",
-      "Canada"
-    ],
-    "analyzed_at": "2026-11-01T09:56:51.541822+00:00"
-  },
-  {
     "id": "ocwxs2",
     "title": "48°C en Russie, 46,6°C au Canada... des températures caniculaires qui inquiètent les scientifiques",
     "url": "https://www.lci.fr/meteo/video-chaleur-meteo-canicule-canada-etats-unis-russie-dans-le-cercle-polaire-arctique-des-temperatures-caniculaires-qui-inquietent-les-scientifiques-rechauffement-climatique-2189973.html",
@@ -1795,39 +1283,8 @@
     "ingested_at": "2026-11-01T09:56:07.726815+00:00",
     "summary": "[VIDÉO] RÉCHAUFFEMENT CLIMATIQUE - Ces derniers jours, des records de températures ont été atteints, au Canada, au nord-ouest des États-Unis et en Sibérie, provoquant des alertes à la chaleur dans trois provinces et deux territoires arctiques ce dimanche 27 juin. - 48°C en Russie, 46,6°C au Canada...",
     "thumbnail": "thumbnails/ocwxs2.webp",
-    "tags": [
-      "Canada",
-      "Russie",
-      "Sibérie",
-      "États-Unis",
-      "Science"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:56:50.978607+00:00"
-  },
-  {
-    "id": "ocdcfl",
-    "title": "Le plasticien qui a vendu une sculpture invisible à 15.000 euros est accusé de plagiat par un autre artiste.",
-    "url": "https://www.gqmagazine.fr/pop-culture/article/le-plasticien-qui-a-vendu-une-sculpture-invisible-a-15000-euros-est-accuse-de-plagiat-par-un-autre-artiste/amp",
-    "permalink": "/r/france/comments/ocdcfl/le_plasticien_qui_a_vendu_une_sculpture_invisible/",
-    "created_at": "2021-07-02T16:11:48+00:00",
-    "score": 979,
-    "num_comments": 145,
-    "subreddit": "france",
-    "author": "snipizgood",
-    "flair": "Culture",
-    "domain": "gqmagazine.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/mYFGQyww3C_fRVZo4-OEnx3ZmbAm4W8Sh5sNPo6ldnA.jpg?auto=webp&s=69bd78bb248a373ece3c10fcf142da5e9c128a4e",
-    "ingested_at": "2026-11-01T09:56:07.725776+00:00",
-    "summary": "Un artiste américain accuse Salvatore Garau de lui avoir volé son idée de l'oeuvre invisible et menace de lui faire un procès s'il ne le crédite pas.",
-    "thumbnail": "thumbnails/ocdcfl.webp",
-    "tags": [
-      "Salvatore Garau",
-      "Tom Miller",
-      "Oeuvre d'art",
-      "Culture"
-    ],
-    "analyzed_at": "2026-11-01T09:56:51.060534+00:00"
   },
   {
     "id": "oc6vzv",
@@ -1846,13 +1303,7 @@
     "ingested_at": "2026-11-01T09:56:07.727518+00:00",
     "summary": "53 mètres, chiffre symbolique pour la Mayenne. Le record du monde de la plus longue galette saucisse a été battu ce mercredi matin à Changé, lieu de départ de la 5ème étape du Tour de France",
     "thumbnail": "thumbnails/oc6vzv.webp",
-    "tags": [
-      "Tour de France",
-      "Mayenne",
-      "Bretagne",
-      "Gastronomie",
-      "Culture"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:56:51.144346+00:00"
   },
   {
@@ -1872,13 +1323,7 @@
     "ingested_at": "2026-11-01T09:56:07.727057+00:00",
     "summary": "TOUR DE FRANCE - La spectatrice à la pancarte est en garde à vue et qu'elle s'est rendue \"d'elle-même\" à la gendarmerie de Landerneau mercredi après-midi.",
     "thumbnail": "thumbnails/obiu7u.webp",
-    "tags": [
-      "Allez Opi Omi",
-      "TOUR de FRANCE",
-      "Landerneau",
-      "Tour de France 2021",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:56:52.493251+00:00"
   }
 ]

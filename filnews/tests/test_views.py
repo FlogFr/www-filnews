@@ -46,7 +46,19 @@ class HomeTests(ViewTestCase):
         self.assertContains(response, '<h2 class="hero__title"', count=1)
         self.assertEqual(len(response.context["news_list"]), 5)
         self.assertNotIn("top", [n.id for n in response.context["news_list"]])
-        self.assertLessEqual(len(response.context["recent_tags"]), 10)
+        # Fils du moment: tags of the last 7 days with a page, busiest first.
+        self.assertEqual([t.slug for t in response.context["trending_tags"]], ["paris"])
+        # Next to the headline: the Fil of the busiest tag of the last 48
+        # hours ("Paris": 2 news, the "Tag i" have 1 and no page).
+        featured = response.context["featured"]
+        self.assertEqual(featured["tag"].slug, "paris")
+        self.assertEqual([e["news"].id for e in featured["thread"]], ["top", "old"])
+        self.assertEqual(featured["thread"][0]["gap_after"], "1\xa0jour")
+        self.assertContains(response, "Le fil du moment")
+        self.assertContains(response, "Remonter tout le fil Paris")
+        self.assertContains(response, "tag-thread__item--current", count=1)
+        self.assertContains(response, "On vous donne le fil.")
+        self.assertContains(response, 'href="/presidentielle-2027/"')
         self.assertContains(response, 'href="/rss.xml"')
         self.assertContains(response, 'data-timeline="/tags/paris/timeline/"')
         # A tag seen once has no page: plain text, no link.
@@ -128,10 +140,13 @@ class SeoTests(ViewTestCase):
             f"https://filnews.fr/news/{self.store.get('abc').slug}/",
             self._locations("/sitemap-news.xml"),
         )
+        pages = self._locations("/sitemap-pages.xml")
+        self.assertIn("https://filnews.fr/archives/2026/09/", pages)
+        self.assertIn("https://filnews.fr/presidentielle-2027/", pages)
         self.assertIn(
-            "https://filnews.fr/archives/2026/09/",
-            self._locations("/sitemap-pages.xml"),
+            "https://filnews.fr/presidentielle-2027/jean-luc-melenchon/", pages
         )
+        self.assertIn("https://filnews.fr/mentions-legales/", pages)
 
     def test_rss_lists_all_news_newest_first(self):
         self.add_news(*[make_news(f"n{i}", hours_ago=i * 10) for i in range(1, 4)])
@@ -174,7 +189,7 @@ class TagTests(ViewTestCase):
         self.assertEqual(self.client.get("/tags/unique/").status_code, 404)
         self.assertEqual(self.client.get("/tags/unique/timeline/").status_code, 404)
         index = self.client.get(reverse("tag_index"))
-        self.assertContains(index, "1 sujet suivi")
+        self.assertContains(index, "1 fil suivi")
         self.assertContains(index, 'id="lettre-p"')
 
     def test_big_tag_is_split_by_year(self):
@@ -321,3 +336,72 @@ class RedditOAuthTests(ViewTestCase):
         )
         self.assertEqual(callback.status_code, 200)
         client.exchange_code.assert_called_once_with("the-code")
+
+
+class ElectionTests(ViewTestCase):
+    def test_election_thread_and_candidates(self):
+        self.add_news(
+            make_news(
+                "camp",
+                title="Présidentielle 2027 : le programme de Fabien Roussel",
+                tags=["Fabien Roussel"],
+            ),
+            make_news(
+                "cand",
+                hours_ago=5,
+                title="Jean-Luc Mélenchon candidat pour la troisième fois",
+                tags=["Jean-Luc Mélenchon"],
+            ),
+            make_news(
+                "other",
+                hours_ago=6,
+                title="Jean-Luc Mélenchon commente la météo",
+                tags=["Jean-Luc Mélenchon"],
+            ),
+            make_news(
+                "abroad",
+                hours_ago=7,
+                title="Présidentielle au Brésil : Lula réélu",
+                tags=["Élection présidentielle"],
+            ),
+            make_news(
+                "before",
+                hours_ago=24 * 800,
+                title="Mélenchon candidat en 2022",
+                tags=["Jean-Luc Mélenchon"],
+            ),
+        )
+        page = self.client.get(reverse("election"))
+        self.assertEqual(
+            [entry.news.id for entry in page.context["thread"]], ["camp", "cand"]
+        )
+        self.assertContains(page, 'href="/presidentielle-2027/fabien-roussel/"')
+        self.assertContains(page, "Candidature déclarée")
+
+        candidate = self.client.get(
+            reverse("election_candidate", args=["jean-luc-melenchon"])
+        )
+        # Every news of the candidate since the start of the campaign.
+        self.assertEqual(
+            [entry.news.id for entry in candidate.context["thread"]],
+            ["cand", "other"],
+        )
+        self.assertContains(candidate, 'href="/tags/jean-luc-melenchon/"')
+        self.assertEqual(
+            self.client.get("/presidentielle-2027/inconnu/").status_code, 404
+        )
+
+
+class LegalTests(ViewTestCase):
+    def test_legal_notice_links_the_source_code(self):
+        page = self.client.get(reverse("legal"))
+        self.assertContains(
+            page, '<h1 class="page-title">Mentions légales</h1>', html=False
+        )
+        self.assertContains(page, 'href="https://github.com/FlogFr/www-filnews"')
+        self.assertContains(page, "GitHub, Inc.")
+        self.assertNotContains(page, "mailto:")
+        # Linked from every page.
+        home = self.client.get(reverse("home"))
+        self.assertContains(home, 'href="/mentions-legales/"')
+        self.assertContains(home, "L&#x27;actualité vue par r/france")

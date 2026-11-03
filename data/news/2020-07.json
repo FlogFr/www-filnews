@@ -16,12 +16,7 @@
     "ingested_at": "2026-11-01T09:40:00.566598+00:00",
     "summary": "",
     "thumbnail": "thumbnails/i1gup5.webp",
-    "tags": [
-      "Lee Teng-hui",
-      "Monsieur Démocratie",
-      "Taïwan",
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:58:52.229311+00:00"
   },
   {
@@ -41,10 +36,7 @@
     "ingested_at": "2026-11-01T09:40:00.565415+00:00",
     "summary": "",
     "thumbnail": "thumbnails/i17aw4.webp",
-    "tags": [
-      "Elysée",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:58:49.750004+00:00"
   },
   {
@@ -64,10 +56,7 @@
     "ingested_at": "2026-11-01T09:40:00.564972+00:00",
     "summary": "Un nouveau badge va faire son apparition dans les fiches Google des commerces pour indiquer si le lieu est tenu par un afro-américain. Une façon aux yeux du géant de soutenir cette communauté.",
     "thumbnail": "thumbnails/i14out.webp",
-    "tags": [
-      "Noirs",
-      "Google"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:58:48.662535+00:00"
   },
   {
@@ -88,8 +77,7 @@
     "summary": "Le premier \"vrai\" conseil municipal de Lyon a vu quelques annonces de la part du nouveau maire : Les premières mesures concernent la réduction de ses indemnités, un fonds de soutien à la culture et la lutte contre l'insécurité.",
     "thumbnail": "thumbnails/i142co.webp",
     "tags": [
-      "Lyon",
-      "Politique"
+      "Travail"
     ],
     "analyzed_at": "2026-11-01T09:58:57.849019+00:00"
   },
@@ -111,8 +99,8 @@
     "summary": "Modalités d’affichage, signalétique, paramètres de calcul… L’indice de réparabilité se précise. Le gouvernement vient d’informer Bruxelles des contours que prendra cette mesure prévue par la loi antigaspillage, votée en début d’année.",
     "thumbnail": "thumbnails/i141ou.webp",
     "tags": [
-      "Bruxelles",
-      "Écologie"
+      "Environnement",
+      "Union européenne"
     ],
     "analyzed_at": "2026-11-01T09:58:48.716583+00:00"
   },
@@ -133,9 +121,7 @@
     "ingested_at": "2026-11-01T09:40:00.566118+00:00",
     "summary": "Proposition de loi visant à interdire l’usage de l’écriture inclusive par toute personne morale publique ou privée bénéficiant d’une subvention publique, n° 3273 , déposée le mardi 28 juillet 2020 .",
     "thumbnail": "thumbnails/i0n9jf.webp",
-    "tags": [
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:58:48.811667+00:00"
   },
   {
@@ -156,8 +142,9 @@
     "summary": "",
     "thumbnail": "thumbnails/i0i2zu.webp",
     "tags": [
-      "Paris",
-      "IGPN"
+      "Police",
+      "Justice",
+      "Racisme"
     ],
     "analyzed_at": "2026-11-01T09:58:49.077942+00:00"
   },
@@ -179,11 +166,7 @@
     "summary": "[VIDÉO] Thierry Casasnovas est la cible d'une information judiciaire, a-t-on appris ce vendredi. Ce chantre du crudivorisme est notamment accusé d'exercice illégal de la médecine. Portrait de celui qui conseillait par exemple de jeûner pour guérir le cancer.",
     "thumbnail": "thumbnails/i0hwfo.webp",
     "tags": [
-      "Thierry Casasnovas",
-      "Population",
-      "Santé publique",
-      "Complotisme",
-      "Epidémies"
+      "Justice"
     ],
     "analyzed_at": "2026-11-01T09:58:49.677811+00:00"
   },
@@ -205,10 +188,7 @@
     "summary": "En 2016, \"Marianne\" révélait l’histoire d’un brigadier exclu quinze jours pour avoir porté un casque avec un blason nazi. Fin juin 2020, ce policier a été promu brigadier-chef. Une de ses anciennes collègues est mortifiée par cette décision.",
     "thumbnail": "thumbnails/hzxzbd.webp",
     "tags": [
-      "CRS",
-      "Intérieur",
-      "Inès",
-      "Marianne"
+      "Police"
     ],
     "analyzed_at": "2026-11-01T09:58:49.584946+00:00"
   },
@@ -230,11 +210,8 @@
     "summary": "Le brigadier-chef Benmohamed a dÃ©noncÃ© Ã ses supÃ©rieurs un systÃ¨me de maltraitance et de racisme au dÃ©pÃ´t du Tribunal de Paris. Aucun policier nâa Ã©tÃ© sanctionnÃ©. Pire, sa hiÃ©rarchie et le cabinet du prÃ©fet Lallement ont tentÃ© dâenterrer lâaffaire.",
     "thumbnail": "thumbnails/hzwmzi.webp",
     "tags": [
-      "Tribunal de Paris",
-      "Benmohamed",
-      "Lallement",
-      "Amar Benmohamed",
-      "Â Â"
+      "Justice",
+      "Police"
     ],
     "analyzed_at": "2026-11-01T09:58:49.109991+00:00"
   },
@@ -255,12 +232,7 @@
     "ingested_at": "2026-11-01T09:40:00.565467+00:00",
     "summary": "Nommé ce 22 juillet, le nouveau recteur de Paris, Christophe Kerrero, est au conseil scientifique de l'Ifrap, un think tank libéral qui veut... rémunérer les enseignants à la \"performance\". Et supprimer les rectorats. Cocasse...",
     "thumbnail": "thumbnails/hzweqy.webp",
-    "tags": [
-      "Paris",
-      "Christophe Kerrero",
-      "Ifrap",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:58:49.552472+00:00"
   },
   {
@@ -281,34 +253,10 @@
     "summary": "",
     "thumbnail": "thumbnails/hzv149.webp",
     "tags": [
-      "Société"
+      "Éducation",
+      "Libertés publiques"
     ],
     "analyzed_at": "2026-11-01T09:58:50.141813+00:00"
-  },
-  {
-    "id": "hzd6ct",
-    "title": "Thread by @laydgeur: Je ne savais pas trop comment parler du climat en ces temps de covid-19, jusqu'à ce que je découvre que le professeur #Raoult était climatosceptique.",
-    "url": "https://threadreaderapp.com/thread/1254846814362140672.html",
-    "permalink": "/r/france/comments/hzd6ct/thread_by_laydgeur_je_ne_savais_pas_trop_comment/",
-    "created_at": "2020-07-28T11:42:43+00:00",
-    "score": 136,
-    "num_comments": 90,
-    "subreddit": "france",
-    "author": "C_kloug",
-    "flair": "COVID-19",
-    "domain": "threadreaderapp.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/9vkPxjwxV_eibg7jisDERwg0LiBHkI693Gf2LgNN5aE.jpeg?auto=webp&s=c64bd04add1a1e4033a143b7ea6d9210cc188c7c",
-    "ingested_at": "2026-11-01T09:40:00.566219+00:00",
-    "summary": "Thread by @laydgeur: Je ne savais pas trop comment parler du climat en ces temps de covid-19, jusquâÃ ce que je dÃ©couvre que le professeur #Rtait climatosceptique... Allumez votre bullshitomÃ¨tre, Ã§a envoie du lourd #Thread au format express ! Jâai trouvÃ©â¦",
-    "thumbnail": "thumbnails/hzd6ct.webp",
-    "tags": [
-      "Raoult",
-      "Rtait",
-      "Thread",
-      "COVID-19"
-    ],
-    "analyzed_at": "2026-11-01T09:58:51.361205+00:00"
   },
   {
     "id": "hzaej3",
@@ -328,61 +276,9 @@
     "summary": "",
     "thumbnail": "thumbnails/hzaej3.webp",
     "tags": [
-      "ITER",
-      "Écologie"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T09:58:50.183482+00:00"
-  },
-  {
-    "id": "hyx7rn",
-    "title": "J’ai testé pour vous : se faire usurper son identité",
-    "url": "https://linuxfr.org/users/malizor/journaux/j-ai-teste-pour-vous-se-faire-usurper-son-identite",
-    "permalink": "/r/france/comments/hyx7rn/jai_testé_pour_vous_se_faire_usurper_son_identité/",
-    "created_at": "2020-07-27T17:55:44+00:00",
-    "score": 564,
-    "num_comments": 105,
-    "subreddit": "france",
-    "author": "HellYodan",
-    "flair": "",
-    "domain": "linuxfr.org",
-    "selftext": "",
-    "reddit_thumbnail": "https://a.thumbs.redditmedia.com/dYZAvUZamhO8HSFlP49PQqw5VhfcT16KGPtJ6jh3Hf4.jpg",
-    "ingested_at": "2026-11-01T09:40:00.564653+00:00",
-    "summary": "En février 2018, j’ai reçu un appel d’une entreprise de crédit m’annonçant que le prélèvement de ma première mensualité avait échoué, et qu’il fallait donc que je fasse quelque chose au plus vite. J’ai nié avoir ouvert un quelconque crédit et dit qu’ils devaient se tromper de personne.",
-    "thumbnail": "thumbnails/hyx7rn.webp",
-    "tags": [
-      "Humeur",
-      "Cyber-criminalité",
-      "Cybersécurité",
-      "Confidentialité",
-      "Arnaque"
-    ],
-    "analyzed_at": "2026-11-01T09:58:50.564329+00:00"
-  },
-  {
-    "id": "hyum1j",
-    "title": "Boursorama Banque fuite vos données de connexion",
-    "url": "https://www.pixeldetracking.com/fr/boursorama-fuite-connexion-at-internet-smart-adserver",
-    "permalink": "/r/france/comments/hyum1j/boursorama_banque_fuite_vos_données_de_connexion/",
-    "created_at": "2020-07-27T15:41:32+00:00",
-    "score": 183,
-    "num_comments": 52,
-    "subreddit": "france",
-    "author": "TurkishPadisah",
-    "flair": "Forum Libre",
-    "domain": "pixeldetracking.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/q6AwI_3XJ_TEvjD8pHFnuyHwuNr8rHG7bzvd3J4c5yg.jpeg?auto=webp&s=982fccd18998d5d0b3981b214285d525c3c1571c",
-    "ingested_at": "2026-11-01T09:40:00.565759+00:00",
-    "summary": "Un blog sur le capitalisme de surveillance, avec un zoom sur le tracking publicitaire",
-    "thumbnail": "thumbnails/hyum1j.webp",
-    "tags": [
-      "AT Internet",
-      "Boursorama Banque",
-      "CNAME",
-      "ITP"
-    ],
-    "analyzed_at": "2026-11-01T09:58:50.121301+00:00"
   },
   {
     "id": "hyor56",
@@ -402,61 +298,11 @@
     "summary": "Un brigadier-chef lanceur dâalerte et plusieurs centaines de documents internes permettent Ã StreetPress de rÃ©vÃ©ler un systÃ¨me de maltraitance raciste dans les cellules du tribunal de Paris.",
     "thumbnail": "thumbnails/hyor56.webp",
     "tags": [
-      "Paris",
-      "Ã StreetPress",
-      "Â Â",
-      "Amar Benmohamed"
+      "Justice",
+      "Racisme",
+      "Police"
     ],
     "analyzed_at": "2026-11-01T09:58:50.341998+00:00"
-  },
-  {
-    "id": "hyo3iv",
-    "title": "Et une 2.3 pour PeerTube, l'alternative à Youtube de l'association française Framasoft",
-    "url": "https://joinpeertube.org/fr_FR/news#release-2-3-0",
-    "permalink": "/r/france/comments/hyo3iv/et_une_23_pour_peertube_lalternative_à_youtube_de/",
-    "created_at": "2020-07-27T08:02:52+00:00",
-    "score": 205,
-    "num_comments": 41,
-    "subreddit": "france",
-    "author": "Dall0o",
-    "flair": "Culture",
-    "domain": "joinpeertube.org",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/P8xxBb7mbpaUd1A8czfotyCy1Fykq8LTXwJTqIWluw8.jpeg?auto=webp&s=7f945e2bfe65785efcf048319b729012aa5457fd",
-    "ingested_at": "2026-11-01T09:40:00.565571+00:00",
-    "summary": "Découvrez les dernières actualités de PeerTube, l'alternative décentralisée à YouTube développée par Framasoft.",
-    "thumbnail": "thumbnails/hyo3iv.webp",
-    "tags": [
-      "PeerTube",
-      "Youtube",
-      "Framasoft",
-      "Culture"
-    ],
-    "analyzed_at": "2026-11-01T09:58:50.463101+00:00"
-  },
-  {
-    "id": "hy3ori",
-    "title": "AJA j'ai appris l'existence de l'accident des latrines d'Erfurt en 1184, durant lequel une soixantaine de nobles sont morts noyés dans les excréments.",
-    "url": "https://fr.wikipedia.org/wiki/Accident_des_latrines_d%27Erfurt",
-    "permalink": "/r/france/comments/hy3ori/aja_jai_appris_lexistence_de_laccident_des/",
-    "created_at": "2020-07-26T08:54:57+00:00",
-    "score": 180,
-    "num_comments": 42,
-    "subreddit": "france",
-    "author": "PoufPoal",
-    "flair": "Culture",
-    "domain": "fr.wikipedia.org",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/O7kUQNtlxIzsXlva_8wsuPSDdPwGIOgyplx3JsC3gM0.jpeg?auto=webp&s=22c1fd3df696d2f54e00ea69a38fc52aa2ff2395",
-    "ingested_at": "2026-11-01T09:40:00.565812+00:00",
-    "summary": "L’ accident ou chute des latrines d'Erfurt (en allemand, Erfurter Latrinensturz ) est un accident survenu le 26 juillet 1184 à l’occasion de la diète d' Erfurt . Cet accident est dû à l'effondrement du plancher vétuste de la salle capitulaire de la cathédrale d'Erfurt .",
-    "thumbnail": "thumbnails/hy3ori.webp",
-    "tags": [
-      "Erfurt",
-      "AJA",
-      "Culture"
-    ],
-    "analyzed_at": "2026-11-01T09:58:51.272026+00:00"
   },
   {
     "id": "hy1ewc",
@@ -475,36 +321,8 @@
     "ingested_at": "2026-11-01T09:40:00.565159+00:00",
     "summary": "L\"homme \"a reconnu, lors de l'interrogatoire de première comparution devant le juge d'instruction, avoir allumé les trois feux dans la cathédrale\", a précisé le procureur de la République de Nantes Pierre Sennès. Il...",
     "thumbnail": "thumbnails/hy1ewc.webp",
-    "tags": [
-      "Nantes",
-      "République de Nantes Pierre Sennès"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:58:50.694659+00:00"
-  },
-  {
-    "id": "hxoc6u",
-    "title": "Plan de relance : 90% des Français pour que les 40 milliards d'euros d'aide servent à construire un super grand robot bien cool",
-    "url": "http://www.legorafi.fr/2020/07/23/plan-de-relance-90-des-francais-pour-que-les-40-milliards-deuros-daide-servent-a-construire-un-super-grand-robot-bien-cool/",
-    "permalink": "/r/france/comments/hxoc6u/plan_de_relance_90_des_français_pour_que_les_40/",
-    "created_at": "2020-07-25T15:16:07+00:00",
-    "score": 258,
-    "num_comments": 41,
-    "subreddit": "france",
-    "author": "jeanbaptistecolbert",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/JT-qDi0j7_UarCCuVAM00tJ5Lrpm-KjwDKKtHFVdrCI.jpeg?auto=webp&s=2d3389b98e33358b09bb787935874ce96001edc7",
-    "ingested_at": "2026-11-01T09:40:00.565365+00:00",
-    "summary": "Les Français ont tranché. Dans leur grande majorité ouverte, plurielle et éclairée, une très large majorité d'entre eux souhaite que le package obtenu auprès de l'UE, à savoir 40 milliards d'euros, serve à la construction d'un super grand robot bien cool. Reportage.",
-    "thumbnail": "thumbnails/hxoc6u.webp",
-    "tags": [
-      "Français",
-      "UE",
-      "Gorafi",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:58:50.636380+00:00"
   },
   {
     "id": "hxn88v",
@@ -524,10 +342,8 @@
     "summary": "Et dire qu’Emna Charki voulait juste « faire rire » sur les réseaux sociaux. Ce n’est même pas elle qui l’a rédigé, ce poème, elle a juste partagé ce qui avait été écrit par un internaute algérien. C’était un poème qui parlait du Covid. La traduction donne ça : « Covid / Et le virus mortel / Ils sont étonnés […]",
     "thumbnail": "thumbnails/hxn88v.webp",
     "tags": [
-      "Tunisie",
-      "Charlie Hebdo",
-      "Charki",
-      "Covid"
+      "Justice",
+      "Covid-19"
     ],
     "analyzed_at": "2026-11-01T09:58:53.776032+00:00"
   },
@@ -550,10 +366,7 @@
     "thumbnail": "thumbnails/hwycrc.webp",
     "tags": [
       "Covid-19",
-      "Santé Publique France",
-      "VIRUS",
-      "Français",
-      "DGS"
+      "Santé"
     ],
     "analyzed_at": "2026-11-01T09:58:51.533831+00:00"
   },
@@ -574,13 +387,7 @@
     "ingested_at": "2026-11-01T09:40:00.565702+00:00",
     "summary": "La justice internationale l’a recherché en vain pour son rôle dans le génocide des Tutsis du Rwanda en 1994. Il a aussi fondé un groupe armé criminel, les Forces démocratiques de libération du Rwanda…",
     "thumbnail": "thumbnails/hwxy7i.webp",
-    "tags": [
-      "Aloys Ntiwiragabo",
-      "Tutsis",
-      "Tutsis du Rwanda",
-      "Forces",
-      "Rwanda"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:58:51.861618+00:00"
   },
   {
@@ -600,11 +407,7 @@
     "ingested_at": "2026-11-01T09:40:00.566546+00:00",
     "summary": "EXCLUSIF - Avant Bayonne, Brest. Laissé pour mort après avoir demandé le calme à deux jeunes, un père de famille de 35 ans s'est réveillé de 20 jours de coma avec de graves lésions cérébrales. Un voisin témoigne de cette agression sauvage.",
     "thumbnail": "thumbnails/hwkm88.webp",
-    "tags": [
-      "Brest",
-      "Bayonne",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:58:52.006920+00:00"
   },
   {
@@ -624,36 +427,8 @@
     "ingested_at": "2026-11-01T09:40:00.566573+00:00",
     "summary": "",
     "thumbnail": "thumbnails/hwdiio.webp",
-    "tags": [
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:58:51.620241+00:00"
-  },
-  {
-    "id": "hvpz19",
-    "title": "Les Ouïghours réconfortés par l’idée que l’Europe instaurera une journée de recueillement en mémoire de leur génocide en 2050",
-    "url": "http://www.legorafi.fr/2020/07/22/les-ouighours-reconfortes-par-lidee-que-leurope-instaurera-une-journee-de-recueillement-en-memoire-de-leur-genocide-en-2050/",
-    "permalink": "/r/france/comments/hvpz19/les_ouïghours_réconfortés_par_lidée_que_leurope/",
-    "created_at": "2020-07-22T08:22:05+00:00",
-    "score": 2084,
-    "num_comments": 166,
-    "subreddit": "france",
-    "author": "J0hnd0euf",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/BXHnTwiQXsQBSoTF7AIpmgS6a7crjQE7BGwA940SLIc.jpeg?auto=webp&s=4882c2cb426c4587bfb432654781e2e9d7783390",
-    "ingested_at": "2026-11-01T09:40:00.564571+00:00",
-    "summary": "Un jeune Ouïghour qui tentait d'échapper à son arrestation par la police chinoise a eu le temps de se confier avant d'être poussé dans un camion pour une destination inconnue.",
-    "thumbnail": "thumbnails/hvpz19.webp",
-    "tags": [
-      "Ouïghours",
-      "Europe",
-      "Ouïghour",
-      "Conseil de Europe",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:58:51.558561+00:00"
   },
   {
     "id": "hvp6x1",
@@ -673,7 +448,7 @@
     "summary": "",
     "thumbnail": "thumbnails/hvp6x1.webp",
     "tags": [
-      "Adama Traoré"
+      "Violences sexuelles"
     ],
     "analyzed_at": "2026-11-01T09:58:55.640317+00:00"
   },
@@ -694,11 +469,7 @@
     "ingested_at": "2026-11-01T09:40:00.565598+00:00",
     "summary": "L’homme travaillait principalement à Corbeil-Essonnes et entreposait, dans un box près de chez lui, les colis volés.",
     "thumbnail": "thumbnails/hvnjrj.webp",
-    "tags": [
-      "Corbeil-Essonnes",
-      "La Poste",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:58:51.900445+00:00"
   },
   {
@@ -739,11 +510,7 @@
     "summary": "Les 27 pays membres de l'Union européenne ont validé le principe d'un fonds de relance qui se compose notamment de 390 milliards de subventions.",
     "thumbnail": "thumbnails/hv0s4a.webp",
     "tags": [
-      "Union",
-      "Europe",
-      "Covid-19",
-      "Maladie",
-      "Économie"
+      "Union européenne"
     ],
     "analyzed_at": "2026-11-01T09:58:52.307353+00:00"
   },
@@ -764,13 +531,7 @@
     "ingested_at": "2026-11-01T09:40:00.566374+00:00",
     "summary": "Une séquence montrant des membres de cette minorité musulmane agenouillés et attachés a été diffusée dimanche 19 juillet par la BBC. Le diplomate, invité pour p...",
     "thumbnail": "thumbnails/hulzak.webp",
-    "tags": [
-      "Chine",
-      "Ouïgours",
-      "Londres",
-      "BBC",
-      "Xinjiang"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:58:52.535503+00:00"
   },
   {
@@ -790,10 +551,7 @@
     "ingested_at": "2026-11-01T09:40:00.566295+00:00",
     "summary": "Dans la jungle des VPN, les fournisseurs les plus recommandables sont souvent ceux qui garantissent une politique dite « zero log ». Autrement dit : qui ne conservent strictement aucune trace de l’activité de leurs utilisateurs.",
     "thumbnail": "thumbnails/hujznz.webp",
-    "tags": [
-      "VPN",
-      "UFO VPN"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:58:53.634733+00:00"
   },
   {
@@ -813,13 +571,7 @@
     "ingested_at": "2026-11-01T09:40:00.566195+00:00",
     "summary": "Après avoir suivi des conseils concernant la santé et le diabète sur YouTube, un adolescent arrête son traitement à l&#039;insuline et passe par la case réanimation. Qui est ce jeune homme ? Qui pr...",
     "thumbnail": "thumbnails/htyl0j.webp",
-    "tags": [
-      "Youtube",
-      "TC",
-      "Diabète de type 2",
-      "Cause du diabète",
-      "Complications du diabète"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:58:52.521325+00:00"
   },
   {
@@ -839,9 +591,7 @@
     "ingested_at": "2026-11-01T09:40:00.565840+00:00",
     "summary": "Un homme a été placé en garde à vue dans l'enquête sur l'incendie dans la cathédrale de Nantes. Il s'agit d'un bénévole du diocèse, chargé vendredi soir de fermer l'édifice religieux",
     "thumbnail": "thumbnails/htwnaz.webp",
-    "tags": [
-      "Nantes"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:58:53.686650+00:00"
   },
   {
@@ -861,13 +611,7 @@
     "ingested_at": "2026-11-01T09:40:00.564628+00:00",
     "summary": "[VIDÉO] INCENDIE - Deux jours après la drame, l'émotion est toujours vive après le feu qui a ravagé l'intérieur de la cathédrale de Saint-Pierre-et-Saint-Paul de Nantes (Loire-Atlantique) samedi, détruisant notamment le grand orgue. Une enquête a été ouverte pour \"incendie volontaire\".",
     "thumbnail": "thumbnails/htc97t.webp",
-    "tags": [
-      "Nantes",
-      "Saint-Pierre-et-Saint-Paul de Nantes",
-      "Pompier",
-      "L'incendie de la cathédrale de Nantes",
-      "Fait divers"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:58:53.659615+00:00"
   },
   {
@@ -888,11 +632,7 @@
     "summary": "Cette entreprise implantée dans le Lot compte ressusciter d'ici deux ans un trajet laissé à l'abandon par la SNCF depuis 2012. La future ligne desservirait notamment Roanne, Montluçon, Guéret, Limoges, Périgueux et Libourne.",
     "thumbnail": "thumbnails/htbvnk.webp",
     "tags": [
-      "SNCF",
-      "Lyon-Bordeaux",
-      "Railcoop",
-      "Lot",
-      "Économie"
+      "Transports"
     ],
     "analyzed_at": "2026-11-01T09:58:52.933832+00:00"
   },
@@ -913,12 +653,7 @@
     "ingested_at": "2026-11-01T09:40:00.564947+00:00",
     "summary": "Selon un rapport publié ce lundi 2 mars par un institut d'étude australien, la Chine aurait transféré des dizaines de milliers de membres de la minorité musulmane ouïghoure, détenus dans des camps d'internement, vers des usines fournissant au moins 83 des plus grandes marques mondiales.",
     "thumbnail": "thumbnails/ht0nuf.webp",
-    "tags": [
-      "Chine",
-      "BMW",
-      "ONG",
-      "Xinjiang"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:58:53.277320+00:00"
   },
   {
@@ -939,10 +674,6 @@
     "summary": "Les économistes de l'OFCE ont dévoilé jeudi leur projet de relance pour l'Union européenne, qui prévoit un programme d'investissement de 2000 milliards d'euros sur 10 ans.",
     "thumbnail": "thumbnails/hsrqey.webp",
     "tags": [
-      "UE",
-      "Paris et Berlin",
-      "OFCE",
-      "Plan de relance",
       "Union européenne"
     ],
     "analyzed_at": "2026-11-01T09:58:54.022463+00:00"
@@ -965,10 +696,7 @@
     "summary": "Le Premier ministre s'en est pris Ã l'anonymat sur Internet, qui permet selon lui au pire de se dÃ©verser. Mais Jean Castex se trompe : il n'y a pas d'anonymat en ligne. La loi offre tous les outils adÃ©quats pour remonter jusqu'Ã l'identitÃ© des internautes, si nÃ©cessaire.",
     "thumbnail": "thumbnails/hsr5aa.webp",
     "tags": [
-      "Jean Castex",
-      "Internet",
-      "Premier",
-      "IP"
+      "Jean Castex"
     ],
     "analyzed_at": "2026-11-01T09:58:53.962499+00:00"
   },
@@ -990,8 +718,8 @@
     "summary": "",
     "thumbnail": "thumbnails/hs7vfk.webp",
     "tags": [
-      "Europe",
-      "Etats-Unis"
+      "Justice",
+      "Numérique"
     ],
     "analyzed_at": "2026-11-01T09:58:53.981253+00:00"
   },
@@ -1014,60 +742,9 @@
     "thumbnail": "thumbnails/hs5xpa.webp",
     "tags": [
       "Jean Castex",
-      "Vichy",
-      "Castex",
-      "Premier ministre",
-      "Société"
+      "Numérique"
     ],
     "analyzed_at": "2026-11-01T09:58:54.773950+00:00"
-  },
-  {
-    "id": "hrm5v4",
-    "title": "Incroyable vidéo qui rappelle les plus sombres heures du monde. Les chinois déplacent des Ouïghours en train de fret.",
-    "url": "https://gfycat.com/oddballfairgerbil",
-    "permalink": "/r/france/comments/hrm5v4/incroyable_vidéo_qui_rappelle_les_plus_sombres/",
-    "created_at": "2020-07-15T11:52:11+00:00",
-    "score": 3161,
-    "num_comments": 428,
-    "subreddit": "france",
-    "author": "paulethanol",
-    "flair": "",
-    "domain": "gfycat.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://b.thumbs.redditmedia.com/LsH7wRRPXOebvBFMu-jZkwG74A19Z1KxlC8YQHCDp3U.jpg",
-    "ingested_at": "2026-11-01T09:40:00.564511+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/hrm5v4.webp",
-    "tags": [
-      "Ouïghours"
-    ],
-    "analyzed_at": "2026-11-01T09:58:54.784257+00:00"
-  },
-  {
-    "id": "hrlnxk",
-    "title": "Airbnb invite les gens à faire un don aux propriétaires touchés par la crise actuelle [Disbelief as Airbnb asks people to donate money to its landlords]",
-    "url": "https://www.edinburghlive.co.uk/news/edinburgh-news/why-would-donate-host-disbelief-18596762",
-    "permalink": "/r/france/comments/hrlnxk/airbnb_invite_les_gens_à_faire_un_don_aux/",
-    "created_at": "2020-07-15T11:11:19+00:00",
-    "score": 105,
-    "num_comments": 49,
-    "subreddit": "france",
-    "author": "gasconne",
-    "flair": "Économie",
-    "domain": "edinburghlive.co.uk",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/6enWlIsy98W-Jrwrw2EYxfrAeJAo4HWZG09dCsjJggk.jpeg?auto=webp&s=0b46ccda665b895f5dbdf079f01fa8c573a20c98",
-    "ingested_at": "2026-11-01T09:40:00.566438+00:00",
-    "summary": "\"Tell you what Airbnb, can you sort out a nice card and a contribution to me from all the former Airbnb hosts I've stayed with? I've lost my job to COVID.\"",
-    "thumbnail": "thumbnails/hrlnxk.webp",
-    "tags": [
-      "Airbnb",
-      "Traffic and Travel",
-      "Short term lets",
-      "Holidays",
-      "Économie"
-    ],
-    "analyzed_at": "2026-11-01T09:58:54.606935+00:00"
   },
   {
     "id": "hr28rg",
@@ -1087,11 +764,8 @@
     "summary": "Interrogé sur franceinfo, Axel Kahn déplore le délai de 15 jours choisi par Emmanuel Macron pour imposer le masque dans les endroits clos. Le généticien appelle à accélérer la mise en place de la mesure pour lutter contre la propagation du virus.",
     "thumbnail": "thumbnails/hr28rg.webp",
     "tags": [
-      "Axel Kahn",
-      "Emmanuel Macron",
-      "14-Juillet 2026",
       "Covid-19",
-      "Déconfinement"
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T09:58:54.881274+00:00"
   },
@@ -1114,8 +788,7 @@
     "thumbnail": "thumbnails/hqziz0.webp",
     "tags": [
       "Emmanuel Macron",
-      "14-Juillet 2026",
-      "Politique"
+      "Santé"
     ],
     "analyzed_at": "2026-11-01T09:58:54.314975+00:00"
   },
@@ -1137,33 +810,9 @@
     "summary": "Dans une lettre publiée ce lundi 13 juillet, avant la réunion des ministres des Finances du G20 et du sommet européen extraordinaire sur la relance de l'UE, un groupe de 83 millionnaires appelle à taxer davantage les grandes fortunes de la planète, afin de contribuer à la reprise après la crise du coronavirus.",
     "thumbnail": "thumbnails/hqd1l4.webp",
     "tags": [
-      "Finances du G20",
-      "UE"
+      "Union européenne"
     ],
     "analyzed_at": "2026-11-01T09:58:54.862223+00:00"
-  },
-  {
-    "id": "hqartg",
-    "title": "Sea Shepherd fait condamner l'Etat français pour les milliers de dauphins sacrifiés au secteur de la pêche et exige des caméras embarquées sur les navires",
-    "url": "https://dolphinbycatch.seashepherd.info/index.php/article-news/52-news-07072020-fr-01",
-    "permalink": "/r/france/comments/hqartg/sea_shepherd_fait_condamner_letat_français_pour/",
-    "created_at": "2020-07-13T07:14:25+00:00",
-    "score": 522,
-    "num_comments": 55,
-    "subreddit": "france",
-    "author": "BoeufCarottes",
-    "flair": "Actus",
-    "domain": "dolphinbycatch.seashepherd.info",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/q0KUXiWQQfXNIolLqLlzJ51zrvkh3lkzMlRiJ14075g.png?auto=webp&s=64235b4e0617188cd8c6f7d8788c470d798040dc",
-    "ingested_at": "2026-11-01T09:40:00.564705+00:00",
-    "summary": "Sea Shepherd fait condamner l’État français : des milliers de dauphins sacrifiés, et exige des caméras embarquées à bord des navires.",
-    "thumbnail": "thumbnails/hqartg.webp",
-    "tags": [
-      "Sea Shepherd",
-      "Etat"
-    ],
-    "analyzed_at": "2026-11-01T09:58:54.879410+00:00"
   },
   {
     "id": "hq2nhu",
@@ -1183,11 +832,7 @@
     "summary": "La justice a élargi son enquête ouverte notamment pour trafic d’influence visant l’ex-patron du renseignement Bernard Squarcini.",
     "thumbnail": "thumbnails/hq2nhu.webp",
     "tags": [
-      "LVMH",
-      "LVMH de Ruffin",
-      "Bernard Squarcini",
-      "François Ruffin",
-      "Mediapart"
+      "François Ruffin"
     ],
     "analyzed_at": "2026-11-01T09:58:55.218996+00:00"
   },
@@ -1229,9 +874,7 @@
     "summary": "Le Pr William Dab, ancien directeur général de la Santé, estime qu’on ne tient pas assez compte de la dangerosité du virus. Il demande qu’on",
     "thumbnail": "thumbnails/hpsf20.webp",
     "tags": [
-      "Santé",
-      "Pr William Dab",
-      "COVID-19"
+      "Covid-19"
     ],
     "analyzed_at": "2026-11-01T09:58:55.232908+00:00"
   },
@@ -1252,10 +895,7 @@
     "ingested_at": "2026-11-01T09:40:00.565082+00:00",
     "summary": "Ce vendredi soir à Perpignan, Louis Aliot a animé son premier conseil municipal en tant que maire. À cette occasion, Louis Aliot et sa majorité ont décidé de voter l'augmentation de son indemnité.",
     "thumbnail": "thumbnails/hp70kx.webp",
-    "tags": [
-      "Louis Aliot",
-      "Perpignan"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:58:55.187462+00:00"
   },
   {
@@ -1276,10 +916,7 @@
     "summary": "Écoutez l'extrait de l'émission Le réveil / Île-du-Prince-Édouard : Une pétition pour sauver les programmes d’immersion française en Louisiane",
     "thumbnail": "thumbnails/hp0f53.webp",
     "tags": [
-      "Louisiane",
-      "Amérique Française",
-      "Zachary Richard",
-      "Culture"
+      "Éducation"
     ],
     "analyzed_at": "2026-11-01T09:58:56.668276+00:00"
   },
@@ -1301,8 +938,7 @@
     "summary": "",
     "thumbnail": "thumbnails/houfpv.webp",
     "tags": [
-      "DGSE",
-      "Chine"
+      "Justice"
     ],
     "analyzed_at": "2026-11-01T09:58:55.296049+00:00"
   },
@@ -1323,9 +959,7 @@
     "ingested_at": "2026-11-01T09:40:00.564922+00:00",
     "summary": "",
     "thumbnail": "thumbnails/hosofm.webp",
-    "tags": [
-      "Bayonne"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:59:01.121146+00:00"
   },
   {
@@ -1346,8 +980,8 @@
     "summary": "",
     "thumbnail": "thumbnails/homb15.webp",
     "tags": [
-      "Israël",
-      "Politique"
+      "Conflit israélo-palestinien",
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T09:58:55.740999+00:00"
   },
@@ -1369,9 +1003,7 @@
     "summary": "",
     "thumbnail": "thumbnails/ho8o6f.webp",
     "tags": [
-      "Emmanuel Macron",
-      "Notre-Dame de Paris",
-      "Culture"
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T09:58:55.626317+00:00"
   },
@@ -1393,11 +1025,7 @@
     "summary": "EXCLUSIF - Dans ce document du Sénat que Le Figaro s’est procuré, 44 propositions sont faites pour lutter contre cette radicalisation.",
     "thumbnail": "thumbnails/ho0no1.webp",
     "tags": [
-      "Sénat",
-      "Figaro",
-      "Commission d'enquête",
-      "Dérive Sectaire",
-      "Islam radical"
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T09:58:56.690717+00:00"
   },
@@ -1419,11 +1047,7 @@
     "summary": "[VIDÉO] L'INITIATIVE - Laurent de la Clergerie, patron du groupe LDLC, vendeur en ligne d'équipements de haute technologie, a annoncé qu’il allait mettre en place en 2021 la semaine de quatre jours, et ce, tout en augmentant les salaires.",
     "thumbnail": "thumbnails/hnjby7.webp",
     "tags": [
-      "Clergerie",
-      "LDLC",
-      "Laurent de la Clergerie",
-      "Emploi et chômage",
-      "Société"
+      "Travail"
     ],
     "analyzed_at": "2026-11-01T09:58:56.093704+00:00"
   },
@@ -1445,11 +1069,7 @@
     "summary": "Dans son rapport publié mercredi 8 juillet, le HCC regrette que les plans de soutien du gouvernement aux secteurs automobile et aérien soient \"sans conditionnalité ferme concernant leur évolution vers une trajectoire compatible avec les objectifs nationaux\".",
     "thumbnail": "thumbnails/hnbhq8.webp",
     "tags": [
-      "Haut",
-      "HCC",
-      "Covid-19",
-      "Corinne le Quéré",
-      "Écologie"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T09:58:56.078832+00:00"
   },
@@ -1471,9 +1091,7 @@
     "summary": "Il exerçait depuis quatorze ans comme conseiller et avait révélé des failles dans l’aide aux demandeurs d’emploi",
     "thumbnail": "thumbnails/hn1sx6.webp",
     "tags": [
-      "Yann Gaudin",
-      "Pôle",
-      "Société"
+      "Travail"
     ],
     "analyzed_at": "2026-11-01T09:58:56.128258+00:00"
   },
@@ -1495,34 +1113,10 @@
     "summary": "Jair Bolsonaro avait indiqué lundi s'être soumis à un test après avoir présenté des symptômes de la maladie.",
     "thumbnail": "thumbnails/hmwmnl.webp",
     "tags": [
-      "Jair Bolsonaro",
-      "Covid-19"
+      "Covid-19",
+      "Jair Bolsonaro"
     ],
     "analyzed_at": "2026-11-01T09:58:56.021746+00:00"
-  },
-  {
-    "id": "hmrp2n",
-    "title": "Fermer Fessenheim et d’autres réacteurs est un contre-sens",
-    "url": "https://www.academie-sciences.fr/fr/Rapports-ouvrages-avis-et-recommandations-de-l-Academie/avis-academie-sciences-fessenheim.html",
-    "permalink": "/r/france/comments/hmrp2n/fermer_fessenheim_et_dautres_réacteurs_est_un/",
-    "created_at": "2020-07-07T09:58:34+00:00",
-    "score": 221,
-    "num_comments": 162,
-    "subreddit": "france",
-    "author": "vinc44",
-    "flair": "Politique",
-    "domain": "academie-sciences.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://a.thumbs.redditmedia.com/hQkzaLI-1X-4VrY0b1llUZSe0ctHC9MVY53xn1L7ub0.jpg",
-    "ingested_at": "2026-11-01T09:40:00.565442+00:00",
-    "summary": "L'Académie des Sciences publie des travaux de recherche de haute qualité dans divers domaines scientifiques, favorisant la diffusion des connaissances et les échanges interdisciplinaires ainsi que des textes de vulgarisation aux formes variées. Nos avis, rapports et recommandations sont accessibles ici.",
-    "thumbnail": "thumbnails/hmrp2n.webp",
-    "tags": [
-      "Fermer Fessenheim",
-      "Académie",
-      "Politique"
-    ],
-    "analyzed_at": "2026-11-01T09:58:58.627627+00:00"
   },
   {
     "id": "hm6b3a",
@@ -1541,9 +1135,7 @@
     "ingested_at": "2026-11-01T09:40:00.565259+00:00",
     "summary": "Les deux infirmiers d’un Ehpad toulousain qui ont été mis à pied du jour au lendemain, fin mars, parce qu’ils réclamaient des masques en pleine pandémie restent dans l’attente de la suite de l’instruction de leur...",
     "thumbnail": "thumbnails/hm6b3a.webp",
-    "tags": [
-      "Ehpad"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:58:56.483404+00:00"
   },
   {
@@ -1563,10 +1155,7 @@
     "ingested_at": "2026-11-01T09:40:00.565057+00:00",
     "summary": "La victime a été rouée de coups après avoir refusé d'accepter des usagers qui n'avaient pas de titre de transport et n'étaient pas porteurs de masques.",
     "thumbnail": "thumbnails/hm4910.webp",
-    "tags": [
-      "Bayonne",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:58:56.431187+00:00"
   },
   {
@@ -1586,11 +1175,7 @@
     "ingested_at": "2026-11-01T09:40:00.565390+00:00",
     "summary": "Le maire de Grenoble, invité du Grand Jury ce dimanche, a déploré le déploiement imminent de la 5G en France. Pour l'élu écologiste, le progrès ne consiste pas à \"pouvoir regarder du porno en HD dans un ascenseur\".",
     "thumbnail": "thumbnails/hm3osr.webp",
-    "tags": [
-      "Grenoble",
-      "HD",
-      "Grand Jury"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:58:56.494737+00:00"
   },
   {
@@ -1611,59 +1196,9 @@
     "summary": "Ses fonctions de délégué interministériel et ses mandats locaux lui ont bien rapporté 208 000 euros par an en 2018 et 2019. Toutefois, la rémunération de Jean Castex devrait baisser du fait de sa nomination à Matignon.",
     "thumbnail": "thumbnails/hlpfiw.webp",
     "tags": [
-      "Jean Castex",
-      "Premier",
-      "Matignon",
-      "JO",
-      "Politique"
+      "Jean Castex"
     ],
     "analyzed_at": "2026-11-01T09:58:56.749152+00:00"
-  },
-  {
-    "id": "hll6fn",
-    "title": "AJA que les trois constructions humaines les plus anciennes sur Terre sont en France.",
-    "url": "https://en.wikipedia.org/wiki/List_of_oldest_known_surviving_buildings#By_age",
-    "permalink": "/r/france/comments/hll6fn/aja_que_les_trois_constructions_humaines_les_plus/",
-    "created_at": "2020-07-05T11:32:42+00:00",
-    "score": 275,
-    "num_comments": 53,
-    "subreddit": "france",
-    "author": "Gadac",
-    "flair": "Culture",
-    "domain": "en.wikipedia.org",
-    "selftext": "",
-    "reddit_thumbnail": "",
-    "ingested_at": "2026-11-01T09:40:00.565312+00:00",
-    "summary": "A building is defined as any human-made structure used or interface for supporting or sheltering any use or continuous occupancy . In order to qualify for this list, a structure must: This deliberately excludes ruins of limited height and statues.",
-    "thumbnail": "",
-    "tags": [
-      "AJA",
-      "Terre",
-      "Culture"
-    ],
-    "analyzed_at": "2026-11-01T09:58:57.938262+00:00"
-  },
-  {
-    "id": "hkzqba",
-    "title": "Saint-Ouen : le benjamin de la future équipe municipale arrêté… sur un scooter volé",
-    "url": "https://sfrpresse.sfr.fr/article/58d37677-1bed-4359-9a55-35cb8319c1e4",
-    "permalink": "/r/france/comments/hkzqba/saintouen_le_benjamin_de_la_future_équipe/",
-    "created_at": "2020-07-04T08:01:00+00:00",
-    "score": 108,
-    "num_comments": 43,
-    "subreddit": "france",
-    "author": "livinginahologram",
-    "flair": "Société",
-    "domain": "sfrpresse.sfr.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://b.thumbs.redditmedia.com/77zL5OorvUxx9WGCg1tMF-97s9ctARgW0pqJvEZm3MQ.jpg",
-    "ingested_at": "2026-11-01T09:40:00.566412+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/hkzqba.webp",
-    "tags": [
-      "Société"
-    ],
-    "analyzed_at": "2026-11-01T09:59:01.959160+00:00"
   },
   {
     "id": "hkz4df",
@@ -1683,11 +1218,7 @@
     "summary": "Casino doit comprendre qu’il est responsable d’une partie de la déforestation en Amazonie : c’est le moteur de la campagne d’Envol Vert, qui demande au groupe de cesser son trouble jeu en Amérique du Sud, alors qu’il se présente en France comme un distributeur à la pointe de l’éthique, le premier à avoir lancé une…",
     "thumbnail": "thumbnails/hkz4df.webp",
     "tags": [
-      "Casino",
-      "Amazonie",
-      "Amérique du Sud",
-      "Envol Vert",
-      "Écologie"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T09:58:56.911119+00:00"
   },
@@ -1709,10 +1240,7 @@
     "summary": "Comme l'annonçait Marianne, l'Elysée a officialisé ce vendredi 3 juillet la nomination de Jean Castex à Matignon.",
     "thumbnail": "thumbnails/hkgszz.webp",
     "tags": [
-      "Jean Castex",
-      "Marianne",
-      "Premier",
-      "Matignon"
+      "Jean Castex"
     ],
     "analyzed_at": "2026-11-01T09:58:57.240531+00:00"
   },
@@ -1733,37 +1261,8 @@
     "ingested_at": "2026-11-01T09:40:00.566245+00:00",
     "summary": "Le forfait B&You 20 Go pourrait passer de 4,99 à 8,99 euros, une augmentation qu’il est possible de refuser.",
     "thumbnail": "thumbnails/hkedab.webp",
-    "tags": [
-      "Go",
-      "Bouygues Telecom",
-      "B You 20",
-      "Bouygues",
-      "Forfait mobile"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:58:57.947012+00:00"
-  },
-  {
-    "id": "hjuft6",
-    "title": "En 1972, pour tester les pneus de camion, Michelin créa ce véhicule spectaculaire, 2 moteurs V8, 9 tonnes, 160 km/h : le Poids-Lourd Rapide « Mille-Pattes »",
-    "url": "https://lesvoitures.fr/wp-content/uploads/2018/03/michelin-citroen-ds-mille-pattes.jpg",
-    "permalink": "/r/france/comments/hjuft6/en_1972_pour_tester_les_pneus_de_camion_michelin/",
-    "created_at": "2020-07-02T10:15:42+00:00",
-    "score": 494,
-    "num_comments": 46,
-    "subreddit": "france",
-    "author": "Neker",
-    "flair": "",
-    "domain": "lesvoitures.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/y-YkjXPK4BOXKYgJCI70WNcPpGoZWR7CuLjY9DWIL0E.jpg?auto=webp&s=d9b7fc0aec753564d559b0a2aea12e22949950e9",
-    "ingested_at": "2026-11-01T09:40:00.564773+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/hjuft6.webp",
-    "tags": [
-      "V8",
-      "Poids-Lourd Rapide"
-    ],
-    "analyzed_at": "2026-11-01T09:58:58.951960+00:00"
   },
   {
     "id": "hjtkob",
@@ -1783,9 +1282,7 @@
     "summary": "Selon nos informations, les enquêteurs de « la police des polices » ont découvert lundi, en perquisition, du cannabis dissimulé près du park",
     "thumbnail": "thumbnails/hjtkob.webp",
     "tags": [
-      "Seine-Saint-Denis",
-      "CSI 93",
-      "Soft paywall"
+      "Police"
     ],
     "analyzed_at": "2026-11-01T09:58:57.642480+00:00"
   },
@@ -1807,11 +1304,7 @@
     "summary": "Le directeur de l'Assistance publique - Hôpitaux de Paris a écrit une lettre en ce sens au président de l'Assemblée nationale, Richard Ferrand.",
     "thumbnail": "thumbnails/hjrdsu.webp",
     "tags": [
-      "Assemblée",
-      "Didier Raoult",
-      "Paris",
-      "Covid-19",
-      "Richard Ferrand"
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T09:58:58.867148+00:00"
   },
@@ -1832,10 +1325,7 @@
     "ingested_at": "2026-11-01T09:40:00.564998+00:00",
     "summary": "La mesure n’empêchera pas les augmentations de salaire, précise l’entreprise",
     "thumbnail": "thumbnails/hj8znl.webp",
-    "tags": [
-      "LDLC",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:58:58.881631+00:00"
   },
   {
@@ -1855,7 +1345,9 @@
     "ingested_at": "2026-11-01T09:40:00.565284+00:00",
     "summary": "Des signalements alarmants étaient parvenus à la gendarmerie, un peu plus tôt",
     "thumbnail": "thumbnails/hj7cqm.webp",
-    "tags": [],
+    "tags": [
+      "Police"
+    ],
     "analyzed_at": "2026-11-01T09:58:58.626439+00:00"
   },
   {
@@ -1875,13 +1367,7 @@
     "ingested_at": "2026-11-01T09:40:00.565134+00:00",
     "summary": "\"Dans les aménagements urbains, 70% de la voirie est consacrée à la voiture, or elle représente 29% des déplacements dans Bordeaux\", justifie l'élu d'Europe Ecologie-Les Verts.",
     "thumbnail": "thumbnails/hj7c7s.webp",
-    "tags": [
-      "Pierre Hurmic",
-      "Bordeaux",
-      "Covid-19",
-      "Europe Ecologie-Les Verts",
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:58:58.336236+00:00"
   }
 ]

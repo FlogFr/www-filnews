@@ -5,14 +5,29 @@
 ### La page d'accueil
 
 - **À la une** : l'actualité qui a reçu le plus de votes ces dernières 24 heures.
+- **Le fil du moment** : le sujet le plus présent ces dernières 48 heures, avec
+  ses dernières news sur une ligne chronologique et le temps écoulé entre
+  elles ; « Remonter tout le fil » ouvre sa page.
 - **Dernières news** : les 5 actualités les plus récentes, chacune avec sa
-  source, sa date, un court résumé, son score Reddit et ses tags.
-- **Tags du moment** : les sujets les plus récents (10 au maximum).
+  source, sa date, un court résumé, son score Reddit et ses fils.
+- **Fils du moment** : les 7 fils les plus présents cette semaine, avec leur
+  sorte (personnalité ou thème).
+- **Présidentielle 2027** : lien vers le fil de la campagne et les candidats.
 - **Suivre FilNews** : le lien vers le flux RSS.
 
-### Les tags et leur historique
+### La présidentielle 2027
 
-Chaque news porte des tags (personnes, lieux, organisations, thèmes).
+La page **Présidentielle 2027** (menu) liste les candidats, déclarés ou
+pressentis, avec leur parti et leurs fils. En dessous, **le fil de la
+campagne** rassemble toutes les news de la campagne. Chaque candidat a sa
+page : toutes ses news depuis janvier 2025, avec un lien vers son fil
+complet.
+
+### Les fils (tags) et leur historique
+
+Chaque news est rattachée à des fils de deux sortes : les **personnalités
+politiques** (silhouette) et les **grands thèmes** politiques et de société
+(`#` : environnement, police, logement…).
 
 - **Survolez** un tag (ou placez-y le focus au clavier) : une carte affiche son
   **historique** : une frise chronologique où chaque point est une news, puis
@@ -25,7 +40,7 @@ Chaque news porte des tags (personnes, lieux, organisations, thèmes).
   alternativement à gauche et à droite, avec leur date et le temps écoulé
   entre deux news. En faisant défiler, la news au centre de l'écran est mise
   en avant en rouge.
-- La page **Tags** liste les sujets suivis (au moins 2 news) par ordre
+- La page **Tous les fils** liste les sujets suivis (au moins 2 news) par ordre
   alphabétique, avec une barre de lettres pour sauter à la bonne section. Un
   tag qui n'apparaît qu'une fois s'affiche en texte simple, sans lien.
 - Un gros sujet (plus de 60 news) a son Fil découpé **par année** : une barre
@@ -96,6 +111,34 @@ ne sont donc pas vides : au moins 60 news par mois et 2 par jour (sauf jour
 sans article à 20 votes). Pas de maximum. Changer ces minimums :
 `--top 80 --day-top 3 --day-min-score 30`, ou `FILNEWS_BACKFILL_TOP` /
 `FILNEWS_BACKFILL_DAY_TOP` / `FILNEWS_BACKFILL_DAY_MIN_SCORE` dans `.env`.
+
+### Modifier le vocabulaire des tags
+
+Les tags possibles sont listés dans `filnews/vocabulary.py` :
+`PERSONALITIES` (nom → expressions qui le désignent, sensibles à la casse) et
+`THEMES` (thème → expressions, insensibles à la casse sauf sigles). Après une
+modification, recalculer les tags sans rien télécharger :
+
+```bash
+python manage.py analyze_news --retag
+```
+
+### Mettre à jour les candidats à la présidentielle
+
+Éditer `CANDIDATES` dans `filnews/elections.py` (nom, parti, `DECLARED` ou
+`POTENTIAL`, et éventuellement `tags=(...)` si d'autres fils que le nom
+doivent alimenter son fil). Le nom doit exister dans le vocabulaire.
+
+### Médias autorisés et refusés
+
+`ALLOWED_DOMAINS` et `BLOCKED_DOMAINS` dans `filnews/media.py`. Un domaine
+couvre ses sous-domaines. Pour lister (puis supprimer) les news déjà stockées
+qui ne respectent plus la politique :
+
+```bash
+python manage.py prune_news            # liste, ne supprime rien
+python manage.py prune_news --apply    # supprime ces news et leurs vignettes
+```
 
 ### Fusionner deux tags (alias)
 

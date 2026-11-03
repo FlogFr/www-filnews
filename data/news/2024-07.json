@@ -18,8 +18,7 @@
     "thumbnail": "thumbnails/1egy5dg.webp",
     "tags": [
       "Kamala Harris",
-      "Donald Trump",
-      "Asie du Sud"
+      "Donald Trump"
     ],
     "analyzed_at": "2026-11-01T10:59:01.575448+00:00"
   },
@@ -41,11 +40,10 @@
     "summary": "Elon Musk a partagé une fausse vidéo de Kamala Harris, potentielle candidate démocrate à la présidentielle américaine. Le patron de Twitter n'a pas indiqué que la publication avait été générée par une intelligence artificielle.",
     "thumbnail": "thumbnails/1egq3is.webp",
     "tags": [
-      "Elon Musk",
       "Kamala Harris",
-      "IA",
-      "Trump",
-      "Politique"
+      "Elon Musk",
+      "Intelligence artificielle",
+      "Donald Trump"
     ],
     "analyzed_at": "2026-11-01T10:59:01.674941+00:00"
   },
@@ -67,11 +65,7 @@
     "summary": "Après que le Conseil d’Etat l’a enjoint en février 2024 à reconsidérer une saisine de RSF en 2021, l’autorité de régulation a publié ce mercredi sa décision, considérant effectivement un traitement «univoque» de certaines thématiques.",
     "thumbnail": "thumbnails/1eglupv.webp",
     "tags": [
-      "CNews",
-      "Arcom",
-      "RSF",
-      "Conseil Etat",
-      "Société"
+      "Médias"
     ],
     "analyzed_at": "2026-11-01T10:59:04.305307+00:00"
   },
@@ -93,8 +87,7 @@
     "summary": "Le chef de l’État a invité plusieurs grands patrons internationaux à déjeuner à l’Élysée pour les rassurer, après des élections législatives désastreuses pour son camp. Une manière de montrer qu’il n…",
     "thumbnail": "thumbnails/1eglezs.webp",
     "tags": [
-      "État",
-      "Élysée"
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T10:59:02.670305+00:00"
   },
@@ -115,13 +108,7 @@
     "ingested_at": "2026-11-01T10:56:06.394631+00:00",
     "summary": "Cassandre Beaugrand a remporté mercredi le triathlon olympique dans les rues de Paris. Emma Lombardi a fini 4e derrière la Suisse Julie Derron et la Britannique Beth Potter. La France compte désormais 19 médailles, dont six en or.",
     "thumbnail": "thumbnails/1eghpdu.webp",
-    "tags": [
-      "Cassandre Beaugrand",
-      "Emma Lombardi",
-      "Paris",
-      "Sports",
-      "Jeux Olympiques"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:59:06.306358+00:00"
   },
   {
@@ -142,9 +129,7 @@
     "summary": "",
     "thumbnail": "thumbnails/1egdmfr.webp",
     "tags": [
-      "Hamas",
-      "Ismaïl Haniyeh",
-      "Téhéran"
+      "Conflit israélo-palestinien"
     ],
     "analyzed_at": "2026-11-01T10:59:02.900411+00:00"
   },
@@ -166,11 +151,7 @@
     "summary": "À Gaza, ravagée par près de dix mois de guerre, l’armée israélienne a bombardé la semaine dernière le principal réservoir d’eau de la ville de Rafah, soit une violation totale du droit international…",
     "thumbnail": "thumbnails/1efzmcw.webp",
     "tags": [
-      "Rafah",
-      "Gaza",
-      "ONG",
-      "Guerre Israël-Gaza",
-      "Israël"
+      "Conflit israélo-palestinien"
     ],
     "analyzed_at": "2026-11-01T10:59:02.949630+00:00"
   },
@@ -192,8 +173,7 @@
     "summary": "",
     "thumbnail": "",
     "tags": [
-      "Angers",
-      "Société"
+      "Extrême droite"
     ],
     "analyzed_at": "2026-11-01T10:59:08.158660+00:00"
   },
@@ -214,12 +194,7 @@
     "ingested_at": "2026-11-01T10:56:06.393791+00:00",
     "summary": "Dans un rapport publié lundi, la Cour des comptes s’alarme du déficit de 8 millions d’euros dans le budget de la présidence de la République. Les voyages, les réceptions et les dîners d’État organisé…",
     "thumbnail": "thumbnails/1efrr6y.webp",
-    "tags": [
-      "Élysée",
-      "Cour",
-      "République",
-      "État"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:59:03.869645+00:00"
   },
   {
@@ -239,11 +214,7 @@
     "ingested_at": "2026-11-01T10:56:06.393008+00:00",
     "summary": "",
     "thumbnail": "thumbnails/1efnhye.webp",
-    "tags": [
-      "JO de Paris 2024",
-      "Bacchus",
-      "Christ"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:59:03.745771+00:00"
   },
   {
@@ -263,13 +234,7 @@
     "ingested_at": "2026-11-01T10:56:06.393179+00:00",
     "summary": "Au centre d’une séquence de la cérémonie d’ouverture réalisée par Thomas Jolly, la DJ Barbara Butch a annoncé ce lundi 29 juillet porter plainte pour cyberharcèlement. Elle dénonce des insultes et menaces.",
     "thumbnail": "thumbnails/1efayex.webp",
-    "tags": [
-      "DJ Barbara Butch",
-      "JO de Paris 2024",
-      "Thomas Jolly",
-      "Music & Audio",
-      "Jo-paris-2024"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:59:06.357613+00:00"
   },
   {
@@ -289,11 +254,7 @@
     "ingested_at": "2026-11-01T10:56:06.393232+00:00",
     "summary": "Dans la nuit du 28 au 29 juillet, des actes de vandalismes ont touché le réseau longue distance de fibre optique (backbone). Des techniciens œuvrent déjà sa réparation, mais plusieurs opérateurs sont touchés. Mise à jour : la plupart des incidents liés au sabotage de la fibre optique ont été résolus. Après les lignes",
     "thumbnail": "thumbnails/1eetove.webp",
-    "tags": [
-      "Twitter",
-      "Free",
-      "Humanoid"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:59:04.385350+00:00"
   },
   {
@@ -313,13 +274,7 @@
     "ingested_at": "2026-11-01T10:56:06.392161+00:00",
     "summary": "[VIDÉO] La cérémonie d’ouverture des Jeux olympiques de Paris a été suivie par plus de 23 millions de téléspectateurs. Un sondage réalisé par Harris confirme les réactions enthousiastes du public. Seules 5% des personnes interrogées estiment que le spectacle n'était \"pas du tout réussi\".",
     "thumbnail": "thumbnails/1eeg7yl.webp",
-    "tags": [
-      "Français",
-      "JO 2024",
-      "Paris",
-      "Seine",
-      "Jeux Olympiques"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:59:04.812439+00:00"
   },
   {
@@ -339,13 +294,7 @@
     "ingested_at": "2026-11-01T10:56:06.393863+00:00",
     "summary": "Le nageur Léon Marchand et la vététiste Pauline Ferrand-Prévôt ont apporté deux nouveaux titres olympiques à la délégation tricolore, dimanche.",
     "thumbnail": "thumbnails/1eeedlf.webp",
-    "tags": [
-      "Léon Marchand",
-      "Nages",
-      "Pauline Ferrand-Prévôt",
-      "FOOT",
-      "Jeux Olympiques"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:59:04.408390+00:00"
   },
   {
@@ -366,11 +315,8 @@
     "summary": "REPORTAGE - Le public du Stade Tour Eiffel a chahuté le Néerlandais de 29 ans, écroué en 2016 pour le viol d’une fille de 12 ans.",
     "thumbnail": "thumbnails/1ee7txf.webp",
     "tags": [
-      "Velde",
-      "JO Paris 2024",
-      "JO",
-      "Steven",
-      "Volley"
+      "Violences sexuelles",
+      "Justice"
     ],
     "analyzed_at": "2026-11-01T10:59:05.488262+00:00"
   },
@@ -391,11 +337,7 @@
     "ingested_at": "2026-11-01T10:56:06.395559+00:00",
     "summary": "",
     "thumbnail": "thumbnails/1ee7svn.webp",
-    "tags": [
-      "Pauline Ferrand-Prévôt",
-      "JO de Paris 2024",
-      "Jeux Olympiques"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:59:10.868451+00:00"
   },
   {
@@ -417,7 +359,7 @@
     "thumbnail": "thumbnails/1ee72nm.webp",
     "tags": [
       "Lucie Castets",
-      "Politique"
+      "Budget et fiscalité"
     ],
     "analyzed_at": "2026-11-01T10:59:04.839365+00:00"
   },
@@ -439,8 +381,7 @@
     "summary": "Des réservistes israéliens démobilisés après avoir combattu dans l’enclave palestinienne dénoncent l’absence quasi totale de règles d’engagement. Les soldats ti...",
     "thumbnail": "thumbnails/1ee6jvf.webp",
     "tags": [
-      "Gaza",
-      "Sikha Mekomit"
+      "Conflit israélo-palestinien"
     ],
     "analyzed_at": "2026-11-01T10:59:05.588235+00:00"
   },
@@ -462,11 +403,7 @@
     "summary": "«L'idée était de faire une grande fête païenne reliée aux dieux de l'Olympe», a ajouté le directeur artistique de la cérémonie d’ouverture des JO de Paris 2024, au sujet du tableau ressemblant à la Cène.",
     "thumbnail": "thumbnails/1ee3eju.webp",
     "tags": [
-      "Cène",
-      "JO",
-      "JO Paris 2024",
-      "Jean-Luc Mélenchon",
-      "Politique"
+      "Jean-Luc Mélenchon"
     ],
     "analyzed_at": "2026-11-01T10:59:06.264647+00:00"
   },
@@ -487,10 +424,7 @@
     "ingested_at": "2026-11-01T10:56:06.394337+00:00",
     "summary": "Les organisateurs restent par contre « confiants » sur la tenue des épreuves de triathlon mardi et mercredi",
     "thumbnail": "thumbnails/1ee0cr2.webp",
-    "tags": [
-      "Seine",
-      "Jeux Olympiques"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:59:05.732374+00:00"
   },
   {
@@ -510,13 +444,7 @@
     "ingested_at": "2026-11-01T10:56:06.393912+00:00",
     "summary": "",
     "thumbnail": "thumbnails/1edmndm.webp",
-    "tags": [
-      "JO 2024",
-      "Antoine Dupont",
-      "Bleus",
-      "VII",
-      "Jeux Olympiques"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:59:05.898456+00:00"
   },
   {
@@ -536,13 +464,7 @@
     "ingested_at": "2026-11-01T10:56:06.394884+00:00",
     "summary": "Si la presse internationale a majoritairement été dithyrambique à l’égard de la cérémonie d’ouverture des Jeux olympiques, la Hongrie et la",
     "thumbnail": "thumbnails/1edfnhn.webp",
-    "tags": [
-      "Russie et la Hongrie",
-      "JO Paris 2024",
-      "Jeux",
-      "Hongrie",
-      "Jeux Olympiques"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:59:05.954508+00:00"
   },
   {
@@ -562,13 +484,7 @@
     "ingested_at": "2026-11-01T10:56:06.392725+00:00",
     "summary": "Invité au micro de RMC ce samedi matin, le chef de la musique de la Garde Républicain Frédéric Foulquier est revenu sur le duo « improbable",
     "thumbnail": "thumbnails/1edf95n.webp",
-    "tags": [
-      "Garde Républicaine",
-      "Aya Nakamura",
-      "JO",
-      "RMC",
-      "Jeux Olympiques"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:59:06.235888+00:00"
   },
   {
@@ -588,13 +504,7 @@
     "ingested_at": "2026-11-01T10:56:06.392395+00:00",
     "summary": "La cérémonie d’ouverture de Paris 2024 a célébré la diversité et la modernité, à rebours du climat politique français. Une manière pour la France de se raconter telle qu’elle voudrait être vue, explique l’historienne Sandrine Lemaire.",
     "thumbnail": "thumbnails/1eddnhd.webp",
-    "tags": [
-      "JO",
-      "Paris 2024",
-      "Sandrine Lemaire",
-      "Paris",
-      "Jeux Olympiques"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:59:06.285655+00:00"
   },
   {
@@ -614,9 +524,7 @@
     "ingested_at": "2026-11-01T10:56:06.395194+00:00",
     "summary": "",
     "thumbnail": "thumbnails/1edcs3w.webp",
-    "tags": [
-      "Jeux Olympiques"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:59:06.678932+00:00"
   },
   {
@@ -636,10 +544,7 @@
     "ingested_at": "2026-11-01T10:56:06.392983+00:00",
     "summary": "",
     "thumbnail": "",
-    "tags": [
-      "Verrerie Duralex",
-      "Économie"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:59:11.698528+00:00"
   },
   {
@@ -660,7 +565,7 @@
     "summary": "",
     "thumbnail": "thumbnails/1ecl7dv.webp",
     "tags": [
-      "Gaza"
+      "Conflit israélo-palestinien"
     ],
     "analyzed_at": "2026-11-01T10:59:06.648649+00:00"
   },
@@ -682,7 +587,7 @@
     "summary": "",
     "thumbnail": "thumbnails/1eci04w.webp",
     "tags": [
-      "Anticor"
+      "Corruption"
     ],
     "analyzed_at": "2026-11-01T10:59:07.036655+00:00"
   },
@@ -704,11 +609,7 @@
     "summary": "",
     "thumbnail": "thumbnails/1echc69.webp",
     "tags": [
-      "Monde",
-      "SNCF",
-      "TGV",
-      "Ouest",
-      "Nord"
+      "Transports"
     ],
     "analyzed_at": "2026-11-01T10:59:07.040185+00:00"
   },
@@ -729,10 +630,7 @@
     "ingested_at": "2026-11-01T10:56:06.394607+00:00",
     "summary": "",
     "thumbnail": "thumbnails/1ebz5uz.webp",
-    "tags": [
-      "TNT",
-      "Pascal Praud"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:59:07.573849+00:00"
   },
   {
@@ -753,11 +651,8 @@
     "summary": "Julie Gahinet, collaboratrice parlementaire de Julien Odoul jusqu'au 7 juillet, est accusée d’avoir tenu des propos racistes au Rosa Bonheur sur Seine, à Paris, contre des clients d’origine marocaine…",
     "thumbnail": "thumbnails/1ebuju4.webp",
     "tags": [
-      "Français",
-      "RN Julien Odoul",
-      "Julie Gahinet",
-      "Julien Odoul",
-      "Rosa Bonheur"
+      "Racisme",
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T10:59:07.667229+00:00"
   },
@@ -779,11 +674,7 @@
     "summary": "L’association allemande «Terres des Femmes» a publié un sondage dans lequel les personnes interrogées expriment leur inquiétude sur le port du voile islamique chez les filles de moins de 14 ans.",
     "thumbnail": "thumbnails/1ebt49x.webp",
     "tags": [
-      "International",
-      "Actualité internationale",
-      "Affaires étrangères",
-      "Ministère des affaires étrangères",
-      "Politique étrangère"
+      "Éducation"
     ],
     "analyzed_at": "2026-11-01T10:59:07.787532+00:00"
   },
@@ -805,11 +696,7 @@
     "summary": "Scène surréaliste la semaine dernière où le député Giletti (RN) a demandé à sa collègue Le Meur (EPR) de lui masser le sexe pour obtenir sa voix lors de l’élection des secrétaires de l’Assemblée.",
     "thumbnail": "thumbnails/1ebry0e.webp",
     "tags": [
-      "RN",
-      "EPR",
-      "Giletti",
-      "Assemblée",
-      "Meur"
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T10:59:10.174293+00:00"
   },
@@ -830,10 +717,7 @@
     "ingested_at": "2026-11-01T10:56:06.394811+00:00",
     "summary": "",
     "thumbnail": "thumbnails/1ebr1h2.webp",
-    "tags": [
-      "Oxfam",
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:59:07.421343+00:00"
   },
   {
@@ -854,11 +738,7 @@
     "summary": "La femme a été abattue à son domicile car les policiers craignaient, selon eux, d'être aspergés avec de l'eau qui bouillait dans une casserole. L'un des agents a été inculpé pour meurtre.",
     "thumbnail": "thumbnails/1ebappx.webp",
     "tags": [
-      "Sonya Massey",
-      "Etats-Unis",
-      "Léon XIV",
-      "Etats Unis d'Amérique",
-      "Fait Divers"
+      "Police"
     ],
     "analyzed_at": "2026-11-01T10:59:07.887381+00:00"
   },
@@ -879,11 +759,7 @@
     "ingested_at": "2026-11-01T10:56:06.395725+00:00",
     "summary": "Grégoire Morano, fils de la femme politique Nadine Morano, a été retrouvé mort à son domicile situé à Nancy mardi 23 juillet 2024. Il était âgé de 33 ans.",
     "thumbnail": "thumbnails/1eaxtem.webp",
-    "tags": [
-      "Nadine Morano",
-      "Grégoire Morano",
-      "Nancy"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:59:07.960528+00:00"
   },
   {
@@ -904,8 +780,7 @@
     "summary": "",
     "thumbnail": "thumbnails/1eawuee.webp",
     "tags": [
-      "C8 et NRJ 12",
-      "Ouest-France TV et Réels TV"
+      "Médias"
     ],
     "analyzed_at": "2026-11-01T10:59:09.025251+00:00"
   },
@@ -928,10 +803,8 @@
     "thumbnail": "thumbnails/1eauomt.webp",
     "tags": [
       "Emmanuel Macron",
-      "Matignon",
       "Lucie Castets",
-      "Nouvelle Assemblée",
-      "NFP"
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T10:59:08.191051+00:00"
   },
@@ -953,11 +826,8 @@
     "summary": "De nombreuses personnalités politiques de gauche se sont indignées de l'interview accordée par le président de la République, au cours de laquelle il a rejeté la candidature surprise de Lucie Castets avancée par le NFP pour Matignon.",
     "thumbnail": "thumbnails/1eau8u2.webp",
     "tags": [
-      "Matignon",
       "Lucie Castets",
-      "Macron",
-      "République",
-      "Politique"
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T10:59:08.467773+00:00"
   },
@@ -979,11 +849,7 @@
     "summary": "C'était la première prise de parole du président depuis les élections législatives anticipées. Emmanuel Macron s'est exprimé mardi sur la situation politique du pays, ce qui a suscité de vives réactions.",
     "thumbnail": "thumbnails/1eaky7x.webp",
     "tags": [
-      "Emmanuel Macron",
-      "Français",
-      "France 2",
-      "Assemblée",
-      "Politique"
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T10:59:08.510737+00:00"
   },
@@ -1006,10 +872,7 @@
     "thumbnail": "thumbnails/1eaf3q6.webp",
     "tags": [
       "Emmanuel Macron",
-      "NFP",
-      "Lucie Castets",
-      "Matignon",
-      "Politique"
+      "Lucie Castets"
     ],
     "analyzed_at": "2026-11-01T10:59:08.470881+00:00"
   },
@@ -1031,11 +894,7 @@
     "summary": "Les partis du Nouveau Front populaire se sont enfin accordés sur une candidature unique pour Matignon : Lucie Castets, présidente du collectif Nos Services Publics ...",
     "thumbnail": "thumbnails/1ead0na.webp",
     "tags": [
-      "Lucie Castets",
-      "Nouveau Front",
-      "Première",
-      "Matignon",
-      "Politique"
+      "Lucie Castets"
     ],
     "analyzed_at": "2026-11-01T10:59:08.901950+00:00"
   },
@@ -1056,10 +915,7 @@
     "ingested_at": "2026-11-01T10:56:06.392293+00:00",
     "summary": "Mediapart a pu lire les conclusions du rapport d’enquête de l’Office français de la biodiversité, rendu au procureur de la République d’Épinal dans le cadre de l’enquête préliminaire visant le groupe…",
     "thumbnail": "thumbnails/1eaa27b.webp",
-    "tags": [
-      "Office",
-      "République Épinal"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:59:09.705928+00:00"
   },
   {
@@ -1080,8 +936,8 @@
     "summary": "",
     "thumbnail": "thumbnails/1ea99dq.webp",
     "tags": [
-      "BRAV-M",
-      "Paris"
+      "Justice",
+      "Manifestations"
     ],
     "analyzed_at": "2026-11-01T10:59:08.866325+00:00"
   },
@@ -1102,12 +958,7 @@
     "ingested_at": "2026-11-01T10:56:06.392345+00:00",
     "summary": "",
     "thumbnail": "thumbnails/1ea2unc.webp",
-    "tags": [
-      "JO 2024",
-      "Snoop Dogg",
-      "Saint-Denis",
-      "Sport"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:59:08.728850+00:00"
   },
   {
@@ -1128,9 +979,7 @@
     "summary": "Samedi 20 juillet vers 5 heures du matin, une touriste australienne a dénoncé un viol survenu un peu plus tôt dans la nuit à Paris. Elle a é",
     "thumbnail": "thumbnails/1ea02j5.webp",
     "tags": [
-      "Clichy",
-      "Paris",
-      "Fait Divers"
+      "Violences sexuelles"
     ],
     "analyzed_at": "2026-11-01T10:59:09.400609+00:00"
   },
@@ -1152,11 +1001,7 @@
     "summary": "Le député de Seine-Saint-Denis juge que les athlètes israéliens « ne sont pas les bienvenus à Paris » et appelle à ce qu’ils concourent sous bannière neutre.",
     "thumbnail": "thumbnails/1e9k9a7.webp",
     "tags": [
-      "Thomas Portes",
-      "LFI",
-      "Paris",
-      "JO de Paris 2024",
-      "Politique"
+      "Conflit israélo-palestinien"
     ],
     "analyzed_at": "2026-11-01T10:59:09.164253+00:00"
   },
@@ -1177,13 +1022,7 @@
     "ingested_at": "2026-11-01T10:56:06.395799+00:00",
     "summary": "La diplomate et économiste «de gauche et écologiste» explique sa décision par «les oppositions au sein du NFP» qui contreviennent à «l’apaisement dont nous avons tant besoin».",
     "thumbnail": "thumbnails/1e99eso.webp",
-    "tags": [
-      "Laurence Tubiana",
-      "Matignon",
-      "Nouveau Front",
-      "Premier ministre",
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:59:10.195083+00:00"
   },
   {
@@ -1204,11 +1043,7 @@
     "summary": "Proposer aux utilisateurs de payer pour ne pas être traqué pour de la publicité est-il légal ? Pour la Commission européenne, la réponse est non. Le groupe Meta va devoir effectuer des changements pour éviter une lourde amende liée au DMA. Comme toutes les grandes entreprises de la tech, Meta (Facebook, Instagram,",
     "thumbnail": "thumbnails/1e8vrb3.webp",
     "tags": [
-      "Facebook et Instagram",
-      "Union",
-      "Meta",
-      "DMA",
-      "Société"
+      "Union européenne"
     ],
     "analyzed_at": "2026-11-01T10:59:09.792101+00:00"
   },
@@ -1231,7 +1066,7 @@
     "thumbnail": "thumbnails/1e8s6go.webp",
     "tags": [
       "Joe Biden",
-      "Politique"
+      "Élection présidentielle"
     ],
     "analyzed_at": "2026-11-01T10:59:10.259912+00:00"
   },
@@ -1253,11 +1088,7 @@
     "summary": "Ce plan de \"bataille culturelle\" ambitionne de promouvoir des valeurs culturelles de droite en finançant des cercles de réflexion qui visent à influencer le cadrage médiatique. Il passe aussi par un soutien à des personnalités politiques acquises à sa cause, RN en tête.",
     "thumbnail": "thumbnails/1e8rlb7.webp",
     "tags": [
-      "Pierre-Edouard Stérin",
-      "RN",
-      "Périclès",
-      "Rassemblement national",
-      "Société"
+      "Élections"
     ],
     "analyzed_at": "2026-11-01T10:59:09.759754+00:00"
   },
@@ -1279,11 +1110,7 @@
     "summary": "Le député de la Somme regrette le manque d’entente au sein du NFP pour le poste de premier ministre. «On n'est pas foutus de donner un nom pour Matignon», peste-t-il dans une vidéo publiée sur X.",
     "thumbnail": "thumbnails/1e8kkpi.webp",
     "tags": [
-      "François Ruffin",
-      "NFP",
-      "Matignon",
-      "Somme",
-      "Politique"
+      "François Ruffin"
     ],
     "analyzed_at": "2026-11-01T10:59:12.015884+00:00"
   },
@@ -1305,11 +1132,7 @@
     "summary": "Il s’agit d’une publicité pour la réédition de baskets portées lors des Jeux de Munich de 1972, marqués par l’attentat contre onze athlètes israéliens.",
     "thumbnail": "thumbnails/1e8599u.webp",
     "tags": [
-      "Bella Hadid",
-      "Israël",
-      "Gaza",
-      "Jeux de Munich de 1972",
-      "Politique"
+      "Conflit israélo-palestinien"
     ],
     "analyzed_at": "2026-11-01T10:59:10.154852+00:00"
   },
@@ -1331,37 +1154,9 @@
     "summary": "CHRONIQUES ITALIENNES. Entre séquences télévisées caviardées, propositions délirantes et arrangements crapuleux, l’Italie de Meloni ressemble de plus en plus à un spectacle dystopique, note l’essayiste Raffaele Simone.",
     "thumbnail": "thumbnails/1e7x432.webp",
     "tags": [
-      "Italie de Meloni",
-      "Meloni",
-      "CHRONIQUES ITALIENNES",
-      "Raffaele Simone",
-      "RAI"
+      "Giorgia Meloni"
     ],
     "analyzed_at": "2026-11-01T10:59:10.257090+00:00"
-  },
-  {
-    "id": "1e7ozsb",
-    "title": "A furry hacktivist group has breached Disney, leaked 1.1TiB of data, and says it's because Club Penguin shut down",
-    "url": "https://www.pcgamer.com/software/security/a-furry-hacktivist-group-has-breached-disney-leaked-11tib-of-data-and-says-its-because-club-penguin-shut-down/",
-    "permalink": "/r/france/comments/1e7ozsb/a_furry_hacktivist_group_has_breached_disney/",
-    "created_at": "2024-07-20T06:16:11+00:00",
-    "score": 434,
-    "num_comments": 57,
-    "subreddit": "france",
-    "author": "fugoli",
-    "flair": "Actus",
-    "domain": "pcgamer.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/doeRYajlIJh0dIHLoNk4W_UTX4X6q66tlCpbfe-hqXI.jpeg?auto=webp&s=7ec0ddb1088b68a815718fcee1a75d3ad9870abf",
-    "ingested_at": "2026-11-01T10:56:06.393031+00:00",
-    "summary": "We were promised flying cars, but welcome to the real future.",
-    "thumbnail": "thumbnails/1e7ozsb.webp",
-    "tags": [
-      "Disney",
-      "Club Penguin",
-      "Nullbulge"
-    ],
-    "analyzed_at": "2026-11-01T10:59:15.126312+00:00"
   },
   {
     "id": "1e7ox7z",
@@ -1380,9 +1175,7 @@
     "ingested_at": "2026-11-01T10:56:06.392623+00:00",
     "summary": "Dans le cadre de l’enquête judiciaire visant Nestlé sur les traitements interdits des eaux minérales naturelles, de nouvelles investigations révèlent que la multinationale trompe les consommateurs de…",
     "thumbnail": "thumbnails/1e7ox7z.webp",
-    "tags": [
-      "Nestlé"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:59:11.321746+00:00"
   },
   {
@@ -1402,13 +1195,7 @@
     "ingested_at": "2026-11-01T10:56:06.393768+00:00",
     "summary": "À la suite d’une story publiée sur Instagram début juillet, la chanteuse a mystérieusement vu son titre « la Symphonie des éclairs » dispara",
     "thumbnail": "thumbnails/1e7f43w.webp",
-    "tags": [
-      "RFM",
-      "Cyril Hanouna",
-      "Sagazan",
-      "Europe 2",
-      "Instagram"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:59:10.652659+00:00"
   },
   {
@@ -1428,11 +1215,7 @@
     "ingested_at": "2026-11-01T10:56:06.393351+00:00",
     "summary": "Selon le classement annuel du magazine \"Challenges\", les dix premières fortunes accaparent même 693 milliards d'euros.",
     "thumbnail": "thumbnails/1e7clr4.webp",
-    "tags": [
-      "Tour de France",
-      "Éco / Conso",
-      "Économie"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:59:10.842976+00:00"
   },
   {
@@ -1453,8 +1236,8 @@
     "summary": "",
     "thumbnail": "thumbnails/1e78klv.webp",
     "tags": [
-      "Cour",
-      "Israël"
+      "Conflit israélo-palestinien",
+      "Justice"
     ],
     "analyzed_at": "2026-11-01T10:59:10.635382+00:00"
   },
@@ -1476,35 +1259,9 @@
     "summary": "",
     "thumbnail": "thumbnails/1e778cz.webp",
     "tags": [
-      "Politique"
+      "Élections"
     ],
     "analyzed_at": "2026-11-01T10:59:11.049961+00:00"
-  },
-  {
-    "id": "1e70pr5",
-    "title": "Rude awakening for thousands of Paris tourists arriving for Olympics",
-    "url": "https://www.sfgate.com/olympics/article/paris-olympics-security-perimeter-causes-chaos-19581623.php",
-    "permalink": "/r/france/comments/1e70pr5/rude_awakening_for_thousands_of_paris_tourists/",
-    "created_at": "2024-07-19T10:44:09+00:00",
-    "score": 399,
-    "num_comments": 204,
-    "subreddit": "france",
-    "author": "nonchalantlarch",
-    "flair": "Actus",
-    "domain": "sfgate.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/KvkeLkxiww_o1-KeXLrqFtyMbkeucJThteY4OB1VV2M.jpeg?auto=webp&s=65890eb9b60c609bdb873b2c3b5a4d299219ebdd",
-    "ingested_at": "2026-11-01T10:56:06.393279+00:00",
-    "summary": "The first day of the Paris Olympics security perimeter led to almost immediate chaos.",
-    "thumbnail": "thumbnails/1e70pr5.webp",
-    "tags": [
-      "Paris",
-      "Seine River",
-      "Disneyland",
-      "Apple",
-      "Olympics"
-    ],
-    "analyzed_at": "2026-11-01T10:59:11.756947+00:00"
   },
   {
     "id": "1e6xdzb",
@@ -1525,10 +1282,7 @@
     "thumbnail": "thumbnails/1e6xdzb.webp",
     "tags": [
       "Yaël Braun-Pivet",
-      "Gabriel Attal",
-      "LR",
-      "Assemblée",
-      "Politique"
+      "Gabriel Attal"
     ],
     "analyzed_at": "2026-11-01T10:59:12.145735+00:00"
   },
@@ -1550,11 +1304,7 @@
     "summary": "Une dizaine de jours après leur élection, les députés se réunissaient ce jeudi 18 juillet pour élire le président de l'Assemblée nationale.",
     "thumbnail": "thumbnails/1e6imyf.webp",
     "tags": [
-      "Assemblée",
-      "Yaël Braun Pivet",
-      "Assemblée nationale",
-      "Politique",
-      "Fil info"
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T10:59:11.462087+00:00"
   },
@@ -1575,33 +1325,8 @@
     "ingested_at": "2026-11-01T10:56:06.392750+00:00",
     "summary": "",
     "thumbnail": "thumbnails/1e69olt.webp",
-    "tags": [
-      "Français"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:59:11.369869+00:00"
-  },
-  {
-    "id": "1e68a65",
-    "title": "La délinquance des mineurs diminue dans la société française",
-    "url": "https://www.observationsociete.fr/articlesanscateg/la-delinquance-des-mineurs-diminue-dans-la-societe-francaise/",
-    "permalink": "/r/france/comments/1e68a65/la_délinquance_des_mineurs_diminue_dans_la/",
-    "created_at": "2024-07-18T10:40:11+00:00",
-    "score": 299,
-    "num_comments": 140,
-    "subreddit": "france",
-    "author": "eberkut",
-    "flair": "Société",
-    "domain": "observationsociete.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/xlgKTM_AmYO0FI-60x4GyfryomoYGL8fqEjxDiLYxvE.jpg?auto=webp&s=03fb17fafb066f9bf642b67db4f0501f614ce1a8",
-    "ingested_at": "2026-11-01T10:56:06.394762+00:00",
-    "summary": "La délinquance des mineurs ne cesse de diminuer en France depuis plus de dix ans en France, selon les données du ministère de l’Intérieur sur les auteurs",
-    "thumbnail": "thumbnails/1e68a65.webp",
-    "tags": [
-      "Intérieur",
-      "Société"
-    ],
-    "analyzed_at": "2026-11-01T10:59:12.086782+00:00"
   },
   {
     "id": "1e66emj",
@@ -1621,8 +1346,7 @@
     "summary": "",
     "thumbnail": "",
     "tags": [
-      "Messi",
-      "Sport"
+      "Racisme"
     ],
     "analyzed_at": "2026-11-01T10:59:11.602220+00:00"
   },
@@ -1644,11 +1368,9 @@
     "summary": "Le président du Rassemblement national n'a pas voté en faveur de la résolution adoptée par le Parlement européen ce mercredi 17 juillet et qui appelle l'UE à renforcer son soutien à Kiev.",
     "thumbnail": "thumbnails/1e5qpzu.webp",
     "tags": [
+      "Guerre en Ukraine",
       "Jordan Bardella",
-      "Parlement",
-      "Ukraine",
-      "Rassemblement",
-      "Politique"
+      "Union européenne"
     ],
     "analyzed_at": "2026-11-01T10:59:11.708400+00:00"
   },
@@ -1670,9 +1392,8 @@
     "summary": "Le trentenaire, qui possédait son permis de chasse depuis une quinzaine d’années, avait tué, le 24 février dernier, une femelle pygargue dans le massif de l'Oisans, à la frontière du parc national des Écrins.",
     "thumbnail": "thumbnails/1e5plg2.webp",
     "tags": [
-      "Isère",
-      "Oisans",
-      "Écrins"
+      "Cause animale",
+      "Justice"
     ],
     "analyzed_at": "2026-11-01T10:59:12.676050+00:00"
   },
@@ -1693,13 +1414,7 @@
     "ingested_at": "2026-11-01T10:56:06.392903+00:00",
     "summary": "Face aux propriétaires de Cybertruck, le véhicule tout-terrain de Tesla, les internautes utilisent la Citroën C15 pour s'en moquer dans une étrange bataille sur les réseaux sociaux.",
     "thumbnail": "thumbnails/1e5opjt.webp",
-    "tags": [
-      "Citroën C15",
-      "Twitter",
-      "Cybertruck de Tesla",
-      "Cybertruck",
-      "Humour"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:59:12.103230+00:00"
   },
   {
@@ -1720,8 +1435,7 @@
     "summary": "À une dizaine de jours du coup d’envoi, des danseurs de la cérémonie d’ouverture des JO de Paris 2024 ont déposé un préavis de grève pour dénoncer l’iniquité des traitements de salaires.",
     "thumbnail": "thumbnails/1e5ok5h.webp",
     "tags": [
-      "JO de Paris 2024",
-      "Seine"
+      "Grèves et syndicats"
     ],
     "analyzed_at": "2026-11-01T10:59:13.817117+00:00"
   },
@@ -1743,10 +1457,7 @@
     "summary": "",
     "thumbnail": "thumbnails/1e5mc82.webp",
     "tags": [
-      "Nouveau Front",
-      "André Chassaigne",
-      "Assemblée",
-      "Politique"
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T10:59:12.753210+00:00"
   },
@@ -1768,10 +1479,7 @@
     "summary": "Depuis cinq jours, Mimi Marchand, la papesse de la presse people, s’active pour bloquer la publication de photos sur lesquelles on voit le président du RN et l’animateur dîner dans la maison de vacan…",
     "thumbnail": "thumbnails/1e5ia5t.webp",
     "tags": [
-      "Saint-Tropez",
-      "Hanouna",
-      "Mimi Marchand",
-      "RN"
+      "Jordan Bardella"
     ],
     "analyzed_at": "2026-11-01T10:59:13.012420+00:00"
   },
@@ -1793,10 +1501,7 @@
     "summary": "Mort en 2007, le religieux est visé par une enquête publiée par les associations qu'il a fondées, dont Emmaüs France. D'autres témoignages pourraient suivre.",
     "thumbnail": "thumbnails/1e5hjxr.webp",
     "tags": [
-      "Abbé Pierre",
-      "Pierre",
-      "Emmaüs France",
-      "Société"
+      "Violences sexuelles"
     ],
     "analyzed_at": "2026-11-01T10:59:13.917425+00:00"
   },
@@ -1818,11 +1523,8 @@
     "summary": "Revivez l’actualité liée à la guerre en Ukraine du mercredi 17 juillet sur ladepeche.fr.",
     "thumbnail": "thumbnails/1e5e2hz.webp",
     "tags": [
-      "Ukraine",
-      "Jordan Bardella",
-      "Pascal Canfin",
-      "Telegram",
-      "Politique"
+      "Guerre en Ukraine",
+      "Jordan Bardella"
     ],
     "analyzed_at": "2026-11-01T10:59:13.125665+00:00"
   },
@@ -1845,10 +1547,7 @@
     "thumbnail": "thumbnails/1e5dmhr.webp",
     "tags": [
       "Marine Tondelier",
-      "VIDEO",
-      "France 2",
-      "Ecologistes-EELV",
-      "Politique"
+      "Élections"
     ],
     "analyzed_at": "2026-11-01T10:59:12.492998+00:00"
   },
@@ -1870,10 +1569,7 @@
     "summary": "La maire de Paris a finalement tenu sa promesse ce mercredi matin en se baignant dans la Seine, aux côtés de Tony Estanguet et du préfet d’Î",
     "thumbnail": "thumbnails/1e5cvzz.webp",
     "tags": [
-      "Seine",
-      "Anne Hidalgo",
-      "Paris",
-      "Tony Estanguet"
+      "Anne Hidalgo"
     ],
     "analyzed_at": "2026-11-01T10:59:12.982026+00:00"
   },
@@ -1895,11 +1591,9 @@
     "summary": "AussitÃ´t installÃ©s dans leur rÃ©sidence CROUS de Paris, certains agents de police ont eu quelques surprisesÂ : moisissures, crottes de souris, cafards. Les syndicats jugent ces conditions de logement inacceptables. Une rÃ©alitÃ© pourtant dÃ©noncÃ©e par les Ã©tudiants boursiers depuis des annÃ©es.",
     "thumbnail": "thumbnails/1e4zfad.webp",
     "tags": [
-      "CROUS",
-      "CROUS de Paris",
-      "SociÃ©tÃ©",
-      "Associations â ONG",
-      "Société"
+      "Police",
+      "Logement",
+      "Éducation"
     ],
     "analyzed_at": "2026-11-01T10:59:13.867717+00:00"
   },
@@ -1941,11 +1635,7 @@
     "summary": "Ces résultats tranchent avec la précédente étude, dévoilée au printemps, qui pointait un état \"alarmant\" des eaux de la Seine.",
     "thumbnail": "thumbnails/1e4ibns.webp",
     "tags": [
-      "Seine",
-      "ONG",
-      "Surfrider Foundation",
-      "Sports",
-      "Écologie"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T10:59:13.273190+00:00"
   },
@@ -1967,9 +1657,7 @@
     "summary": "",
     "thumbnail": "thumbnails/1e4go7v.webp",
     "tags": [
-      "IGPN",
-      "Bagnolet",
-      "Société"
+      "Police"
     ],
     "analyzed_at": "2026-11-01T10:59:13.969376+00:00"
   },
@@ -1992,10 +1680,7 @@
     "thumbnail": "thumbnails/1e3ruq8.webp",
     "tags": [
       "Donald Trump",
-      "Etats-Unis",
-      "Maison Blanche",
-      "Etats Unis d'Amérique",
-      "Politique"
+      "Élection présidentielle"
     ],
     "analyzed_at": "2026-11-01T10:59:13.725037+00:00"
   },
@@ -2017,9 +1702,9 @@
     "summary": "Idriss, un Soudanais installé en Bretagne depuis 2016, développe des serres et une activité de maraîchage aux côtés de personnes migrantes. Début juillet, dans le contexte des élections législatives,…",
     "thumbnail": "thumbnails/1e3nvk5.webp",
     "tags": [
-      "Lannion",
-      "Soudanais",
-      "Bretagne"
+      "Immigration",
+      "Agriculture",
+      "Racisme"
     ],
     "analyzed_at": "2026-11-01T10:59:14.186987+00:00"
   },
@@ -2040,13 +1725,7 @@
     "ingested_at": "2026-11-01T10:56:06.395295+00:00",
     "summary": "Comme chaque soir, le JT du 23h info fait un tour de l'actualité diffusée par les chaînes européennes de télévision. C'est l'Eurozapping du vendredi 12 juillet.",
     "thumbnail": "thumbnails/1e39qtc.webp",
-    "tags": [
-      "Bernard Arnault",
-      "Espagne",
-      "JT",
-      "Eurozapping",
-      "Économie"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:59:13.860681+00:00"
   },
   {
@@ -2067,11 +1746,8 @@
     "summary": "",
     "thumbnail": "thumbnails/1e353wy.webp",
     "tags": [
-      "Législatives",
-      "RN",
-      "Perchoir",
       "Yaël Braun-Pivet",
-      "Politique"
+      "Élections"
     ],
     "analyzed_at": "2026-11-01T10:59:14.348169+00:00"
   },
@@ -2093,11 +1769,7 @@
     "summary": "\"Je ne vais pas laisser un tireur ou assassin m'imposer un changement de calendrier\", a déclaré l'ex-président américain sur son réseau social Truth Social. Ce direct est désormais terminé.",
     "thumbnail": "thumbnails/1e2vwz4.webp",
     "tags": [
-      "Donald Trump",
-      "FBI",
-      "Truth Social",
-      "Secret Service",
-      "Politique"
+      "Donald Trump"
     ],
     "analyzed_at": "2026-11-01T10:59:14.333362+00:00"
   },
@@ -2119,9 +1791,7 @@
     "summary": "",
     "thumbnail": "thumbnails/1e2n49h.webp",
     "tags": [
-      "Donald Trump",
-      "Pennsylvanie",
-      "Politique"
+      "Donald Trump"
     ],
     "analyzed_at": "2026-11-01T10:59:14.311779+00:00"
   },
@@ -2143,7 +1813,8 @@
     "summary": "",
     "thumbnail": "thumbnails/1e2il1s.webp",
     "tags": [
-      "Charline Vanhoenacker"
+      "Extrême droite",
+      "Médias"
     ],
     "analyzed_at": "2026-11-01T10:59:14.257986+00:00"
   },
@@ -2164,7 +1835,9 @@
     "ingested_at": "2026-11-01T10:56:06.394559+00:00",
     "summary": "",
     "thumbnail": "thumbnails/1e2cyty.webp",
-    "tags": [],
+    "tags": [
+      "Institutions"
+    ],
     "analyzed_at": "2026-11-01T10:59:14.968666+00:00"
   },
   {
@@ -2185,11 +1858,8 @@
     "summary": "« La France dispose d’un bouquet énergétique et électrique parmi les plus décarbonés de l’UE », se justifie Paris dans son Plan national int",
     "thumbnail": "thumbnails/1e284j2.webp",
     "tags": [
-      "Union",
-      "UE",
-      "Paris",
-      "Commission",
-      "Écologie"
+      "Union européenne",
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T10:59:14.513317+00:00"
   },
@@ -2211,10 +1881,8 @@
     "summary": "\"Avoir des minima sociaux et des salaires qui soient au moins au seuil de pauvreté, c'est la moindre des choses\", défend le porte-parole de l'association sur franceinfo.",
     "thumbnail": "thumbnails/1e27jke.webp",
     "tags": [
-      "Fondation Abbé Pierre",
-      "Manuel Domergue",
-      "Société",
-      "Politique"
+      "Pauvreté",
+      "Travail"
     ],
     "analyzed_at": "2026-11-01T10:59:14.578319+00:00"
   },
@@ -2235,9 +1903,7 @@
     "ingested_at": "2026-11-01T10:56:06.392134+00:00",
     "summary": "",
     "thumbnail": "thumbnails/1e26f5v.webp",
-    "tags": [
-      "JO"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:59:14.583928+00:00"
   },
   {
@@ -2258,11 +1924,7 @@
     "summary": "Alors que cette semaine l’armée israélienne a lancé une nouvelle opération d’envergure sur la ville de Gaza, dix experts indépendants des Nations unies ont accusé Israël de « mener une campagne de famine…",
     "thumbnail": "thumbnails/1e262ux.webp",
     "tags": [
-      "Gaza",
-      "Israël",
-      "ONU",
-      "Nations",
-      "Guerre Israël-Gaza"
+      "Conflit israélo-palestinien"
     ],
     "analyzed_at": "2026-11-01T10:59:14.741567+00:00"
   },
@@ -2284,11 +1946,7 @@
     "summary": "Ce samedi matin, BFMTV a relayé en direct les images de la ministre des Sports barbotant dans la Seine au pied de l’Assemblée nationale, accompagnée du triathlète Alexis Hanquinquant. Suscitant des railleries du côté de la mairie de Paris.",
     "thumbnail": "thumbnails/1e2584s.webp",
     "tags": [
-      "Seine",
-      "Amélie Oudéa-Castéra",
-      "Sports",
-      "Paris",
-      "Politique"
+      "Amélie Oudéa-Castéra"
     ],
     "analyzed_at": "2026-11-01T10:59:15.823051+00:00"
   },
@@ -2309,9 +1967,7 @@
     "ingested_at": "2026-11-01T10:56:06.395244+00:00",
     "summary": "",
     "thumbnail": "thumbnails/1e1j6th.webp",
-    "tags": [
-      "Monde"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:59:15.161055+00:00"
   },
   {
@@ -2332,11 +1988,7 @@
     "summary": "Un jeune homme, blessé lors d’une manifestation qui s’est tenue à Lille le 7 juillet après les résultats des élections législatives, a dépos",
     "thumbnail": "thumbnails/1e1dy8g.webp",
     "tags": [
-      "IGPN",
-      "LFI",
-      "Lille",
-      "Lille le 7",
-      "Parisien"
+      "Police"
     ],
     "analyzed_at": "2026-11-01T10:59:14.941995+00:00"
   },
@@ -2357,10 +2009,7 @@
     "ingested_at": "2026-11-01T10:56:06.395466+00:00",
     "summary": "",
     "thumbnail": "thumbnails/1e1dql1.webp",
-    "tags": [
-      "BFM TV",
-      "Sauver Sarko"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:59:15.109714+00:00"
   },
   {
@@ -2381,11 +2030,9 @@
     "summary": "La cheffe de file des députés du groupe s'est exprimée après les propos du secrétaire général du RN à l'Assemblée qui a assuré que le parti \"ne censurera[it] pas\" un gouvernement de gauche si celui-ci propose \"des mesures consensuelles\".",
     "thumbnail": "thumbnails/1e1bu76.webp",
     "tags": [
-      "RN",
-      "LFI",
-      "Marine le Pen",
-      "Ecologistes",
-      "Politique"
+      "Environnement",
+      "Marine Le Pen",
+      "Élections"
     ],
     "analyzed_at": "2026-11-01T10:59:15.209410+00:00"
   },
@@ -2406,7 +2053,9 @@
     "ingested_at": "2026-11-01T10:56:06.393936+00:00",
     "summary": "",
     "thumbnail": "thumbnails/1e0y8et.webp",
-    "tags": [],
+    "tags": [
+      "Éducation"
+    ],
     "analyzed_at": "2026-11-01T10:59:15.366137+00:00"
   },
   {
@@ -2426,13 +2075,7 @@
     "ingested_at": "2026-11-01T10:56:06.395654+00:00",
     "summary": "Dans la nuit du 3 juillet 2024, Ã Montpellier, Simon a Ã©tÃ© frappÃ© et menacÃ© de mort pour avoir dÃ©posÃ© des tracts du Nouveau Front populaire sur des voitures. Apprenant quâil militait pour la gauche, la police aurait refusÃ© dâintervenir.",
     "thumbnail": "thumbnails/1e0r3i8.webp",
-    "tags": [
-      "Nouveau Front",
-      "Ã Montpellier",
-      "Â Â",
-      "Simon",
-      "RN"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:59:15.269373+00:00"
   },
   {
@@ -2453,11 +2096,7 @@
     "summary": "Selon un sondage Ifop exclusif pour Politis, une majorité de la population voudrait engager un processus constituant.",
     "thumbnail": "thumbnails/1e0qnsf.webp",
     "tags": [
-      "Français",
-      "Constitution",
-      "Ifop",
-      "République",
-      "Politique"
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T10:59:15.257737+00:00"
   },
@@ -2480,10 +2119,7 @@
     "thumbnail": "thumbnails/1e0mvxc.webp",
     "tags": [
       "Mathilde Panot",
-      "Banque de France",
-      "Éco / Conso",
-      "Nouveau Front populaire",
-      "Économie"
+      "Travail"
     ],
     "analyzed_at": "2026-11-01T10:59:15.387518+00:00"
   },
@@ -2504,11 +2140,7 @@
     "ingested_at": "2026-11-01T10:56:06.395078+00:00",
     "summary": "",
     "thumbnail": "thumbnails/1e0khcp.webp",
-    "tags": [
-      "Monde",
-      "Adèle Van Reeth",
-      "France Inter"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:59:15.667769+00:00"
   },
   {
@@ -2529,7 +2161,8 @@
     "summary": "",
     "thumbnail": "thumbnails/1e0k74y.webp",
     "tags": [
-      "Sophie Binet de la CGT"
+      "Grèves et syndicats",
+      "Élections"
     ],
     "analyzed_at": "2026-11-01T10:59:15.690733+00:00"
   },
@@ -2551,8 +2184,7 @@
     "summary": "",
     "thumbnail": "thumbnails/1e0i7q9.webp",
     "tags": [
-      "Donald Trump",
-      "Cour"
+      "Donald Trump"
     ],
     "analyzed_at": "2026-11-01T10:59:15.752103+00:00"
   },
@@ -2574,11 +2206,8 @@
     "summary": "La députée écologiste de Paris préférerait que le Nouveau Front populaire trouve des « majorités à l’Assemblée » plutôt que d’utiliser le co",
     "thumbnail": "thumbnails/1e05kc9.webp",
     "tags": [
-      "Assemblée",
       "Sandrine Rousseau",
-      "Paris",
-      "Nouveau Front",
-      "Politique"
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T10:59:15.807188+00:00"
   },
@@ -2600,11 +2229,7 @@
     "summary": "Le chef de l'État est sorti de son silence mercredi pour adresser un courrier via la presse régionale et France Bleu, trois jours après les élections législatives. Une lettre qui a provoqué la colère à gauche.",
     "thumbnail": "thumbnails/1e03fq0.webp",
     "tags": [
-      "Emmanuel Macron",
-      "Français",
-      "État",
-      "France Bleu",
-      "Politique"
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T10:59:15.824397+00:00"
   },
@@ -2626,10 +2251,8 @@
     "summary": "Trois jours après les élections législatives anticipées, le président de la République rompt le silence dans une lettre aux Français que nou",
     "thumbnail": "thumbnails/1dzxnv4.webp",
     "tags": [
-      "Français",
       "Emmanuel Macron",
-      "République",
-      "Politique"
+      "Élections"
     ],
     "analyzed_at": "2026-11-01T10:59:15.792412+00:00"
   },
@@ -2651,11 +2274,9 @@
     "summary": "L'ex-Premier ministre a reconnu mardi avoir dîné avec la triple candidate à l'Elysée. Dîner avec la cheffe de file de l'extrême droite \"veut dire peu ou prou qu'on peut imaginer qu'il y ait des rapprochements\", a regretté le président du MoDem.",
     "thumbnail": "thumbnails/1dzt80b.webp",
     "tags": [
-      "Edouard Philippe",
-      "Marine le Pen",
+      "Édouard Philippe",
       "François Bayrou",
-      "Elysée",
-      "Politique"
+      "Marine Le Pen"
     ],
     "analyzed_at": "2026-11-01T10:59:15.900135+00:00"
   },
@@ -2677,8 +2298,6 @@
     "summary": "Des messages obtenus par des juges d’instruction montrent l’incroyable mobilisation de responsables et figures de la chaîne d’information en soutien de Nicolas Sarkozy au moment de la fausse rétract…",
     "thumbnail": "thumbnails/1dzrppp.webp",
     "tags": [
-      "BFM",
-      "Sarkozy",
       "Nicolas Sarkozy"
     ],
     "analyzed_at": "2026-11-01T10:59:17.123881+00:00"
@@ -2701,9 +2320,7 @@
     "summary": "Des propos non contrebalancés lors d’un débat consacré au projet de loi immigration font notamment l’objet de ces sanctions.",
     "thumbnail": "thumbnails/1dzp4go.webp",
     "tags": [
-      "TNT",
-      "CNews",
-      "Télévision"
+      "Médias"
     ],
     "analyzed_at": "2026-11-01T10:59:16.241918+00:00"
   },
@@ -2724,11 +2341,7 @@
     "ingested_at": "2026-11-01T10:56:06.395514+00:00",
     "summary": "L’animateur avait déclaré mi-juin qu’il quitterait le pays si la France Insoumise arrivait au pouvoir",
     "thumbnail": "thumbnails/1dze2su.webp",
-    "tags": [
-      "Cyril Hanouna",
-      "France Insoumise",
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:59:16.306408+00:00"
   },
   {
@@ -2749,8 +2362,7 @@
     "summary": "",
     "thumbnail": "thumbnails/1dz7iah.webp",
     "tags": [
-      "Kémi Seba",
-      "Société"
+      "Justice"
     ],
     "analyzed_at": "2026-11-01T10:59:16.139296+00:00"
   },
@@ -2772,11 +2384,9 @@
     "summary": "L'ex-présidente de l'Assemblée nationale redoute qu'un gouvernement mené par le NFP puisse s'imposer \"à coups de 49.3\". Cet article de la Constitution a pourtant largement été utilisé par le gouvernement d'Élisabeth Borne -issu à l'époque d'une majorité relative obtenue par la coalition...",
     "thumbnail": "thumbnails/1dz52m7.webp",
     "tags": [
-      "NFP",
-      "Parlement",
       "Yaël Braun-Pivet",
-      "Assemblée",
-      "Politique"
+      "Institutions",
+      "Élisabeth Borne"
     ],
     "analyzed_at": "2026-11-01T10:59:16.137801+00:00"
   },
@@ -2798,10 +2408,7 @@
     "summary": "",
     "thumbnail": "thumbnails/1dyyx4f.webp",
     "tags": [
-      "Monde",
-      "C8",
-      "Arcom",
-      "Cyril Hanouna"
+      "Médias"
     ],
     "analyzed_at": "2026-11-01T10:59:16.209906+00:00"
   },
@@ -2823,9 +2430,7 @@
     "summary": "TÉMOIGNAGES - Qu’ils aient voté pour LR ou pour le RN, les électeurs de droite ont été stupéfaits par les résultats du second tour des législatives. Ils partagent leur inquiétude, et même, pour certains, leur désir de quitter le pays.",
     "thumbnail": "thumbnails/1dyy1ex.webp",
     "tags": [
-      "Élections législatives",
-      "RN",
-      "LR"
+      "Élections"
     ],
     "analyzed_at": "2026-11-01T10:59:17.193114+00:00"
   },
@@ -2847,36 +2452,10 @@
     "summary": "",
     "thumbnail": "thumbnails/1dyczrb.webp",
     "tags": [
-      "Kyiv",
-      "Russes"
+      "Guerre en Ukraine",
+      "Santé"
     ],
     "analyzed_at": "2026-11-01T10:59:16.598139+00:00"
-  },
-  {
-    "id": "1dyc0lx",
-    "title": "Le coming out de la fille du président Biya bouscule l'homophobie d'État au Cameroun",
-    "url": "https://tetu.com/2024/07/03/afrique-homosexualite-coming-out-fille-president-cameroun-paul-biya-brenda-lesbienne/",
-    "permalink": "/r/france/comments/1dyc0lx/le_coming_out_de_la_fille_du_président_biya/",
-    "created_at": "2024-07-08T15:40:02+00:00",
-    "score": 626,
-    "num_comments": 120,
-    "subreddit": "france",
-    "author": "[deleted]",
-    "flair": "Société",
-    "domain": "tetu.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/jn-G64N-srEjwMsKc4VbVCU42DS6h7zTjE0qVP2rCyQ.jpeg?auto=webp&s=40e320ba471e9aff0326253b1c759129e5a57932",
-    "ingested_at": "2026-11-01T10:56:06.392455+00:00",
-    "summary": "Brenda Biya, fille du président camerounais, a fait un coming out très remarqué, l'homosexualité étant criminalisée dans ce pays d'Afrique centrale.",
-    "thumbnail": "thumbnails/1dyc0lx.webp",
-    "tags": [
-      "Cameroun",
-      "Afrique",
-      "Biya",
-      "État",
-      "Société"
-    ],
-    "analyzed_at": "2026-11-01T10:59:17.029119+00:00"
   },
   {
     "id": "1dy7jrg",
@@ -2896,11 +2475,7 @@
     "summary": "Depuis hier, le régulateur de l’audiovisuel auditionne les 24 candidats aux 15 fréquences TNT. Ce mardi, les projecteurs sont braqués sur C8, l’une des chaînes de Bolloré maintes fois sanctionnée pour les dérives et provocations de Cyril Hanouna.",
     "thumbnail": "thumbnails/1dy7jrg.webp",
     "tags": [
-      "C8",
-      "TNT",
-      "Bolloré",
-      "Cyril Hanouna",
-      "Société"
+      "Médias"
     ],
     "analyzed_at": "2026-11-01T10:59:16.583970+00:00"
   },
@@ -2922,10 +2497,7 @@
     "summary": "",
     "thumbnail": "thumbnails/1dy55ql.webp",
     "tags": [
-      "Fréquences TNT",
-      "Arcom",
-      "CNews",
-      "Société"
+      "Médias"
     ],
     "analyzed_at": "2026-11-01T10:59:17.120173+00:00"
   },
@@ -2947,11 +2519,9 @@
     "summary": "Finalement, les Ã©lus RN au Parlement europÃ©en siÃ¨geront dans le nouveau groupe dâextrÃªme-droite formÃ© par le premier ministre hongrois, les Â« Patriotes pour lâEurope Â». Le RN nâavait pas voulu lâannoncer avant le second tour, de peur de relancer le soupÃ§on de sympathies pro-russes.",
     "thumbnail": "thumbnails/1dy2qa3.webp",
     "tags": [
-      "RN",
-      "Viktor Orban",
-      "Parlement",
-      "Vladimir Poutine",
-      "Politique"
+      "Viktor Orbán",
+      "Extrême droite",
+      "Vladimir Poutine"
     ],
     "analyzed_at": "2026-11-01T10:59:16.580856+00:00"
   },
@@ -2973,33 +2543,9 @@
     "summary": "",
     "thumbnail": "thumbnails/1dxv1ds.webp",
     "tags": [
-      "Ensemble",
-      "RN",
-      "Elections"
+      "Élections"
     ],
     "analyzed_at": "2026-11-01T10:59:16.666652+00:00"
-  },
-  {
-    "id": "1dxhpue",
-    "title": "« Enquête d'action », « Appels d'urgence »… Ces émissions où la police fait la loi",
-    "url": "https://larevuedesmedias.ina.fr/enquete-daction-appels-durgence-ces-emissions-ou-la-police-fait-la-loi",
-    "permalink": "/r/france/comments/1dxhpue/enquête_daction_appels_durgence_ces_émissions_où/",
-    "created_at": "2024-07-07T14:25:13+00:00",
-    "score": 226,
-    "num_comments": 39,
-    "subreddit": "france",
-    "author": "Alarming-Estimate-19",
-    "flair": "Société",
-    "domain": "larevuedesmedias.ina.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/0jPswWAaoj02GmWe-GLM45IgTF6KzIR-2pZccjaPy80.jpg?auto=webp&s=065b725bed63b5687a9e5fcd5c4c904dd5995046",
-    "ingested_at": "2026-11-01T10:56:06.395824+00:00",
-    "summary": "Visionnés par la police avant diffusion, les programmes en immersion avec les forces de l’ordre continuent à captiver le public. Objets médiatiques clés dans la représentation de l’institution policière, ils nourrissent le fantasme d’une insécurité galopante et passent les bavures sous silence.",
-    "thumbnail": "thumbnails/1dxhpue.webp",
-    "tags": [
-      "Société"
-    ],
-    "analyzed_at": "2026-11-01T10:59:18.432207+00:00"
   },
   {
     "id": "1dxc68d",
@@ -3018,10 +2564,7 @@
     "ingested_at": "2026-11-01T10:56:06.395920+00:00",
     "summary": "",
     "thumbnail": "thumbnails/1dxc68d.webp",
-    "tags": [
-      "Auvergne",
-      "Économie"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:59:17.134809+00:00"
   },
   {
@@ -3043,10 +2586,7 @@
     "thumbnail": "thumbnails/1dwwmky.webp",
     "tags": [
       "Joe Biden",
-      "ABC",
-      "Donald Trump",
-      "Biden",
-      "Société"
+      "Donald Trump"
     ],
     "analyzed_at": "2026-11-01T10:59:17.193512+00:00"
   },
@@ -3068,9 +2608,8 @@
     "summary": "Ce projet «était mort et enterré avant même de commencer. Il n'a jamais été dissuasif», a assuré le nouveau premier ministre britannique.",
     "thumbnail": "thumbnails/1dwpwbb.webp",
     "tags": [
-      "Rwanda",
       "Keir Starmer",
-      "Royaume-Uni"
+      "Immigration"
     ],
     "analyzed_at": "2026-11-01T10:59:17.841662+00:00"
   },
@@ -3092,11 +2631,7 @@
     "summary": "À Nantes, le CHU a dépensé 185.000 euros pour renouveler son identité visuelle. La CGT de l'hôpital a dénoncé cette dépense dans un contexte de difficultés financières pour le secteur de la santé publique alors que la direction de l'hôpital a acté dans le même temps la fermeture de 100 lits. Les...",
     "thumbnail": "thumbnails/1dw23ft.webp",
     "tags": [
-      "CHU de Nantes",
-      "GG",
-      "CGT",
-      "CHU",
-      "Économie"
+      "Grèves et syndicats"
     ],
     "analyzed_at": "2026-11-01T10:59:17.643162+00:00"
   },
@@ -3118,10 +2653,8 @@
     "summary": "",
     "thumbnail": "thumbnails/1dvutm5.webp",
     "tags": [
-      "Nouveau Front Populaire",
-      "Plutôt Hitler",
-      "Front",
-      "Elections"
+      "Élections",
+      "Médias"
     ],
     "analyzed_at": "2026-11-01T10:59:17.525944+00:00"
   },
@@ -3143,11 +2676,8 @@
     "summary": "“MA VIE AU POSTE” – Tandis que les immigrés multiplient les agressions au couteau dans nos rues et nos campagnes, la “politicaillerie” des désistements va voler au peuple sa victoire électorale. Sur CNews, ça fait longtemps que le RN a gagné.",
     "thumbnail": "thumbnails/1dvthvt.webp",
     "tags": [
-      "RN",
-      "VIE",
-      "POSTE",
-      "CNews",
-      "Elections"
+      "Élections",
+      "Médias"
     ],
     "analyzed_at": "2026-11-01T10:59:17.685677+00:00"
   },
@@ -3169,11 +2699,7 @@
     "summary": "En définissant les contours historiques et politiques de l’« extrême gauche », on comprend que le Nouveau Front populaire ne fait pas partie de ce courant politique.",
     "thumbnail": "thumbnails/1dvt3v8.webp",
     "tags": [
-      "Nouveau Front",
-      "NFP",
-      "La France insoumise (LFI)",
-      "Nouveau Front populaire (NFP)",
-      "Politique"
+      "Extrême gauche"
     ],
     "analyzed_at": "2026-11-01T10:59:17.883231+00:00"
   },
@@ -3194,39 +2720,8 @@
     "ingested_at": "2026-11-01T10:56:06.393695+00:00",
     "summary": "Pierre Hoffmann annonce avoir saisi la procureur de la République de Paris.",
     "thumbnail": "thumbnails/1dvrwin.webp",
-    "tags": [
-      "Paris",
-      "Pierre Hoffmann",
-      "République de Paris",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:59:17.552689+00:00"
-  },
-  {
-    "id": "1dvrqgv",
-    "title": "Législatives 2024: \"Bardella va s'occuper des gauchos, des gouines et des trans\", promet un électeur RN — Association STOP Homophobie",
-    "url": "https://www.stophomophobie.com/legislatives-2024-bardella-va-soccuper-des-gauchos-des-gouines-et-des-trans-promet-un-electeur-rn/",
-    "permalink": "/r/france/comments/1dvrqgv/législatives_2024_bardella_va_soccuper_des/",
-    "created_at": "2024-07-05T06:53:10+00:00",
-    "score": 389,
-    "num_comments": 129,
-    "subreddit": "france",
-    "author": "[deleted]",
-    "flair": "Fait Divers",
-    "domain": "stophomophobie.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/RP5eCe0wyh6i_qQeF0ml48ONzkt-mIsvM4HkeJbR-h8.jpeg?auto=webp&s=85accde5ac31d3bed6929b4d2c8027e508635e2e",
-    "ingested_at": "2026-11-01T10:56:06.393452+00:00",
-    "summary": "La Chapelle-Heulin, Jordan Bardella, Rassemblement National, homophobie, agression homophobe, Nouveau Front Populaire, LGBT,",
-    "thumbnail": "thumbnails/1dvrqgv.webp",
-    "tags": [
-      "RN",
-      "Chapelle-Heulin",
-      "Rassemblement National",
-      "Jordan Bardella",
-      "Fait Divers"
-    ],
-    "analyzed_at": "2026-11-01T10:59:17.565597+00:00"
   },
   {
     "id": "1dvbdca",
@@ -3246,10 +2741,7 @@
     "summary": "Dans un entretien à Mediapart, Fabien Vanhemelryck, secrétaire général du principal syndicat policier de France, qualifie d’« énorme connerie » l’appel à faire barrage contre le Rassemblement nationa…",
     "thumbnail": "thumbnails/1dvbdca.webp",
     "tags": [
-      "RN",
-      "Alliance Police",
-      "Fabien Vanhemelryck",
-      "Rassemblement"
+      "Police"
     ],
     "analyzed_at": "2026-11-01T10:59:18.681845+00:00"
   },
@@ -3271,9 +2763,7 @@
     "summary": "",
     "thumbnail": "thumbnails/1dv95wx.webp",
     "tags": [
-      "Afrique",
-      "Perpignan",
-      "Société"
+      "Racisme"
     ],
     "analyzed_at": "2026-11-01T10:59:18.202897+00:00"
   },
@@ -3295,39 +2785,9 @@
     "summary": "\"A envoyer dans un fossé ou dans un stade, ces avocats déclarent déjà ne pas respecter le verdict des urnes en cas de victoire du RN\", menace le sulfureux site Réseau libre.",
     "thumbnail": "thumbnails/1dv7d6j.webp",
     "tags": [
-      "Rassemblement",
-      "RN",
-      "Brésil",
-      "Rassemblement national",
-      "Société"
+      "Extrême droite"
     ],
     "analyzed_at": "2026-11-01T10:59:17.895445+00:00"
-  },
-  {
-    "id": "1dv5cyb",
-    "title": "Corrèze – Un candidat NFP accusé d’avoir un jour nommé Manuel Valls comme Premier ministre",
-    "url": "https://www.legorafi.fr/2024/07/03/un-candidat-nfp-accuse-davoir-un-jour-nomme-manuel-valls-comme-premier-ministre/",
-    "permalink": "/r/france/comments/1dv5cyb/corrèze_un_candidat_nfp_accusé_davoir_un_jour/",
-    "created_at": "2024-07-04T12:06:21+00:00",
-    "score": 571,
-    "num_comments": 27,
-    "subreddit": "france",
-    "author": "sitarane",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/Cp8iPu3pWlRYVXwX_YE18KjkzgE39xC7DOzdZn6haFU.png?auto=webp&s=e56a2c96ee9985e002fc08b5c4d67aad09e076b5",
-    "ingested_at": "2026-11-01T10:56:06.392573+00:00",
-    "summary": "Après les révélations sur les candidats RN, c’est au tour des candidats NFP d’être accrochés pour des faits passés. Ainsi, en Corrèze, le candidat NFP est accusé d’avoir nommé Manuel Valls comme Premier ministre. Reportage.",
-    "thumbnail": "thumbnails/1dv5cyb.webp",
-    "tags": [
-      "NFP",
-      "Manuel Valls",
-      "RN",
-      "Corrèze",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T10:59:17.911522+00:00"
   },
   {
     "id": "1dv0vmw",
@@ -3348,10 +2808,7 @@
     "thumbnail": "thumbnails/1dv0vmw.webp",
     "tags": [
       "François Ruffin",
-      "LFI",
-      "Jean-Luc Mélenchon",
-      "Assemblée",
-      "Politique"
+      "Jean-Luc Mélenchon"
     ],
     "analyzed_at": "2026-11-01T10:59:17.952331+00:00"
   },
@@ -3373,7 +2830,8 @@
     "summary": "Depuis le 9 juin, de multiples agressions racistes, verbales ou physiques, ont eu lieu dans toute la France. Plus d’une par jour, selon le décompte de Mediapart. Dans de très nombreux cas, les person…",
     "thumbnail": "thumbnails/1duzm24.webp",
     "tags": [
-      "RN"
+      "Racisme",
+      "Élections"
     ],
     "analyzed_at": "2026-11-01T10:59:18.869215+00:00"
   },
@@ -3395,11 +2853,9 @@
     "summary": "Laurent Gnaedig, candidat du Rassemblement national dans la 1ere circonscription du Haut-Rhin, estime que Jean-Marie Le Pen a fait un \"mauvais choix de mots\" en qualifiant les chambres à gaz de \"point de détail de l’histoire de la deuxième guerre mondiale\". Mais il n'y voit pas d'antisémitisme.",
     "thumbnail": "thumbnails/1dunlso.webp",
     "tags": [
-      "Jean-Marie le Pen",
-      "Laurent Gnaedig",
-      "RN Laurent Gnaedig",
-      "Rassemblement",
-      "Politique"
+      "Jean-Marie Le Pen",
+      "Antisémitisme",
+      "Élections"
     ],
     "analyzed_at": "2026-11-01T10:59:18.223033+00:00"
   },
@@ -3422,9 +2878,7 @@
     "thumbnail": "thumbnails/1duc7ob.webp",
     "tags": [
       "Jordan Bardella",
-      "Canard Enchaîné",
-      "Sorbonne",
-      "Politique"
+      "Éducation"
     ],
     "analyzed_at": "2026-11-01T10:59:18.139345+00:00"
   },
@@ -3446,11 +2900,10 @@
     "summary": "Une altercation aurait éclaté le 27 mai dernier après une conférence de soutien à Gaza menée par Rima Hassan pendant la campagne des européennes. La figure principale du mouvement au niveau national, Raphaël Arnault, fiché S, est candidat NFP dans le Vaucluse.",
     "thumbnail": "thumbnails/1duakjn.webp",
     "tags": [
-      "Paris",
       "Rima Hassan",
-      "Gaza",
-      "Raphaël Arnault",
-      "Trompeur ?"
+      "Justice",
+      "Antisémitisme",
+      "Conflit israélo-palestinien"
     ],
     "analyzed_at": "2026-11-01T10:59:18.431715+00:00"
   },
@@ -3472,11 +2925,11 @@
     "summary": "Si Joe Biden devait laisser sa place à un autre démocrate dans la course à la Maison Blanche, seule Michelle Obama serait en capacité de recueillir plus de voix que Donald Trump, selon une enquête de l'institut Ipsos publiée ce mardi 2 juillet",
     "thumbnail": "thumbnails/1dua0ff.webp",
     "tags": [
-      "Joe Biden",
       "Donald Trump",
-      "Michelle Obama",
-      "Maison Blanche",
-      "Ipsos"
+      "Joe Biden",
+      "Barack Obama",
+      "Élections",
+      "Élection présidentielle"
     ],
     "analyzed_at": "2026-11-01T10:59:18.203060+00:00"
   },
@@ -3498,11 +2951,10 @@
     "summary": "Le dauphin de Marine Le Pen a fait savoir qu’il souhaitait Jean-Luc Mélenchon comme adversaire, condition sine qua non à sa participation au débat d’entre-deux-tours. La rencontre n’aura finalement pas lieu : les candidats se succèderont à l’antenne.",
     "thumbnail": "thumbnails/1du9952.webp",
     "tags": [
-      "Jordan Bardella",
       "Marine Tondelier",
-      "BFMTV",
+      "Jordan Bardella",
       "Jean-Luc Mélenchon",
-      "Politique"
+      "Marine Le Pen"
     ],
     "analyzed_at": "2026-11-01T10:59:18.687554+00:00"
   },
@@ -3524,11 +2976,8 @@
     "summary": "Au cours d'un débat d'entre-deux tours organisé par la presse locale, le député RN de l'Yonne Daniel Grenon, candidat à sa réélection, a tenu des propos qualifiés de racistes par l'opposition. Les socialistes ont annoncé...",
     "thumbnail": "thumbnails/1du6ywb.webp",
     "tags": [
-      "RN",
-      "Maghrébins",
-      "Daniel Grenon",
-      "RN de Yonne Daniel Grenon",
-      "Politique"
+      "Racisme",
+      "Élections"
     ],
     "analyzed_at": "2026-11-01T10:59:18.765525+00:00"
   },
@@ -3549,40 +2998,8 @@
     "ingested_at": "2026-11-01T10:56:06.395007+00:00",
     "summary": "Une publication très médiatisée indiquait que les granules améliorent la qualité de vie des patients atteints de cancer. Une enquête officielle a pointé des manipulations de données.",
     "thumbnail": "thumbnails/1dtsxcl.webp",
-    "tags": [
-      "Pr Ernst",
-      "Sciences et Santé",
-      "Santé",
-      "Sciences",
-      "Science"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:59:18.993321+00:00"
-  },
-  {
-    "id": "1dtr0wd",
-    "title": "Mayenne. Les casseroles d'Annie Bell, candidate du RN en Mayenne : elle avait commis une prise d'otage armée en 1995",
-    "url": "https://www.lecourrierdelamayenne.fr/actualite-25752-mayenne-les-casseroles-d-annie-bell-candidate-du-rn-en-mayenne-elle-avait-commis-une-prise-d-otage-armee-en-1995",
-    "permalink": "/r/france/comments/1dtr0wd/mayenne_les_casseroles_dannie_bell_candidate_du/",
-    "created_at": "2024-07-02T17:07:36+00:00",
-    "score": 522,
-    "num_comments": 120,
-    "subreddit": "france",
-    "author": "StarLouZe",
-    "flair": "Elections",
-    "domain": "lecourrierdelamayenne.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/5aBPPdsA9cwE41IssTgLE_0PC207xPd_UdotOmqJLVY.jpeg?auto=webp&s=02168395a220e3b783afcd4489970ddbc886b28c",
-    "ingested_at": "2026-11-01T10:56:06.392674+00:00",
-    "summary": "Le 5 janvier 1995, Annie-Claire Jaccoud Bell avait commis une prise d'otage armée. Elle est aujourd'hui candidate RN de la 3e circonscription de la Mayenne et est opposée à Yannick Favennec (Horizons) au second tour des législatives.",
-    "thumbnail": "thumbnails/1dtr0wd.webp",
-    "tags": [
-      "RN",
-      "Mayenne",
-      "Annie Bell",
-      "Annie-Claire Jaccoud Bell",
-      "Elections"
-    ],
-    "analyzed_at": "2026-11-01T10:59:18.680585+00:00"
   },
   {
     "id": "1dtnc6j",
@@ -3602,11 +3019,7 @@
     "summary": "Alors que la compagnie se prépare à transporter athlètes et spectateurs pour les Jeux olympiques, beaucoup de trains ne sont pas encore remplis.",
     "thumbnail": "thumbnails/1dtnc6j.webp",
     "tags": [
-      "SNCF",
-      "TGV",
-      "Transport ferroviaire",
-      "Jeux",
-      "Société"
+      "Transports"
     ],
     "analyzed_at": "2026-11-01T10:59:19.876507+00:00"
   },
@@ -3628,7 +3041,8 @@
     "summary": "",
     "thumbnail": "thumbnails/1dtept7.webp",
     "tags": [
-      "Politique"
+      "Immigration",
+      "Racisme"
     ],
     "analyzed_at": "2026-11-01T10:59:19.105107+00:00"
   },
@@ -3650,10 +3064,7 @@
     "summary": "",
     "thumbnail": "thumbnails/1dsxq5h.webp",
     "tags": [
-      "USA",
-      "Cour Suprême",
-      "Trump",
-      "Politique"
+      "Donald Trump"
     ],
     "analyzed_at": "2026-11-01T10:59:19.291865+00:00"
   },
@@ -3675,10 +3086,7 @@
     "summary": "Un candidat aux publications antisémites à plus de 30 % en Meurthe-en-Moselle, une nostalgique de Franco en tête dans les Pyrénées-Atlantiques : même les pires des pires des aspirants députés du RN o…",
     "thumbnail": "thumbnails/1dsosql.webp",
     "tags": [
-      "RN",
-      "Meurthe-en-Moselle",
-      "Franco",
-      "Pyrénées-Atlantiques"
+      "Racisme"
     ],
     "analyzed_at": "2026-11-01T10:59:19.724449+00:00"
   }

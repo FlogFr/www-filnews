@@ -1,76 +1,5 @@
 [
   {
-    "id": "8uzzk4",
-    "title": "On peut aider A Silent Voice à sortir dans les salles.",
-    "url": "https://www.kisskissbankbank.com/fr/projects/ce-magnifique-anime-merite-le-cinema",
-    "permalink": "/r/france/comments/8uzzk4/on_peut_aider_a_silent_voice_à_sortir_dans_les/",
-    "created_at": "2018-06-30T06:23:30+00:00",
-    "score": 90,
-    "num_comments": 13,
-    "subreddit": "france",
-    "author": "leyk973",
-    "flair": "Culture",
-    "domain": "kisskissbankbank.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/dPWsCve7sv_vdORhI4jfNeGABgebMjf0iZa4MB3mLc0.jpeg?auto=webp&s=654210b1c2f8769c5cdaf0acc80af1829489a8e5",
-    "ingested_at": "2026-10-31T15:10:01.458114+00:00",
-    "summary": "Donnons à ce chef d’œuvre de l’animation japonaise la visibilité qu'il mérite dans les salles de cinéma françaises !",
-    "thumbnail": "thumbnails/8uzzk4.webp",
-    "tags": [
-      "Silent Voice",
-      "Culture"
-    ],
-    "analyzed_at": "2026-11-01T09:44:36.635603+00:00"
-  },
-  {
-    "id": "8uyh6g",
-    "title": "French Football player Kylian Mbappé will donate everything he earns with the French NT to charity. He believes players don't really need money to play for the National Team.",
-    "url": "http://www.culturepsg.com/news/selections/mbappe-le-bleu-genereux/21992",
-    "permalink": "/r/france/comments/8uyh6g/french_football_player_kylian_mbappé_will_donate/",
-    "created_at": "2018-06-30T01:38:27+00:00",
-    "score": 508,
-    "num_comments": 111,
-    "subreddit": "france",
-    "author": "RedditTipiak",
-    "flair": "",
-    "domain": "culturepsg.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/MmB9YZhxefZqRWLv_ECTrdk5e9aKV4r2GRU6S1wwLEY.jpeg?auto=webp&s=764cd1f4c51fb59384c8625717ccea6b55c46437",
-    "ingested_at": "2026-10-31T15:10:01.456671+00:00",
-    "summary": "Selon L'Équipe, Kylian Mbappé a décidé de reverser l'intégralité de son éventuelle prime de parcours en Coupe du Monde avec les Bleus à l'association Premiers de cordées, dont il est le parrain.",
-    "thumbnail": "thumbnails/8uyh6g.webp",
-    "tags": [
-      "Kylian Mbappé",
-      "French Football",
-      "French NT",
-      "National Team",
-      "Coupe du Monde"
-    ],
-    "analyzed_at": "2026-11-01T09:44:35.420932+00:00"
-  },
-  {
-    "id": "8urt42",
-    "title": "Et les architectes oublièrent que la pluie tombe du ciel.",
-    "url": "https://www.netji.fr/2018/06/27/et-les-architectes-oublierent-que-la-pluie-tombe-du-ciel/",
-    "permalink": "/r/france/comments/8urt42/et_les_architectes_oublièrent_que_la_pluie_tombe/",
-    "created_at": "2018-06-29T09:28:55+00:00",
-    "score": 429,
-    "num_comments": 141,
-    "subreddit": "france",
-    "author": "dClauzel",
-    "flair": "Technos",
-    "domain": "netji.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/1Uq2DoWYbnhD5qjxDxmenClXL9XHpWdEMJZvC56ML3w.jpg?auto=webp&s=b60e8b40ccbb5dcc2a6a5b5cbdd8ab2e2e40d45f",
-    "ingested_at": "2026-10-31T15:10:01.456756+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/8urt42.webp",
-    "tags": [
-      "Technos"
-    ],
-    "analyzed_at": "2026-11-01T09:44:35.938791+00:00"
-  },
-  {
     "id": "8up97i",
     "title": "Trump avait demandé Macron de quitter l'UE et lui a offert un « meilleur » accord commercial",
     "url": "https://www.washingtonpost.com/amphtml/opinions/global-opinions/trump-is-trying-to-destabilize-the-european-union/2018/06/28/729cb066-7b10-11e8-aeee-4d04c8ac6158_story.html",
@@ -88,9 +17,9 @@
     "summary": "",
     "thumbnail": "thumbnails/8up97i.webp",
     "tags": [
-      "Macron",
-      "UE",
-      "Politique"
+      "Emmanuel Macron",
+      "Union européenne",
+      "Donald Trump"
     ],
     "analyzed_at": "2026-11-01T09:44:51.529389+00:00"
   },
@@ -112,8 +41,8 @@
     "summary": "",
     "thumbnail": "thumbnails/8uilgq.webp",
     "tags": [
-      "Lafarge",
-      "Société"
+      "Justice",
+      "Terrorisme"
     ],
     "analyzed_at": "2026-11-01T09:44:35.948659+00:00"
   },
@@ -134,13 +63,7 @@
     "ingested_at": "2026-10-31T15:10:01.457211+00:00",
     "summary": "MALAISE - L'ONU a approuvé ce vendredi une résolution condamnant l'utilisation de la peine de mort de manière discriminatoire, punissant \"l'apostasie, le blasphème, l'adultère et les relations entre personnes du même sexe\".",
     "thumbnail": "thumbnails/8ugynb.webp",
-    "tags": [
-      "Etats-Unis",
-      "ONU",
-      "États",
-      "LGBT",
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:44:36.535935+00:00"
   },
   {
@@ -161,35 +84,9 @@
     "summary": "Le chef de l'État a rencontré François lors d'une longue entrevue, terminée par une chaleureuse embrassade.",
     "thumbnail": "thumbnails/8ugrn1.webp",
     "tags": [
-      "Vatican",
-      "François",
-      "Emmanuel Macron",
-      "Pape François",
-      "État"
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T09:44:37.069153+00:00"
-  },
-  {
-    "id": "8ugmdr",
-    "title": "Dassault Mirage 2000N",
-    "url": "https://wx4.sinaimg.cn/large/5f6ff8c9ly1fsodi2tulyj20xc0m80w3.jpg",
-    "permalink": "/r/france/comments/8ugmdr/dassault_mirage_2000n/",
-    "created_at": "2018-06-28T05:30:11+00:00",
-    "score": 527,
-    "num_comments": 106,
-    "subreddit": "france",
-    "author": "[deleted]",
-    "flair": "",
-    "domain": "wx4.sinaimg.cn",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/t-IsZu5pY-FT7uD2WL4lGyBsHBt64L1t5gQl3icMIks.jpg?auto=webp&s=4433356d70a740a5599a56bb641109358f2faf9c",
-    "ingested_at": "2026-10-31T15:10:01.456653+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/8ugmdr.webp",
-    "tags": [
-      "Dassault Mirage"
-    ],
-    "analyzed_at": "2026-11-01T09:44:37.550495+00:00"
   },
   {
     "id": "8uclee",
@@ -209,8 +106,7 @@
     "summary": "L’aide sociale et les minima sociaux coûtent environ 70 milliards d’euros par an aux finances publiques, soit 3 % du produit intérieur brut (PIB). Ces prestati…",
     "thumbnail": "thumbnails/8uclee.webp",
     "tags": [
-      "PIB",
-      "Société"
+      "Économie"
     ],
     "analyzed_at": "2026-11-01T09:44:36.387863+00:00"
   },
@@ -231,11 +127,7 @@
     "ingested_at": "2026-10-31T15:10:01.456715+00:00",
     "summary": "",
     "thumbnail": "thumbnails/8uas3j.webp",
-    "tags": [
-      "Corée du Sud",
-      "Mondial",
-      "Sport"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:44:37.766441+00:00"
   },
   {
@@ -256,34 +148,9 @@
     "summary": "À la demande de l’Élysée, la filière viticole s’apprête à rendre public un plan de prévention contre l’abus d’alcool. Problème : la conseillère de Macron sur le sujet est l’ancienne lobbyiste de cett…",
     "thumbnail": "thumbnails/8u7sxi.webp",
     "tags": [
-      "Élysée",
-      "Macron"
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T09:44:37.349358+00:00"
-  },
-  {
-    "id": "8u75ns",
-    "title": "Filmer l’armée israélienne, un délit bientôt passible de 10 ans de prison ? | Reporters sans frontières",
-    "url": "https://rsf.org/fr/actualites/filmer-larmee-israelienne-un-delit-bientot-passible-de-10-ans-de-prison",
-    "permalink": "/r/france/comments/8u75ns/filmer_larmée_israélienne_un_délit_bientôt/",
-    "created_at": "2018-06-27T05:54:45+00:00",
-    "score": 224,
-    "num_comments": 70,
-    "subreddit": "france",
-    "author": "charlu",
-    "flair": "",
-    "domain": "rsf.org",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/6BUO5FKVK6rZtfPCRQabB6tTpGR20rSdWuEqhgPM5v8.jpeg?auto=webp&s=7e932d04578ef0e077a478dd2642d6c64dd748cc",
-    "ingested_at": "2026-10-31T15:10:01.457060+00:00",
-    "summary": "Le parlement israélien a commencé à examiner un amendement qui vise à criminaliser le fait de filmer, enregistrer ou diffuser des contenus sur des soldats israéliens en service. Reporters sans frontières dénonce un projet contraire au droit d’informer et appelle la Knesset à rejeter cet amendement.",
-    "thumbnail": "thumbnails/8u75ns.webp",
-    "tags": [
-      "Israël",
-      "Knesset",
-      "B'Tselem"
-    ],
-    "analyzed_at": "2026-11-01T09:44:37.420081+00:00"
   },
   {
     "id": "8tyjeh",
@@ -302,11 +169,7 @@
     "ingested_at": "2026-10-31T15:10:01.457408+00:00",
     "summary": "Une pétition a été lancée pour réclamer un pictogramme représentant le Gwenn Ha Du...",
     "thumbnail": "thumbnails/8tyjeh.webp",
-    "tags": [
-      "Bretons",
-      "Gwenn Ha",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:44:37.768343+00:00"
   },
   {
@@ -327,135 +190,9 @@
     "summary": "Est-ce que les gestes Ã©cologiques individuels suffisent pour enrayer la destruction de la planÃ¨te ? \"Certainement pas\", Ã©crivait l'Ã©crivain amÃ©ricain Derrick Jensen dans un texte provocateur en 2009. Faut-il alors baisser les bras ? \"Non plus\" rÃ©pond l'Ã©cologiste Cyril Dion. Explications.",
     "thumbnail": "thumbnails/8txrq4.webp",
     "tags": [
-      "Cyril Dion",
-      "Derrick Jensen",
-      "Environnement",
-      "Climat",
-      "Science"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T09:44:38.707432+00:00"
-  },
-  {
-    "id": "8torvh",
-    "title": "Privatisation des barrages français: un acte de haute trahison",
-    "url": "https://blogs.mediapart.fr/bertrand-rouzies/blog/160618/privatisation-des-barrages-francais-un-acte-de-haute-trahison",
-    "permalink": "/r/france/comments/8torvh/privatisation_des_barrages_français_un_acte_de/",
-    "created_at": "2018-06-25T08:02:45+00:00",
-    "score": 174,
-    "num_comments": 153,
-    "subreddit": "france",
-    "author": "[deleted]",
-    "flair": "Société",
-    "domain": "blogs.mediapart.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/E9v4aykTf15Nxl3sTy2PgrNvcuLCet3OpczTC4-MmtA.png?auto=webp&s=e588be799eaa638cb6571c9d7f429ae67f9028ee",
-    "ingested_at": "2026-10-31T15:10:01.457514+00:00",
-    "summary": "Le gouvernement Philippe, naufrageur de l’intérêt général, a capitulé sans combattre devant une vieille exigence de la Commission européenne. La France, en pleine phase de transition vers un nouveau …",
-    "thumbnail": "thumbnails/8torvh.webp",
-    "tags": [
-      "Philippe",
-      "EDF",
-      "Société"
-    ],
-    "analyzed_at": "2026-11-01T09:44:38.809229+00:00"
-  },
-  {
-    "id": "8toowj",
-    "title": "Peertube financé à 112%, l'alternative libre à YouTube",
-    "url": "https://www.kisskissbankbank.com/fr/projects/peertube-a-free-and-federated-video-platform/wall#100-vous-venez-de-donner-un-avenir-a-peertube-mais-lequel",
-    "permalink": "/r/france/comments/8toowj/peertube_financé_à_112_lalternative_libre_à/",
-    "created_at": "2018-06-25T07:45:07+00:00",
-    "score": 110,
-    "num_comments": 90,
-    "subreddit": "france",
-    "author": "cybers0ssisse",
-    "flair": "Technos",
-    "domain": "kisskissbankbank.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/HaiN5EBlnilurL4AHFqPE0XiZYAgq2DY0omCibALQuU.jpeg?auto=webp&s=263cd1c7092685a5722b6aa52e890a69386ab825",
-    "ingested_at": "2026-10-31T15:10:01.457987+00:00",
-    "summary": "Reprenez le contrôle de vos vidéos ! Aidez-nous à concrétiser une fédération d'hébergements vidéos, basée sur du logiciel libre.",
-    "thumbnail": "thumbnails/8toowj.webp",
-    "tags": [
-      "YouTube",
-      "Technos"
-    ],
-    "analyzed_at": "2026-11-01T09:44:38.535634+00:00"
-  },
-  {
-    "id": "8thivx",
-    "title": "8 Français sur 10 pensent que la politique sociale de Macron ne protège pas les plus faibles",
-    "url": "https://www.sudradio.fr/politique/8-francais-sur-10-pensent-que-la-politique-sociale-de-macron-ne-protege-pas-les-plus",
-    "permalink": "/r/france/comments/8thivx/8_français_sur_10_pensent_que_la_politique/",
-    "created_at": "2018-06-24T12:35:40+00:00",
-    "score": 186,
-    "num_comments": 131,
-    "subreddit": "france",
-    "author": "Nohan07",
-    "flair": "Société",
-    "domain": "sudradio.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/9nLRQB7cgNrCy_dLfV1tT1Zf8xeQ56Ped-QysFaOqL4.jpeg?auto=webp&s=e2ef2f668e722fad0fd6b771beac133cbf2b826f",
-    "ingested_at": "2026-10-31T15:10:01.457344+00:00",
-    "summary": "81 % des Français considèrent que la politique sociale d'Emmanuel Macron et du gouvernement ne protège pas les plus faibles, selon notre balise d'opinion Ifop-Fiducial pour CNews et Sud Radio.",
-    "thumbnail": "thumbnails/8thivx.webp",
-    "tags": [
-      "Français",
-      "Macron",
-      "Emmanuel Macron",
-      "Ifop-Fiducial",
-      "Société"
-    ],
-    "analyzed_at": "2026-11-01T09:44:38.111120+00:00"
-  },
-  {
-    "id": "8tgg6d",
-    "title": "Québec: Bonne fête nationale !",
-    "url": "https://fr.wikipedia.org/wiki/F%C3%AAte_nationale_du_Qu%C3%A9bec",
-    "permalink": "/r/france/comments/8tgg6d/québec_bonne_fête_nationale/",
-    "created_at": "2018-06-24T08:08:14+00:00",
-    "score": 271,
-    "num_comments": 64,
-    "subreddit": "france",
-    "author": "wisi_eu",
-    "flair": "Actus",
-    "domain": "fr.wikipedia.org",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/vgxOe8u0f4-Gyk57wzo8fK941NR2_q5zAnUntJ1wtSY.png?auto=webp&s=45e9772f1aec486e3ac3c07cfd2e364258b8006a",
-    "ingested_at": "2026-10-31T15:10:01.456953+00:00",
-    "summary": "La Fête nationale du Québec , encore communément appelée la fête de Saint-Jean-Baptiste , la Saint-Jean-Baptiste ou la Saint-Jean , est la fête nationale des Québécois . Elle est célébrée le 24 juin . À l’origine, cette date était celle de la fête religieuse célébrant la naissance de Jean le Baptiste .",
-    "thumbnail": "thumbnails/8tgg6d.webp",
-    "tags": [
-      "Saint-Jean-Baptiste",
-      "Saint-Jean",
-      "Canadiens",
-      "Québec",
-      "Nouvelle-France"
-    ],
-    "analyzed_at": "2026-11-01T09:44:42.292898+00:00"
-  },
-  {
-    "id": "8tdyn2",
-    "title": "La compil’ des meilleures blagues de Jamy",
-    "url": "https://streamable.com/oi27h",
-    "permalink": "/r/france/comments/8tdyn2/la_compil_des_meilleures_blagues_de_jamy/",
-    "created_at": "2018-06-23T23:52:26+00:00",
-    "score": 502,
-    "num_comments": 62,
-    "subreddit": "france",
-    "author": "Kyro38",
-    "flair": "Humour",
-    "domain": "streamable.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/fBWakT4-JK1DF05JWHx3fk9WWOVbJWP6xXhDffO2Q9Q.jpg?auto=webp&s=582ee789120277bf771dadc66aac5f14f219c118",
-    "ingested_at": "2026-10-31T15:10:01.456693+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/8tdyn2.webp",
-    "tags": [
-      "Jamy",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:44:38.934294+00:00"
   },
   {
     "id": "8t9jc7",
@@ -474,7 +211,10 @@
     "ingested_at": "2026-10-31T15:10:01.457637+00:00",
     "summary": "",
     "thumbnail": "thumbnails/8t9jc7.webp",
-    "tags": [],
+    "tags": [
+      "Violences sexuelles",
+      "Éducation"
+    ],
     "analyzed_at": "2026-11-01T09:44:39.210649+00:00"
   },
   {
@@ -494,57 +234,8 @@
     "ingested_at": "2026-10-31T15:10:01.456932+00:00",
     "summary": "L'émission emblématique de Canal + a été diffusée pour la dernière fois, ce vendredi soir, après près de trente ans à l'antenne de la chaîne cryptée.",
     "thumbnail": "thumbnails/8t7jgs.webp",
-    "tags": [
-      "Guignols",
-      "Canal",
-      "Les Guignols de l'info"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:44:39.077185+00:00"
-  },
-  {
-    "id": "8t34hy",
-    "title": "Un citoyen de la France en visite au Canada a fait un jogging de plage au Canada, a traversé accidentellement aux États-Unis, a été arrêté, puis détenu pendant deux semaines et a refusé l'accès consulaire avant d'être libéré.",
-    "url": "http://www.cbc.ca/news/canada/british-columbia/jogger-accidentally-crosses-u-s-border-from-b-c-gets-detained-for-2-weeks-by-authorities-1.4717060",
-    "permalink": "/r/france/comments/8t34hy/un_citoyen_de_la_france_en_visite_au_canada_a/",
-    "created_at": "2018-06-22T17:24:37+00:00",
-    "score": 217,
-    "num_comments": 83,
-    "subreddit": "france",
-    "author": "KJ6BWB",
-    "flair": "",
-    "domain": "cbc.ca",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/CfFNIS3J2jfSCdZKPTd-a-BouvRarYW8-KlWbBrqGg4.jpg?auto=webp&s=9267da3b60681f72643920c3c254c8fc0f061c9f",
-    "ingested_at": "2026-10-31T15:10:01.457146+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/8t34hy.webp",
-    "tags": [
-      "Canada",
-      "États-Unis"
-    ],
-    "analyzed_at": "2026-11-01T09:44:55.283069+00:00"
-  },
-  {
-    "id": "8sz8oy",
-    "title": "Carte des 35 228 communes de France métropolitaine",
-    "url": "http://www.cartesfrance.fr/cartes/carte_france_communes.png",
-    "permalink": "/r/france/comments/8sz8oy/carte_des_35_228_communes_de_france_métropolitaine/",
-    "created_at": "2018-06-22T06:47:17+00:00",
-    "score": 153,
-    "num_comments": 32,
-    "subreddit": "france",
-    "author": "-Golvan-",
-    "flair": "Société",
-    "domain": "cartesfrance.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/_ycrew6867cqsM7YjeKlt33ECmsOnDrR9JhlbC-ukz8.png?auto=webp&s=2f130e49fc09fa0d44d2dc22807d4cbff73094fc",
-    "ingested_at": "2026-10-31T15:10:01.457703+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/8sz8oy.webp",
-    "tags": [
-      "Société"
-    ],
-    "analyzed_at": "2026-11-01T09:44:39.304583+00:00"
   },
   {
     "id": "8svyc9",
@@ -564,10 +255,8 @@
     "summary": "La photo du président français a fait long feu sur les murs de la Maison-Blanche, ironise la presse américaine.",
     "thumbnail": "thumbnails/8svyc9.webp",
     "tags": [
-      "Maison-Blanche",
-      "Kim Jong-un",
-      "Trump",
-      "Politique"
+      "Emmanuel Macron",
+      "Donald Trump"
     ],
     "analyzed_at": "2026-11-01T09:44:39.639919+00:00"
   },
@@ -588,10 +277,7 @@
     "ingested_at": "2026-10-31T15:10:01.457104+00:00",
     "summary": "",
     "thumbnail": "thumbnails/8sve33.webp",
-    "tags": [
-      "MTV",
-      "Culture"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:44:39.518378+00:00"
   },
   {
@@ -611,35 +297,8 @@
     "ingested_at": "2026-10-31T15:10:01.456737+00:00",
     "summary": "La version de la direction est mise à mal par un témoin de la scène…",
     "thumbnail": "thumbnails/8sqv4x.webp",
-    "tags": [
-      "SFR"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:44:39.915300+00:00"
-  },
-  {
-    "id": "8sqhz5",
-    "title": "Déni... [Extrait de \"Moins qu’hier (plus que demain)\" de Fabcaro]",
-    "url": "http://www.9emeart.fr/uploads/images/26511.jpeg",
-    "permalink": "/r/france/comments/8sqhz5/déni_extrait_de_moins_quhier_plus_que_demain_de/",
-    "created_at": "2018-06-21T09:33:29+00:00",
-    "score": 224,
-    "num_comments": 22,
-    "subreddit": "france",
-    "author": "Citizen_F",
-    "flair": "Culture",
-    "domain": "9emeart.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/oJ3PHS3fBNajuf3E0e1aXTx_n-sBx6ni-258E3Jktrw.jpg?auto=webp&s=781a1683dc4b5ccc87a964d45acb31cf372f73ba",
-    "ingested_at": "2026-10-31T15:10:01.457038+00:00",
-    "summary": "Tout savoir sur l'actualitÃ© BD, Comics et Mangas chaque semaine",
-    "thumbnail": "thumbnails/8sqhz5.webp",
-    "tags": [
-      "Fabcaro",
-      "BD",
-      "Mangas",
-      "Culture"
-    ],
-    "analyzed_at": "2026-11-01T09:44:39.899505+00:00"
   },
   {
     "id": "8sq2ew",
@@ -658,13 +317,7 @@
     "ingested_at": "2026-10-31T15:10:01.457451+00:00",
     "summary": "Entre 1996 et 1998, les producteurs touchaient en moyenne 8,8% du prix final du panier. Ils n'en recevaient plus que 6,5% en 2015, révèle une étude publiée jeudi.",
     "thumbnail": "thumbnails/8sq2ew.webp",
-    "tags": [
-      "Oxfam",
-      "Agriculture",
-      "Alimentation",
-      "Métiers",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:44:40.510469+00:00"
   },
   {
@@ -684,10 +337,7 @@
     "ingested_at": "2026-10-31T15:10:01.457168+00:00",
     "summary": "",
     "thumbnail": "thumbnails/8spgta.webp",
-    "tags": [
-      "Français",
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:44:40.308052+00:00"
   },
   {
@@ -708,11 +358,7 @@
     "summary": "VIDÉO - Pour la première fois depuis la publication de la tribune contre les médecines alternatives en mars dans Le Figaro, le Conseil national de l’Ordre des médecins a pris position contre l’homéopathie, sans lui fermer la porte.",
     "thumbnail": "thumbnails/8slum9.webp",
     "tags": [
-      "Santé de la population",
-      "Ordre",
-      "Conseil",
-      "Figaro",
-      "Science"
+      "Santé"
     ],
     "analyzed_at": "2026-11-01T09:44:41.214424+00:00"
   },
@@ -733,61 +379,8 @@
     "ingested_at": "2026-10-31T15:10:01.457725+00:00",
     "summary": "Senate report says strikes and outdated ATC equipment cost airlines €300m a year",
     "thumbnail": "thumbnails/8scyr4.webp",
-    "tags": [
-      "Europe",
-      "Europe's",
-      "ATC",
-      "French",
-      "European"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:44:40.650204+00:00"
-  },
-  {
-    "id": "8scg4g",
-    "title": "Youtube bloque Blender mondialement",
-    "url": "https://www.blender.org/media-exposure/youtube-blocks-blender-videos-worldwide/",
-    "permalink": "/r/france/comments/8scg4g/youtube_bloque_blender_mondialement/",
-    "created_at": "2018-06-19T21:01:10+00:00",
-    "score": 184,
-    "num_comments": 137,
-    "subreddit": "france",
-    "author": "[deleted]",
-    "flair": "Technos",
-    "domain": "blender.org",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/F1-7g8E9yX3lLDLVmPCglin6MERlECIxyLJl3KHnxY4.png?auto=webp&s=b7be7d562a51aaa004f43b11e045de992a6f7c8d",
-    "ingested_at": "2026-10-31T15:10:01.457365+00:00",
-    "summary": "Last night all videos came back (except the one from Andrew Price, which still is blocked in USA). According to another person in Youtube we now *do* have to sign the other agreement as well. You can read it here . Last night the Youtube Support team contacted Francesco Siddi by phone.",
-    "thumbnail": "thumbnails/8scg4g.webp",
-    "tags": [
-      "Youtube",
-      "Open Source",
-      "Creation Software",
-      "Technos"
-    ],
-    "analyzed_at": "2026-11-01T09:44:41.323904+00:00"
-  },
-  {
-    "id": "8s8v12",
-    "title": "Macron et le lycéen",
-    "url": "https://cdn.discordapp.com/attachments/322602258372231168/458623922322276352/DgDKP9_WkAAQr3a.png",
-    "permalink": "/r/france/comments/8s8v12/macron_et_le_lycéen/",
-    "created_at": "2018-06-19T13:28:59+00:00",
-    "score": 729,
-    "num_comments": 100,
-    "subreddit": "france",
-    "author": "Lussarc",
-    "flair": "Humour",
-    "domain": "cdn.discordapp.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/WDvFyIHODumWmUYAnza6ScdXSXO_8HGX5mGaINs4DdU.png?auto=webp&s=4d00407b8e463a2cc12c025c48a5440676eb2075",
-    "ingested_at": "2026-10-31T15:10:01.456582+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/8s8v12.webp",
-    "tags": [
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:44:42.271904+00:00"
   },
   {
     "id": "8rztm8",
@@ -807,35 +400,9 @@
     "summary": "[VIDÉO] MISE AU POINT - Lors des commémorations du 18-Juin 1940 au Mont Valérien à Suresnes (Hauts-de-Seine), Emmanuel Macron a sévèrement recadré un jeune collégien qui faisait un peu de provocation.",
     "thumbnail": "thumbnails/8rztm8.webp",
     "tags": [
-      "Emmanuel Macron",
-      "Monsieur le Président",
-      "Etat",
-      "République",
-      "Mont Valérien"
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T09:44:41.825141+00:00"
-  },
-  {
-    "id": "8rzjs1",
-    "title": "Une dame de 51 ans se retrouve SDF parce que l'état protège ses locataires qui ne lui ont pas payé de loyer depuis novembre 2016.",
-    "url": "https://pbs.twimg.com/media/Df41BokX4AAFpfA.jpg:large",
-    "permalink": "/r/france/comments/8rzjs1/une_dame_de_51_ans_se_retrouve_sdf_parce_que/",
-    "created_at": "2018-06-18T13:36:18+00:00",
-    "score": 392,
-    "num_comments": 311,
-    "subreddit": "france",
-    "author": "lacraquotte",
-    "flair": "",
-    "domain": "pbs.twimg.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/MA6VKX1T_2BVYpiJ1NThq9vVkT_3WuCfx2ql4mfylLs.jpeg?auto=webp&s=631ff85d4216b7dae302a3f3a838fd4a903a08a8",
-    "ingested_at": "2026-10-31T15:10:01.456777+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/8rzjs1.webp",
-    "tags": [
-      "SDF"
-    ],
-    "analyzed_at": "2026-11-01T09:44:42.365641+00:00"
   },
   {
     "id": "8rtbzy",
@@ -855,34 +422,9 @@
     "summary": "",
     "thumbnail": "thumbnails/8rtbzy.webp",
     "tags": [
-      "Laurent Wauquiez",
-      "Républicains",
-      "Virginie Calmels",
-      "Politique"
+      "Laurent Wauquiez"
     ],
     "analyzed_at": "2026-11-01T09:44:42.091099+00:00"
-  },
-  {
-    "id": "8rpjdu",
-    "title": "Les trois tours de l'Île Verte, Grenoble, France",
-    "url": "https://c2.staticflickr.com/2/1731/28959284348_7654ee9e88_o.jpg",
-    "permalink": "/r/france/comments/8rpjdu/les_trois_tours_de_lîle_verte_grenoble_france/",
-    "created_at": "2018-06-17T07:23:46+00:00",
-    "score": 104,
-    "num_comments": 36,
-    "subreddit": "france",
-    "author": "loulan",
-    "flair": "",
-    "domain": "c2.staticflickr.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/xOzQQkVoNVpL8E0jNf5E9__2Ppu9pFZI5IPYzEUJ_Dc.jpeg?auto=webp&s=94cbfca3f973ca2240ccad1f99209ec0346fc9d1",
-    "ingested_at": "2026-10-31T15:10:01.458052+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/8rpjdu.webp",
-    "tags": [
-      "Île Verte"
-    ],
-    "analyzed_at": "2026-11-01T09:44:47.053211+00:00"
   },
   {
     "id": "8rhutx",
@@ -902,8 +444,7 @@
     "summary": "",
     "thumbnail": "thumbnails/8rhutx.webp",
     "tags": [
-      "Conseil Etat",
-      "RSA"
+      "Pauvreté"
     ],
     "analyzed_at": "2026-11-01T09:44:42.606887+00:00"
   },
@@ -924,59 +465,8 @@
     "ingested_at": "2026-10-31T15:10:01.457015+00:00",
     "summary": "Renault a annoncé, vendredi, son intention de rester en Iran, malgré la mise en garde des États-Unis. Washington a menacé d'imposer des sanctions à toutes entreprises qui continuaient à faire des affaires…",
     "thumbnail": "thumbnails/8rf16j.webp",
-    "tags": [
-      "Iran",
-      "Renault",
-      "Automobile",
-      "États-Unis",
-      "Téhéran"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:44:42.677065+00:00"
-  },
-  {
-    "id": "8rcixp",
-    "title": "L’Internet est menacé dans l’Union européenne !",
-    "url": "https://changecopyright.org/fr",
-    "permalink": "/r/france/comments/8rcixp/linternet_est_menacé_dans_lunion_européenne/",
-    "created_at": "2018-06-15T17:00:30+00:00",
-    "score": 183,
-    "num_comments": 20,
-    "subreddit": "france",
-    "author": "[deleted]",
-    "flair": "Technos",
-    "domain": "changecopyright.org",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/wjTFZ0JssX8gT7Uw20x-6V4N_nkbO29w0qLTef_FeRU.png?auto=webp&s=21bf33e843ed9412a8b027e948a5eff11098beb8",
-    "ingested_at": "2026-10-31T15:10:01.457386+00:00",
-    "summary": "With over two decades of global impact, Mozilla Foundation continues to lead the movement for a better technology future—powered by people, open by design, and fueled by imagination.",
-    "thumbnail": "thumbnails/8rcixp.webp",
-    "tags": [
-      "Union",
-      "Technos"
-    ],
-    "analyzed_at": "2026-11-01T09:44:44.179430+00:00"
-  },
-  {
-    "id": "8r95cw",
-    "title": "r/cherjeuns",
-    "url": "https://streamable.com/ujimk",
-    "permalink": "/r/france/comments/8r95cw/rcherjeuns/",
-    "created_at": "2018-06-15T07:35:07+00:00",
-    "score": 108,
-    "num_comments": 54,
-    "subreddit": "france",
-    "author": "[deleted]",
-    "flair": "Humour",
-    "domain": "streamable.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/CIP9-5p3aSO-qarEwn4Jl1_u2Qe64mYK-hLaz6YP1zQ.jpg?auto=webp&s=14cc76ab7aef95520fc3982b120e5c4b5ac6b46f",
-    "ingested_at": "2026-10-31T15:10:01.458009+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/8r95cw.webp",
-    "tags": [
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:44:43.211935+00:00"
   },
   {
     "id": "8r0k6d",
@@ -995,33 +485,8 @@
     "ingested_at": "2026-10-31T15:10:01.457796+00:00",
     "summary": "La secrétaire d'Etat Brune Poirson a convoqué les industriels du tabac et mis en avant leur \"responsabilité élargie\".",
     "thumbnail": "thumbnails/8r0k6d.webp",
-    "tags": [
-      "Etat Brune Poirson",
-      "Brune Poirson",
-      "Etat",
-      "Société"
-    ],
-    "analyzed_at": "2026-11-01T09:44:43.451263+00:00"
-  },
-  {
-    "id": "8qziv6",
-    "title": "Mers-les-Bains, Somme, France",
-    "url": "https://c1.staticflickr.com/5/4459/37767910336_e40eed8ccc_o.jpg",
-    "permalink": "/r/france/comments/8qziv6/merslesbains_somme_france/",
-    "created_at": "2018-06-14T06:06:25+00:00",
-    "score": 178,
-    "num_comments": 16,
-    "subreddit": "france",
-    "author": "loulan",
-    "flair": "",
-    "domain": "c1.staticflickr.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/JrZTkGqhFuhG5u9PepdX_b-4dNI-1iKlT_EszxWe0hc.jpg?auto=webp&s=1cdecde2fc1592add43e4b950600627c1da2622a",
-    "ingested_at": "2026-10-31T15:10:01.457471+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/8qziv6.webp",
     "tags": [],
-    "analyzed_at": "2026-11-01T09:44:49.750212+00:00"
+    "analyzed_at": "2026-11-01T09:44:43.451263+00:00"
   },
   {
     "id": "8qzi57",
@@ -1041,10 +506,7 @@
     "summary": "Stéphane, 58 ans, est attiré par les enfants depuis l'adolescence. Condamné à cinq ans de prison pour agressions sexuelles sur mineurs, il raconte à franceinfo son combat de tous les jours pour ne pas récidiver.",
     "thumbnail": "thumbnails/8qzi57.webp",
     "tags": [
-      "Société",
-      "Violences sexuelles",
-      "Faits-divers",
-      "Les choix de la rédaction"
+      "Violences sexuelles"
     ],
     "analyzed_at": "2026-11-01T09:44:43.508958+00:00"
   },
@@ -1065,9 +527,7 @@
     "ingested_at": "2026-10-31T15:10:01.456973+00:00",
     "summary": "",
     "thumbnail": "thumbnails/8qq5sq.webp",
-    "tags": [
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:44:46.252474+00:00"
   },
   {
@@ -1088,34 +548,10 @@
     "summary": "",
     "thumbnail": "thumbnails/8qpydy.webp",
     "tags": [
-      "Macron",
-      "Politique"
+      "Emmanuel Macron",
+      "Pauvreté"
     ],
     "analyzed_at": "2026-11-01T09:44:43.899172+00:00"
-  },
-  {
-    "id": "8qmr1y",
-    "title": "France 98 vs FIFA 98 - Coup franc de Zizou",
-    "url": "https://streamable.com/dbfew",
-    "permalink": "/r/france/comments/8qmr1y/france_98_vs_fifa_98_coup_franc_de_zizou/",
-    "created_at": "2018-06-12T21:18:35+00:00",
-    "score": 337,
-    "num_comments": 45,
-    "subreddit": "france",
-    "author": "TheDarkitect",
-    "flair": "Sport",
-    "domain": "streamable.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/DM1dKVNnTjRqtPlo9fJhlnvwnscE7XD6q4HdlkRQxkI.jpg?auto=webp&s=03ad9f5592bddc58fe563cd5c1d0366385d73525",
-    "ingested_at": "2026-10-31T15:10:01.456821+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/8qmr1y.webp",
-    "tags": [
-      "FIFA 98",
-      "Zizou",
-      "Sport"
-    ],
-    "analyzed_at": "2026-11-01T09:44:44.161133+00:00"
   },
   {
     "id": "8qlbr1",
@@ -1135,8 +571,8 @@
     "summary": "",
     "thumbnail": "thumbnails/8qlbr1.webp",
     "tags": [
-      "Macron",
-      "Politique"
+      "Emmanuel Macron",
+      "Immigration"
     ],
     "analyzed_at": "2026-11-01T09:44:46.510993+00:00"
   },
@@ -1158,8 +594,7 @@
     "summary": "",
     "thumbnail": "thumbnails/8qgsln.webp",
     "tags": [
-      "Parkinson",
-      "Société"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T09:44:44.638514+00:00"
   },
@@ -1181,10 +616,9 @@
     "summary": "VIDÉO - L'homme, qui exerce au collège Saint-Joseph à Saint-Ambroix dans le Gard, a été suspendu en mars de ses fonctions pour avoir dénoncé une affaire de viol entre élèves lors d'un voyage scolaire. Il lui est reproché de ne pas avoir suivi la bonne procédure.",
     "thumbnail": "thumbnails/8qaknh.webp",
     "tags": [
-      "Gard",
-      "Saint-Joseph",
-      "Saint-Ambroix",
-      "Parisien"
+      "Violences sexuelles",
+      "Éducation",
+      "Travail"
     ],
     "analyzed_at": "2026-11-01T09:44:46.023776+00:00"
   },
@@ -1205,13 +639,7 @@
     "ingested_at": "2026-10-31T15:10:01.457083+00:00",
     "summary": "Selon une enquête Ifop pour Echo Citoyen et Terra Nova, révélée lundi par franceinfo, les Français plébiscitent également l'autorisation du cannabis à visée thérapeutique.",
     "thumbnail": "thumbnails/8q75al.webp",
-    "tags": [
-      "Français",
-      "Ifop",
-      "Echo Citoyen et Terra Nova",
-      "Drogue et narcotrafic",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:44:46.516264+00:00"
   },
   {
@@ -1231,37 +659,8 @@
     "ingested_at": "2026-10-31T15:10:01.457918+00:00",
     "summary": "Cinq élèves du collège du Val-Cérou, à Cordes-sur-Ciel, dans le Tarn, ont été convoqués devant le tribunal de grande instance d’Albi suite à une plainte de deux membres du corps enseignant. Au cœur de la discorde : un...",
     "thumbnail": "thumbnails/8q0ez4.webp",
-    "tags": [
-      "TGI Albi",
-      "Tarn",
-      "Val-Cérou",
-      "Cordes-sur-Ciel",
-      "Albi"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:44:46.759747+00:00"
-  },
-  {
-    "id": "8pwsp7",
-    "title": "Anna Delvey, la fille qui a arnaqué tout New York",
-    "url": "https://medium.com/@ayyyvocado/comment-anna-delvey-a-arnaque-new-york-f21c43087069",
-    "permalink": "/r/france/comments/8pwsp7/anna_delvey_la_fille_qui_a_arnaqué_tout_new_york/",
-    "created_at": "2018-06-09T23:26:43+00:00",
-    "score": 91,
-    "num_comments": 30,
-    "subreddit": "france",
-    "author": "SVN7H",
-    "flair": "Actus",
-    "domain": "medium.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/zfY1qPIj1JFGQzJJX0h2J43tKh32gz_ousRYUFC4SFg.jpeg?auto=webp&s=dd46f94a7f49ef9b5013720f462b8d4c52735207",
-    "ingested_at": "2026-10-31T15:10:01.458095+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/8pwsp7.webp",
-    "tags": [
-      "Anna Delvey",
-      "New York"
-    ],
-    "analyzed_at": "2026-11-01T09:44:47.489317+00:00"
   },
   {
     "id": "8pus0r",
@@ -1280,10 +679,7 @@
     "ingested_at": "2026-10-31T15:10:01.458073+00:00",
     "summary": "Sur sa chaîne YouTube, «Le roi des rats» a publié une vidéo dans laquelle il pointe du doigt les commentaires pédophiles sous les vidéos de fillettes en train de faire de la gymnastique. Depuis cette dénonciation et la création du hashtag #Youtubewakeup, plusieurs vidéos et commentaires...",
     "thumbnail": "thumbnails/8pus0r.webp",
-    "tags": [
-      "YouTube",
-      "Youtubewakeup"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:44:48.229106+00:00"
   },
   {
@@ -1304,7 +700,7 @@
     "summary": "",
     "thumbnail": "thumbnails/8prgjx.webp",
     "tags": [
-      "Macron"
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T09:44:47.056461+00:00"
   },
@@ -1326,31 +722,9 @@
     "summary": "Le syndicat apicole de l’Aisne a porté plainte ce jeudi à Lyon contre le fabriquant d’herbicide Monsanto pour « administration de substances",
     "thumbnail": "thumbnails/8piriw.webp",
     "tags": [
-      "Monsanto",
-      "Aisne",
-      "Lyon"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T09:44:47.393550+00:00"
-  },
-  {
-    "id": "8piqtz",
-    "title": "En France, on vend du pain français",
-    "url": "https://vgy.me/3llqWw.jpg",
-    "permalink": "/r/france/comments/8piqtz/en_france_on_vend_du_pain_français/",
-    "created_at": "2018-06-08T10:17:57+00:00",
-    "score": 821,
-    "num_comments": 45,
-    "subreddit": "france",
-    "author": "bouddhinette",
-    "flair": "",
-    "domain": "vgy.me",
-    "selftext": "",
-    "reddit_thumbnail": "https://b.thumbs.redditmedia.com/7ITvPCZSs6WBa03NRAU9J4zf1PaXahA0oRPg3-S8jns.jpg",
-    "ingested_at": "2026-10-31T15:10:01.456558+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/8piqtz.webp",
-    "tags": [],
-    "analyzed_at": "2026-11-01T09:44:49.830912+00:00"
   },
   {
     "id": "8pdbwz",
@@ -1369,12 +743,7 @@
     "ingested_at": "2026-10-31T15:10:01.457853+00:00",
     "summary": "Georges Plassat va percevoir cet argent \"au titre des bons résultats de l’entreprise en 2017\", indique \"20 Minutes\".",
     "thumbnail": "thumbnails/8pdbwz.webp",
-    "tags": [
-      "Minutes",
-      "Georges Plassat",
-      "Carrefour",
-      "Éco / Conso"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:44:47.919830+00:00"
   },
   {
@@ -1415,8 +784,8 @@
     "summary": "En grève de la faim depuis 16 jours, ils réclament des postes pour le centre hospitalier du Rouvray et dénoncent \"une surpopulation chronique\".",
     "thumbnail": "thumbnails/8ozcbi.webp",
     "tags": [
-      "Rouvray",
-      "Seine-Maritime"
+      "Grèves et syndicats",
+      "Santé"
     ],
     "analyzed_at": "2026-11-01T09:44:48.726349+00:00"
   },
@@ -1437,34 +806,8 @@
     "ingested_at": "2026-10-31T15:10:01.457817+00:00",
     "summary": "",
     "thumbnail": "thumbnails/8oz659.webp",
-    "tags": [
-      "Français"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:44:48.443482+00:00"
-  },
-  {
-    "id": "8or9hh",
-    "title": "Ma copie exacte du Château de Chenonceau, en LEGO!",
-    "url": "https://www.flickr.com/photos/nujumetru/42514777372/in/dateposted-public/",
-    "permalink": "/r/france/comments/8or9hh/ma_copie_exacte_du_château_de_chenonceau_en_lego/",
-    "created_at": "2018-06-05T14:31:10+00:00",
-    "score": 1245,
-    "num_comments": 44,
-    "subreddit": "france",
-    "author": "nujumetru",
-    "flair": "Culture",
-    "domain": "flickr.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/JV1KaIpTtQjsJyGi1fhcP240qH2iHbpmDrDo0eSi__8.jpeg?auto=webp&s=0cfeee3999cec7a480256a8304c0d072082dd230",
-    "ingested_at": "2026-10-31T15:10:01.456477+00:00",
-    "summary": "Learn more about my biggest build to date and see more pictures here! Website | Facebook | Instagram",
-    "thumbnail": "thumbnails/8or9hh.webp",
-    "tags": [
-      "Château de Chenonceau",
-      "LEGO",
-      "Culture"
-    ],
-    "analyzed_at": "2026-11-01T09:44:49.034269+00:00"
   },
   {
     "id": "8oovav",
@@ -1484,11 +827,8 @@
     "summary": "Manifestations, recours juridiques et piquets devant l’usine rythment depuis près de trois semaines le quotidien des 120 ouvrières et ouvriers licenciés de l’entreprise Kozan Kozmétik Sanayi en Turquie.",
     "thumbnail": "thumbnails/8oovav.webp",
     "tags": [
-      "Yves Rocher",
-      "Rocher",
-      "Kozan Kozmétik Sanayi",
-      "Turquie",
-      "Flormar"
+      "Travail",
+      "Grèves et syndicats"
     ],
     "analyzed_at": "2026-11-01T09:44:49.233813+00:00"
   },
@@ -1510,9 +850,8 @@
     "summary": "",
     "thumbnail": "thumbnails/8ohi5a.webp",
     "tags": [
-      "Macron",
-      "Trump's",
-      "Trump"
+      "Emmanuel Macron",
+      "Donald Trump"
     ],
     "analyzed_at": "2026-11-01T09:44:50.116383+00:00"
   },
@@ -1533,13 +872,7 @@
     "ingested_at": "2026-10-31T15:10:01.456530+00:00",
     "summary": "Tor est un réseau informatique dont la notoriété nest plus à faire pour anonymiser lorigine des connexions TCP.",
     "thumbnail": "thumbnails/8oghvc.webp",
-    "tags": [
-      "Tor",
-      "Firefox",
-      "Project Fusion",
-      "TCP",
-      "Technos"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:44:49.257830+00:00"
   },
   {
@@ -1559,13 +892,7 @@
     "ingested_at": "2026-10-31T15:10:01.457680+00:00",
     "summary": "Les parlementaires en charge de la filière bois lancent \"l'appel de la forêt\" jeudi 31 mai. À l'occasion du salon international Carrefour du bois à Nantes, une convention est signée pour régénérer les forêts françaises.",
     "thumbnail": "thumbnails/8ofai8.webp",
-    "tags": [
-      "France TV",
-      "Carrefour",
-      "Nantes",
-      "Crise climatique",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:44:49.901042+00:00"
   },
   {
@@ -1585,36 +912,8 @@
     "ingested_at": "2026-10-31T15:10:01.457273+00:00",
     "summary": "Soyez bienveillants envers les araignées que vous rencontrez chez vous.",
     "thumbnail": "thumbnails/8oezo9.webp",
-    "tags": [
-      "Fête de la science",
-      "Fête de la science 2018",
-      "Fête de la science 2020",
-      "Entomologie",
-      "Science"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:44:49.707004+00:00"
-  },
-  {
-    "id": "8obhv3",
-    "title": "Plus que 2 ans avant l'album rock de l'année",
-    "url": "https://www.tuxboard.com/photos/2011/06/Campagne-HADOPI-Buddy-Plugs-640x480.jpg",
-    "permalink": "/r/france/comments/8obhv3/plus_que_2_ans_avant_lalbum_rock_de_lannée/",
-    "created_at": "2018-06-03T20:38:18+00:00",
-    "score": 639,
-    "num_comments": 109,
-    "subreddit": "france",
-    "author": "supersonicme",
-    "flair": "Humour",
-    "domain": "tuxboard.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/Ply3jANT8gpBkL5TLi6HnDG466oxbQV3H7kgWwEeYro.jpeg?auto=webp&s=d941967d50109a7585380b82c0539c60d3167aa6",
-    "ingested_at": "2026-10-31T15:10:01.456606+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/8obhv3.webp",
-    "tags": [
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:44:51.279110+00:00"
   },
   {
     "id": "8oavea",
@@ -1634,7 +933,7 @@
     "summary": "",
     "thumbnail": "thumbnails/8oavea.webp",
     "tags": [
-      "Politique"
+      "Immigration"
     ],
     "analyzed_at": "2026-11-01T09:44:50.157390+00:00"
   },
@@ -1655,9 +954,7 @@
     "ingested_at": "2026-10-31T15:10:01.457126+00:00",
     "summary": "",
     "thumbnail": "thumbnails/8nznug.webp",
-    "tags": [
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:44:50.261295+00:00"
   },
   {
@@ -1677,10 +974,7 @@
     "ingested_at": "2026-10-31T15:10:01.457958+00:00",
     "summary": "",
     "thumbnail": "thumbnails/8nz24h.webp",
-    "tags": [
-      "Lyon",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:44:51.383090+00:00"
   },
   {
@@ -1700,10 +994,7 @@
     "ingested_at": "2026-10-31T15:10:01.457536+00:00",
     "summary": "",
     "thumbnail": "thumbnails/8nr4bc.webp",
-    "tags": [
-      "Guignols",
-      "Culture"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:44:50.478674+00:00"
   },
   {
@@ -1723,12 +1014,7 @@
     "ingested_at": "2026-10-31T15:10:01.457615+00:00",
     "summary": "Toute l'actualité des réseaux sociaux et les nouveautés des plateformes. Tous les médias sociaux : Facebook, Twitter, Snapchat, TikTok, Instagram, Linkedin...",
     "thumbnail": "thumbnails/8nqohs.webp",
-    "tags": [
-      "Reddit",
-      "Facebook",
-      "États-Unis",
-      "Méta"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:44:50.485131+00:00"
   },
   {
@@ -1749,35 +1035,9 @@
     "summary": "",
     "thumbnail": "thumbnails/8npsjw.webp",
     "tags": [
-      "Chine",
-      "Politique"
+      "Donald Trump",
+      "Budget et fiscalité"
     ],
     "analyzed_at": "2026-11-01T09:45:06.290224+00:00"
-  },
-  {
-    "id": "8noo1x",
-    "title": "À partir d'aujourd'hui les Bermudes deviennent le premier pays à ré-interdire le mariage homosexuel après une légalisation.",
-    "url": "https://en.wikipedia.org/wiki/Same-sex_marriage_in_Bermuda",
-    "permalink": "/r/france/comments/8noo1x/à_partir_daujourdhui_les_bermudes_deviennent_le/",
-    "created_at": "2018-06-01T03:21:46+00:00",
-    "score": 319,
-    "num_comments": 277,
-    "subreddit": "france",
-    "author": "Areat",
-    "flair": "Actus",
-    "domain": "en.wikipedia.org",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/Dyjj308j6_QG6cN3oEgsICCxwedV_1Z5M8jhVkkubu4.jpg?auto=webp&s=664149e7d6a6c6a31a1002bbf44e4b7a0f7cba1a",
-    "ingested_at": "2026-10-31T15:10:01.456843+00:00",
-    "summary": "Same-sex marriage is not recognised in Bermuda , but was legal for a period of five years between 2017 and 2022–except between 1 June 2018 and 23 November 2018 when a law banning same-sex marriage was in effect.",
-    "thumbnail": "thumbnails/8noo1x.webp",
-    "tags": [
-      "Bermuda",
-      "Bermudes",
-      "Parliament",
-      "June 2018",
-      "Supreme Court"
-    ],
-    "analyzed_at": "2026-11-01T09:44:50.925785+00:00"
   }
 ]

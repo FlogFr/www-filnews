@@ -1,15 +1,15 @@
 {% extends "base.html" %}
 {% load filnews_tags %}
 
-{% block title %}Tous les tags — {{ SITE_NAME }}{% endblock %}
+{% block title %}Tous les fils — {{ SITE_NAME }}{% endblock %}
 {% block description %}Tous les sujets de l'actualité suivis par {{ SITE_NAME }}, classés par ordre alphabétique.{% endblock %}
-{% block structured_data %}{% breadcrumb_ld "Accueil" "/" "Tags" request.path %}{% endblock %}
+{% block structured_data %}{% breadcrumb_ld "Accueil" "/" "Fils" request.path %}{% endblock %}
 
 {% block content %}
-{% include "partials/breadcrumb.html" with current="Tags" %}
+{% include "partials/breadcrumb.html" with current="Fils" %}
 <header class="page-header">
-  <h1 class="page-title">Tous les tags</h1>
-  <p class="page-intro">{{ tags|length }} sujet{{ tags|length|pluralize }} suivi{{ tags|length|pluralize }}.</p>
+  <h1 class="page-title">Tous les fils</h1>
+  <p class="page-intro">{{ tags|length }} fil{{ tags|length|pluralize }} suivi{{ tags|length|pluralize }} : les personnalités politiques et les grands thèmes politiques et de société.</p>
 </header>
 {% if tags %}
 <nav class="letter-nav" aria-label="Lettres">
@@ -22,12 +22,12 @@
   <h2 class="section-title" id="lettre-{% if letter == '#' %}autres{% else %}{{ letter|lower }}{% endif %}">{% if letter == '#' %}Autres{% else %}{{ letter }}{% endif %}</h2>
   <ul class="tag-index">
     {% for tag in letter_tags %}
-    <li><a class="tag" href="{% url 'tag_detail' tag.slug %}" data-timeline="{% url 'tag_timeline' tag.slug %}">{{ tag.name }}</a> <span class="tag-index__count">{{ tag.count }}<span class="visually-hidden"> news</span></span></li>
+    {% with kind=tag|tag_kind %}<li><a class="tag{% if kind %} tag--{{ kind }}{% endif %}" href="{% url 'tag_detail' tag.slug %}" data-timeline="{% url 'tag_timeline' tag.slug %}">{% if kind == "personnalite" %}{% include "partials/icon_person.html" %}{% endif %}{{ tag.name }}</a> <span class="tag-index__count">{{ tag.count }}<span class="visually-hidden"> news</span></span></li>{% endwith %}
     {% endfor %}
   </ul>
 </section>
 {% endfor %}
 {% else %}
-<p>Pas encore de tags.</p>
+<p>Pas encore de fils.</p>
 {% endif %}
 {% endblock %}

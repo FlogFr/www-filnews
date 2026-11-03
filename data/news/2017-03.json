@@ -17,11 +17,7 @@
     "summary": "Après avoir lâché François Fillon, le président de la région PACA était venu soutenir le candidat de la droite à un meeting.",
     "thumbnail": "thumbnails/62oqis.webp",
     "tags": [
-      "LR",
-      "Christian Estrosi",
-      "Toulon",
-      "François Fillon",
-      "PACA"
+      "François Fillon"
     ],
     "analyzed_at": "2026-11-01T09:48:34.603346+00:00"
   },
@@ -42,13 +38,7 @@
     "ingested_at": "2026-10-31T14:41:39.226185+00:00",
     "summary": "Présenté comme \"le plus gros fayot de l'histoire de l'éducation nationale\", Quentin Faugeras est bien plus que cela.",
     "thumbnail": "thumbnails/62jtvi.webp",
-    "tags": [
-      "TPMP",
-      "MÉDIAS",
-      "Quentin Faugeras",
-      "Le bon lien",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:48:34.439987+00:00"
   },
   {
@@ -69,9 +59,7 @@
     "summary": "Après avoir profité de deux prêts russes en 2014, le Front national a signé, le 15 juin 2016, une troisième demande de prêt avec une banque russe. Cet emprunt de trois millions d’euros est « destiné …",
     "thumbnail": "thumbnails/62jfow.webp",
     "tags": [
-      "Marine le Pen",
-      "Front",
-      "Politique"
+      "Marine Le Pen"
     ],
     "analyzed_at": "2026-11-01T09:48:34.986704+00:00"
   },
@@ -94,61 +82,11 @@
     "thumbnail": "thumbnails/62fmat.webp",
     "tags": [
       "Laurent Wauquiez",
+      "Élection présidentielle",
       "François Fillon",
-      "Présidentielle 2027",
-      "Elections en France",
-      "Politique"
+      "Corruption"
     ],
     "analyzed_at": "2026-11-01T09:48:35.645759+00:00"
-  },
-  {
-    "id": "62f1h6",
-    "title": "Quelqu'un a porté plainte contre Valls pour abus de confiance",
-    "url": "https://scontent-cdg2-1.xx.fbcdn.net/v/t1.0-9/17630003_10212012109608899_1137863520598034101_n.jpg?oh=4ca82c4f752cb620d38c94eabe932aa7&oe=59528674",
-    "permalink": "/r/france/comments/62f1h6/quelquun_a_porté_plainte_contre_valls_pour_abus/",
-    "created_at": "2017-03-30T16:31:55+00:00",
-    "score": 77,
-    "num_comments": 39,
-    "subreddit": "france",
-    "author": "TangoJager",
-    "flair": "Humour",
-    "domain": "scontent-cdg2-1.xx.fbcdn.net",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/j6gdU7x02Svmv8USH7npriIaefQXkO1RRVG6iU-11T8.jpg?auto=webp&s=45060e293611e358fea8a3d3cc8f59edc6521c10",
-    "ingested_at": "2026-10-31T14:52:32.218136+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/62f1h6.webp",
-    "tags": [
-      "Valls",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:48:38.598880+00:00"
-  },
-  {
-    "id": "626krh",
-    "title": "Benoît Hamon adopte comme nouveau slogan de campagne « L’important c’est de participer » [Le Gorafi]",
-    "url": "http://www.legorafi.fr/2017/03/29/benoit-hamon-adopte-comme-nouveau-slogan-de-campagne-limportant-cest-de-participer/",
-    "permalink": "/r/france/comments/626krh/benoît_hamon_adopte_comme_nouveau_slogan_de/",
-    "created_at": "2017-03-29T13:22:57+00:00",
-    "score": 151,
-    "num_comments": 18,
-    "subreddit": "france",
-    "author": "charlu",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/dSf-XwGmv-h73mff5hLWUlyzyjzwzzB4kXP-E-pV3dI.jpg?auto=webp&s=fa42d73d9f6b053ec0ad84893c46f2d9a8e13d03",
-    "ingested_at": "2026-10-31T14:41:39.226687+00:00",
-    "summary": "À moins de trente jours du premier scrutin présidentiel, les candidats continuent de surprendre les Français avec des décisions inattendues.",
-    "thumbnail": "thumbnails/626krh.webp",
-    "tags": [
-      "Benoît Hamon",
-      "Gorafi",
-      "Français",
-      "Jean-Luc Mélenchon",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:48:35.332766+00:00"
   },
   {
     "id": "62519i",
@@ -168,11 +106,9 @@
     "summary": "Invité ce matin sur BFM TV et RMC dans l'interview de Jean-Jacques Bourdin, Manuel Valls a annoncé son soutien à Emmanuel Macron dans la course à...",
     "thumbnail": "thumbnails/62519i.webp",
     "tags": [
-      "Manuel Valls",
-      "Macron",
       "Emmanuel Macron",
-      "Jean-Jacques Bourdin",
-      "Politique"
+      "Manuel Valls",
+      "Élections"
     ],
     "analyzed_at": "2026-11-01T09:48:36.875351+00:00"
   },
@@ -194,8 +130,9 @@
     "summary": "",
     "thumbnail": "thumbnails/6221np.webp",
     "tags": [
-      "Penelope Fillon",
-      "Politique"
+      "François Fillon",
+      "Justice",
+      "Corruption"
     ],
     "analyzed_at": "2026-11-01T09:48:36.129676+00:00"
   },
@@ -217,59 +154,9 @@
     "summary": "En septembre 2014, lors d'un premier référendum, les Ecossais avaient rejeté à 55% la sortie du Royaume-Uni.",
     "thumbnail": "thumbnails/620f3d.webp",
     "tags": [
-      "Royaume-Uni",
-      "Parlement Ecosse",
-      "Brexit",
-      "Ecossais",
-      "Politique"
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T09:48:37.456008+00:00"
-  },
-  {
-    "id": "61t3mf",
-    "title": "Encore un comparatif de performance eurozone/non-eurozone (du dernier livre de Stiglitz)",
-    "url": "https://i.reddituploads.com/134422d8962944c8818ba6b88a4949ae?fit=max&h=1536&w=1536&s=ec0e61e45e0a21956eb9a9bfeceece4e",
-    "permalink": "/r/france/comments/61t3mf/encore_un_comparatif_de_performance/",
-    "created_at": "2017-03-27T16:14:30+00:00",
-    "score": 108,
-    "num_comments": 31,
-    "subreddit": "france",
-    "author": "[deleted]",
-    "flair": "Humour",
-    "domain": "i.reddituploads.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/CQkejbnrfeldrk0z80vUbs4Itc5LD7fIYdrllWR4YtY.jpg?auto=webp&s=ae8722b23922c6d817b1323415e541bbb7e9203c",
-    "ingested_at": "2026-10-31T14:52:32.217877+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/61t3mf.webp",
-    "tags": [
-      "Stiglitz",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:48:40.570546+00:00"
-  },
-  {
-    "id": "61qfen",
-    "title": "J'ai vu qu'il y avait de vrais amateurs d'édriseurs par ici, je vous présente donc le nouveau modèle, vu à Lyon",
-    "url": "https://i.reddituploads.com/a40f9e2f3f05407797e0586beae37280?fit=max&h=1536&w=1536&s=1222457d16a5127e06594d1da42a9949",
-    "permalink": "/r/france/comments/61qfen/jai_vu_quil_y_avait_de_vrais_amateurs_dédriseurs/",
-    "created_at": "2017-03-27T05:43:56+00:00",
-    "score": 161,
-    "num_comments": 78,
-    "subreddit": "france",
-    "author": "toine42",
-    "flair": "Humour",
-    "domain": "i.reddituploads.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://b.thumbs.redditmedia.com/zJVhnUeoeeYo7hYNzOfV3UeYmWEOujdb-z3DlwA-gJo.jpg",
-    "ingested_at": "2026-10-31T14:41:39.226568+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/61qfen.webp",
-    "tags": [
-      "Lyon",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:48:39.084571+00:00"
   },
   {
     "id": "61muwi",
@@ -289,11 +176,9 @@
     "summary": "President estimated Germany’s underspend on alliance over the past 12 years, then added interest",
     "thumbnail": "thumbnails/61muwi.webp",
     "tags": [
-      "Nato",
-      "Donald Drump",
-      "OTAN",
-      "Merkel",
-      "Allemagne"
+      "Angela Merkel",
+      "Défense",
+      "Budget et fiscalité"
     ],
     "analyzed_at": "2026-11-01T09:48:37.501588+00:00"
   },
@@ -315,33 +200,10 @@
     "summary": "",
     "thumbnail": "thumbnails/61li5s.webp",
     "tags": [
-      "Elysée",
-      "Sarkozy",
-      "Politique"
+      "Nicolas Sarkozy",
+      "François Fillon"
     ],
     "analyzed_at": "2026-11-01T09:48:37.816206+00:00"
-  },
-  {
-    "id": "61fjb7",
-    "title": "Metz et sa cathédrale jaune, Moselle, France",
-    "url": "http://metz.fr/actus/galeries/3806/vol%20%20(36).show.jpg",
-    "permalink": "/r/france/comments/61fjb7/metz_et_sa_cathédrale_jaune_moselle_france/",
-    "created_at": "2017-03-25T13:33:51+00:00",
-    "score": 99,
-    "num_comments": 20,
-    "subreddit": "france",
-    "author": "[deleted]",
-    "flair": "Culture",
-    "domain": "metz.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/B_mJkI66yf4GNqr2mGv0thfrv5FC15-E6xR80MVFALk.jpg?auto=webp&s=e628a8fc9d5c6c3b2c51092677be49c973042adb",
-    "ingested_at": "2026-10-31T14:52:32.217937+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/61fjb7.webp",
-    "tags": [
-      "Culture"
-    ],
-    "analyzed_at": "2026-11-01T09:48:38.894943+00:00"
   },
   {
     "id": "61f2xn",
@@ -361,11 +223,9 @@
     "summary": "« Vous savez que des journalistes sortent un livre dévoilant les pratiques de l’Elysée, qui s’appelle Bienvenue place Beauvau, rédigé d’ailleurs par des journal...",
     "thumbnail": "thumbnails/61f2xn.webp",
     "tags": [
-      "Cyril Hanouna",
-      "Elise Sucette",
-      "Eric Zemmour et Eric Ciotti",
-      "Elysée",
-      "Société"
+      "Éric Zemmour",
+      "Éric Ciotti",
+      "Médias"
     ],
     "analyzed_at": "2026-11-01T09:48:38.268315+00:00"
   },
@@ -387,10 +247,8 @@
     "summary": "",
     "thumbnail": "thumbnails/618f34.webp",
     "tags": [
-      "Marine le Pen",
       "Vladimir Poutine",
-      "Moscou",
-      "Politique"
+      "Marine Le Pen"
     ],
     "analyzed_at": "2026-11-01T09:48:38.263491+00:00"
   },
@@ -413,36 +271,10 @@
     "thumbnail": "thumbnails/617w9j.webp",
     "tags": [
       "François Fillon",
-      "France 2",
-      "L'émission politique",
-      "Maison de retraite",
-      "Politique"
+      "Retraites",
+      "Santé"
     ],
     "analyzed_at": "2026-11-01T09:48:38.618604+00:00"
-  },
-  {
-    "id": "617fdw",
-    "title": "La réponse de Maryline Camille Mélenchon aux « attaques ignobles » d'un élu de l'Essonne",
-    "url": "http://yetiblog.org/index.php?post%2F2327",
-    "permalink": "/r/france/comments/617fdw/la_réponse_de_maryline_camille_mélenchon_aux/",
-    "created_at": "2017-03-24T06:42:56+00:00",
-    "score": 137,
-    "num_comments": 52,
-    "subreddit": "france",
-    "author": "charlu",
-    "flair": "Politique",
-    "domain": "yetiblog.org",
-    "selftext": "",
-    "reddit_thumbnail": "https://a.thumbs.redditmedia.com/8jHWH5_DXtacAgtH0FfduHvUf2mrUjzw4QSZtb5t6U4.jpg",
-    "ingested_at": "2026-10-31T14:41:39.226792+00:00",
-    "summary": "Find the best information and most relevant links on all topics related to yetiblog.org. Buy this domain.",
-    "thumbnail": "thumbnails/617fdw.webp",
-    "tags": [
-      "Maryline Camille Mélenchon",
-      "Essonne",
-      "Politique"
-    ],
-    "analyzed_at": "2026-11-01T09:48:38.841675+00:00"
   },
   {
     "id": "610t9k",
@@ -462,8 +294,7 @@
     "summary": "",
     "thumbnail": "thumbnails/610t9k.webp",
     "tags": [
-      "Fillon",
-      "Politique"
+      "François Fillon"
     ],
     "analyzed_at": "2026-11-01T09:48:41.912372+00:00"
   },
@@ -485,11 +316,8 @@
     "summary": "La campagne électorale en France en vue des élections présidentielles prévues entre les mois d'avril et de mai prochain bat son plein et les candidats continuent de présenter leur programme électoral.",
     "thumbnail": "thumbnails/610osf.webp",
     "tags": [
-      "NPA Philippe Poutou",
-      "Hadopi",
-      "Nouveau Parti Anticapitaliste",
-      "NPA",
-      "Politique"
+      "Philippe Poutou",
+      "Élection présidentielle"
     ],
     "analyzed_at": "2026-11-01T09:48:39.790612+00:00"
   },
@@ -511,8 +339,7 @@
     "summary": "",
     "thumbnail": "thumbnails/60wpip.webp",
     "tags": [
-      "François Fillon",
-      "Politique"
+      "François Fillon"
     ],
     "analyzed_at": "2026-11-01T09:48:42.781125+00:00"
   },
@@ -534,11 +361,7 @@
     "summary": "Durant le dÃ©bat des candidats sur TF1, FranÃ§ois Fillon a Ã©tÃ© conseillÃ© Ã distance par sa communicante, via des SMS. Outre que le procÃ©dÃ© est dÃ©loyal, il interroge sur les ratÃ©s de la communication du candidat Fillon.",
     "thumbnail": "thumbnails/60uk2x.webp",
     "tags": [
-      "SMS",
-      "TF1",
-      "Fillon",
-      "François Fillon",
-      "Politique"
+      "François Fillon"
     ],
     "analyzed_at": "2026-11-01T09:48:41.971588+00:00"
   },
@@ -560,62 +383,9 @@
     "summary": "",
     "thumbnail": "thumbnails/60p9uj.webp",
     "tags": [
-      "Affaire Fillon",
-      "Politique"
+      "François Fillon"
     ],
     "analyzed_at": "2026-11-01T09:48:39.539494+00:00"
-  },
-  {
-    "id": "60ovcl",
-    "title": "Démission de Bruno Le Roux",
-    "url": "http://www.linternaute.com/actualite/politique/1372106-affaire-bruno-le-roux-direct-la-demission-du-ministre-de-l-interieur-actee/",
-    "permalink": "/r/france/comments/60ovcl/démission_de_bruno_le_roux/",
-    "created_at": "2017-03-21T17:14:00+00:00",
-    "score": 232,
-    "num_comments": 138,
-    "subreddit": "france",
-    "author": "[deleted]",
-    "flair": "Politique",
-    "domain": "linternaute.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/6WfJBioI3OKSLG7U5xsCMYil6Mv79BWo62js0DtDGAY.jpeg?auto=webp&s=a1ec20c556ba3758a3b6e82def19fa6701acf4b9",
-    "ingested_at": "2026-10-31T14:41:39.226168+00:00",
-    "summary": "AFFAIRE LE ROUX - Le ministre de l'Intérieur a annoncé sa démission. Il était fragilisé après les révélations sur l'emploi de ses filles, lorsqu'il était député.",
-    "thumbnail": "thumbnails/60ovcl.webp",
-    "tags": [
-      "Bruno le Roux",
-      "Intérieur",
-      "AFFAIRE le ROUX",
-      "PS",
-      "Politique"
-    ],
-    "analyzed_at": "2026-11-01T09:48:39.931540+00:00"
-  },
-  {
-    "id": "60nfi1",
-    "title": "AJA que le Comic Sans à été inventé par un connare",
-    "url": "https://en.wikipedia.org/wiki/Vincent_Connare",
-    "permalink": "/r/france/comments/60nfi1/aja_que_le_comic_sans_à_été_inventé_par_un_connare/",
-    "created_at": "2017-03-21T13:00:36+00:00",
-    "score": 199,
-    "num_comments": 31,
-    "subreddit": "france",
-    "author": "Pitholaur",
-    "flair": "Humour",
-    "domain": "en.wikipedia.org",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/zvfpW2rIVibaHBSbNm7edR9CaJkcLbQ183ulOnHBtpo.jpeg?auto=webp&s=8e1ee618b07b79ecb54172ee2439d633ded0f408",
-    "ingested_at": "2026-10-31T14:41:39.226308+00:00",
-    "summary": "Vincent Connare (born September 26, 1960) [ 1 ] [ 2 ] is an American type designer and former Microsoft employee. Among his creations are the fonts Comic Sans and Trebuchet MS , as well as the Man in Business Suit Levitating emoji .",
-    "thumbnail": "thumbnails/60nfi1.webp",
-    "tags": [
-      "AJA",
-      "Microsoft",
-      "University",
-      "Reading",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:48:40.776651+00:00"
   },
   {
     "id": "60mhx6",
@@ -635,35 +405,10 @@
     "summary": "",
     "thumbnail": "thumbnails/60mhx6.webp",
     "tags": [
-      "Bruno le Roux",
-      "Lab Europe 1",
-      "Politique"
+      "Corruption",
+      "Élection présidentielle"
     ],
     "analyzed_at": "2026-11-01T09:48:41.306800+00:00"
-  },
-  {
-    "id": "60ij4y",
-    "title": "Les 24 contrats des filles de Bruno Le Roux à l’Assemblée notamment pendant le lycée.",
-    "url": "https://www.tf1.fr/tmc/quotidien-avec-yann-barthes/news/bruno-roux-a-employe-filles-a-l-assemblee-nationale-etaient-lycee-2795469.html",
-    "permalink": "/r/france/comments/60ij4y/les_24_contrats_des_filles_de_bruno_le_roux_à/",
-    "created_at": "2017-03-20T19:11:54+00:00",
-    "score": 135,
-    "num_comments": 42,
-    "subreddit": "france",
-    "author": "[deleted]",
-    "flair": "Politique",
-    "domain": "tf1.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/auecHGULqUi__KTvl4pRK--TGW7sK6y9_LYCiD1OxuU.jpg?auto=webp&s=c05cb2ed9b35f3655019a0468354e4a439beca3f",
-    "ingested_at": "2026-10-31T14:41:39.226834+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/60ij4y.webp",
-    "tags": [
-      "Bruno le Roux",
-      "Assemblée",
-      "Politique"
-    ],
-    "analyzed_at": "2026-11-01T09:48:41.036008+00:00"
   },
   {
     "id": "60gibf",
@@ -703,38 +448,10 @@
     "summary": "CONFIDENTIELS RTL - Le candidat à la présidentielle a fini par publier la lettre, après avoir parlé d'\"une calomnie de plus\".",
     "thumbnail": "thumbnails/60gd4g.webp",
     "tags": [
-      "AME",
-      "Santé",
-      "Présidentielle 2017",
-      "Les Républicains",
-      "Confidentiels politique"
+      "François Fillon",
+      "Élection présidentielle"
     ],
     "analyzed_at": "2026-11-01T09:48:41.869395+00:00"
-  },
-  {
-    "id": "60bxnj",
-    "title": "La Tunisie réaffirme son choix de la langue française",
-    "url": "http://www.lematindz.net/news/23650-la-tunisie-reaffirme-son-choix-de-la-langue-francaise.html",
-    "permalink": "/r/france/comments/60bxnj/la_tunisie_réaffirme_son_choix_de_la_langue/",
-    "created_at": "2017-03-19T19:39:58+00:00",
-    "score": 123,
-    "num_comments": 54,
-    "subreddit": "france",
-    "author": "wisi_eu",
-    "flair": "News",
-    "domain": "lematindz.net",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/GKZOG8qP_CEgp0wvitSB6R6UUETJkPk-W5P6dLdXMTg.jpg?auto=webp&s=ba8699e3d8c1e8a5c744f8d385673d7be4d33c55",
-    "ingested_at": "2026-10-31T14:41:39.226963+00:00",
-    "summary": "Le gouvernement tunisien a réaffirmé son attachement au statut privilégié de la langue française, porteuse de valeurs et passerelle vers la vaste Afrique francophone. Cette décision répond aux intérêts supérieurs du pays, tant géopolitiques qu’économiques.",
-    "thumbnail": "thumbnails/60bxnj.webp",
-    "tags": [
-      "Tunisie",
-      "Afrique",
-      "Éducation",
-      "Néji Jalloul"
-    ],
-    "analyzed_at": "2026-11-01T09:48:41.688661+00:00"
   },
   {
     "id": "60bub3",
@@ -754,8 +471,7 @@
     "summary": "\"Une volonté pour la France\" : François Fillon a présenté dimanche le nouveau slogan de sa campagne présidentielle, qui remplace \"Le courage de la vérité\", moqué du",
     "thumbnail": "thumbnails/60bub3.webp",
     "tags": [
-      "François Fillon",
-      "Politique"
+      "François Fillon"
     ],
     "analyzed_at": "2026-11-01T09:48:41.985903+00:00"
   },
@@ -776,36 +492,8 @@
     "ingested_at": "2026-10-31T14:52:32.217691+00:00",
     "summary": "",
     "thumbnail": "thumbnails/6075zo.webp",
-    "tags": [
-      "Chuck Berry"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:48:42.172730+00:00"
-  },
-  {
-    "id": "605gbg",
-    "title": "Le 18 mars 1871, il y a de ça 146 ans, démarra la Commune de Paris",
-    "url": "https://fr.wikipedia.org/wiki/Commune_de_Paris_(1871)",
-    "permalink": "/r/france/comments/605gbg/le_18_mars_1871_il_y_a_de_ça_146_ans_démarra_la/",
-    "created_at": "2017-03-18T18:05:28+00:00",
-    "score": 152,
-    "num_comments": 67,
-    "subreddit": "france",
-    "author": "[deleted]",
-    "flair": "Culture",
-    "domain": "fr.wikipedia.org",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/iKxyEehrI1b2Uh4JksPvOuDTj6aNXRkmaGD_wFMGVLc.jpg?auto=webp&s=27af6f1a46b041d59dc3615b9862593801d4f792",
-    "ingested_at": "2026-10-31T14:41:39.226667+00:00",
-    "summary": "Pour les articles homonymes, voir Commune de Paris (homonymie) et Commune (homonymie) . Ne doit pas être confondu avec Commune de Paris (Révolution française) .",
-    "thumbnail": "thumbnails/605gbg.webp",
-    "tags": [
-      "Commune de Paris",
-      "Commune",
-      "Paris",
-      "République",
-      "Culture"
-    ],
-    "analyzed_at": "2026-11-01T09:48:44.082988+00:00"
   },
   {
     "id": "6037mt",
@@ -825,8 +513,7 @@
     "summary": "",
     "thumbnail": "thumbnails/6037mt.webp",
     "tags": [
-      "Orly",
-      "Sentinelle"
+      "Défense"
     ],
     "analyzed_at": "2026-11-01T09:48:42.263722+00:00"
   },
@@ -847,11 +534,7 @@
     "ingested_at": "2026-10-31T14:41:39.226288+00:00",
     "summary": "",
     "thumbnail": "thumbnails/6035vt.webp",
-    "tags": [
-      "Monsanto Papers",
-      "Roundup",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:48:42.605762+00:00"
   },
   {
@@ -872,8 +555,8 @@
     "summary": "Dans le volet justice de son « projet pour la France », François Fillon a fait disparaître l’un des « trois axes » principaux qu’il prônait pendant la primaire, en retirant toutes les propositions li…",
     "thumbnail": "thumbnails/5zx0gy.webp",
     "tags": [
-      "Fillon",
-      "François Fillon"
+      "François Fillon",
+      "Justice"
     ],
     "analyzed_at": "2026-11-01T09:48:43.432586+00:00"
   },
@@ -895,36 +578,9 @@
     "summary": "Max, un étudiant de 19 ans, a déposé plainte ce jeudi. Il aurait été pris à partie par des membres de la sécurité Les Républicains à la fin du meeting ...",
     "thumbnail": "thumbnails/5zwqcz.webp",
     "tags": [
-      "François Fillon",
-      "Marseillaise",
-      "Républicains",
-      "Micropolis",
-      "Politique"
+      "François Fillon"
     ],
     "analyzed_at": "2026-11-01T09:48:43.259377+00:00"
-  },
-  {
-    "id": "5zvyqn",
-    "title": "Deux lettres de dénonciation, 1942",
-    "url": "http://d-d.natanson.pagesperso-orange.fr/lettre_denonciation.htm",
-    "permalink": "/r/france/comments/5zvyqn/deux_lettres_de_dénonciation_1942/",
-    "created_at": "2017-03-17T06:01:31+00:00",
-    "score": 192,
-    "num_comments": 215,
-    "subreddit": "france",
-    "author": "relaxitwonthurt",
-    "flair": "Culture",
-    "domain": "d-d.natanson.pagesperso-orange.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://b.thumbs.redditmedia.com/bfXhGywBHDT-LCWt6zgzkYI0YPEPADdF-tm8r50gkaY.jpg",
-    "ingested_at": "2026-10-31T14:41:39.226351+00:00",
-    "summary": "Lettre envoyée par un gardien du cimetière du Père-Lachaise, qui dénonce un de ses collègues de travail juif.",
-    "thumbnail": "thumbnails/5zvyqn.webp",
-    "tags": [
-      "Père-Lachaise",
-      "Culture"
-    ],
-    "analyzed_at": "2026-11-01T09:48:44.934317+00:00"
   },
   {
     "id": "5zq84u",
@@ -944,7 +600,7 @@
     "summary": "Alpes-Maritimes : fusillade dans un lycée à Grasse, plusieurs blessés",
     "thumbnail": "thumbnails/5zq84u.webp",
     "tags": [
-      "Grasse"
+      "Éducation"
     ],
     "analyzed_at": "2026-11-01T09:48:42.971735+00:00"
   },
@@ -966,9 +622,7 @@
     "summary": "Une journaliste avait exceptionnellement obtenu le droit d'enregistrer des audiences du tribunal de Marseille pour France Culture. Mais lors d'un procès en comparution immédiate, les magistrats ont t…",
     "thumbnail": "thumbnails/5zpfsw.webp",
     "tags": [
-      "France Culture",
-      "Marseille",
-      "Société"
+      "Justice"
     ],
     "analyzed_at": "2026-11-01T09:48:43.736022+00:00"
   },
@@ -990,63 +644,9 @@
     "summary": "La polémique qui concerne Tomas Tobé peut paraître dérisoire aux yeux des Français, mais elle est prise au sérieux dans ce pays connu pour sa fermeté en matière de transparence.",
     "thumbnail": "thumbnails/5zmhnz.webp",
     "tags": [
-      "Tomas Tobé",
-      "Français",
-      "Suède",
-      "Expressen",
-      "Société"
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T09:48:43.829625+00:00"
-  },
-  {
-    "id": "5zlapm",
-    "title": "L'éclatement du Royaume ? L'Irlande du Nord et le Pays de Galles réclament aussi un référendum",
-    "url": "https://fr.express.live/2017/03/15/irlande-du-nord-pays-de-galles-referendum-independance/",
-    "permalink": "/r/france/comments/5zlapm/léclatement_du_royaume_lirlande_du_nord_et_le/",
-    "created_at": "2017-03-15T18:49:55+00:00",
-    "score": 129,
-    "num_comments": 50,
-    "subreddit": "france",
-    "author": "[deleted]",
-    "flair": "Société",
-    "domain": "fr.express.live",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/0E4XPBdETWJQavmzfnZly9Pj_-fufnWmvLuUW25GoiE.jpg?auto=webp&s=a51259a0d17e6bb076b6b2b79796eac43996a194",
-    "ingested_at": "2026-10-31T14:41:39.226943+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/5zlapm.webp",
-    "tags": [
-      "Royaume",
-      "Nord et le Pays de Galles",
-      "Société"
-    ],
-    "analyzed_at": "2026-11-01T09:49:01.947589+00:00"
-  },
-  {
-    "id": "5ziiy9",
-    "title": "Quand on te dit que Macron fait partie des candidats de gauche",
-    "url": "https://media.giphy.com/media/3oKIP5MWR41Cp9zXnG/giphy.gif",
-    "permalink": "/r/france/comments/5ziiy9/quand_on_te_dit_que_macron_fait_partie_des/",
-    "created_at": "2017-03-15T10:14:24+00:00",
-    "score": 331,
-    "num_comments": 192,
-    "subreddit": "france",
-    "author": "archlordluc",
-    "flair": "Politique",
-    "domain": "media.giphy.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/M1MPAVppSJBf4WjTNWRir-LzMqEM2zisE4HBIlMgik0.gif?format=png8&s=e54db5c90cb5bd4730619040968f50b087f93512",
-    "ingested_at": "2026-10-31T14:41:39.226039+00:00",
-    "summary": "Discover & share this Animated GIF with everyone you know. GIPHY is how you search, share, discover, and create GIFs.",
-    "thumbnail": "thumbnails/5ziiy9.webp",
-    "tags": [
-      "Animated GIF",
-      "Macron",
-      "GIPHY",
-      "GIFs",
-      "Politique"
-    ],
-    "analyzed_at": "2026-11-01T09:48:44.033034+00:00"
   },
   {
     "id": "5zhws9",
@@ -1066,11 +666,7 @@
     "summary": "L’ouvrage Marine est au courant de tout… (Flammarion) documente pour la première fois l’implication personnelle de Marine Le Pen dans les financements litigieux du FN, dont elle a confié les clefs à …",
     "thumbnail": "thumbnails/5zhws9.webp",
     "tags": [
-      "Front National",
-      "Marine",
-      "Marine le Pen",
-      "FN",
-      "Politique"
+      "Marine Le Pen"
     ],
     "analyzed_at": "2026-11-01T09:48:44.716197+00:00"
   },
@@ -1093,108 +689,10 @@
     "thumbnail": "thumbnails/5zceh2.webp",
     "tags": [
       "François Fillon",
-      "Républicains",
-      "Elysée",
-      "Affaires Fillon",
-      "Politique"
+      "Justice",
+      "Corruption"
     ],
     "analyzed_at": "2026-11-01T09:48:44.142840+00:00"
-  },
-  {
-    "id": "5zbbub",
-    "title": "Is Paris today nothing more than a third-world colony hellhole?",
-    "url": "https://www.quora.com/Is-Paris-today-nothing-more-than-a-third-world-colony-hellhole/answer/Per-J%C3%B8rgensen?srid=oOOl",
-    "permalink": "/r/france/comments/5zbbub/is_paris_today_nothing_more_than_a_thirdworld/",
-    "created_at": "2017-03-14T10:20:47+00:00",
-    "score": 187,
-    "num_comments": 237,
-    "subreddit": "france",
-    "author": "chmikes",
-    "flair": "Société",
-    "domain": "quora.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/iIZ2kkSx7N2FHDQvTGAWKSnIEKnAiRc9E6_UNA_RjWQ.jpg?auto=webp&s=0d9f64ef9f45f3e00f1236866d7ae25d0e4edf49",
-    "ingested_at": "2026-10-31T14:41:39.226373+00:00",
-    "summary": "",
-    "thumbnail": "",
-    "tags": [
-      "Is Paris",
-      "Société"
-    ],
-    "analyzed_at": "2026-11-01T09:48:44.255083+00:00"
-  },
-  {
-    "id": "5z6dru",
-    "title": "Aucune nouvelle révélation sur François Fillon depuis plusieurs minutes",
-    "url": "http://www.legorafi.fr/2017/03/13/aucune-nouvelle-revelation-sur-francois-fillon-depuis-plusieurs-minutes/",
-    "permalink": "/r/france/comments/5z6dru/aucune_nouvelle_révélation_sur_françois_fillon/",
-    "created_at": "2017-03-13T17:34:51+00:00",
-    "score": 319,
-    "num_comments": 24,
-    "subreddit": "france",
-    "author": "Silencement",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/_--r0d7TFSkEQ6wX3lY5nzGaitAXI5n-7-ukUkqgnOM.jpeg?auto=webp&s=3c56347c9e4ba9dc7a37e829b8e5478d721e53ed",
-    "ingested_at": "2026-10-31T14:41:39.226062+00:00",
-    "summary": "Paris – Selon de nombreuses sources contradictoires, il semble qu'il n'y ait pas eu la moindre révélation compromettante sur François Fillon et ce depuis plusieurs très longues minutes. Analyse.",
-    "thumbnail": "thumbnails/5z6dru.webp",
-    "tags": [
-      "François Fillon",
-      "Jordan Bardella",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:48:44.084444+00:00"
-  },
-  {
-    "id": "5z5ank",
-    "title": "L’Écosse anti-Brexit va lancer un référendum pour l’indépendance",
-    "url": "https://www.lequotidien.lu/a-la-une/lecosse-anti-brexit-va-lancer-un-referendum-pour-lindependance/",
-    "permalink": "/r/france/comments/5z5ank/lécosse_antibrexit_va_lancer_un_référendum_pour/",
-    "created_at": "2017-03-13T14:34:20+00:00",
-    "score": 174,
-    "num_comments": 197,
-    "subreddit": "france",
-    "author": "asimovwasright",
-    "flair": "News",
-    "domain": "lequotidien.lu",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/ELlT957HSNSqXbWv4TIHZYselZRBpPH1rQyb3gsYbDc.jpg?auto=webp&s=2c82236572d1373c681401853dff9ada4ca03a17",
-    "ingested_at": "2026-10-31T14:41:39.226484+00:00",
-    "summary": "En annonçant lundi qu'elle allait lancer un nouveau référendum d'indépendance, la Première ministre ...",
-    "thumbnail": "thumbnails/5z5ank.webp",
-    "tags": [
-      "UE",
-      "Brexit",
-      "Nicola Sturgeon",
-      "Écosse",
-      "Première"
-    ],
-    "analyzed_at": "2026-11-01T09:48:45.110972+00:00"
-  },
-  {
-    "id": "5z0tq7",
-    "title": "[Pas le gorafi] Ils brûlent le drapeau français au lieu du drapeau néerlandais",
-    "url": "http://www.dumpert.nl/mediabase/7073135/21ca726a/turken_verbranden_nederlandse_vlag.html",
-    "permalink": "/r/france/comments/5z0tq7/pas_le_gorafi_ils_brûlent_le_drapeau_français_au/",
-    "created_at": "2017-03-12T20:41:16+00:00",
-    "score": 80,
-    "num_comments": 39,
-    "subreddit": "france",
-    "author": "eHorsee",
-    "flair": "News",
-    "domain": "dumpert.nl",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/OQ7lOeVt1Wjwn6Fe4dNRY5CdApwWKBvDoa6feGuv32w.jpeg?auto=webp&s=21057713b1c2a58096606243e96082be2515e055",
-    "ingested_at": "2026-10-31T14:52:32.218065+00:00",
-    "summary": "Turken denken Nederlandse vlag te verbranden.. of was het toch de Franse?",
-    "thumbnail": "thumbnails/5z0tq7.webp",
-    "tags": [
-      "Nederlandse",
-      "Franse"
-    ],
-    "analyzed_at": "2026-11-01T09:48:44.928880+00:00"
   },
   {
     "id": "5yxz7x",
@@ -1214,10 +712,7 @@
     "summary": "Quelques jours après les révélations embarrassantes du Canard Enchaîné sur l'emploi fictif dont aurait bénéficié son épouse, François Fillon se faisait payer pour 13.000 euros de costumes par un anonyme, révèle le JDD. Au total, depuis 2012, le candidat de la droite se serait fait offrir pour 48.500...",
     "thumbnail": "thumbnails/5yxz7x.webp",
     "tags": [
-      "François Fillon",
-      "JDD",
-      "Canard Enchaîné",
-      "Politique"
+      "François Fillon"
     ],
     "analyzed_at": "2026-11-01T09:48:44.480317+00:00"
   },
@@ -1239,9 +734,7 @@
     "summary": "La France compte environ 60 000 doctorants : de jeunes chercheurs qui travaillent pendant plusieurs années à une thèse, en biologie, en sciences politiques, en mathématiques ou en droit. Mais leur avenir et (…)",
     "thumbnail": "thumbnails/5ytxzy.webp",
     "tags": [
-      "Pôle",
-      "CDD",
-      "Science"
+      "Travail"
     ],
     "analyzed_at": "2026-11-01T09:48:44.580885+00:00"
   },
@@ -1264,80 +757,9 @@
     "thumbnail": "thumbnails/5ysp03.webp",
     "tags": [
       "Jean-Luc Mélenchon",
-      "Conseil",
-      "Rome",
-      "France Télévisions",
-      "Politique"
+      "Élection présidentielle"
     ],
     "analyzed_at": "2026-11-01T09:48:46.141353+00:00"
-  },
-  {
-    "id": "5yoytf",
-    "title": "BD en 3D - Imbattable",
-    "url": "https://pbs.twimg.com/media/C6drUueXQAAcFE1.jpg",
-    "permalink": "/r/france/comments/5yoytf/bd_en_3d_imbattable/",
-    "created_at": "2017-03-10T21:45:09+00:00",
-    "score": 703,
-    "num_comments": 77,
-    "subreddit": "france",
-    "author": "agumonkey",
-    "flair": "Culture",
-    "domain": "pbs.twimg.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/Guop1B5QrboNsaL6H3MIN4kneao8fYJdapWRs4xM_xg.jpg?auto=webp&s=35d77d912bca5e840ad443cc2e92e677fd6e4e06",
-    "ingested_at": "2026-10-31T14:41:39.225890+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/5yoytf.webp",
-    "tags": [
-      "BD",
-      "Culture"
-    ],
-    "analyzed_at": "2026-11-01T09:48:45.823854+00:00"
-  },
-  {
-    "id": "5yltav",
-    "title": "Le nombre d’homicides en France s’écroule… et personne n’en parle ?",
-    "url": "http://positivr.fr/baisse-homicides-france-statistiques-jacques-lecomte/",
-    "permalink": "/r/france/comments/5yltav/le_nombre_dhomicides_en_france_sécroule_et/",
-    "created_at": "2017-03-10T12:36:13+00:00",
-    "score": 109,
-    "num_comments": 70,
-    "subreddit": "france",
-    "author": "bernardryefield",
-    "flair": "Société",
-    "domain": "positivr.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/94RUu2WWPWa8Pvkg2Q9bJH0Z4jl0uouptaQLGdWvcDk.jpeg?auto=webp&s=cb83e080284cbd535742f82979502a6c42452e44",
-    "ingested_at": "2026-10-31T14:52:32.217818+00:00",
-    "summary": "Malgré les impressions diffusées par les médias, le risque de mourir d’une mort violente est trois fois moins important à notre époque qu’il y a vingt ans !",
-    "thumbnail": "thumbnails/5yltav.webp",
-    "tags": [
-      "Société"
-    ],
-    "analyzed_at": "2026-11-01T09:48:44.918965+00:00"
-  },
-  {
-    "id": "5yfv1o",
-    "title": "PSG-Barcelone selon PornHub.",
-    "url": "https://img-9gag-fun.9cache.com/photo/ajX9qQp_700b.jpg",
-    "permalink": "/r/france/comments/5yfv1o/psgbarcelone_selon_pornhub/",
-    "created_at": "2017-03-09T16:02:17+00:00",
-    "score": 163,
-    "num_comments": 10,
-    "subreddit": "france",
-    "author": "Lussarc",
-    "flair": "Humour",
-    "domain": "img-9gag-fun.9cache.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/AaZlQF11e45dK09048xGDH_VrOS7DgG75qNoL2ITFgg.jpg?auto=webp&s=f9c6cf993fd38e3e7ffa7a888fa640449abae240",
-    "ingested_at": "2026-10-31T14:41:39.226527+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/5yfv1o.webp",
-    "tags": [
-      "PornHub",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:48:45.622527+00:00"
   },
   {
     "id": "5ye5ah",
@@ -1356,9 +778,7 @@
     "ingested_at": "2026-10-31T14:52:32.218022+00:00",
     "summary": "",
     "thumbnail": "thumbnails/5ye5ah.webp",
-    "tags": [
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:48:46.229875+00:00"
   },
   {
@@ -1378,62 +798,8 @@
     "ingested_at": "2026-10-31T14:41:39.226876+00:00",
     "summary": "Malgré son exploit du match aller (4-0), le PSG a sombré à Barcelone (1-6), ce mercredi en huitième de finale retour de la Ligue des champions..",
     "thumbnail": "thumbnails/5yawt9.webp",
-    "tags": [
-      "PSG",
-      "Ligue",
-      "Barcelone",
-      "Barça",
-      "Sport"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:48:51.526338+00:00"
-  },
-  {
-    "id": "5y7aig",
-    "title": "Toi aussi, calcule la densité de tes partisans au Trocadéro",
-    "url": "http://p.nf/mapchecking/#3;48.8628950,2.2869780,18",
-    "permalink": "/r/france/comments/5y7aig/toi_aussi_calcule_la_densité_de_tes_partisans_au/",
-    "created_at": "2017-03-08T10:58:39+00:00",
-    "score": 114,
-    "num_comments": 41,
-    "subreddit": "france",
-    "author": "DadKarna",
-    "flair": "Technos",
-    "domain": "p.nf",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/ZuegY0QXacKrD5KaoUaJoJDsvrt0y3t63WJahpYvc38.png?auto=webp&s=589f15cd7fa32ff89a9b738f80d2ffa9b7234877",
-    "ingested_at": "2026-10-31T14:52:32.217734+00:00",
-    "summary": "MapChecking helps you estimate the number of people standing in a given area. Fact check and debunk political claims during gatherings, march, and protests. #OSINT",
-    "thumbnail": "thumbnails/5y7aig.webp",
-    "tags": [
-      "Trocadéro",
-      "OSINT",
-      "Technos"
-    ],
-    "analyzed_at": "2026-11-01T09:48:45.479309+00:00"
-  },
-  {
-    "id": "5y77ls",
-    "title": "Le nouveau plan sur la santé de Trump s'appelle officiellement \"World's Greatest Healthcare Plan of 2017\"",
-    "url": "https://www.congress.gov/bill/115th-congress/house-bill/1275",
-    "permalink": "/r/france/comments/5y77ls/le_nouveau_plan_sur_la_santé_de_trump_sappelle/",
-    "created_at": "2017-03-08T10:33:56+00:00",
-    "score": 288,
-    "num_comments": 137,
-    "subreddit": "france",
-    "author": "loulan",
-    "flair": "Politique",
-    "domain": "congress.gov",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/8gPxSVoppp7KipwNgOQK0WDSWvwDwOOj0vOGt47jvXY.jpg?auto=webp&s=2e70de6f3e6b6a22305389b3744a5c880b1afc28",
-    "ingested_at": "2026-10-31T14:41:39.226083+00:00",
-    "summary": "",
-    "thumbnail": "",
-    "tags": [
-      "Trump",
-      "World's Greatest Healthcare Plan",
-      "Politique"
-    ],
-    "analyzed_at": "2026-11-01T09:48:46.774335+00:00"
   },
   {
     "id": "5y020b",
@@ -1452,11 +818,7 @@
     "ingested_at": "2026-10-31T14:41:39.226422+00:00",
     "summary": "L'animal a reçu trois balles, dans la nuit de lundi à mardi, d'après les informations recueillies par franceinfo. Les individus ont également scié une corne du rhinocéros. C'est une première en Europe.",
     "thumbnail": "thumbnails/5y020b.webp",
-    "tags": [
-      "Thoiry",
-      "Europe",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:48:46.204147+00:00"
   },
   {
@@ -1477,35 +839,9 @@
     "summary": "",
     "thumbnail": "thumbnails/5xzuzt.webp",
     "tags": [
-      "Trocadéro",
-      "Fillon",
-      "Politique"
+      "François Fillon"
     ],
     "analyzed_at": "2026-11-01T09:48:47.351912+00:00"
-  },
-  {
-    "id": "5xzd2l",
-    "title": "Le programme de Jean-Luc Mélenchon mis en BD",
-    "url": "http://www.melakarnets.com/index.php",
-    "permalink": "/r/france/comments/5xzd2l/le_programme_de_jeanluc_mélenchon_mis_en_bd/",
-    "created_at": "2017-03-07T08:57:20+00:00",
-    "score": 117,
-    "num_comments": 316,
-    "subreddit": "france",
-    "author": "zirman",
-    "flair": "Politique",
-    "domain": "melakarnets.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://a.thumbs.redditmedia.com/tmpX520h7tCRB67xlI1NGJSCO7NGcXtsE2rteCBaen0.jpg",
-    "ingested_at": "2026-10-31T14:41:39.226984+00:00",
-    "summary": "Un Pire date très court cette semaine, parce que je suis débordée de taf et que j’ai pas le temps de faire plus !! Hey ! Je vais remettre ici mon coup de gueule de ces derniers jours sur les réseaux, prenez soin de vous et surtout, protégeons nos jeunes !! EDIT du 05/10 pour le blog.",
-    "thumbnail": "thumbnails/5xzd2l.webp",
-    "tags": [
-      "BD",
-      "Jean-Luc Mélenchon",
-      "Politique"
-    ],
-    "analyzed_at": "2026-11-01T09:48:47.197370+00:00"
   },
   {
     "id": "5xzcvl",
@@ -1525,85 +861,9 @@
     "summary": "Invité sur le plateau du JT de France 2 dimanche soir, François Fillon a choqué et déclenché la colère des associations d'autistes, en répétant à trois reprises \"je ne suis pas autiste\". Ce lundi 6 mars, SOS autisme...",
     "thumbnail": "thumbnails/5xzcvl.webp",
     "tags": [
-      "François Fillon",
-      "SOS",
-      "CSA",
-      "JT de France 2",
-      "Politique"
+      "François Fillon"
     ],
     "analyzed_at": "2026-11-01T09:48:46.574039+00:00"
-  },
-  {
-    "id": "5xywi5",
-    "title": "\"En 2017 tu votes pour la France, tu decides pour l'Europe\"",
-    "url": "https://pbs.twimg.com/media/C6KW8sVWMAAA6Hf.jpg",
-    "permalink": "/r/france/comments/5xywi5/en_2017_tu_votes_pour_la_france_tu_decides_pour/",
-    "created_at": "2017-03-07T06:37:30+00:00",
-    "score": 123,
-    "num_comments": 253,
-    "subreddit": "france",
-    "author": "Frenchbaguette123",
-    "flair": "Société",
-    "domain": "pbs.twimg.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/QdqHbFK5pYwat2XB0s1f1qt21YdOcwdao1r4LcgDVPw.jpg?auto=webp&s=61d5a44d433a293622c9441c13e7d6648620e9fe",
-    "ingested_at": "2026-10-31T14:52:32.217521+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/5xywi5.webp",
-    "tags": [
-      "Europe",
-      "Société"
-    ],
-    "analyzed_at": "2026-11-01T09:48:49.811368+00:00"
-  },
-  {
-    "id": "5xss50",
-    "title": "Le corps de la campagne de François Fillon retrouvé sans vie à son domicile",
-    "url": "http://www.legorafi.fr/2017/03/06/le-corps-de-la-campagne-de-francois-fillon-retrouvee-sans-vie-a-son-domicile/",
-    "permalink": "/r/france/comments/5xss50/le_corps_de_la_campagne_de_françois_fillon/",
-    "created_at": "2017-03-06T11:41:15+00:00",
-    "score": 114,
-    "num_comments": 12,
-    "subreddit": "france",
-    "author": "Acm0xff",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/qE-HYel0S-3tNLtgI-fHCVTPCYt-YznhlYA8pOidtsY.jpeg?auto=webp&s=d5183ec58c98f2a0ac4e74219f3aa67dde90596c",
-    "ingested_at": "2026-10-31T14:52:32.217712+00:00",
-    "summary": "Paris – Dramatique et sordide découverte. Alors qu'il venait prendre des nouvelles, François Baroin a découvert ce matin le corps sans vie de la campagne de François Fillon. Reportage.",
-    "thumbnail": "thumbnails/5xss50.webp",
-    "tags": [
-      "François Fillon",
-      "François Baroin",
-      "Jordan Bardella",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:48:46.462480+00:00"
-  },
-  {
-    "id": "5xsi26",
-    "title": "La forêt en France métropolitaine",
-    "url": "http://www.ign.fr/institut/dossiers/foret-en-france-metropolitaine",
-    "permalink": "/r/france/comments/5xsi26/la_forêt_en_france_métropolitaine/",
-    "created_at": "2017-03-06T10:14:05+00:00",
-    "score": 81,
-    "num_comments": 44,
-    "subreddit": "france",
-    "author": "Swamp_talker",
-    "flair": "Société",
-    "domain": "ign.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/EaBSrBXqIP_VTHNDoO053AmI9SdbhO4mmqhOGlpU71M.png?auto=webp&s=655908c3bb3ace0562420b63acc1d9430985b005",
-    "ingested_at": "2026-10-31T14:52:32.218044+00:00",
-    "summary": "Près d’un tiers du territoire métropolitain est couvert de forêt. Ce patrimoine d’une grande diversité biologique place la France quatrième dans le classement des États européens les plus boisés. Mais que sait-on vraiment de l’état de nos forêts ? Et comment produit-on les données de référence à leur sujet ?",
-    "thumbnail": "thumbnails/5xsi26.webp",
-    "tags": [
-      "États",
-      "YouTube",
-      "Société"
-    ],
-    "analyzed_at": "2026-11-01T09:48:46.889073+00:00"
   },
   {
     "id": "5xp2he",
@@ -1623,62 +883,10 @@
     "summary": "François Fillon s'était calmé, ce dimanche 5 mars au JT de 20h sur France 2 face à Laurent Delahousse. Pas un mot plus haut que l'autre, pas de déclarations à l'emporte-pièce contre la justice ou les médias... Manifestement apaisé par le rassemblement...",
     "thumbnail": "thumbnails/5xp2he.webp",
     "tags": [
-      "Fillon",
-      "Penelope",
       "François Fillon",
-      "JT",
-      "Politique"
+      "Médias"
     ],
     "analyzed_at": "2026-11-01T09:48:47.617065+00:00"
-  },
-  {
-    "id": "5xm0n9",
-    "title": "Gérer l'angoisse de la page blanche en 40 étapes - Bouletcorp.com",
-    "url": "http://www.bouletcorp.com/2017/03/05/vaincre-le-syndrome-de-la-page-blanche-en-40-etapes/",
-    "permalink": "/r/france/comments/5xm0n9/gérer_langoisse_de_la_page_blanche_en_40_étapes/",
-    "created_at": "2017-03-05T09:02:14+00:00",
-    "score": 183,
-    "num_comments": 14,
-    "subreddit": "france",
-    "author": "[deleted]",
-    "flair": "Culture",
-    "domain": "bouletcorp.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/6C2U81DeaKuQ30Cwr6eUSysCjx5kwAoD8oH0Q-lj01o.jpg?auto=webp&s=55d5752ee5cd2f83fe287a486f69fe9076c3601e",
-    "ingested_at": "2026-10-31T14:41:39.226443+00:00",
-    "summary": "Boulet. Je suis un auteur/illustrateur né en 1975.",
-    "thumbnail": "thumbnails/5xm0n9.webp",
-    "tags": [
-      "Tchô",
-      "Rubrique Scientifique",
-      "Miya",
-      "Donjon de Trondheim et Sfar",
-      "Culture"
-    ],
-    "analyzed_at": "2026-11-01T09:48:47.175696+00:00"
-  },
-  {
-    "id": "5xgs4u",
-    "title": "Est-ce que on a quelqu'un qui vit près du Trocadéro et qui a une grosse imprimante?",
-    "url": "https://pbs.twimg.com/media/C6ENoiNWUAAiLtj.jpg:large",
-    "permalink": "/r/france/comments/5xgs4u/estce_que_on_a_quelquun_qui_vit_près_du_trocadéro/",
-    "created_at": "2017-03-04T12:58:18+00:00",
-    "score": 239,
-    "num_comments": 38,
-    "subreddit": "france",
-    "author": "Moarbadass",
-    "flair": "Humour",
-    "domain": "pbs.twimg.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/Oz9zhfZmZIXpfLbr8IXinvsuNDINkIS9LvxrSeX-SLA.jpg?auto=webp&s=69c4cef6ac4591fdbe82a2477b997724794cc649",
-    "ingested_at": "2026-10-31T14:41:39.226125+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/5xgs4u.webp",
-    "tags": [
-      "Trocadéro",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:48:50.284501+00:00"
   },
   {
     "id": "5xfu2h",
@@ -1698,63 +906,9 @@
     "summary": "Avant de devenir le directeur de campagne de Marine Le Pen en 2012, Florian Philippot avait fait fuiter des informations du ministère de l'I",
     "thumbnail": "thumbnails/5xfu2h.webp",
     "tags": [
-      "FN",
-      "Marine le Pen",
-      "Pen",
-      "Florian Philippot",
-      "Politique"
+      "Marine Le Pen"
     ],
     "analyzed_at": "2026-11-01T09:48:47.537028+00:00"
-  },
-  {
-    "id": "5xbxvb",
-    "title": "Atheism in Europe (croix-poteau r/dataisbeautiful)",
-    "url": "http://imagus.net/img/daz",
-    "permalink": "/r/france/comments/5xbxvb/atheism_in_europe_croixpoteau_rdataisbeautiful/",
-    "created_at": "2017-03-03T18:11:54+00:00",
-    "score": 181,
-    "num_comments": 171,
-    "subreddit": "france",
-    "author": "OVQF",
-    "flair": "Société",
-    "domain": "imagus.net",
-    "selftext": "",
-    "reddit_thumbnail": "https://a.thumbs.redditmedia.com/P7z_YHY9Z1DU_3vhLhFtMSuFAHXhW0_wfh5e56xob10.jpg",
-    "ingested_at": "2026-10-31T14:41:39.226401+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/5xbxvb.webp",
-    "tags": [
-      "Europe",
-      "Imagus",
-      "Images",
-      "Pictures",
-      "Société"
-    ],
-    "analyzed_at": "2026-11-01T09:48:51.710607+00:00"
-  },
-  {
-    "id": "5xa47r",
-    "title": "German poverty 'hits record high' despite low unemployment",
-    "url": "https://www.thelocal.de/20170303/german-poverty-hits-record-high-despite-low-unemployment",
-    "permalink": "/r/france/comments/5xa47r/german_poverty_hits_record_high_despite_low/",
-    "created_at": "2017-03-03T12:41:01+00:00",
-    "score": 178,
-    "num_comments": 121,
-    "subreddit": "france",
-    "author": "Joseph_Stalion",
-    "flair": "Politique",
-    "domain": "thelocal.de",
-    "selftext": "",
-    "reddit_thumbnail": "https://b.thumbs.redditmedia.com/F7F0azceDNIibj4FkQqdEkvvlJPAp7Iidi32e3za7iY.jpg",
-    "ingested_at": "2026-10-31T14:41:39.226464+00:00",
-    "summary": "A new report claims that more Germans are poor now than at any time since reunification. But some experts have dismissed the numbers as \"not serious and stupid\".",
-    "thumbnail": "thumbnails/5xa47r.webp",
-    "tags": [
-      "Germans",
-      "Equal Welfare Association",
-      "Politique"
-    ],
-    "analyzed_at": "2026-11-01T09:48:48.661827+00:00"
   },
   {
     "id": "5x9fge",
@@ -1774,11 +928,7 @@
     "summary": "Malgré sa mise en examen pour trafic d'influence au profit des laboratoires Servier dans le scandale du Mediator, l'ancienne sénatrice UMP de Paris, Marie-Thérèse Hermange, a été confirmée au comité d’éthique de l’Académie de médecine, révèle \"Le Figaro\" ce mardi 28 février.",
     "thumbnail": "thumbnails/5x9fge.webp",
     "tags": [
-      "Mediator",
-      "Marie-Thérèse Hermange",
-      "Servier",
-      "Académie",
-      "Société"
+      "Justice"
     ],
     "analyzed_at": "2026-11-01T09:48:48.243140+00:00"
   },
@@ -1800,38 +950,9 @@
     "summary": "François Fillon repart en campagne dans le Gard avant un rassemblement dimanche au Trocadéro à Paris.",
     "thumbnail": "thumbnails/5x2cry.webp",
     "tags": [
-      "François Fillon",
-      "Fillon",
-      "Paris",
-      "Trocadéro",
-      "Politique"
+      "François Fillon"
     ],
     "analyzed_at": "2026-11-01T09:48:48.535406+00:00"
-  },
-  {
-    "id": "5x2aua",
-    "title": "Canard Enchainé : le déontologue de l'Assemblée (42 k€ / an) cumule avec un temps plein de Professeur d'Université (70k€ / an)",
-    "url": "https://pbs.twimg.com/media/C53RBeIWAAAKTnG.jpg",
-    "permalink": "/r/france/comments/5x2aua/canard_enchainé_le_déontologue_de_lassemblée_42_k/",
-    "created_at": "2017-03-02T09:27:19+00:00",
-    "score": 372,
-    "num_comments": 110,
-    "subreddit": "france",
-    "author": "LOfficine",
-    "flair": "Politique",
-    "domain": "pbs.twimg.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/lTjdI4gveYNSMdg0rBmndu1TgXKemGknfMArPImfNlc.jpeg?auto=webp&s=2fec6c29036f731a941343b5e62c31656fed4196",
-    "ingested_at": "2026-10-31T14:41:39.226016+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/5x2aua.webp",
-    "tags": [
-      "Canard Enchainé",
-      "Assemblée",
-      "Professeur Université",
-      "Politique"
-    ],
-    "analyzed_at": "2026-11-01T09:48:51.151103+00:00"
   },
   {
     "id": "5x0y3w",
@@ -1851,31 +972,9 @@
     "summary": "",
     "thumbnail": "thumbnails/5x0y3w.webp",
     "tags": [
-      "Fillon"
+      "François Fillon"
     ],
     "analyzed_at": "2026-11-01T09:48:50.750747+00:00"
-  },
-  {
-    "id": "5wycwb",
-    "title": "Les assassinats des politiques célèbres",
-    "url": "https://i.reddituploads.com/2731ab93f42040d4af7745d1d95277cb?fit=max&h=1536&w=1536&s=16317aa96035ca126266965035f8b892",
-    "permalink": "/r/france/comments/5wycwb/les_assassinats_des_politiques_célèbres/",
-    "created_at": "2017-03-01T20:06:22+00:00",
-    "score": 483,
-    "num_comments": 50,
-    "subreddit": "france",
-    "author": "flaneurdistrait",
-    "flair": "Humour",
-    "domain": "i.reddituploads.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/FWIN5fxwJqZcN6p8xQpdT1CanyF3Kb1QmDf7dh4Emho.jpg?auto=webp&s=490476b370d04eca064631a8d41a247486cbc951",
-    "ingested_at": "2026-10-31T14:41:39.225970+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/5wycwb.webp",
-    "tags": [
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:48:49.609630+00:00"
   },
   {
     "id": "5wueo9",
@@ -1895,11 +994,7 @@
     "summary": "INFO JDD - François Fillon a annulé à la dernière minute et sans explication sa visite au Salon de l'agriculture ce mercredi. Visé par une information judiciaire dans le cadre du PenelopeGate, le candidat a été convoqué par les juges aux fins de mise en examen, selon des sources proches de l'ancien Premier ministre.",
     "thumbnail": "thumbnails/5wueo9.webp",
     "tags": [
-      "JDD",
-      "François Fillon",
-      "Salon",
-      "PenelopeGate",
-      "Premier"
+      "François Fillon"
     ],
     "analyzed_at": "2026-11-01T09:48:50.303400+00:00"
   }

@@ -1,31 +1,5 @@
 [
   {
-    "id": "16whi4b",
-    "title": "La préfecture de Paris interdit la « manifestation contre le racisme »",
-    "url": "https://blogs.mediapart.fr/marche-des-solidarites/blog/300923/la-prefecture-de-paris-interdit-la-manifestation-contre-le-racisme",
-    "permalink": "/r/france/comments/16whi4b/la_préfecture_de_paris_interdit_la_manifestation/",
-    "created_at": "2023-09-30T20:50:38+00:00",
-    "score": 179,
-    "num_comments": 70,
-    "subreddit": "france",
-    "author": "Alarming-Estimate-19",
-    "flair": "Politique",
-    "domain": "blogs.mediapart.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/fM-7JEICd3Cap5e2hedGeopT7V2AImHBT7GOQ2hJkm8.png?auto=webp&s=580e04d8b13d98c1032a6fd7df115e9f1a5eba63",
-    "ingested_at": "2026-11-01T10:45:31.562382+00:00",
-    "summary": "La préfecture de police a interdit le rassemblement au métro Filles du Calvaire. La Marche des Solidarités et la CSP 75 appellent à se rassembler à 18H00 place de la Bastille ce samedi 30 septembre. …",
-    "thumbnail": "thumbnails/16whi4b.webp",
-    "tags": [
-      "Paris",
-      "Filles du Calvaire",
-      "Marche des Solidarités et la CSP 75",
-      "Bastille",
-      "Politique"
-    ],
-    "analyzed_at": "2026-11-01T10:48:55.022660+00:00"
-  },
-  {
     "id": "16w04d7",
     "title": "Soupçons de blanchiment: une enquête préliminaire vise Bernard Arnault et Nikolaï Sarkisov",
     "url": "https://www.bfmtv.com/economie/entreprises/soupcons-de-blanchiment-une-enquete-preliminaire-vise-bernard-arnault-et-nikolai-sarkisov_AD-202309290413.html",
@@ -42,13 +16,7 @@
     "ingested_at": "2026-11-01T10:45:31.562261+00:00",
     "summary": "Le parquet de Paris a confirmé l'existence d'une enquête pour des soupçons de blanchiment portant sur des opérations immobilières impliquant Bernard Arnault et l'oligarque russe Nikolaï Sarkisov.",
     "thumbnail": "thumbnails/16w04d7.webp",
-    "tags": [
-      "Bernard Arnault et Nikolaï Sarkisov",
-      "Nikolaï Sarkisov",
-      "Bernard Arnault",
-      "Paris",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:48:55.336858+00:00"
   },
   {
@@ -69,11 +37,9 @@
     "summary": "L’animateur de CNews est accusé de véhiculer un cliché raciste, qui rappelle les stéréotypes antisémites des années 30.",
     "thumbnail": "thumbnails/16vbioq.webp",
     "tags": [
-      "Pascal Praud",
-      "Arcom",
-      "CNews",
-      "Politique",
-      "Médias"
+      "Médias",
+      "Immigration",
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T10:48:54.589028+00:00"
   },
@@ -94,9 +60,7 @@
     "ingested_at": "2026-11-01T10:45:31.560660+00:00",
     "summary": "La quasi-intégralité des tokens non fongibles (NFT) ne vaut plus rien. Une étude révèle que la plupart des investisseurs se retrouvent avec une image numérique sans aucune valeur marchande. Et c'est une bonne chose pour le marché NFT.",
     "thumbnail": "thumbnails/16varem.webp",
-    "tags": [
-      "NFT"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:48:55.027118+00:00"
   },
   {
@@ -117,9 +81,7 @@
     "summary": "Les députés de la majorité présidentielle et LR se sont accordés sur un minimum de 15 heures d'activités obligatoires hebdomadaires pour les bénéficiaires du RSA, sauf exceptions. Il s'agit de l'un des points les plus décriés du projet de loi « pour le plein-emploi ».",
     "thumbnail": "thumbnails/16ugxlr.webp",
     "tags": [
-      "RSA",
-      "LR",
-      "Société"
+      "Pauvreté"
     ],
     "analyzed_at": "2026-11-01T10:49:00.716245+00:00"
   },
@@ -140,11 +102,7 @@
     "ingested_at": "2026-11-01T10:45:31.561769+00:00",
     "summary": "Avec moins de 726 000 nouveau-nés l'an dernier, le recul entamé depuis le début des années 2010 se confirme. Il risque de s'aggraver encore en 2023, avec un fort repli déjà enregistré au premier semestre.",
     "thumbnail": "thumbnails/16uc6mx.webp",
-    "tags": [
-      "Seconde Guerre",
-      "Insee",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:48:55.586595+00:00"
   },
   {
@@ -165,8 +123,7 @@
     "summary": "",
     "thumbnail": "thumbnails/16tqu0r.webp",
     "tags": [
-      "Emmanuel Macron",
-      "A69"
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T10:48:55.370782+00:00"
   },
@@ -188,11 +145,9 @@
     "summary": "La France et l’Italie ferraillaient notamment contre l’Allemagne pour fixer les nouvelles normes d’émissions d’oxyde d’azote et de particules fines des véhicules. Mais le Conseil de l’UE s’est aligné au lobby de l’automobile.",
     "thumbnail": "thumbnails/16tdhmi.webp",
     "tags": [
-      "UE",
-      "Macron",
-      "France et Italie",
-      "Allemagne",
-      "Politique"
+      "Union européenne",
+      "Emmanuel Macron",
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T10:49:02.437778+00:00"
   },
@@ -214,11 +169,8 @@
     "summary": "Amélie Oudéa-Castéra a vanté les mérites de Coca-Cola, partenaire de l’organisation des JO de Paris 2024. Une entreprise pourtant pointée du doigt pour ses ravages environnementaux et dans le collimateur de Bercy pour redressement fiscal",
     "thumbnail": "thumbnails/16svb7o.webp",
     "tags": [
-      "Coca-Cola",
-      "Amélie Oudéa-Castéra",
-      "Jeux",
-      "JO de Paris 2024",
-      "Écologie"
+      "Environnement",
+      "Amélie Oudéa-Castéra"
     ],
     "analyzed_at": "2026-11-01T10:48:55.867090+00:00"
   },
@@ -240,8 +192,7 @@
     "summary": "",
     "thumbnail": "thumbnails/16sj1gl.webp",
     "tags": [
-      "Total",
-      "Écologie"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T10:49:06.230578+00:00"
   },
@@ -263,11 +214,8 @@
     "summary": "La vidÃ©osurveillance algorithmique, qui mobilise de l'IA pour analyser les images des camÃ©ras, sera utilisÃ©e lors des J.O. de Paris en 2024. En principe, cette expÃ©rimentation doit cesser fin mars 2025. Mais elle pourrait aussi Ãªtre prolongÃ©e, laisse entendre le gouvernement.",
     "thumbnail": "thumbnails/16rvzzu.webp",
     "tags": [
-      "IA",
-      "Ãªtre",
-      "JO 2024",
-      "Paris",
-      "Politique"
+      "Intelligence artificielle",
+      "Libertés publiques"
     ],
     "analyzed_at": "2026-11-01T10:48:55.950565+00:00"
   },
@@ -289,10 +237,7 @@
     "summary": "La ministre des Sports Amélie Oudéa-Castéra était l’invitée de l’émission « Dimanche en politique », sur France 3",
     "thumbnail": "thumbnails/16rp6et.webp",
     "tags": [
-      "JO de Paris",
-      "Sports Amélie Oudéa-Castéra",
-      "France 3",
-      "Société"
+      "Amélie Oudéa-Castéra"
     ],
     "analyzed_at": "2026-11-01T10:48:56.246940+00:00"
   },
@@ -314,10 +259,7 @@
     "summary": "Sa vidéo postée il y a quelques heures sur les réseaux sociaux cumule plus de 2 millions de vues.",
     "thumbnail": "thumbnails/16qwac3.webp",
     "tags": [
-      "SNCF",
-      "Lille",
-      "TGV",
-      "Société"
+      "Transports"
     ],
     "analyzed_at": "2026-11-01T10:48:58.675602+00:00"
   },
@@ -338,13 +280,7 @@
     "ingested_at": "2026-11-01T10:45:31.561970+00:00",
     "summary": "Deux courriers du rectorat reçus au printemps par les parents de l'adolescent, qui avaient dénoncé le harcèlement dont leur fils se disait victime, menacent de poursuites judiciaires la famille de Nicolas.",
     "thumbnail": "thumbnails/16qrgm2.webp",
-    "tags": [
-      "Nicolas",
-      "Versailles",
-      "Education",
-      "Harcèlement scolaire",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:48:56.593818+00:00"
   },
   {
@@ -364,9 +300,7 @@
     "ingested_at": "2026-11-01T10:45:31.562044+00:00",
     "summary": "ENQUÊTE - La nouvelle loi française a fait s’effondrer une partie du marché du placement de produits. Devant cette nouvelle réalité, des jeunes voient leurs rêves de richesse s’envoler.",
     "thumbnail": "thumbnails/16qepg3.webp",
-    "tags": [
-      "Dubaï"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:48:57.539915+00:00"
   },
   {
@@ -386,11 +320,7 @@
     "ingested_at": "2026-11-01T10:45:31.561184+00:00",
     "summary": "Le premier ministre britannique serait prêt à adopter des mesures similaires à la Nouvelle-Zélande, qui va progressivement augmenter l’âge légal pour fumer.",
     "thumbnail": "thumbnails/16pzfrj.webp",
-    "tags": [
-      "Royaume-Uni",
-      "Rishi Sunak",
-      "Nouvelle-Zélande"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:48:58.183486+00:00"
   },
   {
@@ -411,11 +341,7 @@
     "summary": "Le Rassemblement national contestait une circulaire du ministère de l'Intérieur catégorisant les candidats des élections sénatoriales de dimanche, soutenus par le parti, dans le bloc \"extrême droite\".",
     "thumbnail": "thumbnails/16p5s2k.webp",
     "tags": [
-      "Rassemblement",
-      "Conseil État",
-      "Intérieur",
-      "Marine le Pen",
-      "Politique"
+      "Extrême droite"
     ],
     "analyzed_at": "2026-11-01T10:48:57.769198+00:00"
   },
@@ -437,9 +363,7 @@
     "summary": "Le Conseil scientifique de l’Éducation nationale relève un «énorme déficit de compréhension des fractions».",
     "thumbnail": "thumbnails/16p40jb.webp",
     "tags": [
-      "Conseil",
-      "Education nationale",
-      "Société"
+      "Éducation"
     ],
     "analyzed_at": "2026-11-01T10:48:58.564463+00:00"
   },
@@ -460,13 +384,7 @@
     "ingested_at": "2026-11-01T10:45:31.560753+00:00",
     "summary": "INFO BFMTV - Après avoir porté plainte contre X pour des faits d'attouchements sexuels concernant sa fille de 11 ans, Antoine assure à BFMTV avoir reçu une lettre au ton menaçant du rectorat de Versailles. Un courrier similaire à celui reçu par les parents de Nicolas, adolescent qui s'est suicidé le...",
     "thumbnail": "thumbnails/16p36uu.webp",
-    "tags": [
-      "Versailles",
-      "BFMTV",
-      "Nicolas",
-      "Antoine",
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:48:57.920388+00:00"
   },
   {
@@ -486,10 +404,7 @@
     "ingested_at": "2026-11-01T10:45:31.560899+00:00",
     "summary": "L’idée d’avoir assez d’argent pour pouvoir tout plaquer séduit une majorité de Français, particulièrement à gauche et chez les plus jeunes, selon un sondage.",
     "thumbnail": "thumbnails/16ob4k9.webp",
-    "tags": [
-      "Français",
-      "Économie"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:48:58.991091+00:00"
   },
   {
@@ -510,11 +425,8 @@
     "summary": "Selon une enquête menée par le think-tank Confrontations Europe et l'institut Viavoice menée auprès de dix pays européens, les Français sont les moins favorables à l'immigration légale des populations non-européennes au sein de l'UE.",
     "thumbnail": "thumbnails/16ob2vh.webp",
     "tags": [
-      "UE",
-      "Confrontations Europe",
-      "Viavoice",
-      "Europe",
-      "Société"
+      "Union européenne",
+      "Immigration"
     ],
     "analyzed_at": "2026-11-01T10:48:59.410613+00:00"
   },
@@ -536,32 +448,10 @@
     "summary": "L’Efsa, l’Autorité européenne de sécurité des aliments, estime que l’herbicide le plus vendu au monde ne pose pas de risque majeur pour la santé humaine. Mais pour Laurence Huc, toxicologue et spécia…",
     "thumbnail": "thumbnails/16o9muu.webp",
     "tags": [
-      "Laurence Huc"
+      "Environnement",
+      "Élections"
     ],
     "analyzed_at": "2026-11-01T10:48:59.338834+00:00"
-  },
-  {
-    "id": "16o7toe",
-    "title": "Insultés, les syndicats quittent l’Assemblée nationale",
-    "url": "https://www.cafepedagogique.net/2023/09/21/insultes-les-syndicats-quittent-lassemblee-nationale/",
-    "permalink": "/r/france/comments/16o7toe/insultés_les_syndicats_quittent_lassemblée/",
-    "created_at": "2023-09-21T05:51:56+00:00",
-    "score": 260,
-    "num_comments": 111,
-    "subreddit": "france",
-    "author": "Tavek",
-    "flair": "Politique",
-    "domain": "cafepedagogique.net",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/8cDUyb9GnxcmidhQmQmlt81VZ8GNHzeroXedPq8W3Y4.jpg?auto=webp&s=d0732e83e0f141de5839f2047de94ce57001cf85",
-    "ingested_at": "2026-11-01T10:45:31.561890+00:00",
-    "summary": "Invités à faire le bilan de la rentrée lors d’une table ronde sur la rentrée scolaire à l’Assemblée nationale, les syndicats ont été particulièrement houspillé",
-    "thumbnail": "thumbnails/16o7toe.webp",
-    "tags": [
-      "Assemblée",
-      "Politique"
-    ],
-    "analyzed_at": "2026-11-01T10:48:59.207223+00:00"
   },
   {
     "id": "16nozxv",
@@ -581,10 +471,7 @@
     "summary": "L'arrestation en plein cours d’un collégien de 14 ans soupçonné de harcèlement a suscité la polémique. Le porte-parole du gouvernement Olivier Véran a estimé que cette interpellation s’était faite «en conformité».",
     "thumbnail": "thumbnails/16nozxv.webp",
     "tags": [
-      "Olivier Véran",
-      "Harcèlement scolaire",
-      "AFP",
-      "Politique"
+      "Olivier Véran"
     ],
     "analyzed_at": "2026-11-01T10:48:59.721601+00:00"
   },
@@ -605,34 +492,8 @@
     "ingested_at": "2026-11-01T10:45:31.561310+00:00",
     "summary": "Alors que Mertel proposait dans sa vidéo une formation de 300 euros pour l’imiter, l’exécutif va diligenter une enquête.",
     "thumbnail": "thumbnails/16ng263.webp",
-    "tags": [
-      "Mertel"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:49:00.048474+00:00"
-  },
-  {
-    "id": "16mzx3z",
-    "title": "Polémique : pour Nicolas Sarkozy, la fécondité des Africaines est la première cause du dérèglement climatique",
-    "url": "https://www.entreprendre.fr/pour-nicolas-sarkozy-la-fecondite-des-africaines-est-la-premiere-cause-du-dereglement-climatique/",
-    "permalink": "/r/france/comments/16mzx3z/polémique_pour_nicolas_sarkozy_la_fécondité_des/",
-    "created_at": "2023-09-19T19:26:11+00:00",
-    "score": 370,
-    "num_comments": 276,
-    "subreddit": "france",
-    "author": "BradWurscht",
-    "flair": "Politique",
-    "domain": "entreprendre.fr",
-    "selftext": "Vous avez 4 heures...",
-    "reddit_thumbnail": "https://b.thumbs.redditmedia.com/QhJIu6uoH0wNO_A7jX9-_g4XFHUE0vFDlHVg4FCLsYY.jpg",
-    "ingested_at": "2026-11-01T10:45:31.561106+00:00",
-    "summary": "Dans un entretien accordé à France 5, le 6 septembre, Nicolas Sarkozy a affirmé que les populations africaines sont responsable de la crise climatique en",
-    "thumbnail": "thumbnails/16mzx3z.webp",
-    "tags": [
-      "Nicolas Sarkozy",
-      "France 5",
-      "Politique"
-    ],
-    "analyzed_at": "2026-11-01T10:49:04.346931+00:00"
   },
   {
     "id": "16mko9e",
@@ -651,13 +512,7 @@
     "ingested_at": "2026-11-01T10:45:31.561241+00:00",
     "summary": "Pour atteindre les objectifs fixés par le gouvernement, il faudrait multiplier le nombre de covoitureurs par deux, indique une étude de Vinci.",
     "thumbnail": "thumbnails/16mko9e.webp",
-    "tags": [
-      "Vinci",
-      "Automobile",
-      "Environnement",
-      "Pollution",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:49:00.082627+00:00"
   },
   {
@@ -677,9 +532,7 @@
     "ingested_at": "2026-11-01T10:45:31.561496+00:00",
     "summary": "Les prix des locations ont atteint des niveaux rarement vus dans la capitale malgré l’encadrement des loyers. Compte tenu du peu de biens su",
     "thumbnail": "thumbnails/16m1ygs.webp",
-    "tags": [
-      "Économie"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:49:00.151269+00:00"
   },
   {
@@ -700,7 +553,7 @@
     "summary": "La justice belge a ouvert une enquête pour \"incendies criminels\", après que quatre écoles aient été prises pour cibles par des opposants à un cours d'éducation sexuelle qui suscite la polémique.",
     "thumbnail": "thumbnails/16lzgmi.webp",
     "tags": [
-      "Caroline Désir"
+      "Éducation"
     ],
     "analyzed_at": "2026-11-01T10:49:00.411722+00:00"
   },
@@ -721,11 +574,7 @@
     "ingested_at": "2026-11-01T10:45:31.561521+00:00",
     "summary": "Une Ferrari circulant à Saulxures-sur-Moselotte (Vosges) dans une zone limitée à 90 km/h a été contrôlée dimanche 17 septembre à 195 km/h, Le conducteur s'est vu retirer son permis de conduire. Sa voiture, a été immédiatement...",
     "thumbnail": "thumbnails/16log19.webp",
-    "tags": [
-      "Ferrari",
-      "Saulxures-sur-Moselotte",
-      "Fait Divers"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:49:09.896547+00:00"
   },
   {
@@ -765,13 +614,7 @@
     "ingested_at": "2026-11-01T10:45:31.562116+00:00",
     "summary": "La présidente de l'association La Voix de l'enfant, Martine Brousse, observe que les associations contre le harcèlement scolaire sont \"rappelées à l'ordre parce qu'elles font trop de signalement après des interventions en classe\".",
     "thumbnail": "thumbnails/16kw471.webp",
-    "tags": [
-      "Voix",
-      "Versailles",
-      "Martine Brousse",
-      "Harcèlement scolaire",
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:49:00.862888+00:00"
   },
   {
@@ -792,10 +635,7 @@
     "summary": "Conseillère régionale socialiste des Hauts-de-France, Sarah Kerrich-Bernard a saisi...",
     "thumbnail": "thumbnails/16kt37d.webp",
     "tags": [
-      "Sarah Kerrich-Bernard",
-      "Hauts-de-France",
-      "Règle»",
-      "Société"
+      "Police"
     ],
     "analyzed_at": "2026-11-01T10:49:01.742936+00:00"
   },
@@ -816,13 +656,7 @@
     "ingested_at": "2026-11-01T10:45:31.560780+00:00",
     "summary": "DOCUMENT BFMTV - Un adolescent de 15 ans s'est suicidé début septembre à son domicile de Poissy, dans les Yvelines. Les parents avaient alerté son établissement sur des faits de harcèlement scolaire. Le rectorat avait répondu en mai en leur demandant \"d'adopter une attitude constructive et...",
     "thumbnail": "thumbnails/16k3vwv.webp",
-    "tags": [
-      "Poissy",
-      "Yvelines",
-      "DOCUMENT BFMTV",
-      "BFMTV",
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:49:01.066512+00:00"
   },
   {
@@ -842,13 +676,7 @@
     "ingested_at": "2026-11-01T10:45:31.561275+00:00",
     "summary": "Le demi de mêlée, qui dispute actuellement la Coupe du monde en France avec les Bleus, a tenu à se prononcer sur la couverture et le dossier du magazine conservateur.",
     "thumbnail": "thumbnails/16k1srm.webp",
-    "tags": [
-      "Antoine Dupont",
-      "Valeurs Actuelles",
-      "XV de France et du Stade Toulousain",
-      "Bleus",
-      "Sport"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:49:01.477274+00:00"
   },
   {
@@ -868,13 +696,7 @@
     "ingested_at": "2026-11-01T10:45:31.561795+00:00",
     "summary": "L’émission de France 2 « Complément d’enquête » montrera ce jeudi soir comment une des journalistes s’est fait recruter par un des hypermarchés de la chaîne de grande distribution",
     "thumbnail": "thumbnails/16j82zf.webp",
-    "tags": [
-      "E Leclerc",
-      "CDI",
-      "Complément",
-      "Leclerc",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:49:01.724368+00:00"
   },
   {
@@ -895,11 +717,7 @@
     "summary": "\"Le but, c'est de sortir de Paris un maximum de personnes considérées comme indésirables par l'État\", proteste Médecins du monde.",
     "thumbnail": "thumbnails/16j5avl.webp",
     "tags": [
-      "Paris",
-      "Jeux",
-      "SDF",
-      "État",
-      "Sport"
+      "Immigration"
     ],
     "analyzed_at": "2026-11-01T10:49:01.881585+00:00"
   },
@@ -921,9 +739,8 @@
     "summary": "Dans l’affaire de son prêt russe, Marine Le Pen prétend avoir signé « avec une banque, pas avec Poutine ». Des mails issus de la boîte du vice-président de la Douma Alexander Babakov démontrent pourt…",
     "thumbnail": "thumbnails/16iltpa.webp",
     "tags": [
-      "Marine le Pen",
-      "Poutine",
-      "Douma Alexander Babakov"
+      "Marine Le Pen",
+      "Vladimir Poutine"
     ],
     "analyzed_at": "2026-11-01T10:49:02.530891+00:00"
   },
@@ -945,35 +762,10 @@
     "summary": "La situation est intenable aux portes de l'Europe. L'île de Lampedusa fait face à une vague migratoire : plus de 6.000 migrants sont arrivés ces deux derniers jours",
     "thumbnail": "thumbnails/16ihjgu.webp",
     "tags": [
-      "Lampedusa",
-      "Italie",
-      "Europe",
-      "Giorgia Meloni",
-      "Société"
+      "Immigration",
+      "Giorgia Meloni"
     ],
     "analyzed_at": "2026-11-01T10:49:02.385475+00:00"
-  },
-  {
-    "id": "16ickib",
-    "title": "Unity impose une taxe à l'installation aux développeurs de jeux vidéo et risque un exode massif",
-    "url": "https://www.usine-digitale.fr/article/unity-impose-une-taxe-a-l-installation-aux-developpeurs-de-jeux-video-et-risque-un-exode-massif.N2170437",
-    "permalink": "/r/france/comments/16ickib/unity_impose_une_taxe_à_linstallation_aux/",
-    "created_at": "2023-09-14T08:13:28+00:00",
-    "score": 282,
-    "num_comments": 221,
-    "subreddit": "france",
-    "author": "Johannes_P",
-    "flair": "Économie",
-    "domain": "usine-digitale.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://b.thumbs.redditmedia.com/pB8eMPonmxE0-XDHQNY5XyaefhCV1e4R-a23_-HX9rY.jpg",
-    "ingested_at": "2026-11-01T10:45:31.561619+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/16ickib.webp",
-    "tags": [
-      "Économie"
-    ],
-    "analyzed_at": "2026-11-01T10:49:07.328339+00:00"
   },
   {
     "id": "16i8gsn",
@@ -993,9 +785,7 @@
     "summary": "Brièvement placé en garde à vue, l’influenceur suivi par plus d’un million de personnes a été entendu dans le cadre d’une enquête ouverte en 2022.",
     "thumbnail": "thumbnails/16i8gsn.webp",
     "tags": [
-      "Léo Grasset",
-      "Faits divers",
-      "Mediapart"
+      "Violences sexuelles"
     ],
     "analyzed_at": "2026-11-01T10:49:10.438834+00:00"
   },
@@ -1017,9 +807,7 @@
     "summary": "\"On a régulé pour le tabac, on a régulé pour l'alcool, à quand une régulation claire et nette sur le marketing alimentaire pour tous ces produits ultra-transformés ?\", s'interroge Boris Hansel, chef de l'unité Nutrition Préventive de l'Hôpital Bichat à Paris.",
     "thumbnail": "thumbnails/16htaqi.webp",
     "tags": [
-      "Boris Hansel",
-      "Nutrition Préventive de Hôpital Bichat",
-      "Paris"
+      "Santé"
     ],
     "analyzed_at": "2026-11-01T10:49:02.972040+00:00"
   },
@@ -1040,10 +828,7 @@
     "ingested_at": "2026-11-01T10:45:31.562141+00:00",
     "summary": "Une personne est décédée mardi 12 septembre après avoir \"consommé des sardines en bocal\" dans un restaurant bordelais. Dix cas suspects d'intoxication à la toxine botulique ont été officiellement recensés.",
     "thumbnail": "thumbnails/16hkw4k.webp",
-    "tags": [
-      "Bordeaux",
-      "Alimentation"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:49:02.908060+00:00"
   },
   {
@@ -1064,8 +849,7 @@
     "summary": "EXCLUSIF. Selon nos informations, l’Agence nationale des fréquences a notifié ce mardi à Apple de retirer de la vente son iPhone 12. Celui-c",
     "thumbnail": "thumbnails/16gykjv.webp",
     "tags": [
-      "Numérique",
-      "Apple"
+      "Numérique"
     ],
     "analyzed_at": "2026-11-01T10:49:03.035790+00:00"
   },
@@ -1087,11 +871,8 @@
     "summary": "Pour éviter des consultations injustifiées chez le médecin, l’exécutif rappelle que les justificatifs réclamés par les fédérations et clubs de sport ne sont plus obligatoires.",
     "thumbnail": "thumbnails/16gnzh6.webp",
     "tags": [
-      "Aurélien Rousseau",
-      "Agnès Firmin-Le Bodo",
-      "Amélie Oudéa-Castéra",
-      "Certificats médicaux",
-      "Société"
+      "Santé",
+      "Amélie Oudéa-Castéra"
     ],
     "analyzed_at": "2026-11-01T10:49:03.908902+00:00"
   },
@@ -1113,8 +894,7 @@
     "summary": "De faux rapports rédigés pour couvrir les faits, des déclarations contradictoires, et pour certains des implications dans d’autres affaires de violences : les premiers éléments de l’enquête judiciair…",
     "thumbnail": "thumbnails/16g1gub.webp",
     "tags": [
-      "Hedi",
-      "IGPN"
+      "Police"
     ],
     "analyzed_at": "2026-11-01T10:49:04.099672+00:00"
   },
@@ -1136,11 +916,8 @@
     "summary": "Lâancien mentor de GÃ©rald Darmanin, lâex-dÃ©putÃ© Christian Vanneste accuse le ministre dâavoir bÃ©nÃ©ficiÃ© en 2006, dâun emploi fictif de collaborateur parlementaire europÃ©en. Il nâest pas le seul Ã douter de la rÃ©alitÃ© du job. Contre-enquÃªte.",
     "thumbnail": "thumbnails/16fpmcg.webp",
     "tags": [
-      "Darmanin",
-      "Christian Vanneste",
       "Gérald Darmanin",
-      "GÃ",
-      "Politique"
+      "Travail"
     ],
     "analyzed_at": "2026-11-01T10:49:03.272377+00:00"
   },
@@ -1162,11 +939,7 @@
     "summary": "Dans cette enquête, révélée par franceinfo et réalisée dans 500 établissements par le principal syndicat du second degré, il manque en moyenne au moins un enseignant dans 48% des collèges et lycées de métropole.",
     "thumbnail": "thumbnails/16fpcz8.webp",
     "tags": [
-      "Snes-FSU",
-      "Éducation",
-      "Espagne",
-      "Israël",
-      "Société"
+      "Éducation"
     ],
     "analyzed_at": "2026-11-01T10:49:03.606224+00:00"
   },
@@ -1187,13 +960,7 @@
     "ingested_at": "2026-11-01T10:45:31.561745+00:00",
     "summary": "Le ministÃ¨re de la SantÃ© a annulÃ© deux campagnes Ã©laborÃ©es par SantÃ© Publique France, dont lâune avait pourtant Ã©tÃ© commandÃ©e par la direction gÃ©nÃ©rale de la SantÃ©. Les associations dÃ©noncent le poids du lobby de la filiÃ¨re viticole.",
     "thumbnail": "thumbnails/16fne8r.webp",
-    "tags": [
-      "SantÃ",
-      "Santé",
-      "SantÃ Publique France",
-      "SociÃ©tÃ©",
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:49:04.723957+00:00"
   },
   {
@@ -1213,11 +980,7 @@
     "ingested_at": "2026-11-01T10:45:31.561132+00:00",
     "summary": "Dans la région de Caen (Calvados), un professeur d'origine irlandaise n'est pas autorisé à enseigner l'anglais après avoir raté deux fois le concours du Capes. Un comble alors que les manques sont criants dans...",
     "thumbnail": "thumbnails/16f6hq6.webp",
-    "tags": [
-      "CAPES",
-      "Caen",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:49:04.244857+00:00"
   },
   {
@@ -1237,11 +1000,7 @@
     "ingested_at": "2026-11-01T10:45:31.562284+00:00",
     "summary": "Notre chroniqueuse Nora Bussigny publie « Les Nouveaux Inquisiteurs ». Enquête dans une France, qui, au nom du droit à la différence, bascule souvent dans le rejet sectaire.",
     "thumbnail": "thumbnails/16f5yqd.webp",
-    "tags": [
-      "Wokisme",
-      "Nora Bussigny",
-      "Nouveaux Inquisiteurs"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:49:09.743061+00:00"
   },
   {
@@ -1262,8 +1021,7 @@
     "summary": "Une étude de la Fondation Abbé-Pierre souligne la fragilité des locataires des résidences universitaires",
     "thumbnail": "thumbnails/16e9toj.webp",
     "tags": [
-      "Fondation Abbé-Pierre",
-      "Société"
+      "Éducation"
     ],
     "analyzed_at": "2026-11-01T10:49:04.776799+00:00"
   },
@@ -1284,13 +1042,7 @@
     "ingested_at": "2026-11-01T10:45:31.562068+00:00",
     "summary": "Vendredi soir, la victoire du quinze de France face à la Nouvelle-Zélande (27-13) en match d'ouverture de la Coupe du monde de rugby, a permis à TF1 de réaliser la meilleure audience de l'année, avec 15,4 millions de téléspectateurs devant leur poste.",
     "thumbnail": "thumbnails/16e0qtz.webp",
-    "tags": [
-      "TF1",
-      "Nouvelle-Zélande",
-      "Coupe du Monde de rugby",
-      "Coupe",
-      "Sport"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:49:07.262221+00:00"
   },
   {
@@ -1310,13 +1062,7 @@
     "ingested_at": "2026-11-01T10:45:31.561594+00:00",
     "summary": "À Bretoncelles, petite commune de l'Orne, la programmation d'un spectacle sur les 50 ans d'une grève historique a provoqué l'ire des descendants du patron de l'époque. Après des menaces de mort, le maire l'a finalement interdit, avec l'approbation du préfet.",
     "thumbnail": "thumbnails/16dz7mu.webp",
-    "tags": [
-      "Bretoncelles",
-      "Piron",
-      "Orne",
-      "Denis Robert",
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:49:06.272227+00:00"
   },
   {
@@ -1337,11 +1083,7 @@
     "summary": "Dans le Club aujourd'hui, un climatologue face Ã des dÃ©cideurs, la vÃ©gÃ©talisation des cours d'Ã©coles, et la presque extinction de nos ancÃªtres il y a 900 000 ans.",
     "thumbnail": "thumbnails/16dyuoy.webp",
     "tags": [
-      "Jean Jouzel",
-      "Club",
-      "GIEC",
-      "Environnement",
-      "Écologie"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T10:49:06.065140+00:00"
   },
@@ -1362,12 +1104,7 @@
     "ingested_at": "2026-11-01T10:45:31.561470+00:00",
     "summary": "«Il n'y a pas d'arnaque sur ces produits-là», a répliqué le patron de l’association des industriels de l’alimentaire, soulignant d’ailleurs que «les distributeurs ont accepté ces produits comme tels».",
     "thumbnail": "thumbnails/16d8mod.webp",
-    "tags": [
-      "Inflation",
-      "Carrefour",
-      "Grande distribution",
-      "Économie"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:49:07.042811+00:00"
   },
   {
@@ -1388,11 +1125,8 @@
     "summary": "\"En urgence, il faut aider les Français\" a plaidé Marine Tondelier, qui était l'invitée du \"8h30 franceinfo\", ce vendredi.",
     "thumbnail": "thumbnails/16d4tj5.webp",
     "tags": [
-      "Français",
-      "EELV",
-      "Marine Tondelier",
-      "Hausse des prix des carburants",
-      "Politique"
+      "Énergie",
+      "Marine Tondelier"
     ],
     "analyzed_at": "2026-11-01T10:49:06.554278+00:00"
   },
@@ -1414,9 +1148,7 @@
     "summary": "Un homme a proféré des menaces de mort envers le proviseur d’un lycée qui a refusé l’accès à sa fille, vêtue d’une abaya. Sa garde à vue a été levée ce vendredi.",
     "thumbnail": "thumbnails/16d4r5w.webp",
     "tags": [
-      "Clermont-Ferrand",
-      "Éducation",
-      "Figaro"
+      "Laïcité"
     ],
     "analyzed_at": "2026-11-01T10:49:07.523963+00:00"
   },
@@ -1438,8 +1170,8 @@
     "summary": "Le ministre de l'Économie a tenu à souligner que l'économie française enregistre de bons résultats et crée des emplois.",
     "thumbnail": "thumbnails/16cct6e.webp",
     "tags": [
-      "Bruno le Maire",
-      "Économie"
+      "Économie",
+      "Bruno Le Maire"
     ],
     "analyzed_at": "2026-11-01T10:49:07.035271+00:00"
   },
@@ -1460,11 +1192,7 @@
     "ingested_at": "2026-11-01T10:45:31.561672+00:00",
     "summary": "Les inégalités ne reculent pas à l'école. Au contraire, elles s'aggravent du collège au lycée, selon un rapport publié mercredi.",
     "thumbnail": "thumbnails/16c8ffu.webp",
-    "tags": [
-      "France Stratégie",
-      "Education",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:49:07.367857+00:00"
   },
   {
@@ -1485,9 +1213,8 @@
     "summary": "Une lycéenne lyonnaise s’est vue interdire l'accès à sa classe mardi alors qu'elle portait un kimono noir ouvert, selon son avocat. Le rectorat assure que le proviseur a respecté les consignes ministérielles sur «le port de tenues de type abaya ou qami».",
     "thumbnail": "thumbnails/16c2079.webp",
     "tags": [
-      "Lyon",
-      "Rentrée scolaire",
-      "Politique"
+      "Laïcité",
+      "Éducation"
     ],
     "analyzed_at": "2026-11-01T10:49:08.054051+00:00"
   },
@@ -1508,9 +1235,7 @@
     "ingested_at": "2026-11-01T10:45:31.562407+00:00",
     "summary": "Au total, les cas mondiaux de cancer à apparition précoce sont passés de 1,82 million en 1990 à 3,26 millions en 2019.",
     "thumbnail": "thumbnails/16bj8r1.webp",
-    "tags": [
-      "Marseille"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:49:07.951179+00:00"
   },
   {
@@ -1531,11 +1256,8 @@
     "summary": "Deux militaires du 35e RI de Belfort sont aussi membres du groupe violent dâextrÃªme droite des Vandal Besak. Sur leurs rÃ©seaux sociaux, lâun dâeux, Lukas C. affiche ouvertement ses sympathies nÃ©onazies et sa volontÃ© de tuer des Ã©trangers ou des LGBT.",
     "thumbnail": "thumbnails/16bf6ny.webp",
     "tags": [
-      "Lukas",
-      "Belfort",
-      "Vandal Besak",
-      "Instagram",
-      "Politique"
+      "Défense",
+      "Extrême droite"
     ],
     "analyzed_at": "2026-11-01T10:49:07.691933+00:00"
   },
@@ -1556,10 +1278,7 @@
     "ingested_at": "2026-11-01T10:45:31.562308+00:00",
     "summary": "L'association évangélique \"Torrent de vie\" est accusée d’homophobie et de pratiquer des \"thérapies de conversion\" à l'hétérosexualité, pourtant illégales. David et Jonathan, une association nationale, également présente...",
     "thumbnail": "thumbnails/16anfdt.webp",
-    "tags": [
-      "Jonathan",
-      "Science"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:49:08.016667+00:00"
   },
   {
@@ -1580,8 +1299,7 @@
     "summary": "",
     "thumbnail": "thumbnails/16amy4o.webp",
     "tags": [
-      "Charlie Hebdo et 8",
-      "Danemark"
+      "Médias"
     ],
     "analyzed_at": "2026-11-01T10:49:08.308780+00:00"
   },
@@ -1603,11 +1321,8 @@
     "summary": "Pour leur déplacement en Ille-et-Vilaine, près de Rennes, à l’occasion de la rentrée scolaire, ce lundi 4 septembre, Élisabeth Borne, la Première ministre, et Gabriel Attal, ministre de l’Éducation nationale, sont venus de Paris en avion. Un mode de déplacement critiqué par la gauche et les écologistes.",
     "thumbnail": "thumbnails/169xszn.webp",
     "tags": [
-      "Rennes",
       "Élisabeth Borne",
-      "Ille-et-Vilaine",
-      "Gabriel Attal",
-      "Politique"
+      "Gabriel Attal"
     ],
     "analyzed_at": "2026-11-01T10:49:11.210966+00:00"
   },
@@ -1628,12 +1343,7 @@
     "ingested_at": "2026-11-01T10:45:31.561697+00:00",
     "summary": "La famille de Bernard Arnault va verser une aide de 10 millions d'euros pour les Restos du cœur.",
     "thumbnail": "thumbnails/169svo0.webp",
-    "tags": [
-      "Bernard Arnault",
-      "Restos",
-      "Restos du Cœur",
-      "Économie"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:49:08.485510+00:00"
   },
   {
@@ -1654,11 +1364,7 @@
     "summary": "Une campagne lancée par des jeunes militants pour le climat, \"Dear Greenpeace\", appelle l’ONG écologiste à revenir sur son engagement antinucléaire. Le symbole d’un regain de popularité de l’atome chez les jeunes, porté en France par l’ingénieur Jean-Marc Jancovici.",
     "thumbnail": "thumbnails/169aidg.webp",
     "tags": [
-      "Dear Greenpeace",
-      "ONG",
-      "Jean-Marc Jancovici",
-      "Climat et transitions",
-      "Écologie"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T10:49:08.761325+00:00"
   },
@@ -1680,11 +1386,7 @@
     "summary": "L'antenne des Restos du cœur de Wattrelos, près de Lille, a été visée vendredi 1er septembre par des dégradations. 12 camions ont été vandalisés et sont hors d'usage.",
     "thumbnail": "thumbnails/168y1hu.webp",
     "tags": [
-      "Restos",
-      "Wattrelos",
-      "Lille",
-      "Faits-divers",
-      "Société"
+      "Pauvreté"
     ],
     "analyzed_at": "2026-11-01T10:49:08.423494+00:00"
   },
@@ -1706,9 +1408,7 @@
     "summary": "Les faits se sont déroulés dans la nuit du samedi 2 au dimanche 3 septembre. L'automobiliste a été interpellé dimanche.",
     "thumbnail": "thumbnails/168wmfi.webp",
     "tags": [
-      "Paris",
-      "Faits-divers",
-      "Fait Divers"
+      "Police"
     ],
     "analyzed_at": "2026-11-01T10:49:08.666410+00:00"
   },
@@ -1729,10 +1429,7 @@
     "ingested_at": "2026-11-01T10:45:31.561994+00:00",
     "summary": "La compagnie aérienne turco-néerlandaise Corendon est le premier opérateur européen à proposer ce service déjà présent chez quelques acteurs asiatiques. Une majorité de voyageurs applaudit mais cela reste encore une exception.",
     "thumbnail": "thumbnails/168048i.webp",
-    "tags": [
-      "Corendon",
-      "Économie"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:49:08.706391+00:00"
   },
   {
@@ -1753,11 +1450,9 @@
     "summary": "Le tribunal administratif de Paris a suspendu, vendredi, la décision du Crous de réquisitionner près de 3 000 logements étudiants l'été prochain pour accueillir le personnel des Jeux olympiques.",
     "thumbnail": "thumbnails/167xt6m.webp",
     "tags": [
-      "Crous",
-      "Jeux",
-      "Paris",
-      "Zinédine Zidane",
-      "Société"
+      "Justice",
+      "Éducation",
+      "Logement"
     ],
     "analyzed_at": "2026-11-01T10:49:09.025622+00:00"
   },
@@ -1779,11 +1474,7 @@
     "summary": "Dans l'affaire Adama Traoré, la justice a prononcé un non-lieu pour les trois gendarmes impliqués. Adama Traoré est mort à la suite de son interpellation en juillet 2016 dans le Val-d'Oise.",
     "thumbnail": "thumbnails/167akhe.webp",
     "tags": [
-      "Adama Traoré",
-      "Mort Adama Traoré",
-      "Val-d'Oise",
-      "Beaumont-sur-Oise",
-      "Faits-divers"
+      "Police"
     ],
     "analyzed_at": "2026-11-01T10:49:09.168788+00:00"
   },
@@ -1805,9 +1496,7 @@
     "summary": "Depuis lundi 28 août, l’entourage du garde des Sceaux tente d’éteindre la polémique suscitée par les propos du ministre, qui a lancé à des journalistes femmes qui l’interrogeaient qu’elles n’étaient…",
     "thumbnail": "thumbnails/16702vw.webp",
     "tags": [
-      "BFMTV",
-      "Dupond-Moretti",
-      "Sceaux"
+      "Éric Dupond-Moretti"
     ],
     "analyzed_at": "2026-11-01T10:49:09.893273+00:00"
   }

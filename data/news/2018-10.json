@@ -16,13 +16,7 @@
     "ingested_at": "2026-10-31T15:14:49.525146+00:00",
     "summary": "Son projet d’installation dans le centre de Berlin se heurtant à un mouvement de protestation, un élu local suggère à Google d’intégrer le siège historique de la police politique de l’ex-RDA.",
     "thumbnail": "thumbnails/9szx6g.webp",
-    "tags": [
-      "Gorafi",
-      "QG de la Stasi",
-      "Google",
-      "Berlin",
-      "Technos"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:43:47.116443+00:00"
   },
   {
@@ -42,9 +36,7 @@
     "ingested_at": "2026-10-31T15:14:49.525170+00:00",
     "summary": "",
     "thumbnail": "thumbnails/9swjup.webp",
-    "tags": [
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:43:48.186997+00:00"
   },
   {
@@ -65,56 +57,9 @@
     "summary": "Matthieu Aron a été victime d'un cambriolage à son domicile parisien. Seuls des ordinateurs ont été dérobés. Les voleurs savaient-ils qu'il travaillait sur l'affaire Alstom ?",
     "thumbnail": "thumbnails/9swd0u.webp",
     "tags": [
-      "Alstom",
-      "GE General Electric",
-      "Matthieu Aron"
+      "Médias"
     ],
     "analyzed_at": "2026-11-01T09:43:47.452075+00:00"
-  },
-  {
-    "id": "9src3z",
-    "title": "Je connaissais les Smurfs, je découvre Gomer Goof...",
-    "url": "http://www.bookandvolume.com.au/assets/full/9781849183581.jpg",
-    "permalink": "/r/france/comments/9src3z/je_connaissais_les_smurfs_je_découvre_gomer_goof/",
-    "created_at": "2018-10-30T19:45:30+00:00",
-    "score": 159,
-    "num_comments": 42,
-    "subreddit": "france",
-    "author": "Synchronyme",
-    "flair": "",
-    "domain": "bookandvolume.com.au",
-    "selftext": "",
-    "reddit_thumbnail": "https://b.thumbs.redditmedia.com/-U8-NiZ9AuFwKbsFj7Lfv2ymc5KYAifVpj8CD1MbCHk.jpg",
-    "ingested_at": "2026-10-31T15:14:49.525642+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/9src3z.webp",
-    "tags": [
-      "Smurfs",
-      "Gomer Goof"
-    ],
-    "analyzed_at": "2026-11-01T09:43:50.304425+00:00"
-  },
-  {
-    "id": "9sotoq",
-    "title": "Vendre des semences traditionnelles aux particuliers est (enfin) légal !",
-    "url": "https://www.linfodurable.fr/conso/vendre-des-semences-traditionnelles-aux-particuliers-est-enfin-legal-6726",
-    "permalink": "/r/france/comments/9sotoq/vendre_des_semences_traditionnelles_aux/",
-    "created_at": "2018-10-30T15:11:40+00:00",
-    "score": 152,
-    "num_comments": 39,
-    "subreddit": "france",
-    "author": "wisi_eu",
-    "flair": "Actus",
-    "domain": "linfodurable.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/-tyDu23AVy4XySQgaaOZ6LZJ9SGYqjcvJpbjr6CAnP4.jpeg?auto=webp&s=f1fac11f1718bd05f15a1017b5b823b6084a1f2c",
-    "ingested_at": "2026-10-31T15:14:49.525684+00:00",
-    "summary": "Jardiniers amateurs, réjouissez-vous, les semences traditionnelles sont enfin pleinement en vente libre pour vous. C’est la grande avancée d’une loi votée début octobre. Une brèche dans le système de l’agriculture industrielle.",
-    "thumbnail": "thumbnails/9sotoq.webp",
-    "tags": [
-      "GNIS"
-    ],
-    "analyzed_at": "2026-11-01T09:43:47.689950+00:00"
   },
   {
     "id": "9snd8c",
@@ -134,77 +79,10 @@
     "summary": "",
     "thumbnail": "thumbnails/9snd8c.webp",
     "tags": [
-      "CNIL"
+      "Numérique",
+      "Éducation"
     ],
     "analyzed_at": "2026-11-01T09:43:47.908439+00:00"
-  },
-  {
-    "id": "9slkq2",
-    "title": "Ma réaction face à la neige qui tombe en France un 30 Octobre",
-    "url": "https://yditblog.files.wordpress.com/2018/07/philipulus-tintin-le-chatiment.jpg?w=307",
-    "permalink": "/r/france/comments/9slkq2/ma_réaction_face_à_la_neige_qui_tombe_en_france/",
-    "created_at": "2018-10-30T07:05:32+00:00",
-    "score": 1301,
-    "num_comments": 128,
-    "subreddit": "france",
-    "author": "AzertyKeys",
-    "flair": "Humour",
-    "domain": "yditblog.files.wordpress.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/BWXEtV6wbmmZcZtP6GT_olrT-if5L30CJdrtxEN2GtA.jpeg?auto=webp&s=777cf31bb4181cb2d2c1e1db288d2c136255c6bc",
-    "ingested_at": "2026-10-31T15:14:49.524491+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/9slkq2.webp",
-    "tags": [
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:43:48.127536+00:00"
-  },
-  {
-    "id": "9slfij",
-    "title": "Peillon, Alpes-Maritimes, France",
-    "url": "https://c2.staticflickr.com/2/1979/43648671180_7114e78252_o.jpg",
-    "permalink": "/r/france/comments/9slfij/peillon_alpesmaritimes_france/",
-    "created_at": "2018-10-30T06:36:33+00:00",
-    "score": 177,
-    "num_comments": 12,
-    "subreddit": "france",
-    "author": "loulan",
-    "flair": "Culture",
-    "domain": "c2.staticflickr.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/ocfl-CasdpIStX39SavxLgGLshjjxxYTyUClihAnkgU.jpg?auto=webp&s=21ac6dc571fee497ec2082ff571dcccd598ea673",
-    "ingested_at": "2026-10-31T15:14:49.525369+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/9slfij.webp",
-    "tags": [
-      "Culture"
-    ],
-    "analyzed_at": "2026-11-01T09:43:50.280354+00:00"
-  },
-  {
-    "id": "9savdw",
-    "title": "Homophobie : séquestré et tabassé, il tombe dans un guet-apens à Rouen",
-    "url": "http://www.gayviking.com/homophobie-sequestre-et-tabasse-il-tombe-dans-un-guet-apens-a-rouen/",
-    "permalink": "/r/france/comments/9savdw/homophobie_séquestré_et_tabassé_il_tombe_dans_un/",
-    "created_at": "2018-10-29T07:02:36+00:00",
-    "score": 112,
-    "num_comments": 172,
-    "subreddit": "france",
-    "author": "RuDNuon",
-    "flair": "Société",
-    "domain": "gayviking.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://a.thumbs.redditmedia.com/CVfrK6-KZK8TV-Rh_ZVTryGkwSuWdiX-NnyS3_hqc58.jpg",
-    "ingested_at": "2026-10-31T15:14:49.526104+00:00",
-    "summary": "Il est 7h30 quand les amis de Romain décident de rentrer se coucher. Romain, lui, se sent bien et souhaite poursuivre la soirée. Les deux hommes lui proposent d’aller au Krystol , un bar lounge du quartier Saint-Marc, en plein centre-ville.",
-    "thumbnail": "thumbnails/9savdw.webp",
-    "tags": [
-      "Rouen",
-      "Romain",
-      "Société"
-    ],
-    "analyzed_at": "2026-11-01T09:43:48.558121+00:00"
   },
   {
     "id": "9s7zu2",
@@ -224,11 +102,7 @@
     "summary": "Directrice du registre des malformations en Rhône-Alpes, Emmanuelle Amar a reçu cette lettre vendredi.",
     "thumbnail": "thumbnails/9s7zu2.webp",
     "tags": [
-      "Emmanuelle Amar",
-      "Rhône-Alpes",
-      "Ain",
-      "Santé",
-      "Société"
+      "Travail"
     ],
     "analyzed_at": "2026-11-01T09:43:48.589921+00:00"
   },
@@ -249,11 +123,7 @@
     "ingested_at": "2026-10-31T15:14:49.525442+00:00",
     "summary": "Selon une étude publiée par la banque suisse UBS, la fortune globale des 2 158 milliardaires de la planète a crû d’un cinquième en 2017, pour atteindre 8 900 mi...",
     "thumbnail": "thumbnails/9s1z06.webp",
-    "tags": [
-      "UBS",
-      "États-Unis",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:43:48.621532+00:00"
   },
   {
@@ -273,12 +143,7 @@
     "ingested_at": "2026-10-31T15:14:49.525242+00:00",
     "summary": "(function(d, s, id) {if (d.getElementById(id)) return;var js = d.createElement(s); js.id = id;js.src =",
     "thumbnail": "thumbnails/9s1uom.webp",
-    "tags": [
-      "Philippe Gildas",
-      "Top 50",
-      "Coluche",
-      "Canal"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:43:48.783213+00:00"
   },
   {
@@ -299,8 +164,7 @@
     "summary": "Les deux hommes ont été chargés lors d’une battue par un animal d’une centaine de kilos.",
     "thumbnail": "thumbnails/9s1idv.webp",
     "tags": [
-      "Loire-Atlantique",
-      "Sport"
+      "Cause animale"
     ],
     "analyzed_at": "2026-11-01T09:43:49.647766+00:00"
   },
@@ -322,7 +186,7 @@
     "summary": "Aux Pays-Bas, quatre hôpitaux ont été déclarés en faillite mercredi. Privatisés, aux mains de compagnies d'assurance, les établissements ont été contraints de fermer leurs portes ces deux derniers jours.",
     "thumbnail": "thumbnails/9rt9u9.webp",
     "tags": [
-      "Pays-Bas"
+      "Santé"
     ],
     "analyzed_at": "2026-11-01T09:43:50.501729+00:00"
   },
@@ -344,11 +208,7 @@
     "summary": "L'Arabie Saoudite est l'un des principaux clients de la France en matière d'armement.",
     "thumbnail": "thumbnails/9rs962.webp",
     "tags": [
-      "Arabie Saoudite",
-      "Khashoggi",
-      "Arabie",
-      "Jamal Khashoggi",
-      "Politique"
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T09:43:49.396377+00:00"
   },
@@ -369,13 +229,7 @@
     "ingested_at": "2026-10-31T15:14:49.525938+00:00",
     "summary": "Plus de 1 000 personnes se sont rassemblées à Saint-Bonnet-Tronçais, dans l'Allier.",
     "thumbnail": "thumbnails/9rijil.webp",
-    "tags": [
-      "Allier",
-      "Saint-Bonnet-Tronçais",
-      "ONF",
-      "Crise climatique",
-      "Santé"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:43:49.932252+00:00"
   },
   {
@@ -395,10 +249,7 @@
     "ingested_at": "2026-10-31T15:14:49.525556+00:00",
     "summary": "",
     "thumbnail": "thumbnails/9rhvw5.webp",
-    "tags": [
-      "UBS Stéphanie Gibaud",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:43:50.639723+00:00"
   },
   {
@@ -420,9 +271,7 @@
     "thumbnail": "thumbnails/9r837e.webp",
     "tags": [
       "Nicolas Sarkozy",
-      "Affaire Bygmalion",
-      "Bygmalion",
-      "Politique"
+      "Justice"
     ],
     "analyzed_at": "2026-11-01T09:43:50.227427+00:00"
   },
@@ -444,11 +293,9 @@
     "summary": "Avec #Pasdevague, les enseignants témoignent sur les réseaux sociaux des violences dont ils sont victimes au quotidien.",
     "thumbnail": "thumbnails/9r7rk5.webp",
     "tags": [
-      "Éducation nationale",
-      "Jean-Michel Blanquer",
-      "Réseaux Sociaux",
-      "École",
-      "Société"
+      "Éducation",
+      "Numérique",
+      "Jean-Michel Blanquer"
     ],
     "analyzed_at": "2026-11-01T09:43:50.358226+00:00"
   },
@@ -469,33 +316,8 @@
     "ingested_at": "2026-10-31T15:14:49.525875+00:00",
     "summary": "Certains employeurs refusent d'aborder la rémunération avant la fin du processus d’embauche. C’est du temps perdu pour tout le monde.",
     "thumbnail": "thumbnails/9r1p3t.webp",
-    "tags": [
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:43:50.508870+00:00"
-  },
-  {
-    "id": "9r0lti",
-    "title": "Boîte de nuit : elle passe un très bon moment sur la chanson de ce rappeur qui la traite de salope",
-    "url": "http://www.legorafi.fr/2018/10/24/boite-de-nuit-elle-passe-un-tres-bon-moment-sur-la-chanson-de-ce-rappeur-qui-la-traite-de-salope/",
-    "permalink": "/r/france/comments/9r0lti/boîte_de_nuit_elle_passe_un_très_bon_moment_sur/",
-    "created_at": "2018-10-24T15:23:13+00:00",
-    "score": 177,
-    "num_comments": 88,
-    "subreddit": "france",
-    "author": "vloppp",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/ZPB8PAKIMhW7cwo970YuVaxqWpX2gkvTTXAHb_tSMbw.jpeg?auto=webp&s=175ce8d1fe4d7dce65ca96bf331d347d321d95e9",
-    "ingested_at": "2026-10-31T15:14:49.525348+00:00",
-    "summary": "La boîte de nuit “Le Snake” a offert à une jeune femme un nouveau moment magique lors de l’une de ses soirées.",
-    "thumbnail": "thumbnails/9r0lti.webp",
-    "tags": [
-      "Snake",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:43:50.560053+00:00"
   },
   {
     "id": "9qrn7e",
@@ -515,8 +337,7 @@
     "summary": "",
     "thumbnail": "thumbnails/9qrn7e.webp",
     "tags": [
-      "Ryad",
-      "Politique"
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T09:43:50.775441+00:00"
   },
@@ -538,11 +359,7 @@
     "summary": "C'est un nouvel évènement qui ne risque pas d'appaiser les récents et vifs débats entre chasseurs et promeneurs. France Bleu Breizh Izel rapporte l'histoire de deux surfeurs qui affirment avoir été pr...",
     "thumbnail": "thumbnails/9qj2zz.webp",
     "tags": [
-      "France Bleu Breizh Izel",
-      "Flash",
-      "Flash Actu",
-      "Fil",
-      "Fil info"
+      "Cause animale"
     ],
     "analyzed_at": "2026-11-01T09:43:51.436033+00:00"
   },
@@ -564,31 +381,9 @@
     "summary": "La direction de l’école avance des motifs de sécurité et de santé pour justifier son interdiction…",
     "thumbnail": "thumbnails/9qg44s.webp",
     "tags": [
-      "Société"
+      "Éducation"
     ],
     "analyzed_at": "2026-11-01T09:43:51.027198+00:00"
-  },
-  {
-    "id": "9qda7p",
-    "title": "Assurer sa défense en politique | Le blog d'un odieux connard",
-    "url": "https://unodieuxconnard.com/2018/10/22/assurer-sa-defense-en-politique/?fbclid=IwAR2EX0WAXCprs9WGnt1OWb6LDkm0KTIwgBBjs8WItKQv1i8xI3MUGnSHev8",
-    "permalink": "/r/france/comments/9qda7p/assurer_sa_défense_en_politique_le_blog_dun/",
-    "created_at": "2018-10-22T12:17:28+00:00",
-    "score": 162,
-    "num_comments": 32,
-    "subreddit": "france",
-    "author": "nokiou",
-    "flair": "Humour",
-    "domain": "unodieuxconnard.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/XQLAH7F7_aycp0Hd2-4EwmOffmOE68G4EPqtNPJisog.jpg?auto=webp&s=02ad39ddf947e6fd0f01a68b90b72f1ae837c77a",
-    "ingested_at": "2026-10-31T15:14:49.525532+00:00",
-    "summary": "Le cycle de la vie politique française est des plus poétique. Des élus votent des lois, les lois sont mises en place, et parfois, au détour d’un chemin, voilà que les lois s’appliquent …",
-    "thumbnail": "thumbnails/9qda7p.webp",
-    "tags": [
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:43:51.488654+00:00"
   },
   {
     "id": "9q5rpp",
@@ -608,33 +403,9 @@
     "summary": "",
     "thumbnail": "thumbnails/9q5rpp.webp",
     "tags": [
-      "Paris"
+      "LGBT+"
     ],
     "analyzed_at": "2026-11-01T09:43:50.989335+00:00"
-  },
-  {
-    "id": "9q2lcz",
-    "title": "« Sauver les riches, taxer les pauvres. Fraude à 55 milliards d’euros ! »",
-    "url": "https://insolentiae.com/sauver-les-riches-taxer-les-pauvres-fraude-a-55-milliards-deuros-ledito-de-charles-sannat/",
-    "permalink": "/r/france/comments/9q2lcz/sauver_les_riches_taxer_les_pauvres_fraude_à_55/",
-    "created_at": "2018-10-21T10:39:44+00:00",
-    "score": 380,
-    "num_comments": 35,
-    "subreddit": "france",
-    "author": "Yuyiyuyo",
-    "flair": "Société",
-    "domain": "insolentiae.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/J-WV1nl5F8i2JK53pv-5AbQotxEOAJcTOOx-MYiJRQs.jpeg?auto=webp&s=95a9979491d7f3127a19abf7aac99ea4597199d6",
-    "ingested_at": "2026-10-31T15:14:49.524631+00:00",
-    "summary": "Mes chères impertinentes, mes chers impertinents, Lorsque j’affirme qu’il faut qu’un État laisse se développer une zone économique dite « grise » afin de favoriser la créativité, et aussi de permettre aux petits et aux sans-dents de bricoler dans leur coin tant que cela ne pose pas de problème de sécurité publique, on…",
-    "thumbnail": "thumbnails/9q2lcz.webp",
-    "tags": [
-      "État",
-      "États",
-      "Société"
-    ],
-    "analyzed_at": "2026-11-01T09:43:51.937326+00:00"
   },
   {
     "id": "9q18el",
@@ -654,30 +425,9 @@
     "summary": "",
     "thumbnail": "thumbnails/9q18el.webp",
     "tags": [
-      "Emmanuel Macron",
-      "Compteur"
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T09:43:51.922001+00:00"
-  },
-  {
-    "id": "9psgrf",
-    "title": "Animation parisienne",
-    "url": "https://gfycat.com/ablemealyasianpiedstarling",
-    "permalink": "/r/france/comments/9psgrf/animation_parisienne/",
-    "created_at": "2018-10-20T08:26:23+00:00",
-    "score": 221,
-    "num_comments": 29,
-    "subreddit": "france",
-    "author": "invz27",
-    "flair": "",
-    "domain": "gfycat.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://b.thumbs.redditmedia.com/8qIPnSwT6fMkThGrN2eZJvKSeTBf8SPpxT1Q_m-80Lc.jpg",
-    "ingested_at": "2026-10-31T15:14:49.525127+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/9psgrf.webp",
-    "tags": [],
-    "analyzed_at": "2026-11-01T09:43:52.224185+00:00"
   },
   {
     "id": "9ps7x3",
@@ -697,11 +447,7 @@
     "summary": "Dans une enquête publiée vendredi soir, Mediapart affirme que le leader de La France insoumise entretient une relation avec la dirigeante de Mediascop, société au cœur de l'enquête sur les comptes de campagne de Jean-Luc Mélenchon.",
     "thumbnail": "thumbnails/9ps7x3.webp",
     "tags": [
-      "Jean-Luc Mélenchon",
-      "Mediapart",
-      "Sophia Chikirou",
-      "Mediascop",
-      "Politique"
+      "Jean-Luc Mélenchon"
     ],
     "analyzed_at": "2026-11-01T09:43:51.449949+00:00"
   },
@@ -723,9 +469,6 @@
     "summary": "Deux surprises ont émané des perquisitions dans l’enquête sur le financement de La France insoumise. La première est la proximité de Jean-Luc Mélenchon et de la communicante Sophia Chikirou, au cœur …",
     "thumbnail": "thumbnails/9po00i.webp",
     "tags": [
-      "Sophia Chikirou",
-      "Mélenchon",
-      "Jean-Luc Mélenchon 12",
       "Jean-Luc Mélenchon"
     ],
     "analyzed_at": "2026-11-01T09:43:52.060837+00:00"
@@ -747,13 +490,7 @@
     "ingested_at": "2026-10-31T15:14:49.524816+00:00",
     "summary": "Microsoft qui, pendant longtemps, a généré des milliards de dollars grâce à son large portefeuille de brevets logiciels, pourrait maintenant renoncer à une source importante de revenus.",
     "thumbnail": "thumbnails/9ph3th.webp",
-    "tags": [
-      "Linux",
-      "Microsoft",
-      "Android",
-      "Redmond",
-      "Samsung"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:43:51.945765+00:00"
   },
   {
@@ -773,10 +510,7 @@
     "ingested_at": "2026-10-31T15:14:49.525465+00:00",
     "summary": "L’Etat du Minnesota a porté plainte contre trois laboratoires, accusés d’avoir doublé, voire triplé les prix de cette hormone indispensable aux diabétiques…",
     "thumbnail": "thumbnails/9pcosx.webp",
-    "tags": [
-      "Sanofi",
-      "Minnesota"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:43:52.141919+00:00"
   },
   {
@@ -798,9 +532,7 @@
     "thumbnail": "thumbnails/9pa7dx.webp",
     "tags": [
       "Manuel Valls",
-      "Barcelone",
-      "Paris",
-      "Pyrénées"
+      "Élections"
     ],
     "analyzed_at": "2026-11-01T09:43:51.999723+00:00"
   },
@@ -822,36 +554,10 @@
     "summary": "Un lobby de la société Monsanto a créé des groupes de \"faux agriculteurs\" chargés de se prononcer en faveur du glyphosate, révèle la cellule d’investigation de Greenpeace et du quotidien britannique \"The Independent\".",
     "thumbnail": "thumbnails/9p8vdr.webp",
     "tags": [
-      "Monsanto",
-      "Greenpeace",
-      "RMC",
-      "Independent",
-      "Société"
+      "Environnement",
+      "Agriculture"
     ],
     "analyzed_at": "2026-11-01T09:43:52.420296+00:00"
-  },
-  {
-    "id": "9p7kzh",
-    "title": "Toujours bien raccrocher !",
-    "url": "https://clyp.it/24ucbaek",
-    "permalink": "/r/france/comments/9p7kzh/toujours_bien_raccrocher/",
-    "created_at": "2018-10-18T09:11:09+00:00",
-    "score": 160,
-    "num_comments": 65,
-    "subreddit": "france",
-    "author": "jettecaici",
-    "flair": "Humour",
-    "domain": "clyp.it",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/NVtYc1gB6aRQqCF3EuAsUFxCJHfpeo9TLK0d4FUeZ7I.png?auto=webp&s=6a9ac9594aa2857be255cc718ccd289df7e97b66",
-    "ingested_at": "2026-10-31T15:14:49.525578+00:00",
-    "summary": "Listen to Toujours bien raccrocher | Clyp is the easiest way to record, upload and share audio.",
-    "thumbnail": "thumbnails/9p7kzh.webp",
-    "tags": [
-      "Toujours",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:43:52.589462+00:00"
   },
   {
     "id": "9p7ejd",
@@ -871,35 +577,9 @@
     "summary": "Ce système a permis à plusieurs actionnaires de se faire rembourser indûment l'impôt sur les dividendes.",
     "thumbnail": "thumbnails/9p7ejd.webp",
     "tags": [
-      "Etats",
-      "Éco / Conso",
-      "Impôts",
-      "Société"
+      "Budget et fiscalité"
     ],
     "analyzed_at": "2026-11-01T09:43:52.241945+00:00"
-  },
-  {
-    "id": "9p6fqt",
-    "title": "Île de Bréhat, Côtes-d'Armor, France",
-    "url": "https://c1.staticflickr.com/3/2314/32821910826_89ae377227_o.jpg",
-    "permalink": "/r/france/comments/9p6fqt/île_de_bréhat_côtesdarmor_france/",
-    "created_at": "2018-10-18T05:45:33+00:00",
-    "score": 906,
-    "num_comments": 38,
-    "subreddit": "france",
-    "author": "loulan",
-    "flair": "Culture",
-    "domain": "c1.staticflickr.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/Mb7UiTWB_1WlI2F_3AMnGdfWPKRQP-B70DZnoQHuL-8.jpg?auto=webp&s=21fd60cae524dbdb66637bcdeed30b1235852340",
-    "ingested_at": "2026-10-31T15:14:49.524535+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/9p6fqt.webp",
-    "tags": [
-      "Bréhat",
-      "Culture"
-    ],
-    "analyzed_at": "2026-11-01T09:43:55.717487+00:00"
   },
   {
     "id": "9p6895",
@@ -918,10 +598,7 @@
     "ingested_at": "2026-10-31T15:14:49.524927+00:00",
     "summary": "",
     "thumbnail": "thumbnails/9p6895.webp",
-    "tags": [
-      "CumEx Files",
-      "États"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:43:52.831044+00:00"
   },
   {
@@ -943,9 +620,6 @@
     "thumbnail": "thumbnails/9p1seb.webp",
     "tags": [
       "Jean-Luc Mélenchon",
-      "Sud",
-      "Politique",
-      "France insoumise",
       "Médias"
     ],
     "analyzed_at": "2026-11-01T09:43:52.539535+00:00"
@@ -968,9 +642,7 @@
     "summary": "Plusieurs agences PÃ´le emploi ont organisÃ© des sessions de recrutement inspirÃ©es du tÃ©lÃ©-crochet The Voice. Un dispositif qui n'amuse pas certains agents.",
     "thumbnail": "thumbnails/9p18kn.webp",
     "tags": [
-      "Voice",
-      "PÃ",
-      "Politique"
+      "Travail"
     ],
     "analyzed_at": "2026-11-01T09:43:52.443615+00:00"
   },
@@ -992,11 +664,7 @@
     "summary": "Guillaume Mélanie, le président d’Urgence Homophobie, a été agressé mardi soir dans le IIe arrondissement, près du métro Etienne Marcel.",
     "thumbnail": "thumbnails/9ox341.webp",
     "tags": [
-      "Urgence Homophobie",
-      "Guillaume Mélanie",
-      "IIe",
-      "Etienne Marcel",
-      "Paris"
+      "LGBT+"
     ],
     "analyzed_at": "2026-11-01T09:43:52.814724+00:00"
   },
@@ -1018,11 +686,9 @@
     "summary": "Suite au remaniement ministériel de ce mardi, Emmanuelle Wargon a été nommée secrétaire d’État auprès du ministre de la Transition écologique et solidaire. Elle secondera donc François de Rugy, remplaçant de Nicolas Hulot.",
     "thumbnail": "thumbnails/9on9dv.webp",
     "tags": [
-      "État",
-      "Transition",
-      "Danone",
-      "Emmanuelle Wargon",
-      "Politique"
+      "Environnement",
+      "Nicolas Hulot",
+      "François de Rugy"
     ],
     "analyzed_at": "2026-11-01T09:43:52.726294+00:00"
   },
@@ -1044,11 +710,7 @@
     "summary": "Le leader de La France insoumise a révélé sur sa page Facebook les perquisitions qui le visent lui ainsi que plusieurs proches, mardi matin, dénonçant une \"intimidation\".",
     "thumbnail": "thumbnails/9olmhs.webp",
     "tags": [
-      "Jean-Luc Mélenchon",
-      "Facebook",
-      "LFI",
-      "La France insoumise",
-      "Société"
+      "Jean-Luc Mélenchon"
     ],
     "analyzed_at": "2026-11-01T09:43:52.972378+00:00"
   },
@@ -1069,10 +731,7 @@
     "ingested_at": "2026-10-31T15:14:49.524863+00:00",
     "summary": "La dernière fusillade de la semaine dernière dans la ville américaine avait eu lieu jeudi à la mi-journée.",
     "thumbnail": "thumbnails/9ol7cw.webp",
-    "tags": [
-      "New York",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:43:53.275222+00:00"
   },
   {
@@ -1092,83 +751,8 @@
     "ingested_at": "2026-10-31T15:14:49.524678+00:00",
     "summary": "L’institution monétaire conseille à certains pays «avancés» d’augmenter l’imposition des plus hauts revenus…",
     "thumbnail": "thumbnails/9obzcm.webp",
-    "tags": [
-      "FMI",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:43:53.038051+00:00"
-  },
-  {
-    "id": "9oa2du",
-    "title": "La France divisée: « pot », « cruche », « broc » ou « carafe »?",
-    "url": "https://francaisdenosregions.com/2018/10/10/vous-dites-pot-deau-cruche-ou-carafe/",
-    "permalink": "/r/france/comments/9oa2du/la_france_divisée_pot_cruche_broc_ou_carafe/",
-    "created_at": "2018-10-15T05:56:03+00:00",
-    "score": 279,
-    "num_comments": 195,
-    "subreddit": "france",
-    "author": "fuchsely",
-    "flair": "",
-    "domain": "francaisdenosregions.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/rwns13lvW8Yvk5gSRRpjOZ4Fnhy9E4IrYBBkpfohi_I.jpg?auto=webp&s=02f35ba69aeae2e2b91e78207a6a3162f60ee745",
-    "ingested_at": "2026-10-31T15:14:49.525014+00:00",
-    "summary": "Il y a tout pile un an, l’Atlas du Français de nos Régions (éditions Armand Colin) était disponible dans toutes les bonnes librairies. Pour fêter cet anniversaire, j’ai eu envie de rédi…",
-    "thumbnail": "thumbnails/9oa2du.webp",
-    "tags": [
-      "Armand Colin"
-    ],
-    "analyzed_at": "2026-11-01T09:43:53.222345+00:00"
-  },
-  {
-    "id": "9o36t4",
-    "title": "Aujourd'hui 14 octobre 1066 (+952), Bataille d'Hastings : le normand Guillaume le Conquérant s'empare de l'Angleterre et inspirera la Tapisserie de Bayeux.",
-    "url": "https://fr.wikipedia.org/wiki/Bataille_d%27Hastings",
-    "permalink": "/r/france/comments/9o36t4/aujourdhui_14_octobre_1066_952_bataille_dhastings/",
-    "created_at": "2018-10-14T14:39:36+00:00",
-    "score": 281,
-    "num_comments": 54,
-    "subreddit": "france",
-    "author": "s3rila",
-    "flair": "",
-    "domain": "fr.wikipedia.org",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/sQux3Oid3D5CQPxGLOmMgijtr8fa-IaU-cB86Jgh-xw.jpeg?auto=webp&s=9074830761bd6cca2f1130109d9141a931d70eda",
-    "ingested_at": "2026-10-31T15:14:49.524993+00:00",
-    "summary": "La bataille d'Hastings se déroule au cours de la conquête normande de l'Angleterre le 14 octobre 1066 à une dizaine de kilomètres au nord-ouest de la ville d' Hastings , dans le Sussex de l'Est .",
-    "thumbnail": "thumbnails/9o36t4.webp",
-    "tags": [
-      "Angleterre",
-      "Bataille Hastings",
-      "Guillaume le Conquérant",
-      "Tapisserie de Bayeux",
-      "Guillaume"
-    ],
-    "analyzed_at": "2026-11-01T09:43:53.453555+00:00"
-  },
-  {
-    "id": "9o0t9k",
-    "title": "L'Île d'Or, Alpes-Maritimes, France—l'inspiration de L'Île Noire de Tintin",
-    "url": "https://c2.staticflickr.com/2/1966/45288065531_79c13f7e97_o.jpg",
-    "permalink": "/r/france/comments/9o0t9k/lîle_dor_alpesmaritimes_francelinspiration_de/",
-    "created_at": "2018-10-14T06:44:36+00:00",
-    "score": 761,
-    "num_comments": 15,
-    "subreddit": "france",
-    "author": "loulan",
-    "flair": "Culture",
-    "domain": "c2.staticflickr.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/qguporwpTACzxGKiNx977mL2a2_84cb4b0nPhfRWRDo.jpeg?auto=webp&s=bd9184cdb823d00848d9c89c72c2752a2ec0698a",
-    "ingested_at": "2026-10-31T15:14:49.524584+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/9o0t9k.webp",
-    "tags": [
-      "Île Or",
-      "Île Noire de Tintin",
-      "Culture"
-    ],
-    "analyzed_at": "2026-11-01T09:43:56.657062+00:00"
   },
   {
     "id": "9nvtko",
@@ -1188,11 +772,7 @@
     "summary": "JEUNES LR - Dans un enregistrement diffusé par l’équipe de son adversaire à la présidence du mouvement des Jeunes Républicains, Aurane Reihanian dialogue avec un de ses partisans sur la meilleure façon de récupérer les codes personnels de jeunes adhérents LR, nécessaires pour voter.",
     "thumbnail": "thumbnails/9nvtko.webp",
     "tags": [
-      "JDD",
-      "Wauquiez",
-      "JEUNES LR",
-      "Jeunes Républicains",
-      "Politique"
+      "Laurent Wauquiez"
     ],
     "analyzed_at": "2026-11-01T09:43:53.572721+00:00"
   },
@@ -1213,10 +793,7 @@
     "ingested_at": "2026-10-31T15:14:49.525726+00:00",
     "summary": "",
     "thumbnail": "thumbnails/9nsgco.webp",
-    "tags": [
-      "Chine",
-      "Compteur"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:43:55.264392+00:00"
   },
   {
@@ -1258,10 +835,8 @@
     "thumbnail": "thumbnails/9nn2hf.webp",
     "tags": [
       "François Ruffin",
-      "LREM",
-      "Républicains",
-      "Education",
-      "Politique"
+      "Handicap",
+      "Éducation"
     ],
     "analyzed_at": "2026-11-01T09:43:53.555875+00:00"
   },
@@ -1283,11 +858,7 @@
     "summary": "Evoquant un reportage “déséquilibré” présentant Israël de manière “très négative”, l’ambassadrice en France a demandé à la présidente de France Télévisions d’annuler la diffusion d’un sujet d’“Envoyé spécial”. Il était consacré aux Palestiniens blessés par les tirs israéliens à la frontière entre les deux territoires.",
     "thumbnail": "thumbnails/9nlyl2.webp",
     "tags": [
-      "Israël",
-      "France 2",
-      "Gaza",
-      "France Télévisions",
-      "Société"
+      "Conflit israélo-palestinien"
     ],
     "analyzed_at": "2026-11-01T09:43:53.676689+00:00"
   },
@@ -1308,104 +879,8 @@
     "ingested_at": "2026-10-31T15:14:49.525664+00:00",
     "summary": "Information RMC. Les employés du Remera, le registre des malformations de Rhône Alpes vont être licenciés. Ils avaient travaillé sur les cas des bébés nés sans bras dans l'Ain.",
     "thumbnail": "thumbnails/9nijd3.webp",
-    "tags": [
-      "Remera",
-      "Rhône Alpes",
-      "Ain",
-      "Information RMC",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:43:53.809049+00:00"
-  },
-  {
-    "id": "9nhd2c",
-    "title": "La Louisiane rejoint la Francophonie",
-    "url": "https://france-amerique.com/fr/la-louisiane-rejoint-la-francophonie/",
-    "permalink": "/r/france/comments/9nhd2c/la_louisiane_rejoint_la_francophonie/",
-    "created_at": "2018-10-12T04:51:37+00:00",
-    "score": 377,
-    "num_comments": 180,
-    "subreddit": "france",
-    "author": "wisi_eu",
-    "flair": "Actus",
-    "domain": "france-amerique.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/AyJN6C0d6DKHnIDv_iz0IJabuD9--Sjcf3ytsecO2Pc.jpg?auto=webp&s=20b275fd4492166ab8f8861b572fc18139c71505",
-    "ingested_at": "2026-10-31T15:14:49.524655+00:00",
-    "summary": "We are doing some work on our site. Please come back later. We'll be up and running in no time.",
-    "thumbnail": "thumbnails/9nhd2c.webp",
-    "tags": [
-      "Louisiane",
-      "Francophonie"
-    ],
-    "analyzed_at": "2026-11-01T09:43:54.673273+00:00"
-  },
-  {
-    "id": "9n8pz4",
-    "title": "Les Espaces d'Abraxas, Noisy-le-Grand",
-    "url": "https://pbs.twimg.com/media/DbIaqrCX4AIp1fn.jpg",
-    "permalink": "/r/france/comments/9n8pz4/les_espaces_dabraxas_noisylegrand/",
-    "created_at": "2018-10-11T10:27:08+00:00",
-    "score": 329,
-    "num_comments": 51,
-    "subreddit": "france",
-    "author": "cgcmake",
-    "flair": "",
-    "domain": "pbs.twimg.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/Bjgp7yK9v0AmrAJ4lhYLWJeDerMxlnG3_a4lpPGu-7M.jpg?auto=webp&s=af670166ba84318c6e505211b223340e8589314f",
-    "ingested_at": "2026-10-31T15:14:49.524771+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/9n8pz4.webp",
-    "tags": [
-      "Espaces Abraxas"
-    ],
-    "analyzed_at": "2026-11-01T09:43:54.238605+00:00"
-  },
-  {
-    "id": "9n7169",
-    "title": "Cité de la Mode et du Design, Paris, France",
-    "url": "https://c1.staticflickr.com/9/8351/8445173687_30e4f0f10c_o.jpg",
-    "permalink": "/r/france/comments/9n7169/cité_de_la_mode_et_du_design_paris_france/",
-    "created_at": "2018-10-11T05:08:19+00:00",
-    "score": 133,
-    "num_comments": 32,
-    "subreddit": "france",
-    "author": "loulan",
-    "flair": "",
-    "domain": "c1.staticflickr.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/otE6iRdz2QUllNHM5yC06b_-iNRydt9djLxBKSfTyh0.jpeg?auto=webp&s=39e29d268c07d65d3cfcdf8a5dcece01bab80302",
-    "ingested_at": "2026-10-31T15:14:49.525959+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/9n7169.webp",
-    "tags": [
-      "Mode et du Design"
-    ],
-    "analyzed_at": "2026-11-01T09:43:59.055500+00:00"
-  },
-  {
-    "id": "9n2q9p",
-    "title": "Charlie Hebdo - Aujourd'hui en kiosque, Remaniement : Ni de droite... Ni de gauche !",
-    "url": "https://scontent-frt3-2.xx.fbcdn.net/v/t1.0-9/43661891_2177904808899312_3863034847496765440_n.png?_nc_cat=1&oh=68796d50eab84d145be464dafc071516&oe=5C4B1267",
-    "permalink": "/r/france/comments/9n2q9p/charlie_hebdo_aujourdhui_en_kiosque_remaniement/",
-    "created_at": "2018-10-10T19:37:40+00:00",
-    "score": 122,
-    "num_comments": 21,
-    "subreddit": "france",
-    "author": "Jettealeau",
-    "flair": "Humour",
-    "domain": "scontent-frt3-2.xx.fbcdn.net",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/4cpI9UfgDz4Lmrn5TEo51iu9eE5qOkTlkvGciyn7W4Y.png?auto=webp&s=4bec35d874b912e21878f62a72037b8c752cbb9e",
-    "ingested_at": "2026-10-31T15:14:49.526002+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/9n2q9p.webp",
-    "tags": [
-      "Charlie Hebdo",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:43:55.635257+00:00"
   },
   {
     "id": "9mwjya",
@@ -1424,57 +899,8 @@
     "ingested_at": "2026-10-31T15:14:49.524840+00:00",
     "summary": "\"En France, il a été estimé que 43% des mélanomes chez les jeunes pouvaient être attribués à une utilisation de ces cabines avant l'âge de 30 ans\", souligne l'agence.",
     "thumbnail": "thumbnails/9mwjya.webp",
-    "tags": [
-      "UV",
-      "UVA",
-      "Science"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:43:54.983168+00:00"
-  },
-  {
-    "id": "9mno6e",
-    "title": "Le réchauffement climatique responsable du rétrécissement du pénis humain de plus de 30% d’ici 10 ans",
-    "url": "http://www.legorafi.fr/2014/10/22/le-rechauffement-climatique-responsable-du-retrecissement-du-penis-humain-de-plus-de-30-dici-10-ans/",
-    "permalink": "/r/france/comments/9mno6e/le_réchauffement_climatique_responsable_du/",
-    "created_at": "2018-10-09T09:26:38+00:00",
-    "score": 148,
-    "num_comments": 41,
-    "subreddit": "france",
-    "author": "g0sc",
-    "flair": "",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/6lJ2c1JOeVD2UZwtQ_oVGZkQr4lb_-3dfMhtkzbzbdk.jpg?auto=webp&s=f11f43b5b922a27da193944660f34bb4ccee9d0b",
-    "ingested_at": "2026-10-31T15:14:49.525790+00:00",
-    "summary": "Selon une étude publiée par l'université d'Oslo, une des conséquences du réchauffement climatique serait la diminution de plus de 30% de la taille du pénis chez l'homme. Les chercheurs estiment que si le rythme du réchauffement se maintient, le pénis devrait avoir totalement disparu d'ici une centaine d'année.",
-    "thumbnail": "thumbnails/9mno6e.webp",
-    "tags": [
-      "Oslo"
-    ],
-    "analyzed_at": "2026-11-01T09:43:55.173439+00:00"
-  },
-  {
-    "id": "9mmko7",
-    "title": "Bibliothèque Schœlcher, Martinique, France",
-    "url": "https://c1.staticflickr.com/1/404/32523687376_4cc9a05d31_o.jpg",
-    "permalink": "/r/france/comments/9mmko7/bibliothèque_schœlcher_martinique_france/",
-    "created_at": "2018-10-09T05:46:13+00:00",
-    "score": 844,
-    "num_comments": 39,
-    "subreddit": "france",
-    "author": "loulan",
-    "flair": "Culture",
-    "domain": "c1.staticflickr.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/CFD8h1wbplerrVf0V42JzGDEZFwTbBY5fBKsMn7TAHM.jpg?auto=webp&s=9a07e60c73e2c23c18008f35976058851f3f943b",
-    "ingested_at": "2026-10-31T15:14:49.524560+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/9mmko7.webp",
-    "tags": [
-      "Bibliothèque Schœlcher",
-      "Culture"
-    ],
-    "analyzed_at": "2026-11-01T09:43:58.645419+00:00"
   },
   {
     "id": "9mgar2",
@@ -1493,7 +919,9 @@
     "ingested_at": "2026-10-31T15:14:49.526272+00:00",
     "summary": "",
     "thumbnail": "thumbnails/9mgar2.webp",
-    "tags": [],
+    "tags": [
+      "Nicolas Sarkozy"
+    ],
     "analyzed_at": "2026-11-01T09:43:55.621745+00:00"
   },
   {
@@ -1513,7 +941,9 @@
     "ingested_at": "2026-10-31T15:14:49.526146+00:00",
     "summary": "",
     "thumbnail": "thumbnails/9mc92a.webp",
-    "tags": [],
+    "tags": [
+      "Environnement"
+    ],
     "analyzed_at": "2026-11-01T09:43:56.060016+00:00"
   },
   {
@@ -1533,12 +963,7 @@
     "ingested_at": "2026-10-31T15:14:49.526083+00:00",
     "summary": "Dans une vidéo publiée sur Facebook, le chanteur nordiste défend la politique du gouvernement, avec son humour noir habituel...",
     "thumbnail": "thumbnails/9m8azt.webp",
-    "tags": [
-      "Didier Super",
-      "Marche",
-      "Facebook",
-      "Humour"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:43:56.064483+00:00"
   },
   {
@@ -1558,13 +983,7 @@
     "ingested_at": "2026-10-31T15:14:49.526231+00:00",
     "summary": "Les autorités chinoises avaient jusque là gardé le silence sur le sort du président du réseau policier international.",
     "thumbnail": "thumbnails/9m7kcy.webp",
-    "tags": [
-      "Chine",
-      "Interpol",
-      "Meng Hongwei",
-      "Monde",
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:43:56.521119+00:00"
   },
   {
@@ -1585,8 +1004,7 @@
     "summary": "Une ancienne aide-soignante d’un Ehpad marseillais était entendue après avoir dénoncé dans un reportage des actes de « maltraitance institutionnelle »…",
     "thumbnail": "thumbnails/9luudp.webp",
     "tags": [
-      "Ehpad",
-      "VIDEO"
+      "Police"
     ],
     "analyzed_at": "2026-11-01T09:43:56.516792+00:00"
   },
@@ -1607,13 +1025,7 @@
     "ingested_at": "2026-10-31T15:14:49.525897+00:00",
     "summary": "Un documentaire met en lumière la totale impunité dont jouit la plus grande banque européenne, BNP Paribas. L’enquête de Xavier Harel et Thomas Lafarge, diffusée jeudi 4 octobre sur France 3, a duré deux ans et dénonce les dérives du groupe et du système bancaire. Accablant.",
     "thumbnail": "thumbnails/9lujvq.webp",
-    "tags": [
-      "BNP Paribas",
-      "France 3",
-      "Xavier Harel et Thomas Lafarge",
-      "BNP",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:43:56.340685+00:00"
   },
   {
@@ -1634,32 +1046,9 @@
     "summary": "Le quatrième tome de la bande dessinée de Riad Sattouf se hisse dès sa première semaine en tête des meilleures ventes de livres, tous genres",
     "thumbnail": "thumbnails/9lltcp.webp",
     "tags": [
-      "Zemmour",
-      "Riad Sattouf"
+      "Éric Zemmour"
     ],
     "analyzed_at": "2026-11-01T09:43:56.435928+00:00"
-  },
-  {
-    "id": "9ljxwq",
-    "title": "Fraude fiscale par décile de la population (étude scandinave)",
-    "url": "http://gabriel-zucman.eu/wp-content/uploads/2017/08/fig1-1.jpg",
-    "permalink": "/r/france/comments/9ljxwq/fraude_fiscale_par_décile_de_la_population_étude/",
-    "created_at": "2018-10-05T06:43:02+00:00",
-    "score": 224,
-    "num_comments": 314,
-    "subreddit": "france",
-    "author": "keepthepace",
-    "flair": "Société",
-    "domain": "gabriel-zucman.eu",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/GUEZqLskt-ONyo_6GFcvrl5AfHTK7OLCO6PqjTHfzVA.jpg?auto=webp&s=51141735cdcd43798dad6c2cbdbbe0c4de7bb9ab",
-    "ingested_at": "2026-10-31T15:14:49.525104+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/9ljxwq.webp",
-    "tags": [
-      "Société"
-    ],
-    "analyzed_at": "2026-11-01T09:43:56.823777+00:00"
   },
   {
     "id": "9ljqn4",
@@ -1678,39 +1067,8 @@
     "ingested_at": "2026-10-31T15:14:49.525705+00:00",
     "summary": "La secrétaire d'Etat Brune Poirson estimait que l'industrie du tabac s'engageait de manière trop timide dans la lutte contre la pollution des mégots. Elle leur a demandé début juillet des engagements chiffrés et concrets.",
     "thumbnail": "thumbnails/9ljqn4.webp",
-    "tags": [
-      "Etat Brune Poirson",
-      "France Inter",
-      "Lutte contre le tabagisme",
-      "Drogue-Addictions"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:43:57.099458+00:00"
-  },
-  {
-    "id": "9ldc9z",
-    "title": "Des Anglais rencontrent des Français dans « Sea of Thieves »",
-    "url": "https://www.koreus.com/video/anglais-francais-sea-thieves.html",
-    "permalink": "/r/france/comments/9ldc9z/des_anglais_rencontrent_des_français_dans_sea_of/",
-    "created_at": "2018-10-04T16:16:32+00:00",
-    "score": 149,
-    "num_comments": 28,
-    "subreddit": "france",
-    "author": "[deleted]",
-    "flair": "Humour",
-    "domain": "koreus.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/tDdxnHXj4R4kQxHdZ8clOxJbXHeJK0aRRKbGvxHWZyA.jpeg?auto=webp&s=324dd99b48042914cb61976ef831877551b81cc1",
-    "ingested_at": "2026-10-31T15:14:49.525768+00:00",
-    "summary": "Des joueurs anglais rencontrent des joueurs français au cours d'une partie du jeu vidéo « Sea of Thieves ». En entendant l'accent très prononcé des Français, qui s'expriment dans un « english very bad », les Anglais ne peuvent s'empêcher de rigoler.",
-    "thumbnail": "thumbnails/9ldc9z.webp",
-    "tags": [
-      "Thieves",
-      "Accent",
-      "Bateau",
-      "Francais",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:43:56.757845+00:00"
   },
   {
     "id": "9la260",
@@ -1729,11 +1087,7 @@
     "ingested_at": "2026-10-31T15:14:49.524794+00:00",
     "summary": "Un non-sens : le régime fiscal français avantage ces véhicules très lourds et gourmands en carburant.",
     "thumbnail": "thumbnails/9la260.webp",
-    "tags": [
-      "Terre",
-      "CO2",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:43:56.984245+00:00"
   },
   {
@@ -1753,37 +1107,8 @@
     "ingested_at": "2026-10-31T15:14:49.524950+00:00",
     "summary": "Hella Kherief, aide-soignante à Marseille, était l'un des seuls témoins à avoir accepté de témoigner à visage découvert sur la situation dans les Ehpad privés lucratifs.",
     "thumbnail": "thumbnails/9l4ozf.webp",
-    "tags": [
-      "Hella Kherief",
-      "Ehpad",
-      "Envoyé Spécial",
-      "Marseille",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:43:57.113925+00:00"
-  },
-  {
-    "id": "9kzs4y",
-    "title": "La couverture de Charlie Hebdo cette semaine !",
-    "url": "https://scontent-frt3-2.xx.fbcdn.net/v/t1.0-9/43059010_2167332023289924_4385767680641073152_n.jpg?_nc_cat=1&oh=e08bb083ecbabb6128d11a5e8c06e533&oe=5C1E0FD3",
-    "permalink": "/r/france/comments/9kzs4y/la_couverture_de_charlie_hebdo_cette_semaine/",
-    "created_at": "2018-10-03T10:03:40+00:00",
-    "score": 194,
-    "num_comments": 59,
-    "subreddit": "france",
-    "author": "Jettealeau",
-    "flair": "Humour",
-    "domain": "scontent-frt3-2.xx.fbcdn.net",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/SgFN0fJ2EBDw1qw4Y16CyYHbvBL5r9Dqff0VzBrZ6nk.jpg?auto=webp&s=008d400f339cadbd3d41a5ce686accfd10a6f479",
-    "ingested_at": "2026-10-31T15:14:49.525264+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/9kzs4y.webp",
-    "tags": [
-      "Charlie Hebdo",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:43:58.660307+00:00"
   },
   {
     "id": "9kyx7n",
@@ -1803,7 +1128,7 @@
     "summary": "",
     "thumbnail": "thumbnails/9kyx7n.webp",
     "tags": [
-      "Politique"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T09:43:59.273386+00:00"
   },
@@ -1824,9 +1149,7 @@
     "ingested_at": "2026-10-31T15:14:49.525325+00:00",
     "summary": "En l’espace de 30 minutes, 42 scooters et motos sur 64 ont contourné les voitures en prenant la piste cyclable.",
     "thumbnail": "thumbnails/9kymj3.webp",
-    "tags": [
-      "Saint-Denis"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:43:57.680270+00:00"
   },
   {
@@ -1846,37 +1169,8 @@
     "ingested_at": "2026-10-31T15:14:49.526061+00:00",
     "summary": "",
     "thumbnail": "thumbnails/9kpgy0.webp",
-    "tags": [
-      "Français",
-      "Science"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:43:57.573105+00:00"
-  },
-  {
-    "id": "9kot2u",
-    "title": "Saint Martin – Emmanuel Macron : « Le doigt d’honneur était un message aux chômeurs »",
-    "url": "http://www.legorafi.fr/2018/10/02/saint-martin-emmanuel-macron-le-doigt-dhonneur-etait-un-message-aux-chomeurs/",
-    "permalink": "/r/france/comments/9kot2u/saint_martin_emmanuel_macron_le_doigt_dhonneur/",
-    "created_at": "2018-10-02T08:11:48+00:00",
-    "score": 329,
-    "num_comments": 31,
-    "subreddit": "france",
-    "author": "Ulas42",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/jMKV_C2HMJvS8XcF3hSZJVaHML6bJkjsuABJ1yqFItE.png?auto=webp&s=21163000028be7d9962aa861a22cbf6245cf78b5",
-    "ingested_at": "2026-10-31T15:14:49.524748+00:00",
-    "summary": "Emmanuel Macron a dédramatisé la photo prise à St Martin, où il pose à côté d’un jeune faisant un doigt d’honneur, en déclarant que ce n’était qu’un « message destiné aux chômeurs ».",
-    "thumbnail": "thumbnails/9kot2u.webp",
-    "tags": [
-      "Emmanuel Macron",
-      "Saint Martin",
-      "St Martin",
-      "Français",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:43:57.441943+00:00"
   },
   {
     "id": "9khday",
@@ -1895,11 +1189,7 @@
     "ingested_at": "2026-10-31T15:14:49.526292+00:00",
     "summary": "Jérémie Zimmermann vient d’annoncer sur le site de la Quadrature du Net qu’il quittait l’association, dont il est l’un des fondateurs voilà dix ans.…",
     "thumbnail": "thumbnails/9khday.webp",
-    "tags": [
-      "Jérémie Zimmermann",
-      "Quadrature du Net",
-      "Quadrature"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:43:58.187189+00:00"
   },
   {
@@ -1919,13 +1209,7 @@
     "ingested_at": "2026-10-31T15:14:49.524433+00:00",
     "summary": "Le chanteur Charles Aznavour est décédé à l'âge de 94 ans, ont annoncé ses attachés de presse lundi 1er octobre.",
     "thumbnail": "thumbnails/9kfpdd.webp",
-    "tags": [
-      "Charles Aznavour",
-      "Mort de Charles Aznavour",
-      "Musique",
-      "Décès",
-      "Alerte"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:43:58.018740+00:00"
   }
 ]

@@ -17,11 +17,7 @@
     "summary": "Face au refus de l'Algérie, du Maroc et de la Tunisie de reprendre leurs ressortissants en situation irrégulière, la France a tapé du poing sur la table en annonçant",
     "thumbnail": "thumbnails/pyorkk.webp",
     "tags": [
-      "Algérie",
-      "Maroc",
-      "Français",
-      "Tunisie",
-      "Politique"
+      "Élections"
     ],
     "analyzed_at": "2026-11-01T10:03:19.428389+00:00"
   },
@@ -42,10 +38,7 @@
     "ingested_at": "2026-11-01T09:58:34.027954+00:00",
     "summary": "« Le Grêlé », soupçonné de quatre meurtres et six viols, était recherché par les enquêteurs depuis les années 1980. Jeudi soir, l’ADN d’un h",
     "thumbnail": "thumbnails/pyjjlz.webp",
-    "tags": [
-      "Grêlé",
-      "ADN"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:03:19.401248+00:00"
   },
   {
@@ -66,11 +59,7 @@
     "summary": "It is simply not possible to carry on at the current level of economic activity without destroying the environment, says Guardian columnist George Monbiot",
     "thumbnail": "thumbnails/pxycdc.webp",
     "tags": [
-      "George Monbiot",
-      "Guardian",
-      "North Atlantic",
-      "Calanus",
-      "Écologie"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T10:03:19.594155+00:00"
   },
@@ -92,11 +81,8 @@
     "summary": "Le recours au QR code sera finalement maintenu pendant plusieurs mois encore face au risque de reprise épidémique, a fait savoir le porte-parole du gouvernement ce mercredi midi.",
     "thumbnail": "thumbnails/pxtyrt.webp",
     "tags": [
-      "Gabriel Attal",
       "Covid-19",
-      "QR",
-      "Health & Medical",
-      "Politique"
+      "Gabriel Attal"
     ],
     "analyzed_at": "2026-11-01T10:03:22.744171+00:00"
   },
@@ -118,37 +104,9 @@
     "summary": "Ces séances fonctionneront sur la base d’un forfait adressé à des psychologues et qui sera renouvelable.",
     "thumbnail": "thumbnails/px87ky.webp",
     "tags": [
-      "Macron",
-      "Emmanuel Macron",
-      "Société"
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T10:03:19.751038+00:00"
-  },
-  {
-    "id": "px4hwc",
-    "title": "La France et la Grèce signent un accord de partenariat stratégique - La Grèce a commandé à la France 3 frégates et 6 nouveaux avions de combat Rafale",
-    "url": "https://www.aa.com.tr/fr/monde/la-france-et-la-gr%C3%A8ce-signent-un-accord-de-partenariat-strat%C3%A9gique-/2376990",
-    "permalink": "/r/france/comments/px4hwc/la_france_et_la_grèce_signent_un_accord_de/",
-    "created_at": "2021-09-28T11:38:28+00:00",
-    "score": 250,
-    "num_comments": 68,
-    "subreddit": "france",
-    "author": "Foiti",
-    "flair": "Politique",
-    "domain": "aa.com.tr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/rrVkka-D0c_Pp2RcbXp1esEW185rCgQeKcA2P9UQjyU.jpg?auto=webp&s=491110406ac42e1b4e5bf89dd8b5d7ae09da3f98",
-    "ingested_at": "2026-11-01T09:58:34.027855+00:00",
-    "summary": "- La Grèce a commandé à la France 3 frégates et 6 nouveaux avions de combat Rafale. | Anadolu",
-    "thumbnail": "thumbnails/px4hwc.webp",
-    "tags": [
-      "Grèce",
-      "France 3",
-      "Rafale",
-      "France et la Grèce",
-      "Politique"
-    ],
-    "analyzed_at": "2026-11-01T10:03:20.854540+00:00"
   },
   {
     "id": "px2tem",
@@ -168,11 +126,7 @@
     "summary": "En annonçant ces restrictions, Paris veut obliger Algérie, Maroc et Tunisie à reprendre leurs clandestins.",
     "thumbnail": "thumbnails/px2tem.webp",
     "tags": [
-      "Algérie",
-      "Maroc",
-      "Immigration",
-      "Passeport",
-      "Société"
+      "Immigration"
     ],
     "analyzed_at": "2026-11-01T10:03:20.524318+00:00"
   },
@@ -194,11 +148,7 @@
     "summary": "Après l'annonce d'une commande de six avions Rafale supplémentaires, le 11 septembre dernier, la Grèce va-t-elle choisir des navires français pour",
     "thumbnail": "thumbnails/pwepp8.webp",
     "tags": [
-      "Grèce",
-      "Naval Group",
-      "Belh",
-      "Gowind",
-      "Rafale"
+      "Défense"
     ],
     "analyzed_at": "2026-11-01T10:03:19.952954+00:00"
   },
@@ -220,11 +170,7 @@
     "summary": "« En 10 minutes, commente Lucas Chancel, Bezos et ses trois clients vont émettre chacun 75 tonnes de CO2. 10 minutes. Sur terre, il y a un milliard de personnes qui n’atteignent pas ces niveaux d’émissions sur une vie entière. »",
     "thumbnail": "thumbnails/pwd5gu.webp",
     "tags": [
-      "CO2",
-      "Lucas Chancel",
-      "Blue Origin",
-      "Virgin Galactic",
-      "Écologie"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T10:03:20.066358+00:00"
   },
@@ -245,40 +191,8 @@
     "ingested_at": "2026-11-01T09:58:34.027455+00:00",
     "summary": "Une enquête de l’équipe d’investigation de Yahoo News, basée sur plus de 30 témoignages d’anciens officiels américains, révèle que la CIA avait envisagé…",
     "thumbnail": "thumbnails/pwck4f.webp",
-    "tags": [
-      "CIA",
-      "Julian Assange",
-      "Yahoo News",
-      "Assange",
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:03:20.549361+00:00"
-  },
-  {
-    "id": "pvs7ns",
-    "title": "A hamster has been trading cryptocurrencies in a cage rigged to automatically buy and sell tokens since June - and it's currently outperforming the S&P 500",
-    "url": "https://markets.businessinsider.com/news/currencies/hamster-trading-cryptocurrencies-rigged-cage-goxx-bitcoin-price-ether-doge-2021-9",
-    "permalink": "/r/france/comments/pvs7ns/a_hamster_has_been_trading_cryptocurrencies_in_a/",
-    "created_at": "2021-09-26T11:40:47+00:00",
-    "score": 237,
-    "num_comments": 51,
-    "subreddit": "france",
-    "author": "asimovwasright",
-    "flair": "Économie",
-    "domain": "markets.businessinsider.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/mwBVo6AxAVLyfyjhY8Ez0wQ-XE1TDpIruP47kQul-lY.jpeg?auto=webp&s=eea3f2d8d90414742bb49579afa7600ab47c5219",
-    "ingested_at": "2026-11-01T09:58:34.027988+00:00",
-    "summary": "The top cyptocurrencies currently held by the hamster include Tron, Ripple's XRP, cardano's ada, and ether.",
-    "thumbnail": "thumbnails/pvs7ns.webp",
-    "tags": [
-      "June",
-      "P 500",
-      "Markets",
-      "Tron",
-      "Économie"
-    ],
-    "analyzed_at": "2026-11-01T10:03:20.283230+00:00"
   },
   {
     "id": "pvnrc6",
@@ -297,11 +211,7 @@
     "ingested_at": "2026-11-01T09:58:34.027130+00:00",
     "summary": "Effondrés, les parents de Maxime Blasco, tué en mission contre les terroristes ce vendredi, ont accepté de témoigner, pour rendre hommage à",
     "thumbnail": "thumbnails/pvnrc6.webp",
-    "tags": [
-      "Maxime Blasco",
-      "Mali",
-      "Soft paywall"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:03:20.469307+00:00"
   },
   {
@@ -321,13 +231,7 @@
     "ingested_at": "2026-11-01T09:58:34.027878+00:00",
     "summary": "Un prêtre italien, installé en Toscane, a reconnu avoir fourni des drogues pour les besoins de parties fines, d’après une enquête du « Times ».",
     "thumbnail": "thumbnails/pvfcek.webp",
-    "tags": [
-      "GHB",
-      "Point",
-      "Prato",
-      "Florence",
-      "Fait Divers"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:03:24.717994+00:00"
   },
   {
@@ -347,13 +251,7 @@
     "ingested_at": "2026-11-01T09:58:34.027407+00:00",
     "summary": "PORTRAIT - Attaqué par un jeune du même âge sur fond de rivalité territoriale, l'adolescent, apprécié et éloigné des rixes, est décédé des suites de ses blessures à l'hôpital. Une marche blanche est organisée ce samedi.",
     "thumbnail": "thumbnails/pv2yzl.webp",
-    "tags": [
-      "Seine-Saint-Denis",
-      "Bagnolet",
-      "Meurtre",
-      "Ibrahima",
-      "Fait Divers"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:03:21.145542+00:00"
   },
   {
@@ -373,9 +271,7 @@
     "ingested_at": "2026-11-01T09:58:34.027431+00:00",
     "summary": "",
     "thumbnail": "thumbnails/pugi69.webp",
-    "tags": [
-      "DRH"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:03:20.738644+00:00"
   },
   {
@@ -395,12 +291,7 @@
     "ingested_at": "2026-11-01T09:58:34.027608+00:00",
     "summary": "L'Assemblée nationale vient d'adopter une nouvelle loi pour légaliser l'usage de drones de surveillance par la police. Alors que le texte est quasiment identique à celui censuré par le Conseil constitutionnel en début d'année, les parlementaires n'ont pas hésité à le voter une nouvelle fois. C'est u",
     "thumbnail": "thumbnails/pug5u7.webp",
-    "tags": [
-      "Conseil",
-      "État",
-      "Paris",
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:03:21.096365+00:00"
   },
   {
@@ -421,11 +312,7 @@
     "summary": "Pour la militante écologiste, ancienne figure du mouvement Extinction rebellion, « sans les mensonges sur le nucléaire, cela fait longtemps qu’on serait sorti du gaz et du charbon »",
     "thumbnail": "thumbnails/pu9u5p.webp",
     "tags": [
-      "Zion Lights",
-      "Extinction",
-      "Environnement",
-      "Énergie nucléaire",
-      "Réchauffement climatique"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T10:03:21.972454+00:00"
   },
@@ -447,10 +334,8 @@
     "summary": "Début de campagne compliqué pour la maire de Paris : l’officialisation de sa candidature n’a pas créé de dynamique. Bien au contraire, révèle notre sondage exclusif avec Odoxa.",
     "thumbnail": "thumbnails/pu1km5.webp",
     "tags": [
-      "Anne Hidalgo",
-      "Paris",
-      "Odoxa",
-      "Elections"
+      "Élections",
+      "Anne Hidalgo"
     ],
     "analyzed_at": "2026-11-01T10:03:21.403787+00:00"
   },
@@ -471,11 +356,7 @@
     "ingested_at": "2026-11-01T09:58:34.027233+00:00",
     "summary": "En 2021, 51% d'entre eux affirment ne pas être croyants, contre 44% dix ans plus tôt.",
     "thumbnail": "thumbnails/ptqfkw.webp",
-    "tags": [
-      "Français",
-      "Dieu",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:03:21.898640+00:00"
   },
   {
@@ -495,13 +376,7 @@
     "ingested_at": "2026-11-01T09:58:34.027179+00:00",
     "summary": "Ces dernières années, les Etats-Unis ont souvent ravi au nez et la barbe de la France d’importants contrats de Défense, parfois même en pesant pour que le client choisissent un autre prestataire, du moment que celui-ci n’était pas français. Qu’il s’agisse des hélicoptères Caracal polonais, des F-35 belges ou",
     "thumbnail": "thumbnails/ptan8h.webp",
-    "tags": [
-      "Etats-Unis",
-      "F-35",
-      "Caracal",
-      "Paris",
-      "Rafale"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:03:24.582474+00:00"
   },
   {
@@ -522,9 +397,7 @@
     "summary": "Kevin Rudd, ex-Premier ministre australien, ne cache pas sa colère contre son successeur qu'il accuse d'avoir \"sapé\" les relations avec la France et l'UE en donnant une \"tournure politique à la sécurité nationale\".",
     "thumbnail": "thumbnails/pt4l2l.webp",
     "tags": [
-      "Kevin Rudd",
-      "France et UE",
-      "Scott Morrison"
+      "Union européenne"
     ],
     "analyzed_at": "2026-11-01T10:03:21.827412+00:00"
   },
@@ -546,11 +419,7 @@
     "summary": "Si le nombre d’emplois vacants a nettement augmenté ces derniers mois et que certaines entreprises de plaignent de difficultés de recrutement, le nombre de postes à pourvoir reste très largement inférieur au nombre de chômeurs.",
     "thumbnail": "thumbnails/pt41pa.webp",
     "tags": [
-      "Business",
-      "Finance",
-      "& Economics",
-      "Data-matin",
-      "Soft paywall"
+      "Travail"
     ],
     "analyzed_at": "2026-11-01T10:03:26.122186+00:00"
   },
@@ -572,36 +441,9 @@
     "summary": "Des jeunes de l’UNI, un syndicat étudiant de droite, militent pour empêcher la désinstallation de la statue de l’Empereur.",
     "thumbnail": "thumbnails/pt1rt7.webp",
     "tags": [
-      "Rouen",
-      "Napoléon",
-      "UNI",
-      "Empereur",
-      "Société"
+      "Éducation"
     ],
     "analyzed_at": "2026-11-01T10:03:24.248120+00:00"
-  },
-  {
-    "id": "psuxif",
-    "title": "La France annule à son tour un contrat avec l’Australie de 200.000 tonnes de boomerangs",
-    "url": "https://www.legorafi.fr/2021/09/21/la-france-annule-a-son-tour-un-contrat-avec-laustralie-de-200-000-tonnes-de-boomerangs/",
-    "permalink": "/r/france/comments/psuxif/la_france_annule_à_son_tour_un_contrat_avec/",
-    "created_at": "2021-09-21T23:30:39+00:00",
-    "score": 421,
-    "num_comments": 24,
-    "subreddit": "france",
-    "author": "OrdinaryMidnight5",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/VnkoXxz17Z_MzPtel9EZX0SyQjhHYJe6dfUaPJjfrTA.jpg?auto=webp&s=acd6954eca97a1c5c13a6534498dcd8733afb38f",
-    "ingested_at": "2026-11-01T09:58:34.026889+00:00",
-    "summary": "En représailles de l’affaire des sous-marins, le gouvernement a répliqué ce matin en annulant son achat annuel de 200 000 tonnes de boomerangs. Explications.",
-    "thumbnail": "thumbnails/psuxif.webp",
-    "tags": [
-      "Australie de 200",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T10:03:22.077968+00:00"
   },
   {
     "id": "psltk7",
@@ -620,38 +462,8 @@
     "ingested_at": "2026-11-01T09:58:34.027505+00:00",
     "summary": "Un jeune de 18 ans a été victime d'une violente chute en VTT dans le massif des Vosges. Dans une descente, le sportif a heurté une planche cloutée avant de finir sa course violemment dans un arbre. Sur les réseaux...",
     "thumbnail": "thumbnails/psltk7.webp",
-    "tags": [
-      "VTT",
-      "Vosges",
-      "Fait Divers"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:03:22.270798+00:00"
-  },
-  {
-    "id": "ps5zaz",
-    "title": "Just reminding this sub about Frédéric Pierucci , an Alstom Executive who was imprisoned in a high security prison facility for 14 months and denied release on bail until the week of Alstom's acquisition by the US conglomerate General Electric",
-    "url": "https://en.wikipedia.org/wiki/Fr%C3%A9d%C3%A9ric_Pierucci",
-    "permalink": "/r/france/comments/ps5zaz/just_reminding_this_sub_about_frédéric_pierucci/",
-    "created_at": "2021-09-20T23:01:22+00:00",
-    "score": 255,
-    "num_comments": 37,
-    "subreddit": "france",
-    "author": "npjprods",
-    "flair": "",
-    "domain": "en.wikipedia.org",
-    "selftext": "",
-    "reddit_thumbnail": "",
-    "ingested_at": "2026-11-01T09:58:34.027782+00:00",
-    "summary": "Frédéric Pierucci ( French pronunciation: [ fʁedeʁik pjəʁutʃi ] ; born 14 January 1968) is a French business manager and a former senior executive for Alstom , who was accused of willful blindness to corporate corruption by the United States Department of Justice [ 1 ] and was arrested and detained in the United…",
-    "thumbnail": "",
-    "tags": [
-      "Frédéric Pierucci",
-      "Alstom's",
-      "US",
-      "General Electric",
-      "Alstom Executive"
-    ],
-    "analyzed_at": "2026-11-01T10:03:22.689807+00:00"
   },
   {
     "id": "ps2jhk",
@@ -670,13 +482,7 @@
     "ingested_at": "2026-11-01T09:58:34.028142+00:00",
     "summary": "Trois anciens agents de la NSA ont reconnu avoir enfreint les lois américaines sur le partage et les interdictions de vendre des technologies militaires sensibles.",
     "thumbnail": "thumbnails/ps2jhk.webp",
-    "tags": [
-      "ExpressVPN",
-      "Émirats",
-      "Trois Américains",
-      "Edward Snowden",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:03:22.346827+00:00"
   },
   {
@@ -697,39 +503,10 @@
     "summary": "\"Il y a beaucoup de questions en suspens qui doivent obtenir des réponses\", a jugé Ursula von der Leyen dans un entretien avec la chaîne américaine CNN.",
     "thumbnail": "thumbnails/ps1niw.webp",
     "tags": [
-      "Commission",
-      "Ursula",
-      "Leyen",
-      "CNN",
-      "Australie"
+      "Union européenne",
+      "Ursula von der Leyen"
     ],
     "analyzed_at": "2026-11-01T10:03:22.804215+00:00"
-  },
-  {
-    "id": "prekq1",
-    "title": "Airbus contraint à produire en Alabama une bonne partie des A321 destinés au marché US aux dépens de Toulouse. Quand l'Europe forcera-t-elle Boeing à produire en France?",
-    "url": "https://streamable.com/oyrvq0",
-    "permalink": "/r/france/comments/prekq1/airbus_contraint_à_produire_en_alabama_une_bonne/",
-    "created_at": "2021-09-19T19:24:15+00:00",
-    "score": 273,
-    "num_comments": 80,
-    "subreddit": "france",
-    "author": "npjprods",
-    "flair": "",
-    "domain": "streamable.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/VtKU3qMqq-RxG8flk_DkqqEvNn26ww_Dn1OyIV_yanc.jpeg?auto=webp&s=d285de1085aba2a8d22bacde61b419a9217dcd82",
-    "ingested_at": "2026-11-01T09:58:34.027633+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/prekq1.webp",
-    "tags": [
-      "Alabama",
-      "A321",
-      "US",
-      "Toulouse",
-      "Europe"
-    ],
-    "analyzed_at": "2026-11-01T10:03:23.155954+00:00"
   },
   {
     "id": "pqwb5o",
@@ -749,11 +526,8 @@
     "summary": "ÉDITO - La question : faut-il exproprier les grandes sociétés immobilières, pour revendre à bas prix les logements aux habitants de la capitale ?",
     "thumbnail": "thumbnails/pqwb5o.webp",
     "tags": [
-      "Berlinois",
-      "Économie",
-      "Allemagne",
-      "Berlin",
-      "Logement"
+      "Logement",
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T10:03:23.164988+00:00"
   },
@@ -774,13 +548,7 @@
     "ingested_at": "2026-11-01T09:58:34.027383+00:00",
     "summary": "Le secrétaire d'Etat américain Antony Blinken et le ministre français des Affaires étrangères Jean-Yves Le Drian seront tous les deux présents à New York pour l'assemblée générale de l'ONU.",
     "thumbnail": "thumbnails/pqi89r.webp",
-    "tags": [
-      "ONU",
-      "Etats-Unis",
-      "New York",
-      "Etat",
-      "Antony Blinken"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:03:23.091463+00:00"
   },
   {
@@ -800,9 +568,7 @@
     "ingested_at": "2026-11-01T09:58:34.028602+00:00",
     "summary": "",
     "thumbnail": "thumbnails/pqb53d.webp",
-    "tags": [
-      "Abdelaziz Bouteflika"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:03:23.228805+00:00"
   },
   {
@@ -822,13 +588,7 @@
     "ingested_at": "2026-11-01T09:58:34.026511+00:00",
     "summary": "",
     "thumbnail": "thumbnails/pq7cc2.webp",
-    "tags": [
-      "Président de la République",
-      "Jean-Yves le Drian",
-      "Paris",
-      "États-Unis",
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:03:28.602630+00:00"
   },
   {
@@ -849,11 +609,7 @@
     "summary": "Dans une déclaration à l'AFP, le directeur du CHU de Pointe-à-Pitre assure que suspendre le personnel non vacciné pénaliserait le fonctionnement de l'hôpital.",
     "thumbnail": "thumbnails/ppz5w1.webp",
     "tags": [
-      "CHU de Guadeloupe",
-      "AFP",
-      "CHU de Pointe-à-Pitre",
-      "Guadeloupe",
-      "Covid"
+      "Outre-mer"
     ],
     "analyzed_at": "2026-11-01T10:03:23.549725+00:00"
   },
@@ -874,11 +630,7 @@
     "ingested_at": "2026-11-01T09:58:34.027258+00:00",
     "summary": "Une enquête de l'Observatoire européen de la sexualité féminine fait le point sur un sujet souvent tabou : la masturbation.",
     "thumbnail": "thumbnails/ppv7fp.webp",
-    "tags": [
-      "Françaises",
-      "Observatoire",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:03:23.571013+00:00"
   },
   {
@@ -899,11 +651,7 @@
     "summary": "Alexandre Hagenauer-Létang, agent des services hospitaliers au centre de dialyse de NephroCare à Muret, près de Toulouse, a été agressé pour un pass sanitaire. Témoignage.",
     "thumbnail": "thumbnails/ppjhg9.webp",
     "tags": [
-      "Toulouse",
-      "Alexandre Hagenauer-Létang",
-      "Muret",
-      "NephroCare",
-      "Fait Divers"
+      "Covid-19"
     ],
     "analyzed_at": "2026-11-01T10:03:23.663125+00:00"
   },
@@ -924,13 +672,7 @@
     "ingested_at": "2026-11-01T09:58:34.026725+00:00",
     "summary": "The degree of French anger recalled the acrimonious rift between Paris and Washington in 2003 over the Iraq war and involved language not seen since then.",
     "thumbnail": "thumbnails/ppj6k8.webp",
-    "tags": [
-      "Australia",
-      "French",
-      "Washington",
-      "United States",
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:03:27.905937+00:00"
   },
   {
@@ -951,11 +693,7 @@
     "summary": "FIGAROVOX/ENTRETIEN - Afin d'accroître la diversité parmi ses membres, l'English Touring Opera va se séparer de 14 de ses musiciens blancs. La violoniste de l'Orchestre philharmonique de Monte-Carlo juge cette décision scandaleuse. Et elle réfute les accusations de racisme à l'encontre du...",
     "thumbnail": "thumbnails/ppg2lj.webp",
     "tags": [
-      "Orchestre",
-      "Zhang Zhang",
-      "Discrimination positive",
-      "Musique classique",
-      "Opéra"
+      "Justice"
     ],
     "analyzed_at": "2026-11-01T10:03:24.661290+00:00"
   },
@@ -976,13 +714,7 @@
     "ingested_at": "2026-11-01T09:58:34.026814+00:00",
     "summary": "L'Australie a rompu un gigantesque contrat passé auprès de la France pour la livraison de sous-marins. \"Ça ne se fait pas entre alliés\", estime le ministre des Affaires étrangère, invité du \"8h30 franceinfo\".",
     "thumbnail": "thumbnails/pp8sp2.webp",
-    "tags": [
-      "Jean-Yves le Drian",
-      "Australie",
-      "Affaires",
-      "Etats-Unis",
-      "Industrie"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:03:23.934669+00:00"
   },
   {
@@ -1003,9 +735,7 @@
     "summary": "",
     "thumbnail": "thumbnails/pp2qqu.webp",
     "tags": [
-      "Emmanuel Macron",
-      "Etat",
-      "Grand Sahara"
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T10:03:24.222175+00:00"
   },
@@ -1026,37 +756,8 @@
     "ingested_at": "2026-11-01T09:58:34.027332+00:00",
     "summary": "",
     "thumbnail": "thumbnails/povyvu.webp",
-    "tags": [
-      "G20",
-      "Paris"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:03:25.016489+00:00"
-  },
-  {
-    "id": "porhhn",
-    "title": "L'Australie va se doter de sous-marins à propulsion nucléaire et abandonnera son programme de construction de sous-marins de conception française",
-    "url": "https://www.abc.net.au/news/2021-09-15/allied-naval-united-states-biden-australia-nuclear-submarines/100465628",
-    "permalink": "/r/france/comments/porhhn/laustralie_va_se_doter_de_sousmarins_à_propulsion/",
-    "created_at": "2021-09-15T14:42:42+00:00",
-    "score": 244,
-    "num_comments": 156,
-    "subreddit": "france",
-    "author": "BobbyLapointe01",
-    "flair": "",
-    "domain": "abc.net.au",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/qWxRORJz2QUn4B8YLv4FY0PwZc9tu0ad1NiFP53DWOs.jpeg?auto=webp&s=85b21cb896e7aef4349436c2a3d2dbf2f83f22cd",
-    "ingested_at": "2026-11-01T09:58:34.027927+00:00",
-    "summary": "The ABC understands Australia will use American and British technology to configure its next submarine fleet in a bid to replace its existing Collins class subs with a boat more suitable to the deteriorating strategic environment.",
-    "thumbnail": "thumbnails/porhhn.webp",
-    "tags": [
-      "South China Sea",
-      "ABC",
-      "Joe Biden",
-      "Scott Morrison",
-      "National Security"
-    ],
-    "analyzed_at": "2026-11-01T10:03:25.078556+00:00"
   },
   {
     "id": "polq4j",
@@ -1076,58 +777,9 @@
     "summary": "",
     "thumbnail": "thumbnails/polq4j.webp",
     "tags": [
-      "Soft paywall"
+      "Santé"
     ],
     "analyzed_at": "2026-11-01T10:03:26.814967+00:00"
-  },
-  {
-    "id": "po8osl",
-    "title": "Éric Zemmour : “Il y a plus d’étrangers en France qu’à l’étranger”",
-    "url": "https://www.legorafi.fr/2021/09/06/eric-zemmour-il-y-a-plus-detrangers-en-france-qua-letranger/",
-    "permalink": "/r/france/comments/po8osl/éric_zemmour_il_y_a_plus_détrangers_en_france_quà/",
-    "created_at": "2021-09-14T18:35:07+00:00",
-    "score": 257,
-    "num_comments": 65,
-    "subreddit": "france",
-    "author": "sylsau",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/Y1pl3q5a6yK0NQ-E2i7gKB9q5lLSGEOqdi9AvmFFFD0.jpg?auto=webp&s=2b41330af580cb19cfffd80f1fa8bc0e27abe1d9",
-    "ingested_at": "2026-11-01T09:58:34.027757+00:00",
-    "summary": "Quelques jours seulement après avoir fait sa rentrée, Éric Zemmour a fait polémique dans Face à L’Info en déclarant que “de toute façon qu’il y a plus d’étrangers en France qu’à l’étranger”.",
-    "thumbnail": "thumbnails/po8osl.webp",
-    "tags": [
-      "Éric Zemmour",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T10:03:24.869993+00:00"
-  },
-  {
-    "id": "pnz5du",
-    "title": "Coal replaces wind as most important energy source in Germany on H1",
-    "url": "https://renewablesnow.com/news/coal-replaces-wind-as-most-important-energy-source-in-germany-in-h1-753756/",
-    "permalink": "/r/france/comments/pnz5du/coal_replaces_wind_as_most_important_energy/",
-    "created_at": "2021-09-14T09:05:41+00:00",
-    "score": 252,
-    "num_comments": 91,
-    "subreddit": "france",
-    "author": "Sovhan",
-    "flair": "Écologie",
-    "domain": "renewablesnow.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/LrKQ3XhPGTar0slV4MLdF44fKP-3eXpA0hXrlp8Ameo.png?auto=webp&s=eb48161645ea202cb258f5f3e931433944a5909c",
-    "ingested_at": "2026-11-01T09:58:34.027807+00:00",
-    "summary": "Coal was the most important source of energy in Germany in the first six months of 2021, accounting for 27.1% of the total electricity fed into the grid, as still days in the spring led to a significant decline in wind power generation, the Federal Statistics Office said on Monday.",
-    "thumbnail": "thumbnails/pnz5du.webp",
-    "tags": [
-      "Germany",
-      "H1",
-      "Federal Statistics Office",
-      "Monday",
-      "Écologie"
-    ],
-    "analyzed_at": "2026-11-01T10:03:25.440785+00:00"
   },
   {
     "id": "pnxfn8",
@@ -1148,7 +800,7 @@
     "thumbnail": "thumbnails/pnxfn8.webp",
     "tags": [
       "Emmanuel Macron",
-      "Soft paywall"
+      "Police"
     ],
     "analyzed_at": "2026-11-01T10:03:27.724549+00:00"
   },
@@ -1170,11 +822,8 @@
     "summary": "Le ministre de l'Intérieur justifie dans un tweet cette décision en raison des incidents survenus la semaine dernière dans la commune de Val de Reuil.",
     "thumbnail": "thumbnails/pndeg3.webp",
     "tags": [
-      "Ligue",
       "Gérald Darmanin",
-      "Val de Reuil",
-      "Intérieur",
-      "Politique"
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T10:03:25.378013+00:00"
   },
@@ -1195,9 +844,7 @@
     "ingested_at": "2026-11-01T09:58:34.026620+00:00",
     "summary": "",
     "thumbnail": "thumbnails/pnann2.webp",
-    "tags": [
-      "TVA"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:03:25.573296+00:00"
   },
   {
@@ -1218,8 +865,7 @@
     "summary": "",
     "thumbnail": "thumbnails/pmwlxl.webp",
     "tags": [
-      "Grèce",
-      "Rafale"
+      "Défense"
     ],
     "analyzed_at": "2026-11-01T10:03:30.023856+00:00"
   },
@@ -1241,7 +887,7 @@
     "summary": "Une étude affirme que de vastes quantités de pétrole, de gaz naturel et de charbon devront demeurer inexploitées pour que le monde puisse avoir 50 % de chances ...",
     "thumbnail": "thumbnails/pmpegp.webp",
     "tags": [
-      "Canada"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T10:03:26.138619+00:00"
   },
@@ -1263,11 +909,10 @@
     "summary": "Le ministre français de l'Économie, Bruno Le Maire, a demandé vendredi à ses homologues de l'UE de reconnaître l'apport de l'énergie nucléaire dans...",
     "thumbnail": "thumbnails/pmcmp2.webp",
     "tags": [
-      "UE",
-      "Bruno le Maire",
-      "Centrale nucléaire",
+      "Environnement",
       "Union européenne",
-      "Écologie"
+      "Énergie",
+      "Bruno Le Maire"
     ],
     "analyzed_at": "2026-11-01T10:03:26.484488+00:00"
   },
@@ -1289,8 +934,7 @@
     "summary": "Un professeur d’espagnol est accusé d’avoir diffusé une vidéo «antivax» à ses élèves, à Toulouse. Il a été suspendu.",
     "thumbnail": "thumbnails/pm2hmo.webp",
     "tags": [
-      "Toulouse",
-      "Société"
+      "Éducation"
     ],
     "analyzed_at": "2026-11-01T10:03:31.804319+00:00"
   },
@@ -1311,12 +955,7 @@
     "ingested_at": "2026-11-01T09:58:34.026698+00:00",
     "summary": "Après la mort d’un premier de ses patients malade du cancer, le naturopathe Miguel B. qui a pignon sur rue entre Cachan (Val-de-Marne) et Pa",
     "thumbnail": "thumbnails/pm2enb.webp",
-    "tags": [
-      "Miguel B",
-      "Cachan",
-      "Pa",
-      "Paris"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:03:26.704804+00:00"
   },
   {
@@ -1336,12 +975,7 @@
     "ingested_at": "2026-11-01T09:58:34.028118+00:00",
     "summary": "Le gouvernement ouvrira dans quelques semaines le code de FranceConnect, le dispositif qui permet de se connecter à des centaines de services publics grâce à des codes uniques. FranceConnect, le service qui permet de se connecter avec un identifiant et mot de passe uniques à des centaines de services publics, sera",
     "thumbnail": "thumbnails/plsjch.webp",
-    "tags": [
-      "FranceConnect",
-      "Twitter",
-      "Humanoid",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:03:27.186548+00:00"
   },
   {
@@ -1362,10 +996,8 @@
     "summary": "Des soignants venus prêter main-forte au CHU de Martinique ont reçu une volée d’insultes à leur arrivée à l’aéroport du Lamentin, dans la soirée du jeudi 9 septembre. Ils sont pourtant plus de 1 000 à s'être rendus, au cours des deux derniers mois, dans cette région d'Outre-mer, pour aider la population.",
     "thumbnail": "thumbnails/pljztt.webp",
     "tags": [
-      "Martinique",
-      "Lamentin",
-      "CHU de Martinique",
       "Outre-mer",
+      "Santé",
       "Covid-19"
     ],
     "analyzed_at": "2026-11-01T10:03:27.664784+00:00"
@@ -1410,8 +1042,7 @@
     "summary": "",
     "thumbnail": "thumbnails/pks575.webp",
     "tags": [
-      "Olivier Véran",
-      "Société"
+      "Olivier Véran"
     ],
     "analyzed_at": "2026-11-01T10:03:27.718392+00:00"
   },
@@ -1432,34 +1063,10 @@
     "ingested_at": "2026-11-01T09:58:34.027708+00:00",
     "summary": "",
     "thumbnail": "thumbnails/pkrjbf.webp",
-    "tags": [],
-    "analyzed_at": "2026-11-01T10:03:31.291274+00:00"
-  },
-  {
-    "id": "pkafq6",
-    "title": "Facebook says it doesn't read WhatsApp messages, but an investigation found it actually does",
-    "url": "https://www.businessinsider.com/facebook-reads-whatsapp-messages-encryption-2021-9",
-    "permalink": "/r/france/comments/pkafq6/facebook_says_it_doesnt_read_whatsapp_messages/",
-    "created_at": "2021-09-08T13:23:46+00:00",
-    "score": 260,
-    "num_comments": 62,
-    "subreddit": "france",
-    "author": "[deleted]",
-    "flair": "Science",
-    "domain": "businessinsider.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/iZ-OsWpXhXQSczIeHwcoJGIk7ZhksrX8K9gV3kWHOzU.jpeg?auto=webp&s=5870fbdaf4995e203296c64026047179c41dfc2d",
-    "ingested_at": "2026-11-01T09:58:34.027732+00:00",
-    "summary": "Facebook is reportedly paying teams of contractors around the world to read through WhatsApp messages and moderate the content in them.",
-    "thumbnail": "thumbnails/pkafq6.webp",
     "tags": [
-      "WhatsApp",
-      "Tech",
-      "Facebook",
-      "Mark Zuckerberg",
-      "Science"
+      "Élections"
     ],
-    "analyzed_at": "2026-11-01T10:03:27.964529+00:00"
+    "analyzed_at": "2026-11-01T10:03:31.291274+00:00"
   },
   {
     "id": "pk6mea",
@@ -1479,11 +1086,7 @@
     "summary": "La Commission européenne lancera sa première obligation verte en octobre.",
     "thumbnail": "thumbnails/pk6mea.webp",
     "tags": [
-      "UE",
-      "Obligations Vertes",
-      "Transition verte",
-      "Commission",
-      "Économie"
+      "Union européenne"
     ],
     "analyzed_at": "2026-11-01T10:03:28.969104+00:00"
   },
@@ -1505,11 +1108,7 @@
     "summary": "Ils ont été jetés, certains brûlés, par un conseil scolaire de l’Ontario. Consternation chez les auteurs.",
     "thumbnail": "thumbnails/pjknqj.webp",
     "tags": [
-      "Tintin et Astérix",
-      "Ontario",
-      "Canada",
-      "Providence",
-      "Suzy Kies"
+      "Éducation"
     ],
     "analyzed_at": "2026-11-01T10:03:29.964127+00:00"
   },
@@ -1531,11 +1130,7 @@
     "summary": "Invité sur France 2, l'élu a assuré que cette famille «pourrissait la vie des locataires d'un immeuble».",
     "thumbnail": "thumbnails/pjj9mh.webp",
     "tags": [
-      "Christian Estrosi",
-      "Nice",
-      "HLM",
-      "Expulsions",
-      "France 2"
+      "Logement"
     ],
     "analyzed_at": "2026-11-01T10:03:29.041197+00:00"
   },
@@ -1556,11 +1151,7 @@
     "ingested_at": "2026-11-01T09:58:34.027099+00:00",
     "summary": "",
     "thumbnail": "thumbnails/pixuo0.webp",
-    "tags": [
-      "After Afghanistan",
-      "America",
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:03:29.306691+00:00"
   },
   {
@@ -1581,32 +1172,9 @@
     "summary": "Cet enseignant de lettres modernes a déposé deux plaintes, l’une pour vols et harcèlement, l’autre pour menace de mort commise en raison de",
     "thumbnail": "thumbnails/piv0b0.webp",
     "tags": [
-      "Essonne",
-      "Soft paywall"
+      "LGBT+"
     ],
     "analyzed_at": "2026-11-01T10:03:29.018464+00:00"
-  },
-  {
-    "id": "pih1z6",
-    "title": "Bonjour, connaissez-vous notre seigneur et maitre, le meilleur antipub, uBlock Origin?",
-    "url": "https://addons.mozilla.org/blog/ublock-origin-everything-you-need-to-know-about-the-ad-blocker/",
-    "permalink": "/r/france/comments/pih1z6/bonjour_connaissezvous_notre_seigneur_et_maitre/",
-    "created_at": "2021-09-05T17:13:57+00:00",
-    "score": 797,
-    "num_comments": 272,
-    "subreddit": "france",
-    "author": "RCEdude",
-    "flair": "Forum Libre",
-    "domain": "addons.mozilla.org",
-    "selftext": "",
-    "reddit_thumbnail": "https://b.thumbs.redditmedia.com/CbnDhnNGMAI0P9wPgQq5qBdLbM7GjSeAkHfbWAoDjQY.jpg",
-    "ingested_at": "2026-11-01T09:58:34.026567+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/pih1z6.webp",
-    "tags": [
-      "Origin"
-    ],
-    "analyzed_at": "2026-11-01T10:03:29.287924+00:00"
   },
   {
     "id": "piabhm",
@@ -1625,9 +1193,7 @@
     "ingested_at": "2026-11-01T09:58:34.026593+00:00",
     "summary": "",
     "thumbnail": "thumbnails/piabhm.webp",
-    "tags": [
-      "Creil"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:03:29.653941+00:00"
   },
   {
@@ -1647,9 +1213,7 @@
     "ingested_at": "2026-11-01T09:58:34.028323+00:00",
     "summary": "ENQUÊTE // Depuis une petite décennie, les enseignants français démissionnent de plus en plus, et de plus en plus jeunes. L'augmentation est lente, mais constante. Comment expliquer ces départs hâtifs, parfois avant même leur titularisation ?",
     "thumbnail": "thumbnails/phqviq.webp",
-    "tags": [
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:03:34.317231+00:00"
   },
   {
@@ -1670,11 +1234,9 @@
     "summary": "Le bailleur social Côte d’Azur Habitat a obtenu de la justice de pouvoir lancer une procédure d’expulsion d’une locataire à L’Ariane, à Nice. Son fils a pris 20 mois de prison pour trafic de stups.",
     "thumbnail": "thumbnails/phnckq.webp",
     "tags": [
-      "Nice",
-      "HLM",
-      "Côte Azur Habitat",
-      "Alpes-Maritimes",
-      "Ariane"
+      "Logement",
+      "Justice",
+      "Narcotrafic"
     ],
     "analyzed_at": "2026-11-01T10:03:29.940918+00:00"
   },
@@ -1696,7 +1258,7 @@
     "summary": "",
     "thumbnail": "thumbnails/ph1t8h.webp",
     "tags": [
-      "Annabelle Allouch"
+      "Pauvreté"
     ],
     "analyzed_at": "2026-11-01T10:03:29.678700+00:00"
   },
@@ -1718,10 +1280,7 @@
     "summary": "L'avocat de l'ancien Premier ministre dénonce un \"acharnement\".",
     "thumbnail": "thumbnails/ph1cwd.webp",
     "tags": [
-      "François Fillon",
-      "Premier",
-      "Affaires Fillon",
-      "Politique"
+      "François Fillon"
     ],
     "analyzed_at": "2026-11-01T10:03:29.933109+00:00"
   },
@@ -1743,9 +1302,7 @@
     "summary": "Selon un sondage réalisé par YouGov, 72% des Français estiment que l’anglais scolaire ne leur a pas été utile à l’âge adulte.",
     "thumbnail": "thumbnails/pgh0re.webp",
     "tags": [
-      "Langue française",
-      "YouGov",
-      "Société"
+      "Éducation"
     ],
     "analyzed_at": "2026-11-01T10:03:30.459507+00:00"
   },
@@ -1767,11 +1324,7 @@
     "summary": "Ce jeudi matin, c&#39;&eacute;tait le grand jour pour 638 300 &eacute;l&egrave;ves de l&#39;acad&eacute;mie de Lyon ont fait leur rentr&eacute;e.",
     "thumbnail": "thumbnails/pgdi2e.webp",
     "tags": [
-      "Grégory Doucet",
-      "Lyon",
-      "Lyonmag",
-      "Informations",
-      "Société"
+      "Éducation"
     ],
     "analyzed_at": "2026-11-01T10:03:30.470432+00:00"
   },
@@ -1792,36 +1345,7 @@
     "ingested_at": "2026-11-01T09:58:34.026780+00:00",
     "summary": "Le trublion n'a pas réussi à mobiliser ses fans pour son passage en Dordogne. La faute au passe sanitaire ou à sa récente radicalisation politique ?",
     "thumbnail": "thumbnails/pfsx57.webp",
-    "tags": [
-      "Jean-Marie Bigard",
-      "Annulation",
-      "Dordogne",
-      "Trélissac",
-      "Fait Divers"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:03:30.878232+00:00"
-  },
-  {
-    "id": "pfr8tk",
-    "title": "Anne Hidalgo demande aux cyclistes de ne pas dépasser les automobilistes pour éviter de les humilier",
-    "url": "https://www.legorafi.fr/2021/08/31/anne-hidalgo-demande-aux-cyclistes-de-ne-pas-depasser-les-automobilistes-pour-eviter-de-les-humilier/",
-    "permalink": "/r/france/comments/pfr8tk/anne_hidalgo_demande_aux_cyclistes_de_ne_pas/",
-    "created_at": "2021-09-01T10:39:21+00:00",
-    "score": 315,
-    "num_comments": 161,
-    "subreddit": "france",
-    "author": "__Oo-oO__",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/nvFGwVNS9hLQGIxs-6crTqqKwlAm7qIOU_RX8pBqzHE.jpeg?auto=webp&s=2b09d6e4940aaf66d2c7d536662f283dd54baa29",
-    "ingested_at": "2026-11-01T09:58:34.027307+00:00",
-    "summary": "Face à la grogne des automobilistes contraints de rouler au pas dans la capitale, Anne Hidalgo a encouragé les deux-roues à rouler plus lentement pour ne pas les humilier et éviter qu’ils ne perdent confiance en eux.",
-    "thumbnail": "thumbnails/pfr8tk.webp",
-    "tags": [
-      "Anne Hidalgo",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T10:03:30.188264+00:00"
   }
 ]

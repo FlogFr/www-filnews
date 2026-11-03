@@ -1,27 +1,5 @@
 [
   {
-    "id": "6eegid",
-    "title": "Trump is pulling U.S. out of Paris climate deal",
-    "url": "https://www.axios.com/scoop-trump-is-pulling-u-s-out-of-paris-climate-deal-2427773025.html?utm_source=twitter&utm_medium=social&utm_campaign=organic",
-    "permalink": "/r/france/comments/6eegid/trump_is_pulling_us_out_of_paris_climate_deal/",
-    "created_at": "2017-05-31T11:55:19+00:00",
-    "score": 169,
-    "num_comments": 128,
-    "subreddit": "france",
-    "author": "jeyreymii",
-    "flair": "Actus",
-    "domain": "axios.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/DECghMC8I1d7sBOCtdxr02sjco00kwyR7cUKM0sUErI.jpg?auto=webp&s=08ea07dffe76c45bbc7a2c84ce497c2735ae70a6",
-    "ingested_at": "2026-10-31T14:55:45.740906+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/6eegid.webp",
-    "tags": [
-      "Paris"
-    ],
-    "analyzed_at": "2026-11-01T09:48:07.969863+00:00"
-  },
-  {
     "id": "6edj13",
     "title": "Les pauvres sont... de plus en plus pauvres, alerte l'Observatoire des inégalités",
     "url": "http://www.latribune.fr/economie/france/les-pauvres-sont-de-plus-en-plus-pauvres-selon-l-observatoire-des-inegalites-726446.html",
@@ -39,32 +17,9 @@
     "summary": "L'Observatoire des inégalités a publié son second rapport. Il dresse un état des lieux complet sur les inégalités en France en matière de revenus, de patrimoine, d'éducation, etc. Il met en exergue un phénomène inquiétant: depuis quelques années, la pauvreté ne régresse plus.",
     "thumbnail": "thumbnails/6edj13.webp",
     "tags": [
-      "Observatoire",
-      "Société"
+      "Pauvreté"
     ],
     "analyzed_at": "2026-11-01T09:48:05.743953+00:00"
-  },
-  {
-    "id": "6e72gm",
-    "title": "Amplification dangereuse du réchauffement climatique en cours ? Un début d’année 2017 exceptionnel et inquiétant…",
-    "url": "https://docuclimat.com/2017/02/21/amplification-dangereuse-du-rechauffement-climatique-en-cours-un-debut-dannee-2017-exceptionnel-et-inquietant/",
-    "permalink": "/r/france/comments/6e72gm/amplification_dangereuse_du_réchauffement/",
-    "created_at": "2017-05-30T12:35:03+00:00",
-    "score": 128,
-    "num_comments": 276,
-    "subreddit": "france",
-    "author": "canteloupy",
-    "flair": "Science",
-    "domain": "docuclimat.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/XdTGIKuCMNlr7iklMYFA2j5TP9HMyViNhNxeYAZmdj4.jpg?auto=webp&s=18797f82b25dde185c0dddd31963beeb82c9090b",
-    "ingested_at": "2026-10-31T14:55:45.741278+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/6e72gm.webp",
-    "tags": [
-      "Science"
-    ],
-    "analyzed_at": "2026-11-01T09:48:05.590044+00:00"
   },
   {
     "id": "6e6dhz",
@@ -84,34 +39,9 @@
     "summary": "« Dans une France sous état d’urgence, le droit de manifester pacifiquement semble être de plus en plus perçu par les autorités comme une menace », indique un rapport d'Amnesty international. Depuis …",
     "thumbnail": "thumbnails/6e6dhz.webp",
     "tags": [
-      "Amnesty"
+      "Libertés publiques"
     ],
     "analyzed_at": "2026-11-01T09:48:06.083598+00:00"
-  },
-  {
-    "id": "6dznkl",
-    "title": "Cauchemar à Paris : Nelson Monfort vous présente les mascottes de Roland Garros",
-    "url": "http://pbs.twimg.com/media/DA58hh4W0AEa6L0.jpg",
-    "permalink": "/r/france/comments/6dznkl/cauchemar_à_paris_nelson_monfort_vous_présente/",
-    "created_at": "2017-05-29T11:01:11+00:00",
-    "score": 134,
-    "num_comments": 45,
-    "subreddit": "france",
-    "author": "AcidGleam",
-    "flair": "Sport",
-    "domain": "pbs.twimg.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/TGAci_Y_NoaPOtgzURWozPUr3HE0eHPHW8xODKE_Nf8.jpg?auto=webp&s=710645414f93739c9df49f48a1e51eae6dd7121d",
-    "ingested_at": "2026-10-31T14:55:45.741256+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/6dznkl.webp",
-    "tags": [
-      "Paris",
-      "Nelson Monfort",
-      "Roland Garros",
-      "Sport"
-    ],
-    "analyzed_at": "2026-11-01T09:48:05.928973+00:00"
   },
   {
     "id": "6dzgi9",
@@ -131,7 +61,7 @@
     "summary": "",
     "thumbnail": "thumbnails/6dzgi9.webp",
     "tags": [
-      "Europe"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T09:48:06.111270+00:00"
   },
@@ -152,40 +82,8 @@
     "ingested_at": "2026-10-31T14:55:45.741148+00:00",
     "summary": "",
     "thumbnail": "thumbnails/6dte22.webp",
-    "tags": [
-      "Marseille",
-      "FN",
-      "Sarah Soilihi",
-      "Droit",
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:48:14.006868+00:00"
-  },
-  {
-    "id": "6dsi8u",
-    "title": "The Malta Files: a European version of the Panama Papers, revealing a global web of corruption",
-    "url": "https://boingboing.net/2017/05/27/maltese-fuckin.html",
-    "permalink": "/r/france/comments/6dsi8u/the_malta_files_a_european_version_of_the_panama/",
-    "created_at": "2017-05-28T06:50:35+00:00",
-    "score": 106,
-    "num_comments": 16,
-    "subreddit": "france",
-    "author": "[deleted]",
-    "flair": "Société",
-    "domain": "boingboing.net",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/b3H28G_ggMX0XeOkKS2zxXoZ09NkHN_Bk-Sdm4VSHtI.jpg?auto=webp&s=20b379286d88e759f52050c322625ff0bd24ad3d",
-    "ingested_at": "2026-10-31T14:55:45.741407+00:00",
-    "summary": "The Malta Files: a European version of the Panama Papers, revealing a global web of corruption",
-    "thumbnail": "thumbnails/6dsi8u.webp",
-    "tags": [
-      "Malta Files",
-      "European",
-      "Panama Papers",
-      "French",
-      "Société"
-    ],
-    "analyzed_at": "2026-11-01T09:48:08.967060+00:00"
   },
   {
     "id": "6dnm2k",
@@ -204,13 +102,7 @@
     "ingested_at": "2026-10-31T14:55:45.741235+00:00",
     "summary": "Les hypermarchés devraient 418 milliards d'euros à l'Etat, et ce pour la seule région PACA ! C'est la conclusion d'une lanceuse d'alerte dont \"Envoyé spécial\" vous raconte le 25 mai 2017 l'histoire et le combat. Depuis plus de vingt ans, Martine Donnette est en guerre contre les grandes surfaces. Extrait.",
     "thumbnail": "thumbnails/6dnm2k.webp",
-    "tags": [
-      "PACA",
-      "Etat 418",
-      "Martine Donnette",
-      "Etat",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:48:07.290577+00:00"
   },
   {
@@ -230,13 +122,7 @@
     "ingested_at": "2026-10-31T14:55:45.741471+00:00",
     "summary": "Le programme de recherche AFCC s’est fondé sur la littérature la plus récente dans les domaines de l’alimentation, de la cuisine et du marketing afin d’étudier une cohorte de collégiens pendant trois ans.",
     "thumbnail": "thumbnails/6dn796.webp",
-    "tags": [
-      "Fête de la Science 2017",
-      "Alimentation",
-      "AFCC",
-      "Fête de la science",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:48:07.035779+00:00"
   },
   {
@@ -257,84 +143,9 @@
     "summary": "Le CSA vient de rendre une délibération dans laquelle il attribue 12 minutes de temps d'antenne chacun à En Marche, au FN et à la France Insoumise pour les élections législatives, contre 120 minutes pour le PS et 103 pour les LR.",
     "thumbnail": "thumbnails/6djiiu.webp",
     "tags": [
-      "CSA",
-      "FN",
-      "PS",
-      "France Insoumise",
-      "Politique"
+      "Jean-Luc Mélenchon"
     ],
     "analyzed_at": "2026-11-01T09:48:07.775996+00:00"
-  },
-  {
-    "id": "6dfnji",
-    "title": "Présidentielle 2022 : Benoît Hamon commence son entraînement dans un temple secret du Népal",
-    "url": "http://www.legorafi.fr/2017/05/26/presidentielle-2022-benoit-hamon-commence-son-entrainement-dans-un-temple-secret-du-nepal/",
-    "permalink": "/r/france/comments/6dfnji/présidentielle_2022_benoît_hamon_commence_son/",
-    "created_at": "2017-05-26T08:13:24+00:00",
-    "score": 104,
-    "num_comments": 15,
-    "subreddit": "france",
-    "author": "Gustacho",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/AfHfHkEfYQUAT_k5Gef6O81p8Vx8xtTABCJjRfmAcj8.jpeg?auto=webp&s=8e43871e99989c0197ec24dac03d38080143d93f",
-    "ingested_at": "2026-10-31T14:55:45.741429+00:00",
-    "summary": "Népal – Arrivé discrètement il y a quelques jours, Benoît Hamon a rapidement commencé son entraînement auprès des moines de ce temple secret caché au cœur des Himalayas. Reportage.",
-    "thumbnail": "thumbnails/6dfnji.webp",
-    "tags": [
-      "Benoît Hamon",
-      "Népal",
-      "Himalayas",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:48:07.364373+00:00"
-  },
-  {
-    "id": "6db0wn",
-    "title": "Nombre de dolmens par département français.",
-    "url": "https://pbs.twimg.com/media/DAmn6rLWsAA7JZn.jpg",
-    "permalink": "/r/france/comments/6db0wn/nombre_de_dolmens_par_département_français/",
-    "created_at": "2017-05-25T17:15:08+00:00",
-    "score": 126,
-    "num_comments": 57,
-    "subreddit": "france",
-    "author": "EetD",
-    "flair": "Culture",
-    "domain": "pbs.twimg.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/Q26Uf3PbyMSAt_R-hYwOSHlyNwqLgcBR98iksZ_JRqo.jpeg?auto=webp&s=8ea941ff8bd85c009a9b67dac10cd2fd3fc1f6e5",
-    "ingested_at": "2026-10-31T14:55:45.741299+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/6db0wn.webp",
-    "tags": [
-      "Culture"
-    ],
-    "analyzed_at": "2026-11-01T09:48:09.187719+00:00"
-  },
-  {
-    "id": "6d9b8d",
-    "title": "La ségrégation raciale arrive à Paris cet été !",
-    "url": "https://nyansapofest.org/programme/",
-    "permalink": "/r/france/comments/6d9b8d/la_ségrégation_raciale_arrive_à_paris_cet_été/",
-    "created_at": "2017-05-25T12:33:00+00:00",
-    "score": 151,
-    "num_comments": 455,
-    "subreddit": "france",
-    "author": "yoplaitil1",
-    "flair": "Société",
-    "domain": "nyansapofest.org",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/rJCvjwyaXwjeoEpLBP704vnjY2q6YvLyad4-p1wMTMU.jpg?auto=webp&s=5aefddf45d56224bdb77273a5f80ce6a5c7e92e5",
-    "ingested_at": "2026-10-31T14:55:45.741104+00:00",
-    "summary": "NYANSAPO 2017 : Merci Pour cette première édition nous avons choisi de mettre l’accent sur l’organisation de nos résistances en tant que mouvements afroféministes. Du 28 au 30 juillet 2017, le coll…",
-    "thumbnail": "thumbnails/6d9b8d.webp",
-    "tags": [
-      "Paris",
-      "Merci",
-      "Société"
-    ],
-    "analyzed_at": "2026-11-01T09:48:07.565353+00:00"
   },
   {
     "id": "6d1nwm",
@@ -354,65 +165,9 @@
     "summary": "Selon un bénévole de l'association d'aide aux homosexuels, Le Refuge, le jeune homme victime d'un canular jugé homophobe de Cyril Hanouna a été contraint de quitter son domicile familial.",
     "thumbnail": "thumbnails/6d1nwm.webp",
     "tags": [
-      "Cyril Hanouna",
-      "Refuge",
-      "BD",
-      "Télévision",
-      "Culture"
+      "LGBT+"
     ],
     "analyzed_at": "2026-11-01T09:48:08.620702+00:00"
-  },
-  {
-    "id": "6d0yct",
-    "title": "Iran president waiting for White House 'to become stable intellectually'",
-    "url": "http://www.sltrib.com/home/5319357-155/irans-president-criticizes-us-after-trumps",
-    "permalink": "/r/france/comments/6d0yct/iran_president_waiting_for_white_house_to_become/",
-    "created_at": "2017-05-24T08:57:00+00:00",
-    "score": 189,
-    "num_comments": 62,
-    "subreddit": "france",
-    "author": "RatonBroyeur",
-    "flair": "Politique",
-    "domain": "sltrib.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/A70TKj6JxLcEJQwNP3zRVlXrhM_QUdvbwc4RxjEJnnU.jpg?auto=webp&s=ff4f2e5b9a2a8ca85a5c5ada76ccba8467856123",
-    "ingested_at": "2026-10-31T14:55:45.740687+00:00",
-    "summary": "Tehran, Iran • Iran's newly re-elected President Hassan Rouhani took barbed swipes M",
-    "thumbnail": "thumbnails/6d0yct.webp",
-    "tags": [
-      "Iran",
-      "White House",
-      "Trump",
-      "Americans",
-      "Politique"
-    ],
-    "analyzed_at": "2026-11-01T09:48:09.797079+00:00"
-  },
-  {
-    "id": "6cxcgx",
-    "title": "L’histoire oubliée des «radium girls», dont la mort a sauvé la vie à des milliers d’ouvrières",
-    "url": "https://www.buzzfeed.com/authorkatemoore/lhistoire-oubliee-des-radium-girls-dont-la-mort-a-sauve-la",
-    "permalink": "/r/france/comments/6cxcgx/lhistoire_oubliée_des_radium_girls_dont_la_mort_a/",
-    "created_at": "2017-05-23T20:33:54+00:00",
-    "score": 117,
-    "num_comments": 33,
-    "subreddit": "france",
-    "author": "BobArdKor",
-    "flair": "",
-    "domain": "buzzfeed.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/jBV9WOQdm3lwB3N4oaslA09jFRfg959UQ_4OIAN3PIY.jpeg?auto=webp&s=b7576311dca7490959b8de7fe7da9f230e845d18",
-    "ingested_at": "2026-10-31T14:55:45.741387+00:00",
-    "summary": "Pendant la Première Guerre mondiale, des centaines de jeunes femmes ont été employées dans des usines horlogères pour peindre au radium des cadrans phosphorescents. Ces ouvrières qui brillaient littéralement dans le noir allaient souffrir de très graves effets secondaires.",
-    "thumbnail": "thumbnails/6cxcgx.webp",
-    "tags": [
-      "Première Guerre",
-      "Droit des travailleurs",
-      "Feminisme",
-      "Longform",
-      "Medecine"
-    ],
-    "analyzed_at": "2026-11-01T09:48:08.521867+00:00"
   },
   {
     "id": "6cur1a",
@@ -432,62 +187,12 @@
     "summary": "Pendant la campagne pour la présidentielle, Manuel Valls avait refusé de soutenir Benoît Hamon et avait préféré appeler à voter pour Emmanuel Macron.",
     "thumbnail": "thumbnails/6cur1a.webp",
     "tags": [
-      "Benoît Hamon",
       "Manuel Valls",
-      "Essonne",
-      "PCF Michel Nouaille",
-      "Politique"
+      "Benoît Hamon",
+      "Élections",
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T09:48:09.541545+00:00"
-  },
-  {
-    "id": "6cp8hr",
-    "title": "Hollande rencontrant Trump, incognito.",
-    "url": "https://media.giphy.com/media/81YX7O9ZX0k5G/giphy.gif",
-    "permalink": "/r/france/comments/6cp8hr/hollande_rencontrant_trump_incognito/",
-    "created_at": "2017-05-22T18:55:01+00:00",
-    "score": 3275,
-    "num_comments": 199,
-    "subreddit": "france",
-    "author": "1-Sisyphe",
-    "flair": "Humour",
-    "domain": "media.giphy.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/N8f2WFVLsGad9McRFZp54g4tGu6bBbIkOdZwRDRBt9U.gif?format=png8&s=57623723492ab3ba06aee7b303c969344a503c0a",
-    "ingested_at": "2026-10-31T14:55:45.739705+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/6cp8hr.webp",
-    "tags": [
-      "Trump",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:48:09.649972+00:00"
-  },
-  {
-    "id": "6coqz2",
-    "title": "Bosch, Chanel et Disneyland ne feront plus de pub chez Hanouna après la séquence homophobe de TPMP",
-    "url": "https://www.buzzfeed.com/mariekirschen/bosch-et-chanel-ne-feront-plus-de-pub-chez-hanouna-apres-la",
-    "permalink": "/r/france/comments/6coqz2/bosch_chanel_et_disneyland_ne_feront_plus_de_pub/",
-    "created_at": "2017-05-22T17:38:18+00:00",
-    "score": 206,
-    "num_comments": 92,
-    "subreddit": "france",
-    "author": "[deleted]",
-    "flair": "Société",
-    "domain": "buzzfeed.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/HIRxEyLFv2zK0obPXYQuYM95tbkd-ifXKWaQH5HQI0Y.jpeg?auto=webp&s=d4aa56e6b3d553a6ce04229ec2c37499a241c7d3",
-    "ingested_at": "2026-10-31T14:55:45.740534+00:00",
-    "summary": "Info BuzzFeed News: Petit Navire, Bosch, Chanel, Disneyland Paris, Decathlon, Pringles, le groupe PSA: plus d'une cinquantaine d'annonceurs ont décidé de ne plus passer de pub dans Touche pas à mon poste après le canular homophobe de Cyril Hanouna.",
-    "thumbnail": "thumbnails/6coqz2.webp",
-    "tags": [
-      "Hanouna",
-      "TPMP",
-      "Cyril Hanouna",
-      "Disneyland",
-      "Société"
-    ],
-    "analyzed_at": "2026-11-01T09:48:09.483026+00:00"
   },
   {
     "id": "6cob3g",
@@ -507,36 +212,9 @@
     "summary": "À titre de comparaison, le CSA avait enregistré 36.000 plaintes sur l'ensemble de l'année 2016 tous programmes confondus.",
     "thumbnail": "thumbnails/6cob3g.webp",
     "tags": [
-      "CSA",
-      "TPMP",
-      "C8",
-      "Médias",
-      "Société"
+      "LGBT+"
     ],
     "analyzed_at": "2026-11-01T09:48:09.498394+00:00"
-  },
-  {
-    "id": "6chhek",
-    "title": "Tant qu'on parle Éducation Nationale, qu'est-ce que vous changeriez ?",
-    "url": "http://cdn1.sbnation.com/imported_assets/1025854/CH940127_JPG.jpg",
-    "permalink": "/r/france/comments/6chhek/tant_quon_parle_éducation_nationale_questce_que/",
-    "created_at": "2017-05-21T16:38:52+00:00",
-    "score": 180,
-    "num_comments": 324,
-    "subreddit": "france",
-    "author": "Korosif",
-    "flair": "Ask France",
-    "domain": "cdn1.sbnation.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/m9oN__XvjFUYfkhO2cyH4eMo_6tmOBSvZVro8OHPML4.jpeg?auto=webp&s=63bbaf33603f4e9ab2803a7a7bc3eaca427112df",
-    "ingested_at": "2026-10-31T14:55:45.740773+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/6chhek.webp",
-    "tags": [
-      "Éducation Nationale",
-      "Ask France"
-    ],
-    "analyzed_at": "2026-11-01T09:48:09.746862+00:00"
   },
   {
     "id": "6cff7u",
@@ -555,13 +233,7 @@
     "ingested_at": "2026-10-31T14:55:45.740095+00:00",
     "summary": "Un cycliste parcourt 1 000 km pour relier Parla, dans la région de Madrid, et Montcuq, dans le Lot.",
     "thumbnail": "thumbnails/6cff7u.webp",
-    "tags": [
-      "Parla-Montcuq",
-      "Parla",
-      "Madrid",
-      "Montcuq",
-      "Sport"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:48:10.066495+00:00"
   },
   {
@@ -582,54 +254,9 @@
     "summary": "",
     "thumbnail": "thumbnails/6c9cwm.webp",
     "tags": [
-      "Marine le Pen"
+      "Marine Le Pen"
     ],
     "analyzed_at": "2026-11-01T09:48:09.841679+00:00"
-  },
-  {
-    "id": "6c9bh7",
-    "title": "La dernière couverture du magazine espagnol \"Tapas\"",
-    "url": "https://pbs.twimg.com/media/C-4nGxeXgAA9M2H.jpg",
-    "permalink": "/r/france/comments/6c9bh7/la_dernière_couverture_du_magazine_espagnol_tapas/",
-    "created_at": "2017-05-20T08:15:02+00:00",
-    "score": 176,
-    "num_comments": 12,
-    "subreddit": "france",
-    "author": "rorobert",
-    "flair": "Humour",
-    "domain": "pbs.twimg.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/rjjkOzYB5so3yRist96vM1bEfHpWN7FbGja3BNbbH-Q.jpeg?auto=webp&s=79d2529eb0f38deb76c4d573f52efe6afa882960",
-    "ingested_at": "2026-10-31T14:55:45.740867+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/6c9bh7.webp",
-    "tags": [
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:48:10.338200+00:00"
-  },
-  {
-    "id": "6c5wcd",
-    "title": "Le complot contre JLM prend de l'ampleur !",
-    "url": "https://puu.sh/vV4Rj/dd3878fc04.jpg",
-    "permalink": "/r/france/comments/6c5wcd/le_complot_contre_jlm_prend_de_lampleur/",
-    "created_at": "2017-05-19T19:35:58+00:00",
-    "score": 213,
-    "num_comments": 22,
-    "subreddit": "france",
-    "author": "Ewba",
-    "flair": "Humour",
-    "domain": "puu.sh",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/fTLwdgSS3I34g8Jc0YFTDH9bFOnGqpiLGsnQwP3miSI.jpg?auto=webp&s=4e4d08e3825bdfcd7c3087f14858de61ef7a3a29",
-    "ingested_at": "2026-10-31T14:55:45.740472+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/6c5wcd.webp",
-    "tags": [
-      "JLM",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:48:11.139296+00:00"
   },
   {
     "id": "6c4301",
@@ -648,11 +275,7 @@
     "ingested_at": "2026-10-31T14:55:45.740408+00:00",
     "summary": "Rire d'un homme parce qu'il est homosexuel, le rabaisser, l'humilier, le jeter en pâture aux rires du public, et être tout content de soi, c'est…",
     "thumbnail": "thumbnails/6c4301.webp",
-    "tags": [
-      "Cyril Hanouna",
-      "TPMP",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:48:09.965035+00:00"
   },
   {
@@ -673,11 +296,7 @@
     "summary": "Pendant de longues minutes, l'animateur a \"imité\" un homosexuel à la recherche d'un partenaire, se moquant à gorge déployée de ses interlocuteurs.",
     "thumbnail": "thumbnails/6c2oex.webp",
     "tags": [
-      "TPMP",
-      "Médias",
-      "Culture",
-      "Economie",
-      "Société"
+      "LGBT+"
     ],
     "analyzed_at": "2026-11-01T09:48:10.746562+00:00"
   },
@@ -700,9 +319,8 @@
     "thumbnail": "thumbnails/6bu2ug.webp",
     "tags": [
       "Manuel Valls",
-      "PS",
-      "République",
-      "Politique"
+      "Élections",
+      "Élection présidentielle"
     ],
     "analyzed_at": "2026-11-01T09:48:10.578427+00:00"
   },
@@ -724,8 +342,9 @@
     "summary": "Des affrontements non loin de la Maison Blanche. En marge de la visite du président turc Recep Tayyip Erdogan, reçu par Donald Trump dans le Bureau ovale, une manifestation pro-kurde a dégénéré entre l'ambassade de Turquie à Washington et le palais présidentiel.",
     "thumbnail": "thumbnails/6bs0s8.webp",
     "tags": [
-      "Erdogan",
-      "VIDEO"
+      "Recep Tayyip Erdoğan",
+      "Manifestations",
+      "Donald Trump"
     ],
     "analyzed_at": "2026-11-01T09:48:10.387955+00:00"
   },
@@ -747,11 +366,8 @@
     "summary": "Après le chanteur Francis Lalanne, c'est Dieudonné qui va se présenter aux élections législatives en Essonne. Il sera le candidat avec, en s",
     "thumbnail": "thumbnails/6bpjep.webp",
     "tags": [
-      "Essonne",
       "Manuel Valls",
-      "Dieudonné",
-      "Francis Lalanne",
-      "Nolan Lapie"
+      "Élections"
     ],
     "analyzed_at": "2026-11-01T09:48:10.456429+00:00"
   },
@@ -773,11 +389,8 @@
     "summary": "Selon Foreign Policy, des officiels de l'OTAN ont demandé aux chefs d'État de faire des discours courts car Donald Trump a une capacité de…",
     "thumbnail": "thumbnails/6bnaft.webp",
     "tags": [
-      "OTAN",
-      "Trump",
-      "Foreign Policy",
-      "État",
-      "Politique"
+      "Donald Trump",
+      "Défense"
     ],
     "analyzed_at": "2026-11-01T09:48:10.637104+00:00"
   },
@@ -799,36 +412,10 @@
     "summary": "",
     "thumbnail": "thumbnails/6bjgz6.webp",
     "tags": [
-      "Jean-Marie le Pen",
-      "FN",
-      "Politique"
+      "Jean-Marie Le Pen",
+      "Élections"
     ],
     "analyzed_at": "2026-11-01T09:48:15.110697+00:00"
-  },
-  {
-    "id": "6bh2ot",
-    "title": "Emmanuel Macron annonce qu’il gérera lui-même le ministère de l’écologie sur son temps libre",
-    "url": "http://www.legorafi.fr/2017/05/16/emmanuel-macron-annonce-quil-gerera-lui-meme-le-ministere-de-lecologie-sur-son-temps-libre/",
-    "permalink": "/r/france/comments/6bh2ot/emmanuel_macron_annonce_quil_gérera_luimême_le/",
-    "created_at": "2017-05-16T12:10:58+00:00",
-    "score": 197,
-    "num_comments": 76,
-    "subreddit": "france",
-    "author": "bernardryefield",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/4OA5mISw7gVZTOXoe4KMducEYXK7z_NuucG0SBVq3Ck.jpg?auto=webp&s=64c2a5e2d103a6cfaeefd0030ea2295f8eed6e05",
-    "ingested_at": "2026-10-31T14:55:45.740577+00:00",
-    "summary": "Il n'y aura donc pas de ministre de l'écologie dans le futur gouvernement qu'annoncera tout à l'heure Édouard Philippe. Une décision provenant directement d'Emmanuel Macron qui se dit prêt à prendre sur son temps de loisir et sur ses week-ends pour s'en occuper.",
-    "thumbnail": "thumbnails/6bh2ot.webp",
-    "tags": [
-      "Emmanuel Macron",
-      "Édouard Philippe",
-      "Jordan Bardella",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:48:10.625062+00:00"
   },
   {
     "id": "6bb4bg",
@@ -848,35 +435,9 @@
     "summary": "La France se dit \"prête à examiner les demandes de visa à caractère humanitaire\" de personnes homosexuelles victimes de persécutions en Tchétchénie, a indiqué lundi le ministère des Affaires étrangères dans un communiqué.",
     "thumbnail": "thumbnails/6bb4bg.webp",
     "tags": [
-      "Tchétchénie",
-      "Affaires"
+      "LGBT+"
     ],
     "analyzed_at": "2026-11-01T09:48:11.081009+00:00"
-  },
-  {
-    "id": "6b981a",
-    "title": "Emmanuel Macron a nommé MACHIN Premier Ministre (info Le Télégramme)",
-    "url": "https://pbs.twimg.com/media/C_2nfAOXgAEi73q.jpg",
-    "permalink": "/r/france/comments/6b981a/emmanuel_macron_a_nommé_machin_premier_ministre/",
-    "created_at": "2017-05-15T08:34:56+00:00",
-    "score": 227,
-    "num_comments": 42,
-    "subreddit": "france",
-    "author": "[deleted]",
-    "flair": "Humour",
-    "domain": "pbs.twimg.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/zD400Q62W4xBFBUnasNRp57ospF2QhdD_QDid6c0bAo.jpeg?auto=webp&s=3bc671c338e7e665cb78a4418fdb2e61554f590b",
-    "ingested_at": "2026-10-31T14:55:45.740346+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/6b981a.webp",
-    "tags": [
-      "Emmanuel Macron",
-      "MACHIN Premier Ministre",
-      "Télégramme",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:48:11.291016+00:00"
   },
   {
     "id": "6b3rme",
@@ -896,9 +457,7 @@
     "summary": "",
     "thumbnail": "thumbnails/6b3rme.webp",
     "tags": [
-      "Emmanuel Macron",
-      "Ve République",
-      "Politique"
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T09:48:11.011459+00:00"
   },
@@ -920,9 +479,8 @@
     "summary": "",
     "thumbnail": "thumbnails/6b2wn8.webp",
     "tags": [
-      "Affaire Penelope Fillon",
-      "Marc Ladreit de Lacharrière",
-      "Politique"
+      "François Fillon",
+      "Justice"
     ],
     "analyzed_at": "2026-11-01T09:48:11.224920+00:00"
   },
@@ -943,13 +501,7 @@
     "ingested_at": "2026-10-31T14:55:45.741450+00:00",
     "summary": "A Drancy, un Lagarde peut en cacher un autre. Jean-Christophe (UDI) va lâcher la mairie pour se consacrer entièrement à la députation. Il cè",
     "thumbnail": "thumbnails/6axb1s.webp",
-    "tags": [
-      "UDI",
-      "Jean-Christophe Lagarde",
-      "Drancy",
-      "Lagarde",
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:48:11.461565+00:00"
   },
   {
@@ -969,13 +521,7 @@
     "ingested_at": "2026-10-31T14:55:45.741491+00:00",
     "summary": "Il est le grand absent des manuels de sciences de la vie et de la terre, en collège et lycée.",
     "thumbnail": "thumbnails/6awwjp.webp",
-    "tags": [
-      "SVT",
-      "Magnard",
-      "Anatomie",
-      "Sveriges Television",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:48:23.792679+00:00"
   },
   {
@@ -995,9 +541,7 @@
     "ingested_at": "2026-10-31T14:55:45.739765+00:00",
     "summary": "",
     "thumbnail": "thumbnails/6arc05.webp",
-    "tags": [
-      "Humour"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:48:11.799940+00:00"
   },
   {
@@ -1018,60 +562,9 @@
     "summary": "",
     "thumbnail": "thumbnails/6aq83p.webp",
     "tags": [
-      "Jean-Luc Mélenchon",
-      "Lab Europe 1",
-      "Politique"
+      "Jean-Luc Mélenchon"
     ],
     "analyzed_at": "2026-11-01T09:48:11.987182+00:00"
-  },
-  {
-    "id": "6ametc",
-    "title": "Législatives : Jean-Luc Mélenchon sera candidat dans toutes les circonscriptions",
-    "url": "http://www.legorafi.fr/2017/05/11/legislatives-jean-luc-melenchon-sera-candidat-dans-toutes-les-circonscriptions/",
-    "permalink": "/r/france/comments/6ametc/législatives_jeanluc_mélenchon_sera_candidat_dans/",
-    "created_at": "2017-05-11T19:31:19+00:00",
-    "score": 187,
-    "num_comments": 13,
-    "subreddit": "france",
-    "author": "Nouca",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/eRm3f02mZ9dXB2ZjQxth4I5KM9RdZdjOgBHE3w9rf98.jpeg?auto=webp&s=d7101f5ef4ca825ff56482075f0a093e0727849a",
-    "ingested_at": "2026-10-31T14:55:45.740709+00:00",
-    "summary": "Jean-Luc Mélenchon l’a dit, il compte mener le combat des Législatives et se positionne d’emblée comme le leader de l’opposition. Gage de sa détermination et de son engagement, il sera candidat dans toutes les circonscriptions.",
-    "thumbnail": "thumbnails/6ametc.webp",
-    "tags": [
-      "Jean-Luc Mélenchon",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:48:11.794314+00:00"
-  },
-  {
-    "id": "6ajivu",
-    "title": "AJA que le cercueil de Marie Curie au Panthéon est composé d'une couche de plomb de 2,5mm d'épaisseur stoppant le rayonnement radioactif que le corps émet toujours",
-    "url": "https://fr.wikipedia.org/wiki/Marie_Curie#Au_Panth.C3.A9on",
-    "permalink": "/r/france/comments/6ajivu/aja_que_le_cercueil_de_marie_curie_au_panthéon/",
-    "created_at": "2017-05-11T11:33:04+00:00",
-    "score": 259,
-    "num_comments": 69,
-    "subreddit": "france",
-    "author": "BringbackMarchais",
-    "flair": "Culture",
-    "domain": "fr.wikipedia.org",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/wDhlYnR3yzZABHldAbNt7AHDGVZ-lV2zsPJ3nIriTYA.jpg?auto=webp&s=9f510a221168cf6c25687d164821074454e900b1",
-    "ingested_at": "2026-10-31T14:55:45.740161+00:00",
-    "summary": "Pour les articles homonymes, voir Marie Curie (homonymie) et Curie .",
-    "thumbnail": "thumbnails/6ajivu.webp",
-    "tags": [
-      "Marie Curie",
-      "Panthéon",
-      "AJA",
-      "Pologne",
-      "Culture"
-    ],
-    "analyzed_at": "2026-11-01T09:48:11.865025+00:00"
   },
   {
     "id": "6aj3k9",
@@ -1091,33 +584,9 @@
     "summary": "Le décret de la loi Macron concernant le FttH entre en application ce 8 mai. La technologie devra désormais être déployée dans les bâtiments d’habitation collective et les locaux professionnels lorsqu’il y a des travaux.",
     "thumbnail": "thumbnails/6aj3k9.webp",
     "tags": [
-      "Macron",
-      "FttH",
-      "Technos"
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T09:48:12.268312+00:00"
-  },
-  {
-    "id": "6afjtd",
-    "title": "On l'a fait Reddit !",
-    "url": "https://fr.reddit.com/r/worldnews/comments/6ad8ia/french_dislike_donald_trump_even_more_than_putin/dhe1ao0/?context=10000",
-    "permalink": "/r/france/comments/6afjtd/on_la_fait_reddit/",
-    "created_at": "2017-05-10T20:52:48+00:00",
-    "score": 179,
-    "num_comments": 101,
-    "subreddit": "france",
-    "author": "[deleted]",
-    "flair": "Meta",
-    "domain": "fr.reddit.com",
-    "selftext": "",
-    "reddit_thumbnail": "",
-    "ingested_at": "2026-10-31T14:55:45.740796+00:00",
-    "summary": "",
-    "thumbnail": "",
-    "tags": [
-      "Reddit"
-    ],
-    "analyzed_at": "2026-11-01T09:48:13.036204+00:00"
   },
   {
     "id": "6afh98",
@@ -1136,59 +605,8 @@
     "ingested_at": "2026-10-31T14:55:45.740264+00:00",
     "summary": "",
     "thumbnail": "thumbnails/6afh98.webp",
-    "tags": [
-      "Bernard-Henri Lévy",
-      "Belgrade"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:48:14.862165+00:00"
-  },
-  {
-    "id": "6aek25",
-    "title": "La Bambouseraie en Cévennes (No bamboozle)",
-    "url": "http://www.jardinslanguedoc.com/images/jardins/bambouseraie_01.jpg",
-    "permalink": "/r/france/comments/6aek25/la_bambouseraie_en_cévennes_no_bamboozle/",
-    "created_at": "2017-05-10T18:16:28+00:00",
-    "score": 171,
-    "num_comments": 11,
-    "subreddit": "france",
-    "author": "relaxitwonthurt",
-    "flair": "",
-    "domain": "jardinslanguedoc.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/ZHBrSrXshC8_gLJ8HlowdFFdxjwo40uWZ4N1hnHL8QI.jpg?auto=webp&s=7ee725561532ea35d2a18156cd659bdfb731e96d",
-    "ingested_at": "2026-10-31T14:55:45.740887+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/6aek25.webp",
-    "tags": [
-      "Bambouseraie",
-      "Cévennes"
-    ],
-    "analyzed_at": "2026-11-01T09:48:16.159060+00:00"
-  },
-  {
-    "id": "6aefz3",
-    "title": "Marion Maréchal-Le Pen : « En fait ma vraie passion, c’est le djembé »",
-    "url": "http://www.legorafi.fr/2017/05/10/marion-marechal-le-pen-en-fait-ma-vraie-passion-cest-le-djembe/",
-    "permalink": "/r/france/comments/6aefz3/marion_maréchalle_pen_en_fait_ma_vraie_passion/",
-    "created_at": "2017-05-10T17:59:05+00:00",
-    "score": 192,
-    "num_comments": 7,
-    "subreddit": "france",
-    "author": "arthelbe4",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/WCttWNYE5Z1MlLtXjWsCiNM1LxJ-K17X5Fn_gf7nLDA.jpeg?auto=webp&s=bea92332a1cf1a24a5ddaa79dae54bac5b1491cc",
-    "ingested_at": "2026-10-31T14:55:45.740640+00:00",
-    "summary": "Zone de turbulence pour le FN ? Alors que le parti entre dans une phase de restructuration majeure, son ambassadrice vient de renoncer à la vie politique pour se consacrer à son amour méconnu des percussions tribales.",
-    "thumbnail": "thumbnails/6aefz3.webp",
-    "tags": [
-      "Marion Maréchal-Le Pen",
-      "FN",
-      "Emmanuel Macron",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:48:12.243244+00:00"
   },
   {
     "id": "6abtbo",
@@ -1208,36 +626,9 @@
     "summary": "Jean-Christophe Cambadélis confirme qu'une procédure pouvant aboutir à l'exclusion de Manuel Valls est en cours au Parti socialiste.",
     "thumbnail": "thumbnails/6abtbo.webp",
     "tags": [
-      "Parti",
-      "PS",
-      "Manuel Valls",
-      "Valls",
-      "Politique"
+      "Manuel Valls"
     ],
     "analyzed_at": "2026-11-01T09:48:12.648199+00:00"
-  },
-  {
-    "id": "6ab309",
-    "title": "Message d'un maire à ses 155 administrés ayant voté FN",
-    "url": "https://www.facebook.com/eric.gold.35/posts/10211544096231136",
-    "permalink": "/r/france/comments/6ab309/message_dun_maire_à_ses_155_administrés_ayant/",
-    "created_at": "2017-05-10T06:16:18+00:00",
-    "score": 252,
-    "num_comments": 188,
-    "subreddit": "france",
-    "author": "[deleted]",
-    "flair": "Politique",
-    "domain": "facebook.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://b.thumbs.redditmedia.com/rxvWkCv0cLAMFqSZ7egW5lUSgZlwbcjsBsvGImNIeUI.jpg",
-    "ingested_at": "2026-10-31T14:55:45.740243+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/6ab309.webp",
-    "tags": [
-      "FN",
-      "Politique"
-    ],
-    "analyzed_at": "2026-11-01T09:48:12.722841+00:00"
   },
   {
     "id": "6a6jh3",
@@ -1257,63 +648,10 @@
     "summary": "Ces dernières semaines, Marion-Maréchal Le Pen soufflait le chaud et le froid sur une éventuelle candidature aux législatives de juin procha",
     "thumbnail": "thumbnails/6a6jh3.webp",
     "tags": [
-      "Marion Maréchal-Le Pen",
-      "Marine le Pen",
-      "FN",
-      "Politique"
+      "Marine Le Pen",
+      "Marion Maréchal"
     ],
     "analyzed_at": "2026-11-01T09:48:12.916664+00:00"
-  },
-  {
-    "id": "6a544d",
-    "title": "Manuel Valls aperçu en train d’escalader la façade de l’immeuble du siège d’En Marche !",
-    "url": "http://www.legorafi.fr/2017/05/09/manuel-valls-apercu-en-train-descalader-la-facade-de-limmeuble-du-siege-den-marche/",
-    "permalink": "/r/france/comments/6a544d/manuel_valls_aperçu_en_train_descalader_la_façade/",
-    "created_at": "2017-05-09T12:34:36+00:00",
-    "score": 160,
-    "num_comments": 5,
-    "subreddit": "france",
-    "author": "MrTouffu",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/UvVwNKffely5_B3MtargWhi62Xb9KBcSLPnYjzu1AeU.jpeg?auto=webp&s=639d7392cb2a91e43d5a0c0c680f0f28defabaca",
-    "ingested_at": "2026-10-31T14:55:45.741041+00:00",
-    "summary": "Paris – Il y a quelques minutes, plusieurs passants ont signalé aux forces de l'ordre la présence d'un homme escaladant à mains nues la façade de l'immeuble où se trouve le siège du mouvement d'Emmanuel Macron, « En Marche ! ».",
-    "thumbnail": "thumbnails/6a544d.webp",
-    "tags": [
-      "Manuel Valls",
-      "Marche",
-      "Emmanuel Macron",
-      "Premier",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:48:13.021821+00:00"
-  },
-  {
-    "id": "6a4lbv",
-    "title": "Manuel Valls demande à Jean-Luc Mélenchon une place pour les législatives \"J'ai toujours été un soumis\"",
-    "url": "http://nordpresse.be/manuel-valls-demande-a-jean-luc-melenchon-place-legislatives-jai-toujours-ete-insoumis/",
-    "permalink": "/r/france/comments/6a4lbv/manuel_valls_demande_à_jeanluc_mélenchon_une/",
-    "created_at": "2017-05-09T10:34:09+00:00",
-    "score": 347,
-    "num_comments": 9,
-    "subreddit": "france",
-    "author": "_throawayplop_",
-    "flair": "Humour",
-    "domain": "nordpresse.be",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/HImofsrPEzGfQ0uAq7AblMXqv0G9s_ZhBNWIYHflQ8Y.jpg?auto=webp&s=ee752e6bbd0df8540ce1c32d97657e55549c3649",
-    "ingested_at": "2026-10-31T14:55:45.740029+00:00",
-    "summary": "L’ancien premier ministre, qui a échoué à la primaire de la gauche et à réellement rejoindre le mouvement d’Emmanuel Macron faute d’inscription assez tôt, vient de faire un appel du pied à Jean-Luc Mélenchon pour lui demander d’être candidat dans une circonscription pour les législatives.",
-    "thumbnail": "thumbnails/6a4lbv.webp",
-    "tags": [
-      "Manuel Valls",
-      "Jean-Luc Mélenchon",
-      "Emmanuel Macron",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:48:14.930551+00:00"
   },
   {
     "id": "6a3wu0",
@@ -1332,36 +670,8 @@
     "ingested_at": "2026-10-31T14:55:45.740492+00:00",
     "summary": "",
     "thumbnail": "thumbnails/6a3wu0.webp",
-    "tags": [
-      "Vannes",
-      "FN",
-      "Shoah et le Vél'd'Hiv",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:48:14.831627+00:00"
-  },
-  {
-    "id": "6a052b",
-    "title": "Marine Le Pen : “Je ne fais pas confiance aux chiffres arabes, merci de recompter les voix en chiffres romains”",
-    "url": "http://www.goldenmoustache.com/marine-pen-ne-fais-confiance-aux-chiffres-arabes-merci-de-recompter-voix-chiffres-romains-244187/",
-    "permalink": "/r/france/comments/6a052b/marine_le_pen_je_ne_fais_pas_confiance_aux/",
-    "created_at": "2017-05-08T18:59:52+00:00",
-    "score": 125,
-    "num_comments": 10,
-    "subreddit": "france",
-    "author": "YakaFokon",
-    "flair": "Humour",
-    "domain": "goldenmoustache.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://b.thumbs.redditmedia.com/3plB0BCHaffKx2Ck_HotfLz4mklBY4Mm4qQwuGqc1bs.jpg",
-    "ingested_at": "2026-10-31T14:55:45.741321+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/6a052b.webp",
-    "tags": [
-      "Marine le Pen",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:48:14.844481+00:00"
   },
   {
     "id": "69wn9k",
@@ -1381,249 +691,9 @@
     "summary": "",
     "thumbnail": "thumbnails/69wn9k.webp",
     "tags": [
-      "Florian Philipipot",
-      "Politique"
+      "Élection présidentielle"
     ],
     "analyzed_at": "2026-11-01T09:48:17.548064+00:00"
-  },
-  {
-    "id": "69u0eg",
-    "title": "French vote result analyzes by T_D",
-    "url": "https://i.redditmedia.com/GBSdum3RC9J0tAHSuAomEAOmuBXwsoAQp20SU9C3bNc.png?w=1024&s=e8fd8bb11f99e4814abcc885b32c3418",
-    "permalink": "/r/france/comments/69u0eg/french_vote_result_analyzes_by_t_d/",
-    "created_at": "2017-05-07T21:46:53+00:00",
-    "score": 938,
-    "num_comments": 102,
-    "subreddit": "france",
-    "author": "_The-Big-Giant-Head_",
-    "flair": "",
-    "domain": "i.redditmedia.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/G7svtMFrsvWSaDJzS2NnnyWMPiWwLlH_ryMsdns4qDw.png?auto=webp&s=d8e43f81f35e93e000eb889fb2efd53bee963e35",
-    "ingested_at": "2026-10-31T14:55:45.739817+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/69u0eg.webp",
-    "tags": [
-      "T_D"
-    ],
-    "analyzed_at": "2026-11-01T09:48:15.250851+00:00"
-  },
-  {
-    "id": "69tzve",
-    "title": "French Annoyingly Retain Right to Claim Intellectual Superiority Over Americans (Le New Yorker, en anglais).",
-    "url": "http://www.newyorker.com/humor/borowitz-report/french-annoyingly-retain-right-to-claim-intellectual-superiority-over-americans",
-    "permalink": "/r/france/comments/69tzve/french_annoyingly_retain_right_to_claim/",
-    "created_at": "2017-05-07T21:44:18+00:00",
-    "score": 402,
-    "num_comments": 60,
-    "subreddit": "france",
-    "author": "Ofthedoor",
-    "flair": "Humour",
-    "domain": "newyorker.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/HD8ff1Wlf0mv-T5qrO-ik1-Qr1b1hoHqWytgqeUBnSQ.jpg?auto=webp&s=73f80a0de91e71a8e69dd5b54aef0a163c966977",
-    "ingested_at": "2026-10-31T14:55:45.739929+00:00",
-    "summary": "Voters across France breathed a sigh of relief, knowing that arrogantly comparing themselves to the U.S. population would remain viable for the foreseeable future.",
-    "thumbnail": "thumbnails/69tzve.webp",
-    "tags": [
-      "French Annoyingly Retain Right",
-      "New Yorker",
-      "Americans",
-      "Emmanuel macron",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:48:15.794677+00:00"
-  },
-  {
-    "id": "69toad",
-    "title": "Nicolas Dupont-Aignan retrouvé abandonné sur une aire d’autoroute",
-    "url": "http://www.legorafi.fr/2017/05/07/nicolas-dupont-aignan-retrouve-abandonne-sur-une-aire-dautoroute/",
-    "permalink": "/r/france/comments/69toad/nicolas_dupontaignan_retrouvé_abandonné_sur_une/",
-    "created_at": "2017-05-07T20:46:56+00:00",
-    "score": 243,
-    "num_comments": 5,
-    "subreddit": "france",
-    "author": "Deshoqub",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/O-HAJOjRz_eJ7nFr7iTptd7pQ6_ZpLMphd5Hs_x8lkg.jpeg?auto=webp&s=970c79c27bb79f13515ebf681915273556873ab9",
-    "ingested_at": "2026-10-31T14:55:45.740284+00:00",
-    "summary": "Nicolas Dupont-Aignan a été retrouvé en bonne santé attaché à une glissière de sécurité. La découverte a eu lieu dans la Somme sur l'aire de repos de Goyencourt-est par deux employés de l'entreprise Vinci Autoroute alors qu'ils circulaient sur l'A1.",
-    "thumbnail": "thumbnails/69toad.webp",
-    "tags": [
-      "Nicolas Dupont-Aignan",
-      "Somme",
-      "Goyencourt-est",
-      "Vinci Autoroute",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:48:15.137040+00:00"
-  },
-  {
-    "id": "69tgdr",
-    "title": "Le Gorafi: \"Emmanuel Macron annonce que son Premier ministre sera François Hollande\"",
-    "url": "http://www.legorafi.fr/2017/05/07/emmanuel-macron-annonce-que-son-premier-ministre-sera-francois-hollande/",
-    "permalink": "/r/france/comments/69tgdr/le_gorafi_emmanuel_macron_annonce_que_son_premier/",
-    "created_at": "2017-05-07T20:08:25+00:00",
-    "score": 233,
-    "num_comments": 45,
-    "subreddit": "france",
-    "author": "Gustacho",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/n298VT1p-uSWS3_ES31BEqoNTdTTu3tZKmpEj-R9D9g.jpg?auto=webp&s=f93acd06edd4cadd831f54d9c75cc1f5f800bf2d",
-    "ingested_at": "2026-10-31T14:55:45.740304+00:00",
-    "summary": "Dans l’euphorie de sa large victoire sur Marine Le Pen au 2è tour de la Présidentielle, Emmanuel Macron a décidé de donner le nom de son futur Premier ministre. Il s’agira de François Hollande.",
-    "thumbnail": "thumbnails/69tgdr.webp",
-    "tags": [
-      "Emmanuel Macron",
-      "Premier",
-      "François Hollande",
-      "Gorafi",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:48:15.143331+00:00"
-  },
-  {
-    "id": "69st32",
-    "title": "Marine Le Pen échoue à obtenir son immunité présidentielle",
-    "url": "http://www.legorafi.fr/2017/05/07/marine-le-pen-echoue-a-obtenir-son-immunite-presidentielle/",
-    "permalink": "/r/france/comments/69st32/marine_le_pen_échoue_à_obtenir_son_immunité/",
-    "created_at": "2017-05-07T18:21:57+00:00",
-    "score": 568,
-    "num_comments": 15,
-    "subreddit": "france",
-    "author": "JrMint",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/_--r0d7TFSkEQ6wX3lY5nzGaitAXI5n-7-ukUkqgnOM.jpeg?auto=webp&s=3c56347c9e4ba9dc7a37e829b8e5478d721e53ed",
-    "ingested_at": "2026-10-31T14:55:45.739908+00:00",
-    "summary": "La candidate d'extrême-droite n'a pas réussi le pari fou qu'elle s'était fixée : échapper à la justice en obtenant le poste de président de la République. Une immunité diplomatique que les Français ont préféré confier à Emmanuel Macron pour les cinq prochaines années.",
-    "thumbnail": "thumbnails/69st32.webp",
-    "tags": [
-      "Marine le Pen",
-      "Emmanuel Macron",
-      "République",
-      "Français",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:48:15.334213+00:00"
-  },
-  {
-    "id": "69srlv",
-    "title": "Emmanuel Macron obtient un stage d’observation de cinq ans à l’Elysée",
-    "url": "http://www.legorafi.fr/2017/05/07/emmanuel-macron-obtient-un-stage-dobservation-de-cinq-ans-a-lelysee/",
-    "permalink": "/r/france/comments/69srlv/emmanuel_macron_obtient_un_stage_dobservation_de/",
-    "created_at": "2017-05-07T18:15:23+00:00",
-    "score": 290,
-    "num_comments": 15,
-    "subreddit": "france",
-    "author": "bernardryefield",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/_--r0d7TFSkEQ6wX3lY5nzGaitAXI5n-7-ukUkqgnOM.jpeg?auto=webp&s=3c56347c9e4ba9dc7a37e829b8e5478d721e53ed",
-    "ingested_at": "2026-10-31T14:55:45.740118+00:00",
-    "summary": "Pour beaucoup, c’est une récompense méritée. Au terme d’un parcours presque sans faute et d’une infatigable campagne présidentielle, Emmanuel Macron est devenu ce soir le plus jeune candidat à obtenir un stage d’observation de cinq ans à l’Elysée",
-    "thumbnail": "thumbnails/69srlv.webp",
-    "tags": [
-      "Emmanuel Macron",
-      "Elysée",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:48:15.313106+00:00"
-  },
-  {
-    "id": "69sq4m",
-    "title": "Prise de température chez nos amis de Le_Canard",
-    "url": "https://lh3.googleusercontent.com/-ZC6O177eEU4/VWFls597ZnI/AAAAAAAAEKA/YVkuIoQo_60/w800-h800/xjsz6LN.gif",
-    "permalink": "/r/france/comments/69sq4m/prise_de_température_chez_nos_amis_de_le_canard/",
-    "created_at": "2017-05-07T18:09:05+00:00",
-    "score": 224,
-    "num_comments": 23,
-    "subreddit": "france",
-    "author": "Korosif",
-    "flair": "Humour",
-    "domain": "lh3.googleusercontent.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/yQRZsd8dH99bXB9ak-X1cSE8H6oqnEiYsZwhV2pF_Rs.gif?format=png8&s=c171898a4c381e166c490b6ac555a6654bfd71ec",
-    "ingested_at": "2026-10-31T14:55:45.740365+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/69sq4m.webp",
-    "tags": [
-      "Le_Canard",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:48:20.958628+00:00"
-  },
-  {
-    "id": "69q6xr",
-    "title": "Les français aujourd'hui.",
-    "url": "http://sylvia0333.s.y.pic.centerblog.net/castor-105.jpg",
-    "permalink": "/r/france/comments/69q6xr/les_français_aujourdhui/",
-    "created_at": "2017-05-07T07:49:04+00:00",
-    "score": 1008,
-    "num_comments": 236,
-    "subreddit": "france",
-    "author": "Pencrace",
-    "flair": "Humour",
-    "domain": "sylvia0333.s.y.pic.centerblog.net",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/0ejcAdAQ1dOUNArU_5tS6SIHpc97HYiTy-F-V-EmEzw.jpg?auto=webp&s=983e98163002bcfdbf3d9c6d6866d15fe61f2746",
-    "ingested_at": "2026-10-31T14:55:45.739792+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/69q6xr.webp",
-    "tags": [
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:48:15.657238+00:00"
-  },
-  {
-    "id": "69mpw9",
-    "title": "MacronLeaks: Financement illégal de campagne",
-    "url": "https://pbs.twimg.com/media/C_JPUY6XsAA_RPN.jpg:large",
-    "permalink": "/r/france/comments/69mpw9/macronleaks_financement_illégal_de_campagne/",
-    "created_at": "2017-05-06T18:28:43+00:00",
-    "score": 781,
-    "num_comments": 101,
-    "subreddit": "france",
-    "author": "DanoneTrump",
-    "flair": "Humour",
-    "domain": "pbs.twimg.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/e_aOpamuibgaKt3q2kw-37GAZ6CSdKiEHYJecGG-1fA.jpeg?auto=webp&s=a3b1d560ed8f835043609bfecca20cc0761054a9",
-    "ingested_at": "2026-10-31T14:55:45.739885+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/69mpw9.webp",
-    "tags": [
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:48:16.539550+00:00"
-  },
-  {
-    "id": "69jzzb",
-    "title": "Tout Mediapart est en accès libre jusqu'à dimanche minuit",
-    "url": "https://blogs.mediapart.fr/la-redaction-de-mediapart/blog/050517/tout-mediapart-est-en-acces-libre-jusqua-dimanche-minuit",
-    "permalink": "/r/france/comments/69jzzb/tout_mediapart_est_en_accès_libre_jusquà_dimanche/",
-    "created_at": "2017-05-06T07:18:27+00:00",
-    "score": 213,
-    "num_comments": 25,
-    "subreddit": "france",
-    "author": "chantepleure",
-    "flair": "News",
-    "domain": "blogs.mediapart.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/Ep4Vn4lS78LuZClOB6si6Oq4WWMcA8FWqePSjBKQmNE.jpg?auto=webp&s=42b741c5d72df2aa0e76fb437fff4ec61b42bfbd",
-    "ingested_at": "2026-10-31T14:55:45.740451+00:00",
-    "summary": "Exceptionnellement, nous avons décidé de mettre en accès libre et gratuit l'intégralité de nos contenus, à partir de samedi 8 heures jusqu'à dimanche minuit. Journal citoyen, journal d'intérêt public…",
-    "thumbnail": "thumbnails/69jzzb.webp",
-    "tags": [
-      "Mediapart"
-    ],
-    "analyzed_at": "2026-11-01T09:48:16.621868+00:00"
   },
   {
     "id": "69hnbo",
@@ -1642,7 +712,9 @@
     "ingested_at": "2026-10-31T14:55:45.740661+00:00",
     "summary": "",
     "thumbnail": "thumbnails/69hnbo.webp",
-    "tags": [],
+    "tags": [
+      "Emmanuel Macron"
+    ],
     "analyzed_at": "2026-11-01T09:48:17.868228+00:00"
   },
   {
@@ -1662,37 +734,8 @@
     "ingested_at": "2026-10-31T14:55:45.739986+00:00",
     "summary": "La France durcit sa législation et adopte un nouveau texte de loi, vendredi, rendant obligatoire la mention \"photographie retouchée\" et l'obtention d'un certificat médical pour tout mannequin exerçant…",
     "thumbnail": "thumbnails/69ffua.webp",
-    "tags": [
-      "Anorexie",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:48:16.178367+00:00"
-  },
-  {
-    "id": "69f4hm",
-    "title": "Juncker chooses French for State of Union speech because English is 'losing importance'",
-    "url": "http://www.irishtimes.com/news/world/europe/juncker-chooses-french-for-state-of-union-speech-because-english-is-losing-importance-1.3072756",
-    "permalink": "/r/france/comments/69f4hm/juncker_chooses_french_for_state_of_union_speech/",
-    "created_at": "2017-05-05T14:49:36+00:00",
-    "score": 335,
-    "num_comments": 86,
-    "subreddit": "france",
-    "author": "eberkut",
-    "flair": "News",
-    "domain": "irishtimes.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/C3RDxVrgYr7_0y1ER095EpM-98IaATpXTMa-dshJejo.jpg?auto=webp&s=c80694157b759af81d0ad4f0f2ed8c7ca518db36",
-    "ingested_at": "2026-10-31T14:55:45.740073+00:00",
-    "summary": "European Commission President Jean-Claude Juncker, has kicked off a speech at the State of the Union conference in Florence by announcing he would speak French as 'English is losing importance in Europe.' Video: Reuters",
-    "thumbnail": "thumbnails/69f4hm.webp",
-    "tags": [
-      "French",
-      "State",
-      "Union",
-      "English",
-      "Florence"
-    ],
-    "analyzed_at": "2026-11-01T09:48:17.065210+00:00"
   },
   {
     "id": "69f1r4",
@@ -1712,83 +755,9 @@
     "summary": "Peu avant le débat opposant les candidats du second tour de l'élection présidentielle, un utilisateur du forum anonyme 4chan a diffusé des documents qui semblaient montrer que le candidat Macron possédait une société écran et un compte dans un paradis fiscal. En réalité, tous les éléments de la fake news sont réunis.",
     "thumbnail": "thumbnails/69f1r4.webp",
     "tags": [
-      "Humanoid",
-      "Macron",
-      "Dixcart",
-      "Politique"
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T09:48:16.777268+00:00"
-  },
-  {
-    "id": "69dhc1",
-    "title": "Macron prêt à remplacer la Ve République par France SA®, société par actions cotée en bourse",
-    "url": "http://www.legorafi.fr/2017/05/05/macron-pret-a-remplacer-la-ve-republique-par-france-sa-societe-par-actions-cotee-en-bourse/",
-    "permalink": "/r/france/comments/69dhc1/macron_prêt_à_remplacer_la_ve_république_par/",
-    "created_at": "2017-05-05T08:32:29+00:00",
-    "score": 164,
-    "num_comments": 47,
-    "subreddit": "france",
-    "author": "BOBOUDA",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/_--r0d7TFSkEQ6wX3lY5nzGaitAXI5n-7-ukUkqgnOM.jpeg?auto=webp&s=3c56347c9e4ba9dc7a37e829b8e5478d721e53ed",
-    "ingested_at": "2026-10-31T14:55:45.740932+00:00",
-    "summary": "La proposition ne figurait pas au programme du candidat et promet de faire couler beaucoup d’encre : finie la République de 1958, place à « une entité plus efficiente et rationalisée ».",
-    "thumbnail": "thumbnails/69dhc1.webp",
-    "tags": [
-      "Ve République",
-      "République de 1958",
-      "Emmanuel Macron",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:48:16.721697+00:00"
-  },
-  {
-    "id": "697v8q",
-    "title": "\"Mon analyse politique du débat d'hier soir.\"",
-    "url": "https://pbs.twimg.com/media/C-_UaxgXcAAcMGD.jpg:large",
-    "permalink": "/r/france/comments/697v8q/mon_analyse_politique_du_débat_dhier_soir/",
-    "created_at": "2017-05-04T14:35:29+00:00",
-    "score": 160,
-    "num_comments": 11,
-    "subreddit": "france",
-    "author": "moviuro",
-    "flair": "Humour",
-    "domain": "pbs.twimg.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/yplwUGrXVSz9cEz7nBMmqdDUeePC_rpqMaya0N0ILXk.jpg?auto=webp&s=bd6ae3cfede1dd1d24e82943288f457da2866478",
-    "ingested_at": "2026-10-31T14:55:45.741020+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/697v8q.webp",
-    "tags": [
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:48:19.183277+00:00"
-  },
-  {
-    "id": "6971de",
-    "title": "Fans Facebook de Macron vs Le Pen : pas de surprise ?",
-    "url": "http://www.social-karma.eu/static/posts/imgs/profiler-macron-lepen.jpg",
-    "permalink": "/r/france/comments/6971de/fans_facebook_de_macron_vs_le_pen_pas_de_surprise/",
-    "created_at": "2017-05-04T11:54:18+00:00",
-    "score": 157,
-    "num_comments": 131,
-    "subreddit": "france",
-    "author": "social_greg",
-    "flair": "Politique",
-    "domain": "social-karma.eu",
-    "selftext": "",
-    "reddit_thumbnail": "https://a.thumbs.redditmedia.com/ueylfDYk-2S-TNBysvH-aJqL2N6FK9Z6-KVZvIDcAi8.jpg",
-    "ingested_at": "2026-10-31T14:55:45.741062+00:00",
-    "summary": "Discover how casinos use social media analytics to engage and attract players with innovative strategies and insights.",
-    "thumbnail": "thumbnails/6971de.webp",
-    "tags": [
-      "Fans Facebook de Macron",
-      "Pen",
-      "Politique"
-    ],
-    "analyzed_at": "2026-11-01T09:48:17.252670+00:00"
   },
   {
     "id": "696to8",
@@ -1808,64 +777,10 @@
     "summary": "Lors du débat de mercredi, la candidate FN a déclaré qu'elle \"espérait\" qu'on ne découvrirait pas qu'il a un \"compte offshore aux Bahamas\". Le parquet a ouvert une enquête.",
     "thumbnail": "thumbnails/696to8.webp",
     "tags": [
-      "Bahamas",
-      "Pen",
-      "Macron",
-      "FN",
-      "Politique"
+      "Emmanuel Macron",
+      "Marine Le Pen"
     ],
     "analyzed_at": "2026-11-01T09:48:17.932648+00:00"
-  },
-  {
-    "id": "693fpj",
-    "title": "\"Il y en a un qui fait des téléphones, l'autre des turbines\". Marine Le Pen se trompe entre SFR et Alstom.",
-    "url": "https://www.facebook.com/brutofficiel/videos/1845723809010591/",
-    "permalink": "/r/france/comments/693fpj/il_y_en_a_un_qui_fait_des_téléphones_lautre_des/",
-    "created_at": "2017-05-03T21:46:23+00:00",
-    "score": 342,
-    "num_comments": 63,
-    "subreddit": "france",
-    "author": "gloupi78",
-    "flair": "Politique",
-    "domain": "facebook.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/ijuTx1lJ_KzqoRsBbah8EOBmFI5mDfdR1_bgoHgZFuQ.jpg?auto=webp&s=2826b36b5b7091bc0e65b804072aafdbb94f60a2",
-    "ingested_at": "2026-10-31T14:55:45.740051+00:00",
-    "summary": "\"Vous savez, il y en a un qui fait des téléphones et l’autre des turbines\" Emmanuel Macron vanne Marine Le Pen sur SFR et Alstom #2017LeDebat",
-    "thumbnail": "thumbnails/693fpj.webp",
-    "tags": [
-      "Marine le Pen",
-      "SFR et Alstom",
-      "Emmanuel Macron",
-      "Politique"
-    ],
-    "analyzed_at": "2026-11-01T09:48:23.027589+00:00"
-  },
-  {
-    "id": "690pew",
-    "title": "Un patron de bar PMU accuse Marine Le Pen de lui avoir volé ses idées",
-    "url": "http://www.legorafi.fr/2017/05/02/un-patron-de-bar-pmu-accuse-marine-le-pen-de-lui-avoir-vole-ses-idees/",
-    "permalink": "/r/france/comments/690pew/un_patron_de_bar_pmu_accuse_marine_le_pen_de_lui/",
-    "created_at": "2017-05-03T14:34:09+00:00",
-    "score": 265,
-    "num_comments": 4,
-    "subreddit": "france",
-    "author": "QuoiLaBaise",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/y_ZStSktwzwRPPCod_RMfG67FpuMWk8KQqReHn6Fk_Y.jpg?auto=webp&s=955bcebc8161b8f798051e91501abb1a71b49a15",
-    "ingested_at": "2026-10-31T14:55:45.740139+00:00",
-    "summary": "Avignon – Henri Grobert, dit « Bébert » pour les amis, est furieux. Il accuse ainsi Marine Le Pen de lui avoir plagié toutes ses idées politiques, et ce depuis des années. Un scandale qui tombe mal après que la candidate Front National a été accusée d'avoir plagié un discours de François Fillon. Reportage.",
-    "thumbnail": "thumbnails/690pew.webp",
-    "tags": [
-      "Marine le Pen",
-      "PMU",
-      "Henri Grobert",
-      "Front National",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:48:17.501309+00:00"
   },
   {
     "id": "68zb7p",
@@ -1884,32 +799,8 @@
     "ingested_at": "2026-10-31T14:55:45.739961+00:00",
     "summary": "",
     "thumbnail": "thumbnails/68zb7p.webp",
-    "tags": [
-      "Humour"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:48:18.501738+00:00"
-  },
-  {
-    "id": "68yyk7",
-    "title": "Votes au premier tour selon les candidats en fonction des revenus",
-    "url": "http://image-store.slidesharecdn.com/435e9e14-3117-497e-a4cc-3348dd6ee908-original.png",
-    "permalink": "/r/france/comments/68yyk7/votes_au_premier_tour_selon_les_candidats_en/",
-    "created_at": "2017-05-03T07:43:07+00:00",
-    "score": 360,
-    "num_comments": 221,
-    "subreddit": "france",
-    "author": "Thorin_oak",
-    "flair": "Politique",
-    "domain": "image-store.slidesharecdn.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/-VDcGHgJkEqK41PpusLb2xV_4sWDlT7ITMpFhsFx6g8.png?auto=webp&s=13f93d832f7a050d6654bc0acc1c0d8ceaeed92e",
-    "ingested_at": "2026-10-31T14:55:45.740007+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/68yyk7.webp",
-    "tags": [
-      "Politique"
-    ],
-    "analyzed_at": "2026-11-01T09:48:18.894895+00:00"
   },
   {
     "id": "68vdr8",
@@ -1928,60 +819,8 @@
     "ingested_at": "2026-10-31T14:55:45.740325+00:00",
     "summary": "Jean De Maesmaker, alias Jidéhem, a collaboré pendant une dizaine d’années à la création des gags de Gaston. Il était un des piliers du « Journal de Spirou »…",
     "thumbnail": "thumbnails/68vdr8.webp",
-    "tags": [
-      "Gaston",
-      "Journal de Spirou",
-      "Jean de Maesmaker",
-      "Jidéhem",
-      "Culture"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:48:18.965581+00:00"
-  },
-  {
-    "id": "68ryeg",
-    "title": "Les gorges du Tarn.",
-    "url": "http://yeti85.com/bdd/blog/2016/02/gorges_detroits.jpg",
-    "permalink": "/r/france/comments/68ryeg/les_gorges_du_tarn/",
-    "created_at": "2017-05-02T08:37:03+00:00",
-    "score": 119,
-    "num_comments": 12,
-    "subreddit": "france",
-    "author": "Galimesh",
-    "flair": "Culture",
-    "domain": "yeti85.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/l7i7Qv-oV80jAr310L47wkwq-3SINS0BCIvz8VWKeE0.jpg?auto=webp&s=6ff8097e59d76124a0e2d7ae494b92805e1e0037",
-    "ingested_at": "2026-10-31T14:55:45.741366+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/68ryeg.webp",
-    "tags": [
-      "Tarn",
-      "Culture"
-    ],
-    "analyzed_at": "2026-11-01T09:48:20.711328+00:00"
-  },
-  {
-    "id": "68o62h",
-    "title": "On ne pourra plus dire : \"je ne savais pas\"",
-    "url": "http://alpernalain.blogspot.co.uk/2013/09/on-ne-pourra-plus-dire-je-ne-savais-pas.html",
-    "permalink": "/r/france/comments/68o62h/on_ne_pourra_plus_dire_je_ne_savais_pas/",
-    "created_at": "2017-05-01T19:34:01+00:00",
-    "score": 196,
-    "num_comments": 36,
-    "subreddit": "france",
-    "author": "chantepleure",
-    "flair": "Politique",
-    "domain": "alpernalain.blogspot.co.uk",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/SDE3vMSiUiYE7vpTrzLgmH-6tlHhMq7-LoVC__K5U60.png?auto=webp&s=df25ceaec9eaccd785b3d2984293c93d9ace6077",
-    "ingested_at": "2026-10-31T14:55:45.740599+00:00",
-    "summary": "Le post suivant est exceptionnellement long, mais je pense que cela vaut la peine de le reprendre intégralement. J'ai également laissé t...",
-    "thumbnail": "thumbnails/68o62h.webp",
-    "tags": [
-      "PS",
-      "Politique"
-    ],
-    "analyzed_at": "2026-11-01T09:48:19.803427+00:00"
   },
   {
     "id": "68mfnt",
@@ -2001,11 +840,8 @@
     "summary": "La Miss France 2000 a publié un long message sur Facebook appelant à voter contre Marine Le Pen.",
     "thumbnail": "thumbnails/68mfnt.webp",
     "tags": [
-      "Miss France",
-      "FN",
-      "Facebook",
-      "Marine le Pen",
-      "Société"
+      "Élections",
+      "Marine Le Pen"
     ],
     "analyzed_at": "2026-11-01T09:48:19.709297+00:00"
   }

@@ -33,6 +33,12 @@ class Command(BaseCommand):
             "--force", action="store_true", help="Re-analyze already analyzed news."
         )
         parser.add_argument(
+            "--retag",
+            action="store_true",
+            help="Only recompute the tags of every news (or of the selected "
+            "ones) from the stored data, without downloading anything.",
+        )
+        parser.add_argument(
             "--days", type=int, help="Only news created in the last N days."
         )
         parser.add_argument("--limit", type=int, help="Analyze at most N news.")
@@ -45,7 +51,9 @@ class Command(BaseCommand):
         )
         parser.add_argument("ids", nargs="*", help="Only these Reddit post ids.")
 
-    def handle(self, *args, analyzer, force, days, limit, workers, ids, **options):
+    def handle(
+        self, *args, analyzer, force, retag, days, limit, workers, ids, **options
+    ):
         try:
             backend = get_analyzer(analyzer)
         except (ValueError, RuntimeError) as exc:
@@ -58,8 +66,11 @@ class Command(BaseCommand):
         if ids:
             pending = [news for news in map(store.get, ids) if news]
         else:
-            pending = store.to_analyze(force=force, since=since)
+            pending = store.to_analyze(force=force or retag, since=since)
         pending = pending[:limit] if limit else pending
+        if retag:
+            self._retag(store, backend, pending)
+            return
 
         self.stdout.write(
             f"Analyzing {len(pending)} news with '{backend.name}' "
@@ -97,6 +108,19 @@ class Command(BaseCommand):
         if failures:
             message += f" {failures} failure{'s' if failures > 1 else ''}, see logs."
         self.stdout.write(self.style.SUCCESS(message))
+
+    def _retag(self, store, backend, pending: list[News]) -> None:
+        # The heuristic vocabulary is enough here: no model, no network.
+        retagger = get_analyzer("heuristic") if backend.name != "heuristic" else backend
+        with store.transaction():
+            changed = sum(
+                store.set_tags(news.id, retagger.retag(news))
+                for news in pending
+                if store.get(news.id)
+            )
+        self.stdout.write(
+            self.style.SUCCESS(f"Retagged {len(pending)} news, {changed} changed.")
+        )
 
 
 def _save(store, batch: list[News]) -> None:

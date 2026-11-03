@@ -1,31 +1,5 @@
 [
   {
-    "id": "cy26j0",
-    "title": "« Un village pour aliénés tranquilles » : récit d'une expérience inédite en France",
-    "url": "https://www.retronews.fr/societe/interview/2019/08/27/le-village-pour-alienes-tranquilles",
-    "permalink": "/r/france/comments/cy26j0/un_village_pour_aliénés_tranquilles_récit_dune/",
-    "created_at": "2019-08-31T22:49:02+00:00",
-    "score": 30,
-    "num_comments": 1,
-    "subreddit": "france",
-    "author": "HellYodan",
-    "flair": "",
-    "domain": "retronews.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/_vdFubLwsay4Xa1tPE-BZfOtEb6toIuk5fN_h2faXwk.jpeg?auto=webp&s=c34f56ce9bb28117828500bbd545e7caf39eb7c5",
-    "ingested_at": "2026-10-31T15:29:44.763003+00:00",
-    "summary": "Dun-sur-Auron est le premier lieu où l’on a testé, en France, une solution&nbsp;alternative à l'enfermement psychiatrique des malades mentaux. Dans&nbsp...",
-    "thumbnail": "thumbnails/cy26j0.webp",
-    "tags": [
-      "Dun",
-      "Juliette Rigondet",
-      "Cher",
-      "Seine",
-      "9944"
-    ],
-    "analyzed_at": "2026-11-01T09:41:28.199851+00:00"
-  },
-  {
     "id": "cxul0z",
     "title": "Décret n° 2019-904 du 30 août 2019 relatif à l'exclusion de préparations homéopathiques de la prise en charge par l'assurance maladie",
     "url": "https://www.legifrance.gouv.fr/eli/decret/2019/8/30/SSAS1919805D/jo/texte",
@@ -42,9 +16,7 @@
     "ingested_at": "2026-10-31T15:29:44.762473+00:00",
     "summary": "",
     "thumbnail": "",
-    "tags": [
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:41:32.483040+00:00"
   },
   {
@@ -65,58 +37,9 @@
     "summary": "\"Ceux qui détruisent un écosystème doivent être condamnés\", affirmait-elle à GEO l'an passé.",
     "thumbnail": "thumbnails/cxt6y2.webp",
     "tags": [
-      "Amazonie",
-      "GEO",
-      "Valérie Cabanes",
-      "Cour",
-      "Écologie"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T09:41:28.063541+00:00"
-  },
-  {
-    "id": "cxgwjy",
-    "title": "Fact check : Le site « les journalopes sont tous des fdp de gauchiasses » est-il un site d’information fiable ?",
-    "url": "http://www.legorafi.fr/2019/08/30/fact-check-le-site-les-journalopes-sont-tous-des-fdp-de-gauchiasses-est-il-un-site-dinformation-fiable/",
-    "permalink": "/r/france/comments/cxgwjy/fact_check_le_site_les_journalopes_sont_tous_des/",
-    "created_at": "2019-08-30T13:26:09+00:00",
-    "score": 271,
-    "num_comments": 52,
-    "subreddit": "france",
-    "author": "sitarane",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/8cutKDcz0x5HxdQJcCX2m0UMwLsxvvO77-GdcOlmO20.jpg?auto=webp&s=6d16e42204711ee1792c0c5d084edb375ccd971d",
-    "ingested_at": "2026-10-31T15:29:44.761532+00:00",
-    "summary": "Attention, même s'il semble totalement fiable, sourcé et extrêmement rigoureux, ce site a une tendance très légèrement complotiste.",
-    "thumbnail": "thumbnails/cxgwjy.webp",
-    "tags": [
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:41:28.086518+00:00"
-  },
-  {
-    "id": "cxdm7e",
-    "title": "Le nouvel album de Tool sort aujourd'hui, attendu depuis plus de 11 ans.",
-    "url": "http://smarturl.it/TOOLFIa?fbclid=IwAR0RuqyYeh8b4jPuPrQCD47JK4qcErwkisnytC7XleeSgdTzZ3XvK4mQAPg",
-    "permalink": "/r/france/comments/cxdm7e/le_nouvel_album_de_tool_sort_aujourdhui_attendu/",
-    "created_at": "2019-08-30T07:29:43+00:00",
-    "score": 120,
-    "num_comments": 190,
-    "subreddit": "france",
-    "author": "instant_monkey",
-    "flair": "Culture",
-    "domain": "smarturl.it",
-    "selftext": "",
-    "reddit_thumbnail": "https://b.thumbs.redditmedia.com/_WLKUd84Zq5ns305R-TmVJU8d69LYAqiLa1GtAe4pBQ.jpg",
-    "ingested_at": "2026-10-31T15:29:44.762620+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/cxdm7e.webp",
-    "tags": [
-      "Tool",
-      "Culture"
-    ],
-    "analyzed_at": "2026-11-01T09:41:32.118532+00:00"
   },
   {
     "id": "cx3ih9",
@@ -135,9 +58,7 @@
     "ingested_at": "2026-10-31T15:29:44.762078+00:00",
     "summary": "",
     "thumbnail": "thumbnails/cx3ih9.webp",
-    "tags": [
-      "Économie"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:41:28.581033+00:00"
   },
   {
@@ -157,38 +78,8 @@
     "ingested_at": "2026-10-31T15:29:44.761741+00:00",
     "summary": "FIGAROVOX/ENTRETIEN - Accusé de racisme sur les réseaux sociaux, le philosophe Henri Peña-Ruiz s’explique à la suite de ses propos controversés sur l’islamophobie lors d’une conférence devant les militants de la France insoumise.",
     "thumbnail": "thumbnails/cwzouu.webp",
-    "tags": [
-      "Henri Peña-Ruiz",
-      "Julien Denormandie",
-      "Libertés Fondamentales",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:41:29.752888+00:00"
-  },
-  {
-    "id": "cwq8rs",
-    "title": "En burn-out, un berger plaque tout pour devenir junior marketing strategy specialist",
-    "url": "http://franchetvinfo.fr/en-burn-out-un-berger-plaque-tout-pour-devenir-junior-marketing-strategy-specialist/?fbclid=IwAR3i37u7ORa063_SVZbRRGmUWaEJgMH_EOevyUMpja0QVVDLQhOFeQqmSxY",
-    "permalink": "/r/france/comments/cwq8rs/en_burnout_un_berger_plaque_tout_pour_devenir/",
-    "created_at": "2019-08-28T20:19:40+00:00",
-    "score": 184,
-    "num_comments": 20,
-    "subreddit": "france",
-    "author": "laviolence",
-    "flair": "Humour",
-    "domain": "franchetvinfo.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/NhtvoWzFLJkfXgLMNapVUwb9D0FTMnF_dtovBLCl8NM.jpeg?auto=webp&s=fe382af7806613c029e7d38f009422ddd259c43b",
-    "ingested_at": "2026-10-31T15:29:44.761810+00:00",
-    "summary": "J’ai voulu retrouver mes racines, c’est à dire sur un bureau à la Défense. Manuel Pite C’est une aventure peu commune que monsieur Manuel Pite à démontré dans le Cantal : vivre au vert, ce n’est pas forcément que du bonheur. Éleveur de chèvres depuis...",
-    "thumbnail": "thumbnails/cwq8rs.webp",
-    "tags": [
-      "Manuel Pite",
-      "Cantal",
-      "Défense",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:41:34.506910+00:00"
   },
   {
     "id": "cwilxd",
@@ -207,9 +98,7 @@
     "ingested_at": "2026-10-31T15:29:44.762343+00:00",
     "summary": "Business Insider tells the global tech, finance, stock market, media, economy, lifestyle, real estate, AI and innovative stories you want to know.",
     "thumbnail": "thumbnails/cwilxd.webp",
-    "tags": [
-      "Alexa Amazon"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:41:28.530968+00:00"
   },
   {
@@ -229,13 +118,7 @@
     "ingested_at": "2026-10-31T15:29:44.762186+00:00",
     "summary": "The PM says there will still be time to debate Brexit before October's deadline, but the move sparks anger and a new legal challenge.",
     "thumbnail": "thumbnails/cwhvkb.webp",
-    "tags": [
-      "Parliament",
-      "Queen",
-      "Brexit",
-      "PM",
-      "MPs"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:41:29.047986+00:00"
   },
   {
@@ -255,55 +138,8 @@
     "ingested_at": "2026-10-31T15:29:44.761689+00:00",
     "summary": "Ces chiffres sont publiés mercredi par le ministère de la Santé qui s'inquiète de leur hausse.",
     "thumbnail": "thumbnails/cwhgu3.webp",
-    "tags": [
-      "Alimentation",
-      "Santé et maladie des enfants et ados",
-      "Société"
-    ],
-    "analyzed_at": "2026-11-01T09:41:28.917283+00:00"
-  },
-  {
-    "id": "cw4h5w",
-    "title": "À défaut de pouvoir reforester l'Amazonie, reforestons la France 🌳🌲🌳🌳🌲🌲🌳🌲",
-    "url": "https://semeursdeforets.org/",
-    "permalink": "/r/france/comments/cw4h5w/à_défaut_de_pouvoir_reforester_lamazonie/",
-    "created_at": "2019-08-27T13:29:38+00:00",
-    "score": 175,
-    "num_comments": 87,
-    "subreddit": "france",
-    "author": "Vincent6m",
-    "flair": "Écologie",
-    "domain": "semeursdeforets.org",
-    "selftext": "",
-    "reddit_thumbnail": "https://b.thumbs.redditmedia.com/vDy3FklYWD9Nf7UqnW7-a0sVjJh7j56x-pZiksiXPSY.jpg",
-    "ingested_at": "2026-10-31T15:29:44.761855+00:00",
-    "summary": "Des forêts sanctuaires partout en France – Association d'Intérêt Général Des forêts sanctuaires partout en France – Association d'Intérêt Général et la laissons prospérer longtemps (pour les générations futures). Bien que la surface couverte d'arbres progresse en France, les vraies forêts disparaissent.",
-    "thumbnail": "thumbnails/cw4h5w.webp",
-    "tags": [
-      "Amazonie",
-      "Écologie"
-    ],
-    "analyzed_at": "2026-11-01T09:41:33.099869+00:00"
-  },
-  {
-    "id": "cw1a09",
-    "title": "Combien faut-il de caméras de secours à un manifestant ?",
-    "url": "https://gfycat.com/splendidfluidarcticseal",
-    "permalink": "/r/france/comments/cw1a09/combien_fautil_de_caméras_de_secours_à_un/",
-    "created_at": "2019-08-27T08:00:13+00:00",
-    "score": 640,
-    "num_comments": 227,
-    "subreddit": "france",
-    "author": "sheepNo",
-    "flair": "",
-    "domain": "gfycat.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://b.thumbs.redditmedia.com/3XxOc6CevrhbWXU_Kz6Y8D8j5JGMBCMlBW1AfmioV_E.jpg",
-    "ingested_at": "2026-10-31T15:29:44.761263+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/cw1a09.webp",
     "tags": [],
-    "analyzed_at": "2026-11-01T09:41:30.413045+00:00"
+    "analyzed_at": "2026-11-01T09:41:28.917283+00:00"
   },
   {
     "id": "cw015d",
@@ -323,11 +159,7 @@
     "summary": "Le chef de cabinet du président brésilien a conseillé à Emmanuel Macron de s'occuper \"de sa maison et de ses colonies\".",
     "thumbnail": "thumbnails/cw015d.webp",
     "tags": [
-      "Amazonie",
-      "Brésil",
-      "Emmanuel Macron",
-      "G7 de 20",
-      "G7"
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T09:41:29.541398+00:00"
   },
@@ -349,8 +181,7 @@
     "summary": "Business Insider tells the global tech, finance, stock market, media, economy, lifestyle, real estate, AI and innovative stories you want to know.",
     "thumbnail": "thumbnails/cvosnv.webp",
     "tags": [
-      "ONG",
-      "Écologie"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T09:41:29.762842+00:00"
   },
@@ -373,10 +204,7 @@
     "thumbnail": "thumbnails/cvjyoi.webp",
     "tags": [
       "Jair Bolsonaro",
-      "Emmanuel Macron",
-      "Amazonie",
-      "Education",
-      "Brigitte Macron"
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T09:41:30.297232+00:00"
   },
@@ -398,7 +226,8 @@
     "summary": "",
     "thumbnail": "thumbnails/cvbt56.webp",
     "tags": [
-      "Hongkong"
+      "Police",
+      "Manifestations"
     ],
     "analyzed_at": "2026-11-01T09:41:30.220302+00:00"
   },
@@ -420,34 +249,9 @@
     "summary": "Toute l'actualité belge et internationale sur RTBF.be : retrouvez toutes les news info, sport, culture, musique et bien plus encore et accédez aux chaînes TV, radio et marques de la RTBF.",
     "thumbnail": "thumbnails/cv9nnh.webp",
     "tags": [
-      "Afrique",
-      "Amazonie",
-      "TV",
-      "Écologie"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T09:41:33.802490+00:00"
-  },
-  {
-    "id": "cutliz",
-    "title": "The beaters - Obey Road (source en commentaire)",
-    "url": "https://pbs.twimg.com/media/ECptd5xWkAAH3bR.jpg",
-    "permalink": "/r/france/comments/cutliz/the_beaters_obey_road_source_en_commentaire/",
-    "created_at": "2019-08-24T13:48:16+00:00",
-    "score": 1432,
-    "num_comments": 27,
-    "subreddit": "france",
-    "author": "matheod",
-    "flair": "",
-    "domain": "pbs.twimg.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/ClKLljZrGDmSfFHQi9DTOqJ-lFup3COXwwU0ncVZ7pY.jpg?auto=webp&s=654324fd22c23d4dc02b213a2e4777bc151c5ffd",
-    "ingested_at": "2026-10-31T15:29:44.761088+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/cutliz.webp",
-    "tags": [
-      "Obey Road"
-    ],
-    "analyzed_at": "2026-11-01T09:41:31.033833+00:00"
   },
   {
     "id": "cuqld4",
@@ -467,33 +271,10 @@
     "summary": "Les « lanceurs de balles de défense » utilisés par la police face aux gilets jaunes ont provoqué de sérieuses fractures du visage, selon une lettre de chirurgiens parisiens publiée dans « The Lancet ». Elles ont aussi entraîné de nombreuses atteintes oculaires graves et irrémédiables",
     "thumbnail": "thumbnails/cuqld4.webp",
     "tags": [
-      "LBD",
-      "Lancet",
-      "Gilets jaunes",
-      "Sécurité",
-      "Société"
+      "Santé",
+      "Manifestations"
     ],
     "analyzed_at": "2026-11-01T09:41:31.049557+00:00"
-  },
-  {
-    "id": "cujnoi",
-    "title": "Un automobiliste français sur trois jette sans scrupule ses déchets par la fenêtre de sa voiture…",
-    "url": "https://www.neozone.org/ecologie-planete/un-automobiliste-francais-sur-trois-jette-sans-scrupule-ses-dechets-par-la-fenetre-de-sa-voiture/",
-    "permalink": "/r/france/comments/cujnoi/un_automobiliste_français_sur_trois_jette_sans/",
-    "created_at": "2019-08-23T20:45:39+00:00",
-    "score": 172,
-    "num_comments": 67,
-    "subreddit": "france",
-    "author": "[deleted]",
-    "flair": "",
-    "domain": "neozone.org",
-    "selftext": "",
-    "reddit_thumbnail": "",
-    "ingested_at": "2026-10-31T15:29:44.761877+00:00",
-    "summary": "Mégots, chewing-gum et emballages divers, près de 9000 tonnes de déchets sur les autoroutes de France en 2018... Il est grand temps de prendre conscience que les poubelles doivent être triées même en vacances !",
-    "thumbnail": "thumbnails/cujnoi.webp",
-    "tags": [],
-    "analyzed_at": "2026-11-01T09:41:31.258430+00:00"
   },
   {
     "id": "cuhgtd",
@@ -513,9 +294,7 @@
     "summary": "Le premier bilan de la gratuité des transports en commun à Dunkerque (Nord) montre une nette hausse de la fréquentation, et un nouveau dynamisme du centre-ville.",
     "thumbnail": "thumbnails/cuhgtd.webp",
     "tags": [
-      "Dunkerque",
-      "Crise climatique",
-      "Éco / Conso"
+      "Transports"
     ],
     "analyzed_at": "2026-11-01T09:41:31.803647+00:00"
   },
@@ -536,13 +315,7 @@
     "ingested_at": "2026-10-31T15:29:44.762216+00:00",
     "summary": "En Angola, au Congo, en République Démocratique Du Congo, en Tanzanie ou encore en ...",
     "thumbnail": "thumbnails/cud253.webp",
-    "tags": [
-      "Afrique",
-      "Angola",
-      "Congo",
-      "République Démocratique du Congo",
-      "Tanzanie"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:41:32.724533+00:00"
   },
   {
@@ -563,11 +336,9 @@
     "summary": "Cet accord commercial devait être signé par l'Union européenne et les pays sud-américains, au terme de près de vingt ans de négociations.",
     "thumbnail": "thumbnails/cud02q.webp",
     "tags": [
-      "Brésil",
       "Emmanuel Macron",
-      "UE-Mercosur",
-      "Accusant Jair Bolsonaro",
-      "Politique"
+      "Jair Bolsonaro",
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T09:41:31.830717+00:00"
   },
@@ -589,11 +360,7 @@
     "summary": "Depuis plusieurs jours, la ville de Toulouse voit apparaÃ®tre des tags dans le quartier de Busca, en centre-ville. Sur les trottoirs on peut lire, Ã©crits Ã la craie, le nom des \"mauvaises herbes\" qui poussent dans la rue. Deux botanistes ont avouÃ© en Ãªtre Ã l'origine.",
     "thumbnail": "thumbnails/cuasba.webp",
     "tags": [
-      "Toulouse",
-      "Ãªtre Ã",
-      "Nature",
-      "Busca",
-      "Écologie"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T09:41:34.352268+00:00"
   },
@@ -615,11 +382,8 @@
     "summary": "Les signataires demandent, sur franceinfo.fr, au président de la République d'accélérer sur la finance verte et de rallier les grandes puissances pour réduire les gaz à effet de serre.",
     "thumbnail": "thumbnails/cuapm3.webp",
     "tags": [
-      "Emmanuel Macron",
-      "G7",
-      "État",
-      "République",
-      "Écologie"
+      "Environnement",
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T09:41:32.517333+00:00"
   },
@@ -641,10 +405,8 @@
     "summary": "Jair Bolsonaro a vertement répondu à l'interpellation d'Emmanuel Macron sur les feux qui ravagent l'Amazonie depuis plusieurs semaines. L'Elysée a riposté en fin de matinée, affirmant que la France est \"légitime\" sur le sujet.",
     "thumbnail": "thumbnails/cu9qpb.webp",
     "tags": [
-      "Amazonie",
-      "Macron",
-      "Jair Bolsonaro",
-      "Emmanuel Macron"
+      "Emmanuel Macron",
+      "Jair Bolsonaro"
     ],
     "analyzed_at": "2026-11-01T09:41:32.521235+00:00"
   },
@@ -665,13 +427,7 @@
     "ingested_at": "2026-10-31T15:29:44.761420+00:00",
     "summary": "",
     "thumbnail": "thumbnails/cu0c7q.webp",
-    "tags": [
-      "Louisiana Says Oui",
-      "French",
-      "Amid Explosion",
-      "Dual-Language Schools",
-      "Culture"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:41:33.684277+00:00"
   },
   {
@@ -691,9 +447,7 @@
     "ingested_at": "2026-10-31T15:29:44.761948+00:00",
     "summary": "",
     "thumbnail": "thumbnails/ctvhhl.webp",
-    "tags": [
-      "Économie"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:41:32.920704+00:00"
   },
   {
@@ -713,39 +467,8 @@
     "ingested_at": "2026-10-31T15:29:44.762506+00:00",
     "summary": "Certaines plages normandes se vident peu à peu de leurs galets : le constat n'est pas nouveau, mais devient alarmant à chaque fin d'été. En effet, l'afflux de touristes est la principale cause de la pénurie, surtout à Étretat. État des lieux en cette fin de saison estivale.",
     "thumbnail": "thumbnails/ctfnde.webp",
-    "tags": [
-      "Étretat",
-      "Mairie – Municipalité",
-      "Mer - Océan",
-      "Protection de l'environnement",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:41:33.027197+00:00"
-  },
-  {
-    "id": "cteldi",
-    "title": "Donald Trump accuse le Danemark de posséder des armes de destructions massives au Groenland",
-    "url": "http://www.legorafi.fr/2019/08/21/donald-trump-accuse-le-danemark-de-posseder-des-armes-de-destructions-massives-au-groenland/",
-    "permalink": "/r/france/comments/cteldi/donald_trump_accuse_le_danemark_de_posséder_des/",
-    "created_at": "2019-08-21T09:51:04+00:00",
-    "score": 845,
-    "num_comments": 82,
-    "subreddit": "france",
-    "author": "sitarane",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/rm-3DoTIyBKYO0KcBkaJLY75dV_G0_E4-iU3Z-ZTg24.jpg?auto=webp&s=ca672231061e3ef1e5d993c7049123f7489c3ee2",
-    "ingested_at": "2026-10-31T15:29:44.761195+00:00",
-    "summary": "Donald Trump a de nouveau marqué sa défiance vis à vis du Danemark en l'accusant explicitement de posséder des armes des destructions massives. Des armes qui seraient actuellement déployées au Groenland et susceptibles d'atteindre des intérêts américains. Reportage.",
-    "thumbnail": "thumbnails/cteldi.webp",
-    "tags": [
-      "Danemark",
-      "Donald Trump",
-      "Groenland",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:41:33.021486+00:00"
   },
   {
     "id": "ctefuv",
@@ -765,11 +488,8 @@
     "summary": "Une dizaine d'associations de défense de la communauté juive ont réagi, accusant le président américain d'user d'une rhétorique antisémite.",
     "thumbnail": "thumbnails/ctefuv.webp",
     "tags": [
-      "Donald Trump",
-      "États-Unis",
-      "Israël",
-      "International",
-      "Antisémitisme"
+      "Antisémitisme",
+      "Donald Trump"
     ],
     "analyzed_at": "2026-11-01T09:41:33.556233+00:00"
   },
@@ -790,13 +510,7 @@
     "ingested_at": "2026-10-31T15:29:44.761971+00:00",
     "summary": "Le député de l’Essonne s’apprête à annoncer, début septembre, sa candidature aux municipales. Une alternative à la liste officielle LREM de Benjamin Griveaux. Rencontre sur son lieu de vacances.",
     "thumbnail": "thumbnails/ctcobx.webp",
-    "tags": [
-      "Essonne",
-      "LREM de Benjamin Griveaux",
-      "Cédric Villani",
-      "LREM",
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:41:33.979404+00:00"
   },
   {
@@ -816,60 +530,8 @@
     "ingested_at": "2026-10-31T15:29:44.762878+00:00",
     "summary": "VIDÉO - L'association, connue pour ses vidéos chocs tournées dans les élevages d'animaux, dénonce l'élevage des lapins.",
     "thumbnail": "thumbnails/csucyc.webp",
-    "tags": [
-      "Animaux",
-      "Associations",
-      "Maltraitance",
-      "Société",
-      "Vidéo"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:41:33.440496+00:00"
-  },
-  {
-    "id": "csuaq2",
-    "title": "En 1900, il y avait un trottoir roulant à Paris",
-    "url": "https://gfycat.com/ancientoptimisticdalmatian",
-    "permalink": "/r/france/comments/csuaq2/en_1900_il_y_avait_un_trottoir_roulant_à_paris/",
-    "created_at": "2019-08-20T07:31:06+00:00",
-    "score": 157,
-    "num_comments": 48,
-    "subreddit": "france",
-    "author": "gevreyc",
-    "flair": "Culture",
-    "domain": "gfycat.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://b.thumbs.redditmedia.com/1q0S356As-wXf2GLMUfuuK2w5BPCebkDx33Bv3sv81M.jpg",
-    "ingested_at": "2026-10-31T15:29:44.762057+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/csuaq2.webp",
-    "tags": [
-      "Paris",
-      "Culture"
-    ],
-    "analyzed_at": "2026-11-01T09:41:33.942949+00:00"
-  },
-  {
-    "id": "csjqpa",
-    "title": "Les polémiques autour du voyage de Greta Thunberg accusées d’avoir provoqué une hausse de 5° de la température mondiale",
-    "url": "http://www.legorafi.fr/2019/08/19/les-polemiques-autour-du-voyage-de-greta-thunberg-accusees-davoir-provoque-une-hausse-de-5-de-la-temperature-mondiale/",
-    "permalink": "/r/france/comments/csjqpa/les_polémiques_autour_du_voyage_de_greta_thunberg/",
-    "created_at": "2019-08-19T16:49:11+00:00",
-    "score": 144,
-    "num_comments": 17,
-    "subreddit": "france",
-    "author": "Thomix2003",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/pHlvMrnTf5rnsB8zmaIBmDDEybpBEgaQ0UPUW4Cn1AA.jpeg?auto=webp&s=2d2857a260c44e327c3521f5f2463de9b74ccdb1",
-    "ingested_at": "2026-10-31T15:29:44.762244+00:00",
-    "summary": "Selon une étude publiée ce jour, il apparaît que les polémiques de ce week-end et des jours précédents autour du voyage en voilier de Greta Thunberg n'ont pas été sans conséquences. En effet, il a été ainsi observé une hausse notable de la température mondiale de près de 5°.",
-    "thumbnail": "thumbnails/csjqpa.webp",
-    "tags": [
-      "Greta Thunberg",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:41:33.695561+00:00"
   },
   {
     "id": "csfm4l",
@@ -888,13 +550,7 @@
     "ingested_at": "2026-10-31T15:29:44.762127+00:00",
     "summary": "A la fin du mois de juillet dernier, trois touristes sud-américaines sont arrêtées par la police aux frontières de l'aéroport de Roissy-Charles de Gaulle. Elles sont ensuite placées en rétention à Paris puis Oissel près de Rouen sans motif valable. Une affaire qui ressemble à un véritable cauchemar.",
     "thumbnail": "thumbnails/csfm4l.webp",
-    "tags": [
-      "Rouen",
-      "Aéroports",
-      "Prison",
-      "Tourisme",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:41:35.096976+00:00"
   },
   {
@@ -914,9 +570,7 @@
     "ingested_at": "2026-10-31T15:29:44.762770+00:00",
     "summary": "Le couple, qui voulait repartir avec un « souvenir », risque entre un et six ans de prison.",
     "thumbnail": "thumbnails/crz33q.webp",
-    "tags": [
-      "Sardaigne"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:41:34.090596+00:00"
   },
   {
@@ -937,9 +591,7 @@
     "summary": "Le professeur Jean-Paul Vernant et un collectif de médecins hospitaliers appellent à rapatrier en Europe la production des principes actifs pour lutter contre les pénuries de médicaments qui se multiplient. Retrouvez leur tribune dans le JDD.",
     "thumbnail": "thumbnails/crylvz.webp",
     "tags": [
-      "Europe",
-      "Jean-Paul Vernant",
-      "JDD"
+      "Santé"
     ],
     "analyzed_at": "2026-11-01T09:41:34.447072+00:00"
   },
@@ -961,8 +613,8 @@
     "summary": "",
     "thumbnail": "thumbnails/crlr60.webp",
     "tags": [
-      "Rugy",
-      "Politique"
+      "François de Rugy",
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T09:41:37.755747+00:00"
   },
@@ -987,28 +639,6 @@
     "analyzed_at": "2026-11-01T09:41:35.192136+00:00"
   },
   {
-    "id": "cr2hom",
-    "title": "Bande annonce 2",
-    "url": "https://gfycat.com/decentimmenseegret",
-    "permalink": "/r/france/comments/cr2hom/bande_annonce_2/",
-    "created_at": "2019-08-16T06:29:36+00:00",
-    "score": 606,
-    "num_comments": 46,
-    "subreddit": "france",
-    "author": "ZeHiR31",
-    "flair": "Méta",
-    "domain": "gfycat.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://b.thumbs.redditmedia.com/52pmpTzq1Ma5Oe5ERN3ShJC1wvx7WgrWHu87y_2P3gQ.jpg",
-    "ingested_at": "2026-10-31T15:29:44.761310+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/cr2hom.webp",
-    "tags": [
-      "Méta"
-    ],
-    "analyzed_at": "2026-11-01T09:41:35.724214+00:00"
-  },
-  {
     "id": "cr0h4t",
     "title": "‘French Spiderman’ Climbs Li Ka-Shing’s Hong Kong Skyscraper, Hangs Peace Flag",
     "url": "https://www.bloomberg.com/news/articles/2019-08-16/man-climbs-li-ka-shing-s-hong-kong-skyscraper-hangs-peace-flag",
@@ -1025,9 +655,7 @@
     "ingested_at": "2026-10-31T15:29:44.762444+00:00",
     "summary": "",
     "thumbnail": "thumbnails/cr0h4t.webp",
-    "tags": [
-      "Hangs Peace Flag"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:41:36.064307+00:00"
   },
   {
@@ -1047,9 +675,7 @@
     "ingested_at": "2026-10-31T15:29:44.762964+00:00",
     "summary": "",
     "thumbnail": "thumbnails/cqpime.webp",
-    "tags": [
-      "BFM-TV"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:41:34.706576+00:00"
   },
   {
@@ -1070,9 +696,7 @@
     "summary": "Wall Street a ouvert en forte baisse, en raison de l'inversion de la courbe des taux. Un indicateur qui annonce généralement une récession. Le taux d'intérêt sur les bons du Trésor américains à dix ans est passé temporairement sous celui des bons à deux ans, ce qui n'était plus arrivé depuis 2007.",
     "thumbnail": "thumbnails/cqmt4x.webp",
     "tags": [
-      "Wall Street",
-      "Trésor",
-      "Compteur"
+      "Économie"
     ],
     "analyzed_at": "2026-11-01T09:41:40.117654+00:00"
   },
@@ -1094,10 +718,8 @@
     "summary": "\"Nous avons découvert que la visibilité des négateurs du climat a été 49% plus importante que celle du changement climatique\", pointe une étude de \"Nature Communications\".",
     "thumbnail": "thumbnails/cqc6nm.webp",
     "tags": [
-      "Nature Communications",
-      "Crise climatique",
-      "Éco / Conso",
-      "Écologie"
+      "Environnement",
+      "Médias"
     ],
     "analyzed_at": "2026-11-01T09:41:35.344209+00:00"
   },
@@ -1139,7 +761,7 @@
     "summary": "",
     "thumbnail": "thumbnails/cpt0yo.webp",
     "tags": [
-      "ARTE"
+      "Extrême droite"
     ],
     "analyzed_at": "2026-11-01T09:41:36.896509+00:00"
   },
@@ -1160,40 +782,8 @@
     "ingested_at": "2026-10-31T15:29:44.762792+00:00",
     "summary": "Jeffrey Epstein, inculpé pour trafic sexuel de mineures et retrouvé mort dans sa prison de Manhattan, possédait un appartement dans les beaux quartiers de Paris. L’agent de mannequins français Jean-L…",
     "thumbnail": "thumbnails/cpr3fz.webp",
-    "tags": [
-      "Jeffrey Epstein",
-      "Jean-Luc Brunel",
-      "Manhattan",
-      "Paris",
-      "Jean-L"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:41:36.385153+00:00"
-  },
-  {
-    "id": "cpeukf",
-    "title": "Pour se sentir encore plus proche des Français, Emmanuel Macron tague « Qui a tué Steve ? » sur les façades d’une permanence LaRem",
-    "url": "http://www.legorafi.fr/2019/08/12/pour-se-sentir-encore-plus-proche-des-francais-emmanuel-macron-tague-qui-a-tue-steve-sur-les-facades-dune-permanence-larem/",
-    "permalink": "/r/france/comments/cpeukf/pour_se_sentir_encore_plus_proche_des_français/",
-    "created_at": "2019-08-12T16:36:49+00:00",
-    "score": 113,
-    "num_comments": 4,
-    "subreddit": "france",
-    "author": "Thomix2003",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/xz0CJJJ97YdHuLd2hjralGwOagllGjKTpBiQQ1UXgH0.jpeg?auto=webp&s=8e0d7b9e23edb10a2865d823ab4ab7728d35f6a5",
-    "ingested_at": "2026-10-31T15:29:44.762690+00:00",
-    "summary": "Le président français a été aperçu ce matin en train de taguer une permanence d'un député En Marche, non loin de son lieu de vacances. Une volonté affichée de sa part de se rapprocher des préoccupations des Français et de leur quotidien. Reportage.",
-    "thumbnail": "thumbnails/cpeukf.webp",
-    "tags": [
-      "Emmanuel Macron",
-      "Steve",
-      "LaRem",
-      "Marche",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:41:35.477892+00:00"
   },
   {
     "id": "cp8ax7",
@@ -1213,37 +803,9 @@
     "summary": "La nouvelle mesure mise en place, ce mercredi, par la SNCF devrait faire grincer quelques dents. Désormais, le prix du billet acheté à bord d'un TER sera majoré même si les gares de départ ne disposent pas d'un guichet voyageurs ou d'un distributeur de billets opérationnel.",
     "thumbnail": "thumbnails/cp8ax7.webp",
     "tags": [
-      "TER",
-      "SNCF",
-      "Pays de la Loire"
+      "Transports"
     ],
     "analyzed_at": "2026-11-01T09:41:36.283928+00:00"
-  },
-  {
-    "id": "covy57",
-    "title": "Le CERN abandonne Microsoft et passe au logiciel libre",
-    "url": "https://www.zdnet.com/article/cern-leaves-microsoft-programs-behind-for-open-source-software/",
-    "permalink": "/r/france/comments/covy57/le_cern_abandonne_microsoft_et_passe_au_logiciel/",
-    "created_at": "2019-08-11T12:04:11+00:00",
-    "score": 1034,
-    "num_comments": 178,
-    "subreddit": "france",
-    "author": "PierresNoires",
-    "flair": "Science",
-    "domain": "zdnet.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/Js3o53bvez-jUDgmBDpjyUIAYY-ONojyjVcLSYsC2jE.jpg?auto=webp&s=5e2b0ca86f4e2362044b8801ed549d4837a10c0f",
-    "ingested_at": "2026-10-31T15:29:44.761171+00:00",
-    "summary": "A price tag hike has CERN, one of the world's leading scientific research organizations, moving from Microsoft programs for more affordable open-source software.",
-    "thumbnail": "thumbnails/covy57.webp",
-    "tags": [
-      "CERN",
-      "Microsoft",
-      "Microsoft Alternatives",
-      "Linux",
-      "Science"
-    ],
-    "analyzed_at": "2026-11-01T09:41:36.332063+00:00"
   },
   {
     "id": "cou03s",
@@ -1263,8 +825,7 @@
     "summary": "",
     "thumbnail": "thumbnails/cou03s.webp",
     "tags": [
-      "Jeffrey Epstein",
-      "Compteur"
+      "Justice"
     ],
     "analyzed_at": "2026-11-01T09:41:41.337423+00:00"
   },
@@ -1285,34 +846,8 @@
     "ingested_at": "2026-10-31T15:29:44.761665+00:00",
     "summary": "Jeffrey Epstein a été retrouvé mort samedi dans sa cellule de la prison où il était détenu à Manhattan.",
     "thumbnail": "thumbnails/cohxvf.webp",
-    "tags": [
-      "Jeffrey Epstein",
-      "Manhattan"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:41:37.404157+00:00"
-  },
-  {
-    "id": "cobhi7",
-    "title": "Pendant ce temps-là en Angleterre, un américain découvre le concept de congés payés...",
-    "url": "https://old.reddit.com/r/CasualUK/comments/cnjlws/im_an_american_starting_my_first_job_in_the_uk/",
-    "permalink": "/r/france/comments/cobhi7/pendant_ce_tempslà_en_angleterre_un_américain/",
-    "created_at": "2019-08-10T01:14:09+00:00",
-    "score": 128,
-    "num_comments": 88,
-    "subreddit": "france",
-    "author": "OlivierDeCarglass",
-    "flair": "Société",
-    "domain": "old.reddit.com",
-    "selftext": "",
-    "reddit_thumbnail": "",
-    "ingested_at": "2026-10-31T15:29:44.762409+00:00",
-    "summary": "",
-    "thumbnail": "",
-    "tags": [
-      "Angleterre",
-      "Société"
-    ],
-    "analyzed_at": "2026-11-01T09:41:38.909806+00:00"
   },
   {
     "id": "co768j",
@@ -1332,9 +867,7 @@
     "summary": "",
     "thumbnail": "thumbnails/co768j.webp",
     "tags": [
-      "Drian",
-      "Trump",
-      "Iran"
+      "Donald Trump"
     ],
     "analyzed_at": "2026-11-01T09:41:36.653723+00:00"
   },
@@ -1356,79 +889,9 @@
     "summary": "",
     "thumbnail": "thumbnails/cnyl7b.webp",
     "tags": [
-      "Groenland",
-      "Écologie"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T09:41:38.106848+00:00"
-  },
-  {
-    "id": "cnkind",
-    "title": "Campagne « Plastique Stupide » : votez ici pour les emballages les plus stupides !",
-    "url": "https://consommonssainement.com/plastique-stupide-vote/",
-    "permalink": "/r/france/comments/cnkind/campagne_plastique_stupide_votez_ici_pour_les/",
-    "created_at": "2019-08-08T11:38:31+00:00",
-    "score": 232,
-    "num_comments": 129,
-    "subreddit": "france",
-    "author": "[deleted]",
-    "flair": "",
-    "domain": "consommonssainement.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/rRWov5pS7pj5qE4cS8ZuK4BypOcHNSRm9bedpXcBBVM.jpg?auto=webp&s=715426f7a8ed34212bb9b21fc7b9c2359a8cf3fb",
-    "ingested_at": "2026-10-31T15:29:44.761621+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/cnkind.webp",
-    "tags": [
-      "Plastique Stupide"
-    ],
-    "analyzed_at": "2026-11-01T09:41:38.089876+00:00"
-  },
-  {
-    "id": "cnk24j",
-    "title": "La tribune du chef",
-    "url": "https://gfycat.com/fr/vaguespotlessequine",
-    "permalink": "/r/france/comments/cnk24j/la_tribune_du_chef/",
-    "created_at": "2019-08-08T10:52:37+00:00",
-    "score": 746,
-    "num_comments": 81,
-    "subreddit": "france",
-    "author": "lasoeurdupape",
-    "flair": "OP=Con",
-    "domain": "gfycat.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://b.thumbs.redditmedia.com/9sIp-4oSRXG9-724OvwPPmh5nl9hroAAhfrXRO389gQ.jpg",
-    "ingested_at": "2026-10-31T15:29:44.761218+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/cnk24j.webp",
-    "tags": [
-      "Lescons2 GIFs",
-      "Gif",
-      "Animated",
-      "OP=Con"
-    ],
-    "analyzed_at": "2026-11-01T09:41:43.476235+00:00"
-  },
-  {
-    "id": "cni7sf",
-    "title": "Appel pour ouvrir un débat public sur les conditions du consentement à la circoncision",
-    "url": "https://www.droitaucorps.com/appel-debat-conditions-consentement-circoncision",
-    "permalink": "/r/france/comments/cni7sf/appel_pour_ouvrir_un_débat_public_sur_les/",
-    "created_at": "2019-08-08T07:18:45+00:00",
-    "score": 515,
-    "num_comments": 620,
-    "subreddit": "france",
-    "author": "Youri66",
-    "flair": "Société",
-    "domain": "droitaucorps.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/LY5npoLwBcmwZI-w2Ovo6DmhVHrDq1xQZkOCVw-OTKI.jpeg?auto=webp&s=d1bb4660f087c7f2defcef8e1cc917736ae38e89",
-    "ingested_at": "2026-10-31T15:29:44.761354+00:00",
-    "summary": "Lire et signer l'Appel pour ouvrir un débat public sur les conditions du consentement à la circoncision.",
-    "thumbnail": "thumbnails/cni7sf.webp",
-    "tags": [
-      "Société"
-    ],
-    "analyzed_at": "2026-11-01T09:41:38.345730+00:00"
   },
   {
     "id": "cnehni",
@@ -1447,13 +910,7 @@
     "ingested_at": "2026-10-31T15:29:44.762595+00:00",
     "summary": "Health minister confirms plans and calls on neighbouring countries to relax their laws",
     "thumbnail": "thumbnails/cnehni.webp",
-    "tags": [
-      "European",
-      "Luxembourg",
-      "US",
-      "Canada",
-      "Europe"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:41:38.201007+00:00"
   },
   {
@@ -1473,10 +930,7 @@
     "ingested_at": "2026-10-31T15:29:44.761554+00:00",
     "summary": "Avec cette mesure, les municipalités espèrent lutter contre le tabagisme passif et protéger le littoral",
     "thumbnail": "thumbnails/cn4iy0.webp",
-    "tags": [
-      "Saint-Malo",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:41:38.541961+00:00"
   },
   {
@@ -1497,11 +951,7 @@
     "summary": "A la SNCF, les contrôleurs sont une variable d'ajustement. Une agent raconte le malaise de sa profession. Reportage en TER, départ de St-Dié.",
     "thumbnail": "thumbnails/cn3ztx.webp",
     "tags": [
-      "SNCF",
-      "Contrôleur SNCF",
-      "TER",
-      "St-Dié",
-      "Société"
+      "Transports"
     ],
     "analyzed_at": "2026-11-01T09:41:39.431866+00:00"
   },
@@ -1523,7 +973,7 @@
     "summary": "",
     "thumbnail": "thumbnails/cn3tv7.webp",
     "tags": [
-      "Texas"
+      "Éducation"
     ],
     "analyzed_at": "2026-11-01T09:41:39.403470+00:00"
   },
@@ -1545,39 +995,9 @@
     "summary": "Une enquête menée en un peu plus de deux heures a permis aux gendarmes d'Ille-et-Vilaine de mettre fin à la scène de lynchage diffusée en direct par le tortionnaire",
     "thumbnail": "thumbnails/cn3e17.webp",
     "tags": [
-      "Facebook",
-      "Ille-et-Vilaine",
-      "Faits divers",
-      "Thématiques",
-      "Société"
+      "Police"
     ],
     "analyzed_at": "2026-11-01T09:41:39.757709+00:00"
-  },
-  {
-    "id": "cn38t8",
-    "title": "Générateur de bio LinkedIn",
-    "url": "https://www.fier-panda.fr/generator/bio-linkedin/",
-    "permalink": "/r/france/comments/cn38t8/générateur_de_bio_linkedin/",
-    "created_at": "2019-08-07T08:45:05+00:00",
-    "score": 307,
-    "num_comments": 44,
-    "subreddit": "france",
-    "author": "[deleted]",
-    "flair": "",
-    "domain": "fier-panda.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/NRiSzlagB07CSn0cDwPQs6PEd_rCHvp-NOWJYLYmmTE.jpeg?auto=webp&s=20a5f42412670c808e8395b91da59ea6944aa1d0",
-    "ingested_at": "2026-10-31T15:29:44.761443+00:00",
-    "summary": "Fier Panda | Homepage media Numéro 04 Édition collector Avril 2026 Média casino 18+ Jeu réservé aux adultes Fier Panda ActualitéLes signaux à lire avant la prochaine miseVeille, tendances et décisions à replacer dans leur contexte.",
-    "thumbnail": "thumbnails/cn38t8.webp",
-    "tags": [
-      "LinkedIn",
-      "Numéro 04",
-      "Édition",
-      "Média",
-      "Fier Panda ActualitéLes"
-    ],
-    "analyzed_at": "2026-11-01T09:41:39.962274+00:00"
   },
   {
     "id": "cmn4n7",
@@ -1596,39 +1016,8 @@
     "ingested_at": "2026-10-31T15:29:44.762014+00:00",
     "summary": "Jean-Mathieu Michel avait demandé aux deux ouvriers de recharger leurs gravats, il a ensuite été percuté par le camion. Les deux hommes ont été placés en garde à vue, celle du conducteur a été prolongée, celle du passager levée. La piste accidentelle est privilégiée par les enquêteurs.",
     "thumbnail": "thumbnails/cmn4n7.webp",
-    "tags": [
-      "Signes",
-      "Jean-Mathieu Michel",
-      "Var",
-      "Trappes",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:41:39.550913+00:00"
-  },
-  {
-    "id": "cmm2xp",
-    "title": "Les ripoux du lundi matin",
-    "url": "https://gfycat.com/fr/everlastingyellowgilamonster",
-    "permalink": "/r/france/comments/cmm2xp/les_ripoux_du_lundi_matin/",
-    "created_at": "2019-08-06T04:42:49+00:00",
-    "score": 1262,
-    "num_comments": 32,
-    "subreddit": "france",
-    "author": "KinderCountry",
-    "flair": "COQ",
-    "domain": "gfycat.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://b.thumbs.redditmedia.com/j0lIvjGiXCpQ2ReOzOgp9XB7fE8UdCmcHRltyUPWNfQ.jpg",
-    "ingested_at": "2026-10-31T15:29:44.761143+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/cmm2xp.webp",
-    "tags": [
-      "Lesripoux GIFs",
-      "Gif",
-      "Animated",
-      "COQ"
-    ],
-    "analyzed_at": "2026-11-01T09:41:50.031802+00:00"
   },
   {
     "id": "cmbnid",
@@ -1651,53 +1040,6 @@
     "analyzed_at": "2026-11-01T09:41:40.022412+00:00"
   },
   {
-    "id": "cmafqh",
-    "title": "Mis en cause dans une enquête de Mediapart, Sauron refuse de démissionner et « assume »",
-    "url": "http://www.legorafi.fr/2019/07/29/mis-en-cause-dans-une-enquete-de-mediapart-sauron-refuse-de-demissionner-et-assume/",
-    "permalink": "/r/france/comments/cmafqh/mis_en_cause_dans_une_enquête_de_mediapart_sauron/",
-    "created_at": "2019-08-05T12:36:22+00:00",
-    "score": 284,
-    "num_comments": 40,
-    "subreddit": "france",
-    "author": "Todd_superstar",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/pglgYhXjLFHDbznIqhIgEUaDcw5DXJ94vNt4SoYRQSo.jpeg?auto=webp&s=910c0c1b1133f9d5c206de6ae89b6d9f5fc82af8",
-    "ingested_at": "2026-10-31T15:29:44.761513+00:00",
-    "summary": "Mordor – Alors qu'une nouvelle enquête de Mediapart met en avant la responsabilité de Sauron et de ses proches dans le saccage de la Comté, celui-ci refuse toujours de démissionner pointant du doigt une enquête « à charge » tout affirmant « assumer ». Reportage.",
-    "thumbnail": "thumbnails/cmafqh.webp",
-    "tags": [
-      "Mediapart",
-      "Comté",
-      "Sauron",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:41:39.748610+00:00"
-  },
-  {
-    "id": "clyu9r",
-    "title": "Chronopost va se lancer dans la livraison de colis",
-    "url": "https://francebaguette.fr/chronopost-va-se-lancer-dans-la-livraison-de-colis",
-    "permalink": "/r/france/comments/clyu9r/chronopost_va_se_lancer_dans_la_livraison_de_colis/",
-    "created_at": "2019-08-04T17:17:11+00:00",
-    "score": 184,
-    "num_comments": 38,
-    "subreddit": "france",
-    "author": "D3rrien",
-    "flair": "Humour",
-    "domain": "francebaguette.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://b.thumbs.redditmedia.com/TbfCwrA8ojsIeGZE2ByyrFvqLOoN9wW1oYeKOyRnYLs.jpg",
-    "ingested_at": "2026-10-31T15:29:44.761787+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/clyu9r.webp",
-    "tags": [
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:41:42.677993+00:00"
-  },
-  {
     "id": "cltf72",
     "title": "Le Français Franky Zapata réussit la première traversée de la Manche en Flyboard, la machine volante qu'il a inventée",
     "url": "https://www.francetvinfo.fr/sports/sports-extremes/le-francais-franky-zapata-reussit-la-premiere-traversee-de-la-manche-en-flyboard-la-machine-volante-qu-il-a-inventee_3564171.html",
@@ -1714,13 +1056,7 @@
     "ingested_at": "2026-10-31T15:29:44.761332+00:00",
     "summary": "Le 25 juillet, l'inventeur avait chuté en mer à mi-parcours, en tentant de se ravitailler en carburant sur un bateau.",
     "thumbnail": "thumbnails/cltf72.webp",
-    "tags": [
-      "Manche",
-      "Flyboard",
-      "Français Franky Zapata",
-      "Franky Zapata",
-      "Sports extrêmes"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:41:40.867168+00:00"
   },
   {
@@ -1741,38 +1077,9 @@
     "summary": "Appelés sur place pour un malaise, ils racontent un \"mouvement de panique impressionnant\" après l'emploi de gaz lacrymogène, et disent avoir vu des personnes à l'eau.",
     "thumbnail": "thumbnails/clhxa0.webp",
     "tags": [
-      "Steve",
-      "Nantes",
-      "IGPN",
-      "Mort de Steve Maia Caniço",
-      "Mort de Steve Maia Caniço à Nantes"
+      "Police"
     ],
     "analyzed_at": "2026-11-01T09:41:41.108331+00:00"
-  },
-  {
-    "id": "clgs6l",
-    "title": "Steve : la version des secouristes accable la police",
-    "url": "https://www.presseocean.fr/actualite/nantes-steve-la-version-des-secouristes-accable-la-police-03-08-2019-310333",
-    "permalink": "/r/france/comments/clgs6l/steve_la_version_des_secouristes_accable_la_police/",
-    "created_at": "2019-08-03T09:08:19+00:00",
-    "score": 129,
-    "num_comments": 47,
-    "subreddit": "france",
-    "author": "elemiah_",
-    "flair": "Actus",
-    "domain": "presseocean.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/90GzdcpY1hAYSsR8c6G3ZyGBRa1ypwx1bnTsGNEa0LY.jpg?auto=webp&s=c7a06dd41b21e57e33e20ca4f8b6c2e9657a0e52",
-    "ingested_at": "2026-10-31T15:29:44.762375+00:00",
-    "summary": "Mobilisés quai Wilson, à Nantes, la nuit de la Fête de la musique, des agents de la Protection civile livrent leurs vérités sur l’intervention de la police, qu’ils jugent",
-    "thumbnail": "thumbnails/clgs6l.webp",
-    "tags": [
-      "Wilson",
-      "Protection",
-      "Nantes",
-      "Fête"
-    ],
-    "analyzed_at": "2026-11-01T09:41:46.083742+00:00"
   },
   {
     "id": "cl5jky",
@@ -1791,9 +1098,7 @@
     "ingested_at": "2026-10-31T15:29:44.761377+00:00",
     "summary": "Consommant 15 fois plus d’électricité que les panneaux rétro-éclairés ils sont le symbole de tout ce que notre société de consommation a produit de plus absurde : des objets inutiles, poussant à la consommation, énergivores, polluants et agressifs.",
     "thumbnail": "thumbnails/cl5jky.webp",
-    "tags": [
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:41:40.346156+00:00"
   },
   {
@@ -1814,11 +1119,8 @@
     "summary": "Les 70 millions d'euros d'aide promis n'ont pas suffi à calmer la colère des grévistes.",
     "thumbnail": "thumbnails/ckytts.webp",
     "tags": [
-      "Grève aux urgences",
-      "Hôpital",
-      "Politique de santé",
-      "Grève et manifestations",
-      "Société"
+      "Grèves et syndicats",
+      "Santé"
     ],
     "analyzed_at": "2026-11-01T09:41:41.271429+00:00"
   },
@@ -1839,9 +1141,7 @@
     "ingested_at": "2026-10-31T15:29:44.761833+00:00",
     "summary": "",
     "thumbnail": "thumbnails/ckpcdu.webp",
-    "tags": [
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:41:44.539556+00:00"
   },
   {
@@ -1862,9 +1162,7 @@
     "summary": "Les zones d’ombre de l’enquête de l’IGPN sur la mort de Steve Maia Caniço sont patentes. Selon nos informations, le responsable de l’unité de CRS, présent sur les lieux, n'a pas été auditionné, et l’…",
     "thumbnail": "thumbnails/ckp0xb.webp",
     "tags": [
-      "IGPN",
-      "Steve Maia Caniço",
-      "CRS"
+      "Police"
     ],
     "analyzed_at": "2026-11-01T09:41:41.903931+00:00"
   }

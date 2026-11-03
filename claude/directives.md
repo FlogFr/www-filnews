@@ -76,6 +76,17 @@ jour dès qu'une règle change ou qu'une préférence du propriétaire est expri
   dans GitHub Actions (`.github/workflows/nightly.yml`, qui publie sur `pages`)
   et peuvent toujours être lancées en local. Le workflow doit rester **gratuit**
   (runners hébergés, dépôt public, pas de service payant).
+- Tags : uniquement **personnalités politiques** et **grands thèmes politiques
+  et sociétaux** (`filnews/vocabulary.py`) ; pas de lieux, organisations ni
+  flairs génériques.
+- Médias : liste blanche de médias autorisés + liste de sites refusés
+  (`filnews/media.py`) ; mettre la doc à jour à chaque changement de liste.
+- Slogan : « L'actualité vue par r/france » (r/france ne représente pas « les
+  Français »).
+- Mentions légales sans contact ni identité de l'éditeur (éditeur non
+  professionnel, LCEN art. 6-III-2) ; le code source reste public sur GitHub.
+- Design : suivre les maquettes de `design/*.png` en gardant l'identité
+  actuelle (couleurs, polices, mode sombre).
 - Les anciens templates du thème et l'ancien code Django ont été supprimés
   (récupérables dans l'historique git).
 

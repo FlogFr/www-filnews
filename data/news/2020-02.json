@@ -17,9 +17,8 @@
     "summary": "Le gouvernement a pris la décision samedi midi d'utiliser l'article 49-3 sur la réforme des retraites. Le Premier ministre, Edouard Philippe, s'est rendu à l'Assemblée nationale pour l'annoncer aux députés.",
     "thumbnail": "thumbnails/fbentc.webp",
     "tags": [
-      "Edouard Philippe",
-      "Premier",
-      "Assemblée"
+      "Édouard Philippe",
+      "Retraites"
     ],
     "analyzed_at": "2026-11-01T09:40:35.752082+00:00"
   },
@@ -40,13 +39,7 @@
     "ingested_at": "2026-10-31T15:37:49.991403+00:00",
     "summary": "Revivez les temps forts de la 45e édition des César qui s'est déroulée vendredi soir, salle Pleyel, à Paris",
     "thumbnail": "thumbnails/fb3n0i.webp",
-    "tags": [
-      "César",
-      "Roman Polanski",
-      "Pleyel",
-      "Paris",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:40:36.026271+00:00"
   },
   {
@@ -66,12 +59,7 @@
     "ingested_at": "2026-10-31T15:37:49.991324+00:00",
     "summary": "Plusieurs incendies ont été déclenchés vendredi en fin d'après-midi dans le 12e arrondissement de Paris en marge du concert de Fally Ipupa, star en République",
     "thumbnail": "thumbnails/fay1kd.webp",
-    "tags": [
-      "Paris",
-      "Fally Ipupa",
-      "Gare de Lyon",
-      "République"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:40:35.724818+00:00"
   },
   {
@@ -91,12 +79,7 @@
     "ingested_at": "2026-10-31T15:37:49.991187+00:00",
     "summary": "Le Pr Charles-Hugo Marquette, chef de service de la pneumologie au CHU de Nice, dénonce ce vendredi 28 février les vols à répétition des masques de l'hôpital.",
     "thumbnail": "thumbnails/favlv5.webp",
-    "tags": [
-      "CHU de Nice",
-      "Alpes-Maritimes",
-      "Pr Charles-Hugo Marquette",
-      "Nice"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:40:36.142297+00:00"
   },
   {
@@ -117,8 +100,7 @@
     "summary": "Après les blagues sur \"le virus de la bière\" et les recherches sur Google, le groupe qui produit la bière Corona commence à s'inquiéter de l'homonymie de son produit avec le virus. Les intentions d'achat sont au plus bas aux Etats-Unis.",
     "thumbnail": "thumbnails/fapgfo.webp",
     "tags": [
-      "Google",
-      "Etats-Unis"
+      "Covid-19"
     ],
     "analyzed_at": "2026-11-01T09:40:35.978095+00:00"
   },
@@ -141,9 +123,7 @@
     "thumbnail": "thumbnails/fah52d.webp",
     "tags": [
       "Olivier Véran",
-      "Lille",
-      "Oise",
-      "Hospitalisé"
+      "Covid-19"
     ],
     "analyzed_at": "2026-11-01T09:40:36.319362+00:00"
   },
@@ -164,36 +144,8 @@
     "ingested_at": "2026-10-31T15:37:49.991266+00:00",
     "summary": "",
     "thumbnail": "thumbnails/fafuu2.webp",
-    "tags": [
-      "Cinéma"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:40:36.231541+00:00"
-  },
-  {
-    "id": "fafdoi",
-    "title": "NEWS La Chine bannit Plague Inc de l'App Store en plein coronavirus",
-    "url": "https://www.gamekult.com/actualite/la-chine-bannit-plague-inc-de-l-app-store-en-plein-coronavirus-3050825731.html",
-    "permalink": "/r/france/comments/fafdoi/news_la_chine_bannit_plague_inc_de_lapp_store_en/",
-    "created_at": "2020-02-27T17:18:05+00:00",
-    "score": 307,
-    "num_comments": 25,
-    "subreddit": "france",
-    "author": "BadZombieN",
-    "flair": "Société",
-    "domain": "gamekult.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/TKXfFaf38Ny2493k2xwQMs65Qe9WJGmF6O3NS4-rsGw.jpeg?auto=webp&s=eb0522d0d73f9117122b4f908886117d4b70017a",
-    "ingested_at": "2026-10-31T15:37:49.991224+00:00",
-    "summary": "Le studio Ndemic Creations a publié un communiqué dans lequel on apprend que Plague Inc , son simulateur d'épidémie mortelle qui caracole au sommet des classements des applications iOS et Android depuis les débuts du nouveau coronavirus, a été bannie de l'App Store par le Bureau de la commission centrale des affaires…",
-    "thumbnail": "thumbnails/fafdoi.webp",
-    "tags": [
-      "Ndemic Creations",
-      "NEWS la Chine",
-      "Plague Inc de App Store",
-      "Plague inc : evolved",
-      "Société"
-    ],
-    "analyzed_at": "2026-11-01T09:40:37.129863+00:00"
   },
   {
     "id": "facsw4",
@@ -213,11 +165,8 @@
     "summary": "Le 3 février dernier, La Quadrature du Net, La Ligue des Droits de l'Homme, la FCPE et la CGT Educ'Action des Alpes Maritimes étaient en audience devant le tribunal administratif (TA) de Marseille contre la mise en place d'un système de reconnaissance faciale à l'entrée de deux lycée de la région PA",
     "thumbnail": "thumbnails/facsw4.webp",
     "tags": [
-      "Marseille",
-      "Quadrature du Net",
-      "Ligue des Droits de Homme",
-      "PA",
-      "Société"
+      "Justice",
+      "Libertés publiques"
     ],
     "analyzed_at": "2026-11-01T09:40:36.311685+00:00"
   },
@@ -239,7 +188,7 @@
     "summary": "",
     "thumbnail": "thumbnails/fab28n.webp",
     "tags": [
-      "Société"
+      "Justice"
     ],
     "analyzed_at": "2026-11-01T09:40:36.192481+00:00"
   },
@@ -261,10 +210,8 @@
     "summary": "VIDÉO - Un neurologue de la Pitié-Salpêtrière a interpellé ce jeudi Emmanuel Macron sur la crise dans l'hôpital public. Le président de la République est actuellement en visite à l'hôpital parisien, où un Français est mort du coronavirus mercredi.",
     "thumbnail": "thumbnails/fa9s2j.webp",
     "tags": [
-      "Pitié-Salpêtrière",
       "Emmanuel Macron",
-      "République",
-      "Français"
+      "Santé"
     ],
     "analyzed_at": "2026-11-01T09:40:36.403869+00:00"
   },
@@ -286,7 +233,7 @@
     "summary": "",
     "thumbnail": "thumbnails/f9qvxp.webp",
     "tags": [
-      "Paris"
+      "Covid-19"
     ],
     "analyzed_at": "2026-11-01T09:40:36.326548+00:00"
   },
@@ -328,31 +275,9 @@
     "summary": "En marge de l’affaire des financements libyens, les enquêteurs ont ressorti de leurs archives des écoutes téléphoniques où l’on découvre qu’en amont d’une interview à venir entre les deux hommes, l’a…",
     "thumbnail": "thumbnails/f9780m.webp",
     "tags": [
-      "Europe 1"
+      "Médias"
     ],
     "analyzed_at": "2026-11-01T09:40:36.687917+00:00"
-  },
-  {
-    "id": "f96c3i",
-    "title": "La Malène, Lozère, France",
-    "url": "https://live.staticflickr.com/7716/17089576318_9e7be6157c_o.jpg",
-    "permalink": "/r/france/comments/f96c3i/la_malène_lozère_france/",
-    "created_at": "2020-02-25T06:58:44+00:00",
-    "score": 1515,
-    "num_comments": 38,
-    "subreddit": "france",
-    "author": "loulan",
-    "flair": "",
-    "domain": "live.staticflickr.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/7SiKnkUxvSMOMnZnGiXUF4UXEfrntbkR8xOglfreM5s.jpg?auto=webp&s=89d0b560ce0ef6fab407d0a307643216044c991d",
-    "ingested_at": "2026-10-31T15:37:49.990597+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/f96c3i.webp",
-    "tags": [
-      "Malène"
-    ],
-    "analyzed_at": "2026-11-01T09:40:37.030567+00:00"
   },
   {
     "id": "f8qiih",
@@ -372,8 +297,7 @@
     "summary": "",
     "thumbnail": "thumbnails/f8qiih.webp",
     "tags": [
-      "Allemagne",
-      "Écologie"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T09:40:36.516551+00:00"
   },
@@ -394,10 +318,7 @@
     "ingested_at": "2026-10-31T15:37:49.992206+00:00",
     "summary": "Une autre estimation signalait déjà janvier&nbsp;2020 comme le mois de janvier le plus chaud jamais enregistré sur la planète.",
     "thumbnail": "thumbnails/f8ox14.webp",
-    "tags": [
-      "Antarctique",
-      "Trompeur ?"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:40:36.576034+00:00"
   },
   {
@@ -417,13 +338,7 @@
     "ingested_at": "2026-10-31T15:37:49.991286+00:00",
     "summary": "ACCIDENT - Michael Hughes, alias \"Mad Mike\", s'était donné pour objectif de prouver que la Terre était \"plate comme un frisbee\". L'Américain de 64 ans est mort samedi 22 février dans le désert californien à bord de sa fusée à vapeur, qui s'est écrasée au sol quelques instants après le décollage.",
     "thumbnail": "thumbnails/f88hl9.webp",
-    "tags": [
-      "Terre",
-      "Mike Hughes",
-      "Mad Mike",
-      "États-Unis",
-      "Michael Hughes"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:40:36.758351+00:00"
   },
   {
@@ -444,10 +359,7 @@
     "summary": "Outre un problème de sécurité, des cours liés au Tawhid, dogme fondamental de l’Islam qui met Dieu au-dessus de tout le reste, ont été mis e",
     "thumbnail": "thumbnails/f8708q.webp",
     "tags": [
-      "Tawhid",
-      "Islam",
-      "Dieu",
-      "Société"
+      "Éducation"
     ],
     "analyzed_at": "2026-11-01T09:40:36.709318+00:00"
   },
@@ -468,11 +380,7 @@
     "ingested_at": "2026-10-31T15:37:49.992164+00:00",
     "summary": "",
     "thumbnail": "thumbnails/f7wsqy.webp",
-    "tags": [
-      "Six Nations",
-      "Galles",
-      "Sport"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:40:37.774103+00:00"
   },
   {
@@ -492,10 +400,7 @@
     "ingested_at": "2026-10-31T15:37:49.991245+00:00",
     "summary": "",
     "thumbnail": "thumbnails/f7pus3.webp",
-    "tags": [
-      "Fessenheim",
-      "CO2"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:40:36.740343+00:00"
   },
   {
@@ -516,7 +421,7 @@
     "summary": "Lui-même accusé par des policiers de s’être rebellé, le gérant semble disculpé par les images de vidéosurveillance de son établissement, inc",
     "thumbnail": "thumbnails/f7cjxr.webp",
     "tags": [
-      "Société"
+      "Police"
     ],
     "analyzed_at": "2026-11-01T09:40:37.067139+00:00"
   },
@@ -537,9 +442,7 @@
     "ingested_at": "2026-10-31T15:37:49.990669+00:00",
     "summary": "",
     "thumbnail": "thumbnails/f79bfv.webp",
-    "tags": [
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:40:37.084938+00:00"
   },
   {
@@ -561,10 +464,7 @@
     "thumbnail": "thumbnails/f6r62o.webp",
     "tags": [
       "Philippe Poutou",
-      "Bordeaux",
-      "LREM",
-      "Municipales 2020",
-      "Politique"
+      "Élections"
     ],
     "analyzed_at": "2026-11-01T09:40:37.167500+00:00"
   },
@@ -585,7 +485,9 @@
     "ingested_at": "2026-10-31T15:37:49.991464+00:00",
     "summary": "",
     "thumbnail": "thumbnails/f6pmmu.webp",
-    "tags": [],
+    "tags": [
+      "Environnement"
+    ],
     "analyzed_at": "2026-11-01T09:40:37.219986+00:00"
   },
   {
@@ -605,13 +507,7 @@
     "ingested_at": "2026-10-31T15:37:49.991068+00:00",
     "summary": "L'Américain Lawrence \"Larry\" Tesler a inventé cette commande informatique en s'inspirant d'une méthode d'imprimerie.",
     "thumbnail": "thumbnails/f6pisw.webp",
-    "tags": [
-      "Américain Lawrence",
-      "Xerox",
-      "Larry Tesler",
-      "IA",
-      "Culture"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:40:37.425779+00:00"
   },
   {
@@ -631,32 +527,8 @@
     "ingested_at": "2026-10-31T15:37:49.991048+00:00",
     "summary": "Depuis 2008 La Quadrature du Net existe grâce à vos dons. Merci à vous ! Douze ans plus tard, l'équipe des fondateurs a laissé la place à un collège de membres bénévoles et à une équipe de salarié·es qui font vivre l'association au quotidien : parce que les sujets sont innombrables, parce que le",
     "thumbnail": "thumbnails/f6ou39.webp",
-    "tags": [
-      "Quadrature du Net",
-      "Quadrature",
-      "Politique"
-    ],
-    "analyzed_at": "2026-11-01T09:40:37.542489+00:00"
-  },
-  {
-    "id": "f6hi8c",
-    "title": "3 mois d'interdiction d'exercice avec sursis pour avoir signé une tribune anti-homéopathie",
-    "url": "https://www.legeneraliste.fr/actualites/article/2020/02/19/trois-mois-dinterdiction-dexercice-avec-sursis-pour-un-generaliste-signataire-de-la-tribune-anti-homeopathie_321469?xtor=EPR-2-%5BNL_info_du_jour%5D-20200219&utm_campaign=NL_infodujour&utm_source=gene&utm_content=20200219&utm_medium=newsletter",
-    "permalink": "/r/france/comments/f6hi8c/3_mois_dinterdiction_dexercice_avec_sursis_pour/",
-    "created_at": "2020-02-19T21:14:18+00:00",
-    "score": 485,
-    "num_comments": 114,
-    "subreddit": "france",
-    "author": "[deleted]",
-    "flair": "",
-    "domain": "legeneraliste.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/7AMtQAMbQyDnoy4OQ2-awkoK6RUv5QGaKxMTVUCIHDI.jpg?auto=webp&s=0bad113584956dd585b465b70c4f2eb967f70bc1",
-    "ingested_at": "2026-10-31T15:37:49.990921+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/f6hi8c.webp",
     "tags": [],
-    "analyzed_at": "2026-11-01T09:40:38.062590+00:00"
+    "analyzed_at": "2026-11-01T09:40:37.542489+00:00"
   },
   {
     "id": "f6bn32",
@@ -676,10 +548,8 @@
     "summary": "Auditionnée au Sénat, Corinne Le Quéré, qui préside cette instance indépendante depuis sa création en 2018, signale que la baisse d’émissions de gaz à effet de serre est insuffisante en France. Elle demande une meilleure évaluation de l’impact climatique des lois économiques et environnementales.",
     "thumbnail": "thumbnails/f6bn32.webp",
     "tags": [
-      "Haut",
-      "Sénat",
-      "Corinne le Quéré",
-      "Écologie"
+      "Environnement",
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T09:40:39.272566+00:00"
   },
@@ -700,9 +570,7 @@
     "ingested_at": "2026-10-31T15:37:49.991484+00:00",
     "summary": "Business Insider tells the global tech, finance, stock market, media, economy, lifestyle, real estate, AI and innovative stories you want to know.",
     "thumbnail": "thumbnails/f6ao88.webp",
-    "tags": [
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:40:37.595149+00:00"
   },
   {
@@ -723,11 +591,7 @@
     "summary": "Le chef de l'État a annoncé mardi, à Mulhouse, des mesures pour lutter contre le «séparatisme islamiste».",
     "thumbnail": "thumbnails/f5wyhx.webp",
     "tags": [
-      "Emmanuel Macron",
-      "République",
-      "Islam",
-      "État",
-      "Mulhouse"
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T09:40:37.586811+00:00"
   },
@@ -749,9 +613,7 @@
     "summary": "Entretien avec le sociologue Denis Colombi, qui déconstruit dans son dernier ouvrage notre perception de la pauvreté.",
     "thumbnail": "thumbnails/f5s5qd.webp",
     "tags": [
-      "Denis Colombi",
-      "Nutella",
-      "Société"
+      "Pauvreté"
     ],
     "analyzed_at": "2026-11-01T09:40:37.886901+00:00"
   },
@@ -772,7 +634,10 @@
     "ingested_at": "2026-10-31T15:37:49.991899+00:00",
     "summary": "",
     "thumbnail": "thumbnails/f56e4y.webp",
-    "tags": [],
+    "tags": [
+      "Environnement",
+      "Union européenne"
+    ],
     "analyzed_at": "2026-11-01T09:40:37.810424+00:00"
   },
   {
@@ -793,10 +658,8 @@
     "summary": "Un restaurant japonais de Boulogne-Billancourt a été victime de tags racistes dans la nuit de ce samedi à ce dimanche. \"Coronavirus, dégage\", a été inscrit sur la devanture.",
     "thumbnail": "thumbnails/f54iac.webp",
     "tags": [
-      "Boulogne-Billancourt",
-      "Chine",
-      "Racisme – Discriminations",
-      "Santé publique"
+      "Racisme",
+      "Covid-19"
     ],
     "analyzed_at": "2026-11-01T09:40:37.962195+00:00"
   },
@@ -818,7 +681,7 @@
     "summary": "Filmer la police, ce droit dont dispose tout citoyen, est devenu un acte contestÃ© par les forces de lâordre.",
     "thumbnail": "thumbnails/f4vwcx.webp",
     "tags": [
-      "violences policiÃ¨res"
+      "Police"
     ],
     "analyzed_at": "2026-11-01T09:40:37.877835+00:00"
   },
@@ -840,7 +703,8 @@
     "summary": "Cédric Chouviat filmait des policiers. Cela les a insupportés. Il est mort quelques minutes plus tard. À la demande des syndicats, le ministère conduit une étude juridique pour restreindre les modali…",
     "thumbnail": "thumbnails/f4vaxr.webp",
     "tags": [
-      "Cédric Chouviat"
+      "Police",
+      "Christophe Castaner"
     ],
     "analyzed_at": "2026-11-01T09:40:38.281142+00:00"
   },
@@ -862,11 +726,7 @@
     "summary": "Partagez l'information avec les services du Figaro : newsletter, mobiles, Facebook, Twitter, RSS, Widgets. Abonnez-vous. Passez ou répondez à une annonce. Explorez la Galerie photo.",
     "thumbnail": "thumbnails/f4t7hx.webp",
     "tags": [
-      "Village de Emploi",
-      "Figaro",
-      "RSS",
-      "Galerie",
-      "Méta"
+      "Travail"
     ],
     "analyzed_at": "2026-11-01T09:40:38.299602+00:00"
   },
@@ -888,11 +748,7 @@
     "summary": "[VIDÉO] INTERVIEW - Dans un livre coécrit avec la journaliste Sophie Boutboul, Alizé Bernard - violentée des années par son conjoint - lève le voile sur les violences conjugales subies par les femmes de policiers et gendarmes, et les difficultés qu'elles ont à parler et à se faire entendre du fait de la profession de…",
     "thumbnail": "thumbnails/f4oaa0.webp",
     "tags": [
-      "Alizé Bernard",
-      "Sophie Boutboul",
-      "LCI",
-      "Population",
-      "Société"
+      "Police"
     ],
     "analyzed_at": "2026-11-01T09:40:38.354098+00:00"
   },
@@ -917,78 +773,6 @@
     "analyzed_at": "2026-11-01T09:40:38.094971+00:00"
   },
   {
-    "id": "f49nlo",
-    "title": "AJA : avec une carte gratuite de bibliothèque, vous pouvez télécharger plus de 16 000 livres numériques et 200 livres audios, y compris des ouvrages récents.",
-    "url": "https://bibliotheques.paris.fr/numerique/",
-    "permalink": "/r/france/comments/f49nlo/aja_avec_une_carte_gratuite_de_bibliothèque_vous/",
-    "created_at": "2020-02-15T13:52:11+00:00",
-    "score": 121,
-    "num_comments": 39,
-    "subreddit": "france",
-    "author": "Synchronyme",
-    "flair": "",
-    "domain": "bibliotheques.paris.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/2gV65C39OFtEzpbgrQkakb2aB_sTMNnTJiK3OG4mOvw.jpeg?auto=webp&s=dd09ecbe74a9ba1e8213e9221a32f8ceda838c94",
-    "ingested_at": "2026-10-31T15:37:49.992142+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/f49nlo.webp",
-    "tags": [
-      "AJA"
-    ],
-    "analyzed_at": "2026-11-01T09:40:38.994303+00:00"
-  },
-  {
-    "id": "f3tvoe",
-    "title": "Anti-Valentines Day poster in Paris",
-    "url": "https://66.media.tumblr.com/03d2fd772a3453019f12067192b33416/tumblr_o3kl3gOVtQ1u1sr1lo1_1280.jpg",
-    "permalink": "/r/france/comments/f3tvoe/antivalentines_day_poster_in_paris/",
-    "created_at": "2020-02-14T15:39:09+00:00",
-    "score": 932,
-    "num_comments": 88,
-    "subreddit": "france",
-    "author": "Everything4Everyone",
-    "flair": "Culture",
-    "domain": "66.media.tumblr.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/JjeYoertBvCHVhrp2MBLbQZz6cfHKMidfiZKVVz8lJk.jpg?auto=webp&s=e5c77779a430df03fc97785bb48b7b9c584561f5",
-    "ingested_at": "2026-10-31T15:37:49.990756+00:00",
-    "summary": "A blog devoted to spreading anti-capitalist, anti-colonial & anti-authoritarian posters. Please feel free to translate, or to print and paste around anything on this blog.",
-    "thumbnail": "thumbnails/f3tvoe.webp",
-    "tags": [
-      "Anti-Valentines Day",
-      "Paris",
-      "Culture"
-    ],
-    "analyzed_at": "2026-11-01T09:40:38.658030+00:00"
-  },
-  {
-    "id": "f3rzue",
-    "title": "Municipales - Cédric Villani retire sa candidature après la publication d'une vidéo intime dans laquelle il échoue à faire une règle de trois",
-    "url": "http://www.legorafi.fr/2020/02/14/municipales-cedric-villani-retire-sa-candidature-apres-la-publication-dune-video-intime-dans-laquelle-il-echoue-a-faire-une-regle-de-trois/",
-    "permalink": "/r/france/comments/f3rzue/municipales_cédric_villani_retire_sa_candidature/",
-    "created_at": "2020-02-14T13:12:42+00:00",
-    "score": 839,
-    "num_comments": 88,
-    "subreddit": "france",
-    "author": "Wats0ns",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/z9lmhfEVPbivSt0N4IxLDGkGlWh1im4vGf7C3Pk9f84.jpeg?auto=webp&s=1607c5591ee8ce718382bd992226c0d26639e4fd",
-    "ingested_at": "2026-10-31T15:37:49.990777+00:00",
-    "summary": "Après Benjamin Griveaux c'est au tour de Cédric Villani de jeter l'éponge. En cause, une vidéo qui circule sur les réseaux sociaux depuis hier dans laquelle on peut voir le mathématicien échouer à résoudre une simple règle de trois. Reportage.",
-    "thumbnail": "thumbnails/f3rzue.webp",
-    "tags": [
-      "Cédric Villani",
-      "Benjamin Griveaux",
-      "Jordan Bardella",
-      "Gorafi",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:40:38.342702+00:00"
-  },
-  {
     "id": "f3p3eq",
     "title": "Benjamin Griveaux renonce à la Mairie de Paris, après la diffusion d’images privées à caractère sexuel",
     "url": "https://www.lemonde.fr/politique/article/2020/02/14/benjamin-griveaux-renonce-a-la-mairie-de-paris-apres-la-diffusion-d-images-privees-a-caractere-sexuel_6029533_823448.html",
@@ -1005,38 +789,8 @@
     "ingested_at": "2026-10-31T15:37:49.991109+00:00",
     "summary": "",
     "thumbnail": "thumbnails/f3p3eq.webp",
-    "tags": [
-      "Benjamin Griveaux",
-      "Mairie de Paris",
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:40:38.388786+00:00"
-  },
-  {
-    "id": "f3icx7",
-    "title": "Fine art watercolor painting of portion of the Eiffel Tower at sunset- Paris, France. Almost finished",
-    "url": "https://flickr.com/photos/rfoxphoto/49532186072",
-    "permalink": "/r/france/comments/f3icx7/fine_art_watercolor_painting_of_portion_of_the/",
-    "created_at": "2020-02-13T22:43:27+00:00",
-    "score": 211,
-    "num_comments": 17,
-    "subreddit": "france",
-    "author": "rfox90",
-    "flair": "",
-    "domain": "flickr.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/eem2ud2uFQ5kPINV2Soo1Rdx8_RG0I9VOzL8eYyqg6I.jpeg?auto=webp&s=bf4f611984af08eef3d6e08e694ea3b55c654883",
-    "ingested_at": "2026-10-31T15:37:49.991544+00:00",
-    "summary": "Fine art watercolor painting of portion of the Eiffel Tower at sunset- Paris, France",
-    "thumbnail": "thumbnails/f3icx7.webp",
-    "tags": [
-      "Eiffel Tower",
-      "Paris",
-      "Artprints",
-      "Artreproductions",
-      "Contemporarywatercolorartist"
-    ],
-    "analyzed_at": "2026-11-01T09:40:39.039048+00:00"
   },
   {
     "id": "f374c5",
@@ -1056,8 +810,7 @@
     "summary": "On savait que l'industrie des nouvelles technologies était largement affectée par l'épidémie de coronavirus. Mais cette même industrie ne pourrait-elle pas aider à stopper la maladie ? Plusieurs activistes du net le pensent.",
     "thumbnail": "thumbnails/f374c5.webp",
     "tags": [
-      "Sci-Hub",
-      "Science"
+      "Covid-19"
     ],
     "analyzed_at": "2026-11-01T09:40:38.767870+00:00"
   },
@@ -1078,36 +831,8 @@
     "ingested_at": "2026-10-31T15:37:49.991443+00:00",
     "summary": "Certains industriels tentent d'échapper à l'interdiction qui frappera certains produits «à usage unique» à compter du 1er janvier 2021. «Ils n'ont gagné que quelques mois», prévient le gouvernement.",
     "thumbnail": "thumbnails/f36v8n.webp",
-    "tags": [
-      "Économie circulaire",
-      "Union européenne",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:40:38.619832+00:00"
-  },
-  {
-    "id": "f35hqh",
-    "title": "Patrick Balkany salue une dernière fois ses codétenus « noix de coco » et « poulet tikka »",
-    "url": "http://www.legorafi.fr/2020/02/12/patrick-balkany-salue-une-derniere-fois-ses-codetenus-noix-de-coco-et-poulet-tikka/",
-    "permalink": "/r/france/comments/f35hqh/patrick_balkany_salue_une_dernière_fois_ses/",
-    "created_at": "2020-02-13T06:04:12+00:00",
-    "score": 1062,
-    "num_comments": 49,
-    "subreddit": "france",
-    "author": "rorobert",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/_--r0d7TFSkEQ6wX3lY5nzGaitAXI5n-7-ukUkqgnOM.jpeg?auto=webp&s=3c56347c9e4ba9dc7a37e829b8e5478d721e53ed",
-    "ingested_at": "2026-10-31T15:37:49.990690+00:00",
-    "summary": "A peine sorti de prison, l’ancien maire de Levallois-Perret a tenu à saluer une dernière fois ses codétenus.",
-    "thumbnail": "thumbnails/f35hqh.webp",
-    "tags": [
-      "Patrick Balkany",
-      "Levallois-Perret",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:40:38.663467+00:00"
   },
   {
     "id": "f2wiiz",
@@ -1127,11 +852,9 @@
     "summary": "Philippe Poutou recueillerait 11 % des voix (à 10 %, il y a maintien au second tour) selon un sondage Ifop-Fiducial pour CNews et Sud Radio publié ce mardi. Un scénario qui enclencherait une quadrangulaire au second tour des élections bordelaises",
     "thumbnail": "thumbnails/f2wiiz.webp",
     "tags": [
-      "Poutou",
       "Philippe Poutou",
-      "Ifop-Fiducial",
-      "CNews et Sud Radio",
-      "Politique"
+      "Élections",
+      "Médias"
     ],
     "analyzed_at": "2026-11-01T09:40:39.205629+00:00"
   },
@@ -1152,9 +875,7 @@
     "ingested_at": "2026-10-31T15:37:49.990898+00:00",
     "summary": "Mediapart révèle le rôle joué par l’espion français infiltré au cœur de l’État islamique. Un simple citoyen de confession musulmane qui a empêché deux attentats, dont un visant la communauté juive.",
     "thumbnail": "thumbnails/f2oaae.webp",
-    "tags": [
-      "Etat"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:40:39.182317+00:00"
   },
   {
@@ -1175,8 +896,7 @@
     "summary": "",
     "thumbnail": "thumbnails/f2o056.webp",
     "tags": [
-      "Mila",
-      "Société"
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T09:40:38.806791+00:00"
   },
@@ -1197,10 +917,7 @@
     "ingested_at": "2026-10-31T15:37:49.990712+00:00",
     "summary": "",
     "thumbnail": "thumbnails/f2n2xq.webp",
-    "tags": [
-      "Bernie Sanders",
-      "New Hampshire"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:40:39.011040+00:00"
   },
   {
@@ -1221,10 +938,7 @@
     "summary": "Un rapport remis au ministère de l'Intérieur dénonce la prise en charge par l'administration des frais d'avocats dans des affaires d'outrage et d'insultes envers des policiers.",
     "thumbnail": "thumbnails/f263bs.webp",
     "tags": [
-      "Intérieur",
-      "IGA",
-      "PF",
-      "Société"
+      "Police"
     ],
     "analyzed_at": "2026-11-01T09:40:39.220265+00:00"
   },
@@ -1245,13 +959,7 @@
     "ingested_at": "2026-10-31T15:37:49.991994+00:00",
     "summary": "French lenders bankroll firms linked to deforestation: analysis",
     "thumbnail": "thumbnails/f1z60t.webp",
-    "tags": [
-      "Global Witness",
-      "BNP Paribas",
-      "Credit Agricole",
-      "Olam",
-      "Sinochem"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:40:39.255529+00:00"
   },
   {
@@ -1272,7 +980,7 @@
     "summary": "",
     "thumbnail": "thumbnails/f1smy7.webp",
     "tags": [
-      "Société"
+      "Manifestations"
     ],
     "analyzed_at": "2026-11-01T09:40:39.425709+00:00"
   },
@@ -1293,11 +1001,7 @@
     "ingested_at": "2026-10-31T15:37:49.991007+00:00",
     "summary": "Reconnaissable à son logo en forme de cône de chantier, ce logiciel permet de lire tous les formats vidéo. Bien qu'il compte 400 millions d'utilisateurs dans le monde, ses créateurs en ont tiré très peu profit.",
     "thumbnail": "thumbnails/f1ptod.webp",
-    "tags": [
-      "VLC",
-      "Jean-Baptiste Kempf",
-      "Internet"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:40:39.227030+00:00"
   },
   {
@@ -1318,11 +1022,7 @@
     "summary": "Ils sont de plus en plus nombreux et souvent au plus près des forces de l'ordre. Qu'ils soient amateurs ou professionnels, ils n'hésitent pas à plonger au cœur des manifestations, au risque, souvent, d'être blessés.",
     "thumbnail": "thumbnails/f1np1r.webp",
     "tags": [
-      "Pedro Brito Da Fonseca",
-      "Nicolas Mercier",
-      "Violences policières",
-      "Faits-divers",
-      "Société"
+      "Police"
     ],
     "analyzed_at": "2026-11-01T09:40:39.620910+00:00"
   },
@@ -1343,107 +1043,8 @@
     "ingested_at": "2026-10-31T15:37:49.990973+00:00",
     "summary": "Les tarifs des péages autoroutiers augmentent de 1,8% à 1,9% au 1er février. Hervé Maurey, sénateur centriste de l’Eure, a vivement dénoncé cette hausse, vendredi",
     "thumbnail": "thumbnails/f1m5al.webp",
-    "tags": [
-      "Hervé Maurey",
-      "Eure",
-      "État"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:40:39.475043+00:00"
-  },
-  {
-    "id": "f1e0p1",
-    "title": "Les Comores font un don de 100€ à la Chine pour lutter contre le Coronavirus",
-    "url": "http://www.comores-infos.net/coronavirus-les-comores-ont-donne-100-euros-a-la-chine-pour-la-lutte-contre-le-coronavirus",
-    "permalink": "/r/france/comments/f1e0p1/les_comores_font_un_don_de_100_à_la_chine_pour/",
-    "created_at": "2020-02-09T19:54:44+00:00",
-    "score": 236,
-    "num_comments": 52,
-    "subreddit": "france",
-    "author": "Plkgi49",
-    "flair": "",
-    "domain": "comores-infos.net",
-    "selftext": "",
-    "reddit_thumbnail": "https://b.thumbs.redditmedia.com/R17RZvCAoMpYfXgL2gKmYfVQs_nZbfmVNcXc4zLkQlg.jpg",
-    "ingested_at": "2026-10-31T15:37:49.991386+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/f1e0p1.webp",
-    "tags": [
-      "Comores",
-      "Chine",
-      "Coronavirus"
-    ],
-    "analyzed_at": "2026-11-01T09:40:42.195290+00:00"
-  },
-  {
-    "id": "f15ca3",
-    "title": "Dent de Crolles, Isère, France",
-    "url": "https://live.staticflickr.com/4863/44975018494_66d2e38f98_o.jpg",
-    "permalink": "/r/france/comments/f15ca3/dent_de_crolles_isère_france/",
-    "created_at": "2020-02-09T07:19:27+00:00",
-    "score": 210,
-    "num_comments": 17,
-    "subreddit": "france",
-    "author": "loulan",
-    "flair": "",
-    "domain": "live.staticflickr.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/Tbjy5dQKrH4g92awfwawbh6FNJs8kKlJ5TgFAPTX3bI.jpg?auto=webp&s=7e2f6de451b12f425d18f76c6b1004e877e1b20b",
-    "ingested_at": "2026-10-31T15:37:49.991585+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/f15ca3.webp",
-    "tags": [
-      "Crolles"
-    ],
-    "analyzed_at": "2026-11-01T09:40:40.404247+00:00"
-  },
-  {
-    "id": "f0qgq6",
-    "title": "150 000 illustrations botaniques et animales sont désormais téléchargeables gratuitement",
-    "url": "https://dailygeekshow.com/illustrations-botaniques-telechargement-gratuit/?fbclid=IwAR0sHnzi8Mx5pVaUzFsmhlbHQ63rwjNQPib1XsMt-smLqNwt94Rl4l52URk",
-    "permalink": "/r/france/comments/f0qgq6/150_000_illustrations_botaniques_et_animales_sont/",
-    "created_at": "2020-02-08T11:32:02+00:00",
-    "score": 99,
-    "num_comments": 4,
-    "subreddit": "france",
-    "author": "UtopieRealiste",
-    "flair": "Écologie",
-    "domain": "dailygeekshow.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/9nCg57BvDcrw4CW5Wz5QwG7Glg-2LzURX7G1sZ_8Lhs.jpg?auto=webp&s=f0bf39d10d322d7cb24296be272ef58221dd96ee",
-    "ingested_at": "2026-10-31T15:37:49.992233+00:00",
-    "summary": "La Biodiversity Heritage Library vient d'enrichir sa base de données en libre accès. Les internautes peuvent désormais consulter et télécharger librement plus de 150 000 archives numérisées en haute résolution.",
-    "thumbnail": "thumbnails/f0qgq6.webp",
-    "tags": [
-      "Biodiversity Heritage Library",
-      "Écologie"
-    ],
-    "analyzed_at": "2026-11-01T09:40:39.756652+00:00"
-  },
-  {
-    "id": "f0p02n",
-    "title": "Amazon paid a 1.2% tax rate on $13,285,000,000 in profit for 2019",
-    "url": "https://finance.yahoo.com/news/amazon-paid-a-12-tax-rate-on-13285000000-in-profit-for-2019-210847927.html",
-    "permalink": "/r/france/comments/f0p02n/amazon_paid_a_12_tax_rate_on_13285000000_in/",
-    "created_at": "2020-02-08T08:40:10+00:00",
-    "score": 246,
-    "num_comments": 120,
-    "subreddit": "france",
-    "author": "charlu",
-    "flair": "",
-    "domain": "finance.yahoo.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/EPSfMk--NthTE2jOumk0CzawUVkaNd-fsULzvzCMxrs.jpg?auto=webp&s=e7864979bc5ba4f66a8928bc0d5c63a3127f49cd",
-    "ingested_at": "2026-10-31T15:37:49.991365+00:00",
-    "summary": "Last year Amazon paid 0% in taxes — this year they only paid 1.2%.",
-    "thumbnail": "thumbnails/f0p02n.webp",
-    "tags": [
-      "Amazon",
-      "Effective tax rate",
-      "ITEP",
-      "Federal income taxes",
-      "Federal income tax"
-    ],
-    "analyzed_at": "2026-11-01T09:40:40.066710+00:00"
   },
   {
     "id": "f085y5",
@@ -1463,102 +1064,9 @@
     "summary": "C'est ce qu'indique un sondage Odoxa à l'occasion des \"1 000 jours\" de l'entrée en fonction du président de la République.",
     "thumbnail": "thumbnails/f085y5.webp",
     "tags": [
-      "Emmanuel Macron",
-      "Français",
-      "Odoxa",
-      "République"
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T09:40:39.687905+00:00"
-  },
-  {
-    "id": "f06dq7",
-    "title": "Rocamadour, Lot, France",
-    "url": "https://live.staticflickr.com/7914/31931228557_b0e84a5de6_o.jpg",
-    "permalink": "/r/france/comments/f06dq7/rocamadour_lot_france/",
-    "created_at": "2020-02-07T06:08:55+00:00",
-    "score": 1290,
-    "num_comments": 44,
-    "subreddit": "france",
-    "author": "loulan",
-    "flair": "Culture",
-    "domain": "live.staticflickr.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/D-t_kzcwFe9L3jd6ZgaQfw21evbDc4JLrRMaSvfxglM.jpg?auto=webp&s=361fdb8e00814314ed9a52fd9f958e91945e8385",
-    "ingested_at": "2026-10-31T15:37:49.990645+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/f06dq7.webp",
-    "tags": [
-      "Culture"
-    ],
-    "analyzed_at": "2026-11-01T09:40:40.437727+00:00"
-  },
-  {
-    "id": "ezsfp5",
-    "title": "90% des divinités se disent prêtes « à prendre un doigt dans le cul » si cela peut mobiliser un peu plus leurs fidèles",
-    "url": "http://www.legorafi.fr/2020/02/06/90-des-divinites-se-disent-pretes-a-prendre-un-doigt-dans-le-cul-si-cela-peut-mobiliser-un-peu-plus-leurs-fideles/",
-    "permalink": "/r/france/comments/ezsfp5/90_des_divinités_se_disent_prêtes_à_prendre_un/",
-    "created_at": "2020-02-06T13:34:49+00:00",
-    "score": 174,
-    "num_comments": 27,
-    "subreddit": "france",
-    "author": "Hrognaar",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/l4LcOxybIhgawIFiRZfdSSpQMEzHGzJAHaoqgCX0elE.jpg?auto=webp&s=53b7febba42edfc7424619b9533bb0b4b084ae00",
-    "ingested_at": "2026-10-31T15:37:49.991804+00:00",
-    "summary": "Après la polémique de ces derniers jours, les divinités ont accepté de se réunir sur la possibilité ou non de « prendre un doigt dans le cul » et si cela pouvait être bénéfice ou non pour leur image, mais aussi pour rassembler le peu de fidèles qu'elles ont encore. Reportage.",
-    "thumbnail": "thumbnails/ezsfp5.webp",
-    "tags": [
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:40:39.995328+00:00"
-  },
-  {
-    "id": "ezoo9j",
-    "title": "L’Institut Pasteur isole les souches du coronavirus 2019-nCoV détecté en France (31 Janvier 2020)",
-    "url": "https://www.pasteur.fr/fr/espace-presse/documents-presse/institut-pasteur-isole-souches-du-coronavirus-2019-ncov-detecte-france",
-    "permalink": "/r/france/comments/ezoo9j/linstitut_pasteur_isole_les_souches_du/",
-    "created_at": "2020-02-06T07:12:49+00:00",
-    "score": 353,
-    "num_comments": 43,
-    "subreddit": "france",
-    "author": "THhhaway",
-    "flair": "",
-    "domain": "pasteur.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/E6ife4jufObAKNKqvtnEhin_S9CBx73G581oUo7Zs70.jpg?auto=webp&s=a234476f1f4e1c691bcfc19b77c50901ef050fe9",
-    "ingested_at": "2026-10-31T15:37:49.991150+00:00",
-    "summary": "En parallèle du séquençage complet du génome du coronavirus 2019-nCoV, l’Institut Pasteur a poursuivi son travail sur les échantillons prélevés sur les premiers cas confirmés. La qualité du prélèvement initial a permis l’isolement rapide du nouveau virus en culture cellulaire.",
-    "thumbnail": "thumbnails/ezoo9j.webp",
-    "tags": [
-      "Institut Pasteur",
-      "CNR"
-    ],
-    "analyzed_at": "2026-11-01T09:40:39.977167+00:00"
-  },
-  {
-    "id": "ezcbjb",
-    "title": "Une jeune grecque qui avait blasphémé Zeus étonnée de n’avoir toujours pas de reçu de menace de mort",
-    "url": "http://www.legorafi.fr/2020/02/05/une-jeune-grecque-qui-avait-blaspheme-zeus-etonnee-de-navoir-toujours-pas-de-recu-de-menace-de-mort/",
-    "permalink": "/r/france/comments/ezcbjb/une_jeune_grecque_qui_avait_blasphémé_zeus/",
-    "created_at": "2020-02-05T16:44:23+00:00",
-    "score": 576,
-    "num_comments": 80,
-    "subreddit": "france",
-    "author": "[deleted]",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/5FM7EmWcwnOLo6xgCBSw5YPYAO_Pzfkpf-BmV_mBtZY.jpeg?auto=webp&s=f6544c71cd5f215cde9051b75915bb170825ab3b",
-    "ingested_at": "2026-10-31T15:37:49.990857+00:00",
-    "summary": "Sur les réseaux sociaux, une adolescente grecque a voulu choquer en insultant Zeus, sans succès. Rencontre.",
-    "thumbnail": "thumbnails/ezcbjb.webp",
-    "tags": [
-      "Zeus",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:40:40.035818+00:00"
   },
   {
     "id": "ez774r",
@@ -1578,11 +1086,8 @@
     "summary": "Space X prévoit la mise sur orbite de pas moins de 42 000 satellites. Pour les astronomes, le déploiement complet du projet Starlink serait désastreux.",
     "thumbnail": "thumbnails/ez774r.webp",
     "tags": [
-      "SpaceX",
-      "Starlink",
-      "Space X",
-      "Terre",
-      "Société"
+      "Environnement",
+      "Justice"
     ],
     "analyzed_at": "2026-11-01T09:40:40.467634+00:00"
   },
@@ -1604,7 +1109,7 @@
     "summary": "",
     "thumbnail": "thumbnails/ez6h81.webp",
     "tags": [
-      "Politique"
+      "Retraites"
     ],
     "analyzed_at": "2026-11-01T09:40:40.169163+00:00"
   },
@@ -1626,9 +1131,7 @@
     "summary": "La température moyenne du globe a dépassé de 0,03 °C celle de janvier 2016, qui détenait le record jusque-là, selon le programme européen Copernicus.",
     "thumbnail": "thumbnails/ez5s1o.webp",
     "tags": [
-      "Copernicus",
-      "Crise climatique",
-      "Écologie"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T09:40:40.548940+00:00"
   },
@@ -1650,11 +1153,7 @@
     "summary": "Quelques jours après le débat qui proposait aux auditeurs de répondre à la question \"Selon vous, la France va-t-elle mieux depuis l'élection d'Emmanuel Macron ?\" par \"Oui\" ou \"Oui mais les Français ne s'en rendent pas compte\", BFMTV et RMC sont encore montés d'un cran ce 3 février dans la critique sans concession du…",
     "thumbnail": "thumbnails/eyw2j5.webp",
     "tags": [
-      "Emmanuel Macron",
-      "BFM",
-      "Élysée",
-      "République",
-      "Politique"
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T09:40:40.527419+00:00"
   },
@@ -1675,38 +1174,8 @@
     "ingested_at": "2026-10-31T15:37:49.991704+00:00",
     "summary": "[VIDÉO] EXPLICATIONS - Mila, 16 ans, est la cible de menaces de mort et de viol pour avoir critiqué l'islam sur les réseaux sociaux. Dix jours après sa vidéo, l'adolescente s'est défendue ce lundi dans \"Quotidien\".",
     "thumbnail": "thumbnails/eyn6qx.webp",
-    "tags": [
-      "Mila",
-      "Instagram",
-      "Affaire Mila",
-      "Population",
-      "Religion et croyances"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:40:40.919719+00:00"
-  },
-  {
-    "id": "ey8yre",
-    "title": "Les députés En Marche annoncent qu'ils vont désormais lire les propositions de lois avant de les voter",
-    "url": "http://www.legorafi.fr/2020/02/03/les-deputes-en-marche-annoncent-quils-vont-desormais-lire-les-propositions-de-lois-avant-de-les-voter/",
-    "permalink": "/r/france/comments/ey8yre/les_députés_en_marche_annoncent_quils_vont/",
-    "created_at": "2020-02-03T15:45:27+00:00",
-    "score": 985,
-    "num_comments": 25,
-    "subreddit": "france",
-    "author": "Mi_figue_Fa_raisin",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/V768wugsL5qJisMd72D9dX1hFH7u1JqGfafku8i0Tlg.jpeg?auto=webp&s=f5a7f73e2f5f27a3d30c2a751242f5b6276206da",
-    "ingested_at": "2026-10-31T15:37:49.990734+00:00",
-    "summary": "Après la polémique sur le refus de l'extension du congé suite à la mort d'un enfant, les députés LaRem ont présenté un nouveau projet de fonctionnement destiné à éviter pareil incident à l'avenir. Il a été ainsi convenu que les textes de lois seraient dorénavant lus. Reportage.",
-    "thumbnail": "thumbnails/ey8yre.webp",
-    "tags": [
-      "Marche",
-      "LaRem",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:40:40.744020+00:00"
   },
   {
     "id": "ey66fh",
@@ -1725,11 +1194,7 @@
     "ingested_at": "2026-10-31T15:37:49.991625+00:00",
     "summary": "Un artiste berlinois est parvenu à tromper Google Maps et à provoquer un important embouteillage virtuel grâce à 99 smartphones dans une charette.",
     "thumbnail": "thumbnails/ey66fh.webp",
-    "tags": [
-      "Google Maps",
-      "Google",
-      "Simon Weckert"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:40:40.914760+00:00"
   },
   {
@@ -1750,9 +1215,7 @@
     "summary": "Plantés en novembre à l’occasion de la création d’une journée de reforestation nationale, la majorité des sapins seraient déjà morts de sécheresse selon le Synd...",
     "thumbnail": "thumbnails/ey2drh.webp",
     "tags": [
-      "Turquie",
-      "Synd",
-      "Écologie"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T09:40:40.980043+00:00"
   },
@@ -1773,36 +1236,8 @@
     "ingested_at": "2026-10-31T15:37:49.991940+00:00",
     "summary": "",
     "thumbnail": "thumbnails/exrazh.webp",
-    "tags": [
-      "Six Nations",
-      "Angleterre",
-      "Crunch",
-      "Sport"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:40:41.441650+00:00"
-  },
-  {
-    "id": "exhg68",
-    "title": "Comment trouver un emploi dans le village de l'Arnac?",
-    "url": "https://www.arnac.fr/index.php/fr/",
-    "permalink": "/r/france/comments/exhg68/comment_trouver_un_emploi_dans_le_village_de/",
-    "created_at": "2020-02-02T02:38:06+00:00",
-    "score": 121,
-    "num_comments": 13,
-    "subreddit": "france",
-    "author": "Alexxmaxx",
-    "flair": "Méta",
-    "domain": "arnac.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://b.thumbs.redditmedia.com/Xwat9QrApQrHRAvWj_ykRZSEhglcY6GyVzenQJdpQoI.jpg",
-    "ingested_at": "2026-10-31T15:37:49.992121+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/exhg68.webp",
-    "tags": [
-      "Arnac",
-      "Méta"
-    ],
-    "analyzed_at": "2026-11-01T09:40:44.738804+00:00"
   },
   {
     "id": "ex5auf",
@@ -1822,30 +1257,8 @@
     "summary": "",
     "thumbnail": "thumbnails/ex5auf.webp",
     "tags": [
-      "Soft paywall"
+      "Éducation"
     ],
     "analyzed_at": "2026-11-01T09:40:41.370951+00:00"
-  },
-  {
-    "id": "ex2hfy",
-    "title": "Village Emploi Arnaque",
-    "url": "https://pastebin.com/BSQN8ePs",
-    "permalink": "/r/france/comments/ex2hfy/village_emploi_arnaque/",
-    "created_at": "2020-02-01T07:13:21+00:00",
-    "score": 839,
-    "num_comments": 72,
-    "subreddit": "france",
-    "author": "gnumdk",
-    "flair": "",
-    "domain": "pastebin.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/rc2Fna9bJ_J6PFVDuZUOKJl5CH9700Qyi0-ll1mn4C4.jpg?auto=webp&s=e28867cccd2864fc170848b64bc44e6a778116b9",
-    "ingested_at": "2026-10-31T15:37:49.990798+00:00",
-    "summary": "",
-    "thumbnail": "",
-    "tags": [
-      "Village Emploi Arnaque"
-    ],
-    "analyzed_at": "2026-11-01T09:40:41.328432+00:00"
   }
 ]

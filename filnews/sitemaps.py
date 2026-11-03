@@ -1,6 +1,7 @@
 from django.contrib.sitemaps import Sitemap
 from django.urls import reverse
 
+from .elections import CANDIDATES
 from .models import News, TagSummary
 from .store import get_store
 from .timeline import thread_years
@@ -18,7 +19,10 @@ class StaticSitemap(Sitemap):
             ("home", ()),
             ("archive", ()),
             ("tag_index", ()),
+            ("election", ()),
+            *[("election_candidate", (c.slug,)) for c in CANDIDATES],
             ("about", ()),
+            ("legal", ()),
             *months,
         ]
 
@@ -27,7 +31,7 @@ class StaticSitemap(Sitemap):
         return reverse(name, args=args)
 
     def priority(self, item):
-        return 1.0 if item[0] == "home" else 0.5
+        return 1.0 if item[0] in {"home", "election"} else 0.5
 
 
 class NewsSitemap(Sitemap):

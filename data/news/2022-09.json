@@ -16,36 +16,8 @@
     "ingested_at": "2026-11-01T10:23:38.756499+00:00",
     "summary": "Un temps annoncé, le contrôle technique pour les deux-roues ne sera finalement pas obligatoire le 1er octobre. Le gouvernement ne veut pas se plier à une directive européenne et tient tête au Conseil d'Etat pour ne...",
     "thumbnail": "thumbnails/xsem1t.webp",
-    "tags": [
-      "Conseil Etat",
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:44:56.252408+00:00"
-  },
-  {
-    "id": "xsecfs",
-    "title": "La commande de 42 Rafale français supplémentaires est en bonne voie…",
-    "url": "https://www.aerobuzz.fr/defense/la-commande-de-42-rafale-francais-supplementaires-est-en-bonne-voie/",
-    "permalink": "/r/france/comments/xsecfs/la_commande_de_42_rafale_français_supplémentaires/",
-    "created_at": "2022-09-30T22:19:06+00:00",
-    "score": 37,
-    "num_comments": 9,
-    "subreddit": "france",
-    "author": "UpgradedSiera6666",
-    "flair": "Actus",
-    "domain": "aerobuzz.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/32scVpAfkjr5gGadmBX_QSvY0zp3Ibtn8j-rG80mc8s.jpeg?auto=webp&s=7594bbc1b87968b002219ce0b3f64c1e50c7a0b7",
-    "ingested_at": "2026-11-01T10:23:38.756547+00:00",
-    "summary": "Longtemps anticipée, la commande de ces appareils vient de recevoir un début de confirmation dans le projet de loi de finance rendu public.",
-    "thumbnail": "thumbnails/xsecfs.webp",
-    "tags": [
-      "Rafale",
-      "Rafale Air",
-      "Armée",
-      "AAE"
-    ],
-    "analyzed_at": "2026-11-01T10:44:56.312776+00:00"
   },
   {
     "id": "xrsud4",
@@ -65,7 +37,7 @@
     "summary": "",
     "thumbnail": "thumbnails/xrsud4.webp",
     "tags": [
-      "Écologie"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T10:44:57.373252+00:00"
   },
@@ -86,10 +58,7 @@
     "ingested_at": "2026-11-01T10:23:38.756185+00:00",
     "summary": "",
     "thumbnail": "thumbnails/xroxey.webp",
-    "tags": [
-      "Royaume-Uni",
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:44:57.090780+00:00"
   },
   {
@@ -109,11 +78,7 @@
     "ingested_at": "2026-11-01T10:23:38.755461+00:00",
     "summary": "Le service de gaming dans le cloud de Google n'aura finalement pas tenu bon : Google Stadia va fermer ses portes en janvier 2023. C'est un coup de tonnerre prévisible, mais qui résonne quand même fort dans le monde de la tech : Google va abandonner définitivement Stadia, son service de jeux vidéo dans le cloud sur",
     "thumbnail": "thumbnails/xrcuuw.webp",
-    "tags": [
-      "Stadia",
-      "Google",
-      "Google Stadia"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:44:56.716760+00:00"
   },
   {
@@ -134,10 +99,7 @@
     "summary": "Un Youtubeur de Nancy, Thomas Durand, par ailleurs docteur en biologie et fondateur de l’Association pour la science et la transmission de l’esprit",
     "thumbnail": "thumbnails/xrca1x.webp",
     "tags": [
-      "Youtubeur de Nancy",
-      "Lorraine",
-      "Thomas Durand",
-      "Science"
+      "Éducation"
     ],
     "analyzed_at": "2026-11-01T10:44:57.296066+00:00"
   },
@@ -159,9 +121,9 @@
     "summary": "Emmanuel Macron a menacé de dissoudre l'Assemblée nationale si les oppositions votaient une motion de censure lors du passage du texte des retraites en usant du 49.3.",
     "thumbnail": "thumbnails/xr0iln.webp",
     "tags": [
-      "Assemblée",
       "Emmanuel Macron",
-      "Politique"
+      "Retraites",
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T10:44:56.590189+00:00"
   },
@@ -185,9 +147,8 @@
     "tags": [
       "Olivier Véran",
       "Emmanuel Macron",
-      "Sécurité Sociale",
-      "Première",
-      "Société"
+      "Protection sociale",
+      "Retraites"
     ],
     "analyzed_at": "2026-11-01T10:44:56.742644+00:00"
   },
@@ -210,10 +171,9 @@
     "thumbnail": "thumbnails/xq7j96.webp",
     "tags": [
       "François Ruffin",
-      "Emmanuel Macron",
-      "LFI de la Somme",
-      "Somme",
-      "Politique"
+      "Retraites",
+      "Institutions",
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T10:44:58.668845+00:00"
   },
@@ -234,9 +194,7 @@
     "ingested_at": "2026-11-01T10:23:38.755602+00:00",
     "summary": "",
     "thumbnail": "thumbnails/xpg09e.webp",
-    "tags": [
-      "Royaume-Uni"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:44:57.074377+00:00"
   },
   {
@@ -256,10 +214,7 @@
     "ingested_at": "2026-11-01T10:23:38.755414+00:00",
     "summary": "Pour soutenir les plus modestes face à l'inflation, Philip Lane suggère \"une hausse d'impôts sur les hauts revenus ou sur les industries et les entreprises qui sont très rentables malgré le choc énergétique\".",
     "thumbnail": "thumbnails/xpcapd.webp",
-    "tags": [
-      "BCE",
-      "Philip Lane"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:44:57.077014+00:00"
   },
   {
@@ -279,33 +234,8 @@
     "ingested_at": "2026-11-01T10:23:38.756058+00:00",
     "summary": "La vicime serait brûlée à 90% et aurait hurlé à plusieurs reprises qu'elle ne souhaitait pas \"aller au front.\"",
     "thumbnail": "thumbnails/xpblow.webp",
-    "tags": [
-      "Novaïa Gazeta"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:44:57.428659+00:00"
-  },
-  {
-    "id": "xojxoa",
-    "title": "L’ouverture à la concurrence en Europe est à l’origine de la flambée des prix de l’électricité - Transitions & Energies",
-    "url": "https://www.transitionsenergies.com/ouverture-concurrence-europe-origine-flambee-prix-electricite/",
-    "permalink": "/r/france/comments/xojxoa/louverture_à_la_concurrence_en_europe_est_à/",
-    "created_at": "2022-09-26T13:53:21+00:00",
-    "score": 268,
-    "num_comments": 80,
-    "subreddit": "france",
-    "author": "233C",
-    "flair": "Société",
-    "domain": "transitionsenergies.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/qH69qpMqo50SIDJ4ebFTqtkQNMseIwRn_SpX_VYbdiU.jpg?auto=webp&s=8c12fae2339cf1129fd96115b5e4fd93aec784d2",
-    "ingested_at": "2026-11-01T10:23:38.755842+00:00",
-    "summary": "La conjoncture n’explique pas tout de l’envolée incontrôlée des prix de l’électricité en Europe. La source du problème se trouve dans les réformes mises en place dans le cadre de l’ouverture à la concurrence des marchés européens de l’électricité au début des années 2000.",
-    "thumbnail": "thumbnails/xojxoa.webp",
-    "tags": [
-      "Europe",
-      "Société"
-    ],
-    "analyzed_at": "2026-11-01T10:44:57.410152+00:00"
   },
   {
     "id": "xoc9wv",
@@ -325,11 +255,8 @@
     "summary": "Selon un sondage que franceinfo vous dévoile ce lundi, une majorité de cadres veulent partir à la retraite à 60 ans. Et une bonne proportion d’entre eux sont prêts à manifester et à se mettre en grève pour cela.",
     "thumbnail": "thumbnails/xoc9wv.webp",
     "tags": [
-      "Sophie Binet",
-      "CGT",
-      "Emploi",
-      "Prendre sa retraite",
-      "Politique"
+      "Retraites",
+      "Grèves et syndicats"
     ],
     "analyzed_at": "2026-11-01T10:44:57.535863+00:00"
   },
@@ -351,11 +278,9 @@
     "summary": "Invitée sur BFMTV lundi matin, la Première ministre a annoncé qu'une décision serait \"prise d'ici la fin de la semaine\" sur la méthode envisagée pour la très controversée réforme.",
     "thumbnail": "thumbnails/xoc8xn.webp",
     "tags": [
-      "Elisabeth Borne",
-      "BFMTV",
-      "Réforme des retraites",
-      "Éco / Conso",
-      "Politique"
+      "Élisabeth Borne",
+      "Retraites",
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T10:44:57.922976+00:00"
   },
@@ -376,10 +301,7 @@
     "ingested_at": "2026-11-01T10:23:38.755438+00:00",
     "summary": "",
     "thumbnail": "thumbnails/xnkqbd.webp",
-    "tags": [
-      "Figaro",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:44:59.018158+00:00"
   },
   {
@@ -400,11 +322,7 @@
     "summary": "Selon des éléments obtenus par la justice française, l’ancien dignitaire Bachir Saleh a confirmé à des magistrats libyens que Nicolas Sarkozy avait personnellement sollicité auprès de Mouammar Kadhaf…",
     "thumbnail": "thumbnails/xnhg3j.webp",
     "tags": [
-      "Sarkozy",
-      "Kadhafi",
-      "Bachir Saleh",
-      "Nicolas Sarkozy",
-      "Politique"
+      "Nicolas Sarkozy"
     ],
     "analyzed_at": "2026-11-01T10:44:57.874174+00:00"
   },
@@ -426,11 +344,9 @@
     "summary": "André Chanclu est présenté par Moscou comme un observateur international des scrutins frauduleux organisés dans les territoires occupés en Ukraine. Mais ce dernier n'a jamais caché sa sympathie pour Vladimir Poutine.",
     "thumbnail": "thumbnails/xmobot.webp",
     "tags": [
-      "Ukraine",
-      "André Chanclu",
-      "Moscou",
+      "Guerre en Ukraine",
       "Vladimir Poutine",
-      "Collectif France-Russie"
+      "Extrême droite"
     ],
     "analyzed_at": "2026-11-01T10:44:58.459778+00:00"
   },
@@ -451,11 +367,7 @@
     "ingested_at": "2026-11-01T10:23:38.755654+00:00",
     "summary": "FIG DATA - Aucune des grandes villes françaises encore présentes dans le classement n'est épargnée. La France fait, de plus, pâle figure face aux autres pays européens.",
     "thumbnail": "thumbnails/xmllps.webp",
-    "tags": [
-      "FIG DATA",
-      "Délinquance",
-      "Insécurité"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:44:57.863826+00:00"
   },
   {
@@ -476,7 +388,7 @@
     "summary": "",
     "thumbnail": "thumbnails/xlvml3.webp",
     "tags": [
-      "Belgique"
+      "Énergie"
     ],
     "analyzed_at": "2026-11-01T10:44:58.614942+00:00"
   },
@@ -497,9 +409,7 @@
     "ingested_at": "2026-11-01T10:23:38.756239+00:00",
     "summary": "",
     "thumbnail": "thumbnails/xlvh8m.webp",
-    "tags": [
-      "Moscou"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:44:58.492988+00:00"
   },
   {
@@ -520,7 +430,8 @@
     "summary": "",
     "thumbnail": "thumbnails/xky4mv.webp",
     "tags": [
-      "Emmanuel Macron"
+      "Emmanuel Macron",
+      "Extrême droite"
     ],
     "analyzed_at": "2026-11-01T10:44:58.437215+00:00"
   },
@@ -542,11 +453,9 @@
     "summary": "Au sein des partis politiques ou des mouvements, les milieux militants de gauche ne sont pas exempts de violences sexistes et sexuelles malgré un féminisme affiché, comme le démontre les accusations contre les députés insoumis Eric Coquerel et Adrien Quatennens, ou l'écologiste Julien Bayou.",
     "thumbnail": "thumbnails/xkx3pl.webp",
     "tags": [
-      "Eric Coquerel et Adrien Quatennens",
-      "Julien Bayou",
-      "Inès",
-      "Marie",
-      "Politique"
+      "Adrien Quatennens",
+      "Éric Coquerel",
+      "Violences sexuelles"
     ],
     "analyzed_at": "2026-11-01T10:44:58.505280+00:00"
   },
@@ -568,8 +477,8 @@
     "summary": "Après l'appel à la mobilisation générale de Vladimir Poutine pour venir renforcer les lignes de fronts, ce mercredi 21 septembre, les hommes Russes cherchent à fuir le territoire par les airs. Les compagnies aériennes...",
     "thumbnail": "thumbnails/xk5r7y.webp",
     "tags": [
-      "Poutine",
-      "Vladimir Poutine"
+      "Vladimir Poutine",
+      "Manifestations"
     ],
     "analyzed_at": "2026-11-01T10:44:58.799554+00:00"
   },
@@ -591,11 +500,8 @@
     "summary": "Vladimir Poutine a annoncé, mercredi 21 septembre, une mobilisation partielle de la population russe pour aller combattre en Ukraine. 300.000 personnes sont concernées. La mobilisation prend effet immédiatement. Et dès l'annonce, de nombreux Russes ont notamment cherché sur Internet: Comment quitter",
     "thumbnail": "thumbnails/xk4muv.webp",
     "tags": [
-      "Internet",
       "Vladimir Poutine",
-      "Ukraine",
-      "Moscou",
-      "Russie"
+      "Guerre en Ukraine"
     ],
     "analyzed_at": "2026-11-01T10:44:59.233612+00:00"
   },
@@ -617,10 +523,8 @@
     "summary": "Jean-Marie Girier, ex-directeur de campagne de Macron, a demandé à la ville de Poitiers de retirer une partie de la subvention accordée à une association de défense de l’environnement. Motif ? Ses at…",
     "thumbnail": "thumbnails/xjy2rm.webp",
     "tags": [
-      "Vienne",
-      "Poitiers",
-      "Jean-Marie Girier",
-      "Macron"
+      "Emmanuel Macron",
+      "Laïcité"
     ],
     "analyzed_at": "2026-11-01T10:44:59.615405+00:00"
   },
@@ -642,10 +546,10 @@
     "summary": "",
     "thumbnail": "thumbnails/xjwxk2.webp",
     "tags": [
-      "Ukraine",
       "Vladimir Poutine",
-      "Russes",
-      "Politique"
+      "Guerre en Ukraine",
+      "Manifestations",
+      "Défense"
     ],
     "analyzed_at": "2026-11-01T10:44:58.845779+00:00"
   },
@@ -667,9 +571,7 @@
     "summary": "",
     "thumbnail": "thumbnails/xjk44n.webp",
     "tags": [
-      "King Charles",
-      "Macron",
-      "Politique"
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T10:44:58.986717+00:00"
   },
@@ -690,12 +592,7 @@
     "ingested_at": "2026-11-01T10:23:38.754922+00:00",
     "summary": "François Braun annonce également dans une interview à \"20 Minutes » l’ouverture du dépistage gratuit de toutes les infections sexuellement transmissibles jusqu’à 26 ans",
     "thumbnail": "thumbnails/xjf8ki.webp",
-    "tags": [
-      "Santé François Braun",
-      "François Braun",
-      "Minutes",
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:44:59.230993+00:00"
   },
   {
@@ -715,10 +612,7 @@
     "ingested_at": "2026-11-01T10:23:38.755987+00:00",
     "summary": "",
     "thumbnail": "thumbnails/xj8t6j.webp",
-    "tags": [
-      "Vinci",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:45:00.207693+00:00"
   },
   {
@@ -740,8 +634,7 @@
     "thumbnail": "thumbnails/xj1t6g.webp",
     "tags": [
       "Sandrine Rousseau",
-      "Adrien Quatennens",
-      "Politique"
+      "Adrien Quatennens"
     ],
     "analyzed_at": "2026-11-01T10:44:59.239933+00:00"
   },
@@ -763,11 +656,7 @@
     "summary": "La Fage, premier syndicat étudiant, fait le constat qu'en dix ans, la France a perdu 10 000 inscrits en doctorat. En cause, les difficultés de financements et les conditions de recherches dégradées.",
     "thumbnail": "thumbnails/xj0qle.webp",
     "tags": [
-      "Fage",
-      "Fanny Sarkissian",
-      "Pouvoir d'achat",
-      "Éco / Conso",
-      "Société"
+      "Pauvreté"
     ],
     "analyzed_at": "2026-11-01T10:44:59.361960+00:00"
   },
@@ -788,9 +677,7 @@
     "ingested_at": "2026-11-01T10:23:38.754518+00:00",
     "summary": "",
     "thumbnail": "thumbnails/xi7bfk.webp",
-    "tags": [
-      "Vittel"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:44:59.535901+00:00"
   },
   {
@@ -811,58 +698,9 @@
     "summary": "[VIDÉO] La députée du RN a accusé l'Union Européenne de s'entêter dans de \"dangereuses postures belliqueuses\" vis-à-vis de la Russie. Prédisant \"des difficultés d'une ampleur inégalée\" en Europe et notamment en France, sur le plan énergétique entre autres, elle s'est opposée aux sanctions contre le Kremlin.",
     "thumbnail": "thumbnails/xi3luv.webp",
     "tags": [
-      "Marine le Pen",
-      "Moscou",
-      "Union Européenne",
-      "Russie",
-      "Politique"
+      "Marine Le Pen"
     ],
     "analyzed_at": "2026-11-01T10:44:59.725378+00:00"
-  },
-  {
-    "id": "xhnoq8",
-    "title": "Pénurie d'eau, air conditionné en panne : un match-test au Qatar finit en fiasco",
-    "url": "https://www.sofoot.com/penurie-d-eau-air-conditionne-en-panne-un-match-test-au-qatar-finit-en-fiasco-519095.html",
-    "permalink": "/r/france/comments/xhnoq8/pénurie_deau_air_conditionné_en_panne_un/",
-    "created_at": "2022-09-18T18:09:00+00:00",
-    "score": 329,
-    "num_comments": 73,
-    "subreddit": "france",
-    "author": "OrdinaryMidnight5",
-    "flair": "Sport",
-    "domain": "sofoot.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/rogMZ8gyNeqgJmvo6KgiC61YGlrk_04e14uh-FTPpkE.jpg?auto=webp&s=5723adfb6464e4735c747b7f4c367c9d0e1c9b89",
-    "ingested_at": "2026-11-01T10:23:38.755366+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/xhnoq8.webp",
-    "tags": [
-      "Qatar",
-      "Sport"
-    ],
-    "analyzed_at": "2026-11-01T10:45:05.182965+00:00"
-  },
-  {
-    "id": "xheuu9",
-    "title": "Une cycliste roule à 30km/h sur une route limitée à 30km/h. Une automobiliste devient hystérique. Bienvenue en France.",
-    "url": "https://streamable.com/2bqilh#",
-    "permalink": "/r/france/comments/xheuu9/une_cycliste_roule_à_30kmh_sur_une_route_limitée/",
-    "created_at": "2022-09-18T12:02:19+00:00",
-    "score": 727,
-    "num_comments": 711,
-    "subreddit": "france",
-    "author": "[deleted]",
-    "flair": "Société",
-    "domain": "streamable.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://a.thumbs.redditmedia.com/c8-NZNQyxu0bLELg5j8GKAisZ74ZTfsf1VkMo9EDOC4.jpg",
-    "ingested_at": "2026-11-01T10:23:38.754701+00:00",
-    "summary": "This video was flagged for violating our Community Guidelines",
-    "thumbnail": "thumbnails/xheuu9.webp",
-    "tags": [
-      "Société"
-    ],
-    "analyzed_at": "2026-11-01T10:44:59.564987+00:00"
   },
   {
     "id": "xhc45t",
@@ -882,9 +720,7 @@
     "summary": "Adrien Quatennens est visé par une main courante déposée par son épouse, Céline, en pleine procédure de divorce. Dans un communiqué, il évoque trois épisodes de disputes et présente ses excuses à sa femme.",
     "thumbnail": "thumbnails/xhc45t.webp",
     "tags": [
-      "Adrien Quatennens",
-      "LFI",
-      "Politique"
+      "Adrien Quatennens"
     ],
     "analyzed_at": "2026-11-01T10:44:59.495044+00:00"
   },
@@ -905,10 +741,7 @@
     "ingested_at": "2026-11-01T10:23:38.756160+00:00",
     "summary": "Les eurodéputés ont adopté mercredi un amendement assouplissant les règles à respecter pour qu’une molécule d’hydrogène soit considérée comme durable.",
     "thumbnail": "thumbnails/xgpfbx.webp",
-    "tags": [
-      "Europe",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:45:00.251667+00:00"
   },
   {
@@ -929,9 +762,8 @@
     "summary": "Deux adolescents ont été condamnés cette semaine à 35 heures de travaux d'intérêt général pour l'agression d'un jeune de 17 ans à Montgeron, en Essonne, en septembre 2021. La victime dénonce cette décision.",
     "thumbnail": "thumbnails/xgfnka.webp",
     "tags": [
-      "Montgeron",
-      "Essonne",
-      "Société"
+      "Justice",
+      "LGBT+"
     ],
     "analyzed_at": "2026-11-01T10:44:59.631424+00:00"
   },
@@ -953,11 +785,9 @@
     "summary": "Loin de se réjouir de voir la proposition de \"jour sans chasse évincée\", les chasseurs sont sortis de leurs gonds en découvrant les propositions du Sénat.",
     "thumbnail": "thumbnails/xflcrg.webp",
     "tags": [
-      "Alcool",
-      "Stupefiant",
-      "Polémique",
-      "Sénat",
-      "Fil info"
+      "Cause animale",
+      "Narcotrafic",
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T10:45:00.027356+00:00"
   },
@@ -979,9 +809,7 @@
     "summary": "Vu le délitement de la situation démocratique en Hongrie ces dernières années, ce pays est devenu un 'régime hybride...",
     "thumbnail": "thumbnails/xfhw86.webp",
     "tags": [
-      "Hongrie",
-      "Parlement",
-      "Politique"
+      "Union européenne"
     ],
     "analyzed_at": "2026-11-01T10:45:00.285742+00:00"
   },
@@ -1003,32 +831,10 @@
     "summary": "Le Sénat propose dans un rapport \"d'interdire l'alcool et les stupéfiants lors de la chasse\" car chasser en état d'ébriété n'est aujourd'hui pas formellement interdit.",
     "thumbnail": "thumbnails/xf01rg.webp",
     "tags": [
-      "Sénat",
-      "Antoine Herrmann"
+      "Institutions",
+      "Cause animale"
     ],
     "analyzed_at": "2026-11-01T10:45:00.005906+00:00"
-  },
-  {
-    "id": "xeyymc",
-    "title": "Mini-guide de l'antipub : Comment éteindre proprement les panneaux publicitaires près de chez vous.",
-    "url": "https://drive.google.com/drive/folders/1h1RrBs85LbA_TCQaE7RDj_UtIjl0NWaD",
-    "permalink": "/r/france/comments/xeyymc/miniguide_de_lantipub_comment_éteindre_proprement/",
-    "created_at": "2022-09-15T14:58:44+00:00",
-    "score": 552,
-    "num_comments": 96,
-    "subreddit": "france",
-    "author": "EetD",
-    "flair": "Société",
-    "domain": "drive.google.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://b.thumbs.redditmedia.com/iyn5VGASdBHHw-eoeEC4CBEwcZJ2JQ4fR9u88CDP9YU.jpg",
-    "ingested_at": "2026-11-01T10:23:38.754845+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/xeyymc.webp",
-    "tags": [
-      "Société"
-    ],
-    "analyzed_at": "2026-11-01T10:45:00.488729+00:00"
   },
   {
     "id": "xesgiy",
@@ -1047,7 +853,10 @@
     "ingested_at": "2026-11-01T10:23:38.755866+00:00",
     "summary": "",
     "thumbnail": "thumbnails/xesgiy.webp",
-    "tags": [],
+    "tags": [
+      "Institutions",
+      "Cause animale"
+    ],
     "analyzed_at": "2026-11-01T10:45:00.292682+00:00"
   },
   {
@@ -1067,11 +876,7 @@
     "ingested_at": "2026-11-01T10:23:38.754619+00:00",
     "summary": "DÉCRYPTAGE - Canberra cherche des alternatives pour éviter une «rupture capacitaire» de sa marine, les États-unis n’étant finalement pas en mesure de lui livrer de sous-marins.",
     "thumbnail": "thumbnails/xepsqx.webp",
-    "tags": [
-      "Australie",
-      "Ankus",
-      "États-unis"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:45:01.068259+00:00"
   },
   {
@@ -1092,10 +897,8 @@
     "summary": "Stockholm - Un bloc inédit réunissant la droite et l'extrême droite a remporté mercredi de justesse les élections législatives en Suède, chassant du pouvoir la gauche aux commandes depuis huit ans.",
     "thumbnail": "thumbnails/xec816.webp",
     "tags": [
-      "Suède",
-      "SD",
-      "Ulf Kristersson",
-      "Monde"
+      "Extrême droite",
+      "Élections"
     ],
     "analyzed_at": "2026-11-01T10:45:01.115202+00:00"
   },
@@ -1116,13 +919,7 @@
     "ingested_at": "2026-11-01T10:23:38.755051+00:00",
     "summary": "La question s'Ã©tait dÃ©jÃ timidement posÃ©e en 2021, elle revient plus brÃ»lante Ã quelques semaines du dÃ©but du Mondial de football, organisÃ© par le QatarÂ : faut-il boycotter l'Ã©vÃ©nement, accusÃ© d'Ãªtre un dÃ©sastre humain et Ã©cologiqueÂ ?",
     "thumbnail": "thumbnails/xe5avz.webp",
-    "tags": [
-      "Qatar",
-      "Coupe du Monde",
-      "Mondial",
-      "QatarÂ",
-      "Sport"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:45:00.881741+00:00"
   },
   {
@@ -1143,7 +940,7 @@
     "summary": "",
     "thumbnail": "thumbnails/xdwcmk.webp",
     "tags": [
-      "Russes"
+      "Guerre en Ukraine"
     ],
     "analyzed_at": "2026-11-01T10:45:03.852362+00:00"
   },
@@ -1164,10 +961,7 @@
     "ingested_at": "2026-11-01T10:23:38.754975+00:00",
     "summary": "",
     "thumbnail": "thumbnails/xd1nfo.webp",
-    "tags": [
-      "Jean-Luc Godard",
-      "Soft paywall"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:45:03.429567+00:00"
   },
   {
@@ -1187,9 +981,7 @@
     "ingested_at": "2026-11-01T10:23:38.755150+00:00",
     "summary": "",
     "thumbnail": "thumbnails/xczcbr.webp",
-    "tags": [
-      "Arménie et Azerbaïdjan"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:45:00.856224+00:00"
   },
   {
@@ -1210,37 +1002,9 @@
     "summary": "Plusieurs streamers ont critiqué ce dimanche une vidéo du président de la République les remerciant pour leur mobilisation en faveur de la lutte contre le réchauffement climatique.",
     "thumbnail": "thumbnails/xc1u4g.webp",
     "tags": [
-      "Zevent",
-      "Tweet de Emmanuel Macron",
-      "République",
-      "Emmanuel Macron",
-      "Politique"
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T10:45:00.815103+00:00"
-  },
-  {
-    "id": "xbxv6n",
-    "title": "Nouveau record ZEvent 2022 : 10 181 710 €",
-    "url": "https://zevent.fr",
-    "permalink": "/r/france/comments/xbxv6n/nouveau_record_zevent_2022_10_181_710/",
-    "created_at": "2022-09-12T00:03:34+00:00",
-    "score": 583,
-    "num_comments": 230,
-    "subreddit": "france",
-    "author": "kindermoumoute",
-    "flair": "Actus",
-    "domain": "zevent.fr",
-    "selftext": "",
-    "reddit_thumbnail": "",
-    "ingested_at": "2026-11-01T10:23:38.754808+00:00",
-    "summary": "ZEVENT, est un projet caritatif destiné à récolter des fonds par le biais du streaming pendant 3 jours. Créé par Adrien Nougaret et Alexandre Dachary en 2016, il se compose d'un concert suivi d'un marathon de streaming sur Twitch.",
-    "thumbnail": "thumbnails/d70og5.webp",
-    "tags": [
-      "Z Event",
-      "Adrien Nougaret et Alexandre Dachary",
-      "Twitch"
-    ],
-    "analyzed_at": "2026-11-01T09:41:18.642038+00:00"
   },
   {
     "id": "xbgmel",
@@ -1259,12 +1023,7 @@
     "ingested_at": "2026-11-01T10:23:38.755225+00:00",
     "summary": "Yann Galut a exprimé son refus de mettre en berne les drapeaux français lors des obsèques solennelles d'Elizabeth II.",
     "thumbnail": "thumbnails/xbgmel.webp",
-    "tags": [
-      "Bourges",
-      "Mort Elizabeth II",
-      "Yann Galut",
-      "Elizabeth II"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:45:01.109655+00:00"
   },
   {
@@ -1284,10 +1043,7 @@
     "ingested_at": "2026-11-01T10:23:38.755913+00:00",
     "summary": "L'actualité sciences et santé en France et dans le monde par la rédaction de L'Express : actualités scientifiques, progrès et innovations médicales…",
     "thumbnail": "thumbnails/xbckaq.webp",
-    "tags": [
-      "Charles III",
-      "Express"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:45:01.160605+00:00"
   },
   {
@@ -1308,9 +1064,7 @@
     "summary": "Sa femme est décédée le 27 juillet dernier après une attente de 28h dans un box des urgences de l'hôpital de Poissy (Yvelines). Guy Bihoreau a écrit au directeur de l'établissement hospitalier pour obtenir des réponses. Il ne compte pas porter plainte. Le 26 juillet dernier vers midi, Jeannine, 79...",
     "thumbnail": "thumbnails/xawpa7.webp",
     "tags": [
-      "Guy Bihoreau",
-      "Poissy",
-      "Politique"
+      "Santé"
     ],
     "analyzed_at": "2026-11-01T10:45:02.224985+00:00"
   },
@@ -1332,11 +1086,7 @@
     "summary": "Spécialisée dans l’assurance du matériel multimédia, la SFAM, rebaptisée Indexia, se fait remarquer depuis longtemps par ses méthodes de vente peu scrupuleuses.",
     "thumbnail": "thumbnails/xauw9d.webp",
     "tags": [
-      "SFAM",
-      "Procès SFAM",
-      "Indexia",
-      "Cyrana",
-      "Société"
+      "Justice"
     ],
     "analyzed_at": "2026-11-01T10:45:01.679050+00:00"
   },
@@ -1358,8 +1108,7 @@
     "summary": "Le ministre de l'Intérieur, Gérald Darmanin, va prochainement présenter un projet de loi sur la fin du retrait de points pour les \"petits excès de vitesse\" pour une application en fin d'année. Il veut aussi...",
     "thumbnail": "thumbnails/xa1o52.webp",
     "tags": [
-      "Gérald Darmanin",
-      "Intérieur"
+      "Gérald Darmanin"
     ],
     "analyzed_at": "2026-11-01T10:45:01.607964+00:00"
   },
@@ -1380,12 +1129,7 @@
     "ingested_at": "2026-11-01T10:23:38.756082+00:00",
     "summary": "",
     "thumbnail": "thumbnails/x9ntpn.webp",
-    "tags": [
-      "Bernard Accoyer",
-      "Assemblée Nationale",
-      "État",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:45:02.548373+00:00"
   },
   {
@@ -1406,10 +1150,7 @@
     "summary": "Sur Twitter, des historiens critiquent les propos de Sandrine Rousseau qu’elle a tenu durant une conférence à UCLouvain en mars dernier.",
     "thumbnail": "thumbnails/x92waf.webp",
     "tags": [
-      "Sandrine Rousseau",
-      "UCLouvain",
-      "Twitter",
-      "Politique"
+      "Sandrine Rousseau"
     ],
     "analyzed_at": "2026-11-01T10:45:02.424245+00:00"
   },
@@ -1431,11 +1172,7 @@
     "summary": "Le conducteur d'un véhicule volé a été tué mercredi à Nice par un policier qui a fait usage de son arme lors d'un refus d'obtempérer.",
     "thumbnail": "thumbnails/x8t9fp.webp",
     "tags": [
-      "Nice",
-      "Henri-Matisse",
-      "Alpes-Maritimes",
-      "Faits divers",
-      "Fait Divers"
+      "Police"
     ],
     "analyzed_at": "2026-11-01T10:45:02.361788+00:00"
   },
@@ -1456,13 +1193,7 @@
     "ingested_at": "2026-11-01T10:23:38.756132+00:00",
     "summary": "Le président de l'Union des démocrates et indépendants est visé avec un policier en poste à Drancy par une plainte d'un journaliste du \"Point\" pour \"abus de confiance\" à la suite d'un article mensonger, publié fin juin, mettant en cause le couple de députés LFI Raquel Garrido et Alexis Corbière.",
     "thumbnail": "thumbnails/x7ztcb.webp",
-    "tags": [
-      "Jean-Christophe Lagarde",
-      "Union",
-      "Drancy",
-      "LFI Raquel Garrido et Alexis Corbière",
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:45:02.101368+00:00"
   },
   {
@@ -1483,11 +1214,8 @@
     "summary": "L'exécutif de gauche veut mener une «réflexion nationale afin de mieux taxer les bénéfices des multinationales installées» dans la capitale.",
     "thumbnail": "thumbnails/x7yoay.webp",
     "tags": [
-      "Paris",
-      "Impôts",
-      "mairie de Paris",
-      "Anne Hidalgo",
-      "Société"
+      "Budget et fiscalité",
+      "Anne Hidalgo"
     ],
     "analyzed_at": "2026-11-01T10:45:03.243096+00:00"
   },
@@ -1508,13 +1236,7 @@
     "ingested_at": "2026-11-01T10:23:38.756302+00:00",
     "summary": "Dans une tribune publiée sur le site du journal « La Croix », Olivier Abel, philosophe protestant, assure que de nouvelles « Saint-Barthélemy » se préparent en France. Cette fois-ci, imagine-t-il, ce sont les défenseurs « d'une France toute laïque » qui deviendront les nouveaux bourreaux.",
     "thumbnail": "thumbnails/x7jrl1.webp",
-    "tags": [
-      "Croix",
-      "Olivier Abel",
-      "Unité",
-      "Jean-Pierre Sakoun",
-      "Saint-Barthélemy"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T10:45:03.333355+00:00"
   },
   {
@@ -1538,32 +1260,6 @@
     "analyzed_at": "2026-11-01T10:45:02.547306+00:00"
   },
   {
-    "id": "x6io2r",
-    "title": "La série française Arcane sacrée aux Emmy Awards 2022",
-    "url": "https://www.premiere.fr/Series/News-Series/La-serie-francaise-Arcane-sacree-aux-Emmy-Awards-2022",
-    "permalink": "/r/france/comments/x6io2r/la_série_française_arcane_sacrée_aux_emmy_awards/",
-    "created_at": "2022-09-05T15:16:59+00:00",
-    "score": 272,
-    "num_comments": 83,
-    "subreddit": "france",
-    "author": "nokiou",
-    "flair": "Culture",
-    "domain": "premiere.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/GP3Ma790tY4h5GxZTqDDak4H0TybMGWwn34DtnPo_qM.jpeg?auto=webp&s=b6bdb2890f1596152d34cc7d42d0a1a4dd65dc4f",
-    "ingested_at": "2026-11-01T10:23:38.755796+00:00",
-    "summary": "Squid Game et Stranger Things font déjà une première razzia, mais on notera la victoire de la série d'animation Netflix, made in France, face aux Simpson et à Rick & Morty.",
-    "thumbnail": "thumbnails/x6io2r.webp",
-    "tags": [
-      "Arcane",
-      "Emmy Awards 2022",
-      "Stranger Things",
-      "Séries",
-      "Culture"
-    ],
-    "analyzed_at": "2026-11-01T10:45:03.910419+00:00"
-  },
-  {
     "id": "x6ets8",
     "title": "Énergie : certaines boutiques refusent d’éteindre la lumière la nuit",
     "url": "https://www.francetvinfo.fr/economie/energie/energie-certaines-boutiques-refusent-deteindre-la-lumiere-la-nuit_5341000.html",
@@ -1581,9 +1277,7 @@
     "summary": "Éteindre la lumière est un geste élémentaire pour faire des économies d’énergie. Pourtant, de nombreuses enseignes restent allumées la nuit.",
     "thumbnail": "thumbnails/x6ets8.webp",
     "tags": [
-      "Energie",
-      "Éco / Conso",
-      "Société"
+      "Énergie"
     ],
     "analyzed_at": "2026-11-01T10:45:03.114925+00:00"
   },
@@ -1605,7 +1299,8 @@
     "summary": "",
     "thumbnail": "thumbnails/x6c8r8.webp",
     "tags": [
-      "Société"
+      "Santé",
+      "Numérique"
     ],
     "analyzed_at": "2026-11-01T10:45:02.853136+00:00"
   },
@@ -1627,9 +1322,7 @@
     "summary": "La Tour Séquoia, où le ministère de la Transition écologique a ses bureaux, reste éclairée la nuit alors même que cela lui est interdit par la loi.",
     "thumbnail": "thumbnails/x695tn.webp",
     "tags": [
-      "Transition",
-      "Tour Séquoia",
-      "Écologie"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T10:45:03.126549+00:00"
   },
@@ -1651,7 +1344,7 @@
     "summary": "",
     "thumbnail": "thumbnails/x5hjgc.webp",
     "tags": [
-      "Nice"
+      "Terrorisme"
     ],
     "analyzed_at": "2026-11-01T10:45:03.908840+00:00"
   },
@@ -1673,8 +1366,7 @@
     "summary": "",
     "thumbnail": "thumbnails/x5g3vi.webp",
     "tags": [
-      "EDF",
-      "Économie"
+      "Énergie"
     ],
     "analyzed_at": "2026-11-01T10:45:04.419794+00:00"
   },
@@ -1696,37 +1388,9 @@
     "summary": "Esther Duflo pointe du doigt la \"responsabilité immense\" des pays riches et le comportement de \"ceux qui sont les plus riches\" et appelle à plus de justice fiscale, en France notamment.",
     "thumbnail": "thumbnails/x4qyy8.webp",
     "tags": [
-      "Esther Duflo",
-      "Nobel Esther Duflo",
-      "Environnement",
-      "Réforme fiscale",
-      "Économie"
+      "Budget et fiscalité"
     ],
     "analyzed_at": "2026-11-01T10:45:04.111562+00:00"
-  },
-  {
-    "id": "x4pqmy",
-    "title": "Néonazis déambulant dans les rues de Besançon : « Que font la police et la Ville ? »",
-    "url": "https://www.macommune.info/neonazis-deambulant-dans-les-rues-de-besancon-que-font-la-police-et-la-ville/",
-    "permalink": "/r/france/comments/x4pqmy/néonazis_déambulant_dans_les_rues_de_besançon_que/",
-    "created_at": "2022-09-03T08:52:45+00:00",
-    "score": 363,
-    "num_comments": 298,
-    "subreddit": "france",
-    "author": "Niafron",
-    "flair": "Fait Divers",
-    "domain": "macommune.info",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/KrHBvF--NNGS6GnzSKVIAtug8Pwq8MV31WLds_CEBq8.jpg?auto=webp&s=c126b9e80278e120983e88d905ef08b1260fc22e",
-    "ingested_at": "2026-11-01T10:23:38.755200+00:00",
-    "summary": "Dans la nuit de samedi 27 à dimanche 28 août 2022, un groupe de militants d’extrême droite a été facilement repéré au centre-ville de Besançon notamme",
-    "thumbnail": "thumbnails/x4pqmy.webp",
-    "tags": [
-      "Besançon",
-      "Ville",
-      "Fait Divers"
-    ],
-    "analyzed_at": "2026-11-01T10:45:03.850060+00:00"
   },
   {
     "id": "x45zxb",
@@ -1746,8 +1410,8 @@
     "summary": "EDF confirme que 32 réacteurs sont toujours à l'arrêt. Au 25 décembre, 28 réacteurs devraient être remis en service, les 5 autres le seront d'ici février 2023.",
     "thumbnail": "thumbnails/x45zxb.webp",
     "tags": [
-      "EDF",
-      "Écologie"
+      "Énergie",
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T10:45:03.943399+00:00"
   },
@@ -1769,8 +1433,7 @@
     "summary": "L’Urssaf reproche à la plateforme de ne pas avoir réglé des cotisations et contributions sociales",
     "thumbnail": "thumbnails/x45sh7.webp",
     "tags": [
-      "Urssaf",
-      "Économie"
+      "Justice"
     ],
     "analyzed_at": "2026-11-01T10:45:04.427866+00:00"
   },
@@ -1792,8 +1455,7 @@
     "summary": "",
     "thumbnail": "thumbnails/x40j9m.webp",
     "tags": [
-      "Cannes",
-      "Fait Divers"
+      "Numérique"
     ],
     "analyzed_at": "2026-11-01T10:45:08.285773+00:00"
   },
@@ -1815,10 +1477,7 @@
     "summary": "Pour cette somme n'importe qui pouvait emprunter les trains régionaux et locaux, métros, tramways et bus. Certains demandent le prolongement du dispositif.",
     "thumbnail": "thumbnails/x3v1ut.webp",
     "tags": [
-      "Allemagne",
-      "CO2",
-      "SPD",
-      "Écologie"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T10:45:04.953412+00:00"
   },
@@ -1840,56 +1499,10 @@
     "summary": "Laurent Valogne – un pseudonyme – est professeur de lettres dans un lycée de région parisienne depuis 1991. Sans tabous, dans son livre « Ces petits arrangements qui tuent » (Plon), il décrit la montée de l’islamisme à l’école. Et surtout la lâcheté de certains de ses collègues face à l’endoctrinement des élèves.",
     "thumbnail": "thumbnails/x3lrpv.webp",
     "tags": [
-      "Samuel Paty",
-      "Laurent Valogne"
+      "Laïcité",
+      "Éducation"
     ],
     "analyzed_at": "2026-11-01T10:45:04.892215+00:00"
-  },
-  {
-    "id": "x33z7f",
-    "title": "Pénurie de profs – Les établissements autorisés à recruter les élèves qui ont la moyenne comme contractuels",
-    "url": "https://www.legorafi.fr/2022/08/31/penurie-de-profs-les-etablissements-autorises-a-recruter-les-eleves-qui-ont-la-moyenne-comme-contractuels/",
-    "permalink": "/r/france/comments/x33z7f/pénurie_de_profs_les_établissements_autorisés_à/",
-    "created_at": "2022-09-01T10:23:21+00:00",
-    "score": 338,
-    "num_comments": 34,
-    "subreddit": "france",
-    "author": "Johannes_P",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/NqbwXNiGCtWEDc-nL3PWTuXc0OLgisx8Qd83pc1vrY4.jpg?auto=webp&s=c8fd34d8a729d17e911b12f4a5fffa19c112f913",
-    "ingested_at": "2026-11-01T10:23:38.755297+00:00",
-    "summary": "Empêtrés dans une rentrée délicate, le gouvernement et l’Éducation nationale s'activent pour trouver une solution à la pénurie de professeurs dans les collèges et les lycées. Reportage",
-    "thumbnail": "thumbnails/x33z7f.webp",
-    "tags": [
-      "Éducation",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T10:45:04.235201+00:00"
-  },
-  {
-    "id": "x320v1",
-    "title": "Chairman of Russian oil producer Lukoil dies after falling from hospital window",
-    "url": "https://www.swissinfo.ch/eng/chairman-of-russian-oil-producer-lukoil-dies-after-falling-from-hospital-window---source/47867946",
-    "permalink": "/r/france/comments/x320v1/chairman_of_russian_oil_producer_lukoil_dies/",
-    "created_at": "2022-09-01T08:20:43+00:00",
-    "score": 278,
-    "num_comments": 102,
-    "subreddit": "france",
-    "author": "polopoto",
-    "flair": "",
-    "domain": "swissinfo.ch",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/Ct5KeYSDyqwFSSF1G8aBjr_mYrxwzZxJ-AqeQRSK68A.jpg?auto=webp&s=fc529004bb9f688dea859a20253cf248faac2649",
-    "ingested_at": "2026-11-01T10:23:38.755725+00:00",
-    "summary": "",
-    "thumbnail": "",
-    "tags": [
-      "Russian",
-      "Lukoil"
-    ],
-    "analyzed_at": "2026-11-01T10:45:11.291006+00:00"
   },
   {
     "id": "x3042h",
@@ -1909,9 +1522,7 @@
     "summary": "Romaric Justes est enseignant stagiaire en NSI (numérique et sciences informatiques) en lycée. Tout juste diplômé, il a décidé de ne pas se présenter devant les élèves à la rentrée. Il nous en explique les raisons.",
     "thumbnail": "thumbnails/x3042h.webp",
     "tags": [
-      "Romaric Justes",
-      "NSI",
-      "Société"
+      "Éducation"
     ],
     "analyzed_at": "2026-11-01T10:45:04.772025+00:00"
   }

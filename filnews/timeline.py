@@ -189,7 +189,13 @@ def thread_years(tag: TagSummary) -> list[tuple[int, int]]:
 def build_thread(tag: TagSummary, year: int | None = None) -> list[ThreadEntry]:
     """News of the tag (of `year` only, if given), newest first, alternating
     sides of the thread."""
-    news_list = [n for n in tag.news if year is None or _local_year(n) == year]
+    return thread_entries(
+        [n for n in tag.news if year is None or _local_year(n) == year]
+    )
+
+
+def thread_entries(news_list: list[News]) -> list[ThreadEntry]:
+    """A Fil of news (newest first), alternating sides of the thread."""
     entries = []
     previous: News | None = None
     for index, news in enumerate(news_list):

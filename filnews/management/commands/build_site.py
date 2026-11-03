@@ -18,6 +18,7 @@ from django.test.utils import override_settings
 from django.urls import reverse
 
 from filnews.assets import compile_scss
+from filnews.elections import CANDIDATES
 from filnews.sitemaps import SITEMAPS
 from filnews.store import get_store
 from filnews.timeline import thread_years
@@ -36,7 +37,9 @@ def site_paths() -> list[str]:
         reverse("home"),
         reverse("archive"),
         reverse("tag_index"),
+        reverse("election"),
         reverse("about"),
+        reverse("legal"),
         reverse("rss"),
         reverse("sitemap"),
         reverse("robots_txt"),
@@ -46,6 +49,7 @@ def site_paths() -> list[str]:
         reverse("archive_month", args=[f"{year:04d}", f"{month:02d}"])
         for year, month, _ in store.months()
     ]
+    paths += [reverse("election_candidate", args=[c.slug]) for c in CANDIDATES]
     paths += [reverse("news_detail", args=[news.slug]) for news in store.all()]
     for tag in store.page_tags():
         paths += [

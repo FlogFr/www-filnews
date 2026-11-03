@@ -17,32 +17,9 @@
     "summary": "Un décret pour éviter qu'un logement loué sur une plateforme et qui a déjà dépassé son nombre légal de nuitées, puisse se retrouver sur une autre plateforme de location.",
     "thumbnail": "thumbnails/dpkt6k.webp",
     "tags": [
-      "AIRBNB",
-      "Paris"
+      "Logement"
     ],
     "analyzed_at": "2026-11-01T09:41:01.279561+00:00"
-  },
-  {
-    "id": "dpkgrs",
-    "title": "Détournement de fonds publics : le président LREM de la Région Guadeloupe et sa vice-présidente placés en garde à vue",
-    "url": "https://actu.orange.fr/politique/detournement-de-fonds-publics-le-president-lrem-de-la-region-guadeloupe-et-sa-vice-presidente-places-en-garde-a-vue-magic-CNT000001kDPqs.html",
-    "permalink": "/r/france/comments/dpkgrs/détournement_de_fonds_publics_le_président_lrem/",
-    "created_at": "2019-10-31T08:14:26+00:00",
-    "score": 177,
-    "num_comments": 59,
-    "subreddit": "france",
-    "author": "elemiah_",
-    "flair": "Actus",
-    "domain": "actu.orange.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/89APrSfA7vzeh6_rRXLMt-A1PGrb_FjfInnuDP9eCIQ.jpg?auto=webp&s=334a938ec9538344e3ed4369e46f899e7fafd744",
-    "ingested_at": "2026-10-31T15:33:03.988719+00:00",
-    "summary": "Soyez informé(e) des dernières actualités politiques en France et dans le monde. Restez à jour sur les événements clés avec Orange Actualités.",
-    "thumbnail": "thumbnails/dpkgrs.webp",
-    "tags": [
-      "LREM de la Région Guadeloupe"
-    ],
-    "analyzed_at": "2026-11-01T09:41:01.929139+00:00"
   },
   {
     "id": "dp8ay2",
@@ -61,13 +38,7 @@
     "ingested_at": "2026-10-31T15:33:03.988326+00:00",
     "summary": "",
     "thumbnail": "thumbnails/dp8ay2.webp",
-    "tags": [
-      "Jeffrey Epstein's Autopsy Points",
-      "Homicide",
-      "Not Suicide",
-      "Pathologist Claims",
-      "New York Times"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:41:03.651618+00:00"
   },
   {
@@ -87,13 +58,7 @@
     "ingested_at": "2026-10-31T15:33:03.988944+00:00",
     "summary": "L’ONG Reporters sans Frontières (RSF) a déposé plainte pour faire annuler l’affichage publicité, jugé comme une provocation, un an après l’a",
     "thumbnail": "thumbnails/dp3m0a.webp",
-    "tags": [
-      "RSF",
-      "Arabie",
-      "Frontières",
-      "ONG Reporters",
-      "Soft paywall"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:41:02.812776+00:00"
   },
   {
@@ -114,11 +79,9 @@
     "summary": "Nos confrères de Médiapart ont révélé ce lundi soir que la CNIL juge illégale la mise en place d'un dispositif expérimental de reconnaissance faciale aux entrées des lycées des Eucalyptus à Nice et Ampère à Marseille.",
     "thumbnail": "thumbnails/dop95z.webp",
     "tags": [
-      "CNIL",
-      "Nice",
-      "Marseille",
-      "Médiapart",
-      "Eucalyptus"
+      "Numérique",
+      "Éducation",
+      "Libertés publiques"
     ],
     "analyzed_at": "2026-11-01T09:41:02.561891+00:00"
   },
@@ -139,11 +102,7 @@
     "ingested_at": "2026-10-31T15:33:03.988964+00:00",
     "summary": "",
     "thumbnail": "thumbnails/domg5i.webp",
-    "tags": [
-      "Français Jérôme Garcès",
-      "Angleterre et Afrique du Sud",
-      "Sport"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:41:05.686185+00:00"
   },
   {
@@ -164,7 +123,7 @@
     "summary": "La réforme des règles de l’assurance-chômage, d’une ampleur inégalée, entre en vigueur ce vendredi 1er novembre. « On va passer d’un système d’indemnisation chômage à un système d’accroissement de la…",
     "thumbnail": "thumbnails/do7lwn.webp",
     "tags": [
-      "Politique"
+      "Travail"
     ],
     "analyzed_at": "2026-11-01T09:41:03.706229+00:00"
   },
@@ -185,10 +144,7 @@
     "ingested_at": "2026-10-31T15:33:03.987946+00:00",
     "summary": "Il avait déjà signé un plaidoyer vibrant contre l’élevage industriel et l’abattage des animaux. L’écrivain Jonathan Safran Foer propose dans son nouvel essai, L’Avenir de la planète commence dans notre assiette (L’Olivier, 2019), de «&nbsp;devenir vegan jusqu’au dîner&nbsp;» pour préserver la planète. Entretien.",
     "thumbnail": "thumbnails/do6h0r.webp",
-    "tags": [
-      "Jonathan Safran Foer",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:41:03.267177+00:00"
   },
   {
@@ -208,64 +164,8 @@
     "ingested_at": "2026-10-31T15:33:03.989004+00:00",
     "summary": "Entre 2008 et 2017, selon la Cour des comptes européenne, l’Union européenne a validé 1 459 milliards d’aides d’État en capital en direction du secteur bancaire.",
     "thumbnail": "thumbnails/dnq6zs.webp",
-    "tags": [
-      "État",
-      "Cour",
-      "Abonnés : Dans vos départements",
-      "Premium",
-      "Thématiques"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:41:03.527650+00:00"
-  },
-  {
-    "id": "dnkwud",
-    "title": "Pour « ne pas heurter certaines sensibilités », l’Unesco, basée à Paris, a caché les sexes de deux statues de l’artiste invité Stéphane Simon.",
-    "url": "https://artofuss.blog/2019/10/16/assez-de-complaisance/",
-    "permalink": "/r/france/comments/dnkwud/pour_ne_pas_heurter_certaines_sensibilités/",
-    "created_at": "2019-10-26T22:34:05+00:00",
-    "score": 114,
-    "num_comments": 47,
-    "subreddit": "france",
-    "author": "dClauzel",
-    "flair": "Culture",
-    "domain": "artofuss.blog",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/M9M__WNQN7_pE12HKv6v6VeANbsAnVNvG-NgNbfoqME.jpg?auto=webp&s=07865a9016298b5b34ac177dbade2ab772f7b6fb",
-    "ingested_at": "2026-10-31T15:33:03.989101+00:00",
-    "summary": "This process is automatic. Your browser will redirect to your requested content shortly. Please allow up to ... seconds.",
-    "thumbnail": "thumbnails/dnkwud.webp",
-    "tags": [
-      "Paris",
-      "Stéphane Simon",
-      "Culture"
-    ],
-    "analyzed_at": "2026-11-01T09:41:03.705220+00:00"
-  },
-  {
-    "id": "dnj0pz",
-    "title": "Bon plan : l'intégrale de XIII à lire gratuitement pendant ce Week-end",
-    "url": "https://www.izneo.com/fr/evenement/1424/operation-frenesie-lecture-bande-dessinee-XIII",
-    "permalink": "/r/france/comments/dnj0pz/bon_plan_lintégrale_de_xiii_à_lire_gratuitement/",
-    "created_at": "2019-10-26T20:07:00+00:00",
-    "score": 69,
-    "num_comments": 11,
-    "subreddit": "france",
-    "author": "McManus26",
-    "flair": "Culture",
-    "domain": "izneo.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://b.thumbs.redditmedia.com/CAZpDUFPR2MEdwLWPauKW3Hh7BUYfaXlEhA4RTNtk_E.jpg",
-    "ingested_at": "2026-10-31T15:33:03.989180+00:00",
-    "summary": "Découvrez izneo, votre offre de BD, Manga et Comics en ligne. Lisez en ligne sur notre site ou sur nos apps iOS et Android un catalogue de milliers d'albums",
-    "thumbnail": "thumbnails/dnj0pz.webp",
-    "tags": [
-      "XIII",
-      "Week-end",
-      "BD",
-      "Comics",
-      "Culture"
-    ],
-    "analyzed_at": "2026-11-01T09:41:04.910608+00:00"
   },
   {
     "id": "dnikql",
@@ -285,11 +185,7 @@
     "summary": "Dans un rapport sur la sécurité informatique des pouvoirs publics, le sénateur LR de l’Oise, Jérôme Bascher, alerte sur le niveau de sécurité informatique à l’Assemblée nationale et au Sénat.",
     "thumbnail": "thumbnails/dnikql.webp",
     "tags": [
-      "LR de Oise",
-      "Jérôme Bascher",
-      "Assemblée",
-      "Sénat",
-      "Politique"
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T09:41:05.299195+00:00"
   },
@@ -311,11 +207,7 @@
     "summary": "Selon Jérémie Almosni, chef du service transport et mobilité à l’Ademe, les SUV, plus lourds, plus encombrants, plus polluants ont des «cons",
     "thumbnail": "thumbnails/dmxsjq.webp",
     "tags": [
-      "SUV",
-      "Parisien",
-      "Jérémie Almosni",
-      "Ademe",
-      "Soft paywall"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T09:41:04.135168+00:00"
   },
@@ -337,54 +229,9 @@
     "summary": "L’agence du médicament (ANSM) avait déjà donné son aval pour une expérimentation de l’usage médical du cannabis",
     "thumbnail": "thumbnails/dmu8rt.webp",
     "tags": [
-      "ANSM"
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T09:41:04.278980+00:00"
-  },
-  {
-    "id": "dmimdd",
-    "title": "AJA que \"pute\" n'est pas une version raccourcie de \"putain\" ; en fait, \"putain\" était une déclinaison de \"pute\" en ancien français. Pareil pour gars/garçon, sire/seigneur et même copain/compagnon.",
-    "url": "https://fr.wikipedia.org/wiki/Oblique_(cas)#Opposition_cas_sujet_/_cas_r%C3%A9gime_en_ancien_fran%C3%A7ais_et_ancien_occitan",
-    "permalink": "/r/france/comments/dmimdd/aja_que_pute_nest_pas_une_version_raccourcie_de/",
-    "created_at": "2019-10-24T16:11:28+00:00",
-    "score": 162,
-    "num_comments": 31,
-    "subreddit": "france",
-    "author": "DonExasclive",
-    "flair": "",
-    "domain": "fr.wikipedia.org",
-    "selftext": "",
-    "reddit_thumbnail": "https://a.thumbs.redditmedia.com/q8VQ6Vm1nlQ79WMDE0vIjzW7Qx26VEMxcpbu-PXh558.jpg",
-    "ingested_at": "2026-10-31T15:33:03.988864+00:00",
-    "summary": "En linguistique , le terme de cas oblique ( en latin : casus obliquus ) désigne tout type de cas grammatical autre que celui servant de forme de citation (ou forme canonique, ou lemme ). Il fonctionne essentiellement en opposition avec la notion de cas direct .",
-    "thumbnail": "thumbnails/dmimdd.webp",
-    "tags": [
-      "AJA"
-    ],
-    "analyzed_at": "2026-11-01T09:41:05.058599+00:00"
-  },
-  {
-    "id": "dme52l",
-    "title": "Le dimanche soir",
-    "url": "https://emmaclit.com/2019/10/24/le-dimanche-soir/",
-    "permalink": "/r/france/comments/dme52l/le_dimanche_soir/",
-    "created_at": "2019-10-24T09:53:56+00:00",
-    "score": 187,
-    "num_comments": 137,
-    "subreddit": "france",
-    "author": "Todd_superstar",
-    "flair": "Société",
-    "domain": "emmaclit.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/NDJnSSjto2ue7q3U4_pa6BVVjIriRVgupKwCQG_zjgY.png?auto=webp&s=e58b2ecd7ff58cd48e0c960648b28c77a0b8afc8",
-    "ingested_at": "2026-10-31T15:33:03.988585+00:00",
-    "summary": "Pour célébrer la sortie de mon dernier tome, je publie sa 3ème histoire 🙂🙂🙂 Ca parle de mon expérience au travail, et c’est la raison pour laquelle je ne suis pas seulement féministe, mais au…",
-    "thumbnail": "thumbnails/dme52l.webp",
-    "tags": [
-      "Ca",
-      "Société"
-    ],
-    "analyzed_at": "2026-11-01T09:41:04.389946+00:00"
   },
   {
     "id": "dlv6mm",
@@ -403,11 +250,7 @@
     "ingested_at": "2026-10-31T15:33:03.988843+00:00",
     "summary": "Une conductrice de métro a été agressée par des pickpockets lundi sur la ligne 6. Les procédures liées à des vols à la tire, réalisés souven",
     "thumbnail": "thumbnails/dlv6mm.webp",
-    "tags": [
-      "Paris",
-      "RATP",
-      "Soft paywall"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:41:04.725994+00:00"
   },
   {
@@ -428,37 +271,10 @@
     "summary": "Depuis le 18 octobre, premier jour d’arrêt de travail surprise des conducteurs de la SNCF, le réseau social Facebook a restreint et même blo",
     "thumbnail": "thumbnails/dluz6s.webp",
     "tags": [
-      "SNCF",
-      "Facebook",
-      "SUD Rail et CGT",
-      "Parisien",
-      "SUD Rail"
+      "Transports",
+      "Grèves et syndicats"
     ],
     "analyzed_at": "2026-11-01T09:41:04.974862+00:00"
-  },
-  {
-    "id": "dllq4z",
-    "title": "Firefox 70 : les internautes peuvent dorénavant pister les traqueurs qui les suivent – Mozilla",
-    "url": "https://blog.mozilla.org/press-fr/2019/10/22/firefox-70-les-internautes-peuvent-dorenavant-pister-les-traqueurs-qui-les-suivent/",
-    "permalink": "/r/france/comments/dllq4z/firefox_70_les_internautes_peuvent_dorénavant/",
-    "created_at": "2019-10-22T18:02:42+00:00",
-    "score": 186,
-    "num_comments": 43,
-    "subreddit": "france",
-    "author": "GrenobleLyon",
-    "flair": "",
-    "domain": "blog.mozilla.org",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/pSWIeX_8_MSxEtRhFgy_VtdPJ5BAj0o6PNSTkPJHjuw.jpeg?auto=webp&s=c49f2d299600e263a68613e432e0fb4526c68fca",
-    "ingested_at": "2026-10-31T15:33:03.988625+00:00",
-    "summary": "Cette année, nous avons proposé à nos utilisateurs et utilisatrices de nouvelles fonctionnalités pour renforcer la protection de leur vie privée, activées par défaut dans Firefox. De cette façon, nous ...",
-    "thumbnail": "thumbnails/dllq4z.webp",
-    "tags": [
-      "Firefox",
-      "Protections",
-      "Web"
-    ],
-    "analyzed_at": "2026-11-01T09:41:05.192021+00:00"
   },
   {
     "id": "dliv6p",
@@ -478,9 +294,7 @@
     "summary": "Dans son livre « France-Chine, les liaisons dangereuses », le journaliste Antoine I...",
     "thumbnail": "thumbnails/dliv6p.webp",
     "tags": [
-      "Antoine I",
-      "Antoine Izambard",
-      "Sinquiète"
+      "Défense"
     ],
     "analyzed_at": "2026-11-01T09:41:06.250832+00:00"
   },
@@ -522,11 +336,7 @@
     "summary": "Dépourvue d’exécutif depuis janvier&nbsp;2017, l’Irlande du Nord est gérée par les députés de Westminster qui ont décidé en juillet de légaliser le droit à l’avortement et au mariage entre personnes du même sexe si aucun gouvernement local n’était formé d’ici ce lundi.",
     "thumbnail": "thumbnails/dlfqyy.webp",
     "tags": [
-      "Irlande du Nord",
-      "Westminster",
-      "Nord",
-      "Londres",
-      "Société"
+      "Droits des femmes"
     ],
     "analyzed_at": "2026-11-01T09:41:05.810110+00:00"
   },
@@ -547,9 +357,7 @@
     "ingested_at": "2026-10-31T15:33:03.988784+00:00",
     "summary": "",
     "thumbnail": "thumbnails/dlfa4f.webp",
-    "tags": [
-      "Chili"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:41:05.614801+00:00"
   },
   {
@@ -570,7 +378,7 @@
     "summary": "",
     "thumbnail": "thumbnails/dldw3v.webp",
     "tags": [
-      "Écologie"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T09:41:07.795211+00:00"
   },
@@ -592,35 +400,9 @@
     "summary": "MAJ : L'audience au Conseil d'Etat sera vendredi prochain, le 9 octobre à 14h. Il n'y aura pas de plaidoiries : la partie intéressante sera surtout la lectures des conclusions du rapporteur public, un membre de la formation de jugement chargé d’examiner les affaires et de conseiller les juridictions",
     "thumbnail": "thumbnails/dkw9eu.webp",
     "tags": [
-      "ALICEM",
-      "Quadrature du Net",
-      "Conseil Etat",
-      "MAJ",
-      "Société"
+      "Libertés publiques"
     ],
     "analyzed_at": "2026-11-01T09:41:06.379306+00:00"
-  },
-  {
-    "id": "dkvqc1",
-    "title": "Abbaye de Cerisy-la-Forêt, Manche, France",
-    "url": "https://live.staticflickr.com/65535/48378341772_262d6faae3_o.jpg",
-    "permalink": "/r/france/comments/dkvqc1/abbaye_de_cerisylaforêt_manche_france/",
-    "created_at": "2019-10-21T05:20:04+00:00",
-    "score": 1249,
-    "num_comments": 25,
-    "subreddit": "france",
-    "author": "loulan",
-    "flair": "",
-    "domain": "live.staticflickr.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/-1LUZJn-BgpXPk2cibtHb0D9EKqYAgNjZ9ZCPPSvqKI.jpg?auto=webp&s=12cb607441d2937025b85ea522148188cdebb8fb",
-    "ingested_at": "2026-10-31T15:33:03.987592+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/dkvqc1.webp",
-    "tags": [
-      "Cerisy-la-Forêt"
-    ],
-    "analyzed_at": "2026-11-01T09:41:11.280634+00:00"
   },
   {
     "id": "dkkwit",
@@ -639,37 +421,8 @@
     "ingested_at": "2026-10-31T15:33:03.989140+00:00",
     "summary": "Le 6 février 2019, l’élue démocrate Alexandria Ocasio-Cortez profite de l’audition à la Chambre des représentants de Mme Karen Hobert Flynn, de l’organisation Common Cause, de M. Bradley Smith, de l’Institute for Free Speech, et de M.",
     "thumbnail": "thumbnails/dkkwit.webp",
-    "tags": [
-      "Mme Ocasio-Cortez",
-      "OK",
-      "Washington Post",
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:41:07.716671+00:00"
-  },
-  {
-    "id": "dkhop8",
-    "title": "The moment Sebastion Vahaamahina lost the world cup quarter final for his team.",
-    "url": "https://streamable.com/jyk14",
-    "permalink": "/r/france/comments/dkhop8/the_moment_sebastion_vahaamahina_lost_the_world/",
-    "created_at": "2019-10-20T10:01:05+00:00",
-    "score": 115,
-    "num_comments": 69,
-    "subreddit": "france",
-    "author": "Thomix2003",
-    "flair": "Sport",
-    "domain": "streamable.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/E-oQVTZVsgkDONHNPJLfqFxrok7sa9cJaElXoX5A_7M.jpg?auto=webp&s=2035ec62c5b0781ba62e27389c69e6a33e5f544a",
-    "ingested_at": "2026-10-31T15:33:03.989081+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/dkhop8.webp",
-    "tags": [
-      "Sebastion Vahaamahina",
-      "WAL FRA",
-      "Sport"
-    ],
-    "analyzed_at": "2026-11-01T09:41:07.059530+00:00"
   },
   {
     "id": "dk81b5",
@@ -689,39 +442,10 @@
     "summary": "TRIBUNE - Cinquante-neuf députés siégeant dans les huit groupes politiques de l’Assemblée nationale appellent Emmanuel Macron à tout mettre en œuvre pour que des sanctions soient prises à l’encontre d’Ankara et que nos alliés kurdes soient aidés.",
     "thumbnail": "thumbnails/dk81b5.webp",
     "tags": [
-      "Turquie",
-      "Otan",
-      "Syrie",
-      "Ankara",
-      "Assemblée"
+      "Institutions",
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T09:41:07.319407+00:00"
-  },
-  {
-    "id": "dk3qfv",
-    "title": "A Million People Are Jailed at China's Gulags. I Managed to Escape. Here's What Really Goes on Inside",
-    "url": "https://www.haaretz.com/world-news/.premium.MAGAZINE-a-million-people-are-jailed-at-china-s-gulags-i-escaped-here-s-what-goes-on-inside-1.7994216",
-    "permalink": "/r/france/comments/dk3qfv/a_million_people_are_jailed_at_chinas_gulags_i/",
-    "created_at": "2019-10-19T13:25:11+00:00",
-    "score": 511,
-    "num_comments": 194,
-    "subreddit": "france",
-    "author": "Vaxarm",
-    "flair": "",
-    "domain": "haaretz.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/bh3_b6W3VMoHjO1yi7AlK5BYKYvAxmd7V9Fv6AZjSsE.jpg?auto=webp&s=516e3f44590068356ea503f0a40f9067ced329e5",
-    "ingested_at": "2026-10-31T15:33:03.987713+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/dk3qfv.webp",
-    "tags": [
-      "Million People Are Jailed",
-      "China's Gulags",
-      "I Managed",
-      "Escape",
-      "Here's What Really Goes"
-    ],
-    "analyzed_at": "2026-11-01T09:41:08.202300+00:00"
   },
   {
     "id": "dk13w7",
@@ -741,8 +465,7 @@
     "summary": "",
     "thumbnail": "thumbnails/dk13w7.webp",
     "tags": [
-      "Européens",
-      "Facebook"
+      "Numérique"
     ],
     "analyzed_at": "2026-11-01T09:41:07.373779+00:00"
   },
@@ -763,13 +486,7 @@
     "ingested_at": "2026-10-31T15:33:03.988765+00:00",
     "summary": "Copernicus est un programme dâobservation de la Terre composÃ© de 7 satellites et de nombreuses stations au sol.",
     "thumbnail": "thumbnails/dk0o8o.webp",
-    "tags": [
-      "Environnement",
-      "Sciences et Savoirs",
-      "Europe",
-      "Sciences",
-      "Science"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:41:08.890297+00:00"
   },
   {
@@ -790,36 +507,9 @@
     "summary": "Déjà condamnés pour fraude fiscale, Isabelle et Patrick Balkany ont été condamnés, vendredi, à quatre et cinq ans de prison.",
     "thumbnail": "thumbnails/djmm9x.webp",
     "tags": [
-      "Isabelle Balkany",
-      "Patrick Balkany",
-      "Affaire Balkany",
-      "Affaires",
-      "Politique"
+      "Patrick Balkany"
     ],
     "analyzed_at": "2026-11-01T09:41:07.712485+00:00"
-  },
-  {
-    "id": "djkerh",
-    "title": "Profitant que la France soit plongée dans le débat sur le voile, l’Allemagne réoccupe l’Alsace et la Lorraine",
-    "url": "http://www.legorafi.fr/2019/10/18/profitant-que-la-france-soit-plongee-dans-le-debat-sur-le-voile-lallemagne-reoccupe-lalsace-et-la-lorraine/",
-    "permalink": "/r/france/comments/djkerh/profitant_que_la_france_soit_plongée_dans_le/",
-    "created_at": "2019-10-18T08:14:53+00:00",
-    "score": 325,
-    "num_comments": 31,
-    "subreddit": "france",
-    "author": "Citizen_F",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/aaka6GdsepN2P90farmS83RITBXbGjm3CYqATr2lth0.jpeg?auto=webp&s=10c09da26ad0615119f4080601f5cd4b7ef5fa86",
-    "ingested_at": "2026-10-31T15:33:03.987926+00:00",
-    "summary": "Strasbourg – Alors que la totalité de la classe politique française avait les pensées monopolisées par le voile, l'Allemagne en a profité pour discrètement reprendre l'Alsace et la Lorraine. Reportage.",
-    "thumbnail": "thumbnails/djkerh.webp",
-    "tags": [
-      "Alsace et la Lorraine",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:41:07.996485+00:00"
   },
   {
     "id": "dj917q",
@@ -838,35 +528,8 @@
     "ingested_at": "2026-10-31T15:33:03.988217+00:00",
     "summary": "«Vous êtes plus nombreux que jamais à vous déplacer à vélo», s'est félicité Christophe Najdovski, l'adjoint à la mairie de Paris chargé des transports, ce lundi 14",
     "thumbnail": "thumbnails/dj917q.webp",
-    "tags": [
-      "Christophe Najdovski",
-      "Paris",
-      "Voltaire"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:41:08.112372+00:00"
-  },
-  {
-    "id": "dj7h2j",
-    "title": "French football fans form giant Tibetan flag after match is rescheduled for Chinese TV",
-    "url": "http://shanghaiist.com/2019/10/01/french-football-fans-form-giant-tibetan-flag/",
-    "permalink": "/r/france/comments/dj7h2j/french_football_fans_form_giant_tibetan_flag/",
-    "created_at": "2019-10-17T14:51:44+00:00",
-    "score": 204,
-    "num_comments": 23,
-    "subreddit": "france",
-    "author": "henrycantonais",
-    "flair": "Actus",
-    "domain": "shanghaiist.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/37E9WMZPP956woeEUKUdOchg9czYydZsUyWQTkZ8Cms.jpg?auto=webp&s=4bfee623a1fb675cb44e4eec9f9e6fc74124e492",
-    "ingested_at": "2026-10-31T15:33:03.988485+00:00",
-    "summary": "",
-    "thumbnail": "",
-    "tags": [
-      "Tibetan",
-      "Chinese TV"
-    ],
-    "analyzed_at": "2026-11-01T09:41:10.606524+00:00"
   },
   {
     "id": "dj2c89",
@@ -886,7 +549,8 @@
     "summary": "",
     "thumbnail": "thumbnails/dj2c89.webp",
     "tags": [
-      "LBD 40"
+      "Police",
+      "Manifestations"
     ],
     "analyzed_at": "2026-11-01T09:41:08.368442+00:00"
   },
@@ -928,34 +592,9 @@
     "summary": "",
     "thumbnail": "thumbnails/diq0pz.webp",
     "tags": [
-      "SUV",
-      "CO2",
-      "Écologie"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T09:41:13.885850+00:00"
-  },
-  {
-    "id": "di7r7f",
-    "title": "Pour attirer l’attention des politiques et du gouvernement, les chômeurs et précaires annoncent qu’ils vont porter le voile",
-    "url": "http://www.legorafi.fr/2019/10/15/pour-attirer-lattention-des-politiques-et-du-gouvernement-les-chomeurs-et-precaires-annoncent-quils-vont-porter-le-voile/",
-    "permalink": "/r/france/comments/di7r7f/pour_attirer_lattention_des_politiques_et_du/",
-    "created_at": "2019-10-15T13:16:21+00:00",
-    "score": 746,
-    "num_comments": 65,
-    "subreddit": "france",
-    "author": "rorobert",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/EshcevnFwRJ_cAsZqPlARyhIlqptg7IQJ1gq9CPFrvU.jpeg?auto=webp&s=6978cb715d000f04666a1ba72fb5ac73cfa30c83",
-    "ingested_at": "2026-10-31T15:33:03.987642+00:00",
-    "summary": "Paris – Face aux polémiques à répétitions sur le voile, des polémiques qui mobilisent politiques et gouvernement, les chômeurs et précaires de France ont annoncé leur nouveau plan pour attirer l'attention des pouvoirs publics sur eux, du moins provisoirement, en portant le voile. Reportage.",
-    "thumbnail": "thumbnails/di7r7f.webp",
-    "tags": [
-      "Emmanuel Macron",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:41:08.709123+00:00"
   },
   {
     "id": "di68x4",
@@ -975,8 +614,7 @@
     "summary": "Une manifestation nationale des soldats du feu a lieu ce mardi 15 octobre à Paris, pour faire valoir leurs revendications. Une nouvelle étape dans une mobilisation commencée au mois de mars. Le Sénat est particulièrement investi sur la sécurité de leurs interventions.",
     "thumbnail": "thumbnails/di68x4.webp",
     "tags": [
-      "Paris",
-      "Sénat"
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T09:41:10.804119+00:00"
   },
@@ -1017,57 +655,8 @@
     "ingested_at": "2026-10-31T15:33:03.988429+00:00",
     "summary": "",
     "thumbnail": "thumbnails/dhmcs0.webp",
-    "tags": [
-      "Damas",
-      "Kurdes"
-    ],
-    "analyzed_at": "2026-11-01T09:41:09.350513+00:00"
-  },
-  {
-    "id": "dh8czz",
-    "title": "L’Allemagne se prépare à l’arrivée d’une pauvreté de masse",
-    "url": "https://m.tdg.ch/articles/15752170",
-    "permalink": "/r/france/comments/dh8czz/lallemagne_se_prépare_à_larrivée_dune_pauvreté_de/",
-    "created_at": "2019-10-13T09:24:41+00:00",
-    "score": 129,
-    "num_comments": 125,
-    "subreddit": "france",
-    "author": "Galimesh",
-    "flair": "",
-    "domain": "m.tdg.ch",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/itqRxAZgRm3KMt5T7c8QoGyoVjhYzkY151PMYoZpAkE.jpg?auto=webp&s=ab82fa4aa00ce49b1d8e4e35b88c997ffbcd4c1d",
-    "ingested_at": "2026-10-31T15:33:03.989022+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/dh8czz.webp",
     "tags": [],
-    "analyzed_at": "2026-11-01T09:41:11.233572+00:00"
-  },
-  {
-    "id": "dh7s57",
-    "title": "Xavier Dupont de Ligonnès finalement retrouvé chez Jawad.",
-    "url": "https://nordpresse.be/xavier-dupont-de-ligonnes-finalement-retrouve-chez-jawad/",
-    "permalink": "/r/france/comments/dh7s57/xavier_dupont_de_ligonnès_finalement_retrouvé/",
-    "created_at": "2019-10-13T08:12:04+00:00",
-    "score": 496,
-    "num_comments": 10,
-    "subreddit": "france",
-    "author": "iamafraidicantdothat",
-    "flair": "Humour",
-    "domain": "nordpresse.be",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/E5A4QaUDIziJFoUn3MT0ZHyHb-P1Eu5We4XZTZhOEQk.jpeg?auto=webp&s=6e73bd6474daa396672c01a0eca65b45bc2c3f01",
-    "ingested_at": "2026-10-31T15:33:03.987764+00:00",
-    "summary": "INFO OUEST-FRANCE. Ce mardi 9 janvier au matin, les enquêteurs de la PJ se sont déployés autour d’un monastère de Roquebrune-sur-Argens, où des moines ont fait vœu de silence.",
-    "thumbnail": "thumbnails/dh7s57.webp",
-    "tags": [
-      "Xavier Dupont de Ligonnès",
-      "Jawad",
-      "Roquebrune-sur-Argens",
-      "OUEST-FRANCE",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:41:11.106368+00:00"
+    "analyzed_at": "2026-11-01T09:41:09.350513+00:00"
   },
   {
     "id": "dgzp8r",
@@ -1087,11 +676,7 @@
     "summary": "[VIDÉO] CONFLIT - Depuis le 9 octobre, la Turquie a lancé une opération militaire dans le nord de la Syrie contrôlé par les Kurdes. Une offensive qui a entraîné la mort de plusieurs centaines de personnes, dont des civils, et l'exode de dizaines de milliers d'autres. Suivez les dernières infos.",
     "thumbnail": "thumbnails/dgzp8r.webp",
     "tags": [
-      "Syrie",
-      "Turquie",
-      "Daech",
-      "Recep Tayyip Erdogan",
-      "Etat"
+      "Recep Tayyip Erdoğan"
     ],
     "analyzed_at": "2026-11-01T09:41:10.931758+00:00"
   },
@@ -1112,13 +697,7 @@
     "ingested_at": "2026-10-31T15:33:03.988924+00:00",
     "summary": "Le procureur de la République de Nantes, Pierre Sennès, avait appelé dès vendredi soir à la \"prudence\" après l'interpellation d'un homme en Écosse suspecté d'être",
     "thumbnail": "thumbnails/dgqqur.webp",
-    "tags": [
-      "Xavier Dupont de Ligonnès",
-      "Écosse",
-      "République de Nantes",
-      "Pierre Sennès",
-      "Guy Joao"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:41:11.119618+00:00"
   },
   {
@@ -1138,12 +717,7 @@
     "ingested_at": "2026-10-31T15:33:03.987669+00:00",
     "summary": "Celui qui est soupçonné d’avoir tué toute sa famille à Nantes avant de se volatiliser était recherché depuis avril 2011.",
     "thumbnail": "thumbnails/dgjf4v.webp",
-    "tags": [
-      "Xavier Dupont de Ligonnès",
-      "Glasgow",
-      "Nantes",
-      "Trompeur ?"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:41:11.185086+00:00"
   },
   {
@@ -1163,10 +737,7 @@
     "ingested_at": "2026-10-31T15:33:03.988056+00:00",
     "summary": "© Comedy Central Depuis maintenant plusieurs jours, Netflix est au cœur d'une petite tourmente. En effet, le service de vidéo à la demande a récemment mis en ligne plusieurs saisons de la série South Park.",
     "thumbnail": "thumbnails/dgh0iv.webp",
-    "tags": [
-      "South Park",
-      "Comedy Central"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:41:12.555362+00:00"
   },
   {
@@ -1186,9 +757,7 @@
     "ingested_at": "2026-10-31T15:33:03.988178+00:00",
     "summary": "",
     "thumbnail": "thumbnails/dgezng.webp",
-    "tags": [
-      "Mort Alexeï Leonov"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:41:11.443956+00:00"
   },
   {
@@ -1209,29 +778,9 @@
     "summary": "",
     "thumbnail": "thumbnails/dgc6qv.webp",
     "tags": [
-      "Conseil"
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T09:41:11.553100+00:00"
-  },
-  {
-    "id": "dgbd3z",
-    "title": "Les codes sources des logiciels du secteur public publiés",
-    "url": "https://www.lemondeinformatique.fr/actualites/lire-les-codes-sources-des-logiciels-du-secteur-public-publies-76714.html",
-    "permalink": "/r/france/comments/dgbd3z/les_codes_sources_des_logiciels_du_secteur_public/",
-    "created_at": "2019-10-11T06:57:43+00:00",
-    "score": 168,
-    "num_comments": 29,
-    "subreddit": "france",
-    "author": "eberkut",
-    "flair": "",
-    "domain": "lemondeinformatique.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/hr51iwCGTyyilaKCcQ9U-85YZn52Mj2KY42bXCsfFkI.jpeg?auto=webp&s=d72648a1ca789c3b35582048ff18186e714fa0f9",
-    "ingested_at": "2026-10-31T15:33:03.988823+00:00",
-    "summary": "Lancé par Etalab, le site code.etalab.gouv.fr permet d'accéder aux codes sources des logiciels utilisés par les organismes publics. Ce référencement...",
-    "thumbnail": "thumbnails/dgbd3z.webp",
-    "tags": [],
-    "analyzed_at": "2026-11-01T09:41:11.555114+00:00"
   },
   {
     "id": "dfxb40",
@@ -1251,9 +800,7 @@
     "summary": "",
     "thumbnail": "thumbnails/dfxb40.webp",
     "tags": [
-      "Sylvie Goulard",
-      "Commission",
-      "Politique"
+      "Union européenne"
     ],
     "analyzed_at": "2026-11-01T09:41:11.827867+00:00"
   },
@@ -1275,11 +822,7 @@
     "summary": "[Octobre 2019, la Cour des comptes publie un rapport dénonçant le coût élevé des TER, 8,5 milliards d’euros par an, pour une efficacité qu’elle juge faible. Certes, le transport n&rsquo…",
     "thumbnail": "thumbnails/dfuqc2.webp",
     "tags": [
-      "SNCF",
-      "Cour",
-      "TER",
-      "Spinetta",
-      "Société"
+      "Transports"
     ],
     "analyzed_at": "2026-11-01T09:41:13.458503+00:00"
   },
@@ -1301,39 +844,9 @@
     "summary": "La communication du président américain sur l’opération militaire turque dans le Nord de la Syrie est à l’image de ses prises de position des derniers jours: imprévisible et erratique.",
     "thumbnail": "thumbnails/dfr461.webp",
     "tags": [
-      "Donald Trump",
-      "Turquie",
-      "Normandie",
-      "Nord de la Syrie",
-      "Politique"
+      "Donald Trump"
     ],
     "analyzed_at": "2026-11-01T09:41:12.488894+00:00"
-  },
-  {
-    "id": "dfhx09",
-    "title": "Des images satellites révèlent que la Chine détruit des cimetières musulmans où des générations de familles ouïgours sont enterrées et les remplace par des parkings et des aires de jeux \" pour éradiquer l'identité du groupe ethnique \".",
-    "url": "https://www.dailymail.co.uk/news/article-7553127/Even-death-Uighurs-feel-long-reach-Chinese-state.html",
-    "permalink": "/r/france/comments/dfhx09/des_images_satellites_révèlent_que_la_chine/",
-    "created_at": "2019-10-09T14:36:04+00:00",
-    "score": 211,
-    "num_comments": 95,
-    "subreddit": "france",
-    "author": "ExtremeCentre",
-    "flair": "Culture",
-    "domain": "dailymail.co.uk",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/CyFKFPtIsAh8LCqBbPS460pTEUSOAJHI-UiiXiA8as0.jpeg?auto=webp&s=8a7fdf96fb6b6f73722c3e4d50f52d4a3cdd29d6",
-    "ingested_at": "2026-10-31T15:33:03.988449+00:00",
-    "summary": "In just two years, dozens of cemeteries have been destroyed in Xinjiang in north-western China, an investigation shows. The mass demolition left behind human bones and broken tombs.",
-    "thumbnail": "thumbnails/dfhx09.webp",
-    "tags": [
-      "Xinjiang",
-      "Chine",
-      "Uighur",
-      "China",
-      "Culture"
-    ],
-    "analyzed_at": "2026-11-01T09:41:12.438506+00:00"
   },
   {
     "id": "dfd7tp",
@@ -1353,8 +866,7 @@
     "summary": "",
     "thumbnail": "thumbnails/dfd7tp.webp",
     "tags": [
-      "Congrès",
-      "Politique"
+      "Donald Trump"
     ],
     "analyzed_at": "2026-11-01T09:41:12.126637+00:00"
   },
@@ -1376,11 +888,7 @@
     "summary": "« Moins de rapidité » et « plus d’approfondissement », ont cité en premier les 104 000 participants à la consultation citoyenne, intitulée « Comment les médias peuvent améliorer la société ? », dont La Croix est partenaire.",
     "thumbnail": "thumbnails/df3wq8.webp",
     "tags": [
-      "Croix",
-      "Festival Médias",
-      "Seine",
-      "Make",
-      "Société"
+      "Médias"
     ],
     "analyzed_at": "2026-11-01T09:41:12.490369+00:00"
   },
@@ -1402,62 +910,9 @@
     "summary": "Deux arrêtés sont parus au \"Journal officiel\" pour entériner la fin du remboursement des produits homéopathiques par la Sécu.",
     "thumbnail": "thumbnails/df0ukn.webp",
     "tags": [
-      "Sécurité",
-      "Sécu",
-      "Homéopathie",
-      "Médicament",
-      "Société"
+      "Protection sociale"
     ],
     "analyzed_at": "2026-11-01T09:41:12.669748+00:00"
-  },
-  {
-    "id": "dex6gn",
-    "title": "Blizzard has removed Blitzchung from Grandmasters and banned him from competing in Hearthstone following his on-stream Hong Kong protest",
-    "url": "https://www.invenglobal.com/articles/9254/blizzard-has-removed-blitzchung-from-grandmasters-and-banned-him-from-competing-in-hearthstone-following-his-on-stream-hong-kong-protest",
-    "permalink": "/r/france/comments/dex6gn/blizzard_has_removed_blitzchung_from_grandmasters/",
-    "created_at": "2019-10-08T08:34:55+00:00",
-    "score": 3582,
-    "num_comments": 425,
-    "subreddit": "france",
-    "author": "[deleted]",
-    "flair": "Société",
-    "domain": "invenglobal.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/rzpZsCfJ09sL12gabMa6X3K-zsWW_iuRWkBsoRbG9bk.jpg?auto=webp&s=6982e13b6efca89946a54e5fb06c93f9a0831ff8",
-    "ingested_at": "2026-10-31T15:33:03.987488+00:00",
-    "summary": "Last Sunday, Hong Kong Hearthstone player Ng \"blitzchung\" Wai Chung caused quite the stir. As reported by Inven Global, Blitzchung appeared on the official Hearthstone Taiwan stream after his Grandmas",
-    "thumbnail": "thumbnails/dex6gn.webp",
-    "tags": [
-      "Hearthstone",
-      "Grandmasters",
-      "Hong Kong",
-      "Blizzard",
-      "Société"
-    ],
-    "analyzed_at": "2026-11-01T09:41:13.516548+00:00"
-  },
-  {
-    "id": "dej7wo",
-    "title": "Emmanuel Macron « Je n’aime pas le mot de démocratie parce que ça donne le sentiment que le peuple aurait le pouvoir »",
-    "url": "http://www.legorafi.fr/2019/10/07/emmanuel-macron-je-naime-pas-le-mot-de-democratie-parce-que-ca-donne-le-sentiment-que-le-peuple-aurait-le-pouvoir/",
-    "permalink": "/r/france/comments/dej7wo/emmanuel_macron_je_naime_pas_le_mot_de_démocratie/",
-    "created_at": "2019-10-07T13:09:48+00:00",
-    "score": 417,
-    "num_comments": 43,
-    "subreddit": "france",
-    "author": "PierreBourdieu2017",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/FxaiezZHyZUTp8kZalZHe4eecR38R77UvS4EyTDxUV0.jpg?auto=webp&s=dc2c3f2b9b5773ec9d646012783f7cc2f343d52f",
-    "ingested_at": "2026-10-31T15:33:03.987845+00:00",
-    "summary": "Nouvelle polémique pour le président de la république. Cette fois c'est lors d'un déplacement qu'il a déclaré qu'il n'aimait pas le mot démocratie au motif que cela donnait faussement le sentiment que le peuple détenait le pouvoir. Reportage.",
-    "thumbnail": "thumbnails/dej7wo.webp",
-    "tags": [
-      "Emmanuel Macron",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:41:12.659979+00:00"
   },
   {
     "id": "degfxr",
@@ -1476,13 +931,7 @@
     "ingested_at": "2026-10-31T15:33:03.988904+00:00",
     "summary": "Les troupes américaines stationnées en Syrie sont en train de se retirer de la frontière entre la Turquie et la Syrie, en vue d'une opération militaire turque.",
     "thumbnail": "thumbnails/degfxr.webp",
-    "tags": [
-      "Syrie",
-      "Turquie",
-      "État islamique",
-      "Washington",
-      "Turquie et la Syrie"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:41:15.083507+00:00"
   },
   {
@@ -1503,10 +952,6 @@
     "summary": "Le prix Nobel d’économie et ancien économiste en chef de la Banque mondiale publie un nouvel ouvrage dans lequel il dénonce les dérives antidémocratiques et la corruption d’élites qui s’enrichissent en creusant les inégalités. Renverser la logique est toutefois possible, nous a-t-il assuré.",
     "thumbnail": "thumbnails/de1gqr.webp",
     "tags": [
-      "Joseph Stiglitz",
-      "Nobel",
-      "Banque",
-      "États-Unis",
       "Économie"
     ],
     "analyzed_at": "2026-11-01T09:41:12.973811+00:00"
@@ -1529,7 +974,7 @@
     "summary": "Ces dispositifs, en rejetant le soufre des gaz d'échappement dans l'eau plutôt que dans l'air, menacent la faune sauvage des océans.",
     "thumbnail": "thumbnails/de09tg.webp",
     "tags": [
-      "Navires-pollution de la mer-transports"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T09:41:13.024456+00:00"
   },
@@ -1551,11 +996,8 @@
     "summary": "Plusieurs centaines de manifestants, arrivés par petits groupes, se sont barricadés dans le centre commercial.",
     "thumbnail": "thumbnails/ddnufm.webp",
     "tags": [
-      "Gilets",
-      "Italie 2",
-      "XR",
-      "Extinction Rebellion",
-      "Politique"
+      "Manifestations",
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T09:41:12.989812+00:00"
   },
@@ -1577,9 +1019,7 @@
     "summary": "Après vingt-quatre heures de flottements, la justice enquête sur un acte terroriste. C’est l’analyse du téléphone du meurtrier qui a fait ba",
     "thumbnail": "thumbnails/ddjuev.webp",
     "tags": [
-      "Paris",
-      "Mickaël Harpon",
-      "Soft paywall"
+      "Police"
     ],
     "analyzed_at": "2026-11-01T09:41:13.563740+00:00"
   },
@@ -1601,32 +1041,9 @@
     "summary": "En déplacement à Rodez ce mardi 3 octobre pour défendre la réforme des retraites, le président de la République a expliqué ne pas \"adorer\" le terme de \"pénibilité\", \"parce que ça donne le sentiment que le travail serait pénible\".",
     "thumbnail": "thumbnails/dd6wuc.webp",
     "tags": [
-      "République",
-      "Rodez"
+      "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-01T09:41:13.447330+00:00"
-  },
-  {
-    "id": "dd4pg5",
-    "title": "Fin du titre actuel d'homéopathe décidé par l'Ordre des médecins",
-    "url": "https://www.boursorama.com/bourse/actualites/fin-du-titre-actuel-d-homeopathe-decide-par-l-ordre-des-medecins-7afe493091e66a72170debe2fb6b176c",
-    "permalink": "/r/france/comments/dd4pg5/fin_du_titre_actuel_dhoméopathe_décidé_par_lordre/",
-    "created_at": "2019-10-04T08:52:01+00:00",
-    "score": 203,
-    "num_comments": 24,
-    "subreddit": "france",
-    "author": "[deleted]",
-    "flair": "",
-    "domain": "boursorama.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/Z0m0YhauFEeK6ovV-Ezp4tIRrQHjLm02VLN4esv1Zso.jpg?auto=webp&s=b96db7800f9af7d81d4a2672f508fc3cfc3dac5a",
-    "ingested_at": "2026-10-31T15:33:03.988525+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/dd4pg5.webp",
-    "tags": [
-      "Ordre"
-    ],
-    "analyzed_at": "2026-11-01T09:41:16.373245+00:00"
   },
   {
     "id": "dd47eq",
@@ -1645,62 +1062,8 @@
     "ingested_at": "2026-10-31T15:33:03.987977+00:00",
     "summary": "En grandes difficultés financières après les élections de 2017, le Rassemblement national a été sauvé par un prêt de 8 millions d’euros de Laurent Foucher, un homme d’affaires français très implanté …",
     "thumbnail": "thumbnails/dd47eq.webp",
-    "tags": [
-      "Rassemblement",
-      "Laurent Foucher",
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:41:14.658509+00:00"
-  },
-  {
-    "id": "dcs0x9",
-    "title": "Explosion dans l'Usine d'homéopathie de Boiron, du monoxyde de dihydrogène dispersé dans l'air",
-    "url": "https://nordpresse.be/explosion-dans-lusine-dhomeopathie-de-boiron-du-monoxyde-de-dihydrogene-disperse-dans-lair/",
-    "permalink": "/r/france/comments/dcs0x9/explosion_dans_lusine_dhoméopathie_de_boiron_du/",
-    "created_at": "2019-10-03T14:56:26+00:00",
-    "score": 1254,
-    "num_comments": 86,
-    "subreddit": "france",
-    "author": "[deleted]",
-    "flair": "Humour",
-    "domain": "nordpresse.be",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/034C8BBVvTZ8DyxESGUrLjF73bags6HmlTrouCJK3AA.jpg?auto=webp&s=c07b0a0f5e48e4154c645dffb4ab117179aff919",
-    "ingested_at": "2026-10-31T15:33:03.987541+00:00",
-    "summary": "L’usine principale de fabrication des gellules homéopathiques des Laboratoires Boive a explosé aujourd’hui, provoquant un nuage de monoxyde de dihydrogène dans toute la région. Il s’agit d’une substance présentant un grand danger et il convient donc de rester chez soi.",
-    "thumbnail": "thumbnails/dcs0x9.webp",
-    "tags": [
-      "Usine",
-      "Boiron",
-      "Laboratoires Boive",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:41:14.548723+00:00"
-  },
-  {
-    "id": "dcqgb4",
-    "title": "Selon une étude, ajouter “c’est pas très écolo” au moment de prendre l’avion n’améliorerait pas votre empreinte carbone",
-    "url": "http://www.legorafi.fr/2019/10/03/selon-une-etude-ajouter-cest-pas-tres-ecolo-au-moment-de-prendre-lavion-nameliorerait-pas-votre-empreinte-carbone/",
-    "permalink": "/r/france/comments/dcqgb4/selon_une_étude_ajouter_cest_pas_très_écolo_au/",
-    "created_at": "2019-10-03T12:51:14+00:00",
-    "score": 346,
-    "num_comments": 18,
-    "subreddit": "france",
-    "author": "l4em",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/kDB32_vBUDpcCnqEGyqpLSfLp0HbIKVUjsqLGA88waU.jpeg?auto=webp&s=42f3fcf47ed0ccddc9dd10eb9b5ea6316c808aa9",
-    "ingested_at": "2026-10-31T15:33:03.987866+00:00",
-    "summary": "Les résultats du dernier rapport du GIEC sont édifiants : selon celui-ci ajouter “c’est pas très écolo” au moment de prendre l’avion ne réduirait absolument pas votre empreinte carbone. Et ce, même si vous ne l’empruntez pas plus d’une fois par an.",
-    "thumbnail": "thumbnails/dcqgb4.webp",
-    "tags": [
-      "GIEC",
-      "CO2",
-      "Français",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:41:13.725387+00:00"
   },
   {
     "id": "dcq4jh",
@@ -1720,8 +1083,7 @@
     "summary": "Pour la justice européenne, avant comme après le 25 mai 2018, entrée en vigueur du RGPD, une case précochée ne peut valoir consentement à…",
     "thumbnail": "thumbnails/dcq4jh.webp",
     "tags": [
-      "RGPD",
-      "Société"
+      "Justice"
     ],
     "analyzed_at": "2026-11-01T09:41:14.158656+00:00"
   },
@@ -1742,10 +1104,7 @@
     "ingested_at": "2026-10-31T15:33:03.988301+00:00",
     "summary": "",
     "thumbnail": "thumbnails/dcoyd6.webp",
-    "tags": [
-      "Qatar",
-      "Sport"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:41:14.063179+00:00"
   },
   {
@@ -1766,11 +1125,7 @@
     "summary": "Face à des situations compliquées et l'absence de médecins titulaires, tous les internes en médecine affectés aux urgences de l’hôpital de Mulhouse (Haut-Rhin) sont en arrêt maladie depuis lundi 30 septembre, rapporte France Bleu Alsace.",
     "thumbnail": "thumbnails/dcciqr.webp",
     "tags": [
-      "Mulhouse",
-      "France Bleu Alsace",
-      "Grève aux urgences",
-      "Hôpital",
-      "Politique de santé"
+      "Santé"
     ],
     "analyzed_at": "2026-11-01T09:41:14.449727+00:00"
   },
@@ -1791,87 +1146,7 @@
     "ingested_at": "2026-10-31T15:33:03.988280+00:00",
     "summary": "Un système géant de climatisation abaisse la température de 15 degrés dans ce stade à ciel ouvert.",
     "thumbnail": "thumbnails/dc8yaf.webp",
-    "tags": [
-      "Qatar",
-      "Mondiaux",
-      "Mondiaux d'athlétisme",
-      "Athlétisme",
-      "Sports"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:41:15.348894+00:00"
-  },
-  {
-    "id": "dc78jk",
-    "title": "Seveso – L’état va démanteler les villes trop proches des usines à risques",
-    "url": "http://www.legorafi.fr/2019/10/02/seveso-letat-va-demanteler-les-villes-trop-proches-des-usines-a-risques/",
-    "permalink": "/r/france/comments/dc78jk/seveso_létat_va_démanteler_les_villes_trop/",
-    "created_at": "2019-10-02T08:10:31+00:00",
-    "score": 252,
-    "num_comments": 20,
-    "subreddit": "france",
-    "author": "PoufPoal",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/nZaUboaroTtKeplbbbC-Utguh-qlDs1mBGAylNoVZ-Q.png?auto=webp&s=fcdd161eccf124de333fa7451660299fc0549859",
-    "ingested_at": "2026-10-31T15:33:03.988238+00:00",
-    "summary": "C’est un fait, la France compte aujourd’hui plus d’usines dangereuses que de villes et “le gouvernement ne va pas rester les bras croisés” s’est félicité Edouard Philippe lors de sa conférence de presse.",
-    "thumbnail": "thumbnails/dc78jk.webp",
-    "tags": [
-      "Edouard Philippe",
-      "Premier",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:41:14.400826+00:00"
-  },
-  {
-    "id": "dbsjzq",
-    "title": "Nicolas Sarkozy sera bien jugé dans l'affaire Bygmalion",
-    "url": "https://fr.news.yahoo.com/nicolas-sarkozy-sera-bien-jug%C3%A9-120550465.html",
-    "permalink": "/r/france/comments/dbsjzq/nicolas_sarkozy_sera_bien_jugé_dans_laffaire/",
-    "created_at": "2019-10-01T12:20:00+00:00",
-    "score": 181,
-    "num_comments": 73,
-    "subreddit": "france",
-    "author": "[deleted]",
-    "flair": "Politique",
-    "domain": "fr.news.yahoo.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/7KDm1q9zqobA65W-rQ5fVBcQW7FbYjuXo3QT_G2EZDw.jpg?auto=webp&s=8e020400a3862875f99dc4a43d463715ce622772",
-    "ingested_at": "2026-10-31T15:33:03.988645+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/dbsjzq.webp",
-    "tags": [
-      "Nicolas Sarkozy",
-      "Bygmalion",
-      "Politique"
-    ],
-    "analyzed_at": "2026-11-01T09:41:16.371052+00:00"
-  },
-  {
-    "id": "dbsdsa",
-    "title": "Emmanuel Macron propose de remplacer la Sécurité Sociale par une cagnotte Leetchi",
-    "url": "http://www.legorafi.fr/2019/10/01/emmanuel-macron-propose-de-remplacer-la-securite-sociale-par-une-cagnotte-leetchi/",
-    "permalink": "/r/france/comments/dbsdsa/emmanuel_macron_propose_de_remplacer_la_sécurité/",
-    "created_at": "2019-10-01T12:04:58+00:00",
-    "score": 277,
-    "num_comments": 41,
-    "subreddit": "france",
-    "author": "Soltek",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/jMKV_C2HMJvS8XcF3hSZJVaHML6bJkjsuABJ1yqFItE.png?auto=webp&s=21163000028be7d9962aa861a22cbf6245cf78b5",
-    "ingested_at": "2026-10-31T15:33:03.988138+00:00",
-    "summary": "La séquence a été partagée massivement sur les réseaux sociaux. Dans une courte vidéo réalisée par un caméraman de l’Elysée et publiée hier sur Twitter, le chef de l’Etat a résumé sa vision de la Sécurité Sociale et proposé de remplacer rapidement celle-ci par une cagnotte Leetchi.",
-    "thumbnail": "thumbnails/dbsdsa.webp",
-    "tags": [
-      "Leetchi",
-      "Sécurité Sociale",
-      "Emmanuel Macron",
-      "Elysée",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:41:14.690836+00:00"
   }
 ]

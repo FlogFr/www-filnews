@@ -1,29 +1,5 @@
 [
   {
-    "id": "ijuk1v",
-    "title": "Consentement : le pire de l'expérience utilisateur et de la surveillance avec Lemonde.fr",
-    "url": "https://www.pixeldetracking.com/fr/le-pire-du-recueil-du-consentement-avec-lemonde-fr",
-    "permalink": "/r/france/comments/ijuk1v/consentement_le_pire_de_lexpérience_utilisateur/",
-    "created_at": "2020-08-31T08:56:23+00:00",
-    "score": 182,
-    "num_comments": 94,
-    "subreddit": "france",
-    "author": "HellYodan",
-    "flair": "",
-    "domain": "pixeldetracking.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/OJyTb--31o-loUq85S7f5OrvxAD4kRVaL2Xngg_pGMg.jpeg?auto=webp&s=ec1e809d44152d7db3df8f4f79785fbe22de0b36",
-    "ingested_at": "2026-11-01T09:41:17.627710+00:00",
-    "summary": "Un blog sur le capitalisme de surveillance, avec un zoom sur le tracking publicitaire",
-    "thumbnail": "thumbnails/ijuk1v.webp",
-    "tags": [
-      "CNIL",
-      "RGPD",
-      "AT Internet"
-    ],
-    "analyzed_at": "2026-11-01T09:58:37.451459+00:00"
-  },
-  {
     "id": "ijskop",
     "title": "L'avocate Ebru Timtik meurt dans les geôles turques",
     "url": "https://www.liberation.fr/planete/2020/08/28/l-avocate-ebru-timtik-meurt-dans-les-geoles-turques_1797979",
@@ -40,10 +16,7 @@
     "ingested_at": "2026-11-01T09:41:17.627417+00:00",
     "summary": "",
     "thumbnail": "thumbnails/ijskop.webp",
-    "tags": [
-      "Ebru Timtik",
-      "Soft paywall"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:58:44.739011+00:00"
   },
   {
@@ -63,12 +36,7 @@
     "ingested_at": "2026-11-01T09:41:17.628833+00:00",
     "summary": "Alors qu’il est conspué par le mouvement de contestation, le chef de l’Etat a reconnu que « la jeunesse libanaise appelle au changement »…",
     "thumbnail": "thumbnails/ijkufd.webp",
-    "tags": [
-      "Aoun",
-      "Liban",
-      "Etat",
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:58:37.858692+00:00"
   },
   {
@@ -88,10 +56,7 @@
     "ingested_at": "2026-11-01T09:41:17.628933+00:00",
     "summary": "Son arrestation remonte à une dizaine de jours. Selon nos informations, un officier de l’armée française a été mis en examen pour trahison, au bénéfice de la Russie . Florence Parly, invitée du Grand Rendez-vous, a réagi à cette information dimanche sur Europe 1 .",
     "thumbnail": "thumbnails/ij9oh8.webp",
-    "tags": [
-      "Russie",
-      "INFORMATION EUROPE 1"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:58:37.721249+00:00"
   },
   {
@@ -112,34 +77,9 @@
     "summary": "« Votre grandeur, Comme tous vos collègues de la France insoumise, vous vous enorgueillissez de combattre les « amalgames ». Vous venez pourtant d’en commettre un particulièrement répugnant, dans un tweet daté du 28 août.",
     "thumbnail": "thumbnails/iiuz6d.webp",
     "tags": [
-      "Charlie Hebdo",
-      "Danièle Obono",
-      "Valeurs",
-      "LFI"
+      "Jean-Luc Mélenchon"
     ],
     "analyzed_at": "2026-11-01T09:58:40.502050+00:00"
-  },
-  {
-    "id": "iit820",
-    "title": "Ikea avoue que leurs boulettes de viande sont faites de gens qui n'ont pas trouvé la sortie.",
-    "url": "http://complots-faciles.com/blog/2020/01/27/ikea-avoue-que-leurs-boulettes-de-viande-sont-faites-de-gens-qui-nont-pas-trouve-la-sortie/",
-    "permalink": "/r/france/comments/iit820/ikea_avoue_que_leurs_boulettes_de_viande_sont/",
-    "created_at": "2020-08-29T14:25:14+00:00",
-    "score": 489,
-    "num_comments": 35,
-    "subreddit": "france",
-    "author": "byParallax",
-    "flair": "Humour",
-    "domain": "complots-faciles.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/0q2arYhJAyPFyLrqbQ4Oa5XIhohW8FJE2NJXzXZQ6jY.jpg?auto=webp&s=b359c3f7852b778db884645a0ee0d9027d9a0109",
-    "ingested_at": "2026-11-01T09:41:17.627007+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/iit820.webp",
-    "tags": [
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:58:40.902292+00:00"
   },
   {
     "id": "ii91xm",
@@ -158,11 +98,7 @@
     "ingested_at": "2026-11-01T09:41:17.628400+00:00",
     "summary": "Repaire des antifascistes depuis 15 ans, le bar le Saint-Sauveur (XXe) a été fermé par la préfecture de police qui lui reproche, entre autre",
     "thumbnail": "thumbnails/ii91xm.webp",
-    "tags": [
-      "Saint-Sauveur",
-      "Paris",
-      "Soft paywall"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:58:38.184383+00:00"
   },
   {
@@ -182,13 +118,7 @@
     "ingested_at": "2026-11-01T09:41:17.627092+00:00",
     "summary": "FIGAROVOX/ENTRETIEN - Ceux qui ont saccagé les Champs-Élysées après la défaite du Paris Saint-Germain prennent ces manifestations sportives comme prétexte pour s’attaquer à la loi et à ses représentants, selon Éric Delbecque. Pour lutter contre ces violences, il préconise de maximiser...",
     "thumbnail": "thumbnails/ii1c43.webp",
-    "tags": [
-      "Champs-Élysées",
-      "Paris",
-      "Affrontements",
-      "Chaîne pénale",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:58:38.965363+00:00"
   },
   {
@@ -209,11 +139,9 @@
     "summary": "Ils se disent engagés dans un « combat politique » pour « faciliter l’arrivée du règne du Christ ». L’affaire Vincent Lambert les a chauffés à blanc, le « lobby LGBT » les obsède, l’arrivée de la PMA les met hors d’eux.",
     "thumbnail": "thumbnails/ihnur5.webp",
     "tags": [
-      "Charlie Hebdo",
-      "Christ",
-      "Vincent Lambert",
-      "LGBT",
-      "Politique"
+      "Extrême droite",
+      "LGBT+",
+      "Éducation"
     ],
     "analyzed_at": "2026-11-01T09:58:43.150417+00:00"
   },
@@ -234,9 +162,7 @@
     "ingested_at": "2026-11-01T09:41:17.627890+00:00",
     "summary": "Les mineures de moins de 15 ans n'auront désormais plus à s'acquitter du «ticket modérateur» pour les consultations en vue d'une contraception",
     "thumbnail": "thumbnails/ihmhln.webp",
-    "tags": [
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:58:39.131746+00:00"
   },
   {
@@ -257,7 +183,7 @@
     "summary": "",
     "thumbnail": "thumbnails/ihlsx9.webp",
     "tags": [
-      "Fédération"
+      "Cause animale"
     ],
     "analyzed_at": "2026-11-01T09:58:38.676182+00:00"
   },
@@ -279,8 +205,7 @@
     "summary": "L’eau en bouteille est un marché juteux. Mais l’exploitation commerciale de cette précieuse ressource commence à susciter des protestations. Ainsi, aux États-Un...",
     "thumbnail": "thumbnails/ihls3n.webp",
     "tags": [
-      "États-Un",
-      "États-Unis"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T09:58:39.438275+00:00"
   },
@@ -301,10 +226,7 @@
     "ingested_at": "2026-11-01T09:41:17.627472+00:00",
     "summary": "",
     "thumbnail": "thumbnails/ihh103.webp",
-    "tags": [
-      "Normale-Sup",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:58:39.519135+00:00"
   },
   {
@@ -324,7 +246,10 @@
     "ingested_at": "2026-11-01T09:41:17.628271+00:00",
     "summary": "",
     "thumbnail": "thumbnails/iguhw8.webp",
-    "tags": [],
+    "tags": [
+      "Gérald Darmanin",
+      "Police"
+    ],
     "analyzed_at": "2026-11-01T09:58:39.944932+00:00"
   },
   {
@@ -345,11 +270,7 @@
     "summary": "Selon une information qui circule sur les Réseaux sociaux grecs, Athènes aurait ouvert des discussions avec Paris en vue d'acquérir un escadron d'avions",
     "thumbnail": "thumbnails/igu2fv.webp",
     "tags": [
-      "Rafale",
-      "Grèce",
-      "Réseaux",
-      "Paris",
-      "Avion Dassault Mirage 2000"
+      "Défense"
     ],
     "analyzed_at": "2026-11-01T09:58:42.982189+00:00"
   },
@@ -392,36 +313,8 @@
     "ingested_at": "2026-11-01T09:41:17.627973+00:00",
     "summary": "Un extrémiste d’origine turque se réclamant des Loups gris sera jugé prochainement pour «incitation à la haine». Deux plaintes avaient été d",
     "thumbnail": "thumbnails/igea3g.webp",
-    "tags": [
-      "Français",
-      "Loups",
-      "Soft paywall"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:58:40.058560+00:00"
-  },
-  {
-    "id": "ig7p35",
-    "title": "Depuis les années 80, les pétroliers ont massacré le climat en connaissance de cause",
-    "url": "https://www.les-crises.fr/depuis-les-annees-80-les-petroliers-ont-massacre-le-climat-en-connaissance-de-cause/",
-    "permalink": "/r/france/comments/ig7p35/depuis_les_années_80_les_pétroliers_ont_massacré/",
-    "created_at": "2020-08-25T07:46:52+00:00",
-    "score": 137,
-    "num_comments": 91,
-    "subreddit": "france",
-    "author": "pipoons",
-    "flair": "",
-    "domain": "les-crises.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/X6gNppyrExtjGKu9SXXi4wsmB4e0xKnqvL3hghgDq4w.jpg?auto=webp&s=a32ee89ba77f28c3c17a5bd57ba2652a703ecf3d",
-    "ingested_at": "2026-11-01T09:41:17.628118+00:00",
-    "summary": "Source : World Economic Forum, Project Syndicate Des documents secrets ont été exhumés, exposant en détail ce que l’industrie de l’énergie connaissait des liens entre ses produits et le réchauffeme…",
-    "thumbnail": "thumbnails/ig7p35.webp",
-    "tags": [
-      "Shell",
-      "World Economic Forum",
-      "Project Syndicate"
-    ],
-    "analyzed_at": "2026-11-01T09:58:40.603043+00:00"
   },
   {
     "id": "ig79gt",
@@ -440,9 +333,7 @@
     "ingested_at": "2026-11-01T09:41:17.628498+00:00",
     "summary": "La chaîne de librairies Cultura a déclenché une nouvelle polémique en promouvant cette pratique qui bouscule la graphie traditionnelle au no",
     "thumbnail": "thumbnails/ig79gt.webp",
-    "tags": [
-      "Cultura"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:58:40.507962+00:00"
   },
   {
@@ -463,8 +354,7 @@
     "summary": "Des investigations judiciaires portant sur la gestion de déchets dans la communauté de communes présidée par Jean Castex ont été stoppées le 6 juillet, trois jours après sa nomination aux fonctions d…",
     "thumbnail": "thumbnails/iftnpm.webp",
     "tags": [
-      "Jean Castex",
-      "Matignon"
+      "Jean Castex"
     ],
     "analyzed_at": "2026-11-01T09:58:41.400381+00:00"
   },
@@ -486,34 +376,9 @@
     "summary": "La désinformation sur la santé sur Facebook a été vue plus de 3,8 milliards de fois tout au long de l'année dernière, atteignant son pic et son trafic maximum pendant la crise du covid-19, selon un rapport préparé par l'organisation civile Avaaz.",
     "thumbnail": "thumbnails/ifke6i.webp",
     "tags": [
-      "Facebook",
-      "Avaaz",
-      "Société"
+      "Santé"
     ],
     "analyzed_at": "2026-11-01T09:58:40.801025+00:00"
-  },
-  {
-    "id": "ifbixu",
-    "title": "Marine's Nationale Tonnerre manoeuvring in Beirut's harbour, August 2020 [2200x1239]",
-    "url": "https://images.haarets.co.il/image/fetch/https://www.haaretz.co.il/polopoly_fs/1.9073753!/image/2441960547.jpg",
-    "permalink": "/r/france/comments/ifbixu/marines_nationale_tonnerre_manoeuvring_in_beiruts/",
-    "created_at": "2020-08-23T21:18:21+00:00",
-    "score": 76,
-    "num_comments": 20,
-    "subreddit": "france",
-    "author": "RudySanchez-G",
-    "flair": "",
-    "domain": "images.haarets.co.il",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/f8SjMj4o1y7YRMZDmoKM7Ju-eqK-LRWqLABC18tUc9I.jpg?auto=webp&s=b933c874430480fd51257d782c6e8735864f3af4",
-    "ingested_at": "2026-11-01T09:41:17.628983+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/ifbixu.webp",
-    "tags": [
-      "Marine's Nationale Tonnerre",
-      "Beirut's"
-    ],
-    "analyzed_at": "2026-11-01T09:58:41.293244+00:00"
   },
   {
     "id": "ieyxqs",
@@ -533,37 +398,9 @@
     "summary": "Ce vendredi 21 août 2020, le préfet du Nord Michel Lalande a pris un arrêté visant à étendre l’obligation du port du masque à l’ensemble du département.",
     "thumbnail": "thumbnails/ieyxqs.webp",
     "tags": [
-      "Nord",
-      "Nord Michel Lalande",
       "Covid-19"
     ],
     "analyzed_at": "2026-11-01T09:58:41.294836+00:00"
-  },
-  {
-    "id": "iegbs4",
-    "title": "AJA que les Américains, incapables de prononcer le nom de Jean-François Clervoy, un astronaute de la NASA, lui ont donné le surnom de Billy Bob.",
-    "url": "https://en.wikipedia.org/wiki/Jean-Fran%C3%A7ois_Clervoy",
-    "permalink": "/r/france/comments/iegbs4/aja_que_les_américains_incapables_de_prononcer_le/",
-    "created_at": "2020-08-22T10:43:05+00:00",
-    "score": 262,
-    "num_comments": 64,
-    "subreddit": "france",
-    "author": "byParallax",
-    "flair": "",
-    "domain": "en.wikipedia.org",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/glMH2y22wWYArm8Ix-ojoKBfJ-y5IzxP81cDKucSA48.jpg?auto=webp&s=125ada1df065d5ef319686a1072b4435471a2dad",
-    "ingested_at": "2026-11-01T09:41:17.627297+00:00",
-    "summary": "Jean-François André Clervoy ( French pronunciation: [ ʒɑ̃ fʁɑ̃swa ɑ̃dʁe klɛʁvwa ] ; born 19 November 1958) is a French engineer and a CNES and ESA astronaut . He is a veteran of three NASA Space Shuttle missions.",
-    "thumbnail": "thumbnails/iegbs4.webp",
-    "tags": [
-      "Jean-François Clervoy",
-      "Billy Bob",
-      "AJA",
-      "Américains",
-      "NASA"
-    ],
-    "analyzed_at": "2026-11-01T09:58:41.725920+00:00"
   },
   {
     "id": "iedm7i",
@@ -605,11 +442,7 @@
     "summary": "Excellente nouvelle pour la survie du Vison d'Europe ! Pour la seconde année consécutive, des visons sont nés en captivité au sein de l'élevage conservatoire de Zoodyssée, dans les Deux-Sèvres. Le couronnement de beaucoup...",
     "thumbnail": "thumbnails/idtea2.webp",
     "tags": [
-      "Europe",
-      "Vison Europe",
-      "Zoodyssée",
-      "Deux-Sèvres",
-      "Écologie"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T09:58:41.793029+00:00"
   },
@@ -631,8 +464,7 @@
     "summary": "",
     "thumbnail": "thumbnails/idrpb8.webp",
     "tags": [
-      "Danemark",
-      "Économie"
+      "Retraites"
     ],
     "analyzed_at": "2026-11-01T09:58:47.102523+00:00"
   },
@@ -673,10 +505,7 @@
     "ingested_at": "2026-11-01T09:41:17.627659+00:00",
     "summary": "La direction du Tour de France a décidé de mettre fin aux traditionnelles \"miss\", présentes sur les podiums à la fin de chaque étape. Désormais, un homme et une femme seront présents sur place pour remettre les...",
     "thumbnail": "thumbnails/id59ti.webp",
-    "tags": [
-      "Tour de France",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:58:44.900807+00:00"
   },
   {
@@ -697,10 +526,7 @@
     "summary": "Alexeï Navalny a été placé ce jeudi en réanimation dans un état grave dans hôpital en Sibérie, après s'être senti mal dans un avion.",
     "thumbnail": "thumbnails/id50vq.webp",
     "tags": [
-      "Alexeï Navalny",
-      "Poutine",
-      "Sibérie",
-      "Kremlin"
+      "Vladimir Poutine"
     ],
     "analyzed_at": "2026-11-01T09:58:42.122106+00:00"
   },
@@ -722,7 +548,7 @@
     "summary": "Un collectif d’habitants a saisi la justice et obtenu 10000 euros de préjudice. Le juge a estimé que la préfecture avait pris des «mesures",
     "thumbnail": "thumbnails/icnv0f.webp",
     "tags": [
-      "Société"
+      "Justice"
     ],
     "analyzed_at": "2026-11-01T09:58:42.377096+00:00"
   },
@@ -744,11 +570,8 @@
     "summary": "Noyb.eu dépose 101 recours auprès des autorités de contrôle. Ils visent autant d’entreprises et organismes installés en UE et dans l’Espace économique…",
     "thumbnail": "thumbnails/icluq0.webp",
     "tags": [
-      "États-Unis",
-      "RGPD",
-      "UE",
-      "Espace",
-      "Union"
+      "Élections",
+      "Union européenne"
     ],
     "analyzed_at": "2026-11-01T09:58:42.996048+00:00"
   },
@@ -770,10 +593,7 @@
     "summary": "Le Youtubeur français ExperimentBoy (1,16 million d’abonnés) est accusé d’avoir profité de sa notoriété pour faire des avances à des jeunes adolescents, leur avoir envoyé des messages, photos et vidéos sexuelles de lui, et d’en avoir demandé en retour. En juin 2020, un dossier de signalement collectif a été envoyé au",
     "thumbnail": "thumbnails/icjgxh.webp",
     "tags": [
-      "ExperimentBoy",
-      "Youtubeur",
-      "Baptiste Mortier-Dumont",
-      "Quentin"
+      "Corruption"
     ],
     "analyzed_at": "2026-11-01T09:58:43.566673+00:00"
   },
@@ -795,11 +615,8 @@
     "summary": "« Hercule », c'est le nom du projet par lequel le gouvernement envisage de démanteler EDF, et d'en privatiser une partie. Quelles en seraient les conséquences ? Entretien avec François Dos Santos, ex-responsable (CGT) du comité central d'entreprise.",
     "thumbnail": "thumbnails/ic6tj4.webp",
     "tags": [
-      "EDF",
-      "François Dos Santos",
-      "CGT",
-      "État",
-      "Économie"
+      "Énergie",
+      "Grèves et syndicats"
     ],
     "analyzed_at": "2026-11-01T09:58:43.438155+00:00"
   },
@@ -822,10 +639,7 @@
     "thumbnail": "thumbnails/ic3asd.webp",
     "tags": [
       "Agriculture",
-      "WWF France",
-      "Générations",
-      "Métiers",
-      "Écologie"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T09:58:43.541511+00:00"
   },
@@ -847,9 +661,7 @@
     "summary": "Au lendemain de la réélection très contestée du président Alexandre Louchachenko au pouvoir depuis 26 ans au Bélarus, les attaques contre les manifestants s’intensifient. En collaboration avec d’autres organisations locales, nous avons recueilli des témoignages très durs qui dépeignent l’horreur sur place.",
     "thumbnail": "thumbnails/ic0qer.webp",
     "tags": [
-      "Alexandre Louchachenko",
-      "Bélarus",
-      "Biélorussie"
+      "Manifestations"
     ],
     "analyzed_at": "2026-11-01T09:58:43.858528+00:00"
   },
@@ -871,11 +683,7 @@
     "summary": "Cette mesure, qui entre en vigueur au 1er septembre, concerne également les open spaces. Les masques, devenant un équipement de protection individuel, seront à la charge de l'employeur.",
     "thumbnail": "thumbnails/ibz3ap.webp",
     "tags": [
-      "Covid-19",
-      "Santé au travail",
-      "Masques sanitaires",
-      "Carrière",
-      "Vie-professionnelle"
+      "Covid-19"
     ],
     "analyzed_at": "2026-11-01T09:58:43.932980+00:00"
   },
@@ -897,8 +705,8 @@
     "summary": "Toute l'actualité belge et internationale sur RTBF.be : retrouvez toutes les news info, sport, culture, musique et bien plus encore et accédez aux chaînes TV, radio et marques de la RTBF.",
     "thumbnail": "thumbnails/ib982e.webp",
     "tags": [
-      "TV",
-      "COVID-19"
+      "Covid-19",
+      "Grèves et syndicats"
     ],
     "analyzed_at": "2026-11-01T09:58:44.729038+00:00"
   },
@@ -920,39 +728,9 @@
     "summary": "Des sociétés ont empoché plus de 100 millions d'euros dans la vente d'Alstom Energie à General Electric en 2015.",
     "thumbnail": "thumbnails/ib914o.webp",
     "tags": [
-      "General Electric",
-      "Alstom",
-      "Olivier Marleix",
-      "PNF",
-      "Alstom Energie"
+      "Énergie"
     ],
     "analyzed_at": "2026-11-01T09:58:44.120910+00:00"
-  },
-  {
-    "id": "iats25",
-    "title": "Peugeot ranked as UK's most reliable car brand in 2019",
-    "url": "https://www.am-online.com/news/market-insight/2019/05/08/peugeot-ranked-as-uk-s-most-reliable-car-brand-in-jd-power-survey",
-    "permalink": "/r/france/comments/iats25/peugeot_ranked_as_uks_most_reliable_car_brand_in/",
-    "created_at": "2020-08-16T14:59:57+00:00",
-    "score": 180,
-    "num_comments": 78,
-    "subreddit": "france",
-    "author": "npjprods",
-    "flair": "Économie",
-    "domain": "am-online.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/RWdYyIt15l-p4goATUMHNyrRUqKzqn50XMpg89UYMAI.jpg?auto=webp&s=6da75b06a29c85885f0991cfd944ca4ebe31d988",
-    "ingested_at": "2026-11-01T09:41:17.627735+00:00",
-    "summary": "Peugeot has been ranked as the UK’s most dependable car brand in JD Power’s fifth annual survey to identify the most reliable products on the market.",
-    "thumbnail": "thumbnails/iats25.webp",
-    "tags": [
-      "UK's",
-      "PP100",
-      "JD Power's",
-      "ACEN",
-      "Économie"
-    ],
-    "analyzed_at": "2026-11-01T09:58:44.006961+00:00"
   },
   {
     "id": "ias04a",
@@ -972,10 +750,7 @@
     "summary": "Faisant fi des appels à la désescalade, la Turquie a annoncé qu’elle allait prolonger ses recherches.",
     "thumbnail": "thumbnails/ias04a.webp",
     "tags": [
-      "Turquie",
-      "Méditerranée",
-      "UE",
-      "Politique"
+      "Union européenne"
     ],
     "analyzed_at": "2026-11-01T09:58:45.199469+00:00"
   },
@@ -996,33 +771,8 @@
     "ingested_at": "2026-11-01T09:41:17.627390+00:00",
     "summary": "Les glaciers ont tellement rétréci que même si le réchauffement climatique s'arrêtait net dès aujourd'hui, ils disparaîtraient inévitablement.",
     "thumbnail": "thumbnails/iaqhr0.webp",
-    "tags": [
-      "Groenland"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:58:44.430715+00:00"
-  },
-  {
-    "id": "iaawr9",
-    "title": "Je vous recommande vivement le site radiooooo.com. Ce site permet de voyager musicalement dans le monde entier et à toutes époques. Il y a vraiment des pépites cachées !",
-    "url": "https://radiooooo.com/",
-    "permalink": "/r/france/comments/iaawr9/je_vous_recommande_vivement_le_site_radiooooocom/",
-    "created_at": "2020-08-15T16:57:35+00:00",
-    "score": 211,
-    "num_comments": 32,
-    "subreddit": "france",
-    "author": "DiodeMcRoy",
-    "flair": "Culture",
-    "domain": "radiooooo.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/avmyl0o304GDnhQjYVBgVza7DzNWoKTo-DNXpbrgduw.png?auto=webp&s=b96c8c4b996a447d7d8744bce34c2f1925ee858d",
-    "ingested_at": "2026-11-01T09:41:17.627632+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/iaawr9.webp",
-    "tags": [
-      "Musical Time Machine",
-      "Culture"
-    ],
-    "analyzed_at": "2026-11-01T09:58:44.345129+00:00"
   },
   {
     "id": "ia607k",
@@ -1042,9 +792,6 @@
     "summary": "Grâce à un arrêté préfectoral, la jauge passe de 5000 à 9000 spectateurs pour la Cinéscénie du parc vendéen ce samedi 15 août.",
     "thumbnail": "thumbnails/ia607k.webp",
     "tags": [
-      "Puy du Fou",
-      "Cinéscénie",
-      "Vendée",
       "Covid-19"
     ],
     "analyzed_at": "2026-11-01T09:58:44.789132+00:00"
@@ -1067,10 +814,7 @@
     "summary": "Des centaines de ces personnes ont décrit ce qu'elles ont vécu en détention, où elles ont été privées de nourriture, d'eau, de sommeil, tabassées et torturées. Une répression qui s'abat depuis dimanche et la réélection contestée d'Alexandre Loukachenko à la tête du pays.",
     "thumbnail": "thumbnails/i9s4l3.webp",
     "tags": [
-      "Alexandre Loukachenko",
-      "Biélorussie",
-      "Elections en Biélorussie",
-      "Monde"
+      "Manifestations"
     ],
     "analyzed_at": "2026-11-01T09:58:44.751662+00:00"
   },
@@ -1091,10 +835,7 @@
     "ingested_at": "2026-11-01T09:41:17.628624+00:00",
     "summary": "",
     "thumbnail": "thumbnails/i9lzjc.webp",
-    "tags": [
-      "Turquie",
-      "Méditerranée"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:58:44.850963+00:00"
   },
   {
@@ -1114,12 +855,7 @@
     "ingested_at": "2026-11-01T09:41:17.628221+00:00",
     "summary": "La station d'épuration de l'usine Nestlé située sur l’Aisne reconnaît un « débordement ponctuel et involontaire d'effluents de boues biologi",
     "thumbnail": "thumbnails/i91ipz.webp",
-    "tags": [
-      "Nestlé",
-      "Aisne",
-      "Ardennes",
-      "Soft paywall"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:58:45.307454+00:00"
   },
   {
@@ -1139,12 +875,7 @@
     "ingested_at": "2026-11-01T09:41:17.627864+00:00",
     "summary": "Michel Debray, un garde-pêche de 70 ans, avait demandé à deux jeunes qui fumaient la chicha de bien vouloir ramasser leurs détritus.",
     "thumbnail": "thumbnails/i8ux0c.webp",
-    "tags": [
-      "Michel Debray",
-      "Condé-Folie",
-      "Blessures",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:58:46.461140+00:00"
   },
   {
@@ -1165,11 +896,7 @@
     "summary": "Selon le site Defenseworld.net, généralement bien informé sur ce qui entoure La Défense turque, deux avions de combat Rafale de l'Armée de l'Air française ont",
     "thumbnail": "thumbnails/i8gi9i.webp",
     "tags": [
-      "Rafale",
-      "Chypre",
-      "Defenseworld",
-      "Rafale de Armée de Air",
-      "Avion Dassault Rafale"
+      "Défense"
     ],
     "analyzed_at": "2026-11-01T09:58:46.091166+00:00"
   },
@@ -1191,8 +918,8 @@
     "summary": "L'Ordre national des médecins a condamné ce mardi la mise en ligne d'annuaires de professionnels de santé communautaires après la diffusion d'annonces.",
     "thumbnail": "thumbnails/i8e0b5.webp",
     "tags": [
-      "Société",
-      "Sciences et Santé"
+      "Justice",
+      "Santé"
     ],
     "analyzed_at": "2026-11-01T09:58:45.446342+00:00"
   },
@@ -1214,10 +941,7 @@
     "summary": "En guerre contre la \"dictature qui monte\", une médecin bas-rhinoise a produit des certificats médicaux pour s'exonérer du port du masque.",
     "thumbnail": "thumbnails/i89sew.webp",
     "tags": [
-      "Alsace",
-      "Wangenbourg-Engenthal",
-      "Eve Engerer",
-      "Facebook",
+      "Santé",
       "Covid-19"
     ],
     "analyzed_at": "2026-11-01T09:58:45.942298+00:00"
@@ -1240,38 +964,9 @@
     "summary": "",
     "thumbnail": "thumbnails/i7s95s.webp",
     "tags": [
-      "Turquie",
-      "Grèce",
-      "UE",
-      "Politique"
+      "Union européenne"
     ],
     "analyzed_at": "2026-11-01T09:58:45.434618+00:00"
-  },
-  {
-    "id": "i7pa0s",
-    "title": "Les trois quarts de l'humanité menacé de mourir de chaud en 2100",
-    "url": "https://www.nationalgeographic.fr/environnement/les-trois-quarts-de-lhumanite-menaces-de-mourir-de-chaud-en-2100",
-    "permalink": "/r/france/comments/i7pa0s/les_trois_quarts_de_lhumanité_menacé_de_mourir_de/",
-    "created_at": "2020-08-11T10:22:11+00:00",
-    "score": 127,
-    "num_comments": 201,
-    "subreddit": "france",
-    "author": "jzkhaz",
-    "flair": "Science",
-    "domain": "nationalgeographic.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/DQ23Me2aqomr6MVuaJnlmQam9cUkouoEoJr0KBMZCzs.jpg?auto=webp&s=dd3ec4822cb2cbf7f48cef7da6c5d616d09c30b1",
-    "ingested_at": "2026-11-01T09:41:17.628347+00:00",
-    "summary": "En l'absence de réduction drastique des émissions de CO2, jusqu'à 75 % des habitants de la planète pourraient être victimes de vagues de chaleur meurtrières à l'horizon 2100.",
-    "thumbnail": "thumbnails/i7pa0s.webp",
-    "tags": [
-      "Environnement",
-      "CO2",
-      "Inde",
-      "Camilo Mora",
-      "Science"
-    ],
-    "analyzed_at": "2026-11-01T09:58:45.589346+00:00"
   },
   {
     "id": "i7mk8u",
@@ -1291,38 +986,9 @@
     "summary": "France Bleu Alsace a recueilli lundi le témoignage d'une ancienne joueuse strasbourgeoise qui dit avoir été victime de harcèlement sexuel lorsqu'elle était au centre de formation de l'OL.",
     "thumbnail": "thumbnails/i7mk8u.webp",
     "tags": [
-      "Olympique",
-      "France Bleu Alsace",
-      "OL",
-      "Myriam",
       "Violences sexuelles"
     ],
     "analyzed_at": "2026-11-01T09:58:45.915796+00:00"
-  },
-  {
-    "id": "i71pdk",
-    "title": "Hollywood est accusé de censurer ses films pour plaire à Pékin",
-    "url": "https://www.journaldugeek.com/2020/08/10/hollywood-censurer-films-plaire-pekin/",
-    "permalink": "/r/france/comments/i71pdk/hollywood_est_accusé_de_censurer_ses_films_pour/",
-    "created_at": "2020-08-10T09:32:09+00:00",
-    "score": 176,
-    "num_comments": 67,
-    "subreddit": "france",
-    "author": "[deleted]",
-    "flair": "Culture",
-    "domain": "journaldugeek.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/XyUsrFpRWKwegfxXTzvwqydxJj5SU_T9r1kCiI9Q6VY.jpg?auto=webp&s=3580fa40c28459fc0f0551c20779c7773e5b6433",
-    "ingested_at": "2026-11-01T09:41:17.627785+00:00",
-    "summary": "Selon l’association américaine de défense de la liberté d’expression, Hollywood censure volontairement ses films pour plaire au gouvernement chinois.",
-    "thumbnail": "thumbnails/i71pdk.webp",
-    "tags": [
-      "Pékin",
-      "PEN America",
-      "Hollywood",
-      "Culture"
-    ],
-    "analyzed_at": "2026-11-01T09:58:47.154800+00:00"
   },
   {
     "id": "i70ji7",
@@ -1342,65 +1008,9 @@
     "summary": "D'après un sondage, 64% des Français soutiennent le port du masque obligatoire \"dans un lieu public ouvert\".",
     "thumbnail": "thumbnails/i70ji7.webp",
     "tags": [
-      "Français",
-      "Coronavirus",
-      "Virus",
-      "Maladie",
-      "Épidémie"
+      "Élections"
     ],
     "analyzed_at": "2026-11-01T09:58:46.007173+00:00"
-  },
-  {
-    "id": "i6zemq",
-    "title": "Plus de 100 policiers font une descente dans le journal Pro-democratie Apple Daily à Hong Kong, son patron Jimmy Lai arrêté.",
-    "url": "https://hongkongfp.com/2020/08/10/scores-of-police-raid-office-of-hong-kong-pro-democracy-newspaper-apple-daily/",
-    "permalink": "/r/france/comments/i6zemq/plus_de_100_policiers_font_une_descente_dans_le/",
-    "created_at": "2020-08-10T06:03:13+00:00",
-    "score": 627,
-    "num_comments": 158,
-    "subreddit": "france",
-    "author": "Luoman",
-    "flair": "Politique",
-    "domain": "hongkongfp.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/RK5z-9zXqRCJiI-OEbtVR0Xxm2pWYNqXDxdeRGbbuyw.jpeg?auto=webp&s=10ef62506897155845f2baba82ac9f70285aa18c",
-    "ingested_at": "2026-11-01T09:41:17.626803+00:00",
-    "summary": "Over 100 police officers raided the Tseung Kwan O offices of pro-democracy newspaper Apple Daily on Monday morning. Live streams showed officers lining up staff members to check their identities after entering at around 9:45am, whilst other officers went desk-to-desk.",
-    "thumbnail": "thumbnails/i6zemq.webp",
-    "tags": [
-      "Hong Kong",
-      "Jimmy Lai",
-      "Pro-democratie Apple Daily",
-      "Monday",
-      "Politique"
-    ],
-    "analyzed_at": "2026-11-01T09:58:46.833804+00:00"
-  },
-  {
-    "id": "i6rnq2",
-    "title": "AJA que la plus grande ville francophone au monde est pas Paris (pop. 12.5 mil), mais Kinshasa (pop. 13 mil), la capitale de la RDC",
-    "url": "https://fr.wikipedia.org/wiki/Kinshasa",
-    "permalink": "/r/france/comments/i6rnq2/aja_que_la_plus_grande_ville_francophone_au_monde/",
-    "created_at": "2020-08-09T21:33:52+00:00",
-    "score": 68,
-    "num_comments": 21,
-    "subreddit": "france",
-    "author": "OliverTate2",
-    "flair": "",
-    "domain": "fr.wikipedia.org",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/PJnpaSXIfO_yEVnFh3TU_rdwiFTEyeAx5tteXiyABN4.jpg?auto=webp&s=4e4458ca7f4723bf5c5929ed178a21744314ea3d",
-    "ingested_at": "2026-11-01T09:41:17.629011+00:00",
-    "summary": "Kinshasa ( / k i n . ʃ a . s a / Écouter ⓘ ; en lingala : Kisásá ; litt.",
-    "thumbnail": "thumbnails/i6rnq2.webp",
-    "tags": [
-      "Kinshasa",
-      "Congo",
-      "Paris",
-      "RDC",
-      "AJA"
-    ],
-    "analyzed_at": "2026-11-01T09:58:46.753671+00:00"
   },
   {
     "id": "i6mx9u",
@@ -1420,11 +1030,7 @@
     "summary": "L’OCDE (Organisation de coopération et de développement économiques) s’est penchée sur la réponse donnée à la crise dans les pays développés. Elle estime que la France est le pays qui a le plus préservé le niveau de vie de ses ressortissants.",
     "thumbnail": "thumbnails/i6mx9u.webp",
     "tags": [
-      "OCDE",
-      "Français",
-      "PIB",
-      "Pouvoir d’achat",
-      "Commerce et finance internationale"
+      "Économie"
     ],
     "analyzed_at": "2026-11-01T09:58:46.505091+00:00"
   },
@@ -1446,8 +1052,7 @@
     "summary": "Cette semaine, près de 10.000 nouveaux cas d'infection au Covid-19 ont été détectés. Le taux de positivité des tests est en hausse.",
     "thumbnail": "thumbnails/i5vycg.webp",
     "tags": [
-      "Covid-19",
-      "DGS"
+      "Covid-19"
     ],
     "analyzed_at": "2026-11-01T09:58:47.508579+00:00"
   },
@@ -1468,11 +1073,7 @@
     "ingested_at": "2026-11-01T09:41:17.628884+00:00",
     "summary": "",
     "thumbnail": "thumbnails/i5uzuq.webp",
-    "tags": [
-      "Faillite Alinea",
-      "Mulliez",
-      "Économie"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:58:47.830836+00:00"
   },
   {
@@ -1493,11 +1094,9 @@
     "summary": "La France a décidé de lever l'interdiction d'une partie de ces insecticides pour permettre aux agriculteurs de lutter contre les pucerons verts qui attaquent les betteraves. Mais selon l'association écologiste, il existait \"d'autres produits, des insecticides plus courants\" et moins toxiques.",
     "thumbnail": "thumbnails/i5adfy.webp",
     "tags": [
-      "Générations Futures",
       "Agriculture",
-      "François Veillerette",
-      "Alimentation",
-      "Écologie"
+      "Environnement",
+      "Grèves et syndicats"
     ],
     "analyzed_at": "2026-11-01T09:58:46.905908+00:00"
   },
@@ -1519,9 +1118,7 @@
     "summary": "Ils sont dangereux pour le climat et pour les piétons mais les gouvernements rechignent à encadrer leur marketing.",
     "thumbnail": "thumbnails/i57yle.webp",
     "tags": [
-      "SUV",
-      "GES",
-      "Écologie"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T09:58:46.769223+00:00"
   },
@@ -1542,13 +1139,7 @@
     "ingested_at": "2026-11-01T09:41:17.628523+00:00",
     "summary": "Après avoir surpris des voleurs dans son appartement, un homme a poussé l’un d’eux par la fenêtre du premier étage.",
     "thumbnail": "thumbnails/i4p7kn.webp",
-    "tags": [
-      "Faits Divers",
-      "Nantes",
-      "Cambriolages",
-      "Vols",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:58:47.116573+00:00"
   },
   {
@@ -1569,8 +1160,8 @@
     "summary": "Malik Allam, 28 ans, a exercé comme adjoint de sécurité pendant deux ans en Normandie. Il décrit un racisme omniprésent, qui a « gangréné » son quotidien professionnel jusqu’à sa démission. Aujourd’h…",
     "thumbnail": "thumbnails/i4nk3t.webp",
     "tags": [
-      "Malik Allam",
-      "Normandie"
+      "Racisme",
+      "Police"
     ],
     "analyzed_at": "2026-11-01T09:58:48.418151+00:00"
   },
@@ -1591,9 +1182,7 @@
     "ingested_at": "2026-11-01T09:41:17.627179+00:00",
     "summary": "Coca-Cola démasqué. Des universitaires ont révélé le financement par l’entreprise américaine de chercheurs qui avaient pour mission de minimiser l’impact des",
     "thumbnail": "thumbnails/i4bur3.webp",
-    "tags": [
-      "Coca-Cola"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:58:47.218355+00:00"
   },
   {
@@ -1614,7 +1203,8 @@
     "summary": "",
     "thumbnail": "thumbnails/i45pbi.webp",
     "tags": [
-      "Beyrouth"
+      "Santé",
+      "Défense"
     ],
     "analyzed_at": "2026-11-01T09:58:47.417884+00:00"
   },
@@ -1636,37 +1226,9 @@
     "summary": "INFO CAPITAL. Le service de streaming américain n’a payé que 564.174 euros d’impôts sur les bénéfices en France l’an dernier, car il déclare son chiffre d’affaires aux Pays-Bas.",
     "thumbnail": "thumbnails/i3hdy6.webp",
     "tags": [
-      "Netflix",
-      "Pays-Bas",
-      "CAPITAL"
+      "Budget et fiscalité"
     ],
     "analyzed_at": "2026-11-01T09:58:48.447236+00:00"
-  },
-  {
-    "id": "i3go3u",
-    "title": "AJA pour christianiser les barbares saxons et nordiques, l'Église a du composer un version hardcore des évangiles, nommé Heliand, où Jésus y est un prince germain combattant les démons, ses disciples de braves vassaux et les noces de Cana un festin guerrier.",
-    "url": "https://fr.wikipedia.org/wiki/Heliand",
-    "permalink": "/r/france/comments/i3go3u/aja_pour_christianiser_les_barbares_saxons_et/",
-    "created_at": "2020-08-04T10:10:06+00:00",
-    "score": 177,
-    "num_comments": 43,
-    "subreddit": "france",
-    "author": "Synchronyme",
-    "flair": "Culture",
-    "domain": "fr.wikipedia.org",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/fwaykw-19EXzcBoelAWTHLn2q793jWOFdIkox6am4SU.jpeg?auto=webp&s=b795eaab9b72b202ca5d03c4476d5901f1282d24",
-    "ingested_at": "2026-11-01T09:41:17.627760+00:00",
-    "summary": "L’ Heliand , ou Poème de la vie de Jésus , est une version épique des évangiles composée en vieux saxon par ordre de l'empereur Louis le Pieux sous les auspices de saint Ludger , évêque de Münster au IX e siècle (vers 830 probablement).",
-    "thumbnail": "thumbnails/i3go3u.webp",
-    "tags": [
-      "Heliand",
-      "Jésus",
-      "Cana",
-      "AJA",
-      "Culture"
-    ],
-    "analyzed_at": "2026-11-01T09:58:48.125835+00:00"
   },
   {
     "id": "i37sce",
@@ -1685,80 +1247,8 @@
     "ingested_at": "2026-11-01T09:41:17.627918+00:00",
     "summary": "",
     "thumbnail": "thumbnails/i37sce.webp",
-    "tags": [
-      "Mali"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:58:47.566766+00:00"
-  },
-  {
-    "id": "i2s7sz",
-    "title": "Paris France (1890)",
-    "url": "https://gfycat.com/impeccablejubilantamericanbobtail",
-    "permalink": "/r/france/comments/i2s7sz/paris_france_1890/",
-    "created_at": "2020-08-03T06:42:15+00:00",
-    "score": 768,
-    "num_comments": 115,
-    "subreddit": "france",
-    "author": "BeFriendlyRed",
-    "flair": "",
-    "domain": "gfycat.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://a.thumbs.redditmedia.com/0s-9wEw2tGB0HIZGUn1tM-rFISWM2A02xmWvPGkr1G4.jpg",
-    "ingested_at": "2026-11-01T09:41:17.626764+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/i2s7sz.webp",
-    "tags": [
-      "Paris France"
-    ],
-    "analyzed_at": "2026-11-01T09:58:48.587763+00:00"
-  },
-  {
-    "id": "i2s7nq",
-    "title": "Forêt urbaine à Paris (2020, colorized)",
-    "url": "https://i.postimg.cc/KjVg6006/foret.jpg",
-    "permalink": "/r/france/comments/i2s7nq/forêt_urbaine_à_paris_2020_colorized/",
-    "created_at": "2020-08-03T06:41:51+00:00",
-    "score": 1350,
-    "num_comments": 178,
-    "subreddit": "france",
-    "author": "Synchronyme",
-    "flair": "",
-    "domain": "i.postimg.cc",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/msNdSZHyQ70xrunDlWIKHlNJMc39LZO_SGrqlLzQD1o.jpg?auto=webp&s=4c42b35444055139a47f9579692110e8f83abfc3",
-    "ingested_at": "2026-11-01T09:41:17.626682+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/i2s7nq.webp",
-    "tags": [
-      "Paris"
-    ],
-    "analyzed_at": "2026-11-01T09:58:48.101353+00:00"
-  },
-  {
-    "id": "i2ip80",
-    "title": "The People Deserve a Guillotine Emoji",
-    "url": "https://www.vice.com/en_us/article/4ay4kb/guillotine-emoji-unicode",
-    "permalink": "/r/france/comments/i2ip80/the_people_deserve_a_guillotine_emoji/",
-    "created_at": "2020-08-02T20:05:34+00:00",
-    "score": 109,
-    "num_comments": 10,
-    "subreddit": "france",
-    "author": "eberkut",
-    "flair": "Culture",
-    "domain": "vice.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/FxUkCnpvphYdP10n1v10hFMPRfesWoftkwUrQRpZUHY.jpg?auto=webp&s=19d0901f25029cba103d119807fa1bdfdc9f6821",
-    "ingested_at": "2026-11-01T09:41:17.628549+00:00",
-    "summary": "For World Emoji Day on July 17, Lisbon-based artist Carrozo is trying to convince the Unicode Consortium to make a guillotine emoji happen.",
-    "thumbnail": "thumbnails/i2ip80.webp",
-    "tags": [
-      "Guillotine Emoji",
-      "People Deserve",
-      "Unicode Consortium",
-      "Carrozo",
-      "Culture"
-    ],
-    "analyzed_at": "2026-11-01T09:58:50.022110+00:00"
   },
   {
     "id": "i27n5q",
@@ -1777,12 +1267,7 @@
     "ingested_at": "2026-11-01T09:41:17.628908+00:00",
     "summary": "La scène, filmée, a fait le tour des réseaux sociaux : une rixe entre deux bandes rivales a opposé plus d'une centaine de jeunes vendredi en fin d'après-midi. Des centaines de familles étaient venues s'y reposer, alors que le thermomètre avoisinait les 40 degrés. La région porte plainte.",
     "thumbnail": "thumbnails/i27n5q.webp",
-    "tags": [
-      "Étampes",
-      "Essonne",
-      "Police nationale",
-      "Ile-de-France"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:58:48.306311+00:00"
   },
   {
@@ -1803,9 +1288,8 @@
     "summary": "Si l'Allemagne a jusqu'à présent été plutôt épargnée par la pandémie qui y a fait moins de 9 200 victimes, les autorités s'alarment d'une lente reprise du nombre des infections ces dernières semaines.",
     "thumbnail": "thumbnails/i1ymap.webp",
     "tags": [
-      "Berlin",
-      "Allemagne",
-      "Covid-19"
+      "Covid-19",
+      "Manifestations"
     ],
     "analyzed_at": "2026-11-01T09:58:48.204448+00:00"
   },
@@ -1827,11 +1311,8 @@
     "summary": "La justice soupçonnait les deux hommes, âgés de 26 ans, d'avoir eu des rapports homosexuels. Un acte passible de trois ans de prison selon le Code pénal tunisien.",
     "thumbnail": "thumbnails/i1v4it.webp",
     "tags": [
-      "Tunisie",
-      "Code",
-      "LGBT",
-      "Société",
-      "Afrique"
+      "Justice",
+      "LGBT+"
     ],
     "analyzed_at": "2026-11-01T09:58:48.375366+00:00"
   }

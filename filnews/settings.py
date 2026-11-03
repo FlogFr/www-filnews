@@ -98,7 +98,9 @@ MEDIA_URL = "/media/"
 # --- FilNews ---------------------------------------------------------------
 
 SITE_NAME = "FilNews"
-SITE_TAGLINE = "L'actualité vue par les Français"
+SITE_TAGLINE = "L'actualité vue par r/france"
+# Public source code (transparency), linked from the legal notice.
+SITE_SOURCE_URL = "https://github.com/FlogFr/www-filnews"
 
 # Local file "database".
 DATA_DIR = Path(os.environ.get("FILNEWS_DATA_DIR", BASE_DIR / "data"))
@@ -115,6 +117,10 @@ FILNEWS_BACKFILL_DAY_TOP = env_int("FILNEWS_BACKFILL_DAY_TOP", 2)
 # ... but only if they have at least this score.
 FILNEWS_BACKFILL_DAY_MIN_SCORE = env_int("FILNEWS_BACKFILL_DAY_MIN_SCORE", 20)
 
+# Media policy (filnews/media.py): only recognised news media are ingested;
+# set to false to accept any site that is not explicitly blocked.
+FILNEWS_MEDIA_WHITELIST = env_bool("FILNEWS_MEDIA_WHITELIST", True)
+
 # Analysis backend: "heuristic" or "local" (transformers model).
 FILNEWS_ANALYZER = os.environ.get("FILNEWS_ANALYZER", "heuristic")
 FILNEWS_MAX_TAGS = env_int("FILNEWS_MAX_TAGS", 5)
@@ -128,7 +134,8 @@ FILNEWS_TAG_CARD_NEWS_COUNT = 5
 
 # Home page.
 FILNEWS_HOME_NEWS_COUNT = 5
-FILNEWS_HOME_TAG_COUNT = 10
+FILNEWS_HOME_TAG_COUNT = 7  # "Fils du moment".
+FILNEWS_HOME_THREAD_COUNT = 5  # News of the featured Fil, next to the headline.
 
 # Tags: a page (and a hover card) only from this number of news; the Fil of
 # a bigger tag is split by year; its timeline shows bars instead of dots.

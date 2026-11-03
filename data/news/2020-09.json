@@ -16,10 +16,7 @@
     "ingested_at": "2026-11-01T09:42:25.964409+00:00",
     "summary": "",
     "thumbnail": "thumbnails/j2uaxl.webp",
-    "tags": [
-      "Quino",
-      "Mafalda"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:58:29.134611+00:00"
   },
   {
@@ -40,7 +37,7 @@
     "summary": "",
     "thumbnail": "thumbnails/j2h9ck.webp",
     "tags": [
-      "Matthieu Orphelin et Eric Piolle"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T09:58:29.243010+00:00"
   },
@@ -61,10 +58,7 @@
     "ingested_at": "2026-11-01T09:42:25.965230+00:00",
     "summary": "Une boucherie située dans le 8e arrondissement de Lyon a porté plainte le 19 septembre, après avoir été prise à partie à plusieurs reprises par des enfants",
     "thumbnail": "thumbnails/j1xyfh.webp",
-    "tags": [
-      "Lyon",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:58:29.320655+00:00"
   },
   {
@@ -85,11 +79,7 @@
     "summary": "Dans un rapport, l'ONG documente des dizaines de cas de manifestants pacifiques \"arrêtés arbitrairement\" durant la mobilisation des \"gilets jaunes\" ou celle contre la réforme des retraites.",
     "thumbnail": "thumbnails/j1ty0f.webp",
     "tags": [
-      "Amnesty International",
-      "ONG",
-      "Violences policières",
-      "Droit et justice",
-      "Société"
+      "Manifestations"
     ],
     "analyzed_at": "2026-11-01T09:58:29.329453+00:00"
   },
@@ -111,7 +101,6 @@
     "summary": "",
     "thumbnail": "thumbnails/j1aao7.webp",
     "tags": [
-      "Français",
       "Covid-19"
     ],
     "analyzed_at": "2026-11-01T09:58:33.386168+00:00"
@@ -133,11 +122,7 @@
     "ingested_at": "2026-11-01T09:42:25.965106+00:00",
     "summary": "L'enquête sur l'attaque perpétrée devant les anciens locaux de Charlie Hebdo vendredi 25 septembre progresse et le profil du principal suspect se précise avec quelques découvertes. Il aurait en fait 25 ans et...",
     "thumbnail": "thumbnails/j18co8.webp",
-    "tags": [
-      "Paris",
-      "Charlie Hebdo",
-      "Zaheer Hassan Mahmood"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:58:30.009955+00:00"
   },
   {
@@ -157,30 +142,8 @@
     "ingested_at": "2026-11-01T09:42:25.964867+00:00",
     "summary": "",
     "thumbnail": "thumbnails/j0s5m5.webp",
-    "tags": [
-      "Julian Alaphilippe"
-    ],
-    "analyzed_at": "2026-11-01T09:58:31.288504+00:00"
-  },
-  {
-    "id": "j0myow",
-    "title": "non!!!!!!",
-    "url": "https://gfycat.com/discretevastkinkajou",
-    "permalink": "/r/france/comments/j0myow/non/",
-    "created_at": "2020-09-27T07:26:12+00:00",
-    "score": 188,
-    "num_comments": 41,
-    "subreddit": "france",
-    "author": "airborneANDrowdy",
-    "flair": "",
-    "domain": "gfycat.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://b.thumbs.redditmedia.com/w74K_M_Lj11yOtri2yy1r4T-CB14_b9JzcfF3ellCzo.jpg",
-    "ingested_at": "2026-11-01T09:42:25.964941+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/j0myow.webp",
     "tags": [],
-    "analyzed_at": "2026-11-01T09:58:31.189005+00:00"
+    "analyzed_at": "2026-11-01T09:58:31.288504+00:00"
   },
   {
     "id": "j0bcm9",
@@ -199,9 +162,7 @@
     "ingested_at": "2026-11-01T09:42:25.964916+00:00",
     "summary": "",
     "thumbnail": "thumbnails/j0bcm9.webp",
-    "tags": [
-      "Paris"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:58:29.925826+00:00"
   },
   {
@@ -221,12 +182,7 @@
     "ingested_at": "2026-11-01T09:42:25.964767+00:00",
     "summary": "En garde à vue, Ali H. a reconnu être l’auteur de l’attaque rue Nicolas-Appert de vendredi matin et a confirmé, selon nos informations, qu’i",
     "thumbnail": "thumbnails/j06o69.webp",
-    "tags": [
-      "Charlie Hebdo",
-      "Paris",
-      "Ali H",
-      "Nicolas-Appert"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:58:29.918611+00:00"
   },
   {
@@ -247,8 +203,7 @@
     "summary": "Contrôlés positifs en août, ces deux touristes étaient pointés du doigt par plusieurs médias locaux et accusés d'avoir contaminé près de 100 personnes.",
     "thumbnail": "thumbnails/izp39a.webp",
     "tags": [
-      "Islande",
-      "Covid"
+      "Police"
     ],
     "analyzed_at": "2026-11-01T09:58:30.597306+00:00"
   },
@@ -270,8 +225,8 @@
     "summary": "",
     "thumbnail": "thumbnails/izkhyu.webp",
     "tags": [
-      "Eric Zemmour",
-      "Politique"
+      "Éric Zemmour",
+      "Justice"
     ],
     "analyzed_at": "2026-11-01T09:58:30.231212+00:00"
   },
@@ -292,35 +247,8 @@
     "ingested_at": "2026-11-01T09:42:25.963837+00:00",
     "summary": "",
     "thumbnail": "thumbnails/izh5op.webp",
-    "tags": [
-      "Charlie Hebdo",
-      "Paris"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:58:31.394465+00:00"
-  },
-  {
-    "id": "izgqel",
-    "title": "Deux Français violent leur quarantaine en Islande et contaminent plus de 100 personnes",
-    "url": "https://fr.news.yahoo.com/deux-fran%C3%A7ais-violent-quarantaine-islande-075714154.html",
-    "permalink": "/r/france/comments/izgqel/deux_français_violent_leur_quarantaine_en_islande/",
-    "created_at": "2020-09-25T09:54:58+00:00",
-    "score": 194,
-    "num_comments": 47,
-    "subreddit": "france",
-    "author": "-Malky-",
-    "flair": "Trompeur ?",
-    "domain": "fr.news.yahoo.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/D1ZY24yA22G5bV0B30Syb6lMc7Wrw1MIfGg-lZv5E5g.jpg?auto=webp&s=73b863e1814bebc7cf09e3e568588f8938a70376",
-    "ingested_at": "2026-11-01T09:42:25.964891+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/izgqel.webp",
-    "tags": [
-      "Français",
-      "Islande",
-      "Trompeur ?"
-    ],
-    "analyzed_at": "2026-11-01T09:58:36.593513+00:00"
   },
   {
     "id": "izenc1",
@@ -340,8 +268,7 @@
     "summary": "Une professeure de français a été placée sous contrôle judiciaire avec interdiction d’enseigner et obligation de soins psychologiques. «On c",
     "thumbnail": "thumbnails/izenc1.webp",
     "tags": [
-      "Herblay",
-      "Suicide Evaëlle"
+      "Justice"
     ],
     "analyzed_at": "2026-11-01T09:58:30.934198+00:00"
   },
@@ -362,37 +289,8 @@
     "ingested_at": "2026-11-01T09:42:25.965153+00:00",
     "summary": "La DGCCRF a mené des perquisitions ce jeudi au siège de la SFAM à Romans-sur-Isère (Drôme) ainsi que dans les locaux parisiens de l'entreprise. Il s'agit d'une enquête portant sur une \"suspicion d'infractions au code de la consommation\".",
     "thumbnail": "thumbnails/iz4c3a.webp",
-    "tags": [
-      "SFAM",
-      "Romans-sur-Isère",
-      "DGCCRF"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:58:32.054677+00:00"
-  },
-  {
-    "id": "iyx766",
-    "title": "« Vous ne m'aurez pas vivant » hurle Didier Raoult aux commandes d'un Canadair chargé de chloroquine",
-    "url": "http://www.legorafi.fr/2020/09/24/vous-ne-maurez-pas-vivant-hurle-didier-raoult-au-commande-dun-canadair-charge-de-chloroquine/",
-    "permalink": "/r/france/comments/iyx766/vous_ne_maurez_pas_vivant_hurle_didier_raoult_aux/",
-    "created_at": "2020-09-24T13:24:52+00:00",
-    "score": 260,
-    "num_comments": 27,
-    "subreddit": "france",
-    "author": "[deleted]",
-    "flair": "Humour",
-    "domain": "legorafi.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/lsL_mPm0SGC7c5jXhmC0BKLhUmBODTuTuIJSghi8h3c.jpeg?auto=webp&s=148c1ad30ad7cf46eddb3d4a31dac1460a00e6c9",
-    "ingested_at": "2026-11-01T09:42:25.964385+00:00",
-    "summary": "Le célèbre professeur marseillais a été intercepté par les militaires alors qu'il tentait de larguer sur la métropole marseillaise plus de 6 000 litres de chloroquine.",
-    "thumbnail": "thumbnails/iyx766.webp",
-    "tags": [
-      "Didier Raoult",
-      "Canadair",
-      "Marseille",
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:58:31.149604+00:00"
   },
   {
     "id": "iy7l1b",
@@ -411,13 +309,7 @@
     "ingested_at": "2026-11-01T09:42:25.964717+00:00",
     "summary": "Ce lundi 21 septembre, dans Touche Pas à Mon Poste, Cyril Hanouna organisait un débat sur la polémique entourant les paroles antisémites du rappeur Freeze Corleone.",
     "thumbnail": "thumbnails/iy7l1b.webp",
-    "tags": [
-      "Mila",
-      "C8",
-      "Charlie Hebdo et Mila",
-      "Freeze Corleone",
-      "Charlie Hebdo"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:58:31.465918+00:00"
   },
   {
@@ -437,37 +329,8 @@
     "ingested_at": "2026-11-01T09:42:25.964146+00:00",
     "summary": "La ministre de la Transition écologique Barbara Pompili a également dans son viseur le nutella, et les offices de tourisme des pays lointains.",
     "thumbnail": "thumbnails/iy6gr0.webp",
-    "tags": [
-      "Transition",
-      "Barbara Pompili",
-      "TV"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:58:31.530608+00:00"
-  },
-  {
-    "id": "iy5tgr",
-    "title": "Un bateau de pêche français tue 5 dauphins en 24 heures devant les caméras de Sea Shepherd",
-    "url": "https://dolphinbycatch.seashepherd.info/index.php/article-news/55-news-04092020-fr-01",
-    "permalink": "/r/france/comments/iy5tgr/un_bateau_de_pêche_français_tue_5_dauphins_en_24/",
-    "created_at": "2020-09-23T07:45:55+00:00",
-    "score": 427,
-    "num_comments": 113,
-    "subreddit": "france",
-    "author": "BoeufCarottes",
-    "flair": "Écologie",
-    "domain": "dolphinbycatch.seashepherd.info",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/q0KUXiWQQfXNIolLqLlzJ51zrvkh3lkzMlRiJ14075g.png?auto=webp&s=64235b4e0617188cd8c6f7d8788c470d798040dc",
-    "ingested_at": "2026-11-01T09:42:25.963887+00:00",
-    "summary": "Un fileyeur français filmé par Sea Shepherd tue 5 dauphins en 24 h : portrait d’un carnage en mer.",
-    "thumbnail": "thumbnails/iy5tgr.webp",
-    "tags": [
-      "Sea Shepherd",
-      "Voluntas Dei",
-      "Etat",
-      "Écologie"
-    ],
-    "analyzed_at": "2026-11-01T09:58:31.905886+00:00"
   },
   {
     "id": "iy4sgb",
@@ -487,10 +350,8 @@
     "summary": "Ce texte rédigé à l'initiative de la rédaction de \"Charlie Hebdo\" revient sur les menaces de morts proférées à l'encontre de certains médias.",
     "thumbnail": "thumbnails/iy4sgb.webp",
     "tags": [
-      "Charlie Hebdo",
-      "Etats",
-      "Déclaration",
-      "Éco / Conso"
+      "Médias",
+      "Libertés publiques"
     ],
     "analyzed_at": "2026-11-01T09:58:31.889478+00:00"
   },
@@ -511,9 +372,7 @@
     "ingested_at": "2026-11-01T09:42:25.963670+00:00",
     "summary": "",
     "thumbnail": "thumbnails/ixu17s.webp",
-    "tags": [
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:58:32.020157+00:00"
   },
   {
@@ -533,35 +392,8 @@
     "ingested_at": "2026-11-01T09:42:25.963995+00:00",
     "summary": "Au dernier jour de la Semaine européenne de la mobilité 2020, un événement qui s'achève ce mardi 22 septembre et dont le but est d'encourager les citoyens et les",
     "thumbnail": "thumbnails/ixkn4a.webp",
-    "tags": [
-      "Français",
-      "Covid-19",
-      "Semaine",
-      "Caroom"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:58:32.037916+00:00"
-  },
-  {
-    "id": "ixkjvx",
-    "title": "La tenue républicaine",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Eug%C3%A8ne_Delacroix_-_Le_28_Juillet._La_Libert%C3%A9_guidant_le_peuple.jpg/1024px-Eug%C3%A8ne_Delacroix_-_Le_28_Juillet._La_Libert%C3%A9_guidant_le_peuple.jpg",
-    "permalink": "/r/france/comments/ixkjvx/la_tenue_républicaine/",
-    "created_at": "2020-09-22T10:07:40+00:00",
-    "score": 927,
-    "num_comments": 121,
-    "subreddit": "france",
-    "author": "DamienCouderc",
-    "flair": "Humour",
-    "domain": "upload.wikimedia.org",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/SYDzPx9XtXsFOeuw3yWLngHDmKU2JA7EwuBamvVkuPI.jpg?auto=webp&s=998602e9cee4b84b93bfb063e758522d755361f2",
-    "ingested_at": "2026-11-01T09:42:25.963616+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/ixkjvx.webp",
-    "tags": [
-      "Humour"
-    ],
-    "analyzed_at": "2026-11-01T09:58:32.164864+00:00"
   },
   {
     "id": "ixjuvi",
@@ -580,13 +412,7 @@
     "ingested_at": "2026-11-01T09:42:25.964338+00:00",
     "summary": "Facebook a transformé lère du réseautage social en simposant sur Internet comme étant un moyen incontournable de relier des personnes physiques ou personnes morales entre elles.",
     "thumbnail": "thumbnails/ixjuvi.webp",
-    "tags": [
-      "Jamelle Bouie du New York Times",
-      "Internet",
-      "PDG",
-      "Mark Zuckerberg",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:58:32.381895+00:00"
   },
   {
@@ -607,9 +433,8 @@
     "summary": "L'Union européenne veut s'armer de nouveaux pouvoirs pour pénaliser les grandes entreprises technologiques, a rapporté dimanche le quotidien économique Financial Times.",
     "thumbnail": "thumbnails/ixjei9.webp",
     "tags": [
-      "UE",
-      "Financial Times",
-      "Société"
+      "Union européenne",
+      "Élections"
     ],
     "analyzed_at": "2026-11-01T09:58:32.375692+00:00"
   },
@@ -630,10 +455,7 @@
     "ingested_at": "2026-11-01T09:42:25.963863+00:00",
     "summary": "",
     "thumbnail": "thumbnails/ixhhrm.webp",
-    "tags": [
-      "Nintendo",
-      "Économie"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:58:32.458545+00:00"
   },
   {
@@ -653,35 +475,8 @@
     "ingested_at": "2026-11-01T09:42:25.964047+00:00",
     "summary": "Facebook est vent debout contre un mécanisme de protection des données personnelles désormais en vigueur en Europe.",
     "thumbnail": "thumbnails/ix0v1q.webp",
-    "tags": [
-      "Europe",
-      "Facebook et Instagram",
-      "Facebook",
-      "Etats-Unis"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:58:32.491148+00:00"
-  },
-  {
-    "id": "iwuf63",
-    "title": "Christian Clavier, Alad'2, Toto : c’est quoi le problème de la comédie française ?",
-    "url": "https://www.ecranlarge.com/films/dossier/1348638-christian-clavier-alad2-toto-cest-quoi-le-probleme-de-la-comedie-francaise",
-    "permalink": "/r/france/comments/iwuf63/christian_clavier_alad2_toto_cest_quoi_le/",
-    "created_at": "2020-09-21T05:35:43+00:00",
-    "score": 182,
-    "num_comments": 236,
-    "subreddit": "france",
-    "author": "HellYodan",
-    "flair": "",
-    "domain": "ecranlarge.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/BEuc908Ah6UFFPHiR9EhywGWRGpvTYrf92atDDZjYto.jpeg?auto=webp&s=184dafe6f43da74318d7cd12ac48759967027727",
-    "ingested_at": "2026-11-01T09:42:25.964966+00:00",
-    "summary": "La comédie est un genre volontiers brocardé par les cinéphiles. Pourquoi la France en produit-elle tant ? Est-elle vraiment si tragiquement nulle ?",
-    "thumbnail": "thumbnails/iwuf63.webp",
-    "tags": [
-      "Christian Clavier"
-    ],
-    "analyzed_at": "2026-11-01T09:58:32.430296+00:00"
   },
   {
     "id": "iw8o26",
@@ -700,10 +495,7 @@
     "ingested_at": "2026-11-01T09:42:25.965037+00:00",
     "summary": "La campagne de sensibilisation du conseil départemental de Loire-Atlantique va être revue.",
     "thumbnail": "thumbnails/iw8o26.webp",
-    "tags": [
-      "Loire-Atlantique",
-      "Alcool"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:58:33.479276+00:00"
   },
   {
@@ -724,38 +516,9 @@
     "summary": "L'étude indépendante demandée par le rapporteur estime que les groupes Vinci et Eiffage atteindraient la rentabilité attendue lors de la privatisation dix ans avant la fin de leurs concession alors qu'elles courent...",
     "thumbnail": "thumbnails/iw6cko.webp",
     "tags": [
-      "Etat",
-      "Sénat",
-      "Vinci et Eiffage",
-      "Politique"
+      "Institutions"
     ],
     "analyzed_at": "2026-11-01T09:58:32.842322+00:00"
-  },
-  {
-    "id": "ivoo2l",
-    "title": "1 % de la population possède 44 % de la fortune mondiale",
-    "url": "https://www.inegalites.fr/La-repartition-du-patrimoine-dans-le-monde",
-    "permalink": "/r/france/comments/ivoo2l/1_de_la_population_possède_44_de_la_fortune/",
-    "created_at": "2020-09-19T08:21:31+00:00",
-    "score": 215,
-    "num_comments": 144,
-    "subreddit": "france",
-    "author": "sitarane",
-    "flair": "Économie",
-    "domain": "inegalites.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/EHuT6ot5rdpfSyQzuA_GSOwSVB2gaJg3RMgD4njVXjU.jpeg?auto=webp&s=e9752866059ad5eca86d32720dd0c0d8def201b6",
-    "ingested_at": "2026-11-01T09:42:25.964742+00:00",
-    "summary": "Les 47 millions de millionnaires (en dollars) possèdent 44 % de l’ensemble du patrimoine privé mondial, selon le Crédit suisse. Les inégalités de patrimoine se réduisent, mais les grandes fortunes restent très majoritairement occidentales.",
-    "thumbnail": "thumbnails/ivoo2l.webp",
-    "tags": [
-      "Crédit",
-      "Observatoire",
-      "Discriminations",
-      "Salaires",
-      "Économie"
-    ],
-    "analyzed_at": "2026-11-01T09:58:32.930382+00:00"
   },
   {
     "id": "ivnzuu",
@@ -794,9 +557,7 @@
     "ingested_at": "2026-11-01T09:42:25.965466+00:00",
     "summary": "",
     "thumbnail": "thumbnails/iv322d.webp",
-    "tags": [
-      "CICE"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:58:32.882186+00:00"
   },
   {
@@ -816,10 +577,7 @@
     "ingested_at": "2026-11-01T09:42:25.964195+00:00",
     "summary": "Véritable légende du doublage, notamment dans le dessin animé, le comédien s’est éteint à l’âge de 93 ans.",
     "thumbnail": "thumbnails/iv2ydk.webp",
-    "tags": [
-      "Roger Carel",
-      "Culture"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:58:32.832628+00:00"
   },
   {
@@ -840,10 +598,7 @@
     "summary": "Le groupe finlandais, qui utilise à plein le crédit d'impôt recherche en France, veut y supprimer 1.233 postes, notamment de chercheurs. Un sacré pied de nez aux salariés et à l'Etat.",
     "thumbnail": "thumbnails/iuixhm.webp",
     "tags": [
-      "Nokia",
-      "Etat",
-      "Licenciement",
-      "Économie"
+      "Travail"
     ],
     "analyzed_at": "2026-11-01T09:58:33.639358+00:00"
   },
@@ -868,30 +623,6 @@
     "analyzed_at": "2026-11-01T09:58:33.213022+00:00"
   },
   {
-    "id": "itr888",
-    "title": "Anne Hidalgo le confirme : la rue de Rivoli ne rouvrira pas aux voitures",
-    "url": "https://www.pariszigzag.fr/paris-au-quotidien/anne-hidalgo-le-confirme-la-rue-de-rivoli-ne-rouvrira-pas-aux-voitures",
-    "permalink": "/r/france/comments/itr888/anne_hidalgo_le_confirme_la_rue_de_rivoli_ne/",
-    "created_at": "2020-09-16T07:46:37+00:00",
-    "score": 238,
-    "num_comments": 118,
-    "subreddit": "france",
-    "author": "sitarane",
-    "flair": "Écologie",
-    "domain": "pariszigzag.fr",
-    "selftext": "",
-    "reddit_thumbnail": "https://b.thumbs.redditmedia.com/2wwM2hNu4c3CNZoYHX40Bw-z4LYmFTyWa0OZHa0ldqE.jpg",
-    "ingested_at": "2026-11-01T09:42:25.964527+00:00",
-    "summary": "C'est dÃ©sormais une certitude : la rue de Rivoli ne reverra pas de voitures de si tÃ´t !",
-    "thumbnail": "thumbnails/itr888.webp",
-    "tags": [
-      "Rivoli",
-      "Anne Hidalgo",
-      "Écologie"
-    ],
-    "analyzed_at": "2026-11-01T09:58:33.599779+00:00"
-  },
-  {
     "id": "itr3sb",
     "title": "Obésité infantile : l’UFC-Que Choisir lance une pétition pour obtenir l'arrêt de la publicité pour la malbouffe",
     "url": "https://www.francetvinfo.fr/sante/enfant-ado/lufc-que-choisir-avec-le-soutien-d-associations-de-parents-d-eleves-appelle-a-l-arret-de-la-publicite-pour-la-malbouffe_4107359.html",
@@ -908,13 +639,7 @@
     "ingested_at": "2026-11-01T09:42:25.963811+00:00",
     "summary": "L'association lance une pétition demandant l’interdiction de la publicité pour les produits alimentaires notés D ou E et destinés aux enfants, à la télévision et sur Internet.",
     "thumbnail": "thumbnails/itr3sb.webp",
-    "tags": [
-      "UFC-Que Choisir",
-      "Internet",
-      "Alain Bazot",
-      "Politique de santé",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:58:33.376550+00:00"
   },
   {
@@ -935,34 +660,9 @@
     "summary": "Selon une infirmière du centre pénitencier, ces opérations se feraient sur des migrantes détenues pour le compte de la US Immigration and Customs Enforcement",
     "thumbnail": "thumbnails/it6c37.webp",
     "tags": [
-      "US Immigration",
-      "Customs Enforcement",
-      "Société"
+      "Immigration"
     ],
     "analyzed_at": "2026-11-01T09:58:35.027779+00:00"
-  },
-  {
-    "id": "it65ek",
-    "title": "La justice européenne consacre la neutralité d’Internet",
-    "url": "https://www.droit-technologie.org/actualites/la-justice-europeenne-consacre-la-neutralite-dinternet/",
-    "permalink": "/r/france/comments/it65ek/la_justice_européenne_consacre_la_neutralité/",
-    "created_at": "2020-09-15T10:30:05+00:00",
-    "score": 599,
-    "num_comments": 48,
-    "subreddit": "france",
-    "author": "eberkut",
-    "flair": "Actus",
-    "domain": "droit-technologie.org",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/u19nmQ4RWeqZvrfTkavi7jIeL3LJCrOoknzAW0HT06c.jpeg?auto=webp&s=7c446549d20a7eff8cc0c1527f3d988a8cf92fab",
-    "ingested_at": "2026-11-01T09:42:25.963778+00:00",
-    "summary": "Tout savoir sur le droit de l'innovation et d'Internet: des milliers d'analyses et de jugements proposés gratuitement par Etienne Wery et Ulys avocats",
-    "thumbnail": "thumbnails/it65ek.webp",
-    "tags": [
-      "Etienne Wery et Ulys",
-      "Telenor"
-    ],
-    "analyzed_at": "2026-11-01T09:58:33.642912+00:00"
   },
   {
     "id": "it4md6",
@@ -981,10 +681,7 @@
     "ingested_at": "2026-11-01T09:42:25.964816+00:00",
     "summary": "Séisme dans le PAF : Jean-Pierre Pernaut va quitter le journal de 13 heures de TF1 qu'il présente depuis 1988. Il va se consacrer à d'autres projets sur la chaîne. Le nom de son successeur n'est pas encore connu.",
     "thumbnail": "thumbnails/it4md6.webp",
-    "tags": [
-      "Jean-Pierre Pernaut",
-      "PAF"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:58:33.711774+00:00"
   },
   {
@@ -1005,8 +702,7 @@
     "summary": "",
     "thumbnail": "thumbnails/it45ug.webp",
     "tags": [
-      "Paris",
-      "Gilets"
+      "Manifestations"
     ],
     "analyzed_at": "2026-11-01T09:58:33.857732+00:00"
   },
@@ -1027,11 +723,7 @@
     "ingested_at": "2026-11-01T09:42:25.964121+00:00",
     "summary": "",
     "thumbnail": "thumbnails/it2lj1.webp",
-    "tags": [
-      "Européens",
-      "Etats-Unis",
-      "Économie"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:58:33.838377+00:00"
   },
   {
@@ -1051,12 +743,7 @@
     "ingested_at": "2026-11-01T09:42:25.964591+00:00",
     "summary": "Amazon a illÃ©galement recouvert un mur rÃ©servÃ© aux artistes dâune pub gÃ©ante. Pour protÃ©ger lâaffichage sauvage, la World Company a mÃªme embauchÃ© des gros bras. La maire du Xe arrondissement de Paris souhaite porter plainte.",
     "thumbnail": "thumbnails/ismulo.webp",
-    "tags": [
-      "Xe",
-      "World Company",
-      "Â Â",
-      "Amazon"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:58:33.886624+00:00"
   },
   {
@@ -1076,13 +763,7 @@
     "ingested_at": "2026-11-01T09:42:25.963644+00:00",
     "summary": "FIGAROVOX/TRIBUNE - Alors que s’est ouvert le procès de l’attentat de Charlie Hebdo le 2 septembre, le recteur de la grande mosquée de Paris Hafiz Chems-eddine qui avait pourtant engagé une procédure de justice contre le journal satirique il y a une quinzaine d’années condamne les crimes...",
     "thumbnail": "thumbnails/isfiyk.webp",
-    "tags": [
-      "Paris",
-      "Charlie Hebdo",
-      "Journal satirique",
-      "Liberté d'expression",
-      "Politique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:58:34.784701+00:00"
   },
   {
@@ -1103,7 +784,6 @@
     "summary": "Une « super-propagatrice » risque une très grosse amende s’il est confirmé qu’elle a délibérément ignoré la quarantaine à laquelle elle étai",
     "thumbnail": "thumbnails/is3rkh.webp",
     "tags": [
-      "Américaine de 26",
       "Covid-19"
     ],
     "analyzed_at": "2026-11-01T09:58:33.971725+00:00"
@@ -1125,12 +805,7 @@
     "ingested_at": "2026-11-01T09:42:25.965060+00:00",
     "summary": "La Cnil irlandaise vient de demander à Facebook de suspendre tout transfert de données d’internautes européens vers les États-Unis. C’est la première fois qu’une telle procédure est entamée depuis la suspension du Privacy Shield cet été.",
     "thumbnail": "thumbnails/irvokw.webp",
-    "tags": [
-      "Facebook",
-      "Privacy Shield",
-      "États-Unis",
-      "Cnil"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:58:37.287302+00:00"
   },
   {
@@ -1151,11 +826,9 @@
     "summary": "Le ministre de l'Intérieur veut interdire qu'on diffuse les images des policiers en opération. \"Un signal extrêmement préoccupant pour les libertés\", alerte le journaliste qui assure que les policiers ne sont pas filmés \"par plaisir\". \"À un moment donné, l'impunité ne doit plus être la règle\", réclame-t-il.",
     "thumbnail": "thumbnails/irhfwz.webp",
     "tags": [
-      "David Dufresne",
-      "Intérieur",
-      "Gérald Darmanin",
-      "Faits-divers",
-      "Politique"
+      "Police",
+      "Médias",
+      "Gérald Darmanin"
     ],
     "analyzed_at": "2026-11-01T09:58:34.232032+00:00"
   },
@@ -1176,10 +849,7 @@
     "ingested_at": "2026-11-01T09:42:25.965266+00:00",
     "summary": "",
     "thumbnail": "thumbnails/ir7ix6.webp",
-    "tags": [
-      "AVC",
-      "Science"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:58:34.136872+00:00"
   },
   {
@@ -1200,39 +870,9 @@
     "summary": "Le raid meurtrier contre Charlie Hebdo «n'était pas un incident ponctuel», avertit l'organisation djihadiste dans sa revue publiée ce vendredi.",
     "thumbnail": "thumbnails/iqwtpj.webp",
     "tags": [
-      "Charlie Hebdo",
-      "Al Qaïda",
-      "Mahomet",
-      "Attentat de Charlie Hebdo",
-      "Paris"
+      "Terrorisme"
     ],
     "analyzed_at": "2026-11-01T09:58:34.943148+00:00"
-  },
-  {
-    "id": "iqnnjr",
-    "title": "Minitel: The Online World France Built Before the Web",
-    "url": "https://spectrum.ieee.org/tech-history/cyberspace/minitel-the-online-world-france-built-before-the-web",
-    "permalink": "/r/france/comments/iqnnjr/minitel_the_online_world_france_built_before_the/",
-    "created_at": "2020-09-11T10:02:29+00:00",
-    "score": 279,
-    "num_comments": 59,
-    "subreddit": "france",
-    "author": "incyclum",
-    "flair": "Culture",
-    "domain": "spectrum.ieee.org",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/VPmto2AJVl3TnT4NSYaXpLHPpVXcSgJKQd_ie4xJraI.jpg?auto=webp&s=28b1f2edb74382013b2684eacbea61de143c9f8c",
-    "ingested_at": "2026-11-01T09:42:25.964219+00:00",
-    "summary": "A decade before the Internet went mainstream, French citizens were interacting via Minitel, a computer network open to anyone with a telephone",
-    "thumbnail": "thumbnails/iqnnjr.webp",
-    "tags": [
-      "Minitel",
-      "Internet",
-      "Online World France Built Before",
-      "Web",
-      "Culture"
-    ],
-    "analyzed_at": "2026-11-01T09:58:34.559896+00:00"
   },
   {
     "id": "iq9sru",
@@ -1253,10 +893,7 @@
     "thumbnail": "thumbnails/iq9sru.webp",
     "tags": [
       "Emmanuel Macron",
-      "Insee",
-      "Français",
-      "Economie",
-      "Société"
+      "Pauvreté"
     ],
     "analyzed_at": "2026-11-01T09:58:34.289846+00:00"
   },
@@ -1277,13 +914,7 @@
     "ingested_at": "2026-11-01T09:42:25.965084+00:00",
     "summary": "Racheté par Ubisoft en 2009, le studio de jeux vidéo français Nadeo, à l'origine de la saga TrackMania, est visé par un appel à témoins lancé en interne par le syndicat Solidaires, branche Informatique et Jeu Vidéo. Directement mis en cause par une dizaine de personnes, le directeur du studio exerce depuis des années",
     "thumbnail": "thumbnails/iq2xye.webp",
-    "tags": [
-      "Ubisoft",
-      "Trackmania",
-      "Nadeo",
-      "Solidaires",
-      "Informatique et Jeu"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:58:34.988331+00:00"
   },
   {
@@ -1303,33 +934,8 @@
     "ingested_at": "2026-11-01T09:42:25.965317+00:00",
     "summary": "",
     "thumbnail": "thumbnails/ipfynr.webp",
-    "tags": [
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:58:34.761488+00:00"
-  },
-  {
-    "id": "ipcttf",
-    "title": "Mise à jour Coronavirus 09/09/2020",
-    "url": "https://plague20.blogspot.com/2020/09/mise-jour-09092020.html?m=1",
-    "permalink": "/r/france/comments/ipcttf/mise_à_jour_coronavirus_09092020/",
-    "created_at": "2020-09-09T09:37:47+00:00",
-    "score": 706,
-    "num_comments": 185,
-    "subreddit": "france",
-    "author": "Knowonething",
-    "flair": "COVID-19",
-    "domain": "plague20.blogspot.com",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/2Ae0cvaDgRzDiNVKt3nMj8p8aAzZ5BabZ0nMBdq0uxo.jpg?auto=webp&s=bf95ba9f0380273e99023965c12c17021db969d5",
-    "ingested_at": "2026-11-01T09:42:25.963701+00:00",
-    "summary": "Bonjour, L'épidémie reprenant, voici quelques nouvelles. Je ne vais pas reprendre sur le rythme précédent, pas seulement à cause du temps ...",
-    "thumbnail": "thumbnails/ipcttf.webp",
-    "tags": [
-      "Coronavirus 09",
-      "COVID-19"
-    ],
-    "analyzed_at": "2026-11-01T09:58:36.117461+00:00"
   },
   {
     "id": "iozrm5",
@@ -1349,38 +955,9 @@
     "summary": "L'adolescente, déscolarisée en janvier après avoir subi une vague de cyber-harcèlement pour avoir insulté la religion musulmane, a de nouveau été prise à partie le 15 août dernier. Reconnue lors d'un séjour linguistique à Malte, Mila a été menacée de mort et de viol \"au nom d'Allah\".",
     "thumbnail": "thumbnails/iozrm5.webp",
     "tags": [
-      "Mila",
-      "Malte",
-      "Allah",
-      "Société"
+      "Violences sexuelles"
     ],
     "analyzed_at": "2026-11-01T09:58:36.264190+00:00"
-  },
-  {
-    "id": "ioq0mi",
-    "title": "TIL that in Māori, France is known as Wīwī, derived from the French phrase oui, oui (yes, yes)",
-    "url": "https://en.wikipedia.org/wiki/Name_of_France#Other_names_for_France",
-    "permalink": "/r/france/comments/ioq0mi/til_that_in_māori_france_is_known_as_wīwī_derived/",
-    "created_at": "2020-09-08T08:37:28+00:00",
-    "score": 1339,
-    "num_comments": 119,
-    "subreddit": "france",
-    "author": "targ_",
-    "flair": "",
-    "domain": "en.wikipedia.org",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/CHJEpebaduH7GvF9AU7rxOcxkSTQGbF-HpxZXoisMe0.jpg?auto=webp&s=93be7fc66260f32831c82623d65505c388286db2",
-    "ingested_at": "2026-11-01T09:42:25.963533+00:00",
-    "summary": "The name France comes from Latin Francia ( ' land of the Franks ' ). Originally it applied to the whole Empire of the Franks , extending from southern France to eastern Germany .",
-    "thumbnail": "thumbnails/ioq0mi.webp",
-    "tags": [
-      "French",
-      "TIL",
-      "Māori",
-      "Wīwī",
-      "Gaul"
-    ],
-    "analyzed_at": "2026-11-01T09:58:35.290552+00:00"
   },
   {
     "id": "iof0se",
@@ -1400,11 +977,8 @@
     "summary": "L’ancien collaborateur d’Emmanuel Macron a rencontré, fin mai, le nouveau président de Guinée-Bissau en compagnie d’un membre actuel de l’état-major particulier de l’Élysée. Il s'agit de Ludovic Chak…",
     "thumbnail": "thumbnails/iof0se.webp",
     "tags": [
-      "Elysée",
-      "Etat",
       "Emmanuel Macron",
-      "Guinée-Bissau",
-      "Politique"
+      "Alexandre Benalla"
     ],
     "analyzed_at": "2026-11-01T09:58:36.477969+00:00"
   },
@@ -1425,13 +999,7 @@
     "ingested_at": "2026-11-01T09:42:25.965343+00:00",
     "summary": "Maria Kolesnikova, une des figures de l’opposition, a refusé d’être expulsée mardi 8 août, selon les autorités ukrainiennes. Minsk de son côté a évoqué son arrestation.",
     "thumbnail": "thumbnails/iobrpv.webp",
-    "tags": [
-      "Maria Kolesnikova",
-      "Biélorussie",
-      "Alexandre Loukachenko",
-      "Minsk",
-      "Europe"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:58:35.774318+00:00"
   },
   {
@@ -1452,11 +1020,8 @@
     "summary": "Les caricatures figuraient sur la une du numéro de journal consacré à l'ouverture du procès des attentats de janvier 2015.",
     "thumbnail": "thumbnails/injvyx.webp",
     "tags": [
-      "Charlie Hebdo",
-      "Mahomet",
-      "Attentat de Charlie Hebdo",
-      "Instagram",
-      "Trompeur ?"
+      "Terrorisme",
+      "Médias"
     ],
     "analyzed_at": "2026-11-01T09:58:35.494582+00:00"
   },
@@ -1477,13 +1042,7 @@
     "ingested_at": "2026-11-01T09:42:25.965368+00:00",
     "summary": "Le collectif «&nbsp;Nous Toutes&nbsp;» et la militante Caroline de Haas ont interpellé sur Twitter le ministre de l’Intérieur et le garde des Sceaux.",
     "thumbnail": "thumbnails/inby6l.webp",
-    "tags": [
-      "Caroline de Haas",
-      "Twitter",
-      "Intérieur",
-      "Sceaux",
-      "AFP"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:58:35.791963+00:00"
   },
   {
@@ -1503,12 +1062,7 @@
     "ingested_at": "2026-11-01T09:42:25.965391+00:00",
     "summary": "L'explosion s'est produite sur le passage de leur véhicule, et a blessé un troisième militaire.",
     "thumbnail": "thumbnails/in8auw.webp",
-    "tags": [
-      "Mali",
-      "Elysée",
-      "Guerre au Mali",
-      "Afrique"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:58:36.461540+00:00"
   },
   {
@@ -1528,13 +1082,7 @@
     "ingested_at": "2026-11-01T09:42:25.965416+00:00",
     "summary": "Gordon Klein est professeur à l’université de Cali­fornie à Los Angeles (Ucla). À la fin de l’année scolaire, il reçoit un mail d’un étudiant lui demandant de reporter les examens pour les élèves noirs, en raison des « récents traumatismes » qu’ils ont dû subir après la mort de George Floyd.",
     "thumbnail": "thumbnails/in86bm.webp",
-    "tags": [
-      "Charlie Hebdo",
-      "Gordon Klein",
-      "Cali",
-      "Los Angeles",
-      "Société"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:58:39.320810+00:00"
   },
   {
@@ -1554,9 +1102,7 @@
     "ingested_at": "2026-11-01T09:42:25.964362+00:00",
     "summary": "",
     "thumbnail": "thumbnails/imlz08.webp",
-    "tags": [
-      "Annie Cordy"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:58:36.360549+00:00"
   },
   {
@@ -1578,8 +1124,7 @@
     "thumbnail": "thumbnails/imfjbo.webp",
     "tags": [
       "Alexandre Benalla",
-      "Affaire Benalla",
-      "Politique"
+      "Justice"
     ],
     "analyzed_at": "2026-11-01T09:58:36.557261+00:00"
   },
@@ -1600,33 +1145,8 @@
     "ingested_at": "2026-11-01T09:42:25.965014+00:00",
     "summary": "",
     "thumbnail": "thumbnails/ilrybv.webp",
-    "tags": [
-      "Barbara Pompili",
-      "Soft paywall"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:58:37.192643+00:00"
-  },
-  {
-    "id": "ilpkag",
-    "title": "Témoignage : le journaliste Valentin Gendrot raconte son infiltration dans la police",
-    "url": "https://dai.ly/x7vxqrw",
-    "permalink": "/r/france/comments/ilpkag/témoignage_le_journaliste_valentin_gendrot/",
-    "created_at": "2020-09-03T08:24:33+00:00",
-    "score": 235,
-    "num_comments": 126,
-    "subreddit": "france",
-    "author": "boulidard",
-    "flair": "",
-    "domain": "dai.ly",
-    "selftext": "",
-    "reddit_thumbnail": "https://external-preview.redd.it/4Aj2gA888v-fyBeo1k2BY0xVKzYO99eYZFi-XmL9JvA.jpeg?auto=webp&s=c6382e9a724b18ab8d3b3f83c3ef9404dc99cc9b",
-    "ingested_at": "2026-11-01T09:42:25.964552+00:00",
-    "summary": "",
-    "thumbnail": "thumbnails/ilpkag.webp",
-    "tags": [
-      "Valentin Gendrot"
-    ],
-    "analyzed_at": "2026-11-01T09:58:36.884220+00:00"
   },
   {
     "id": "ilb7hx",
@@ -1646,11 +1166,9 @@
     "summary": "INFO LE FIGARO - La Société de pathologie infectieuse estime que le chercheur marseillais a enfreint neuf articles du code de déontologie médicale.",
     "thumbnail": "thumbnails/ilb7hx.webp",
     "tags": [
-      "Didier Raoult",
-      "Ordre",
-      "Chloroquine",
       "Covid-19",
-      "Hydroxychloroquine"
+      "Santé",
+      "Éducation"
     ],
     "analyzed_at": "2026-11-01T09:58:37.472168+00:00"
   },
@@ -1672,7 +1190,7 @@
     "summary": "Des annonces provenant du groupe Amazon ont été publiées puis retirées ce mardi. Elles concernaient des postes \"d'analystes en renseignements\". L'objectif de cette fonction était de traquer \"les menaces...",
     "thumbnail": "thumbnails/il2z9v.webp",
     "tags": [
-      "Amazon"
+      "Grèves et syndicats"
     ],
     "analyzed_at": "2026-11-01T09:58:36.813413+00:00"
   },
@@ -1693,9 +1211,7 @@
     "ingested_at": "2026-11-01T09:42:25.964792+00:00",
     "summary": "",
     "thumbnail": "thumbnails/ikjbtp.webp",
-    "tags": [
-      "ENS-PSL"
-    ],
+    "tags": [],
     "analyzed_at": "2026-11-01T09:58:38.006595+00:00"
   },
   {
@@ -1716,10 +1232,7 @@
     "summary": "Plus tôt ce mois-ci, Facebook a annoncé son intention de déployer un nouvel outil qui permettrait aux influenceurs en ligne et aux entreprises d'héberger des événements en ligne payants afin de compenser la perte de revenus pendant la pandémie COVID-19.",
     "thumbnail": "thumbnails/ikis4j.webp",
     "tags": [
-      "Facebook",
-      "COVID-19",
-      "App Store",
-      "Apple"
+      "Covid-19"
     ],
     "analyzed_at": "2026-11-01T09:58:36.904773+00:00"
   },
@@ -1741,8 +1254,7 @@
     "summary": "«Nous ne nous coucherons jamais. Nous ne renoncerons jamais», justifie le directeur de l'hebdomadaire satirique, Riss, à la veille de l'ouverture du procès de l'attentat, survenu le 7 janvier 2015.",
     "thumbnail": "thumbnails/ikh0mj.webp",
     "tags": [
-      "Charlie Hebdo",
-      "Mahomet"
+      "Terrorisme"
     ],
     "analyzed_at": "2026-11-01T09:58:38.233837+00:00"
   },
@@ -1764,10 +1276,7 @@
     "summary": "Le cimentier Lafarge a été pris en flagrant délit de pollution environnementale, dans le quartier de Bercy à Paris, à deux pas du ministère de l'Économie.",
     "thumbnail": "thumbnails/ikfyev.webp",
     "tags": [
-      "Seine",
-      "Paris",
-      "Lafarge",
-      "Écologie"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T09:58:37.501095+00:00"
   },
@@ -1789,10 +1298,7 @@
     "summary": "En voulant ré-autoriser les néonicotinoïdes, dans un premier temps pour la betterave et potentiellement pour toutes les cultures, le Gouvernement met en péril la stratégie française d'éradication des pesticides les plus dangereux.",
     "thumbnail": "thumbnails/ikef81.webp",
     "tags": [
-      "UFC-Que Choisir",
-      "Gouvernement",
-      "CNTE",
-      "Écologie"
+      "Environnement"
     ],
     "analyzed_at": "2026-11-01T09:58:37.217409+00:00"
   }
