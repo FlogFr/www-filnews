@@ -30,7 +30,7 @@
   <link rel="apple-touch-icon" href="/static/img/apple-touch-icon.8212a9f52a11.png">
   <link rel="preload" href="/static/fonts/oswald-latin-700-normal.5e79fc3b5fbd.woff2" as="font" type="font/woff2" crossorigin>
   <link rel="preload" href="/static/fonts/lora-latin-400-normal.6a24bfe835a2.woff2" as="font" type="font/woff2" crossorigin>
-  <link rel="stylesheet" href="/static/css/main.f5195b6026c6.css">
+  <link rel="stylesheet" href="/static/css/main.3bf0c727cc2d.css">
   <script src="/static/js/theme.717c1f1ef66a.js"></script>
   <script type="module" src="/static/js/main.a545fbbbc6fb.js"></script>
   <script type="application/ld+json">{"@context": "https://schema.org", "@type": "NewsArticle", "headline": "Non, les pays utilisant la nivaquine (chloroquine) contre la malaria ne sont pas épargnés par le Covid-19", "datePublished": "2020-03-30T08:01:36+00:00", "dateModified": "2026-11-01T09:40:30.664734+00:00", "mainEntityOfPage": "https://filnews.fr/news/non-les-pays-utilisant-la-nivaquine-chloroquine-contre-la-malaria-ne-sont-pas-ep-frmpms/", "url": "https://filnews.fr/news/non-les-pays-utilisant-la-nivaquine-chloroquine-contre-la-malaria-ne-sont-pas-ep-frmpms/", "isBasedOn": "https://factuel.afp.com/non-les-pays-utilisant-la-nivaquine-chloroquine-contre-la-malaria-ne-sont-pas-epargnes-par-le-covid", "inLanguage": "fr-FR", "keywords": "Covid-19", "publisher": {"@type": "Organization", "name": "FilNews", "url": "https://filnews.fr/", "logo": {"@type": "ImageObject", "url": "https://filnews.fr/static/img/logo.4a25c3343e40.png"}}, "author": {"@type": "Organization", "name": "factuel.afp.com"}, "image": ["https://filnews.fr/media/thumbnails/frmpms.webp"]}</script><script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Accueil", "item": "https://filnews.fr/"}, {"@type": "ListItem", "position": 2, "name": "Archives", "item": "https://filnews.fr/archives/"}, {"@type": "ListItem", "position": 3, "name": "Non, les pays utilisant la nivaquine (chloroquine) contre la malaria ne sont pas épargnés par le Covid-19", "item": "https://filnews.fr/news/non-les-pays-utilisant-la-nivaquine-chloroquine-contre-la-malaria-ne-sont-pas-ep-frmpms/"}]}</script>
@@ -41,16 +41,18 @@
   <header class="site-header">
     <div class="container site-header__inner">
       <a class="brand" href="/" rel="home">
-        <img class="brand__mark" src="/static/img/favicon.ecb5d5be8d15.svg" width="36" height="36" alt="">
+        <svg class="brand__mark" width="40" height="36" viewBox="0 0 40 36" aria-hidden="true" focusable="false"><path d="M2 22c6-9 10-9 14-4s8 5 12-2 7-7 10-4" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"/><circle cx="9.75" cy="14.75" r="3.4" fill="currentColor"/><circle cx="22" cy="21.5" r="3.4" fill="currentColor"/><circle cx="33.4" cy="10.3" r="3.4" fill="currentColor"/></svg>
+
         <span class="brand__name">Fil<span>News</span></span>
-        <span class="brand__tagline">L&#x27;actualité vue par les Français</span>
+        <span class="brand__tagline">L&#x27;actualité vue par r/france</span>
       </a>
       
       <nav class="site-nav" aria-label="Navigation principale">
         <ul class="site-nav__list">
           <li><a href="/">Accueil</a></li>
           <li><a href="/archives/">Archives</a></li>
-          <li><a href="/tags/">Tags</a></li>
+          <li><a href="/tags/">Tous les fils</a></li>
+          <li><a href="/presidentielle-2027/">Présidentielle 2027</a></li>
           <li><a href="/a-propos/">À propos</a></li>
           <li><a class="rss-link" href="/rss.xml"><svg class="icon" width="16" height="16" viewBox="0 0 16 16" aria-hidden="true" focusable="false"><path fill="currentColor" d="M2 2a12 12 0 0 1 12 12h-2.4A9.6 9.6 0 0 0 2 4.4zm0 4.8A7.2 7.2 0 0 1 9.2 14H6.8A4.8 4.8 0 0 0 2 9.2zM3.6 11a1.5 1.5 0 1 1 0 3 1.5 1.5 0 0 1 0-3z"/></svg>
 <span>RSS</span></a></li>
@@ -61,8 +63,10 @@
     </div>
   </header>
 
-  <main id="main" class="container site-main" tabindex="-1">
+  <main id="main" class="site-main" tabindex="-1">
     
+    <div class="container site-main__inner">
+      
 <nav class="breadcrumb" aria-label="Fil d'Ariane">
   <ol>
     <li><a href="/">Accueil</a></li>
@@ -102,10 +106,12 @@
     <h2 class="section-title" id="tags-title">Dans le fil de l'actualité</h2>
     
 
-<ul class="tag-list" aria-label="Tags">
+<ul class="tag-list" aria-label="Fils">
   
   
-  <li><a class="tag" href="/tags/covid-19/" data-timeline="/tags/covid-19/timeline/">Covid-19</a></li>
+  
+  <li><a class="tag tag--theme" href="/tags/covid-19/" data-timeline="/tags/covid-19/timeline/">Covid-19</a></li>
+  
   
   
 </ul>
@@ -121,47 +127,32 @@
   <div class="card-grid">
     
 <article class="card">
-  <a class="card__media" href="/news/regionales-et-departementales-labstention-seleve-a-661-un-record-pour-une-electi-o4b485/" tabindex="-1" aria-hidden="true">
+  <a class="card__media" href="/news/covid-19-pourquoi-le-gouvernement-ne-veut-pas-rendre-le-teletravail-obligatoire-r2hhyf/" tabindex="-1" aria-hidden="true">
     
-    <img src="/media/thumbnails/o4b485.webp" width="640" height="360" alt="" loading="lazy" decoding="async">
+    <img src="/media/thumbnails/r2hhyf.webp" width="640" height="360" alt="" loading="lazy" decoding="async">
     
   </a>
   <div class="card__body">
     <p class="news-meta">
   <span class="news-meta__source">francetvinfo.fr</span>
-  <time datetime="2021-06-20T19:54:11+02:00">20 juin 2021 à 19:54</time>
+  <time datetime="2021-11-26T08:15:37+01:00">26 novembre 2021 à 08:15</time>
 </p>
 
-    <h3 class="card__title"><a href="/news/regionales-et-departementales-labstention-seleve-a-661-un-record-pour-une-electi-o4b485/">Régionales et départementales : l&#x27;abstention s&#x27;élève à 66,1%, un record pour une élection en France</a></h3>
-    <p class="card__summary">L&#x27;abstention est en hausse de 16 points par rapport au premier tour des élections régionales de 2015.</p>
+    <h3 class="card__title"><a href="/news/covid-19-pourquoi-le-gouvernement-ne-veut-pas-rendre-le-teletravail-obligatoire-r2hhyf/">Covid- 19 : pourquoi le gouvernement ne veut pas rendre le télétravail obligatoire</a></h3>
+    <p class="card__summary">Alors que la 5e vague du Covid s’intensifie, des pays reviennent au télétravail obligatoire. En Belgique, par exemple, c’est quatre jours obligatoires par semaine. Mais en France,…</p>
     <p class="news-stats">
-  <span><span class="visually-hidden">Score Reddit : </span><span aria-hidden="true">▲</span> 199 votes</span>
-  <span>368 commentaires</span>
+  <span><span class="visually-hidden">Score Reddit : </span><span aria-hidden="true">▲</span> 205 votes</span>
+  <span>169 commentaires</span>
 </p>
 
     
 
-<ul class="tag-list" aria-label="Tags">
-  
-  
-  <li><a class="tag" href="/tags/covid-19/" data-timeline="/tags/covid-19/timeline/">Covid-19</a></li>
+<ul class="tag-list" aria-label="Fils">
   
   
   
-  <li><a class="tag" href="/tags/france-televisions/" data-timeline="/tags/france-televisions/timeline/">France Télévisions</a></li>
+  <li><a class="tag tag--theme" href="/tags/covid-19/" data-timeline="/tags/covid-19/timeline/">Covid-19</a></li>
   
-  
-  
-  
-  <li><span class="tag tag--plain">Elections régionales 2021</span></li>
-  
-  
-  
-  <li><a class="tag" href="/tags/elections-en-france/" data-timeline="/tags/elections-en-france/timeline/">Elections en France</a></li>
-  
-  
-  
-  <li><a class="tag" href="/tags/politique/" data-timeline="/tags/politique/timeline/">Politique</a></li>
   
   
 </ul>
@@ -171,38 +162,39 @@
 </article>
 
 <article class="card">
-  <a class="card__media" href="/news/leve-du-port-du-masque-en-exterieur-jeudi-et-du-couvre-feu-dimanche-o12m6o/" tabindex="-1" aria-hidden="true">
+  <a class="card__media" href="/news/en-direct-le-rappel-vaccinal-anti-covid-ouvert-aux-plus-de-18-ans-en-france-des-r1v9zv/" tabindex="-1" aria-hidden="true">
     
-    <img src="/media/thumbnails/o12m6o.webp" width="640" height="360" alt="" loading="lazy" decoding="async">
+    <img src="/media/thumbnails/r1v9zv.webp" width="640" height="360" alt="" loading="lazy" decoding="async">
     
   </a>
   <div class="card__body">
     <p class="news-meta">
-  <span class="news-meta__source">20minutes.fr</span>
-  <time datetime="2021-06-16T13:25:47+02:00">16 juin 2021 à 13:25</time>
+  <span class="news-meta__source">france24.com</span>
+  <time datetime="2021-11-25T13:13:40+01:00">25 novembre 2021 à 13:13</time>
 </p>
 
-    <h3 class="card__title"><a href="/news/leve-du-port-du-masque-en-exterieur-jeudi-et-du-couvre-feu-dimanche-o12m6o/">Levé du port du masque en extérieur jeudi et du couvre-feu dimanche</a></h3>
-    <p class="card__summary">Le Premier ministre a annoncé un assouplissement des mesures sanitaires à la sortie du Conseil des ministres</p>
+    <h3 class="card__title"><a href="/news/en-direct-le-rappel-vaccinal-anti-covid-ouvert-aux-plus-de-18-ans-en-france-des-r1v9zv/">En direct : le rappel vaccinal anti-Covid ouvert aux plus de 18 ans en France dès 5 mois après la 2e dose</a></h3>
+    <p class="card__summary">Le ministre de la Santé, Olivier Véran, a annoncé jeudi midi que le rappel vaccinal anti-Covid serait ouvert dès samedi à tous les adultes de plus de 18 ans en France dès cinq moi…</p>
     <p class="news-stats">
-  <span><span class="visually-hidden">Score Reddit : </span><span aria-hidden="true">▲</span> 302 votes</span>
-  <span>198 commentaires</span>
+  <span><span class="visually-hidden">Score Reddit : </span><span aria-hidden="true">▲</span> 272 votes</span>
+  <span>497 commentaires</span>
 </p>
 
     
 
-<ul class="tag-list" aria-label="Tags">
-  
-  
-  <li><a class="tag" href="/tags/premier/" data-timeline="/tags/premier/timeline/">Premier</a></li>
+<ul class="tag-list" aria-label="Fils">
   
   
   
-  <li><a class="tag" href="/tags/conseil/" data-timeline="/tags/conseil/timeline/">Conseil</a></li>
+  <li><a class="tag tag--theme" href="/tags/covid-19/" data-timeline="/tags/covid-19/timeline/">Covid-19</a></li>
   
   
   
-  <li><a class="tag" href="/tags/covid-19/" data-timeline="/tags/covid-19/timeline/">Covid-19</a></li>
+  
+  
+  <li><a class="tag tag--personnalite" href="/tags/olivier-veran/" data-timeline="/tags/olivier-veran/timeline/"><svg class="icon" width="12" height="12" viewBox="0 0 16 16" aria-hidden="true" focusable="false"><path fill="currentColor" d="M8 8a3.5 3.5 0 1 0 0-7 3.5 3.5 0 0 0 0 7zm0 1.5c-3.3 0-6 1.8-6 4V15h12v-1.5c0-2.2-2.7-4-6-4z"/></svg>
+Olivier Véran</a></li>
+  
   
   
 </ul>
@@ -212,47 +204,32 @@
 </article>
 
 <article class="card">
-  <a class="card__media" href="/news/face-au-variant-delta-deux-doses-de-pfizer-ou-dastrazeneca-sont-efficaces-a-plus-o103pr/" tabindex="-1" aria-hidden="true">
+  <a class="card__media" href="/news/direct-lautriche-annonce-le-confinement-general-de-sa-population-des-lundi-et-la-qxcuge/" tabindex="-1" aria-hidden="true">
     
-    <img src="/media/thumbnails/o103pr.webp" width="640" height="360" alt="" loading="lazy" decoding="async">
+    <img src="/media/thumbnails/qxcuge.webp" width="640" height="360" alt="" loading="lazy" decoding="async">
     
   </a>
   <div class="card__body">
     <p class="news-meta">
-  <span class="news-meta__source">20minutes.fr</span>
-  <time datetime="2021-06-16T10:33:59+02:00">16 juin 2021 à 10:33</time>
+  <span class="news-meta__source">francetvinfo.fr</span>
+  <time datetime="2021-11-19T10:45:33+01:00">19 novembre 2021 à 10:45</time>
 </p>
 
-    <h3 class="card__title"><a href="/news/face-au-variant-delta-deux-doses-de-pfizer-ou-dastrazeneca-sont-efficaces-a-plus-o103pr/">Face au variant Delta, deux doses de Pfizer ou d’AstraZeneca sont efficaces à plus de 90 % contre l’hospitalisation</a></h3>
-    <p class="card__summary">Selon une étude britannique, ces doubles doses de sérums protègent à plus de 90% contre les hospitalisations après avoir contracté le variant Delta du Covid-19</p>
+    <h3 class="card__title"><a href="/news/direct-lautriche-annonce-le-confinement-general-de-sa-population-des-lundi-et-la-qxcuge/">DIRECT : l&#x27;Autriche annonce le confinement général de sa population dès lundi et la vaccination obligatoire à partir du 1er février</a></h3>
+    <p class="card__summary">Le médicament n&#x27;a pas encore reçu d&#x27;autorisation complète de mise sur le marché.</p>
     <p class="news-stats">
-  <span><span class="visually-hidden">Score Reddit : </span><span aria-hidden="true">▲</span> 317 votes</span>
-  <span>147 commentaires</span>
+  <span><span class="visually-hidden">Score Reddit : </span><span aria-hidden="true">▲</span> 382 votes</span>
+  <span>291 commentaires</span>
 </p>
 
     
 
-<ul class="tag-list" aria-label="Tags">
-  
-  
-  <li><a class="tag" href="/tags/delta/" data-timeline="/tags/delta/timeline/">Delta</a></li>
+<ul class="tag-list" aria-label="Fils">
   
   
   
-  <li><a class="tag" href="/tags/pfizer/" data-timeline="/tags/pfizer/timeline/">Pfizer</a></li>
+  <li><a class="tag tag--theme" href="/tags/covid-19/" data-timeline="/tags/covid-19/timeline/">Covid-19</a></li>
   
-  
-  
-  <li><a class="tag" href="/tags/astrazeneca/" data-timeline="/tags/astrazeneca/timeline/">AstraZeneca</a></li>
-  
-  
-  
-  
-  <li><span class="tag tag--plain">Delta du Covid-19</span></li>
-  
-  
-  
-  <li><a class="tag" href="/tags/covid-19/" data-timeline="/tags/covid-19/timeline/">Covid-19</a></li>
   
   
 </ul>
@@ -262,47 +239,38 @@
 </article>
 
 <article class="card">
-  <a class="card__media" href="/news/a-lihu-de-didier-raoult-un-cluster-covid-19-beaucoup-de-questions-et-des-tension-nu4t9a/" tabindex="-1" aria-hidden="true">
+  <a class="card__media" href="/news/lassemblee-adopte-de-justesse-le-pass-sanitaire-jusqua-lete-2022-qck363/" tabindex="-1" aria-hidden="true">
     
-    <img src="/media/thumbnails/nu4t9a.webp" width="640" height="360" alt="" loading="lazy" decoding="async">
+    <img src="/media/thumbnails/qck363.webp" width="640" height="360" alt="" loading="lazy" decoding="async">
     
   </a>
   <div class="card__body">
     <p class="news-meta">
-  <span class="news-meta__source">lexpress.fr</span>
-  <time datetime="2021-06-07T07:25:51+02:00">7 juin 2021 à 07:25</time>
+  <span class="news-meta__source">huffingtonpost.fr</span>
+  <time datetime="2021-10-21T07:02:53+02:00">21 octobre 2021 à 07:02</time>
 </p>
 
-    <h3 class="card__title"><a href="/news/a-lihu-de-didier-raoult-un-cluster-covid-19-beaucoup-de-questions-et-des-tension-nu4t9a/">A l&#x27;IHU de Didier Raoult, un cluster Covid-19, beaucoup de questions... et des tensions</a></h3>
-    <p class="card__summary">Sept personnes ont été contaminées au sein de l&#x27;Institut marseillais. Une a été placée en réanimation. Pourtant, les réunions sans masques ont été maintenues...</p>
+    <h3 class="card__title"><a href="/news/lassemblee-adopte-de-justesse-le-pass-sanitaire-jusqua-lete-2022-qck363/">L&#x27;Assemblée adopte de justesse le pass sanitaire jusqu&#x27;à l&#x27;été 2022</a></h3>
+    <p class="card__summary">Le projet de loi a été adopté avec seulement 10 voix d’écart. Le texte sera examiné au Sénat dès le 28 octobre.</p>
     <p class="news-stats">
-  <span><span class="visually-hidden">Score Reddit : </span><span aria-hidden="true">▲</span> 150 votes</span>
-  <span>73 commentaires</span>
+  <span><span class="visually-hidden">Score Reddit : </span><span aria-hidden="true">▲</span> 191 votes</span>
+  <span>311 commentaires</span>
 </p>
 
     
 
-<ul class="tag-list" aria-label="Tags">
-  
-  
-  <li><a class="tag" href="/tags/covid-19/" data-timeline="/tags/covid-19/timeline/">Covid-19</a></li>
+<ul class="tag-list" aria-label="Fils">
   
   
   
-  
-  <li><span class="tag tag--plain">IHU de Didier Raoult</span></li>
-  
-  
-  
-  <li><a class="tag" href="/tags/institut/" data-timeline="/tags/institut/timeline/">Institut</a></li>
+  <li><a class="tag tag--theme" href="/tags/covid-19/" data-timeline="/tags/covid-19/timeline/">Covid-19</a></li>
   
   
   
-  <li><a class="tag" href="/tags/sante/" data-timeline="/tags/sante/timeline/">Santé</a></li>
   
   
+  <li><a class="tag tag--theme" href="/tags/institutions/" data-timeline="/tags/institutions/timeline/">Institutions</a></li>
   
-  <li><a class="tag" href="/tags/sciences/" data-timeline="/tags/sciences/timeline/">Sciences</a></li>
   
   
 </ul>
@@ -312,48 +280,44 @@
 </article>
 
 <article class="card">
-  <a class="card__media" href="/news/bordeaux-des-antivax-ont-multiplie-les-fausses-inscriptions-sur-les-creneaux-de-nrbu3j/" tabindex="-1" aria-hidden="true">
+  <a class="card__media" href="/news/pass-sanitaire-un-depute-lrem-veut-permettre-a-tous-les-employeurs-de-limposer-a-qbuqfs/" tabindex="-1" aria-hidden="true">
     
-    <img src="/media/thumbnails/nrbu3j.webp" width="640" height="360" alt="" loading="lazy" decoding="async">
+    <img src="/media/thumbnails/qbuqfs.webp" width="640" height="360" alt="" loading="lazy" decoding="async">
     
   </a>
   <div class="card__body">
     <p class="news-meta">
-  <span class="news-meta__source">sudouest.fr</span>
-  <time datetime="2021-06-03T14:04:31+02:00">3 juin 2021 à 14:04</time>
+  <span class="news-meta__source">capital.fr</span>
+  <time datetime="2021-10-20T08:42:18+02:00">20 octobre 2021 à 08:42</time>
 </p>
 
-    <h3 class="card__title"><a href="/news/bordeaux-des-antivax-ont-multiplie-les-fausses-inscriptions-sur-les-creneaux-de-nrbu3j/">Bordeaux : des antivax ont multiplié les fausses inscriptions sur les créneaux de vaccination</a></h3>
-    <p class="card__summary">Le vaccinodrome de Bordeaux a comptabilisé une soixantaine de rendez-vous non honorés, avec à l’origine de fausses inscriptions sur Doctolib. « C’est une tentative de piratage », …</p>
+    <h3 class="card__title"><a href="/news/pass-sanitaire-un-depute-lrem-veut-permettre-a-tous-les-employeurs-de-limposer-a-qbuqfs/">Pass sanitaire : un député LREM veut permettre à tous les employeurs de l’imposer à leurs salariés</a></h3>
+    <p class="card__summary">Des amendements au projet de loi de vigilance sanitaire, portés par le député LREM Thierry Michels, visent à donner la possibilité aux employeurs qui le souhaitent de mettre en pl…</p>
     <p class="news-stats">
-  <span><span class="visually-hidden">Score Reddit : </span><span aria-hidden="true">▲</span> 290 votes</span>
-  <span>127 commentaires</span>
+  <span><span class="visually-hidden">Score Reddit : </span><span aria-hidden="true">▲</span> 248 votes</span>
+  <span>319 commentaires</span>
 </p>
 
     
 
-<ul class="tag-list" aria-label="Tags">
-  
-  
-  <li><a class="tag" href="/tags/bordeaux/" data-timeline="/tags/bordeaux/timeline/">Bordeaux</a></li>
+<ul class="tag-list" aria-label="Fils">
   
   
   
-  <li><a class="tag" href="/tags/doctolib/" data-timeline="/tags/doctolib/timeline/">Doctolib</a></li>
+  <li><a class="tag tag--theme" href="/tags/covid-19/" data-timeline="/tags/covid-19/timeline/">Covid-19</a></li>
   
   
   
   
-  <li><span class="tag tag--plain">Patrick Ragot</span></li>
+  
+  <li><a class="tag tag--theme" href="/tags/institutions/" data-timeline="/tags/institutions/timeline/">Institutions</a></li>
   
   
   
   
-  <li><span class="tag tag--plain">Vaccin contre le coronavirus</span></li>
   
+  <li><a class="tag tag--theme" href="/tags/travail/" data-timeline="/tags/travail/timeline/">Travail</a></li>
   
-  
-  <li><a class="tag" href="/tags/covid-19/" data-timeline="/tags/covid-19/timeline/">Covid-19</a></li>
   
   
 </ul>
@@ -366,13 +330,16 @@
 </section>
 
 
+    </div>
   </main>
 
   <footer class="site-footer">
     <div class="container site-footer__inner">
-      <p>© 2026 FilNews — l'actualité remise dans son contexte, fil par fil.</p>
+      <p>© 2026 FilNews — l'actualité vue par r/france, fil par fil. Les articles appartiennent à leurs éditeurs.</p>
       <ul class="site-footer__links">
         <li><a href="/a-propos/">À propos</a></li>
+        <li><a href="/mentions-legales/">Mentions légales</a></li>
+        <li><a href="https://github.com/FlogFr/www-filnews" rel="noopener">Code source</a></li>
         <li><a href="/rss.xml">Flux RSS</a></li>
         <li><a href="/sitemap.xml">Plan du site</a></li>
       </ul>

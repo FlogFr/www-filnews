@@ -30,7 +30,7 @@
   <link rel="apple-touch-icon" href="/static/img/apple-touch-icon.8212a9f52a11.png">
   <link rel="preload" href="/static/fonts/oswald-latin-700-normal.5e79fc3b5fbd.woff2" as="font" type="font/woff2" crossorigin>
   <link rel="preload" href="/static/fonts/lora-latin-400-normal.6a24bfe835a2.woff2" as="font" type="font/woff2" crossorigin>
-  <link rel="stylesheet" href="/static/css/main.f5195b6026c6.css">
+  <link rel="stylesheet" href="/static/css/main.3bf0c727cc2d.css">
   <script src="/static/js/theme.717c1f1ef66a.js"></script>
   <script type="module" src="/static/js/main.a545fbbbc6fb.js"></script>
   <script type="application/ld+json">{"@context": "https://schema.org", "@type": "NewsArticle", "headline": "Etats-Unis : Trump impose la suppression des pronoms dans les e-mails des employés fédéraux", "datePublished": "2025-02-01T12:27:06+00:00", "dateModified": "2026-11-01T11:13:43.027989+00:00", "mainEntityOfPage": "https://filnews.fr/news/etats-unis-trump-impose-la-suppression-des-pronoms-dans-les-e-mails-des-employes-1if59e7/", "url": "https://filnews.fr/news/etats-unis-trump-impose-la-suppression-des-pronoms-dans-les-e-mails-des-employes-1if59e7/", "isBasedOn": "https://www.20minutes.fr/monde/etats-unis/4136634-20250201-etats-unis-trump-impose-suppression-pronoms-e-mails-employes-federaux", "inLanguage": "fr-FR", "keywords": "Donald Trump", "publisher": {"@type": "Organization", "name": "FilNews", "url": "https://filnews.fr/", "logo": {"@type": "ImageObject", "url": "https://filnews.fr/static/img/logo.4a25c3343e40.png"}}, "author": {"@type": "Organization", "name": "20minutes.fr"}, "description": "Plusieurs agences fédérales doivent supprimer les pronoms des signatures d’e-mails, en application de décrets signés par Donald Trump, limitant les programmes de diversité", "image": ["https://filnews.fr/media/thumbnails/1if59e7.webp"]}</script><script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Accueil", "item": "https://filnews.fr/"}, {"@type": "ListItem", "position": 2, "name": "Archives", "item": "https://filnews.fr/archives/"}, {"@type": "ListItem", "position": 3, "name": "Etats-Unis : Trump impose la suppression des pronoms dans les e-mails des employés fédéraux", "item": "https://filnews.fr/news/etats-unis-trump-impose-la-suppression-des-pronoms-dans-les-e-mails-des-employes-1if59e7/"}]}</script>
@@ -41,16 +41,18 @@
   <header class="site-header">
     <div class="container site-header__inner">
       <a class="brand" href="/" rel="home">
-        <img class="brand__mark" src="/static/img/favicon.ecb5d5be8d15.svg" width="36" height="36" alt="">
+        <svg class="brand__mark" width="40" height="36" viewBox="0 0 40 36" aria-hidden="true" focusable="false"><path d="M2 22c6-9 10-9 14-4s8 5 12-2 7-7 10-4" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"/><circle cx="9.75" cy="14.75" r="3.4" fill="currentColor"/><circle cx="22" cy="21.5" r="3.4" fill="currentColor"/><circle cx="33.4" cy="10.3" r="3.4" fill="currentColor"/></svg>
+
         <span class="brand__name">Fil<span>News</span></span>
-        <span class="brand__tagline">L&#x27;actualité vue par les Français</span>
+        <span class="brand__tagline">L&#x27;actualité vue par r/france</span>
       </a>
       
       <nav class="site-nav" aria-label="Navigation principale">
         <ul class="site-nav__list">
           <li><a href="/">Accueil</a></li>
           <li><a href="/archives/">Archives</a></li>
-          <li><a href="/tags/">Tags</a></li>
+          <li><a href="/tags/">Tous les fils</a></li>
+          <li><a href="/presidentielle-2027/">Présidentielle 2027</a></li>
           <li><a href="/a-propos/">À propos</a></li>
           <li><a class="rss-link" href="/rss.xml"><svg class="icon" width="16" height="16" viewBox="0 0 16 16" aria-hidden="true" focusable="false"><path fill="currentColor" d="M2 2a12 12 0 0 1 12 12h-2.4A9.6 9.6 0 0 0 2 4.4zm0 4.8A7.2 7.2 0 0 1 9.2 14H6.8A4.8 4.8 0 0 0 2 9.2zM3.6 11a1.5 1.5 0 1 1 0 3 1.5 1.5 0 0 1 0-3z"/></svg>
 <span>RSS</span></a></li>
@@ -61,8 +63,10 @@
     </div>
   </header>
 
-  <main id="main" class="container site-main" tabindex="-1">
+  <main id="main" class="site-main" tabindex="-1">
     
+    <div class="container site-main__inner">
+      
 <nav class="breadcrumb" aria-label="Fil d'Ariane">
   <ol>
     <li><a href="/">Accueil</a></li>
@@ -107,10 +111,13 @@
     <h2 class="section-title" id="tags-title">Dans le fil de l'actualité</h2>
     
 
-<ul class="tag-list" aria-label="Tags">
+<ul class="tag-list" aria-label="Fils">
   
   
-  <li><a class="tag" href="/tags/donald-trump/" data-timeline="/tags/donald-trump/timeline/">Donald Trump</a></li>
+  
+  <li><a class="tag tag--personnalite" href="/tags/donald-trump/" data-timeline="/tags/donald-trump/timeline/"><svg class="icon" width="12" height="12" viewBox="0 0 16 16" aria-hidden="true" focusable="false"><path fill="currentColor" d="M8 8a3.5 3.5 0 1 0 0-7 3.5 3.5 0 0 0 0 7zm0 1.5c-3.3 0-6 1.8-6 4V15h12v-1.5c0-2.2-2.7-4-6-4z"/></svg>
+Donald Trump</a></li>
+  
   
   
 </ul>
@@ -126,223 +133,189 @@
   <div class="card-grid">
     
 <article class="card">
-  <a class="card__media" href="/news/en-pleine-visite-dune-usine-donald-trump-fait-un-doigt-dhonneur-a-un-employe-lay-1qcz42n/" tabindex="-1" aria-hidden="true">
+  <a class="card__media" href="/news/apres-lassassinat-de-charlie-kirk-ladministration-trump-annonce-une-repression-s-1nibsta/" tabindex="-1" aria-hidden="true">
     
-    <img src="/media/thumbnails/1qcz42n.webp" width="640" height="360" alt="" loading="lazy" decoding="async">
-    
-  </a>
-  <div class="card__body">
-    <p class="news-meta">
-  <span class="news-meta__source">franceinfo.fr</span>
-  <time datetime="2026-01-14T21:54:19+01:00">14 janvier 2026 à 21:54</time>
-</p>
-
-    <h3 class="card__title"><a href="/news/en-pleine-visite-dune-usine-donald-trump-fait-un-doigt-dhonneur-a-un-employe-lay-1qcz42n/">En pleine visite d&#x27;une usine, Donald Trump fait un doigt d&#x27;honneur à un employé l&#x27;ayant traité de &quot;protecteur de pédophile&quot;</a></h3>
-    <p class="card__summary">Le président américain est accusé de dissimuler ses véritables liens avec Jeffrey Epstein, financier mort en 2019 et au cœur d&#x27;un vaste scandale de viols et d&#x27;agressions sexuelles…</p>
-    <p class="news-stats">
-  <span><span class="visually-hidden">Score Reddit : </span><span aria-hidden="true">▲</span> 333 votes</span>
-  <span>38 commentaires</span>
-</p>
-
-    
-
-<ul class="tag-list" aria-label="Tags">
-  
-  
-  <li><a class="tag" href="/tags/donald-trump/" data-timeline="/tags/donald-trump/timeline/">Donald Trump</a></li>
-  
-  
-  
-  <li><a class="tag" href="/tags/jeffrey-epstein/" data-timeline="/tags/jeffrey-epstein/timeline/">Jeffrey Epstein</a></li>
-  
-  
-  
-  <li><a class="tag" href="/tags/maison-blanche/" data-timeline="/tags/maison-blanche/timeline/">Maison Blanche</a></li>
-  
-  
-  
-  <li><a class="tag" href="/tags/ford/" data-timeline="/tags/ford/timeline/">Ford</a></li>
-  
-  
-  
-  <li><a class="tag" href="/tags/monde/" data-timeline="/tags/monde/timeline/">Monde</a></li>
-  
-  
-</ul>
-
-
-  </div>
-</article>
-
-<article class="card">
-  <a class="card__media" href="/news/donald-trump-annonce-une-rencontre-avec-maria-corina-machado-et-se-dit-honore-pa-1q83m65/" tabindex="-1" aria-hidden="true">
-    
-    <img src="/media/thumbnails/1q83m65.webp" width="640" height="360" alt="" loading="lazy" decoding="async">
-    
-  </a>
-  <div class="card__body">
-    <p class="news-meta">
-  <span class="news-meta__source">lefigaro.fr</span>
-  <time datetime="2026-01-09T10:12:53+01:00">9 janvier 2026 à 10:12</time>
-</p>
-
-    <h3 class="card__title"><a href="/news/donald-trump-annonce-une-rencontre-avec-maria-corina-machado-et-se-dit-honore-pa-1q83m65/">Donald Trump annonce une rencontre avec María Corina Machado et se dit honoré par l’idée de recevoir son Nobel</a></h3>
-    <p class="card__summary">Le président américain a annoncé que l’opposante vénézuélienne serait à Washington la semaine prochaine. Se disant «impatient» de la rencontrer, Donald Trump a ajouté que ce serai…</p>
-    <p class="news-stats">
-  <span><span class="visually-hidden">Score Reddit : </span><span aria-hidden="true">▲</span> 297 votes</span>
-  <span>128 commentaires</span>
-</p>
-
-    
-
-<ul class="tag-list" aria-label="Tags">
-  
-  
-  <li><a class="tag" href="/tags/donald-trump/" data-timeline="/tags/donald-trump/timeline/">Donald Trump</a></li>
-  
-  
-  
-  <li><a class="tag" href="/tags/nobel/" data-timeline="/tags/nobel/timeline/">Nobel</a></li>
-  
-  
-  
-  <li><a class="tag" href="/tags/venezuela/" data-timeline="/tags/venezuela/timeline/">Venezuela</a></li>
-  
-  
-  
-  <li><a class="tag" href="/tags/maria-corina-machado/" data-timeline="/tags/maria-corina-machado/timeline/">María Corina Machado</a></li>
-  
-  
-  
-  <li><a class="tag" href="/tags/monde/" data-timeline="/tags/monde/timeline/">Monde</a></li>
-  
-  
-</ul>
-
-
-  </div>
-</article>
-
-<article class="card">
-  <a class="card__media" href="/news/je-nai-pas-besoin-du-droit-international-trump-assure-que-sa-moralite-est-son-un-1q83krr/" tabindex="-1" aria-hidden="true">
-    
-    <img src="/media/thumbnails/1q83krr.webp" width="640" height="360" alt="" loading="lazy" decoding="async">
-    
-  </a>
-  <div class="card__body">
-    <p class="news-meta">
-  <span class="news-meta__source">lefigaro.fr</span>
-  <time datetime="2026-01-09T10:10:25+01:00">9 janvier 2026 à 10:10</time>
-</p>
-
-    <h3 class="card__title"><a href="/news/je-nai-pas-besoin-du-droit-international-trump-assure-que-sa-moralite-est-son-un-1q83krr/">«Je n’ai pas besoin du droit international» : Trump assure que sa «moralité» est son unique limite pour agir dans le monde</a></h3>
-    <p class="card__summary">Le président américain a conversé pendant deux heures avec quatre journalistes du quotidien national américain dans le bureau ovale.</p>
-    <p class="news-stats">
-  <span><span class="visually-hidden">Score Reddit : </span><span aria-hidden="true">▲</span> 546 votes</span>
-  <span>201 commentaires</span>
-</p>
-
-    
-
-<ul class="tag-list" aria-label="Tags">
-  
-  
-  <li><a class="tag" href="/tags/donald-trump/" data-timeline="/tags/donald-trump/timeline/">Donald Trump</a></li>
-  
-  
-  
-  <li><a class="tag" href="/tags/etats-unis/" data-timeline="/tags/etats-unis/timeline/">États-Unis</a></li>
-  
-  
-  
-  <li><a class="tag" href="/tags/monde/" data-timeline="/tags/monde/timeline/">Monde</a></li>
-  
-  
-</ul>
-
-
-  </div>
-</article>
-
-<article class="card">
-  <a class="card__media" href="/news/frappe-par-les-reductions-deffectifs-voulus-par-donald-trump-le-service-americai-1q7gflj/" tabindex="-1" aria-hidden="true">
-    
-    <img src="/media/thumbnails/1q7gflj.webp" width="640" height="360" alt="" loading="lazy" decoding="async">
-    
-  </a>
-  <div class="card__body">
-    <p class="news-meta">
-  <span class="news-meta__source">bfmtv.com</span>
-  <time datetime="2026-01-08T17:32:40+01:00">8 janvier 2026 à 17:32</time>
-</p>
-
-    <h3 class="card__title"><a href="/news/frappe-par-les-reductions-deffectifs-voulus-par-donald-trump-le-service-americai-1q7gflj/">Frappé par les réductions d’effectifs voulus par Donald Trump, le service américain de la météo recourt à l’IA pour générer des cartes de prévision, où s’affichent des villes imaginaires</a></h3>
-    <p class="card__summary">Le Service météorologique national américain expérimente l’intelligence artificielle pour produire certaines cartes de prévisions. Mais plusieurs visuels diffusés récemment conten…</p>
-    <p class="news-stats">
-  <span><span class="visually-hidden">Score Reddit : </span><span aria-hidden="true">▲</span> 442 votes</span>
-  <span>45 commentaires</span>
-</p>
-
-    
-
-<ul class="tag-list" aria-label="Tags">
-  
-  
-  <li><a class="tag" href="/tags/ia/" data-timeline="/tags/ia/timeline/">IA</a></li>
-  
-  
-  
-  <li><a class="tag" href="/tags/donald-trump/" data-timeline="/tags/donald-trump/timeline/">Donald Trump</a></li>
-  
-  
-  
-  
-  <li><span class="tag tag--plain">NWS</span></li>
-  
-  
-  
-  <li><a class="tag" href="/tags/monde/" data-timeline="/tags/monde/timeline/">Monde</a></li>
-  
-  
-</ul>
-
-
-  </div>
-</article>
-
-<article class="card">
-  <a class="card__media" href="/news/donald-trump-ordonne-le-retrait-des-etats-unis-de-soixante-six-organisations-int-1q7bi5g/" tabindex="-1" aria-hidden="true">
-    
-    <img src="/media/thumbnails/1q7bi5g.webp" width="640" height="360" alt="" loading="lazy" decoding="async">
+    <img src="/media/thumbnails/1nibsta.webp" width="640" height="360" alt="" loading="lazy" decoding="async">
     
   </a>
   <div class="card__body">
     <p class="news-meta">
   <span class="news-meta__source">lemonde.fr</span>
-  <time datetime="2026-01-08T14:15:48+01:00">8 janvier 2026 à 14:15</time>
+  <time datetime="2025-09-16T10:27:16+02:00">16 septembre 2025 à 10:27</time>
 </p>
 
-    <h3 class="card__title"><a href="/news/donald-trump-ordonne-le-retrait-des-etats-unis-de-soixante-six-organisations-int-1q7bi5g/">Donald Trump ordonne le retrait des Etats-Unis de soixante-six organisations internationales</a></h3>
+    <h3 class="card__title"><a href="/news/apres-lassassinat-de-charlie-kirk-ladministration-trump-annonce-une-repression-s-1nibsta/">Après l’assassinat de Charlie Kirk, l’administration Trump annonce une répression sans précédent contre la « gauche radicale »</a></h3>
     
     <p class="news-stats">
-  <span><span class="visually-hidden">Score Reddit : </span><span aria-hidden="true">▲</span> 466 votes</span>
-  <span>117 commentaires</span>
+  <span><span class="visually-hidden">Score Reddit : </span><span aria-hidden="true">▲</span> 714 votes</span>
+  <span>361 commentaires</span>
 </p>
 
     
 
-<ul class="tag-list" aria-label="Tags">
-  
-  
-  <li><a class="tag" href="/tags/donald-trump/" data-timeline="/tags/donald-trump/timeline/">Donald Trump</a></li>
+<ul class="tag-list" aria-label="Fils">
   
   
   
-  <li><a class="tag" href="/tags/etats-unis/" data-timeline="/tags/etats-unis/timeline/">Etats-Unis</a></li>
+  <li><a class="tag tag--personnalite" href="/tags/donald-trump/" data-timeline="/tags/donald-trump/timeline/"><svg class="icon" width="12" height="12" viewBox="0 0 16 16" aria-hidden="true" focusable="false"><path fill="currentColor" d="M8 8a3.5 3.5 0 1 0 0-7 3.5 3.5 0 0 0 0 7zm0 1.5c-3.3 0-6 1.8-6 4V15h12v-1.5c0-2.2-2.7-4-6-4z"/></svg>
+Donald Trump</a></li>
   
   
   
-  <li><a class="tag" href="/tags/monde/" data-timeline="/tags/monde/timeline/">Monde</a></li>
+</ul>
+
+
+  </div>
+</article>
+
+<article class="card">
+  <a class="card__media" href="/news/trump-ally-charlie-kirk-shot-source-says-1ndn2wp/" tabindex="-1" aria-hidden="true">
+    
+    <img src="/media/thumbnails/1ndn2wp.webp" width="640" height="360" alt="" loading="lazy" decoding="async">
+    
+  </a>
+  <div class="card__body">
+    <p class="news-meta">
+  <span class="news-meta__source">edition.cnn.com</span>
+  <time datetime="2025-09-10T20:58:47+02:00">10 septembre 2025 à 20:58</time>
+</p>
+
+    <h3 class="card__title"><a href="/news/trump-ally-charlie-kirk-shot-source-says-1ndn2wp/">Trump ally Charlie Kirk shot, source says</a></h3>
+    
+    <p class="news-stats">
+  <span><span class="visually-hidden">Score Reddit : </span><span aria-hidden="true">▲</span> 496 votes</span>
+  <span>609 commentaires</span>
+</p>
+
+    
+
+<ul class="tag-list" aria-label="Fils">
+  
+  
+  
+  <li><a class="tag tag--personnalite" href="/tags/donald-trump/" data-timeline="/tags/donald-trump/timeline/"><svg class="icon" width="12" height="12" viewBox="0 0 16 16" aria-hidden="true" focusable="false"><path fill="currentColor" d="M8 8a3.5 3.5 0 1 0 0-7 3.5 3.5 0 0 0 0 7zm0 1.5c-3.3 0-6 1.8-6 4V15h12v-1.5c0-2.2-2.7-4-6-4z"/></svg>
+Donald Trump</a></li>
+  
+  
+  
+</ul>
+
+
+  </div>
+</article>
+
+<article class="card">
+  <a class="card__media" href="/news/donald-trump-condamne-en-appel-a-verser-83-millions-de-dollars-a-lautrice-elizab-1nbuq0t/" tabindex="-1" aria-hidden="true">
+    
+    <img src="/media/thumbnails/1nbuq0t.webp" width="640" height="360" alt="" loading="lazy" decoding="async">
+    
+  </a>
+  <div class="card__body">
+    <p class="news-meta">
+  <span class="news-meta__source">lemonde.fr</span>
+  <time datetime="2025-09-08T19:52:18+02:00">8 septembre 2025 à 19:52</time>
+</p>
+
+    <h3 class="card__title"><a href="/news/donald-trump-condamne-en-appel-a-verser-83-millions-de-dollars-a-lautrice-elizab-1nbuq0t/">Donald Trump condamné en appel à verser 83 millions de dollars à l’autrice Elizabeth Jean Carroll pour diffamation</a></h3>
+    
+    <p class="news-stats">
+  <span><span class="visually-hidden">Score Reddit : </span><span aria-hidden="true">▲</span> 251 votes</span>
+  <span>12 commentaires</span>
+</p>
+
+    
+
+<ul class="tag-list" aria-label="Fils">
+  
+  
+  
+  <li><a class="tag tag--personnalite" href="/tags/donald-trump/" data-timeline="/tags/donald-trump/timeline/"><svg class="icon" width="12" height="12" viewBox="0 0 16 16" aria-hidden="true" focusable="false"><path fill="currentColor" d="M8 8a3.5 3.5 0 1 0 0-7 3.5 3.5 0 0 0 0 7zm0 1.5c-3.3 0-6 1.8-6 4V15h12v-1.5c0-2.2-2.7-4-6-4z"/></svg>
+Donald Trump</a></li>
+  
+  
+  
+  
+  
+  <li><a class="tag tag--theme" href="/tags/justice/" data-timeline="/tags/justice/timeline/">Justice</a></li>
+  
+  
+  
+</ul>
+
+
+  </div>
+</article>
+
+<article class="card">
+  <a class="card__media" href="/news/zuckerberg-piege-par-un-micro-ouvert-apres-avoir-propose-dinvestir-au-moins-600-1narpa0/" tabindex="-1" aria-hidden="true">
+    
+    <img src="/media/thumbnails/1narpa0.webp" width="640" height="360" alt="" loading="lazy" decoding="async">
+    
+  </a>
+  <div class="card__body">
+    <p class="news-meta">
+  <span class="news-meta__source">developpez.com</span>
+  <time datetime="2025-09-07T14:18:21+02:00">7 septembre 2025 à 14:18</time>
+</p>
+
+    <h3 class="card__title"><a href="/news/zuckerberg-piege-par-un-micro-ouvert-apres-avoir-propose-dinvestir-au-moins-600-1narpa0/">Zuckerberg piégé par un micro ouvert : après avoir proposé d&#x27;investir « au moins 600 Mds $ d&#x27;ici 2028 aux États-Unis », il murmure à Trump &quot; je suis désolé je ne savais pas quel montant vous souhaitiez &quot;</a></h3>
+    <p class="card__summary">Lors dun dîner à la Maison-Blanche, Mark Zuckerberg a annoncé que Meta investirait « au moins 600 milliards de dollars aux États-Unis dici 2028 ».</p>
+    <p class="news-stats">
+  <span><span class="visually-hidden">Score Reddit : </span><span aria-hidden="true">▲</span> 760 votes</span>
+  <span>118 commentaires</span>
+</p>
+
+    
+
+<ul class="tag-list" aria-label="Fils">
+  
+  
+  
+  <li><a class="tag tag--personnalite" href="/tags/donald-trump/" data-timeline="/tags/donald-trump/timeline/"><svg class="icon" width="12" height="12" viewBox="0 0 16 16" aria-hidden="true" focusable="false"><path fill="currentColor" d="M8 8a3.5 3.5 0 1 0 0-7 3.5 3.5 0 0 0 0 7zm0 1.5c-3.3 0-6 1.8-6 4V15h12v-1.5c0-2.2-2.7-4-6-4z"/></svg>
+Donald Trump</a></li>
+  
+  
+  
+</ul>
+
+
+  </div>
+</article>
+
+<article class="card">
+  <a class="card__media" href="/news/ia-la-porte-parole-du-ps-travaille-chez-palantir-logre-de-la-surveillance-algori-1n9subg/" tabindex="-1" aria-hidden="true">
+    
+    <img src="/media/thumbnails/1n9subg.webp" width="640" height="360" alt="" loading="lazy" decoding="async">
+    
+  </a>
+  <div class="card__body">
+    <p class="news-meta">
+  <span class="news-meta__source">humanite.fr</span>
+  <time datetime="2025-09-06T08:53:23+02:00">6 septembre 2025 à 08:53</time>
+</p>
+
+    <h3 class="card__title"><a href="/news/ia-la-porte-parole-du-ps-travaille-chez-palantir-logre-de-la-surveillance-algori-1n9subg/">IA : la porte-parole du PS travaille chez Palantir, l&#x27;ogre de la surveillance algorithmique choyé par Donald Trump - L&#x27;Humanité</a></h3>
+    <p class="card__summary">Salariée depuis trois ans de Palantir, le très libertarien fleuron de la big tech américaine, Julie Martinez a rejoint, depuis un mois, l’équipe des porte-parole du Parti socialis…</p>
+    <p class="news-stats">
+  <span><span class="visually-hidden">Score Reddit : </span><span aria-hidden="true">▲</span> 660 votes</span>
+  <span>166 commentaires</span>
+</p>
+
+    
+
+<ul class="tag-list" aria-label="Fils">
+  
+  
+  
+  <li><a class="tag tag--personnalite" href="/tags/donald-trump/" data-timeline="/tags/donald-trump/timeline/"><svg class="icon" width="12" height="12" viewBox="0 0 16 16" aria-hidden="true" focusable="false"><path fill="currentColor" d="M8 8a3.5 3.5 0 1 0 0-7 3.5 3.5 0 0 0 0 7zm0 1.5c-3.3 0-6 1.8-6 4V15h12v-1.5c0-2.2-2.7-4-6-4z"/></svg>
+Donald Trump</a></li>
+  
+  
+  
+  
+  
+  <li><a class="tag tag--theme" href="/tags/intelligence-artificielle/" data-timeline="/tags/intelligence-artificielle/timeline/">Intelligence artificielle</a></li>
+  
   
   
 </ul>
@@ -355,13 +328,16 @@
 </section>
 
 
+    </div>
   </main>
 
   <footer class="site-footer">
     <div class="container site-footer__inner">
-      <p>© 2026 FilNews — l'actualité remise dans son contexte, fil par fil.</p>
+      <p>© 2026 FilNews — l'actualité vue par r/france, fil par fil. Les articles appartiennent à leurs éditeurs.</p>
       <ul class="site-footer__links">
         <li><a href="/a-propos/">À propos</a></li>
+        <li><a href="/mentions-legales/">Mentions légales</a></li>
+        <li><a href="https://github.com/FlogFr/www-filnews" rel="noopener">Code source</a></li>
         <li><a href="/rss.xml">Flux RSS</a></li>
         <li><a href="/sitemap.xml">Plan du site</a></li>
       </ul>

@@ -30,7 +30,7 @@
   <link rel="apple-touch-icon" href="/static/img/apple-touch-icon.8212a9f52a11.png">
   <link rel="preload" href="/static/fonts/oswald-latin-700-normal.5e79fc3b5fbd.woff2" as="font" type="font/woff2" crossorigin>
   <link rel="preload" href="/static/fonts/lora-latin-400-normal.6a24bfe835a2.woff2" as="font" type="font/woff2" crossorigin>
-  <link rel="stylesheet" href="/static/css/main.f5195b6026c6.css">
+  <link rel="stylesheet" href="/static/css/main.3bf0c727cc2d.css">
   <script src="/static/js/theme.717c1f1ef66a.js"></script>
   <script type="module" src="/static/js/main.a545fbbbc6fb.js"></script>
   <script type="application/ld+json">{"@context": "https://schema.org", "@type": "NewsArticle", "headline": "La révolte des couturières professionnelles, sollicitées pour bosser gratis", "datePublished": "2020-04-28T09:01:19+00:00", "dateModified": "2026-11-01T09:40:24.436073+00:00", "mainEntityOfPage": "https://filnews.fr/news/la-revolte-des-couturieres-professionnelles-sollicitees-pour-bosser-gratis-g9jstw/", "url": "https://filnews.fr/news/la-revolte-des-couturieres-professionnelles-sollicitees-pour-bosser-gratis-g9jstw/", "isBasedOn": "https://www.20minutes.fr/societe/2768847-20200428-coronavirus-pourquoi-exige-travaille-gratuitement-interrogent-couturieres-professionnelles-sollicitees-fabriquer-masques?xtref=twitter.com#Echobox=1588057861", "inLanguage": "fr-FR", "keywords": "Covid-19", "publisher": {"@type": "Organization", "name": "FilNews", "url": "https://filnews.fr/", "logo": {"@type": "ImageObject", "url": "https://filnews.fr/static/img/logo.4a25c3343e40.png"}}, "author": {"@type": "Organization", "name": "20minutes.fr"}, "description": "Elles viennent de lancer le collectif « Bas les masques » pour dénoncer cette situation et interpeller le gouvernement", "image": ["https://filnews.fr/media/thumbnails/g9jstw.webp"]}</script><script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Accueil", "item": "https://filnews.fr/"}, {"@type": "ListItem", "position": 2, "name": "Archives", "item": "https://filnews.fr/archives/"}, {"@type": "ListItem", "position": 3, "name": "La révolte des couturières professionnelles, sollicitées pour bosser gratis", "item": "https://filnews.fr/news/la-revolte-des-couturieres-professionnelles-sollicitees-pour-bosser-gratis-g9jstw/"}]}</script>
@@ -41,16 +41,18 @@
   <header class="site-header">
     <div class="container site-header__inner">
       <a class="brand" href="/" rel="home">
-        <img class="brand__mark" src="/static/img/favicon.ecb5d5be8d15.svg" width="36" height="36" alt="">
+        <svg class="brand__mark" width="40" height="36" viewBox="0 0 40 36" aria-hidden="true" focusable="false"><path d="M2 22c6-9 10-9 14-4s8 5 12-2 7-7 10-4" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"/><circle cx="9.75" cy="14.75" r="3.4" fill="currentColor"/><circle cx="22" cy="21.5" r="3.4" fill="currentColor"/><circle cx="33.4" cy="10.3" r="3.4" fill="currentColor"/></svg>
+
         <span class="brand__name">Fil<span>News</span></span>
-        <span class="brand__tagline">L&#x27;actualité vue par les Français</span>
+        <span class="brand__tagline">L&#x27;actualité vue par r/france</span>
       </a>
       
       <nav class="site-nav" aria-label="Navigation principale">
         <ul class="site-nav__list">
           <li><a href="/">Accueil</a></li>
           <li><a href="/archives/">Archives</a></li>
-          <li><a href="/tags/">Tags</a></li>
+          <li><a href="/tags/">Tous les fils</a></li>
+          <li><a href="/presidentielle-2027/">Présidentielle 2027</a></li>
           <li><a href="/a-propos/">À propos</a></li>
           <li><a class="rss-link" href="/rss.xml"><svg class="icon" width="16" height="16" viewBox="0 0 16 16" aria-hidden="true" focusable="false"><path fill="currentColor" d="M2 2a12 12 0 0 1 12 12h-2.4A9.6 9.6 0 0 0 2 4.4zm0 4.8A7.2 7.2 0 0 1 9.2 14H6.8A4.8 4.8 0 0 0 2 9.2zM3.6 11a1.5 1.5 0 1 1 0 3 1.5 1.5 0 0 1 0-3z"/></svg>
 <span>RSS</span></a></li>
@@ -61,8 +63,10 @@
     </div>
   </header>
 
-  <main id="main" class="container site-main" tabindex="-1">
+  <main id="main" class="site-main" tabindex="-1">
     
+    <div class="container site-main__inner">
+      
 <nav class="breadcrumb" aria-label="Fil d'Ariane">
   <ol>
     <li><a href="/">Accueil</a></li>
@@ -107,10 +111,12 @@
     <h2 class="section-title" id="tags-title">Dans le fil de l'actualité</h2>
     
 
-<ul class="tag-list" aria-label="Tags">
+<ul class="tag-list" aria-label="Fils">
   
   
-  <li><a class="tag" href="/tags/covid-19/" data-timeline="/tags/covid-19/timeline/">Covid-19</a></li>
+  
+  <li><a class="tag tag--theme" href="/tags/covid-19/" data-timeline="/tags/covid-19/timeline/">Covid-19</a></li>
+  
   
   
 </ul>
@@ -126,34 +132,38 @@
   <div class="card-grid">
     
 <article class="card">
-  <a class="card__media" href="/news/toulouse-les-policiers-controlent-15-personnes-sans-pass-sanitaire-dans-une-sand-r9yr8u/" tabindex="-1" aria-hidden="true">
+  <a class="card__media" href="/news/covid-19-reintegrer-les-soignants-non-vaccines-serait-une-faute-juge-lacademie-d-w2rfw9/" tabindex="-1" aria-hidden="true">
     
-    <img src="/media/thumbnails/r9yr8u.webp" width="640" height="360" alt="" loading="lazy" decoding="async">
+    <img src="/media/thumbnails/w2rfw9.webp" width="640" height="360" alt="" loading="lazy" decoding="async">
     
   </a>
   <div class="card__body">
     <p class="news-meta">
-  <span class="news-meta__source">ladepeche.fr</span>
-  <time datetime="2021-12-06T05:40:57+01:00">6 décembre 2021 à 05:40</time>
+  <span class="news-meta__source">lefigaro.fr</span>
+  <time datetime="2022-07-19T14:22:48+02:00">19 juillet 2022 à 14:22</time>
 </p>
 
-    <h3 class="card__title"><a href="/news/toulouse-les-policiers-controlent-15-personnes-sans-pass-sanitaire-dans-une-sand-r9yr8u/">Toulouse : les policiers contrôlent 15 personnes sans pass sanitaire dans une sandwicherie dont les deux gérants du restaurant</a></h3>
-    <p class="card__summary">15 personnes en train de déjeuner dans une sandwicherie située en périphérie de Toulouse ont été verbalisées ce samedi par les policiers pour ne pas avoir été en mesure de présent…</p>
+    <h3 class="card__title"><a href="/news/covid-19-reintegrer-les-soignants-non-vaccines-serait-une-faute-juge-lacademie-d-w2rfw9/">Covid-19 : réintégrer les soignants non-vaccinés serait «une faute», juge l&#x27;Académie de médecine</a></h3>
+    <p class="card__summary">Réintégrer les personnels soignants non-vaccinés serait risqué et ne «résoudrait pas les difficultés actuelles de fonctionnement de l&#x27;hôpital», estime-t-elle.</p>
     <p class="news-stats">
-  <span><span class="visually-hidden">Score Reddit : </span><span aria-hidden="true">▲</span> 181 votes</span>
-  <span>162 commentaires</span>
+  <span><span class="visually-hidden">Score Reddit : </span><span aria-hidden="true">▲</span> 226 votes</span>
+  <span>170 commentaires</span>
 </p>
 
     
 
-<ul class="tag-list" aria-label="Tags">
-  
-  
-  <li><a class="tag" href="/tags/toulouse/" data-timeline="/tags/toulouse/timeline/">Toulouse</a></li>
+<ul class="tag-list" aria-label="Fils">
   
   
   
-  <li><a class="tag" href="/tags/covid-19/" data-timeline="/tags/covid-19/timeline/">Covid-19</a></li>
+  <li><a class="tag tag--theme" href="/tags/covid-19/" data-timeline="/tags/covid-19/timeline/">Covid-19</a></li>
+  
+  
+  
+  
+  
+  <li><a class="tag tag--theme" href="/tags/sante/" data-timeline="/tags/sante/timeline/">Santé</a></li>
+  
   
   
 </ul>
@@ -163,48 +173,114 @@
 </article>
 
 <article class="card">
-  <a class="card__media" href="/news/pays-bas-61-passagers-en-provenance-dafrique-du-sud-testes-positifs-au-covid-a-l-r3c37y/" tabindex="-1" aria-hidden="true">
+  <a class="card__media" href="/news/sondage-71-des-francais-veulent-que-le-port-du-masque-soit-de-nouveau-obligatoir-vnjrv7/" tabindex="-1" aria-hidden="true">
     
-    <img src="/media/thumbnails/r3c37y.webp" width="640" height="360" alt="" loading="lazy" decoding="async">
+    <img src="/media/thumbnails/vnjrv7.webp" width="640" height="360" alt="" loading="lazy" decoding="async">
+    
+  </a>
+  <div class="card__body">
+    <p class="news-meta">
+  <span class="news-meta__source">lejdd.fr</span>
+  <time datetime="2022-06-29T18:25:49+02:00">29 juin 2022 à 18:25</time>
+</p>
+
+    <h3 class="card__title"><a href="/news/sondage-71-des-francais-veulent-que-le-port-du-masque-soit-de-nouveau-obligatoir-vnjrv7/">SONDAGE. 71 % des Français veulent que le port du masque soit de nouveau obligatoire dans les transports</a></h3>
+    <p class="card__summary">Selon notre sondage Ifop pour le JDD, une large majorité de Français souhaite revoir l’obligation du port du masque dans les transports. Voici l’analyse de Thomas Pierre, chargé d…</p>
+    <p class="news-stats">
+  <span><span class="visually-hidden">Score Reddit : </span><span aria-hidden="true">▲</span> 256 votes</span>
+  <span>156 commentaires</span>
+</p>
+
+    
+
+<ul class="tag-list" aria-label="Fils">
+  
+  
+  
+  <li><a class="tag tag--theme" href="/tags/elections/" data-timeline="/tags/elections/timeline/">Élections</a></li>
+  
+  
+  
+  
+  
+  <li><a class="tag tag--theme" href="/tags/covid-19/" data-timeline="/tags/covid-19/timeline/">Covid-19</a></li>
+  
+  
+  
+</ul>
+
+
+  </div>
+</article>
+
+<article class="card">
+  <a class="card__media" href="/news/ils-dressaient-des-murs-contre-les-ascenseurs-ces-expatries-francais-soulages-da-uv5j5v/" tabindex="-1" aria-hidden="true">
+    
+    <img src="/media/thumbnails/uv5j5v.webp" width="640" height="360" alt="" loading="lazy" decoding="async">
+    
+  </a>
+  <div class="card__body">
+    <p class="news-meta">
+  <span class="news-meta__source">leparisien.fr</span>
+  <time datetime="2022-05-22T08:56:57+02:00">22 mai 2022 à 08:56</time>
+</p>
+
+    <h3 class="card__title"><a href="/news/ils-dressaient-des-murs-contre-les-ascenseurs-ces-expatries-francais-soulages-da-uv5j5v/">«Ils dressaient des murs contre les ascenseurs» : ces expatriés français soulagés d’avoir quitté l’enfer du confinement strict en Chine</a></h3>
+    <p class="card__summary">À l’aéroport Roissy-Charles-de-Gaulle, nous avons rencontré ce samedi des expatriés français, parvenus à quitter Shanghai, où ils ont vécu u</p>
+    <p class="news-stats">
+  <span><span class="visually-hidden">Score Reddit : </span><span aria-hidden="true">▲</span> 242 votes</span>
+  <span>167 commentaires</span>
+</p>
+
+    
+
+<ul class="tag-list" aria-label="Fils">
+  
+  
+  
+  <li><a class="tag tag--theme" href="/tags/covid-19/" data-timeline="/tags/covid-19/timeline/">Covid-19</a></li>
+  
+  
+  
+</ul>
+
+
+  </div>
+</article>
+
+<article class="card">
+  <a class="card__media" href="/news/chine-les-salaries-de-tesla-a-shanghai-devront-dorenavant-vivre-dans-lusine-uapwop/" tabindex="-1" aria-hidden="true">
+    
+    <img src="/media/thumbnails/uapwop.webp" width="640" height="360" alt="" loading="lazy" decoding="async">
     
   </a>
   <div class="card__body">
     <p class="news-meta">
   <span class="news-meta__source">sudouest.fr</span>
-  <time datetime="2021-11-27T12:53:30+01:00">27 novembre 2021 à 12:53</time>
+  <time datetime="2022-04-24T10:07:55+02:00">24 avril 2022 à 10:07</time>
 </p>
 
-    <h3 class="card__title"><a href="/news/pays-bas-61-passagers-en-provenance-dafrique-du-sud-testes-positifs-au-covid-a-l-r3c37y/">Pays-Bas : 61 passagers en provenance d’Afrique du Sud testés positifs au Covid à leur arrivée à Amsterdam</a></h3>
-    <p class="card__summary">Les passagers testés positifs ont été placés en quarantaine dans un hôtel proche de l’aéroport d’Amsterdam-Schipol</p>
+    <h3 class="card__title"><a href="/news/chine-les-salaries-de-tesla-a-shanghai-devront-dorenavant-vivre-dans-lusine-uapwop/">Chine : les salariés de Tesla à Shanghai devront dorénavant vivre dans l’usine</a></h3>
+    <p class="card__summary">Pour éviter d’être contaminés au Covid-19, les salariés de Tesla à Shanghai devront vivre en vase clos au sein de l’usine jusqu’au 1er mai</p>
     <p class="news-stats">
-  <span><span class="visually-hidden">Score Reddit : </span><span aria-hidden="true">▲</span> 199 votes</span>
-  <span>52 commentaires</span>
+  <span><span class="visually-hidden">Score Reddit : </span><span aria-hidden="true">▲</span> 284 votes</span>
+  <span>77 commentaires</span>
 </p>
 
     
 
-<ul class="tag-list" aria-label="Tags">
-  
-  
-  <li><a class="tag" href="/tags/afrique-du-sud/" data-timeline="/tags/afrique-du-sud/timeline/">Afrique du Sud</a></li>
+<ul class="tag-list" aria-label="Fils">
   
   
   
-  
-  <li><span class="tag tag--plain">Amsterdam</span></li>
-  
-  
-  
-  <li><a class="tag" href="/tags/covid/" data-timeline="/tags/covid/timeline/">Covid</a></li>
+  <li><a class="tag tag--theme" href="/tags/covid-19/" data-timeline="/tags/covid-19/timeline/">Covid-19</a></li>
   
   
   
   
-  <li><span class="tag tag--plain">Amsterdam-Schipol</span></li>
   
+  <li><a class="tag tag--theme" href="/tags/travail/" data-timeline="/tags/travail/timeline/">Travail</a></li>
   
-  
-  <li><a class="tag" href="/tags/covid-19/" data-timeline="/tags/covid-19/timeline/">Covid-19</a></li>
   
   
 </ul>
@@ -214,130 +290,32 @@
 </article>
 
 <article class="card">
-  <a class="card__media" href="/news/covid-19-pourquoi-le-gouvernement-ne-veut-pas-rendre-le-teletravail-obligatoire-r2hhyf/" tabindex="-1" aria-hidden="true">
+  <a class="card__media" href="/news/le-biologiste-francais-francois-gros-codecouvreur-de-larn-messager-est-mort-sx73kx/" tabindex="-1" aria-hidden="true">
     
-    <img src="/media/thumbnails/r2hhyf.webp" width="640" height="360" alt="" loading="lazy" decoding="async">
-    
-  </a>
-  <div class="card__body">
-    <p class="news-meta">
-  <span class="news-meta__source">francetvinfo.fr</span>
-  <time datetime="2021-11-26T08:15:37+01:00">26 novembre 2021 à 08:15</time>
-</p>
-
-    <h3 class="card__title"><a href="/news/covid-19-pourquoi-le-gouvernement-ne-veut-pas-rendre-le-teletravail-obligatoire-r2hhyf/">Covid- 19 : pourquoi le gouvernement ne veut pas rendre le télétravail obligatoire</a></h3>
-    <p class="card__summary">Alors que la 5e vague du Covid s’intensifie, des pays reviennent au télétravail obligatoire. En Belgique, par exemple, c’est quatre jours obligatoires par semaine. Mais en France,…</p>
-    <p class="news-stats">
-  <span><span class="visually-hidden">Score Reddit : </span><span aria-hidden="true">▲</span> 205 votes</span>
-  <span>169 commentaires</span>
-</p>
-
-    
-
-<ul class="tag-list" aria-label="Tags">
-  
-  
-  <li><a class="tag" href="/tags/covid/" data-timeline="/tags/covid/timeline/">Covid</a></li>
-  
-  
-  
-  <li><a class="tag" href="/tags/belgique/" data-timeline="/tags/belgique/timeline/">Belgique</a></li>
-  
-  
-  
-  
-  <li><span class="tag tag--plain">Fanny Guinochet</span></li>
-  
-  
-  
-  <li><a class="tag" href="/tags/eco-conso/" data-timeline="/tags/eco-conso/timeline/">Éco / Conso</a></li>
-  
-  
-  
-  <li><a class="tag" href="/tags/covid-19/" data-timeline="/tags/covid-19/timeline/">Covid-19</a></li>
-  
-  
-</ul>
-
-
-  </div>
-</article>
-
-<article class="card">
-  <a class="card__media" href="/news/en-direct-le-rappel-vaccinal-anti-covid-ouvert-aux-plus-de-18-ans-en-france-des-r1v9zv/" tabindex="-1" aria-hidden="true">
-    
-    <img src="/media/thumbnails/r1v9zv.webp" width="640" height="360" alt="" loading="lazy" decoding="async">
+    <img src="/media/thumbnails/sx73kx.webp" width="640" height="360" alt="" loading="lazy" decoding="async">
     
   </a>
   <div class="card__body">
     <p class="news-meta">
-  <span class="news-meta__source">france24.com</span>
-  <time datetime="2021-11-25T13:13:40+01:00">25 novembre 2021 à 13:13</time>
+  <span class="news-meta__source">mobile.francetvinfo.fr</span>
+  <time datetime="2022-02-20T18:59:42+01:00">20 février 2022 à 18:59</time>
 </p>
 
-    <h3 class="card__title"><a href="/news/en-direct-le-rappel-vaccinal-anti-covid-ouvert-aux-plus-de-18-ans-en-france-des-r1v9zv/">En direct : le rappel vaccinal anti-Covid ouvert aux plus de 18 ans en France dès 5 mois après la 2e dose</a></h3>
-    <p class="card__summary">Le ministre de la Santé, Olivier Véran, a annoncé jeudi midi que le rappel vaccinal anti-Covid serait ouvert dès samedi à tous les adultes de plus de 18 ans en France dès cinq moi…</p>
+    <h3 class="card__title"><a href="/news/le-biologiste-francais-francois-gros-codecouvreur-de-larn-messager-est-mort-sx73kx/">Le biologiste français François Gros, codécouvreur de l&#x27;ARN messager, est mort</a></h3>
+    <p class="card__summary">Les travaux du chercheur, mort vendredi à l&#x27;âge de 96 ans, ont ouvert la voie à l&#x27;utilisation de l&#x27;ARN messager dans les principaux vaccins utilisés contre le Covid-19.</p>
     <p class="news-stats">
-  <span><span class="visually-hidden">Score Reddit : </span><span aria-hidden="true">▲</span> 272 votes</span>
-  <span>497 commentaires</span>
+  <span><span class="visually-hidden">Score Reddit : </span><span aria-hidden="true">▲</span> 391 votes</span>
+  <span>37 commentaires</span>
 </p>
 
     
 
-<ul class="tag-list" aria-label="Tags">
-  
-  
-  <li><a class="tag" href="/tags/covid-19/" data-timeline="/tags/covid-19/timeline/">Covid-19</a></li>
+<ul class="tag-list" aria-label="Fils">
   
   
   
-  <li><a class="tag" href="/tags/olivier-veran/" data-timeline="/tags/olivier-veran/timeline/">Olivier Véran</a></li>
+  <li><a class="tag tag--theme" href="/tags/covid-19/" data-timeline="/tags/covid-19/timeline/">Covid-19</a></li>
   
-  
-  
-  <li><a class="tag" href="/tags/passe-sanitaire/" data-timeline="/tags/passe-sanitaire/timeline/">Passe sanitaire</a></li>
-  
-  
-  
-  
-  <li><span class="tag tag--plain">HAS</span></li>
-  
-  
-  
-  <li><a class="tag" href="/tags/francais/" data-timeline="/tags/francais/timeline/">Français</a></li>
-  
-  
-</ul>
-
-
-  </div>
-</article>
-
-<article class="card">
-  <a class="card__media" href="/news/direct-lautriche-annonce-le-confinement-general-de-sa-population-des-lundi-et-la-qxcuge/" tabindex="-1" aria-hidden="true">
-    
-    <img src="/media/thumbnails/qxcuge.webp" width="640" height="360" alt="" loading="lazy" decoding="async">
-    
-  </a>
-  <div class="card__body">
-    <p class="news-meta">
-  <span class="news-meta__source">francetvinfo.fr</span>
-  <time datetime="2021-11-19T10:45:33+01:00">19 novembre 2021 à 10:45</time>
-</p>
-
-    <h3 class="card__title"><a href="/news/direct-lautriche-annonce-le-confinement-general-de-sa-population-des-lundi-et-la-qxcuge/">DIRECT : l&#x27;Autriche annonce le confinement général de sa population dès lundi et la vaccination obligatoire à partir du 1er février</a></h3>
-    <p class="card__summary">Le médicament n&#x27;a pas encore reçu d&#x27;autorisation complète de mise sur le marché.</p>
-    <p class="news-stats">
-  <span><span class="visually-hidden">Score Reddit : </span><span aria-hidden="true">▲</span> 382 votes</span>
-  <span>291 commentaires</span>
-</p>
-
-    
-
-<ul class="tag-list" aria-label="Tags">
-  
-  
-  <li><a class="tag" href="/tags/covid-19/" data-timeline="/tags/covid-19/timeline/">Covid-19</a></li>
   
   
 </ul>
@@ -350,13 +328,16 @@
 </section>
 
 
+    </div>
   </main>
 
   <footer class="site-footer">
     <div class="container site-footer__inner">
-      <p>© 2026 FilNews — l'actualité remise dans son contexte, fil par fil.</p>
+      <p>© 2026 FilNews — l'actualité vue par r/france, fil par fil. Les articles appartiennent à leurs éditeurs.</p>
       <ul class="site-footer__links">
         <li><a href="/a-propos/">À propos</a></li>
+        <li><a href="/mentions-legales/">Mentions légales</a></li>
+        <li><a href="https://github.com/FlogFr/www-filnews" rel="noopener">Code source</a></li>
         <li><a href="/rss.xml">Flux RSS</a></li>
         <li><a href="/sitemap.xml">Plan du site</a></li>
       </ul>

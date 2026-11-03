@@ -31,7 +31,7 @@
   <link rel="apple-touch-icon" href="/static/img/apple-touch-icon.8212a9f52a11.png">
   <link rel="preload" href="/static/fonts/oswald-latin-700-normal.5e79fc3b5fbd.woff2" as="font" type="font/woff2" crossorigin>
   <link rel="preload" href="/static/fonts/lora-latin-400-normal.6a24bfe835a2.woff2" as="font" type="font/woff2" crossorigin>
-  <link rel="stylesheet" href="/static/css/main.f5195b6026c6.css">
+  <link rel="stylesheet" href="/static/css/main.3bf0c727cc2d.css">
   <script src="/static/js/theme.717c1f1ef66a.js"></script>
   <script type="module" src="/static/js/main.a545fbbbc6fb.js"></script>
   <script type="application/ld+json">{"@context": "https://schema.org", "@type": "NewsArticle", "headline": "Informé dès le 2 mai, Gérard Collomb a couvert les agissements d'Alexandre Benalla", "datePublished": "2018-07-22T18:26:22+00:00", "dateModified": "2026-11-01T09:44:25.445176+00:00", "mainEntityOfPage": "https://filnews.fr/news/informe-des-le-2-mai-gerard-collomb-a-couvert-les-agissements-dalexandre-benalla-90ztz3/", "url": "https://filnews.fr/news/informe-des-le-2-mai-gerard-collomb-a-couvert-les-agissements-dalexandre-benalla-90ztz3/", "isBasedOn": "https://www.mediapart.fr/journal/france/220718/informe-des-le-2-mai-gerard-collomb-couvert-les-agissements-dalexandre-benalla?utm_source=twitter\u0026utm_medium=social\u0026utm_campaign=Sharing\u0026xtor=CS3-67", "inLanguage": "fr-FR", "keywords": "Gérard Collomb, Alexandre Benalla", "publisher": {"@type": "Organization", "name": "FilNews", "url": "https://filnews.fr/", "logo": {"@type": "ImageObject", "url": "https://filnews.fr/static/img/logo.4a25c3343e40.png"}}, "author": {"@type": "Organization", "name": "mediapart.fr"}, "description": "Entendu lundi par la commission d’enquête sur l’affaire, le ministre de l’intérieur Gérard Collomb a confirmé avoir salué le conseiller présidentiel Alexandre Benalla le soir des incidents du 1er mai…", "image": ["https://filnews.fr/media/thumbnails/90ztz3.webp"]}</script><script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Accueil", "item": "https://filnews.fr/"}, {"@type": "ListItem", "position": 2, "name": "Archives", "item": "https://filnews.fr/archives/"}, {"@type": "ListItem", "position": 3, "name": "Informé dès le 2 mai, Gérard Collomb a couvert les agissements d'Alexandre Benalla", "item": "https://filnews.fr/news/informe-des-le-2-mai-gerard-collomb-a-couvert-les-agissements-dalexandre-benalla-90ztz3/"}]}</script>
@@ -42,16 +42,18 @@
   <header class="site-header">
     <div class="container site-header__inner">
       <a class="brand" href="/" rel="home">
-        <img class="brand__mark" src="/static/img/favicon.ecb5d5be8d15.svg" width="36" height="36" alt="">
+        <svg class="brand__mark" width="40" height="36" viewBox="0 0 40 36" aria-hidden="true" focusable="false"><path d="M2 22c6-9 10-9 14-4s8 5 12-2 7-7 10-4" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"/><circle cx="9.75" cy="14.75" r="3.4" fill="currentColor"/><circle cx="22" cy="21.5" r="3.4" fill="currentColor"/><circle cx="33.4" cy="10.3" r="3.4" fill="currentColor"/></svg>
+
         <span class="brand__name">Fil<span>News</span></span>
-        <span class="brand__tagline">L&#x27;actualité vue par les Français</span>
+        <span class="brand__tagline">L&#x27;actualité vue par r/france</span>
       </a>
       
       <nav class="site-nav" aria-label="Navigation principale">
         <ul class="site-nav__list">
           <li><a href="/">Accueil</a></li>
           <li><a href="/archives/">Archives</a></li>
-          <li><a href="/tags/">Tags</a></li>
+          <li><a href="/tags/">Tous les fils</a></li>
+          <li><a href="/presidentielle-2027/">Présidentielle 2027</a></li>
           <li><a href="/a-propos/">À propos</a></li>
           <li><a class="rss-link" href="/rss.xml"><svg class="icon" width="16" height="16" viewBox="0 0 16 16" aria-hidden="true" focusable="false"><path fill="currentColor" d="M2 2a12 12 0 0 1 12 12h-2.4A9.6 9.6 0 0 0 2 4.4zm0 4.8A7.2 7.2 0 0 1 9.2 14H6.8A4.8 4.8 0 0 0 2 9.2zM3.6 11a1.5 1.5 0 1 1 0 3 1.5 1.5 0 0 1 0-3z"/></svg>
 <span>RSS</span></a></li>
@@ -62,8 +64,10 @@
     </div>
   </header>
 
-  <main id="main" class="container site-main" tabindex="-1">
+  <main id="main" class="site-main" tabindex="-1">
     
+    <div class="container site-main__inner">
+      
 <nav class="breadcrumb" aria-label="Fil d'Ariane">
   <ol>
     <li><a href="/">Accueil</a></li>
@@ -108,14 +112,20 @@
     <h2 class="section-title" id="tags-title">Dans le fil de l'actualité</h2>
     
 
-<ul class="tag-list" aria-label="Tags">
-  
-  
-  <li><a class="tag" href="/tags/gerard-collomb/" data-timeline="/tags/gerard-collomb/timeline/">Gérard Collomb</a></li>
+<ul class="tag-list" aria-label="Fils">
   
   
   
-  <li><a class="tag" href="/tags/alexandre-benalla/" data-timeline="/tags/alexandre-benalla/timeline/">Alexandre Benalla</a></li>
+  <li><a class="tag tag--personnalite" href="/tags/gerard-collomb/" data-timeline="/tags/gerard-collomb/timeline/"><svg class="icon" width="12" height="12" viewBox="0 0 16 16" aria-hidden="true" focusable="false"><path fill="currentColor" d="M8 8a3.5 3.5 0 1 0 0-7 3.5 3.5 0 0 0 0 7zm0 1.5c-3.3 0-6 1.8-6 4V15h12v-1.5c0-2.2-2.7-4-6-4z"/></svg>
+Gérard Collomb</a></li>
+  
+  
+  
+  
+  
+  <li><a class="tag tag--personnalite" href="/tags/alexandre-benalla/" data-timeline="/tags/alexandre-benalla/timeline/"><svg class="icon" width="12" height="12" viewBox="0 0 16 16" aria-hidden="true" focusable="false"><path fill="currentColor" d="M8 8a3.5 3.5 0 1 0 0-7 3.5 3.5 0 0 0 0 7zm0 1.5c-3.3 0-6 1.8-6 4V15h12v-1.5c0-2.2-2.7-4-6-4z"/></svg>
+Alexandre Benalla</a></li>
+  
   
   
 </ul>
@@ -151,26 +161,27 @@
 
     
 
-<ul class="tag-list" aria-label="Tags">
-  
-  
-  <li><a class="tag" href="/tags/interieur/" data-timeline="/tags/interieur/timeline/">Intérieur</a></li>
+<ul class="tag-list" aria-label="Fils">
   
   
   
-  <li><a class="tag" href="/tags/gerard-collomb/" data-timeline="/tags/gerard-collomb/timeline/">Gérard Collomb</a></li>
+  <li><a class="tag tag--personnalite" href="/tags/gerard-collomb/" data-timeline="/tags/gerard-collomb/timeline/"><svg class="icon" width="12" height="12" viewBox="0 0 16 16" aria-hidden="true" focusable="false"><path fill="currentColor" d="M8 8a3.5 3.5 0 1 0 0-7 3.5 3.5 0 0 0 0 7zm0 1.5c-3.3 0-6 1.8-6 4V15h12v-1.5c0-2.2-2.7-4-6-4z"/></svg>
+Gérard Collomb</a></li>
   
   
   
-  <li><a class="tag" href="/tags/alexandre-benalla/" data-timeline="/tags/alexandre-benalla/timeline/">Alexandre Benalla</a></li>
+  
+  
+  <li><a class="tag tag--personnalite" href="/tags/alexandre-benalla/" data-timeline="/tags/alexandre-benalla/timeline/"><svg class="icon" width="12" height="12" viewBox="0 0 16 16" aria-hidden="true" focusable="false"><path fill="currentColor" d="M8 8a3.5 3.5 0 1 0 0-7 3.5 3.5 0 0 0 0 7zm0 1.5c-3.3 0-6 1.8-6 4V15h12v-1.5c0-2.2-2.7-4-6-4z"/></svg>
+Alexandre Benalla</a></li>
   
   
   
-  <li><a class="tag" href="/tags/emmanuel-macron/" data-timeline="/tags/emmanuel-macron/timeline/">Emmanuel Macron</a></li>
   
   
+  <li><a class="tag tag--personnalite" href="/tags/emmanuel-macron/" data-timeline="/tags/emmanuel-macron/timeline/"><svg class="icon" width="12" height="12" viewBox="0 0 16 16" aria-hidden="true" focusable="false"><path fill="currentColor" d="M8 8a3.5 3.5 0 1 0 0-7 3.5 3.5 0 0 0 0 7zm0 1.5c-3.3 0-6 1.8-6 4V15h12v-1.5c0-2.2-2.7-4-6-4z"/></svg>
+Emmanuel Macron</a></li>
   
-  <li><a class="tag" href="/tags/politique/" data-timeline="/tags/politique/timeline/">Politique</a></li>
   
   
 </ul>
@@ -200,26 +211,19 @@
 
     
 
-<ul class="tag-list" aria-label="Tags">
-  
-  
-  <li><a class="tag" href="/tags/alexandre-benalla/" data-timeline="/tags/alexandre-benalla/timeline/">Alexandre Benalla</a></li>
+<ul class="tag-list" aria-label="Fils">
   
   
   
-  <li><a class="tag" href="/tags/affaire-benalla/" data-timeline="/tags/affaire-benalla/timeline/">Affaire Benalla</a></li>
+  <li><a class="tag tag--personnalite" href="/tags/alexandre-benalla/" data-timeline="/tags/alexandre-benalla/timeline/"><svg class="icon" width="12" height="12" viewBox="0 0 16 16" aria-hidden="true" focusable="false"><path fill="currentColor" d="M8 8a3.5 3.5 0 1 0 0-7 3.5 3.5 0 0 0 0 7zm0 1.5c-3.3 0-6 1.8-6 4V15h12v-1.5c0-2.2-2.7-4-6-4z"/></svg>
+Alexandre Benalla</a></li>
   
   
   
-  <li><a class="tag" href="/tags/elysee/" data-timeline="/tags/elysee/timeline/">Élysée</a></li>
   
   
+  <li><a class="tag tag--theme" href="/tags/justice/" data-timeline="/tags/justice/timeline/">Justice</a></li>
   
-  <li><a class="tag" href="/tags/paris/" data-timeline="/tags/paris/timeline/">Paris</a></li>
-  
-  
-  
-  <li><a class="tag" href="/tags/societe/" data-timeline="/tags/societe/timeline/">Société</a></li>
   
   
 </ul>
@@ -249,14 +253,19 @@
 
     
 
-<ul class="tag-list" aria-label="Tags">
-  
-  
-  <li><a class="tag" href="/tags/alexandre-benalla/" data-timeline="/tags/alexandre-benalla/timeline/">Alexandre Benalla</a></li>
+<ul class="tag-list" aria-label="Fils">
   
   
   
-  <li><a class="tag" href="/tags/politique/" data-timeline="/tags/politique/timeline/">Politique</a></li>
+  <li><a class="tag tag--personnalite" href="/tags/alexandre-benalla/" data-timeline="/tags/alexandre-benalla/timeline/"><svg class="icon" width="12" height="12" viewBox="0 0 16 16" aria-hidden="true" focusable="false"><path fill="currentColor" d="M8 8a3.5 3.5 0 1 0 0-7 3.5 3.5 0 0 0 0 7zm0 1.5c-3.3 0-6 1.8-6 4V15h12v-1.5c0-2.2-2.7-4-6-4z"/></svg>
+Alexandre Benalla</a></li>
+  
+  
+  
+  
+  
+  <li><a class="tag tag--theme" href="/tags/justice/" data-timeline="/tags/justice/timeline/">Justice</a></li>
+  
   
   
 </ul>
@@ -286,14 +295,19 @@
 
     
 
-<ul class="tag-list" aria-label="Tags">
-  
-  
-  <li><a class="tag" href="/tags/alexandre-benalla/" data-timeline="/tags/alexandre-benalla/timeline/">Alexandre Benalla</a></li>
+<ul class="tag-list" aria-label="Fils">
   
   
   
-  <li><a class="tag" href="/tags/politique/" data-timeline="/tags/politique/timeline/">Politique</a></li>
+  <li><a class="tag tag--personnalite" href="/tags/alexandre-benalla/" data-timeline="/tags/alexandre-benalla/timeline/"><svg class="icon" width="12" height="12" viewBox="0 0 16 16" aria-hidden="true" focusable="false"><path fill="currentColor" d="M8 8a3.5 3.5 0 1 0 0-7 3.5 3.5 0 0 0 0 7zm0 1.5c-3.3 0-6 1.8-6 4V15h12v-1.5c0-2.2-2.7-4-6-4z"/></svg>
+Alexandre Benalla</a></li>
+  
+  
+  
+  
+  
+  <li><a class="tag tag--theme" href="/tags/police/" data-timeline="/tags/police/timeline/">Police</a></li>
+  
   
   
 </ul>
@@ -323,26 +337,19 @@
 
     
 
-<ul class="tag-list" aria-label="Tags">
-  
-  
-  <li><a class="tag" href="/tags/alexandre-benalla/" data-timeline="/tags/alexandre-benalla/timeline/">Alexandre Benalla</a></li>
+<ul class="tag-list" aria-label="Fils">
   
   
   
-  <li><a class="tag" href="/tags/elysee/" data-timeline="/tags/elysee/timeline/">Élysée</a></li>
+  <li><a class="tag tag--personnalite" href="/tags/alexandre-benalla/" data-timeline="/tags/alexandre-benalla/timeline/"><svg class="icon" width="12" height="12" viewBox="0 0 16 16" aria-hidden="true" focusable="false"><path fill="currentColor" d="M8 8a3.5 3.5 0 1 0 0-7 3.5 3.5 0 0 0 0 7zm0 1.5c-3.3 0-6 1.8-6 4V15h12v-1.5c0-2.2-2.7-4-6-4z"/></svg>
+Alexandre Benalla</a></li>
   
   
   
-  <li><a class="tag" href="/tags/affaire-benalla/" data-timeline="/tags/affaire-benalla/timeline/">Affaire Benalla</a></li>
   
   
+  <li><a class="tag tag--theme" href="/tags/justice/" data-timeline="/tags/justice/timeline/">Justice</a></li>
   
-  <li><a class="tag" href="/tags/justice/" data-timeline="/tags/justice/timeline/">Justice</a></li>
-  
-  
-  
-  <li><a class="tag" href="/tags/paris/" data-timeline="/tags/paris/timeline/">Paris</a></li>
   
   
 </ul>
@@ -355,13 +362,16 @@
 </section>
 
 
+    </div>
   </main>
 
   <footer class="site-footer">
     <div class="container site-footer__inner">
-      <p>© 2026 FilNews — l'actualité remise dans son contexte, fil par fil.</p>
+      <p>© 2026 FilNews — l'actualité vue par r/france, fil par fil. Les articles appartiennent à leurs éditeurs.</p>
       <ul class="site-footer__links">
         <li><a href="/a-propos/">À propos</a></li>
+        <li><a href="/mentions-legales/">Mentions légales</a></li>
+        <li><a href="https://github.com/FlogFr/www-filnews" rel="noopener">Code source</a></li>
         <li><a href="/rss.xml">Flux RSS</a></li>
         <li><a href="/sitemap.xml">Plan du site</a></li>
       </ul>

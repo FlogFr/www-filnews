@@ -30,7 +30,7 @@
   <link rel="apple-touch-icon" href="/static/img/apple-touch-icon.8212a9f52a11.png">
   <link rel="preload" href="/static/fonts/oswald-latin-700-normal.5e79fc3b5fbd.woff2" as="font" type="font/woff2" crossorigin>
   <link rel="preload" href="/static/fonts/lora-latin-400-normal.6a24bfe835a2.woff2" as="font" type="font/woff2" crossorigin>
-  <link rel="stylesheet" href="/static/css/main.f5195b6026c6.css">
+  <link rel="stylesheet" href="/static/css/main.3bf0c727cc2d.css">
   <script src="/static/js/theme.717c1f1ef66a.js"></script>
   <script type="module" src="/static/js/main.a545fbbbc6fb.js"></script>
   <script type="application/ld+json">{"@context": "https://schema.org", "@type": "NewsArticle", "headline": "Benoît Hamon quitte la vie politique : « C’est une page qui se tourne pour moi. Mais les livres ont plusieurs ", "datePublished": "2021-09-09T09:47:33+00:00", "dateModified": "2026-11-01T10:03:27.287165+00:00", "mainEntityOfPage": "https://filnews.fr/news/benoit-hamon-quitte-la-vie-politique-cest-une-page-qui-se-tourne-pour-moi-mais-l-pkumi5/", "url": "https://filnews.fr/news/benoit-hamon-quitte-la-vie-politique-cest-une-page-qui-se-tourne-pour-moi-mais-l-pkumi5/", "isBasedOn": "https://www.lemonde.fr/politique/article/2021/09/09/benoit-hamon-quitte-la-vie-politique-c-est-une-page-qui-se-tourne-pour-moi-mais-les-livres-ont-plusieurs-pages_6094025_823448.html", "inLanguage": "fr-FR", "keywords": "Benoît Hamon", "publisher": {"@type": "Organization", "name": "FilNews", "url": "https://filnews.fr/", "logo": {"@type": "ImageObject", "url": "https://filnews.fr/static/img/logo.4a25c3343e40.png"}}, "author": {"@type": "Organization", "name": "lemonde.fr"}, "image": ["https://filnews.fr/media/thumbnails/pkumi5.webp"]}</script><script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Accueil", "item": "https://filnews.fr/"}, {"@type": "ListItem", "position": 2, "name": "Archives", "item": "https://filnews.fr/archives/"}, {"@type": "ListItem", "position": 3, "name": "Benoît Hamon quitte la vie politique : « C’est une page qui se tourne pour moi. Mais les livres ont plusieurs pages »", "item": "https://filnews.fr/news/benoit-hamon-quitte-la-vie-politique-cest-une-page-qui-se-tourne-pour-moi-mais-l-pkumi5/"}]}</script>
@@ -41,16 +41,18 @@
   <header class="site-header">
     <div class="container site-header__inner">
       <a class="brand" href="/" rel="home">
-        <img class="brand__mark" src="/static/img/favicon.ecb5d5be8d15.svg" width="36" height="36" alt="">
+        <svg class="brand__mark" width="40" height="36" viewBox="0 0 40 36" aria-hidden="true" focusable="false"><path d="M2 22c6-9 10-9 14-4s8 5 12-2 7-7 10-4" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"/><circle cx="9.75" cy="14.75" r="3.4" fill="currentColor"/><circle cx="22" cy="21.5" r="3.4" fill="currentColor"/><circle cx="33.4" cy="10.3" r="3.4" fill="currentColor"/></svg>
+
         <span class="brand__name">Fil<span>News</span></span>
-        <span class="brand__tagline">L&#x27;actualité vue par les Français</span>
+        <span class="brand__tagline">L&#x27;actualité vue par r/france</span>
       </a>
       
       <nav class="site-nav" aria-label="Navigation principale">
         <ul class="site-nav__list">
           <li><a href="/">Accueil</a></li>
           <li><a href="/archives/">Archives</a></li>
-          <li><a href="/tags/">Tags</a></li>
+          <li><a href="/tags/">Tous les fils</a></li>
+          <li><a href="/presidentielle-2027/">Présidentielle 2027</a></li>
           <li><a href="/a-propos/">À propos</a></li>
           <li><a class="rss-link" href="/rss.xml"><svg class="icon" width="16" height="16" viewBox="0 0 16 16" aria-hidden="true" focusable="false"><path fill="currentColor" d="M2 2a12 12 0 0 1 12 12h-2.4A9.6 9.6 0 0 0 2 4.4zm0 4.8A7.2 7.2 0 0 1 9.2 14H6.8A4.8 4.8 0 0 0 2 9.2zM3.6 11a1.5 1.5 0 1 1 0 3 1.5 1.5 0 0 1 0-3z"/></svg>
 <span>RSS</span></a></li>
@@ -61,8 +63,10 @@
     </div>
   </header>
 
-  <main id="main" class="container site-main" tabindex="-1">
+  <main id="main" class="site-main" tabindex="-1">
     
+    <div class="container site-main__inner">
+      
 <nav class="breadcrumb" aria-label="Fil d'Ariane">
   <ol>
     <li><a href="/">Accueil</a></li>
@@ -102,10 +106,13 @@
     <h2 class="section-title" id="tags-title">Dans le fil de l'actualité</h2>
     
 
-<ul class="tag-list" aria-label="Tags">
+<ul class="tag-list" aria-label="Fils">
   
   
-  <li><a class="tag" href="/tags/benoit-hamon/" data-timeline="/tags/benoit-hamon/timeline/">Benoît Hamon</a></li>
+  
+  <li><a class="tag tag--personnalite" href="/tags/benoit-hamon/" data-timeline="/tags/benoit-hamon/timeline/"><svg class="icon" width="12" height="12" viewBox="0 0 16 16" aria-hidden="true" focusable="false"><path fill="currentColor" d="M8 8a3.5 3.5 0 1 0 0-7 3.5 3.5 0 0 0 0 7zm0 1.5c-3.3 0-6 1.8-6 4V15h12v-1.5c0-2.2-2.7-4-6-4z"/></svg>
+Benoît Hamon</a></li>
+  
   
   
 </ul>
@@ -141,28 +148,19 @@
 
     
 
-<ul class="tag-list" aria-label="Tags">
-  
-  
-  <li><a class="tag" href="/tags/benoit-hamon/" data-timeline="/tags/benoit-hamon/timeline/">Benoît Hamon</a></li>
+<ul class="tag-list" aria-label="Fils">
   
   
   
-  
-  <li><span class="tag tag--plain">BenoÃ</span></li>
+  <li><a class="tag tag--personnalite" href="/tags/benoit-hamon/" data-timeline="/tags/benoit-hamon/timeline/"><svg class="icon" width="12" height="12" viewBox="0 0 16 16" aria-hidden="true" focusable="false"><path fill="currentColor" d="M8 8a3.5 3.5 0 1 0 0-7 3.5 3.5 0 0 0 0 7zm0 1.5c-3.3 0-6 1.8-6 4V15h12v-1.5c0-2.2-2.7-4-6-4z"/></svg>
+Benoît Hamon</a></li>
   
   
   
   
-  <li><span class="tag tag--plain">Hamon</span></li>
   
+  <li><a class="tag tag--theme" href="/tags/pauvrete/" data-timeline="/tags/pauvrete/timeline/">Pauvreté</a></li>
   
-  
-  <li><a class="tag" href="/tags/sciences-et-savoirs/" data-timeline="/tags/sciences-et-savoirs/timeline/">Sciences et Savoirs</a></li>
-  
-  
-  
-  <li><a class="tag" href="/tags/politique/" data-timeline="/tags/politique/timeline/">Politique</a></li>
   
   
 </ul>
@@ -192,18 +190,13 @@
 
     
 
-<ul class="tag-list" aria-label="Tags">
-  
-  
-  <li><a class="tag" href="/tags/benoit-hamon/" data-timeline="/tags/benoit-hamon/timeline/">Benoît Hamon</a></li>
+<ul class="tag-list" aria-label="Fils">
   
   
   
-  <li><a class="tag" href="/tags/parti/" data-timeline="/tags/parti/timeline/">Parti</a></li>
+  <li><a class="tag tag--personnalite" href="/tags/benoit-hamon/" data-timeline="/tags/benoit-hamon/timeline/"><svg class="icon" width="12" height="12" viewBox="0 0 16 16" aria-hidden="true" focusable="false"><path fill="currentColor" d="M8 8a3.5 3.5 0 1 0 0-7 3.5 3.5 0 0 0 0 7zm0 1.5c-3.3 0-6 1.8-6 4V15h12v-1.5c0-2.2-2.7-4-6-4z"/></svg>
+Benoît Hamon</a></li>
   
-  
-  
-  <li><a class="tag" href="/tags/politique/" data-timeline="/tags/politique/timeline/">Politique</a></li>
   
   
 </ul>
@@ -233,73 +226,26 @@
 
     
 
-<ul class="tag-list" aria-label="Tags">
-  
-  
-  <li><a class="tag" href="/tags/essonne/" data-timeline="/tags/essonne/timeline/">Essonne</a></li>
+<ul class="tag-list" aria-label="Fils">
   
   
   
-  <li><a class="tag" href="/tags/valls/" data-timeline="/tags/valls/timeline/">Valls</a></li>
-  
-  
-  
-  <li><a class="tag" href="/tags/benoit-hamon/" data-timeline="/tags/benoit-hamon/timeline/">Benoît Hamon</a></li>
+  <li><a class="tag tag--personnalite" href="/tags/manuel-valls/" data-timeline="/tags/manuel-valls/timeline/"><svg class="icon" width="12" height="12" viewBox="0 0 16 16" aria-hidden="true" focusable="false"><path fill="currentColor" d="M8 8a3.5 3.5 0 1 0 0-7 3.5 3.5 0 0 0 0 7zm0 1.5c-3.3 0-6 1.8-6 4V15h12v-1.5c0-2.2-2.7-4-6-4z"/></svg>
+Manuel Valls</a></li>
   
   
   
   
-  <li><span class="tag tag--plain">Farida Amrani</span></li>
   
-  
-  
-  <li><a class="tag" href="/tags/politique/" data-timeline="/tags/politique/timeline/">Politique</a></li>
-  
-  
-</ul>
-
-
-  </div>
-</article>
-
-<article class="card">
-  <a class="card__media" href="/news/presidentielle-2022-benoit-hamon-commence-son-entrainement-dans-un-temple-secret-6dfnji/" tabindex="-1" aria-hidden="true">
-    
-    <img src="/media/thumbnails/6dfnji.webp" width="640" height="360" alt="" loading="lazy" decoding="async">
-    
-  </a>
-  <div class="card__body">
-    <p class="news-meta">
-  <span class="news-meta__source">legorafi.fr</span>
-  <time datetime="2017-05-26T10:13:24+02:00">26 mai 2017 à 10:13</time>
-</p>
-
-    <h3 class="card__title"><a href="/news/presidentielle-2022-benoit-hamon-commence-son-entrainement-dans-un-temple-secret-6dfnji/">Présidentielle 2022 : Benoît Hamon commence son entraînement dans un temple secret du Népal</a></h3>
-    <p class="card__summary">Népal – Arrivé discrètement il y a quelques jours, Benoît Hamon a rapidement commencé son entraînement auprès des moines de ce temple secret caché au cœur des Himalayas. Reportage.</p>
-    <p class="news-stats">
-  <span><span class="visually-hidden">Score Reddit : </span><span aria-hidden="true">▲</span> 104 votes</span>
-  <span>15 commentaires</span>
-</p>
-
-    
-
-<ul class="tag-list" aria-label="Tags">
-  
-  
-  <li><a class="tag" href="/tags/benoit-hamon/" data-timeline="/tags/benoit-hamon/timeline/">Benoît Hamon</a></li>
-  
-  
-  
-  <li><a class="tag" href="/tags/nepal/" data-timeline="/tags/nepal/timeline/">Népal</a></li>
+  <li><a class="tag tag--personnalite" href="/tags/benoit-hamon/" data-timeline="/tags/benoit-hamon/timeline/"><svg class="icon" width="12" height="12" viewBox="0 0 16 16" aria-hidden="true" focusable="false"><path fill="currentColor" d="M8 8a3.5 3.5 0 1 0 0-7 3.5 3.5 0 0 0 0 7zm0 1.5c-3.3 0-6 1.8-6 4V15h12v-1.5c0-2.2-2.7-4-6-4z"/></svg>
+Benoît Hamon</a></li>
   
   
   
   
-  <li><span class="tag tag--plain">Himalayas</span></li>
   
+  <li><a class="tag tag--theme" href="/tags/elections/" data-timeline="/tags/elections/timeline/">Élections</a></li>
   
-  
-  <li><a class="tag" href="/tags/humour/" data-timeline="/tags/humour/timeline/">Humour</a></li>
   
   
 </ul>
@@ -329,27 +275,33 @@
 
     
 
-<ul class="tag-list" aria-label="Tags">
-  
-  
-  <li><a class="tag" href="/tags/benoit-hamon/" data-timeline="/tags/benoit-hamon/timeline/">Benoît Hamon</a></li>
+<ul class="tag-list" aria-label="Fils">
   
   
   
-  <li><a class="tag" href="/tags/manuel-valls/" data-timeline="/tags/manuel-valls/timeline/">Manuel Valls</a></li>
-  
-  
-  
-  <li><a class="tag" href="/tags/essonne/" data-timeline="/tags/essonne/timeline/">Essonne</a></li>
+  <li><a class="tag tag--personnalite" href="/tags/manuel-valls/" data-timeline="/tags/manuel-valls/timeline/"><svg class="icon" width="12" height="12" viewBox="0 0 16 16" aria-hidden="true" focusable="false"><path fill="currentColor" d="M8 8a3.5 3.5 0 1 0 0-7 3.5 3.5 0 0 0 0 7zm0 1.5c-3.3 0-6 1.8-6 4V15h12v-1.5c0-2.2-2.7-4-6-4z"/></svg>
+Manuel Valls</a></li>
   
   
   
   
-  <li><span class="tag tag--plain">PCF Michel Nouaille</span></li>
+  
+  <li><a class="tag tag--personnalite" href="/tags/benoit-hamon/" data-timeline="/tags/benoit-hamon/timeline/"><svg class="icon" width="12" height="12" viewBox="0 0 16 16" aria-hidden="true" focusable="false"><path fill="currentColor" d="M8 8a3.5 3.5 0 1 0 0-7 3.5 3.5 0 0 0 0 7zm0 1.5c-3.3 0-6 1.8-6 4V15h12v-1.5c0-2.2-2.7-4-6-4z"/></svg>
+Benoît Hamon</a></li>
   
   
   
-  <li><a class="tag" href="/tags/politique/" data-timeline="/tags/politique/timeline/">Politique</a></li>
+  
+  
+  <li><a class="tag tag--theme" href="/tags/elections/" data-timeline="/tags/elections/timeline/">Élections</a></li>
+  
+  
+  
+  
+  
+  <li><a class="tag tag--personnalite" href="/tags/emmanuel-macron/" data-timeline="/tags/emmanuel-macron/timeline/"><svg class="icon" width="12" height="12" viewBox="0 0 16 16" aria-hidden="true" focusable="false"><path fill="currentColor" d="M8 8a3.5 3.5 0 1 0 0-7 3.5 3.5 0 0 0 0 7zm0 1.5c-3.3 0-6 1.8-6 4V15h12v-1.5c0-2.2-2.7-4-6-4z"/></svg>
+Emmanuel Macron</a></li>
+  
   
   
 </ul>
@@ -362,13 +314,16 @@
 </section>
 
 
+    </div>
   </main>
 
   <footer class="site-footer">
     <div class="container site-footer__inner">
-      <p>© 2026 FilNews — l'actualité remise dans son contexte, fil par fil.</p>
+      <p>© 2026 FilNews — l'actualité vue par r/france, fil par fil. Les articles appartiennent à leurs éditeurs.</p>
       <ul class="site-footer__links">
         <li><a href="/a-propos/">À propos</a></li>
+        <li><a href="/mentions-legales/">Mentions légales</a></li>
+        <li><a href="https://github.com/FlogFr/www-filnews" rel="noopener">Code source</a></li>
         <li><a href="/rss.xml">Flux RSS</a></li>
         <li><a href="/sitemap.xml">Plan du site</a></li>
       </ul>

@@ -13,8 +13,8 @@
   <meta property="og:site_name" content="FilNews">
   <meta property="og:locale" content="fr_FR">
   <meta property="og:type" content="website">
-  <meta property="og:title" content="FilNews — L&#x27;actualité vue par les Français">
-  <meta property="og:description" content="L'actualité vue par les Français, remise dans son contexte : suivez le fil de chaque sujet.">
+  <meta property="og:title" content="FilNews — L&#x27;actualité vue par r/france">
+  <meta property="og:description" content="L'actualité vue par r/france, remise dans son contexte : suivez le fil de chaque sujet.">
   <meta property="og:url" content="https://filnews.fr/a-propos/">
   <meta property="og:image" content="https://filnews.fr/static/img/og-default.dfebc7c9f193.png">
   <meta name="twitter:card" content="summary_large_image">
@@ -25,7 +25,7 @@
   <link rel="apple-touch-icon" href="/static/img/apple-touch-icon.8212a9f52a11.png">
   <link rel="preload" href="/static/fonts/oswald-latin-700-normal.5e79fc3b5fbd.woff2" as="font" type="font/woff2" crossorigin>
   <link rel="preload" href="/static/fonts/lora-latin-400-normal.6a24bfe835a2.woff2" as="font" type="font/woff2" crossorigin>
-  <link rel="stylesheet" href="/static/css/main.f5195b6026c6.css">
+  <link rel="stylesheet" href="/static/css/main.3bf0c727cc2d.css">
   <script src="/static/js/theme.717c1f1ef66a.js"></script>
   <script type="module" src="/static/js/main.a545fbbbc6fb.js"></script>
   <script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Accueil", "item": "https://filnews.fr/"}, {"@type": "ListItem", "position": 2, "name": "À propos", "item": "https://filnews.fr/a-propos/"}]}</script>
@@ -36,16 +36,18 @@
   <header class="site-header">
     <div class="container site-header__inner">
       <a class="brand" href="/" rel="home">
-        <img class="brand__mark" src="/static/img/favicon.ecb5d5be8d15.svg" width="36" height="36" alt="">
+        <svg class="brand__mark" width="40" height="36" viewBox="0 0 40 36" aria-hidden="true" focusable="false"><path d="M2 22c6-9 10-9 14-4s8 5 12-2 7-7 10-4" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"/><circle cx="9.75" cy="14.75" r="3.4" fill="currentColor"/><circle cx="22" cy="21.5" r="3.4" fill="currentColor"/><circle cx="33.4" cy="10.3" r="3.4" fill="currentColor"/></svg>
+
         <span class="brand__name">Fil<span>News</span></span>
-        <span class="brand__tagline">L&#x27;actualité vue par les Français</span>
+        <span class="brand__tagline">L&#x27;actualité vue par r/france</span>
       </a>
       
       <nav class="site-nav" aria-label="Navigation principale">
         <ul class="site-nav__list">
           <li><a href="/">Accueil</a></li>
           <li><a href="/archives/">Archives</a></li>
-          <li><a href="/tags/">Tags</a></li>
+          <li><a href="/tags/">Tous les fils</a></li>
+          <li><a href="/presidentielle-2027/">Présidentielle 2027</a></li>
           <li><a href="/a-propos/" aria-current="page">À propos</a></li>
           <li><a class="rss-link" href="/rss.xml"><svg class="icon" width="16" height="16" viewBox="0 0 16 16" aria-hidden="true" focusable="false"><path fill="currentColor" d="M2 2a12 12 0 0 1 12 12h-2.4A9.6 9.6 0 0 0 2 4.4zm0 4.8A7.2 7.2 0 0 1 9.2 14H6.8A4.8 4.8 0 0 0 2 9.2zM3.6 11a1.5 1.5 0 1 1 0 3 1.5 1.5 0 0 1 0-3z"/></svg>
 <span>RSS</span></a></li>
@@ -56,8 +58,10 @@
     </div>
   </header>
 
-  <main id="main" class="container site-main" tabindex="-1">
+  <main id="main" class="site-main" tabindex="-1">
     
+    <div class="container site-main__inner">
+      
 <nav class="breadcrumb" aria-label="Fil d'Ariane">
   <ol>
     <li><a href="/">Accueil</a></li>
@@ -71,7 +75,7 @@
   <p>Une actualité isolée se comprend mal : qui sont les acteurs, que s'est-il passé avant, où en est le sujet ? Le but de FilNews est de <strong>remettre du contexte autour de chaque article</strong>, en le replaçant dans le <strong>fil</strong> de l'actualité dont il fait partie.</p>
   <p>Les news proviennent de la communauté <a href="https://www.reddit.com/r/france/" rel="noopener">r/france</a>. Un algorithme objectif, identique pour tous les sujets, retient les articles qui ont suscité le plus d'intérêt : aucun choix éditorial, aucune ligne politique.</p>
   <h2>Suivre un sujet dans son fil</h2>
-  <p>Chaque article est rattaché à des <a href="/tags/">tags</a> : personnes, lieux, organisations, thèmes. Chaque tag forme un <strong>fil</strong>, la frise chronologique de toutes les news qui en parlent. En partant d'un article, il suffit de suivre ses tags pour remonter le fil : les événements qui l'ont précédé, ceux qui ont suivi, et les sujets qui s'y croisent.</p>
+  <p>Chaque article est rattaché à des <a href="/tags/">fils</a> : les personnalités politiques et les grands thèmes politiques et de société dont il parle. Chaque fil est la frise chronologique de toutes les news qui en parlent. En partant d'un article, il suffit de suivre ses fils pour remonter le temps : les événements qui l'ont précédé, ceux qui ont suivi, et les sujets qui s'y croisent.</p>
   <h2>Comment ça marche ?</h2>
   <ol>
     <li><strong>Sélection</strong> : plusieurs fois par jour, l'algorithme retient les liens d'actualité qui ont suscité le plus d'intérêt.</li>
@@ -81,16 +85,21 @@
   <h2>Suivre les news</h2>
   <p>Toutes les news sont disponibles dans le <a href="/rss.xml">flux RSS</a>, de la plus récente à la plus ancienne.</p>
   <h2>Sources</h2>
-  <p>Les articles appartiennent à leurs éditeurs respectifs : FilNews n'en publie qu'un court résumé et renvoie systématiquement vers la source.</p>
+  <p>Les articles appartiennent à leurs éditeurs respectifs : FilNews n'en publie qu'un court résumé et renvoie systématiquement vers la source. Seuls les liens vers des médias reconnus sont retenus : pas de vidéos YouTube, de réseaux sociaux, de blogs ni de sites satiriques.</p>
+  <h2>Transparence</h2>
+  <p>r/france ne représente pas l'ensemble des Français : FilNews montre l'actualité telle que cette communauté la partage et la discute. Tout le code du site, la liste des médias retenus et le vocabulaire des fils sont publics sur <a href="https://github.com/FlogFr/www-filnews" rel="noopener">GitHub</a>. Voir aussi les <a href="/mentions-legales/">mentions légales</a>.</p>
 </article>
 
+    </div>
   </main>
 
   <footer class="site-footer">
     <div class="container site-footer__inner">
-      <p>© 2026 FilNews — l'actualité remise dans son contexte, fil par fil.</p>
+      <p>© 2026 FilNews — l'actualité vue par r/france, fil par fil. Les articles appartiennent à leurs éditeurs.</p>
       <ul class="site-footer__links">
         <li><a href="/a-propos/">À propos</a></li>
+        <li><a href="/mentions-legales/">Mentions légales</a></li>
+        <li><a href="https://github.com/FlogFr/www-filnews" rel="noopener">Code source</a></li>
         <li><a href="/rss.xml">Flux RSS</a></li>
         <li><a href="/sitemap.xml">Plan du site</a></li>
       </ul>

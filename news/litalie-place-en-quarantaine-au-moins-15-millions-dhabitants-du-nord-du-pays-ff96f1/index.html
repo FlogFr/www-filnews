@@ -30,7 +30,7 @@
   <link rel="apple-touch-icon" href="/static/img/apple-touch-icon.8212a9f52a11.png">
   <link rel="preload" href="/static/fonts/oswald-latin-700-normal.5e79fc3b5fbd.woff2" as="font" type="font/woff2" crossorigin>
   <link rel="preload" href="/static/fonts/lora-latin-400-normal.6a24bfe835a2.woff2" as="font" type="font/woff2" crossorigin>
-  <link rel="stylesheet" href="/static/css/main.f5195b6026c6.css">
+  <link rel="stylesheet" href="/static/css/main.3bf0c727cc2d.css">
   <script src="/static/js/theme.717c1f1ef66a.js"></script>
   <script type="module" src="/static/js/main.a545fbbbc6fb.js"></script>
   <script type="application/ld+json">{"@context": "https://schema.org", "@type": "NewsArticle", "headline": "L'Italie place en quarantaine au moins 15 millions d'habitants du nord du pays", "datePublished": "2020-03-08T07:16:33+00:00", "dateModified": "2026-11-01T09:40:34.081638+00:00", "mainEntityOfPage": "https://filnews.fr/news/litalie-place-en-quarantaine-au-moins-15-millions-dhabitants-du-nord-du-pays-ff96f1/", "url": "https://filnews.fr/news/litalie-place-en-quarantaine-au-moins-15-millions-dhabitants-du-nord-du-pays-ff96f1/", "isBasedOn": "https://www.lemonde.fr/planete/article/2020/03/07/coronavirus-l-italie-envisage-de-placer-en-quarantaine-milan-venise-et-d-autres-zones_6032220_3244.html", "inLanguage": "fr-FR", "keywords": "Covid-19", "publisher": {"@type": "Organization", "name": "FilNews", "url": "https://filnews.fr/", "logo": {"@type": "ImageObject", "url": "https://filnews.fr/static/img/logo.4a25c3343e40.png"}}, "author": {"@type": "Organization", "name": "lemonde.fr"}, "image": ["https://filnews.fr/media/thumbnails/ff96f1.webp"]}</script><script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Accueil", "item": "https://filnews.fr/"}, {"@type": "ListItem", "position": 2, "name": "Archives", "item": "https://filnews.fr/archives/"}, {"@type": "ListItem", "position": 3, "name": "L'Italie place en quarantaine au moins 15 millions d'habitants du nord du pays", "item": "https://filnews.fr/news/litalie-place-en-quarantaine-au-moins-15-millions-dhabitants-du-nord-du-pays-ff96f1/"}]}</script>
@@ -41,16 +41,18 @@
   <header class="site-header">
     <div class="container site-header__inner">
       <a class="brand" href="/" rel="home">
-        <img class="brand__mark" src="/static/img/favicon.ecb5d5be8d15.svg" width="36" height="36" alt="">
+        <svg class="brand__mark" width="40" height="36" viewBox="0 0 40 36" aria-hidden="true" focusable="false"><path d="M2 22c6-9 10-9 14-4s8 5 12-2 7-7 10-4" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"/><circle cx="9.75" cy="14.75" r="3.4" fill="currentColor"/><circle cx="22" cy="21.5" r="3.4" fill="currentColor"/><circle cx="33.4" cy="10.3" r="3.4" fill="currentColor"/></svg>
+
         <span class="brand__name">Fil<span>News</span></span>
-        <span class="brand__tagline">L&#x27;actualité vue par les Français</span>
+        <span class="brand__tagline">L&#x27;actualité vue par r/france</span>
       </a>
       
       <nav class="site-nav" aria-label="Navigation principale">
         <ul class="site-nav__list">
           <li><a href="/">Accueil</a></li>
           <li><a href="/archives/">Archives</a></li>
-          <li><a href="/tags/">Tags</a></li>
+          <li><a href="/tags/">Tous les fils</a></li>
+          <li><a href="/presidentielle-2027/">Présidentielle 2027</a></li>
           <li><a href="/a-propos/">À propos</a></li>
           <li><a class="rss-link" href="/rss.xml"><svg class="icon" width="16" height="16" viewBox="0 0 16 16" aria-hidden="true" focusable="false"><path fill="currentColor" d="M2 2a12 12 0 0 1 12 12h-2.4A9.6 9.6 0 0 0 2 4.4zm0 4.8A7.2 7.2 0 0 1 9.2 14H6.8A4.8 4.8 0 0 0 2 9.2zM3.6 11a1.5 1.5 0 1 1 0 3 1.5 1.5 0 0 1 0-3z"/></svg>
 <span>RSS</span></a></li>
@@ -61,8 +63,10 @@
     </div>
   </header>
 
-  <main id="main" class="container site-main" tabindex="-1">
+  <main id="main" class="site-main" tabindex="-1">
     
+    <div class="container site-main__inner">
+      
 <nav class="breadcrumb" aria-label="Fil d'Ariane">
   <ol>
     <li><a href="/">Accueil</a></li>
@@ -102,10 +106,12 @@
     <h2 class="section-title" id="tags-title">Dans le fil de l'actualité</h2>
     
 
-<ul class="tag-list" aria-label="Tags">
+<ul class="tag-list" aria-label="Fils">
   
   
-  <li><a class="tag" href="/tags/covid-19/" data-timeline="/tags/covid-19/timeline/">Covid-19</a></li>
+  
+  <li><a class="tag tag--theme" href="/tags/covid-19/" data-timeline="/tags/covid-19/timeline/">Covid-19</a></li>
+  
   
   
 </ul>
@@ -121,47 +127,155 @@
   <div class="card-grid">
     
 <article class="card">
-  <a class="card__media" href="/news/covid-19-faute-de-touristes-a-paris-des-proprietaires-quittent-airbnb-pour-reven-m3hblf/" tabindex="-1" aria-hidden="true">
+  <a class="card__media" href="/news/francois-asselineau-positif-au-covid-19-ne-participera-pas-aux-manifestations-an-ouk34o/" tabindex="-1" aria-hidden="true">
     
-    <img src="/media/thumbnails/m3hblf.webp" width="640" height="360" alt="" loading="lazy" decoding="async">
+    <img src="/media/thumbnails/ouk34o.webp" width="640" height="360" alt="" loading="lazy" decoding="async">
+    
+  </a>
+  <div class="card__body">
+    <p class="news-meta">
+  <span class="news-meta__source">lefigaro.fr</span>
+  <time datetime="2021-07-30T14:57:20+02:00">30 juillet 2021 à 14:57</time>
+</p>
+
+    <h3 class="card__title"><a href="/news/francois-asselineau-positif-au-covid-19-ne-participera-pas-aux-manifestations-an-ouk34o/">François Asselineau, positif au Covid-19, ne participera pas aux manifestations anti-passe sanitaire de samedi</a></h3>
+    <p class="card__summary">Le candidat à la présidentielle de 2017 a annoncé avoir des «courbatures, de la fièvre et avoir toussé au cours de la journée de dimanche». Il a cependant appelé les Français «à d…</p>
+    <p class="news-stats">
+  <span><span class="visually-hidden">Score Reddit : </span><span aria-hidden="true">▲</span> 324 votes</span>
+  <span>110 commentaires</span>
+</p>
+
+    
+
+<ul class="tag-list" aria-label="Fils">
+  
+  
+  
+  <li><a class="tag tag--theme" href="/tags/covid-19/" data-timeline="/tags/covid-19/timeline/">Covid-19</a></li>
+  
+  
+  
+  
+  
+  <li><a class="tag tag--theme" href="/tags/manifestations/" data-timeline="/tags/manifestations/timeline/">Manifestations</a></li>
+  
+  
+  
+</ul>
+
+
+  </div>
+</article>
+
+<article class="card">
+  <a class="card__media" href="/news/trafic-de-faux-certificats-de-vaccination-un-an-de-prison-ferme-pour-une-employe-ouf32r/" tabindex="-1" aria-hidden="true">
+    
+    <img src="/media/thumbnails/ouf32r.webp" width="640" height="360" alt="" loading="lazy" decoding="async">
+    
+  </a>
+  <div class="card__body">
+    <p class="news-meta">
+  <span class="news-meta__source">lefigaro.fr</span>
+  <time datetime="2021-07-30T08:11:59+02:00">30 juillet 2021 à 08:11</time>
+</p>
+
+    <h3 class="card__title"><a href="/news/trafic-de-faux-certificats-de-vaccination-un-an-de-prison-ferme-pour-une-employe-ouf32r/">Trafic de faux certificats de vaccination: un an de prison ferme pour une employée d&#x27;un vaccidrive</a></h3>
+    <p class="card__summary">La contractuelle de la CPAM de Saint-Denis avait généré 200 faux QR codes pour les vendre sur l&#x27;application Snapchat.</p>
+    <p class="news-stats">
+  <span><span class="visually-hidden">Score Reddit : </span><span aria-hidden="true">▲</span> 619 votes</span>
+  <span>247 commentaires</span>
+</p>
+
+    
+
+<ul class="tag-list" aria-label="Fils">
+  
+  
+  
+  <li><a class="tag tag--theme" href="/tags/covid-19/" data-timeline="/tags/covid-19/timeline/">Covid-19</a></li>
+  
+  
+  
+</ul>
+
+
+  </div>
+</article>
+
+<article class="card">
+  <a class="card__media" href="/news/dans-les-colleges-et-lycees-les-eleves-non-vaccines-seront-evinces-sil-y-a-un-ca-ot4wzr/" tabindex="-1" aria-hidden="true">
+    
+    <img src="/media/thumbnails/ot4wzr.webp" width="640" height="360" alt="" loading="lazy" decoding="async">
+    
+  </a>
+  <div class="card__body">
+    <p class="news-meta">
+  <span class="news-meta__source">lemonde.fr</span>
+  <time datetime="2021-07-28T09:16:10+02:00">28 juillet 2021 à 09:16</time>
+</p>
+
+    <h3 class="card__title"><a href="/news/dans-les-colleges-et-lycees-les-eleves-non-vaccines-seront-evinces-sil-y-a-un-ca-ot4wzr/">Dans les collèges et lycées, les élèves non vaccinés seront évincés s’il y a un cas de Covid-19 dans une classe</a></h3>
+    
+    <p class="news-stats">
+  <span><span class="visually-hidden">Score Reddit : </span><span aria-hidden="true">▲</span> 196 votes</span>
+  <span>373 commentaires</span>
+</p>
+
+    
+
+<ul class="tag-list" aria-label="Fils">
+  
+  
+  
+  <li><a class="tag tag--theme" href="/tags/covid-19/" data-timeline="/tags/covid-19/timeline/">Covid-19</a></li>
+  
+  
+  
+  
+  
+  <li><a class="tag tag--theme" href="/tags/education/" data-timeline="/tags/education/timeline/">Éducation</a></li>
+  
+  
+  
+</ul>
+
+
+  </div>
+</article>
+
+<article class="card">
+  <a class="card__media" href="/news/covid-19-94-des-patients-en-reanimation-ne-sont-pas-vaccines-alertent-des-medeci-osjb5e/" tabindex="-1" aria-hidden="true">
+    
+    <img src="/media/thumbnails/osjb5e.webp" width="640" height="360" alt="" loading="lazy" decoding="async">
     
   </a>
   <div class="card__body">
     <p class="news-meta">
   <span class="news-meta__source">francetvinfo.fr</span>
-  <time datetime="2021-03-12T14:15:41+01:00">12 mars 2021 à 14:15</time>
+  <time datetime="2021-07-27T11:10:56+02:00">27 juillet 2021 à 11:10</time>
 </p>
 
-    <h3 class="card__title"><a href="/news/covid-19-faute-de-touristes-a-paris-des-proprietaires-quittent-airbnb-pour-reven-m3hblf/">Covid-19 : faute de touristes à Paris, des propriétaires quittent Airbnb pour revenir sur le marché de l&#x27;immobilier classique</a></h3>
-    <p class="card__summary">Le tourisme est en berne à cause de la crise sanitaire. Les logements auparavant loués sur Airbnb pour quelques jours ou semaines ne trouvant plus preneurs, leurs propriétaires ch…</p>
+    <h3 class="card__title"><a href="/news/covid-19-94-des-patients-en-reanimation-ne-sont-pas-vaccines-alertent-des-medeci-osjb5e/">Covid-19 : &quot;94% des patients en réanimation ne sont pas vaccinés&quot;, alertent des médecins réanimateurs de région Paca</a></h3>
+    <p class="card__summary">Sur un total de 51 patients admis entre le 5 et le 19 juillet en réanimation dans les hôpitaux de la région Paca, seuls trois reçu toutes leurs doses de vaccin.</p>
     <p class="news-stats">
-  <span><span class="visually-hidden">Score Reddit : </span><span aria-hidden="true">▲</span> 174 votes</span>
-  <span>103 commentaires</span>
+  <span><span class="visually-hidden">Score Reddit : </span><span aria-hidden="true">▲</span> 354 votes</span>
+  <span>208 commentaires</span>
 </p>
 
     
 
-<ul class="tag-list" aria-label="Tags">
-  
-  
-  <li><a class="tag" href="/tags/airbnb/" data-timeline="/tags/airbnb/timeline/">Airbnb</a></li>
+<ul class="tag-list" aria-label="Fils">
   
   
   
-  <li><a class="tag" href="/tags/paris/" data-timeline="/tags/paris/timeline/">Paris</a></li>
+  <li><a class="tag tag--theme" href="/tags/covid-19/" data-timeline="/tags/covid-19/timeline/">Covid-19</a></li>
   
   
   
   
-  <li><span class="tag tag--plain">Frédéric Teboul</span></li>
   
+  <li><a class="tag tag--theme" href="/tags/sante/" data-timeline="/tags/sante/timeline/">Santé</a></li>
   
-  
-  <li><a class="tag" href="/tags/tech-web/" data-timeline="/tags/tech-web/timeline/">Tech / Web</a></li>
-  
-  
-  
-  <li><a class="tag" href="/tags/covid-19/" data-timeline="/tags/covid-19/timeline/">Covid-19</a></li>
   
   
 </ul>
@@ -171,175 +285,32 @@
 </article>
 
 <article class="card">
-  <a class="card__media" href="/news/scandale-en-suede-un-pediatre-a-tronque-les-chiffres-des-deces-denfants-pour-gar-m2n8de/" tabindex="-1" aria-hidden="true">
+  <a class="card__media" href="/news/la-quatrieme-vague-nest-pas-une-epidemie-de-jeunes-mais-de-non-vaccines-op9s2b/" tabindex="-1" aria-hidden="true">
     
-    <img src="/media/thumbnails/m2n8de.webp" width="640" height="360" alt="" loading="lazy" decoding="async">
-    
-  </a>
-  <div class="card__body">
-    <p class="news-meta">
-  <span class="news-meta__source">fr.businessam.be</span>
-  <time datetime="2021-03-11T11:27:28+01:00">11 mars 2021 à 11:27</time>
-</p>
-
-    <h3 class="card__title"><a href="/news/scandale-en-suede-un-pediatre-a-tronque-les-chiffres-des-deces-denfants-pour-gar-m2n8de/">Scandale en Suède: un pédiatre a tronqué les chiffres des décès d&#x27;enfants pour garder les écoles ouvertes</a></h3>
-    <p class="card__summary">La Suède a longtemps adopté une politique à la marge de ce qui s&#x27;est fait ailleurs dans le monde en vue de lutter contre la pandémie de Covid-19. Misant</p>
-    <p class="news-stats">
-  <span><span class="visually-hidden">Score Reddit : </span><span aria-hidden="true">▲</span> 435 votes</span>
-  <span>163 commentaires</span>
-</p>
-
-    
-
-<ul class="tag-list" aria-label="Tags">
-  
-  
-  <li><a class="tag" href="/tags/suede/" data-timeline="/tags/suede/timeline/">Suède</a></li>
-  
-  
-  
-  <li><a class="tag" href="/tags/covid-19/" data-timeline="/tags/covid-19/timeline/">Covid-19</a></li>
-  
-  
-  
-  
-  <li><span class="tag tag--plain">Ludvigsson</span></li>
-  
-  
-  
-  <li><a class="tag" href="/tags/science/" data-timeline="/tags/science/timeline/">Science</a></li>
-  
-  
-</ul>
-
-
-  </div>
-</article>
-
-<article class="card">
-  <a class="card__media" href="/news/mars-2020-il-y-a-un-an-emmanuel-et-brigitte-macron-au-theatre-pour-inciter-les-f-m1hepo/" tabindex="-1" aria-hidden="true">
-    
-    <img src="/media/thumbnails/m1hepo.webp" width="640" height="360" alt="" loading="lazy" decoding="async">
+    <img src="/media/thumbnails/op9s2b.webp" width="640" height="360" alt="" loading="lazy" decoding="async">
     
   </a>
   <div class="card__body">
     <p class="news-meta">
-  <span class="news-meta__source">bfmtv.com</span>
-  <time datetime="2021-03-09T22:54:26+01:00">9 mars 2021 à 22:54</time>
+  <span class="news-meta__source">nouvelobs.com</span>
+  <time datetime="2021-07-22T10:34:05+02:00">22 juillet 2021 à 10:34</time>
 </p>
 
-    <h3 class="card__title"><a href="/news/mars-2020-il-y-a-un-an-emmanuel-et-brigitte-macron-au-theatre-pour-inciter-les-f-m1hepo/">Mars 2020, il y a un an - Emmanuel et Brigitte Macron au théâtre pour inciter les Français à sortir malgré le coronavirus</a></h3>
-    <p class="card__summary">Le chef de l&#x27;Etat a assisté avec son épouse à une représentation de la nouvelle pièce des auteurs du Prénom pour inciter les Français à ne pas modifier leurs habitudes de sortie.</p>
+    <h3 class="card__title"><a href="/news/la-quatrieme-vague-nest-pas-une-epidemie-de-jeunes-mais-de-non-vaccines-op9s2b/">La quatrième vague n’est pas « une épidémie de jeunes mais de non-vaccinés »</a></h3>
+    <p class="card__summary">Grâce à la campagne de vaccination, l’épidémiologiste Catherine Hill se veut rassurante pour la suite de l’été, car les plus fragiles sont vaccinés. Pour elle, l’ampleur de la qua…</p>
     <p class="news-stats">
-  <span><span class="visually-hidden">Score Reddit : </span><span aria-hidden="true">▲</span> 212 votes</span>
-  <span>109 commentaires</span>
+  <span><span class="visually-hidden">Score Reddit : </span><span aria-hidden="true">▲</span> 203 votes</span>
+  <span>282 commentaires</span>
 </p>
 
     
 
-<ul class="tag-list" aria-label="Tags">
-  
-  
-  <li><a class="tag" href="/tags/francais/" data-timeline="/tags/francais/timeline/">Français</a></li>
+<ul class="tag-list" aria-label="Fils">
   
   
   
-  <li><a class="tag" href="/tags/brigitte-macron/" data-timeline="/tags/brigitte-macron/timeline/">Brigitte Macron</a></li>
+  <li><a class="tag tag--theme" href="/tags/covid-19/" data-timeline="/tags/covid-19/timeline/">Covid-19</a></li>
   
-  
-  
-  
-  <li><span class="tag tag--plain">Prénom</span></li>
-  
-  
-  
-  <li><a class="tag" href="/tags/etat/" data-timeline="/tags/etat/timeline/">Etat</a></li>
-  
-  
-  
-  <li><a class="tag" href="/tags/covid-19/" data-timeline="/tags/covid-19/timeline/">Covid-19</a></li>
-  
-  
-</ul>
-
-
-  </div>
-</article>
-
-<article class="card">
-  <a class="card__media" href="/news/depuis-un-an-lexecutif-affirme-que-la-semaine-prochaine-sera-decisive-france-lz22ec/" tabindex="-1" aria-hidden="true">
-    
-    <img src="/media/thumbnails/lz22ec.webp" width="640" height="360" alt="" loading="lazy" decoding="async">
-    
-  </a>
-  <div class="card__body">
-    <p class="news-meta">
-  <span class="news-meta__source">letelegramme.fr</span>
-  <time datetime="2021-03-06T14:58:11+01:00">6 mars 2021 à 14:58</time>
-</p>
-
-    <h3 class="card__title"><a href="/news/depuis-un-an-lexecutif-affirme-que-la-semaine-prochaine-sera-decisive-france-lz22ec/">Depuis un an, l’Exécutif affirme que la « semaine prochaine sera décisive » - France</a></h3>
-    
-    <p class="news-stats">
-  <span><span class="visually-hidden">Score Reddit : </span><span aria-hidden="true">▲</span> 254 votes</span>
-  <span>75 commentaires</span>
-</p>
-
-    
-
-<ul class="tag-list" aria-label="Tags">
-  
-  
-  <li><a class="tag" href="/tags/covid-19/" data-timeline="/tags/covid-19/timeline/">Covid-19</a></li>
-  
-  
-</ul>
-
-
-  </div>
-</article>
-
-<article class="card">
-  <a class="card__media" href="/news/sondage-85-des-francais-jugent-anxiogenes-les-hesitations-de-lexecutif-sur-le-co-lccp0a/" tabindex="-1" aria-hidden="true">
-    
-    <img src="/media/thumbnails/lccp0a.webp" width="640" height="360" alt="" loading="lazy" decoding="async">
-    
-  </a>
-  <div class="card__body">
-    <p class="news-meta">
-  <span class="news-meta__source">huffingtonpost.fr</span>
-  <time datetime="2021-02-04T11:14:36+01:00">4 février 2021 à 11:14</time>
-</p>
-
-    <h3 class="card__title"><a href="/news/sondage-85-des-francais-jugent-anxiogenes-les-hesitations-de-lexecutif-sur-le-co-lccp0a/">SONDAGE - 85% des Français jugent anxiogènes les hésitations de l&#x27;exécutif sur le confinement</a></h3>
-    <p class="card__summary">Un sondage YouGov pour &quot;Le HuffPost&quot; révèle que les Français restent très sceptiques sur la gestion de la crise par le gouvernement.</p>
-    <p class="news-stats">
-  <span><span class="visually-hidden">Score Reddit : </span><span aria-hidden="true">▲</span> 496 votes</span>
-  <span>252 commentaires</span>
-</p>
-
-    
-
-<ul class="tag-list" aria-label="Tags">
-  
-  
-  <li><a class="tag" href="/tags/francais/" data-timeline="/tags/francais/timeline/">Français</a></li>
-  
-  
-  
-  <li><a class="tag" href="/tags/huffpost/" data-timeline="/tags/huffpost/timeline/">HuffPost</a></li>
-  
-  
-  
-  <li><a class="tag" href="/tags/jean-castex/" data-timeline="/tags/jean-castex/timeline/">Jean Castex</a></li>
-  
-  
-  
-  <li><a class="tag" href="/tags/yougov/" data-timeline="/tags/yougov/timeline/">YouGov</a></li>
-  
-  
-  
-  <li><a class="tag" href="/tags/covid-19/" data-timeline="/tags/covid-19/timeline/">Covid-19</a></li>
   
   
 </ul>
@@ -352,13 +323,16 @@
 </section>
 
 
+    </div>
   </main>
 
   <footer class="site-footer">
     <div class="container site-footer__inner">
-      <p>© 2026 FilNews — l'actualité remise dans son contexte, fil par fil.</p>
+      <p>© 2026 FilNews — l'actualité vue par r/france, fil par fil. Les articles appartiennent à leurs éditeurs.</p>
       <ul class="site-footer__links">
         <li><a href="/a-propos/">À propos</a></li>
+        <li><a href="/mentions-legales/">Mentions légales</a></li>
+        <li><a href="https://github.com/FlogFr/www-filnews" rel="noopener">Code source</a></li>
         <li><a href="/rss.xml">Flux RSS</a></li>
         <li><a href="/sitemap.xml">Plan du site</a></li>
       </ul>
