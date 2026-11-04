@@ -3,6 +3,7 @@
 
 {% block title %}{{ news.title }} — {{ SITE_NAME }}{% endblock %}
 {% block description %}{{ news.summary|default:news.title|truncatechars:160 }}{% endblock %}
+{% block robots %}{% if indexable %}{{ block.super }}{% else %}noindex, follow, max-image-preview:large{% endif %}{% endblock %}
 {% block og_type %}article{% endblock %}
 {% block og_title %}{{ news.title }}{% endblock %}
 {% block og_description %}{{ news.summary|default:news.title|truncatechars:200 }}{% endblock %}
@@ -38,6 +39,16 @@
     <li><a class="button" href="{{ news.url }}" rel="noopener ugc">Lire l'article{% if news.domain %} sur {{ news.domain }}{% endif %}</a></li>
     <li><a class="button button--ghost" href="{{ news.reddit_url }}" rel="noopener ugc">Voir la discussion sur Reddit</a></li>
   </ul>
+
+  <section class="article__context" aria-labelledby="context-title">
+    <h2 class="section-title" id="context-title">Le contexte</h2>
+    <ul class="context-list">
+      <li>Sur r/{{ news.subreddit|default:"france" }}, {% if insight.day_count == 1 %}c'est la seule news retenue du {{ news.created_at|date_fr:"j F Y" }}{% elif insight.day_rank == 1 %}c'est la news la plus votée du {{ news.created_at|date_fr:"j F Y" }}, parmi {{ insight.day_count }} news ce jour-là{% else %}c'est la {{ insight.day_rank|ordinal_fr }} news la plus votée du {{ news.created_at|date_fr:"j F Y" }}, parmi {{ insight.day_count }} news ce jour-là{% endif %} ({{ news.score }} votes, {{ news.num_comments }} commentaire{{ news.num_comments|pluralize }}).</li>
+      {% for position in insight.threads %}
+      <li>Fil <a href="{% url 'tag_detail' position.tag.slug %}">{{ position.tag.name }}</a> : {% if position.rank == 1 %}c'est la première news de ce fil, qui en compte aujourd'hui {{ position.tag.count }}.{% else %}{% if position.rank == position.tag.count %}la plus récente des {{ position.tag.count }} news{% else %}{{ position.rank|ordinal_fr }} news sur {{ position.tag.count }}{% endif %} depuis le {{ position.tag.first_seen|date_fr:"j F Y" }}. La précédente, {{ position.gap }} plus tôt : <a href="{% url 'news_detail' position.previous.slug %}">{{ position.previous.title }}</a>.{% endif %}</li>
+      {% endfor %}
+    </ul>
+  </section>
 
   {% if news.tags %}
   <section class="article__tags" aria-labelledby="tags-title">

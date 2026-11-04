@@ -1,3 +1,4 @@
+{% load filnews_tags %}
 {% comment %}
 Tag history in the hover card: one dot per news on an axis fitted to the
 tag's history, or one bar per period for big tags (see timeline.py). Dots are mouse-only (tabindex -1) because the card itself is
@@ -15,12 +16,12 @@ not focusable; keyboard users open the tag page instead.
     {% endfor %}
     {% for point in timeline.points %}
     <a href="{% url 'news_detail' point.news.slug %}" tabindex="-1" data-news="{{ point.news.id }}">
-      <title>{{ point.news.created_at|date:"j F Y" }} — {{ point.news.title }}</title>
+      <title>{{ point.news.created_at|date_fr:"j F Y" }} — {{ point.news.title }}</title>
       <circle class="timeline__dot" cx="{{ point.position|stringformat:'.3f' }}%" cy="20" r="6"/>
     </a>
     {% endfor %}
   </svg>
   <figcaption id="timeline-caption-{{ tag.slug }}" class="visually-hidden">
-    Frise de « {{ tag.name }} » : {{ tag.count }} news, du {{ tag.first_seen|date:"j F Y" }} au {{ tag.last_seen|date:"j F Y" }}.
+    Frise de « {{ tag.name }} » : {{ tag.count }} news, du {{ tag.first_seen|date_fr:"j F Y" }} au {{ tag.last_seen|date_fr:"j F Y" }}.
   </figcaption>
 </figure>

@@ -143,6 +143,11 @@ FILNEWS_TAG_MIN_NEWS = 2
 FILNEWS_TAG_THREAD_SIZE = 60
 FILNEWS_TIMELINE_MAX_DOTS = 40
 
+# SEO: news pages mostly repeat their source (title, description), so they
+# are "noindex, follow" and left out of the sitemap; the Fils carry the
+# original content. Set to true to index them again.
+FILNEWS_INDEX_NEWS = env_bool("FILNEWS_INDEX_NEWS", False)
+
 # Reddit API — secrets come from the environment only.
 REDDIT_CLIENT_ID = os.environ.get("REDDIT_CLIENT_ID", "")
 REDDIT_CLIENT_SECRET = os.environ.get("REDDIT_CLIENT_SECRET", "")

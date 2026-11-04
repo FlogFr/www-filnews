@@ -35,7 +35,9 @@ politiques** (silhouette) et les **grands thèmes** politiques et de société
   pour repérer sa news dans la liste. L'échelle de la frise s'adapte à
   l'historique du tag (jours, mois ou années), si bien que deux news à un jour
   d'écart restent bien distinctes.
-- **Cliquez** sur un tag : sa page présente **le Fil**, une ligne verticale où
+- **Cliquez** sur un tag : sa page commence par un portrait du sujet (période
+  couverte, mois le plus actif, médias les plus cités, news la plus votée,
+  fils voisins), puis présente **le Fil**, une ligne verticale où
   toutes les news du sujet s'enchaînent de la plus récente à la plus ancienne,
   alternativement à gauche et à droite, avec leur date et le temps écoulé
   entre deux news. En faisant défiler, la news au centre de l'écran est mise
@@ -53,6 +55,8 @@ Elle présente le titre, la source, le résumé, l'image, puis :
 
 - **Lire l'article** : ouvre l'article original chez l'éditeur ;
 - **Voir la discussion sur Reddit** : les commentaires de la communauté ;
+- **Le contexte** : le rang de la news parmi celles du jour sur r/france, et
+  pour ses principaux fils sa place dans le fil et la news qui l'a précédée ;
 - **Dans le fil de l'actualité** : les tags de la news ;
 - **Sur les mêmes sujets** : jusqu'à 5 news qui partagent des tags.
 

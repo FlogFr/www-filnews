@@ -9,9 +9,9 @@ from typing import Literal
 
 from django.conf import settings
 from django.utils import timezone
-from django.utils.dateformat import format as date_format
 from django.utils.timesince import timesince
 
+from .dates import format_date as date_format
 from .models import News, TagSummary
 
 TICK_COUNT = 5

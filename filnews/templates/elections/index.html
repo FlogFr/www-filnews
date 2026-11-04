@@ -11,7 +11,7 @@
 {% include "partials/breadcrumb.html" with current="Présidentielle 2027" %}
 <header class="page-header">
   <h1 class="page-title"><span class="page-title__kicker">Le fil de la présidentielle</span> {{ election_name }}</h1>
-  <p class="page-intro">Premier tour prévu le {{ first_round|date:"j F Y" }}. Les candidats, leurs fils, et toute la campagne telle qu'elle est discutée sur r/france depuis {{ campaign_start|date:"F Y" }}.</p>
+  <p class="page-intro">Premier tour prévu le {{ first_round|date_fr:"j F Y" }}. Les candidats, leurs fils, et toute la campagne telle qu'elle est discutée sur r/france depuis {{ campaign_start|date:"F Y" }}.</p>
 </header>
 
 <section class="candidates" aria-labelledby="candidates-title">

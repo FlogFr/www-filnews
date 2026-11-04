@@ -35,6 +35,8 @@ données, coût et surface d'attaque minimaux.
 | `vocabulary.py` | Vocabulaire contrôlé des tags : `PERSONALITIES` (regex sensibles à la casse) et `THEMES` (insensibles sauf sigles), `lookup()` donne la sorte d'un tag |
 | `elections.py` | Présidentielle 2027 : `CANDIDATES` (édité à la main), fil d'un candidat (`candidate_news`), fil de la campagne (`election_news`) |
 | `analysis/` | `fetch` (HTTP borné, Wayback Machine), `extract` (métadonnées HTML), `text` (tags par score sur le vocabulaire, résumé), `thumbnails` (WebP 640×360), `analyzers` (heuristique / modèle local) |
+| `insights.py` | Contenu original calculé : contexte d'une news (`news_context` : rang du jour, place dans ses fils) et portrait d'un fil (`tag_profile` : pic, médias, news la plus votée, fils voisins) |
+| `dates.py` | `format_date` : format de date Django en heure locale, avec « 1er » pour le premier du mois (filtre de template `date_fr`) |
 | `timeline.py` | Historique d'un tag : frise horizontale ajustée à l'historique (`build_timeline`, points ou barres, carte au survol) et Fil vertical (`build_thread`, découpé par année via `thread_years`, page du tag) |
 | `views.py`, `urls.py` | Pages, fragment de frise, OAuth Reddit (local uniquement) |
 | `feeds.py`, `sitemaps.py` | RSS et sitemaps (index + une section par fichier) |
@@ -118,4 +120,9 @@ restauration de `data/media` depuis `pages` (vignettes hors git), `ingest_news
   aux grands thèmes listés à la main ; moins de tags, mais tous pertinents.
 - **Politique des médias en liste blanche** : crédibilité ; `prune_news`
   supprime les news stockées hors liste (lancé en novembre 2026 : 2 186 news).
+- **SEO, contenu original** (novembre 2026) : les fiches news reprennent la
+  description de l'article source ; pour ne pas être jugé « contenu mince »,
+  elles sont en `noindex, follow` et hors sitemap (`FILNEWS_INDEX_NEWS`), et
+  les pages (fiches et fils) gagnent des blocs calculés à partir des données
+  du site (`insights.py`).
 - **Vignettes hors git** : ~200 Mo ; copiées dans l'image, régénérables.

@@ -1,3 +1,4 @@
+from django.conf import settings
 from django.contrib.sitemaps import Sitemap
 from django.urls import reverse
 
@@ -70,4 +71,9 @@ class TagSitemap(Sitemap):
         return item[0].last_seen
 
 
-SITEMAPS = {"pages": StaticSitemap, "news": NewsSitemap, "tags": TagSitemap}
+# News pages are "noindex" unless FILNEWS_INDEX_NEWS (see news/detail.html).
+SITEMAPS = {
+    "pages": StaticSitemap,
+    **({"news": NewsSitemap} if settings.FILNEWS_INDEX_NEWS else {}),
+    "tags": TagSitemap,
+}

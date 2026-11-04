@@ -13,6 +13,7 @@ from django.utils.text import slugify
 from django.views.decorators.http import require_GET
 
 from . import elections
+from .insights import news_context, tag_profile
 from .models import TagSummary, tag_slug
 from .reddit import RedditClient, RedditError
 from .store import NewsStore, get_store
@@ -99,7 +100,12 @@ def news_detail(request: HttpRequest, slug: str) -> HttpResponse:
     return render(
         request,
         "news/detail.html",
-        {"news": news, "related": store.related(news, RELATED_NEWS_COUNT)},
+        {
+            "news": news,
+            "insight": news_context(store, news),
+            "related": store.related(news, RELATED_NEWS_COUNT),
+            "indexable": settings.FILNEWS_INDEX_NEWS,
+        },
     )
 
 
@@ -209,6 +215,7 @@ def tag_detail(
         "tags/detail.html",
         {
             "tag": tag,
+            "profile": tag_profile(get_store(), tag),
             "thread": build_thread(tag, year if years else None),
             "years": years,
             "year": year if years else None,

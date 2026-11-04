@@ -2,7 +2,7 @@
 {% load filnews_tags %}
 
 {% block title %}{{ tag.name }} : {% if year and not is_latest_year %}l'actualité en {{ year }}{% else %}toute l'actualité{% endif %} — {{ SITE_NAME }}{% endblock %}
-{% block description %}{% if year and not is_latest_year %}Les {{ thread|length }} news de {{ year }} sur « {{ tag.name }} » : historique et contexte de l'actualité.{% else %}{{ tag.count }} news sur « {{ tag.name }} » depuis le {{ tag.first_seen|date:"j F Y" }} : historique et contexte de l'actualité.{% endif %}{% endblock %}
+{% block description %}{% if year and not is_latest_year %}Les {{ thread|length }} news de {{ year }} sur « {{ tag.name }} » : historique et contexte de l'actualité.{% else %}{{ tag.count }} news sur « {{ tag.name }} » depuis le {{ tag.first_seen|date_fr:"j F Y" }} : historique et contexte de l'actualité.{% endif %}{% endblock %}
 {% block og_title %}{{ tag.name }} — {{ SITE_NAME }}{% endblock %}
 {% block og_description %}{{ tag.count }} news sur « {{ tag.name }} ».{% endblock %}
 {% block structured_data %}{% url 'tag_index' as tags_url %}{% breadcrumb_ld "Accueil" "/" "Fils" tags_url tag.name request.path %}{% endblock %}
@@ -11,7 +11,11 @@
 {% include "partials/breadcrumb.html" with section="Fils" section_url_name="tag_index" current=tag.name %}
 <header class="page-header">
   <h1 class="page-title"><span class="page-title__kicker">{{ tag|tag_kind_label|default:"Fil" }}</span> {{ tag.name }}{% if year and not is_latest_year %} <span class="page-title__year">en {{ year }}</span>{% endif %}</h1>
-  <p class="page-intro">{{ tag.count }} news liée{{ tag.count|pluralize }} à ce sujet.</p>
+  <div class="page-intro tag-profile">
+    <p>{{ tag.count }} news liée{{ tag.count|pluralize }} à ce sujet, du {{ tag.first_seen|date_fr:"j F Y" }} au {{ tag.last_seen|date_fr:"j F Y" }}.{% if profile.peak_month %} Le pic : {{ profile.peak_count }} news en {{ profile.peak_month|date:"F Y" }}.{% endif %}</p>
+    <p>{% if profile.domains %}Les médias les plus cités : {% for domain, count in profile.domains %}{{ domain }} ({{ count }}){% if not forloop.last %}, {% endif %}{% endfor %}. {% endif %}La news la plus votée sur r/{{ profile.top_news.subreddit|default:"france" }} : <a href="{% url 'news_detail' profile.top_news.slug %}">{{ profile.top_news.title }}</a> ({{ profile.top_news.score }} votes).</p>
+    {% if profile.neighbours %}<p>Fils voisins : {% for neighbour in profile.neighbours %}<a href="{% url 'tag_detail' neighbour.slug %}">{{ neighbour.name }}</a>{% if forloop.revcounter == 2 %} et {% elif not forloop.last %}, {% endif %}{% endfor %}.</p>{% endif %}
+  </div>
 </header>
 
 <section aria-labelledby="thread-title">
@@ -26,7 +30,7 @@
   </nav>
   <p class="thread__summary">{{ thread|length }} news en {{ year }}, de la plus récente à la plus ancienne.</p>
   {% else %}
-  <p class="thread__summary">Du {{ tag.first_seen|date:"j F Y" }} au {{ tag.last_seen|date:"j F Y" }}, de la plus récente à la plus ancienne.</p>
+  <p class="thread__summary">Du {{ tag.first_seen|date_fr:"j F Y" }} au {{ tag.last_seen|date_fr:"j F Y" }}, de la plus récente à la plus ancienne.</p>
   {% endif %}
   {% include "partials/thread.html" %}
 </section>

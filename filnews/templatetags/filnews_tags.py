@@ -6,6 +6,7 @@ from django.templatetags.static import static
 from django.urls import reverse
 from django.utils.safestring import SafeString, mark_safe
 
+from ..dates import format_date
 from ..models import News
 from ..store import get_store
 from ..vocabulary import lookup
@@ -39,6 +40,18 @@ def tag_kind(tag) -> str:
 def tag_kind_label(tag) -> str:
     entry = lookup(tag.name)
     return entry.kind_label if entry else ""
+
+
+@register.filter(expects_localtime=True)
+def date_fr(value, fmt: str) -> str:
+    """Like the `date` filter, with "1er" for the first day of a month."""
+    return format_date(value, fmt) if value else ""
+
+
+@register.filter
+def ordinal_fr(number: int) -> str:
+    """French ordinal: 1 -> "1re", 2 -> "2e"."""
+    return f"{number}re" if number == 1 else f"{number}e"
 
 
 @register.filter

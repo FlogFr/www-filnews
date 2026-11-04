@@ -4,6 +4,7 @@ from datetime import timedelta
 from unittest import mock
 from xml.etree import ElementTree
 
+from django.test import override_settings
 from django.urls import reverse
 from django.utils import translation
 
@@ -101,6 +102,44 @@ class SeoTests(ViewTestCase):
         article = next(b for b in blocks if b["@type"] == "NewsArticle")
         self.assertEqual(article["description"], "Un résumé <b>important</b> & utile.")
         self.assertEqual(article["keywords"], "Paris")
+        # The page repeats its source: kept out of search results, links
+        # still followed (FILNEWS_INDEX_NEWS).
+        self.assertIn('<meta name="robots" content="noindex, follow', html)
+
+    @override_settings(FILNEWS_INDEX_NEWS=True)
+    def test_news_page_can_be_indexed(self):
+        news = make_news("abc")
+        self.add_news(news)
+        response = self.client.get(reverse("news_detail", args=[news.slug]))
+        self.assertContains(response, '<meta name="robots" content="index, follow')
+
+    def test_news_page_context(self):
+        self.add_news(
+            make_news("first", hours_ago=24 * 3, tags=["Logement", "Macron"]),
+            make_news("top", hours_ago=2, score=900, title="Plus votée"),
+            make_news("news", hours_ago=1, score=300, tags=["Logement"]),
+            make_news("other", hours_ago=24 * 3 + 1, tags=["Macron"]),
+        )
+        response = self.client.get(
+            reverse("news_detail", args=[self.store.get("news").slug])
+        )
+        insight = response.context["insight"]
+        self.assertEqual((insight.day_rank, insight.day_count), (2, 2))
+        self.assertContains(response, "2e news la plus votée du 31 octobre 2026")
+        [position] = insight.threads
+        self.assertEqual((position.tag.slug, position.rank), ("logement", 2))
+        self.assertEqual(position.previous.id, "first")
+        self.assertContains(response, "la plus récente des 2 news depuis le 28 octobre")
+        self.assertContains(response, "La précédente, 2\xa0jours plus tôt")
+
+        first = self.client.get(
+            reverse("news_detail", args=[self.store.get("first").slug])
+        )
+        self.assertContains(
+            first, "c'est la première news de ce fil", count=1
+        )  # Logement.
+        self.assertContains(first, "la plus récente des 2 news depuis le 28 octobre")
+        self.assertContains(first, "c'est la news la plus votée du 28 octobre 2026")
 
     def test_unknown_pages_are_404(self):
         self.assertEqual(self.client.get("/news/inconnue-xyz/").status_code, 404)
@@ -129,17 +168,14 @@ class SeoTests(ViewTestCase):
             self._locations(reverse("sitemap")),
             [
                 "https://filnews.fr/sitemap-pages.xml",
-                "https://filnews.fr/sitemap-news.xml",
                 "https://filnews.fr/sitemap-tags.xml",
             ],
         )
         self.assertEqual(
             self._locations("/sitemap-tags.xml"), ["https://filnews.fr/tags/paris/"]
         )
-        self.assertIn(
-            f"https://filnews.fr/news/{self.store.get('abc').slug}/",
-            self._locations("/sitemap-news.xml"),
-        )
+        # News pages are "noindex" (FILNEWS_INDEX_NEWS): not in the sitemap.
+        self.assertEqual(self.client.get("/sitemap-news.xml").status_code, 404)
         pages = self._locations("/sitemap-pages.xml")
         self.assertIn("https://filnews.fr/archives/2026/09/", pages)
         self.assertIn("https://filnews.fr/presidentielle-2027/", pages)
@@ -167,7 +203,7 @@ class TagTests(ViewTestCase):
             make_news("a", tags=["Paris"]), make_news("b", hours_ago=50, tags=["Paris"])
         )
         page = self.client.get(reverse("tag_detail", args=["paris"]))
-        self.assertContains(page, "2 news liées")
+        self.assertContains(page, "2 news liées à ce sujet, du 29 octobre 2026")
         self.assertContains(page, "thread__item--left", count=1)
         self.assertContains(page, "thread__item--right", count=1)
         self.assertContains(page, "2\xa0jours plus tôt")
@@ -181,6 +217,32 @@ class TagTests(ViewTestCase):
         html = fragment.content.decode()
         self.assertLess(html.index("timeline__chart"), html.index("tag-card__news"))
         self.assertNotContains(fragment, "Voir les")
+
+    def test_tag_page_profile(self):
+        self.add_news(
+            make_news("a", tags=["Paris", "Logement"], domain="lemonde.fr"),
+            make_news(
+                "b", hours_ago=2, tags=["Paris", "Logement"], domain="lemonde.fr"
+            ),
+            make_news(
+                "c",
+                created_at=NOW - timedelta(days=60),
+                score=5000,
+                title="La plus votée",
+                tags=["Paris", "Macron"],
+            ),
+            make_news("d", hours_ago=3, tags=["Macron"]),
+        )
+        page = self.client.get(reverse("tag_detail", args=["paris"]))
+        profile = page.context["profile"]
+        self.assertEqual(profile.peak_count, 2)
+        self.assertEqual(profile.domains, [("lemonde.fr", 2)])
+        self.assertEqual(profile.top_news.id, "c")
+        self.assertEqual([t.slug for t in profile.neighbours], ["logement", "macron"])
+        self.assertContains(page, "Le pic : 2 news en octobre 2026.")
+        self.assertContains(page, "Les médias les plus cités : lemonde.fr (2).")
+        self.assertContains(page, ">La plus votée</a> (5000 votes)")
+        self.assertContains(page, 'Logement</a> et <a href="/tags/macron/">Macron</a>.')
 
     def test_single_news_tag_has_no_page(self):
         self.add_news(
@@ -242,7 +304,7 @@ class TagTests(ViewTestCase):
         self.assertLess(newest, 100)
         with translation.override("fr"):
             labels = [tick.label for tick in build_timeline(tag).ticks]
-        self.assertEqual(labels, ["30 oct.", "31 oct.", "1 nov."])
+        self.assertEqual(labels, ["30 oct.", "31 oct.", "1er nov."])
 
     def test_timeline_single_news_is_centred(self):
         timeline = build_timeline(TagSummary("CRS", "crs", [make_news("a")]))

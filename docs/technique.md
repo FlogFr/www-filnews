@@ -43,6 +43,7 @@ pip install -e ".[ml]"
 | `FILNEWS_ANALYZE_WORKERS` | `8` | Téléchargements parallèles d'`analyze_news` (2 au plus par site) |
 | `FILNEWS_WAYBACK` | `1` | Copie Wayback Machine des articles morts (`0` pour désactiver) |
 | `FILNEWS_KEYWORD_MODEL` / `FILNEWS_SUMMARY_MODEL` | voir `analyzers.py` | Modèles Hugging Face de l'analyseur local |
+| `FILNEWS_INDEX_NEWS` | `0` | `1` : fiches news indexables (`robots`) et section `sitemap-news.xml` ; par défaut `noindex, follow` (contenu repris des sources) |
 | `FILNEWS_DATA_DIR` | `./data` | Dossier de la base JSON |
 
 ## Accès à l'API Reddit
@@ -170,7 +171,8 @@ images auront disparu entre-temps).
 - Les tags d'une seule news n'ont pas de page (≈ 60 % des tags) : deux fois
   moins de fichiers à générer.
 - `sitemap.xml` est un index : une section (`sitemap-pages.xml`,
-  `sitemap-news.xml`, `sitemap-tags.xml`) par fichier statique. Le build échoue
+  `sitemap-tags.xml`, et `sitemap-news.xml` si `FILNEWS_INDEX_NEWS`) par
+  fichier statique. Le build échoue
   si une section dépasse 50 000 URL (il faudrait alors la découper).
 - Côté navigateur : archives par mois en liste compacte, Fil des gros tags par
   année, frise en barres au-delà de 40 news.

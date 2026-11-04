@@ -26,7 +26,7 @@ class BuildSiteTests(DataDirTestCase):
             "404.html",
             "rss.xml",
             "sitemap.xml",
-            "sitemap-news.xml",
+            "sitemap-pages.xml",
             "sitemap-tags.xml",
             "archives/2026/10/index.html",
             "robots.txt",
@@ -38,6 +38,8 @@ class BuildSiteTests(DataDirTestCase):
             f"news/{news.slug}/index.html",
         ]:
             self.assertTrue((output / relative).is_file(), relative)
+        # News pages are "noindex": no sitemap section for them.
+        self.assertFalse((output / "sitemap-news.xml").exists())
 
         # Assets are fingerprinted and the SCSS sources are not published.
         manifest = json.loads((output / "static" / "staticfiles.json").read_text())

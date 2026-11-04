@@ -52,7 +52,7 @@
       {% for entry in featured.thread %}
       {% with news=entry.news %}
       <li class="tag-thread__item{% if news.id == headline.id %} tag-thread__item--current{% endif %}">
-        <p class="tag-thread__meta"><time datetime="{{ news.created_at|date:'c' }}">{{ news.created_at|date:"j M Y" }}</time>{% if news.domain %} · {{ news.domain }}{% endif %}</p>
+        <p class="tag-thread__meta"><time datetime="{{ news.created_at|date:'c' }}">{{ news.created_at|date_fr:"j M Y" }}</time>{% if news.domain %} · {{ news.domain }}{% endif %}</p>
         <a class="tag-thread__link" href="{% url 'news_detail' news.slug %}">{{ news.title }}</a>
         {% if news.id == headline.id %}<p class="tag-thread__current">À la une</p>{% endif %}
         {% if entry.gap_after %}<p class="tag-thread__gap">{{ entry.gap_after }} plus tôt</p>{% endif %}

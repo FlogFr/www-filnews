@@ -44,10 +44,15 @@ jour dès qu'une règle change ou qu'une préférence du propriétaire est expri
   tactiles ≥ 44 px, `prefers-reduced-motion`, images décoratives en `alt=""`.
 - SEO : `<title>` et `meta description` uniques, `canonical`, Open Graph,
   JSON-LD (`WebSite`, `NewsArticle`, `BreadcrumbList`), `sitemap.xml`,
-  `robots.txt`, flux RSS.
+  `robots.txt`, flux RSS. Les fiches news sont en `noindex, follow` (contenu
+  repris des sources, voir `FILNEWS_INDEX_NEWS`) : tout nouveau contenu
+  original va de préférence sur les pages de fils.
 - SCSS dans `filnews/static/scss/` (compilé par libsass, sans Node.js). libsass
   ne comprend pas `min()`, `clamp()` ni `rgb(… / …)` : utiliser `unquote("…")`
   et `rgba()`.
+- Dates affichées : filtre `date_fr` (et `filnews.dates.format_date` en Python)
+  plutôt que `date` dès que le format contient le jour (`j`), pour écrire
+  « 1er novembre » et non « 1 novembre ».
 - JavaScript : modules ES natifs, vanilla, en amélioration progressive (le site
   doit fonctionner sans JS).
 

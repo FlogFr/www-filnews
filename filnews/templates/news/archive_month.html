@@ -14,7 +14,7 @@
 
 {% for day, news_list in days %}
 <section class="archive-day" aria-labelledby="day-{{ day|date:'Y-m-d' }}">
-  <h2 class="archive-day__title" id="day-{{ day|date:'Y-m-d' }}"><time datetime="{{ day|date:'Y-m-d' }}">{{ day|date:"l j F Y"|capfirst }}</time></h2>
+  <h2 class="archive-day__title" id="day-{{ day|date:'Y-m-d' }}"><time datetime="{{ day|date:'Y-m-d' }}">{{ day|date_fr:"l j F Y"|capfirst }}</time></h2>
   <ul class="archive-list">
     {% for news in news_list %}
     <li class="archive-list__item">

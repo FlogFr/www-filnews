@@ -83,7 +83,9 @@ production.
   (`/presidentielle-2027/<candidat>/`) avec toutes ses news depuis
   janvier 2025.
 - **Fiche news** : résumé, vignette, liens vers l'article et la discussion
-  Reddit, tags, jusqu'à 5 news liées (tags en commun).
+  Reddit, bloc **« Le contexte »** (rang de la news parmi celles du jour sur
+  r/france, sa place dans chacun de ses fils et la news précédente), tags,
+  jusqu'à 5 news liées (tags en commun).
 - **Archives** : les mois par année, puis une page par mois
   (`/archives/AAAA/MM/`) avec les news jour par jour.
 - **Fils (tags)** :
@@ -92,7 +94,9 @@ production.
     news) dont l'échelle s'adapte à l'historique du tag (jours, mois ou
     années), puis ses 5 dernières news cliquables ; survoler un point met sa
     news en avant dans la liste ;
-  - au **clic**, la page du tag présente **le Fil** : toutes ses news sur une
+  - au **clic**, la page du tag commence par un **portrait chiffré** du sujet
+    (période couverte, mois le plus actif, médias les plus cités, news la
+    plus votée, fils voisins), puis présente **le Fil** : toutes ses news sur une
     ligne verticale, de la plus récente à la plus ancienne, avec l'écart de
     temps entre deux news ; la news au centre de l'écran est mise en avant ;
     au-delà de 60 news, le Fil est découpé par année ;
@@ -107,7 +111,10 @@ production.
 
 - **SEO** : `<title>` et description uniques, canonical, Open Graph, JSON-LD
   (`WebSite`, `NewsArticle`, `BreadcrumbList`), `sitemap.xml` (index de
-  sitemaps par section), `robots.txt`.
+  sitemaps par section), `robots.txt`. Les fiches news, qui reprennent
+  surtout leur source, sont en `noindex, follow` et absentes du sitemap
+  (`FILNEWS_INDEX_NEWS=1` pour les réindexer) : Google indexe les pages au
+  contenu original (fils, présidentielle, archives).
 - **Accessibilité** (WCAG AA) : HTML5 sémantique, landmarks, lien d'évitement,
   focus visible, contrastes, `prefers-reduced-motion`. Le site fonctionne sans
   JavaScript (amélioration progressive).

@@ -25,7 +25,7 @@ import threading
 from collections import Counter, defaultdict
 from collections.abc import Iterable, Iterator
 from contextlib import contextmanager
-from datetime import datetime
+from datetime import date, datetime
 from enum import StrEnum
 from functools import cached_property
 from pathlib import Path
@@ -299,6 +299,10 @@ class NewsStore:
         """News of a month (local time), newest first."""
         return self.indexes.by_month.get((year, month), [])
 
+    def same_day(self, news: News) -> list[News]:
+        """News of the same (local) day as `news`, newest first."""
+        return self.indexes.by_day.get(timezone.localdate(news.created_at), [])
+
     def related(self, news: News, limit: int) -> list[News]:
         """Other news sharing tags with `news`, most shared tags then newest."""
         shared: Counter[str] = Counter()
@@ -378,6 +382,13 @@ class _Indexes:
             local = timezone.localtime(entry.created_at)
             months.setdefault((local.year, local.month), []).append(entry)
         return months
+
+    @cached_property
+    def by_day(self) -> dict[date, list[News]]:
+        days: dict[date, list[News]] = defaultdict(list)
+        for entry in self.by_date:
+            days[timezone.localdate(entry.created_at)].append(entry)
+        return days
 
 
 def _atomic_write_json(path: Path, payload: object) -> None:

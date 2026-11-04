@@ -172,6 +172,22 @@ suscitant le plus d'intérêt (le détail des seuils reste dans la doc technique
   `/archives/AAAA/MM/` liste les news du mois **jour par jour**, en liste
   compacte (titre, source, score), avec liens vers les mois voisins.
   L'ancienne pagination `/archives/page/N/` redirige vers `/archives/` (301).
+- **Contenu original** (`filnews/insights.py`, calculé à partir des données
+  du site, sans service externe) :
+  - **« Le contexte »** sur une fiche news : rang de la news par score parmi
+    les news du même jour (« la 2e news la plus votée du … »), puis pour ses
+    **3 plus gros fils** sa place dans le fil (« 12e news sur 84 depuis le … »,
+    « la première news de ce fil », « la plus récente des … ») et la news
+    précédente du fil avec l'écart de temps ;
+  - **portrait d'un fil** en tête de sa page : période couverte, **mois le
+    plus actif** (si au moins 3 news sur plusieurs mois et au moins 2 news
+    ce mois-là), **3 médias les plus cités** (au moins 2 news chacun, à
+    partir de 3 news), news la plus votée, **3 fils voisins** (ceux qui
+    partagent le plus de news).
+- **Indexation** : les fiches news reprennent surtout leur source (titre,
+  description) : `noindex, follow` et hors sitemap par défaut
+  (`FILNEWS_INDEX_NEWS`). Les pages de fils, de la présidentielle, les
+  archives et l'accueil restent indexées.
 - **News liées** : jusqu'à 5 news partageant le plus de tags, parmi les 150
   news les plus proches dans le temps de chaque tag.
 - **RSS** : toutes les news, de la plus récente à la plus ancienne.

@@ -57,7 +57,21 @@ Statuts : ✅ fait · 🚧 en cours · 💡 idée / à valider avec le propriét
 - ✅ Suppression des 2 186 news de sites hors politique des médias
   (`prune_news --apply`).
 
+## v1.5 — Contenu original et SEO (novembre 2026) ✅
+
+- ✅ Fiches news en `noindex, follow`, retirées du sitemap
+  (`FILNEWS_INDEX_NEWS` pour revenir en arrière).
+- ✅ Bloc « Le contexte » sur les fiches news (rang du jour, place dans les
+  fils, news précédente).
+- ✅ Portrait chiffré en tête des pages de fils (pic, médias, news la plus
+  votée, fils voisins).
+
 ## Prochaines étapes
+
+- 💡 **Synthèses des fils** (« Où en est le sujet ? ») et **revue de presse
+  hebdomadaire**, rédigées par un modèle à partir de plusieurs articles.
+- 💡 **Textes éditoriaux** écrits à la main pour les candidats et les plus
+  gros fils.
 
 - 💡 **Ré-analyse complète** (`analyze_news --force`) pour profiter du texte
   des articles dans le nouveau vocabulaire (le `--retag` n'utilise que titre,
