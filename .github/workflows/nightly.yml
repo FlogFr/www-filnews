@@ -5,7 +5,11 @@ name: Nightly news update
 
 on:
   schedule:
-    - cron: "17 4 * * *" # 04:17 UTC (05:17 / 06:17 Paris)
+    # 04:47 Paris time all year round (DST handled by `timezone`). Off the
+    # top of the hour, when GitHub's scheduler is the most loaded. GitHub
+    # treats schedules as best effort: a run can start late (or be dropped).
+    - cron: "47 4 * * *"
+      timezone: "Europe/Paris"
   workflow_dispatch:
 
 permissions:

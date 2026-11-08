@@ -268,8 +268,10 @@ Netlify… savent aussi servir une branche.)
 ### Mise à jour automatique chaque nuit (GitHub Actions)
 
 Le workflow [`.github/workflows/nightly.yml`](../.github/workflows/nightly.yml)
-tourne chaque nuit à 04:17 UTC (et à la demande : onglet *Actions* →
-*Nightly news update* → *Run workflow*) :
+tourne chaque nuit à **4 h 47, heure de Paris** (`cron: "47 4 * * *"` avec
+`timezone: "Europe/Paris"` : le passage heure d'été / heure d'hiver est géré
+par GitHub), et à la demande : onglet *Actions* → *Nightly news update* →
+*Run workflow*. Il fait :
 
 1. restaure les vignettes depuis la branche `pages` (`git archive pages media`),
    puisqu'elles ne sont pas versionnées sur `main` ;
@@ -293,6 +295,18 @@ Sans refresh token, l'ingestion utilise l'OAuth `client_credentials`. Le
 workflow a besoin de `contents: write` (déclaré dans le fichier) ; si une
 règle de protection de `main` interdit le push, autoriser GitHub Actions.
 Un échec (Reddit indisponible…) envoie l'e-mail habituel de GitHub.
+
+L'horaire n'est pas garanti : GitHub traite les déclenchements `schedule`
+« au mieux ». Un passage peut démarrer avec beaucoup de retard (en
+novembre 2026, les passages programmés démarraient vers 12 h–13 h 30, heure
+de Paris, soit 7 à 8 h après l'heure prévue) voire être sauté quand la charge
+est forte. Pour vérifier : onglet *Actions*, colonne *Event* = `schedule`.
+Lancer le workflow à la main en plus d'un passage programmé ne pose pas de
+problème : l'ingestion et l'analyse sont idempotentes et le commit n'a lieu
+que s'il y a du nouveau. Si l'heure doit être tenue, il faut un déclencheur
+externe gratuit (par exemple cron-job.org) qui appelle l'API
+`workflow_dispatch` avec un jeton GitHub à portée minimale (*Actions: write*
+sur ce seul dépôt).
 
 Limites par rapport à l'image nginx : pas d'en-têtes personnalisés (CSP,
 `X-Frame-Options`, `Cache-Control` immuable), pas de redirection

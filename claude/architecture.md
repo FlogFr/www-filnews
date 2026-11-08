@@ -90,7 +90,9 @@ plomberie git (`GIT_INDEX_FILE` temporaire, `write-tree`, `commit-tree`,
 Sur un hébergeur statique, la CSP et les en-têtes de `docker/` ne s'appliquent
 pas.
 
-`.github/workflows/nightly.yml` enchaîne chaque nuit, sur un runner GitHub :
+`.github/workflows/nightly.yml` enchaîne chaque nuit (4 h 47 heure de Paris,
+`timezone: "Europe/Paris"` ; horaire « au mieux » côté GitHub, souvent en
+retard de plusieurs heures), sur un runner GitHub :
 restauration de `data/media` depuis `pages` (vignettes hors git), `ingest_news
 --period day`, `analyze_news`, commit de `data/news` sur `main`, puis
 `publish_pages --push`. Secrets : `REDDIT_CLIENT_ID`, `REDDIT_CLIENT_SECRET`.
