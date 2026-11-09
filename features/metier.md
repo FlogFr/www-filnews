@@ -128,6 +128,10 @@ suscitant le plus d'intérêt (le détail des seuils reste dans la doc technique
     leur sorte (Personnalité / Thème).
   - Encart **Présidentielle 2027** (candidats déclarés), légende des deux
     sortes de fils, lien vers le flux RSS.
+  - **Ordre sur mobile** (une colonne) : « À la une », les 5 dernières news,
+    le fil du moment, puis les compléments (fils du moment, présidentielle,
+    RSS). Sur grand écran, le fil du moment est à côté de « À la une » et les
+    compléments à côté des dernières news.
 - **Présidentielle 2027** :
   - liste des candidats dans `filnews/elections.py` (nom, parti, candidature
     déclarée ou pressentie, tags associés — par défaut son nom), **à tenir à

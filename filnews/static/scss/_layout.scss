@@ -168,13 +168,38 @@
 
 // --- Home ------------------------------------------------------------------
 
+// Mobile follows the source order: headline, latest news, featured Fil, then
+// the sidebar. Wide screens put the featured Fil next to the headline and the
+// sidebar next to the latest news.
 .home-layout {
   display: grid;
+  align-items: start;
   gap: var(--space-5);
-  margin-top: var(--space-5);
 
   @include from($breakpoint-lg) {
     grid-template-columns: minmax(0, 1fr) 20rem;
+
+    &--front {
+      grid-template-areas:
+        "headline thread"
+        "latest sidebar";
+
+      > .headline {
+        grid-area: headline;
+      }
+
+      > .tag-thread {
+        grid-area: thread;
+      }
+
+      > .latest {
+        grid-area: latest;
+      }
+
+      > .sidebar {
+        grid-area: sidebar;
+      }
+    }
   }
 }
 

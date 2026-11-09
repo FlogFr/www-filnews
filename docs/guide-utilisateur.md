@@ -15,6 +15,9 @@
 - **Présidentielle 2027** : lien vers le fil de la campagne et les candidats.
 - **Suivre FilNews** : le lien vers le flux RSS.
 
+Sur mobile, la page se lit dans l'ordre : « À la une », « Dernières news »,
+« Le fil du moment », puis les fils du moment, la présidentielle et le RSS.
+
 ### La présidentielle 2027
 
 La page **Présidentielle 2027** (menu) liste les candidats, déclarés ou
