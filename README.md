@@ -76,7 +76,8 @@ production.
   heures : ses 5 dernières news sur une ligne chronologique, avec l'écart entre
   elles), les 5 dernières news avec leurs fils, les **7 fils du
   moment** (les plus présents sur 7 jours, avec leur sorte : personnalité ou
-  thème), un encart vers la présidentielle 2027 et le flux RSS.
+  thème), un encart vers la présidentielle 2027 et le flux RSS. Sur mobile :
+  à la une, puis les dernières news, puis le fil du moment.
 - **Présidentielle 2027** (`/presidentielle-2027/`) : les candidats déclarés
   et pressentis (`filnews/elections.py`, édité à la main) avec leurs fils
   associés, et **le fil de la campagne** ; une page par candidat

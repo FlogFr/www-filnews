@@ -65,6 +65,8 @@ Statuts : ✅ fait · 🚧 en cours · 💡 idée / à valider avec le propriét
   fils, news précédente).
 - ✅ Portrait chiffré en tête des pages de fils (pic, médias, news la plus
   votée, fils voisins).
+- ✅ Accueil mobile : « À la une », puis les dernières news, puis le fil du
+  moment.
 
 ## Prochaines étapes
 

@@ -22,8 +22,9 @@
 {% endblock %}
 
 {% block content %}
-{% if headline %}
-<div class="front">
+{# Source order = mobile order; wide screens put the featured Fil next to the headline (_layout.scss). #}
+<div class="home-layout{% if headline %} home-layout--front{% endif %}">
+  {% if headline %}
   <section class="headline" aria-labelledby="headline-title">
     <p class="section-label">À la une</p>
     <article class="hero">
@@ -41,33 +42,8 @@
       </div>
     </article>
   </section>
-
-  {% if featured %}
-  {% with tag=featured.tag %}
-  <section class="tag-thread" aria-labelledby="tag-thread-title">
-    <p class="tag-thread__kicker">Le fil du moment</p>
-    <h2 class="tag-thread__title" id="tag-thread-title"><a href="{% url 'tag_detail' tag.slug %}">{{ tag.name }}</a></h2>
-    <p class="tag-thread__intro">{{ tag.count }} article{{ tag.count|pluralize }} · depuis {{ tag.first_seen|date:"F Y" }}</p>
-    <ol class="tag-thread__list">
-      {% for entry in featured.thread %}
-      {% with news=entry.news %}
-      <li class="tag-thread__item{% if news.id == headline.id %} tag-thread__item--current{% endif %}">
-        <p class="tag-thread__meta"><time datetime="{{ news.created_at|date:'c' }}">{{ news.created_at|date_fr:"j M Y" }}</time>{% if news.domain %} · {{ news.domain }}{% endif %}</p>
-        <a class="tag-thread__link" href="{% url 'news_detail' news.slug %}">{{ news.title }}</a>
-        {% if news.id == headline.id %}<p class="tag-thread__current">À la une</p>{% endif %}
-        {% if entry.gap_after %}<p class="tag-thread__gap">{{ entry.gap_after }} plus tôt</p>{% endif %}
-      </li>
-      {% endwith %}
-      {% endfor %}
-    </ol>
-    <a class="button button--dark" href="{% url 'tag_detail' tag.slug %}">Remonter tout le fil {{ tag.name }}</a>
-  </section>
-  {% endwith %}
   {% endif %}
-</div>
-{% endif %}
 
-<div class="home-layout">
   <section class="latest" aria-labelledby="latest-title">
     <div class="section-head">
       <h2 class="section-head__title" id="latest-title">Dernières news</h2>
@@ -91,6 +67,29 @@
     <p>Aucune news pour le moment. Revenez bientôt !</p>
     {% endif %}
   </section>
+
+  {% if headline and featured %}
+  {% with tag=featured.tag %}
+  <section class="tag-thread" aria-labelledby="tag-thread-title">
+    <p class="tag-thread__kicker">Le fil du moment</p>
+    <h2 class="tag-thread__title" id="tag-thread-title"><a href="{% url 'tag_detail' tag.slug %}">{{ tag.name }}</a></h2>
+    <p class="tag-thread__intro">{{ tag.count }} article{{ tag.count|pluralize }} · depuis {{ tag.first_seen|date:"F Y" }}</p>
+    <ol class="tag-thread__list">
+      {% for entry in featured.thread %}
+      {% with news=entry.news %}
+      <li class="tag-thread__item{% if news.id == headline.id %} tag-thread__item--current{% endif %}">
+        <p class="tag-thread__meta"><time datetime="{{ news.created_at|date:'c' }}">{{ news.created_at|date_fr:"j M Y" }}</time>{% if news.domain %} · {{ news.domain }}{% endif %}</p>
+        <a class="tag-thread__link" href="{% url 'news_detail' news.slug %}">{{ news.title }}</a>
+        {% if news.id == headline.id %}<p class="tag-thread__current">À la une</p>{% endif %}
+        {% if entry.gap_after %}<p class="tag-thread__gap">{{ entry.gap_after }} plus tôt</p>{% endif %}
+      </li>
+      {% endwith %}
+      {% endfor %}
+    </ol>
+    <a class="button button--dark" href="{% url 'tag_detail' tag.slug %}">Remonter tout le fil {{ tag.name }}</a>
+  </section>
+  {% endwith %}
+  {% endif %}
 
   <aside class="sidebar" aria-label="Compléments">
     <section aria-labelledby="trending-title">

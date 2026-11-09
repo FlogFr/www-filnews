@@ -71,15 +71,8 @@
 
 // --- Headline and the featured Fil --------------------------------------
 
-.front {
-  display: grid;
-  gap: var(--space-5);
-  align-items: start;
-
-  @include from($breakpoint-lg) {
-    grid-template-columns: minmax(0, 1fr) 20rem;
-  }
-
+// Placement next to the latest news: .home-layout (_layout.scss).
+.headline {
   .hero {
     grid-template-columns: 1fr;
     gap: var(--space-3);

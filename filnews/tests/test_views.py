@@ -58,6 +58,19 @@ class HomeTests(ViewTestCase):
         self.assertContains(response, "Le fil du moment")
         self.assertContains(response, "Remonter tout le fil Paris")
         self.assertContains(response, "tag-thread__item--current", count=1)
+        # Source order is the mobile order: headline, latest news, featured
+        # Fil, then the sidebar (wide screens rearrange it in CSS).
+        html = response.content.decode()
+        positions = [
+            html.index(marker)
+            for marker in (
+                'class="headline"',
+                'class="latest"',
+                'class="tag-thread"',
+                'class="sidebar"',
+            )
+        ]
+        self.assertEqual(positions, sorted(positions))
         self.assertContains(response, "On vous donne le fil.")
         self.assertContains(response, 'href="/presidentielle-2027/"')
         self.assertContains(response, 'href="/rss.xml"')

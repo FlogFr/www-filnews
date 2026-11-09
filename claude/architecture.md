@@ -61,7 +61,7 @@ sont recalculés paresseusement en mémoire après chaque mutation.
 
 | URL | Contenu |
 |---|---|
-| `/` | Accueil : bandeau, news la plus populaire des 24 h, fil du tag le plus actif sur 48 h, 5 dernières news, 7 fils du moment (7 jours), encart présidentielle, lien RSS |
+| `/` | Accueil : bandeau, news la plus populaire des 24 h, fil du tag le plus actif sur 48 h, 5 dernières news, 7 fils du moment (7 jours), encart présidentielle, lien RSS. Ordre du HTML = ordre mobile (une, dernières news, fil du moment, compléments) ; la grille `.home-layout--front` replace le fil à côté de la une sur grand écran |
 | `/presidentielle-2027/`, `/presidentielle-2027/<candidat>/` | Candidats et fil de la campagne ; fil d'un candidat depuis 2025 |
 | `/mentions-legales/` | Mentions légales, lien vers le code source |
 | `/news/<slug>-<id>/` | Fiche news (résumé, liens source/Reddit, tags, news liées) |
