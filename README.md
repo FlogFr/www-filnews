@@ -112,7 +112,8 @@ production.
 
 - **SEO** : `<title>` et description uniques, canonical, Open Graph, JSON-LD
   (`WebSite`, `NewsArticle`, `BreadcrumbList`), `sitemap.xml` (index de
-  sitemaps par section), `robots.txt`. Les fiches news, qui reprennent
+  sitemaps par section), `robots.txt`, vérification Bing Webmaster Tools
+  (`BingSiteAuth.xml`, à la racine via `filnews/root/`). Les fiches news, qui reprennent
   surtout leur source, sont en `noindex, follow` et absentes du sitemap
   (`FILNEWS_INDEX_NEWS=1` pour les réindexer) : Google indexe les pages au
   contenu original (fils, présidentielle, archives).

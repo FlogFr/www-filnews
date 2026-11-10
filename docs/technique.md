@@ -314,6 +314,10 @@ branche : GitHub Pages limite un site à 1 Go.
   stocké dans `localStorage` (`filnews-theme`) et posé en `data-theme` sur
   `<html>` avant le premier rendu ; sans choix, `prefers-color-scheme` s'applique.
 - Polices Oswald et Lora auto-hébergées (`static/fonts/`, licence OFL).
+- Fichiers à la racine du site : `filnews/root/` est copié tel quel à la
+  racine de `dist/` par `build_site` (sans hash ni `/static/`). Y déposer les
+  fichiers de vérification des moteurs de recherche (`BingSiteAuth.xml` pour
+  Bing Webmaster Tools, `googleXXXX.html`…). Non servi par `runserver`.
 
 ## Sécurité
 

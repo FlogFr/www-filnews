@@ -30,6 +30,7 @@ class BuildSiteTests(DataDirTestCase):
             "sitemap-tags.xml",
             "archives/2026/10/index.html",
             "robots.txt",
+            "BingSiteAuth.xml",
             "archives/index.html",
             "a-propos/index.html",
             "tags/index.html",

@@ -87,6 +87,8 @@ USE_TZ = True
 STATIC_URL = "/static/"
 STATICFILES_DIRS = [PROJECT_DIR / "static"]
 STATIC_ROOT = BASE_DIR / "dist" / "static"
+# Copied as-is at the root of the built site (e.g. search engine verification).
+ROOT_FILES_DIR = PROJECT_DIR / "root"
 STORAGES = {
     "staticfiles": {
         "BACKEND": "django.contrib.staticfiles.storage.StaticFilesStorage",

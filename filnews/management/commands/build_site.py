@@ -119,6 +119,8 @@ class Command(BaseCommand):
 
         if settings.MEDIA_ROOT.is_dir():
             shutil.copytree(settings.MEDIA_ROOT, output / "media")
+        if settings.ROOT_FILES_DIR.is_dir():
+            shutil.copytree(settings.ROOT_FILES_DIR, output, dirs_exist_ok=True)
 
         self.stdout.write(
             self.style.SUCCESS(

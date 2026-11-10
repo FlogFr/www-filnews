@@ -79,7 +79,9 @@ sont recalculés paresseusement en mémoire après chaque mutation.
 `build_site` : compile le SCSS (compressé) → `collectstatic` avec
 `ManifestStaticFilesStorage` (noms hashés, cache 1 an) → rend chaque URL avec le
 client de test Django en se faisant passer pour `SITE_URL` (URLs absolues
-correctes) → copie `data/media`. Le rendu est réparti entre des processus
+correctes) → copie `data/media` → copie tel quel le contenu de
+`filnews/root/` (`ROOT_FILES_DIR`) à la racine de `dist/` (fichiers de
+vérification des moteurs de recherche, ex. `BingSiteAuth.xml`). Le rendu est réparti entre des processus
 forkés (`--workers`, un par CPU par défaut) qui héritent du store déjà chargé.
 Le Dockerfile pré-compresse ensuite en gzip (`gzip_static`, `xargs -P`).
 
