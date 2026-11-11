@@ -265,17 +265,32 @@ créer chez le registrar des enregistrements `A` vers `185.199.108.153`,
 cocher *Enforce HTTPS*. (Cloudflare Pages,
 Netlify… savent aussi servir une branche.)
 
-### Mise à jour automatique chaque nuit (GitHub Actions)
+### Mise à jour automatique 4 fois par jour (GitHub Actions)
 
 Le workflow [`.github/workflows/nightly.yml`](../.github/workflows/nightly.yml)
-tourne chaque nuit à 04:17 UTC (et à la demande : onglet *Actions* →
-*Nightly news update* → *Run workflow*) :
+tourne toutes les 6 heures, à 00:17, 06:17, 12:17 et 18:17 UTC (01:17, 07:17,
+13:17 et 19:17 à Paris en hiver, une heure de plus en été), et à la demande :
+onglet *Actions* → *Nightly news update* → *Run workflow*. Les passages
+se mettent en file d'attente (`concurrency`) et ne se chevauchent jamais :
 
 1. restaure les vignettes depuis la branche `pages` (`git archive pages media`),
    puisqu'elles ne sont pas versionnées sur `main` ;
 2. `ingest_news --period day` puis `analyze_news` ;
 3. commite `data/news` sur `main` (si changement) ;
 4. `publish_pages --push`.
+
+La fenêtre de 24 h recoupe volontairement les passages précédents : une news
+déjà connue n'est pas dupliquée (seuls son score, ses commentaires, son titre
+et son flair sont rafraîchis, l'analyse est conservée) et `analyze_news`
+n'analyse que les nouvelles. Chaque post est vu environ 4 fois, dont une fois
+à 18 h ou plus : un post qui atteint le seuil (`FILNEWS_MIN_SCORE`) dans ses
+18 premières heures est capté. Avec un seul passage par jour, un post publié
+juste avant le passage n'était vu qu'à quelques minutes d'âge, puis sortait de
+la fenêtre.
+
+Le bot commite sur `main` à chaque passage : faire un `git pull --rebase`
+avant de pousser. Si un push humain arrive pendant un passage, le push du bot
+échoue (e-mail de GitHub) ; le passage suivant rattrape les données.
 
 Gratuit : le dépôt est public, donc les minutes Actions des runners hébergés
 par GitHub ne sont pas facturées (un dépôt privé aurait 2 000 min/mois

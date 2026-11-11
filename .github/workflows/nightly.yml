@@ -1,11 +1,14 @@
-# Nightly content update: ingest the last 24 hours of r/france, analyze the new
-# news, commit data/news on main, then publish the static site on `pages`.
+# Content update, 4 times a day: ingest the last 24 hours of r/france, analyze
+# the new news, commit data/news on main, then publish the static site on
+# `pages`. The 24-hour window overlaps the previous runs on purpose: ingestion
+# is idempotent (known news only get their Reddit data refreshed, analysis is
+# kept) and each post is seen several times, so late risers are not missed.
 # Free: the repository is public (unlimited Actions minutes on hosted runners).
 name: Nightly news update
 
 on:
   schedule:
-    - cron: "17 4 * * *" # 04:17 UTC (05:17 / 06:17 Paris)
+    - cron: "17 */6 * * *" # 00:17, 06:17, 12:17, 18:17 UTC (+1 h / +2 h Paris)
   workflow_dispatch:
 
 permissions:

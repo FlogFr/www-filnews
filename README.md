@@ -151,7 +151,7 @@ python manage.py publish_pages --push   # build_site + commit sur `pages` + push
 ```
 
 En production, un workflow GitHub Actions (`.github/workflows/nightly.yml`,
-gratuit sur un dépôt public) le fait **chaque nuit** : ingestion des dernières
+gratuit sur un dépôt public) le fait **4 fois par jour** : ingestion des dernières
 24 h, analyse, commit de `data/news` sur `main`, puis publication sur `pages`.
 Secrets à créer : `REDDIT_CLIENT_ID` et `REDDIT_CLIENT_SECRET`.
 
