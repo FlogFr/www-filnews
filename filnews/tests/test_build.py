@@ -48,6 +48,15 @@ class BuildSiteTests(DataDirTestCase):
         manifest = json.loads((output / "static" / "staticfiles.json").read_text())
         css = manifest["paths"]["css/main.css"]
         self.assertIn(f"/static/{css}", (output / "index.html").read_text())
+        frame_css = manifest["paths"]["css/sender-frame.css"]
+        self.assertIn(
+            f'data-frame-css="/static/{frame_css}"',
+            (output / "newsletter" / "index.html").read_text(),
+        )
+        self.assertIn(
+            "#sender-form-content",
+            (output / "static" / frame_css).read_text(),
+        )
         self.assertFalse((output / "static" / "scss").exists())
         # Absolute URLs point to the public site.
         self.assertIn(
@@ -75,7 +84,14 @@ class BuildSiteTests(DataDirTestCase):
         sender = (docker / "security-headers-sender.conf").read_text()
         nginx = (docker / "nginx.conf").read_text()
         self.assertNotIn("sender.net", strict)
-        self.assertIn("script-src 'self' https://*.sender.net", sender)
+        # Sender's about:blank iframe inherits the policy: its inline
+        # validation script, reCAPTCHA and Sender's API must be allowed.
+        self.assertIn(
+            "script-src 'self' 'unsafe-inline' https://*.sender.net "
+            "https://www.google.com https://www.gstatic.com",
+            sender,
+        )
+        self.assertIn("https://d38rqs2egh08o4.cloudfront.net", sender)
         # One CSP header per response: both snippets share the other headers.
         for snippet in (strict, sender):
             self.assertEqual(snippet.count("Content-Security-Policy"), 1)

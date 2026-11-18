@@ -36,10 +36,14 @@ jour dès qu'une règle change ou qu'une préférence du propriétaire est expri
   inline**, pas de CDN, pas de ressource tierce (polices auto-hébergées).
   L'attribut `style=""` est donc interdit dans les templates.
 - Seule exception : `/newsletter/` et `/contact/` chargent les formulaires
-  Sender.net (`docker/security-headers-sender.conf`, `*.sender.net`). Ne pas
+  Sender.net et reCAPTCHA (`docker/security-headers-sender.conf` : scripts
+  inline, `*.sender.net`, API Sender sur CloudFront, Google). Ne pas
   élargir cette CSP aux autres pages ni intégrer un formulaire Sender
   ailleurs sans l'accord du propriétaire ; un snippet tiers inline se
   déplace dans un fichier JS de `static/js/`.
+- Design des formulaires Sender : dans `static/scss/sender-frame.scss`
+  (injecté dans l'iframe), pas dans l'éditeur Sender ; vérifier le rendu
+  réel (iframe de Sender) après chaque changement.
 
 ## Front-end
 

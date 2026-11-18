@@ -331,7 +331,11 @@ branche : GitHub Pages limite un site à 1 Go.
   stocké dans `localStorage` (`filnews-theme`) et posé en `data-theme` sur
   `<html>` avant le premier rendu ; sans choix, `prefers-color-scheme` s'applique.
 - JS : `filnews/static/js/sender.js` (module ES, pages newsletter et contact
-  uniquement) — chargeur des formulaires Sender, voir « Formulaires Sender ».
+  uniquement) — chargeur des formulaires Sender et habillage de leur iframe,
+  voir « Formulaires Sender ».
+- SCSS : deux points d'entrée, `main.scss` → `css/main.css` (le site) et
+  `sender-frame.scss` → `css/sender-frame.css` (injecté dans les iframes de
+  Sender).
 - Polices Oswald et Lora auto-hébergées (`static/fonts/`, licence OFL).
 - Fichiers à la racine du site : `filnews/root/` est copié tel quel à la
   racine de `dist/` par `build_site` (sans hash ni `/static/`). Y déposer les
@@ -361,45 +365,64 @@ inline) :
   `templates/partials/sender_form.html`, **sans** l'attribut
   `style="text-align: left"` du snippet (remplacé par une règle de
   `_forms.scss`) ;
-- états (`data-state` sur `.form-embed`) : `loading` (squelette animé),
-  `ready` (Sender a inséré son formulaire), `error` (script en échec ou rien
-  après 10 s : souvent un bloqueur de publicités). Sans JavaScript ou en
-  erreur, un message propose une alternative (flux RSS, ticket GitHub).
+- Sender affiche chaque formulaire dans une **iframe `about:blank` de même
+  origine** (le HTML du formulaire vient de `cdn.sender.net`, avec la
+  police Roboto, reCAPTCHA v3 et le script de validation formbouncer) ;
+- états (`data-state` sur `.form-embed`) : `loading` (squelette animé,
+  iframe déjà mise en page mais invisible), `ready` (formulaire stylé et
+  affiché), `error` (script en échec ou rien après 10 s : souvent un
+  bloqueur de publicités). Sans JavaScript ou en erreur, un message propose
+  une alternative (flux RSS, ticket GitHub).
 
-**Design** : le formulaire est posé dans une carte claire (`.form-card`),
-**claire aussi en mode sombre** : Sender rend le formulaire avec les couleurs
-choisies dans son éditeur, que le thème sombre du site ne peut pas atteindre
-(surtout si Sender utilise une iframe). `_forms.scss` harmonise au mieux le
-HTML de Sender quand il est inséré dans la page (polices du site, champs de
-44 px, focus visible, bouton rouge arrondi), mais les styles inline de Sender
-l'emportent. Réglages recommandés **dans l'éditeur de formulaire Sender** pour
-coller au site :
+**Design** : dès que l'iframe est remplie, `sender.js` y injecte la feuille
+`css/sender-frame.css` (`static/scss/sender-frame.scss`, deuxième point
+d'entrée de `filnews/assets.py`, URL hashée passée par `data-frame-css`) :
+polices auto-hébergées (Lora, Oswald), couleurs et thème du site, champs de
+44 px, focus visible, case à cocher et bouton pilule rouges, erreurs et
+écran de succès (« Presque fini ! »). Il recopie aussi le thème de la page
+(`data-theme` sur le `<html>` de l'iframe, mis à jour au clic sur le bouton
+clair/sombre) et règle la hauteur de l'iframe sur celle du formulaire
+(`ResizeObserver`) ; `_forms.scss` lui donne toute la largeur de la carte.
+Les règles de Sender contenant l'identifiant du formulaire et des
+`!important`, la feuille cible `#sender-form-content` avec `!important`.
 
-| Élément | Réglage |
-|---|---|
-| Fond du formulaire | transparent ou blanc `#ffffff`, sans bordure ni ombre, sans marge (la carte du site les fournit) |
-| Largeur | 100 % |
-| Titre | aucun (la carte affiche déjà « S'inscrire » / « Envoyer un message ») |
-| Texte, libellés | `#1d1d1f` ; texte secondaire `#595959` |
-| Champs | fond blanc, bordure `#8a8a86` 1 px, rayon 6 px, hauteur ≥ 44 px |
-| Bouton | fond `#ca2026` (survol `#9e191e`), texte blanc, rayon 999 px (pilule), majuscules |
-| Polices | Georgia (texte) et Arial Narrow / Arial (bouton) : proches de Lora et Oswald, sans police Google (bloquée par la CSP) |
+Choix éditoriaux de cette feuille :
+
+- le **titre et le texte d'introduction** du formulaire Sender sont
+  **masqués** : la page affiche les siens (`<h1>`, chapô, titre de la carte),
+  à garder cohérents avec Sender (« Le Fil du mois », mensuelle) ;
+- le **texte du bas** de Sender (« We value your privacy… ») est masqué : la
+  note sous la carte le remplace (données personnelles, mentions légales) ;
+- le **badge reCAPTCHA** est masqué tout de suite (Sender le masquait après
+  3 s) : la mention exigée par Google (« Protégé par reCAPTCHA… ») est dans
+  la note sous la carte.
+
+Les **textes** restent gérés dans Sender (libellés, exemples, case de
+consentement, bouton, messages d'erreur, écran de succès). À traduire dans
+l'éditeur Sender (constaté en novembre 2026) : la case du formulaire de
+contact « I would like to receive newsletter and promotions » et le message
+d'erreur « Please fill out this field. ». Dans Sender, choisir une police
+système plutôt qu'une police Google évite en plus une requête vers Google
+(la police est de toute façon remplacée).
 
 **CSP** (image Docker) : `docker/security-headers.conf` garde la politique
 stricte (`'self'` uniquement) sur tout le site ;
-`docker/security-headers-sender.conf` l'ouvre à `https://*.sender.net`
-(scripts, styles inline, images, polices, `connect-src`, `frame-src`,
-`form-action`) pour la seule `location ~ ^/(newsletter|contact)/` de
-`docker/nginx.conf`. Les en-têtes communs sont dans
-`security-headers-base.conf`. Si la console du navigateur signale une
-ressource bloquée sur ces pages (par exemple reCAPTCHA activé dans Sender :
-`www.google.com`, `www.gstatic.com`), l'ajouter **dans
-`security-headers-sender.conf` uniquement**. Sur GitHub Pages, aucun en-tête
-CSP n'est envoyé : rien à faire.
+`docker/security-headers-sender.conf` l'ouvre pour la seule
+`location ~ ^/(newsletter|contact)/` de `docker/nginx.conf` (en-têtes
+communs dans `security-headers-base.conf`). L'iframe `about:blank` hérite de
+la CSP de la page, d'où : `script-src` avec `'unsafe-inline'` (script de
+validation écrit par Sender), `*.sender.net`, `www.google.com` et
+`www.gstatic.com` (reCAPTCHA) ; `connect-src` avec `*.sender.net` et
+`d38rqs2egh08o4.cloudfront.net` (API de Sender : visites et **envoi du
+formulaire** ; `stats.sender.net`, ou CloudFront si un bloqueur le refuse) ;
+`frame-src` `www.google.com` (iframe reCAPTCHA). Les polices Google restent
+bloquées. Si Sender change d'hôtes, la console du navigateur les signale :
+les ajouter **dans `security-headers-sender.conf` uniquement**. Sur GitHub
+Pages, aucun en-tête CSP n'est envoyé.
 
-**Vérifier après publication** : ouvrir `/newsletter/` et `/contact/`, envoyer
-un test, contrôler la console (aucune erreur CSP) et la réception dans
-Sender, en thème clair et sombre.
+**Vérifier après publication** : ouvrir `/newsletter/` et `/contact/` en
+thème clair et sombre (et basculer avec le bouton), contrôler la console,
+envoyer un vrai test et vérifier la réception dans Sender.
 
 ## Sécurité
 
@@ -407,6 +430,6 @@ Sender, en thème clair et sombre.
 - ⚠️ D'anciens secrets (Reddit, S3 Scaleway, PostgreSQL, `SECRET_KEY`) figurent
   dans l'historique git d'avant la réécriture : ils doivent être **révoqués**.
 - Production sans code exécutable côté serveur (fichiers statiques seulement).
-- Seul tiers chargé par le navigateur : Sender (`*.sender.net`), et
-  uniquement sur `/newsletter/` et `/contact/` ; la CSP le refuse partout
-  ailleurs.
+- Seuls tiers chargés par le navigateur : Sender (`*.sender.net`, son API
+  sur CloudFront) et reCAPTCHA (Google), uniquement sur `/newsletter/` et
+  `/contact/` ; la CSP les refuse partout ailleurs.

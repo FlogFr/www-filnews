@@ -497,6 +497,11 @@ class FormPagesTests(ViewTestCase):
             html=True,
         )
         self.assertContains(page, 'data-sender-account="75dad446768701"', count=1)
+        # Stylesheet injected into Sender's iframe by js/sender.js.
+        self.assertContains(page, 'data-frame-css="/static/css/sender-frame.css"')
+        # Sender's reCAPTCHA badge is hidden: Google's notice is required.
+        self.assertContains(page, "Protégé par reCAPTCHA")
+        self.assertContains(page, 'href="https://policies.google.com/terms"')
         self.assertContains(page, '<script type="module" src="/static/js/sender.js">')
         # CSP: no inline script (JSON-LD is data) nor style attribute.
         html = page.content.decode()
@@ -533,6 +538,7 @@ class FormPagesTests(ViewTestCase):
         page = self.client.get(reverse("legal"))
         self.assertContains(page, 'id="donnees-personnelles"')
         self.assertContains(page, "sender.net")
+        self.assertContains(page, "reCAPTCHA")
         self.assertNotContains(page, "pas de formulaire")
 
     def test_form_pages_are_in_the_sitemap(self):

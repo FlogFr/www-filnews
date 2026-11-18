@@ -217,6 +217,15 @@ suscitant le plus d'intérêt (le détail des seuils reste dans la doc technique
 - Sans JavaScript, ou si un bloqueur empêche Sender de se charger, un message
   propose une alternative : le flux RSS (newsletter) ou un ticket GitHub
   (contact).
+- **Design** : le formulaire prend les polices, couleurs et le thème
+  (clair/sombre) du site. Le titre, l'introduction et le texte du bas
+  saisis dans Sender sont **masqués** : la page affiche ses propres textes
+  (newsletter : « Le Fil du mois », une fois par mois), à garder cohérents
+  avec Sender. Les libellés, la case de consentement, le bouton, les
+  messages d'erreur et l'écran de succès viennent de Sender.
+- Les formulaires sont protégés par **reCAPTCHA** (Google) : la mention
+  exigée par Google figure sous chaque formulaire et dans les mentions
+  légales.
 
 ## Fraîcheur
 

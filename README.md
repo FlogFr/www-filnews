@@ -104,8 +104,9 @@ production.
   - un tag n'a sa page qu'à partir de 2 news (sinon : texte simple) ;
   - un index alphabétique des tags, avec une barre de lettres.
 - **Newsletter** (`/newsletter/`) et **formulaire de contact** (`/contact/`) :
-  formulaires [Sender.net](https://www.sender.net) intégrés au design du site
-  (carte, chargement, message si un bloqueur les empêche de s'afficher),
+  formulaires [Sender.net](https://www.sender.net) habillés aux couleurs,
+  polices et thème du site (feuille injectée dans leur iframe, chargement,
+  message si un bloqueur les empêche de s'afficher),
   liés depuis l'en-tête, le pied de page, l'accueil et « À propos ». Les
   formulaires et l'envoi se gèrent dans Sender ; identifiants dans
   `filnews/settings.py` (`SENDER_*`).
@@ -129,8 +130,9 @@ production.
   JavaScript (amélioration progressive).
 - **Performance et sécurité** : site rendu en parallèle (un processus par
   CPU), fichiers statiques pré-compressés, CSS/JS aux
-  noms hashés (cache 1 an), CSP stricte (ouverte à Sender sur les seules
-  pages newsletter et contact), nginx non-root, aucun secret dans l'image.
+  noms hashés (cache 1 an), CSP stricte (ouverte à Sender et reCAPTCHA sur
+  les seules pages newsletter et contact), nginx non-root, aucun secret dans
+  l'image.
 
 ## Démarrage rapide
 

@@ -1,12 +1,9 @@
 // Newsletter and contact pages: Sender.net forms (templates/partials/
 // sender_form.html, js/sender.js) in the style of the home intro band.
-//
-// The form card keeps the light colours in dark mode: Sender renders its
-// form with the colours chosen in Sender's editor (in an iframe or in the
-// page), which the site's dark theme cannot reach. A light "paper" card
-// keeps it readable and intentional in both themes.
-
-$field-border: #8a8a86; // 3.4:1 on white: visible field edges (WCAG 1.4.11)
+// Sender renders each form in an iframe: js/sender.js injects
+// css/sender-frame.css (sender-frame.scss) into it, so that the form uses
+// the site's fonts, colours and theme. This file only lays out the card and
+// sizes the iframe.
 
 // --- Band: title, form card, promises ---------------------------------------
 
@@ -111,7 +108,6 @@ $field-border: #8a8a86; // 3.4:1 on white: visible field edges (WCAG 1.4.11)
 // --- Form card -----------------------------------------------------------------
 
 .form-card {
-  @include light-tokens;
   padding: var(--space-4);
   border: 1px solid var(--color-border);
   border-top: 4px solid var(--color-brand);
@@ -148,10 +144,12 @@ $field-border: #8a8a86; // 3.4:1 on white: visible field edges (WCAG 1.4.11)
   max-width: 42rem;
 }
 
-// --- Embedded form: loading skeleton, fallback ---------------------------------
+// --- Embedded form: loading skeleton, fallback ------------------------------
 // `data-state` is set by js/sender.js; without JS only the fallback shows.
 
 .form-embed {
+  position: relative;
+
   &__loading {
     display: none;
     gap: var(--space-2);
@@ -159,6 +157,17 @@ $field-border: #8a8a86; // 3.4:1 on white: visible field edges (WCAG 1.4.11)
 
   &[data-state="loading"] &__loading {
     display: grid;
+  }
+
+  // Rendered (and laid out, so that Sender can size it) but hidden until
+  // the site's stylesheet is applied inside the iframe: no flash of
+  // Sender's own design.
+  &[data-state="loading"] .sender-form-field {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    visibility: hidden;
   }
 
   &__fallback {
@@ -194,7 +203,8 @@ $field-border: #8a8a86; // 3.4:1 on white: visible field edges (WCAG 1.4.11)
     }
 
     &--button {
-      width: 50%;
+      width: 100%;
+      height: 48px;
       margin-top: var(--space-1);
       border-radius: 999px;
     }
@@ -211,86 +221,25 @@ $field-border: #8a8a86; // 3.4:1 on white: visible field edges (WCAG 1.4.11)
   }
 }
 
-// --- Sender's form ---------------------------------------------------------------
-// Best-effort harmonisation when Sender renders its form in the page: site
-// fonts, 44 px targets, visible focus, brand button. Sender's own inline
-// styles still win: the colours and fonts set in Sender's editor are the
-// reference (see docs/technique.md, "Formulaires Sender").
+// --- Sender's iframe -----------------------------------------------------------
+// Sender wraps it in an inline-block <div> and fixes its width in pixels
+// (inline styles): full width of the card instead, its height is set by
+// js/sender.js after the restyled form.
 
 .sender-form-field {
   text-align: left; // Was style="text-align: left" in Sender's snippet (CSP).
-  font-family: $font-body;
-  color: var(--color-text);
+
+  > div {
+    display: block !important;
+    width: 100%;
+  }
 
   iframe {
     display: block;
-    width: 100%;
+    width: 100% !important;
     max-width: 100%;
-    border: 0;
-  }
-
-  label {
-    font-size: 0.9375rem;
-    font-weight: 700;
-  }
-
-  // Consent and options: regular weight, brand-coloured boxes.
-  label:has(> [type="checkbox"], > [type="radio"]) {
-    font-weight: 400;
-  }
-
-  [type="checkbox"],
-  [type="radio"] {
-    width: 1.125rem;
-    height: 1.125rem;
-    accent-color: var(--color-brand);
-  }
-
-  input:not([type="checkbox"]):not([type="radio"]):not([type="submit"]):not([type="hidden"]),
-  textarea,
-  select {
-    width: 100%;
-    min-height: 44px;
-    padding: var(--space-2) var(--space-3);
-    border: 1px solid $field-border;
-    border-radius: var(--radius);
-    background: var(--color-bg);
-    color: var(--color-text);
-    font: inherit;
-
-    &:focus-visible {
-      border-color: var(--color-text);
-      outline: 3px solid var(--color-focus);
-      outline-offset: 1px;
-    }
-  }
-
-  textarea {
-    min-height: 8rem;
-    resize: vertical;
-  }
-
-  button,
-  [type="submit"] {
-    min-height: 44px;
-    padding: var(--space-2) var(--space-4);
-    border: 2px solid var(--color-brand);
-    border-radius: 999px;
-    background: var(--color-brand);
-    color: var(--color-on-brand);
-    font-family: $font-heading;
-    font-weight: 500;
-    text-transform: uppercase;
-    letter-spacing: 0.04em;
-    cursor: pointer;
-
-    &:hover {
-      border-color: var(--color-brand-strong);
-      background: var(--color-brand-strong);
-    }
-  }
-
-  a {
-    color: var(--color-brand);
+    border: 0 !important;
+    border-radius: 0 !important;
+    box-shadow: none !important;
   }
 }

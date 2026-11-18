@@ -200,8 +200,11 @@ Dans `.env` : `FILNEWS_MIN_SCORE=150`, `FILNEWS_SUBREDDIT=france`. Ou ponctuelle
 Les formulaires se modifient dans l'interface de **Sender** (sender.net), pas
 dans le code : champs, textes, message de confirmation, et l'envoi des
 campagnes de la newsletter. Les inscrits et les messages de contact arrivent
-dans Sender. Pour que le formulaire s'accorde au site, voir les réglages
-recommandés dans la documentation technique (« Formulaires Sender »).
+dans Sender. Le design (polices, couleurs, thème sombre) est appliqué par le
+site : inutile de le régler dans Sender. Le titre et l'introduction saisis
+dans Sender ne s'affichent pas (la page a les siens, dans
+`templates/newsletter.html` et `templates/contact.html`) : les garder
+cohérents. Voir la documentation technique (« Formulaires Sender »).
 
 Pour utiliser un autre formulaire Sender, changer son identifiant
 (`SENDER_NEWSLETTER_FORM_ID`, `SENDER_CONTACT_FORM_ID`) dans

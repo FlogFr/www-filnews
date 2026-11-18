@@ -2,8 +2,8 @@
 {% load static filnews_tags %}
 
 {% block title %}Newsletter — {{ SITE_NAME }}{% endblock %}
-{% block description %}Inscrivez-vous gratuitement à la newsletter de {{ SITE_NAME }} : l'actualité vue par r/france, remise dans son fil, directement dans votre boîte mail.{% endblock %}
-{% block og_title %}La newsletter de {{ SITE_NAME }}{% endblock %}
+{% block description %}Le Fil du mois, la newsletter gratuite de {{ SITE_NAME }} : une fois par mois, les sujets qui ont le plus fait réagir r/france, remis dans leur contexte.{% endblock %}
+{% block og_title %}Le Fil du mois, la newsletter de {{ SITE_NAME }}{% endblock %}
 {% block structured_data %}{% breadcrumb_ld "Accueil" "/" "Newsletter" request.path %}{% endblock %}
 {% block scripts %}<script type="module" src="{% static 'js/sender.js' %}"></script>{% endblock %}
 
@@ -14,8 +14,8 @@
     <div class="form-hero__head">
       {% include "partials/breadcrumb.html" with current="Newsletter" %}
       <p class="form-hero__kicker">{% include "partials/icon_mail.html" %} Newsletter</p>
-      <h1 class="form-hero__title" id="page-title">Le fil de l'actu,<br><span>dans votre boîte mail.</span></h1>
-      <p class="form-hero__lead">Les news qui ont fait réagir r/france, reliées à leurs fils : recevez-les par e-mail, sans avoir à revenir sur le site.</p>
+      <h1 class="form-hero__title" id="page-title">Le Fil du mois,<br><span>dans votre boîte mail.</span></h1>
+      <p class="form-hero__lead">Une fois par mois, les sujets qui ont le plus fait réagir r/france, remis dans leur contexte. Pas de spam, désinscription en un clic.</p>
     </div>
 
     <section class="form-card" aria-labelledby="form-title">
@@ -23,13 +23,13 @@
       <p class="form-card__intro">Gratuit — une adresse e-mail suffit.</p>
       {% url 'rss' as rss_url %}
       {% include "partials/sender_form.html" with account=sender_account form_id=sender_form alt_url=rss_url alt_label="suivez FilNews par le flux RSS" %}
-      <p class="form-card__note">Inscription gérée par notre prestataire d'envoi d'e-mails, Sender. Votre adresse ne sert qu'à vous envoyer la newsletter : voir les <a href="{% url 'legal' %}#donnees-personnelles">mentions légales</a>.</p>
+      <p class="form-card__note">Inscription gérée par notre prestataire d'envoi d'e-mails, Sender. Votre adresse ne sert qu'à vous envoyer la newsletter : voir les <a href="{% url 'legal' %}#donnees-personnelles">mentions légales</a>. Protégé par reCAPTCHA : les <a href="https://policies.google.com/privacy" rel="noopener">règles de confidentialité</a> et les <a href="https://policies.google.com/terms" rel="noopener">conditions d'utilisation</a> de Google s'appliquent.</p>
     </section>
 
     <ul class="form-hero__points">
+      <li><strong>Une fois par mois</strong> : les sujets du mois, reliés à leurs fils.</li>
       <li><strong>Gratuite et sans publicité</strong>, comme le site.</li>
-      <li><strong>Sans engagement</strong> : un lien de désinscription dans chaque e-mail.</li>
-      <li><strong>Votre adresse reste privée</strong> : jamais revendue ni partagée.</li>
+      <li><strong>Sans engagement</strong> : un lien de désinscription dans chaque e-mail ; votre adresse n'est jamais revendue.</li>
     </ul>
   </div>
 </section>

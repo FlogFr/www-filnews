@@ -76,6 +76,10 @@ Statuts : ✅ fait · 🚧 en cours · 💡 idée / à valider avec le propriét
   signalements, demandes de retrait, droits RGPD).
 - ✅ CSP ouverte à `*.sender.net` sur ces deux pages seulement ; mentions
   légales mises à jour (données personnelles, Sender).
+- ✅ Habillage des formulaires dans l'iframe de Sender (polices, couleurs,
+  thème sombre, hauteur automatique), textes de la newsletter alignés sur
+  « Le Fil du mois », mention reCAPTCHA, CSP Docker complétée (reCAPTCHA,
+  API Sender).
 
 ## Prochaines étapes
 

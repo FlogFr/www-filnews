@@ -41,7 +41,7 @@ données, coût et surface d'attaque minimaux.
 | `views.py`, `urls.py` | Pages, fragment de frise, pages newsletter et contact (identifiants `SENDER_*` des réglages), OAuth Reddit (local uniquement) |
 | `feeds.py`, `sitemaps.py` | RSS et sitemaps (index + une section par fichier) |
 | `templatetags/filnews_tags.py` | URLs absolues, médias, JSON-LD, `has_tag_page` |
-| `assets.py` | Compilation SCSS → CSS (libsass) |
+| `assets.py` | Compilation SCSS → CSS (libsass) : `main.css` et `sender-frame.css` (habillage des iframes Sender) |
 | `management/commands/` | `ingest_news`, `backfill_news`, `analyze_news` (`--retag` : tags seuls, hors ligne), `prune_news`, `build_site`, `publish_pages`, `runserver` (surcharge) |
 
 ## Données
@@ -135,6 +135,10 @@ restauration de `data/media` depuis `pages` (vignettes hors git), `ingest_news
   données. Pages dédiées plutôt qu'un formulaire sur l'accueil : le script
   tiers et la CSP élargie (`docker/security-headers-sender.conf`, styles
   inline compris) restent confinés à `/newsletter/` et `/contact/`. Le
-  snippet inline de Sender est déplacé dans `static/js/sender.js` ; la
-  carte du formulaire reste claire en mode sombre, le rendu de Sender
-  n'étant pas pilotable par le thème.
+  snippet inline de Sender est déplacé dans `static/js/sender.js`. Sender
+  rendant ses formulaires dans une iframe `about:blank` de même origine,
+  `sender.js` y injecte `css/sender-frame.css` (polices, couleurs et thème
+  du site) et cale sa hauteur sur le formulaire ; le titre, le texte du bas
+  et le badge reCAPTCHA de Sender sont masqués au profit des textes de la
+  page. Cette iframe héritant de la CSP de la page, la CSP des deux pages
+  admet aussi les scripts inline et reCAPTCHA (Google).

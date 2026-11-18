@@ -14,14 +14,14 @@
       {% include "partials/breadcrumb.html" with current="Contact" %}
       <p class="form-hero__kicker">{% include "partials/icon_mail.html" %} Contact</p>
       <h1 class="form-hero__title" id="page-title">Une question ?<br><span>Écrivez-nous.</span></h1>
-      <p class="form-hero__lead">Une erreur dans une news, un média à ajouter à la liste, une idée de fil, une remarque sur le site : votre message arrive directement à l'éditeur de {{ SITE_NAME }}.</p>
+      <p class="form-hero__lead">Une erreur, une suggestion de fil, une question ? Votre message arrive directement à l'éditeur de {{ SITE_NAME }}, qui lit tous les messages.</p>
     </div>
 
     <section class="form-card" aria-labelledby="form-title">
       <h2 class="form-card__title" id="form-title">Envoyer un message</h2>
       <p class="form-card__intro">Laissez votre adresse e-mail pour recevoir une réponse.</p>
       {% include "partials/sender_form.html" with account=sender_account form_id=sender_form alt_url=issues_url alt_label="ouvrez un ticket sur GitHub" %}
-      <p class="form-card__note">Formulaire géré par notre prestataire d'e-mails, Sender. Votre adresse et votre message ne servent qu'à vous répondre : voir les <a href="{% url 'legal' %}#donnees-personnelles">mentions légales</a>.</p>
+      <p class="form-card__note">Formulaire géré par notre prestataire d'e-mails, Sender. Votre adresse et votre message ne servent qu'à vous répondre : voir les <a href="{% url 'legal' %}#donnees-personnelles">mentions légales</a>. Protégé par reCAPTCHA : les <a href="https://policies.google.com/privacy" rel="noopener">règles de confidentialité</a> et les <a href="https://policies.google.com/terms" rel="noopener">conditions d'utilisation</a> de Google s'appliquent.</p>
     </section>
 
     <ul class="form-hero__points">

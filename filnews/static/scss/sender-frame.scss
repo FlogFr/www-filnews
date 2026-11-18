@@ -1,0 +1,212 @@
+// Stylesheet injected by js/sender.js into Sender's form iframes (newsletter
+// and contact). Sender renders its forms in a same-origin about:blank iframe,
+// with the fonts and colours of Sender's editor (Roboto, black button…):
+// this file gives them the site's fonts, colours, fields and buttons, and
+// follows the light / dark theme (js/sender.js mirrors `data-theme` on the
+// iframe's <html>).
+//
+// Sender's rules carry the form id in their selectors
+// (`.sender-subs-embed-form-av2n0M .sender-form-input`), some are !important
+// and some styles are inline: overrides are scoped to the form's id
+// (#sender-form-content) and marked !important.
+
+@import "tokens";
+@import "fonts";
+
+// Placeholders: lighter than the text, still 4.5:1 (js/sender.js always
+// sets data-theme on the iframe's <html>).
+:root {
+  --color-placeholder: #767676;
+}
+
+:root[data-theme="dark"] {
+  --color-placeholder: #8f8f96;
+}
+
+html,
+body {
+  background: transparent !important;
+}
+
+// reCAPTCHA v3 badge: Sender hides it after 3 seconds; hidden at once, the
+// pages show Google's notice under the form instead (as Google requires).
+.grecaptcha-badge {
+  visibility: hidden !important;
+}
+
+body {
+  font-family: $font-body;
+  color: var(--color-text);
+}
+
+#sender-form-content {
+  width: 100% !important;
+  max-width: none !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  border: 0 !important;
+  border-radius: 0 !important;
+  background: transparent !important;
+  box-shadow: none !important;
+  font-family: $font-body;
+  color: var(--color-text);
+
+  // The page shows its own title and introduction (templates), and its own
+  // note on personal data instead of Sender's bottom text. The success
+  // screen keeps its title.
+  .sender-form > .sender-form-title,
+  .sender-form-bottom-text {
+    display: none !important;
+  }
+
+  // --- Fields ----------------------------------------------------------------
+
+  .sender-form-inputs {
+    margin-top: 0 !important;
+
+    .sender-form-field:not(:last-child) {
+      margin-bottom: var(--space-3) !important;
+    }
+  }
+
+  .sender-form-label {
+    margin-bottom: var(--space-1) !important;
+    font-family: $font-body !important;
+    font-size: 0.9375rem !important;
+    font-weight: 700 !important;
+    line-height: 1.4 !important;
+    color: var(--color-text) !important;
+  }
+
+  .sender-form-input {
+    height: 44px !important; // touch target
+    padding: var(--space-2) var(--space-3) !important;
+    border: 1px solid var(--color-field-border) !important;
+    border-radius: var(--radius) !important;
+    background: var(--color-bg) !important;
+    color: var(--color-text) !important;
+    font-family: $font-body !important;
+    font-size: 1rem !important;
+    box-shadow: none !important;
+
+    &::placeholder {
+      font-family: $font-body !important;
+      font-size: 0.9375rem !important;
+      color: var(--color-placeholder) !important;
+      opacity: 1;
+    }
+
+    &:focus {
+      border-color: var(--color-text) !important;
+      outline: 3px solid var(--color-focus) !important;
+      outline-offset: 1px;
+    }
+
+    &.error,
+    &[aria-invalid="true"] {
+      border-color: var(--color-brand) !important;
+    }
+  }
+
+  .error-message {
+    margin-top: var(--space-1) !important;
+    font-family: $font-body !important;
+    font-size: 0.875rem !important;
+    color: var(--color-brand) !important;
+  }
+
+  // --- Consent checkbox --------------------------------------------------------
+
+  .sender-form-checkboxes {
+    margin-top: var(--space-3) !important;
+  }
+
+  .sender-form-checkbox-holder {
+    line-height: 1.45 !important;
+  }
+
+  .sender-form-b-checkbox {
+    align-items: flex-start !important;
+    font-weight: 400 !important; // Also a .sender-form-label (bold above).
+  }
+
+  .sender-form-check {
+    width: 1.25rem !important;
+    height: 1.25rem !important;
+    margin-top: 0.1rem;
+    margin-inline-end: var(--space-2) !important;
+    border: 1px solid var(--color-field-border) !important;
+    border-radius: 4px !important;
+    background-color: var(--color-bg) !important;
+  }
+
+  // Sender keeps its white tick (background-image) on the checked box.
+  input[type="checkbox"]:checked + .sender-form-check {
+    border-color: var(--color-brand) !important;
+    background-color: var(--color-brand) !important;
+  }
+
+  input[type="checkbox"]:focus-visible + .sender-form-check {
+    outline: 3px solid var(--color-focus) !important;
+    outline-offset: 2px;
+  }
+
+  .sender-form-control-label {
+    padding-left: 0 !important;
+    font-family: $font-body !important;
+    font-size: 0.875rem !important;
+    font-weight: 400 !important;
+    line-height: 1.45 !important;
+    color: var(--color-text) !important; // Sender sets an inline colour.
+  }
+
+  // --- Button (as .button--dark on the home page, in the brand colour) ------
+
+  .sender-form-button {
+    min-height: 48px !important;
+    margin-top: var(--space-3) !important;
+    padding: var(--space-2) var(--space-4) !important;
+    border: 2px solid var(--color-brand) !important;
+    border-radius: 999px !important;
+    background: var(--color-brand) !important;
+    color: var(--color-on-brand) !important;
+    font-family: $font-heading !important;
+    font-size: 1rem !important;
+    font-weight: 500 !important;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    filter: none !important;
+    cursor: pointer;
+
+    &:hover,
+    &.sending-request {
+      border-color: var(--color-brand-strong) !important;
+      background: var(--color-brand-strong) !important;
+    }
+
+    &:focus-visible {
+      outline: 3px solid var(--color-focus) !important; // Sender removes it.
+      outline-offset: 2px;
+    }
+  }
+
+  // --- Success screen ("Presque fini !") ---------------------------------------
+
+  .sender-form-success {
+    .sender-form-title {
+      font-family: $font-body !important;
+      font-size: 1.625rem !important;
+      font-weight: 400 !important;
+      line-height: 1.2 !important;
+      color: var(--color-text) !important;
+    }
+
+    .sender-form-subtitle {
+      margin-top: var(--space-2) !important;
+      font-family: $font-body !important;
+      font-size: 1rem !important;
+      line-height: 1.5 !important;
+      color: var(--color-text-muted) !important;
+    }
+  }
+}
