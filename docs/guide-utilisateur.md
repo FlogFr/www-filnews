@@ -13,10 +13,11 @@
 - **Fils du moment** : les 7 fils les plus présents cette semaine, avec leur
   sorte (personnalité ou thème).
 - **Présidentielle 2027** : lien vers le fil de la campagne et les candidats.
-- **Suivre FilNews** : le lien vers le flux RSS.
+- **Suivre FilNews** : les liens vers la newsletter et le flux RSS.
 
 Sur mobile, la page se lit dans l'ordre : « À la une », « Dernières news »,
-« Le fil du moment », puis les fils du moment, la présidentielle et le RSS.
+« Le fil du moment », puis les fils du moment, la présidentielle et
+« Suivre FilNews ».
 
 ### La présidentielle 2027
 
@@ -68,6 +69,25 @@ Elle présente le titre, la source, le résumé, l'image, puis :
 Ajoutez `https://filnews.fr/rss.xml` à votre lecteur de flux (Feedly,
 NetNewsWire, Thunderbird…) pour recevoir toutes les news, des plus récentes aux
 plus anciennes.
+
+### La newsletter
+
+Le lien **Newsletter** (en-tête et pied de page) ouvre la page d'inscription :
+saisissez votre adresse e-mail pour recevoir les news par e-mail. La
+newsletter est gratuite, sans publicité, et chaque e-mail contient un lien de
+désinscription.
+
+### Nous contacter
+
+Le lien **Contact** (pied de page) ouvre un formulaire pour écrire à
+l'éditeur : une question, une erreur dans une news, un média ou un fil à
+suggérer, une demande de retrait d'un contenu, ou l'exercice de vos droits sur
+vos données.
+
+Les deux formulaires sont fournis par Sender et ont besoin de JavaScript. Si
+le formulaire ne s'affiche pas, une extension (bloqueur de publicités ou de
+traceurs) le bloque peut-être : autorisez `sender.net` sur la page, ou
+utilisez l'alternative proposée (flux RSS, ticket GitHub).
 
 ### Accessibilité
 
@@ -174,6 +194,18 @@ sans réanalyse. Les alias ne s'enchaînent pas : viser directement le nom final
 
 Dans `.env` : `FILNEWS_MIN_SCORE=150`, `FILNEWS_SUBREDDIT=france`. Ou ponctuellement :
 `python manage.py ingest_news --min-score 150`.
+
+### Newsletter et formulaire de contact (Sender)
+
+Les formulaires se modifient dans l'interface de **Sender** (sender.net), pas
+dans le code : champs, textes, message de confirmation, et l'envoi des
+campagnes de la newsletter. Les inscrits et les messages de contact arrivent
+dans Sender. Pour que le formulaire s'accorde au site, voir les réglages
+recommandés dans la documentation technique (« Formulaires Sender »).
+
+Pour utiliser un autre formulaire Sender, changer son identifiant
+(`SENDER_NEWSLETTER_FORM_ID`, `SENDER_CONTACT_FORM_ID`) dans
+`filnews/settings.py`, puis republier le site.
 
 ### Analyse de meilleure qualité
 

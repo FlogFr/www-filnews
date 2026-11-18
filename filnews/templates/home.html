@@ -125,10 +125,13 @@
       </ul>
     </section>
 
-    <section class="panel panel--outline" aria-labelledby="rss-title">
-      <h2 class="panel__title" id="rss-title">Suivre FilNews</h2>
-      <p>Recevez toutes les news dans votre lecteur de flux.</p>
-      <a class="button button--rss" href="{% url 'rss' %}">{% include "partials/icon_rss.html" %}<span>S'abonner au flux RSS</span></a>
+    <section class="panel panel--outline" aria-labelledby="follow-title">
+      <h2 class="panel__title" id="follow-title">Suivre FilNews</h2>
+      <p>Recevez les news par e-mail avec la newsletter, ou dans votre lecteur de flux.</p>
+      <div class="panel__actions">
+        <a class="button" href="{% url 'newsletter' %}">{% include "partials/icon_mail.html" %}<span>S'inscrire à la newsletter</span></a>
+        <a class="button button--ghost button--rss" href="{% url 'rss' %}">{% include "partials/icon_rss.html" %}<span>S'abonner au flux RSS</span></a>
+      </div>
     </section>
   </aside>
 </div>

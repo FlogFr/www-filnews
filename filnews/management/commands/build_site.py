@@ -40,6 +40,8 @@ def site_paths() -> list[str]:
         reverse("election"),
         reverse("about"),
         reverse("legal"),
+        reverse("newsletter"),
+        reverse("contact"),
         reverse("rss"),
         reverse("sitemap"),
         reverse("robots_txt"),

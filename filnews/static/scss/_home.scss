@@ -357,6 +357,16 @@ $thread-dot-size: 0.875rem;
     background: transparent;
   }
 
+  // Stacked call-to-action buttons (home: "Suivre FilNews").
+  &__actions {
+    display: grid;
+    gap: var(--space-2);
+
+    .button {
+      justify-content: center;
+    }
+  }
+
   &--election {
     border-left: 4px solid var(--color-brand);
   }

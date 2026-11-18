@@ -33,6 +33,8 @@ class BuildSiteTests(DataDirTestCase):
             "BingSiteAuth.xml",
             "archives/index.html",
             "a-propos/index.html",
+            "newsletter/index.html",
+            "contact/index.html",
             "tags/index.html",
             "tags/paris/index.html",
             "tags/paris/timeline/index.html",
@@ -66,6 +68,21 @@ class BuildSiteTests(DataDirTestCase):
         pages = list((output / "news").glob("*/index.html"))
         self.assertEqual(len(pages), 220)
         self.assertIn("Built", out.getvalue())
+
+    def test_nginx_opens_the_csp_to_sender_on_form_pages_only(self):
+        docker = Path(__file__).resolve().parents[2] / "docker"
+        strict = (docker / "security-headers.conf").read_text()
+        sender = (docker / "security-headers-sender.conf").read_text()
+        nginx = (docker / "nginx.conf").read_text()
+        self.assertNotIn("sender.net", strict)
+        self.assertIn("script-src 'self' https://*.sender.net", sender)
+        # One CSP header per response: both snippets share the other headers.
+        for snippet in (strict, sender):
+            self.assertEqual(snippet.count("Content-Security-Policy"), 1)
+            self.assertIn("security-headers-base.conf", snippet)
+        location = nginx.split("location ~ ^/(newsletter|contact)/ {")[1]
+        self.assertIn("security-headers-sender.conf", location.split("}")[0])
+        self.assertEqual(nginx.count("security-headers-sender.conf"), 1)
 
     def test_output_file_mapping(self):
         root = Path("/srv/dist")

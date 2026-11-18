@@ -15,6 +15,8 @@ from filnews.views import OAUTH_STATE_COOKIE
 from .helpers import NOW, DataDirTestCase, make_news
 
 LD_JSON_RE = re.compile(r'<script type="application/ld\+json">(.*?)</script>', re.S)
+# A <script> that is neither external (src) nor JSON-LD data: refused by the CSP.
+INLINE_SCRIPT_RE = re.compile(r"<script(?![^>]*\bsrc=)(?![^>]*application/ld\+json)")
 
 
 class ViewTestCase(DataDirTestCase):
@@ -480,3 +482,62 @@ class LegalTests(ViewTestCase):
         home = self.client.get(reverse("home"))
         self.assertContains(home, 'href="/mentions-legales/"')
         self.assertContains(home, "L&#x27;actualité vue par r/france")
+
+
+class FormPagesTests(ViewTestCase):
+    """Newsletter and contact: Sender.net forms, without inline script/style."""
+
+    def _assert_sender_page(self, url: str, form_id: str):
+        page = self.client.get(url)
+        self.assertEqual(page.status_code, 200)
+        self.assertContains(
+            page,
+            f'<div class="sender-form-field" data-sender-form-id="{form_id}"></div>',
+            count=1,
+            html=True,
+        )
+        self.assertContains(page, 'data-sender-account="75dad446768701"', count=1)
+        self.assertContains(page, '<script type="module" src="/static/js/sender.js">')
+        # CSP: no inline script (JSON-LD is data) nor style attribute.
+        html = page.content.decode()
+        self.assertEqual(INLINE_SCRIPT_RE.findall(html), [])
+        self.assertNotIn("style=", html)
+        self.assertNotIn("cdn.sender.net", html)  # Loaded by sender.js only.
+        # Fallback text when the form cannot load (no JS, blocker).
+        self.assertContains(page, "Le formulaire ne s'affiche pas ?")
+        self.assertContains(page, 'href="/mentions-legales/#donnees-personnelles"')
+        return page
+
+    def test_newsletter_page(self):
+        page = self._assert_sender_page(reverse("newsletter"), "av2n0M")
+        self.assertContains(page, "<h1", count=1)
+        self.assertContains(page, 'href="/rss.xml"')
+        self.assertContains(page, 'class="nav-cta" href="/newsletter/" aria-current')
+
+    def test_contact_page(self):
+        page = self._assert_sender_page(reverse("contact"), "eXDyKo")
+        self.assertContains(page, "<h1", count=1)
+        self.assertContains(page, 'href="https://github.com/FlogFr/www-filnews/issues"')
+
+    def test_other_pages_do_not_load_sender(self):
+        self.add_news(make_news("abc", tags=["Paris"]))
+        for url in [reverse("home"), reverse("about"), reverse("legal")]:
+            page = self.client.get(url)
+            self.assertNotContains(page, "sender.js")
+            self.assertNotContains(page, "sender-form-field")
+            # Linked from the header (newsletter) and the footer (both).
+            self.assertContains(page, 'href="/newsletter/"')
+            self.assertContains(page, 'href="/contact/"')
+
+    def test_legal_notice_describes_the_forms(self):
+        page = self.client.get(reverse("legal"))
+        self.assertContains(page, 'id="donnees-personnelles"')
+        self.assertContains(page, "sender.net")
+        self.assertNotContains(page, "pas de formulaire")
+
+    def test_form_pages_are_in_the_sitemap(self):
+        response = self.client.get(
+            "/sitemap-pages.xml", HTTP_HOST="filnews.fr", secure=True
+        )
+        self.assertContains(response, "<loc>https://filnews.fr/newsletter/</loc>")
+        self.assertContains(response, "<loc>https://filnews.fr/contact/</loc>")

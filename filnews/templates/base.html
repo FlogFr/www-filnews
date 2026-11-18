@@ -28,6 +28,7 @@
   <link rel="stylesheet" href="{% static 'css/main.css' %}">
   <script src="{% static 'js/theme.js' %}"></script>
   <script type="module" src="{% static 'js/main.js' %}"></script>
+  {% block scripts %}{% endblock %}
   {% block structured_data %}{% endblock %}
 </head>
 <body>
@@ -40,7 +41,7 @@
         <span class="brand__name">Fil<span>News</span></span>
         <span class="brand__tagline">{{ SITE_TAGLINE }}</span>
       </a>
-      {% url 'home' as home_url %}{% url 'archive' as archive_url %}{% url 'tag_index' as tags_url %}{% url 'election' as election_url %}{% url 'about' as about_url %}
+      {% url 'home' as home_url %}{% url 'archive' as archive_url %}{% url 'tag_index' as tags_url %}{% url 'election' as election_url %}{% url 'about' as about_url %}{% url 'newsletter' as newsletter_url %}
       <nav class="site-nav" aria-label="Navigation principale">
         <ul class="site-nav__list">
           <li><a href="{{ home_url }}"{% if request.path == home_url %} aria-current="page"{% endif %}>Accueil</a></li>
@@ -48,6 +49,7 @@
           <li><a href="{{ tags_url }}"{% if request.path == tags_url %} aria-current="page"{% endif %}>Tous les fils</a></li>
           <li><a href="{{ election_url }}"{% if request.path == election_url %} aria-current="page"{% endif %}>Présidentielle 2027</a></li>
           <li><a href="{{ about_url }}"{% if request.path == about_url %} aria-current="page"{% endif %}>À propos</a></li>
+          <li><a class="nav-cta" href="{{ newsletter_url }}"{% if request.path == newsletter_url %} aria-current="page"{% endif %}>{% include "partials/icon_mail.html" %}<span>Newsletter</span></a></li>
           <li><a class="rss-link" href="{% url 'rss' %}">{% include "partials/icon_rss.html" %}<span>RSS</span></a></li>
           <li><button class="theme-toggle" type="button" aria-pressed="false" hidden>{% include "partials/icon_theme.html" %}<span class="visually-hidden">Thème sombre</span></button></li>
         </ul>
@@ -67,6 +69,8 @@
       <p>© {{ current_year }} {{ SITE_NAME }} — l'actualité vue par r/france, fil par fil. Les articles appartiennent à leurs éditeurs.</p>
       <ul class="site-footer__links">
         <li><a href="{% url 'about' %}">À propos</a></li>
+        <li><a href="{% url 'newsletter' %}">Newsletter</a></li>
+        <li><a href="{% url 'contact' %}">Contact</a></li>
         <li><a href="{% url 'legal' %}">Mentions légales</a></li>
         <li><a href="{{ SITE_SOURCE_URL }}" rel="noopener">Code source</a></li>
         <li><a href="{% url 'rss' %}">Flux RSS</a></li>

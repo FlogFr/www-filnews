@@ -184,7 +184,8 @@ utilise un dossier de données temporaire. Couvre : stockage, ingestion et seuil
 client Reddit/OAuth, historique (Arctic Shift), doublons, alias de tags,
 heuristiques d'analyse, Wayback Machine, analyse parallèle, vignettes, pages
 et SEO, RSS, sitemap, archives par mois, frise, Fil par année, build statique
-(série et parallèle).
+(série et parallèle), pages newsletter et contact (pas de script ni de style
+inline, Sender chargé sur ces pages seulement), CSP de la config nginx.
 
 ## Docker
 
@@ -194,7 +195,8 @@ L'image est construite en deux étapes :
    lance `build_site` puis pré-compresse les fichiers (gzip).
 2. `nginxinc/nginx-unprivileged:1.27-alpine` (non-root) sert `dist/` sur le
    **port 8000** avec : `gzip_static`, cache d'un an sur `/static/` (noms
-   hashés), en-têtes de sécurité (CSP stricte, `X-Frame-Options`, etc.), 404
+   hashés), en-têtes de sécurité (CSP stricte, ouverte à `*.sender.net` sur
+   `/newsletter/` et `/contact/` seulement, `X-Frame-Options`, etc.), 404
    personnalisée, `/auth/*` désactivé, `/archives/page/*` redirigé (301) vers
    `/archives/`.
 
@@ -328,11 +330,76 @@ branche : GitHub Pages limite un site à 1 Go.
   compatible CSP `script-src 'self'`) — bouton clair/sombre. Le choix est
   stocké dans `localStorage` (`filnews-theme`) et posé en `data-theme` sur
   `<html>` avant le premier rendu ; sans choix, `prefers-color-scheme` s'applique.
+- JS : `filnews/static/js/sender.js` (module ES, pages newsletter et contact
+  uniquement) — chargeur des formulaires Sender, voir « Formulaires Sender ».
 - Polices Oswald et Lora auto-hébergées (`static/fonts/`, licence OFL).
 - Fichiers à la racine du site : `filnews/root/` est copié tel quel à la
   racine de `dist/` par `build_site` (sans hash ni `/static/`). Y déposer les
   fichiers de vérification des moteurs de recherche (`BingSiteAuth.xml` pour
   Bing Webmaster Tools, `googleXXXX.html`…). Non servi par `runserver`.
+
+## Formulaires Sender (newsletter, contact)
+
+Les pages `/newsletter/` et `/contact/` intègrent deux formulaires
+[Sender](https://www.sender.net) (prestataire d'e-mailing). Identifiants
+publics dans `filnews/settings.py` :
+
+| Réglage | Valeur | Rôle |
+|---|---|---|
+| `SENDER_ACCOUNT_ID` | `75dad446768701` | Compte Sender (`sender('…')` du snippet) |
+| `SENDER_NEWSLETTER_FORM_ID` | `av2n0M` | Formulaire d'inscription (`/newsletter/`) |
+| `SENDER_CONTACT_FORM_ID` | `eXDyKo` | Formulaire de contact (`/contact/`) |
+
+**Intégration** (compatible avec la CSP, qui interdit scripts et styles
+inline) :
+
+- le snippet `<script>` fourni par Sender est reproduit tel quel dans
+  `static/js/sender.js` (module ES), chargé par le bloc `{% block scripts %}`
+  des deux pages seulement ; il lit l'identifiant du compte dans
+  `data-sender-account` et charge `https://cdn.sender.net/accounts_resources/universal.js` ;
+- la `<div class="sender-form-field" data-sender-form-id="…">` est rendue par
+  `templates/partials/sender_form.html`, **sans** l'attribut
+  `style="text-align: left"` du snippet (remplacé par une règle de
+  `_forms.scss`) ;
+- états (`data-state` sur `.form-embed`) : `loading` (squelette animé),
+  `ready` (Sender a inséré son formulaire), `error` (script en échec ou rien
+  après 10 s : souvent un bloqueur de publicités). Sans JavaScript ou en
+  erreur, un message propose une alternative (flux RSS, ticket GitHub).
+
+**Design** : le formulaire est posé dans une carte claire (`.form-card`),
+**claire aussi en mode sombre** : Sender rend le formulaire avec les couleurs
+choisies dans son éditeur, que le thème sombre du site ne peut pas atteindre
+(surtout si Sender utilise une iframe). `_forms.scss` harmonise au mieux le
+HTML de Sender quand il est inséré dans la page (polices du site, champs de
+44 px, focus visible, bouton rouge arrondi), mais les styles inline de Sender
+l'emportent. Réglages recommandés **dans l'éditeur de formulaire Sender** pour
+coller au site :
+
+| Élément | Réglage |
+|---|---|
+| Fond du formulaire | transparent ou blanc `#ffffff`, sans bordure ni ombre, sans marge (la carte du site les fournit) |
+| Largeur | 100 % |
+| Titre | aucun (la carte affiche déjà « S'inscrire » / « Envoyer un message ») |
+| Texte, libellés | `#1d1d1f` ; texte secondaire `#595959` |
+| Champs | fond blanc, bordure `#8a8a86` 1 px, rayon 6 px, hauteur ≥ 44 px |
+| Bouton | fond `#ca2026` (survol `#9e191e`), texte blanc, rayon 999 px (pilule), majuscules |
+| Polices | Georgia (texte) et Arial Narrow / Arial (bouton) : proches de Lora et Oswald, sans police Google (bloquée par la CSP) |
+
+**CSP** (image Docker) : `docker/security-headers.conf` garde la politique
+stricte (`'self'` uniquement) sur tout le site ;
+`docker/security-headers-sender.conf` l'ouvre à `https://*.sender.net`
+(scripts, styles inline, images, polices, `connect-src`, `frame-src`,
+`form-action`) pour la seule `location ~ ^/(newsletter|contact)/` de
+`docker/nginx.conf`. Les en-têtes communs sont dans
+`security-headers-base.conf`. Si la console du navigateur signale une
+ressource bloquée sur ces pages (par exemple reCAPTCHA activé dans Sender :
+`www.google.com`, `www.gstatic.com`), l'ajouter **dans
+`security-headers-sender.conf` uniquement**. Sur GitHub Pages, aucun en-tête
+CSP n'est envoyé : rien à faire.
+
+**Vérifier après publication** : ouvrir `/newsletter/` et `/contact/`, envoyer
+un test, contrôler la console (aucune erreur CSP) et la réception dans
+Sender, en thème clair et sombre.
 
 ## Sécurité
 
@@ -340,3 +407,6 @@ branche : GitHub Pages limite un site à 1 Go.
 - ⚠️ D'anciens secrets (Reddit, S3 Scaleway, PostgreSQL, `SECRET_KEY`) figurent
   dans l'historique git d'avant la réécriture : ils doivent être **révoqués**.
 - Production sans code exécutable côté serveur (fichiers statiques seulement).
+- Seul tiers chargé par le navigateur : Sender (`*.sender.net`), et
+  uniquement sur `/newsletter/` et `/contact/` ; la CSP le refuse partout
+  ailleurs.

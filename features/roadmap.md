@@ -68,6 +68,15 @@ Statuts : ✅ fait · 🚧 en cours · 💡 idée / à valider avec le propriét
 - ✅ Accueil mobile : « À la une », puis les dernières news, puis le fil du
   moment.
 
+## v1.6 — Newsletter et contact (novembre 2026) ✅
+
+- ✅ Page `/newsletter/` : inscription par un formulaire Sender.net, intégré
+  au design du site (bandeau, carte, états de chargement et d'erreur).
+- ✅ Page `/contact/` : formulaire de contact Sender.net (questions,
+  signalements, demandes de retrait, droits RGPD).
+- ✅ CSP ouverte à `*.sender.net` sur ces deux pages seulement ; mentions
+  légales mises à jour (données personnelles, Sender).
+
 ## Prochaines étapes
 
 - 💡 **Synthèses des fils** (« Où en est le sujet ? ») et **revue de presse

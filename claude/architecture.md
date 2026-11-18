@@ -38,7 +38,7 @@ données, coût et surface d'attaque minimaux.
 | `insights.py` | Contenu original calculé : contexte d'une news (`news_context` : rang du jour, place dans ses fils) et portrait d'un fil (`tag_profile` : pic, médias, news la plus votée, fils voisins) |
 | `dates.py` | `format_date` : format de date Django en heure locale, avec « 1er » pour le premier du mois (filtre de template `date_fr`) |
 | `timeline.py` | Historique d'un tag : frise horizontale ajustée à l'historique (`build_timeline`, points ou barres, carte au survol) et Fil vertical (`build_thread`, découpé par année via `thread_years`, page du tag) |
-| `views.py`, `urls.py` | Pages, fragment de frise, OAuth Reddit (local uniquement) |
+| `views.py`, `urls.py` | Pages, fragment de frise, pages newsletter et contact (identifiants `SENDER_*` des réglages), OAuth Reddit (local uniquement) |
 | `feeds.py`, `sitemaps.py` | RSS et sitemaps (index + une section par fichier) |
 | `templatetags/filnews_tags.py` | URLs absolues, médias, JSON-LD, `has_tag_page` |
 | `assets.py` | Compilation SCSS → CSS (libsass) |
@@ -64,6 +64,7 @@ sont recalculés paresseusement en mémoire après chaque mutation.
 | `/` | Accueil : bandeau, news la plus populaire des 24 h, fil du tag le plus actif sur 48 h, 5 dernières news, 7 fils du moment (7 jours), encart présidentielle, lien RSS. Ordre du HTML = ordre mobile (une, dernières news, fil du moment, compléments) ; la grille `.home-layout--front` replace le fil à côté de la une sur grand écran |
 | `/presidentielle-2027/`, `/presidentielle-2027/<candidat>/` | Candidats et fil de la campagne ; fil d'un candidat depuis 2025 |
 | `/mentions-legales/` | Mentions légales, lien vers le code source |
+| `/newsletter/`, `/contact/` | Formulaires Sender.net (inscription à la newsletter, contact), chargés par `static/js/sender.js` ; seules pages avec une CSP ouverte à `*.sender.net` |
 | `/news/<slug>-<id>/` | Fiche news (résumé, liens source/Reddit, tags, news liées) |
 | `/archives/` | Mois par année (nombre de news) |
 | `/archives/<AAAA>/<MM>/` | News du mois, jour par jour (`/archives/page/<n>/` → 301 vers `/archives/`, nginx) |
@@ -129,3 +130,11 @@ restauration de `data/media` depuis `pages` (vignettes hors git), `ingest_news
   les pages (fiches et fils) gagnent des blocs calculés à partir des données
   du site (`insights.py`).
 - **Vignettes hors git** : ~200 Mo ; copiées dans l'image, régénérables.
+- **Newsletter et contact par Sender.net** (novembre 2026, demande du
+  propriétaire) : le site reste statique, Sender reçoit et stocke les
+  données. Pages dédiées plutôt qu'un formulaire sur l'accueil : le script
+  tiers et la CSP élargie (`docker/security-headers-sender.conf`, styles
+  inline compris) restent confinés à `/newsletter/` et `/contact/`. Le
+  snippet inline de Sender est déplacé dans `static/js/sender.js` ; la
+  carte du formulaire reste claire en mode sombre, le rendu de Sender
+  n'étant pas pilotable par le thème.

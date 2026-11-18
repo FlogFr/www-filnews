@@ -35,6 +35,11 @@ jour dès qu'une règle change ou qu'une préférence du propriétaire est expri
 - nginx envoie une CSP stricte (`'self'` uniquement) : **pas de script/style
   inline**, pas de CDN, pas de ressource tierce (polices auto-hébergées).
   L'attribut `style=""` est donc interdit dans les templates.
+- Seule exception : `/newsletter/` et `/contact/` chargent les formulaires
+  Sender.net (`docker/security-headers-sender.conf`, `*.sender.net`). Ne pas
+  élargir cette CSP aux autres pages ni intégrer un formulaire Sender
+  ailleurs sans l'accord du propriétaire ; un snippet tiers inline se
+  déplace dans un fichier JS de `static/js/`.
 
 ## Front-end
 
@@ -88,8 +93,13 @@ jour dès qu'une règle change ou qu'une préférence du propriétaire est expri
   (`filnews/media.py`) ; mettre la doc à jour à chaque changement de liste.
 - Slogan : « L'actualité vue par r/france » (r/france ne représente pas « les
   Français »).
-- Mentions légales sans contact ni identité de l'éditeur (éditeur non
-  professionnel, LCEN art. 6-III-2) ; le code source reste public sur GitHub.
+- Mentions légales sans identité de l'éditeur ni adresse e-mail publiée
+  (éditeur non professionnel, LCEN art. 6-III-2) ; le contact passe par le
+  formulaire Sender de `/contact/` ; le code source reste public sur GitHub.
+- Newsletter et contact : formulaires **Sender.net** (compte et formulaires
+  dans `SENDER_*` de `settings.py`) ; leurs champs et textes se règlent dans
+  Sender. Toute collecte de données doit être décrite dans les mentions
+  légales (section `#donnees-personnelles`).
 - Design : suivre les maquettes de `design/*.png` en gardant l'identité
   actuelle (couleurs, polices, mode sombre).
 - Les anciens templates du thème et l'ancien code Django ont été supprimés

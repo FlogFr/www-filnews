@@ -30,7 +30,7 @@ RUN python manage.py build_site --output /app/dist \
 FROM nginxinc/nginx-unprivileged:1.27-alpine
 
 COPY docker/nginx.conf /etc/nginx/conf.d/default.conf
-COPY docker/security-headers.conf /etc/nginx/snippets/security-headers.conf
+COPY docker/security-headers*.conf /etc/nginx/snippets/
 COPY --from=build /app/dist /usr/share/nginx/html
 
 EXPOSE 8000

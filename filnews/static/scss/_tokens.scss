@@ -9,7 +9,7 @@ $breakpoint-lg: 64rem;
 $font-heading: "Oswald", "Arial Narrow", "Helvetica Neue", Arial, sans-serif;
 $font-body: "Lora", Georgia, "Times New Roman", serif;
 
-:root {
+@mixin light-tokens {
   --color-brand: #{$brand};
   --color-brand-strong: #{darken($brand, 10%)};
   --color-text: #1d1d1f;
@@ -19,7 +19,12 @@ $font-body: "Lora", Georgia, "Times New Roman", serif;
   --color-border: #e3e3e0;
   --color-focus: #1a5fb4;
   --color-on-brand: #ffffff;
+  --shadow: 0 1px 2px rgba(0, 0, 0, 0.06), 0 4px 16px rgba(0, 0, 0, 0.06);
   color-scheme: light;
+}
+
+:root {
+  @include light-tokens;
 
   --radius: 6px;
   --space-1: 0.25rem;
@@ -28,7 +33,6 @@ $font-body: "Lora", Georgia, "Times New Roman", serif;
   --space-4: 1.5rem;
   --space-5: 2.5rem;
   --container: 72rem;
-  --shadow: 0 1px 2px rgba(0, 0, 0, 0.06), 0 4px 16px rgba(0, 0, 0, 0.06);
 }
 
 @mixin dark-tokens {

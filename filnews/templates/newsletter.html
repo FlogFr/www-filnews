@@ -1,0 +1,44 @@
+{% extends "base.html" %}
+{% load static filnews_tags %}
+
+{% block title %}Newsletter — {{ SITE_NAME }}{% endblock %}
+{% block description %}Inscrivez-vous gratuitement à la newsletter de {{ SITE_NAME }} : l'actualité vue par r/france, remise dans son fil, directement dans votre boîte mail.{% endblock %}
+{% block og_title %}La newsletter de {{ SITE_NAME }}{% endblock %}
+{% block structured_data %}{% breadcrumb_ld "Accueil" "/" "Newsletter" request.path %}{% endblock %}
+{% block scripts %}<script type="module" src="{% static 'js/sender.js' %}"></script>{% endblock %}
+
+{% block intro %}
+{# Mobile order: title, form, then the promises; wide screens put the form on the right (_forms.scss). #}
+<section class="form-hero" aria-labelledby="page-title">
+  <div class="container form-hero__inner">
+    <div class="form-hero__head">
+      {% include "partials/breadcrumb.html" with current="Newsletter" %}
+      <p class="form-hero__kicker">{% include "partials/icon_mail.html" %} Newsletter</p>
+      <h1 class="form-hero__title" id="page-title">Le fil de l'actu,<br><span>dans votre boîte mail.</span></h1>
+      <p class="form-hero__lead">Les news qui ont fait réagir r/france, reliées à leurs fils : recevez-les par e-mail, sans avoir à revenir sur le site.</p>
+    </div>
+
+    <section class="form-card" aria-labelledby="form-title">
+      <h2 class="form-card__title" id="form-title">S'inscrire</h2>
+      <p class="form-card__intro">Gratuit — une adresse e-mail suffit.</p>
+      {% url 'rss' as rss_url %}
+      {% include "partials/sender_form.html" with account=sender_account form_id=sender_form alt_url=rss_url alt_label="suivez FilNews par le flux RSS" %}
+      <p class="form-card__note">Inscription gérée par notre prestataire d'envoi d'e-mails, Sender. Votre adresse ne sert qu'à vous envoyer la newsletter : voir les <a href="{% url 'legal' %}#donnees-personnelles">mentions légales</a>.</p>
+    </section>
+
+    <ul class="form-hero__points">
+      <li><strong>Gratuite et sans publicité</strong>, comme le site.</li>
+      <li><strong>Sans engagement</strong> : un lien de désinscription dans chaque e-mail.</li>
+      <li><strong>Votre adresse reste privée</strong> : jamais revendue ni partagée.</li>
+    </ul>
+  </div>
+</section>
+{% endblock %}
+
+{% block content %}
+<section class="panel panel--outline form-alt" aria-labelledby="rss-title">
+  <h2 class="panel__title" id="rss-title">Vous préférez un lecteur de flux ?</h2>
+  <p>Toutes les news, de la plus récente à la plus ancienne, sans adresse e-mail : ajoutez le flux RSS de {{ SITE_NAME }} à Feedly, NetNewsWire, Thunderbird…</p>
+  <a class="button button--ghost" href="{% url 'rss' %}">{% include "partials/icon_rss.html" %}<span>S'abonner au flux RSS</span></a>
+</section>
+{% endblock %}

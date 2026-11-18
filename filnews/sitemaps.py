@@ -23,6 +23,8 @@ class StaticSitemap(Sitemap):
             ("election", ()),
             *[("election_candidate", (c.slug,)) for c in CANDIDATES],
             ("about", ()),
+            ("newsletter", ()),
+            ("contact", ()),
             ("legal", ()),
             *months,
         ]

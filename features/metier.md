@@ -127,7 +127,7 @@ suscitant le plus d'intérêt (le détail des seuils reste dans la doc technique
     une page qui comptent le plus de news sur les **7 derniers jours**, avec
     leur sorte (Personnalité / Thème).
   - Encart **Présidentielle 2027** (candidats déclarés), légende des deux
-    sortes de fils, lien vers le flux RSS.
+    sortes de fils, encart « Suivre FilNews » (newsletter et flux RSS).
   - **Ordre sur mobile** (une colonne) : « À la une », les 5 dernières news,
     le fil du moment, puis les compléments (fils du moment, présidentielle,
     RSS). Sur grand écran, le fil du moment est à côté de « À la une » et les
@@ -195,6 +195,28 @@ suscitant le plus d'intérêt (le détail des seuils reste dans la doc technique
 - **News liées** : jusqu'à 5 news partageant le plus de tags, parmi les 150
   news les plus proches dans le temps de chaque tag.
 - **RSS** : toutes les news, de la plus récente à la plus ancienne.
+
+## Newsletter et contact
+
+- Deux formulaires **Sender.net** (prestataire d'e-mailing), sur deux pages
+  dédiées : **`/newsletter/`** (inscription, formulaire `av2n0M`) et
+  **`/contact/`** (message à l'éditeur, formulaire `eXDyKo`), compte Sender
+  `75dad446768701` (`SENDER_*` dans `filnews/settings.py`).
+- Les **champs, textes, messages de confirmation et l'envoi** de la
+  newsletter se gèrent dans l'interface de Sender, pas dans le code. Le site
+  ne voit jamais les données saisies.
+- Liens : « Newsletter » dans l'en-tête, « Newsletter » et « Contact » dans
+  le pied de page, encart « Suivre FilNews » de l'accueil, page « À propos ».
+- **Aucune autre page ne charge Sender** (vie privée, CSP stricte) : le
+  formulaire n'est pas intégré dans l'accueil.
+- Promesses affichées sur la page newsletter : gratuite et sans publicité,
+  désinscription dans chaque e-mail, adresse jamais revendue ni partagée.
+- La page contact sert aussi aux **demandes de retrait** des éditeurs de
+  presse et à l'**exercice des droits RGPD** (mentions légales) ; les
+  signalements publics restent possibles par ticket GitHub.
+- Sans JavaScript, ou si un bloqueur empêche Sender de se charger, un message
+  propose une alternative : le flux RSS (newsletter) ou un ticket GitHub
+  (contact).
 
 ## Fraîcheur
 

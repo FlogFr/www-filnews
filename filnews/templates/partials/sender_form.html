@@ -1,0 +1,16 @@
+{% comment %}
+A Sender.net form, rendered by Sender's script (loaded by js/sender.js).
+Without JavaScript, or when the script is blocked, the fallback is shown.
+Parameters: account, form_id, alt_url and alt_label (optional alternative).
+No style="" attribute: the CSP forbids inline styles (see _forms.scss).
+{% endcomment %}
+<div class="form-embed" data-sender-account="{{ account }}">
+  <div class="sender-form-field" data-sender-form-id="{{ form_id }}"></div>
+  <div class="form-embed__loading" role="status">
+    <span class="visually-hidden">Chargement du formulaire…</span>
+    <span class="form-embed__skeleton form-embed__skeleton--label" aria-hidden="true"></span>
+    <span class="form-embed__skeleton" aria-hidden="true"></span>
+    <span class="form-embed__skeleton form-embed__skeleton--button" aria-hidden="true"></span>
+  </div>
+  <p class="form-embed__fallback">Le formulaire ne s'affiche pas ? Il a besoin de JavaScript et peut être bloqué par une extension du navigateur (bloqueur de publicités ou de traceurs) : autorisez <strong>sender.net</strong> sur cette page{% if alt_url %}, ou <a href="{{ alt_url }}">{{ alt_label }}</a>{% endif %}.</p>
+</div>

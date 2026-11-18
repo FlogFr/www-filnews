@@ -76,7 +76,7 @@ production.
   heures : ses 5 dernières news sur une ligne chronologique, avec l'écart entre
   elles), les 5 dernières news avec leurs fils, les **7 fils du
   moment** (les plus présents sur 7 jours, avec leur sorte : personnalité ou
-  thème), un encart vers la présidentielle 2027 et le flux RSS. Sur mobile :
+  thème), un encart vers la présidentielle 2027, la newsletter et le flux RSS. Sur mobile :
   à la une, puis les dernières news, puis le fil du moment.
 - **Présidentielle 2027** (`/presidentielle-2027/`) : les candidats déclarés
   et pressentis (`filnews/elections.py`, édité à la main) avec leurs fils
@@ -103,9 +103,16 @@ production.
     au-delà de 60 news, le Fil est découpé par année ;
   - un tag n'a sa page qu'à partir de 2 news (sinon : texte simple) ;
   - un index alphabétique des tags, avec une barre de lettres.
+- **Newsletter** (`/newsletter/`) et **formulaire de contact** (`/contact/`) :
+  formulaires [Sender.net](https://www.sender.net) intégrés au design du site
+  (carte, chargement, message si un bloqueur les empêche de s'afficher),
+  liés depuis l'en-tête, le pied de page, l'accueil et « À propos ». Les
+  formulaires et l'envoi se gèrent dans Sender ; identifiants dans
+  `filnews/settings.py` (`SENDER_*`).
 - **Flux RSS** de toutes les news (les plus récentes d'abord), page « À
   propos », **mentions légales** (éditeur non professionnel, hébergeur, données
-  personnelles, lien vers le code source sur GitHub), page 404.
+  personnelles dont newsletter et contact, lien vers le code source sur
+  GitHub), page 404.
 - **Thème clair/sombre** : automatique, avec un bouton pour choisir.
 
 ### Qualité
@@ -122,8 +129,8 @@ production.
   JavaScript (amélioration progressive).
 - **Performance et sécurité** : site rendu en parallèle (un processus par
   CPU), fichiers statiques pré-compressés, CSS/JS aux
-  noms hashés (cache 1 an), CSP stricte, nginx non-root, aucun secret dans
-  l'image.
+  noms hashés (cache 1 an), CSP stricte (ouverte à Sender sur les seules
+  pages newsletter et contact), nginx non-root, aucun secret dans l'image.
 
 ## Démarrage rapide
 

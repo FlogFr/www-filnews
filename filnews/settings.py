@@ -150,6 +150,13 @@ FILNEWS_TIMELINE_MAX_DOTS = 40
 # original content. Set to true to index them again.
 FILNEWS_INDEX_NEWS = env_bool("FILNEWS_INDEX_NEWS", False)
 
+# Sender.net forms (/newsletter/ and /contact/). These IDs are public (they
+# end up in the pages' HTML); the forms' fields and texts are edited in
+# Sender's form editor, not here.
+SENDER_ACCOUNT_ID = "75dad446768701"
+SENDER_NEWSLETTER_FORM_ID = "av2n0M"
+SENDER_CONTACT_FORM_ID = "eXDyKo"
+
 # Reddit API — secrets come from the environment only.
 REDDIT_CLIENT_ID = os.environ.get("REDDIT_CLIENT_ID", "")
 REDDIT_CLIENT_SECRET = os.environ.get("REDDIT_CLIENT_SECRET", "")

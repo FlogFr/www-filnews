@@ -305,6 +305,33 @@ def about(request: HttpRequest) -> HttpResponse:
 
 
 @require_GET
+def newsletter(request: HttpRequest) -> HttpResponse:
+    """Newsletter sign-up: a Sender.net form, loaded by js/sender.js."""
+    return render(
+        request,
+        "newsletter.html",
+        {
+            "sender_account": settings.SENDER_ACCOUNT_ID,
+            "sender_form": settings.SENDER_NEWSLETTER_FORM_ID,
+        },
+    )
+
+
+@require_GET
+def contact(request: HttpRequest) -> HttpResponse:
+    """Contact form: a Sender.net form, loaded by js/sender.js."""
+    return render(
+        request,
+        "contact.html",
+        {
+            "sender_account": settings.SENDER_ACCOUNT_ID,
+            "sender_form": settings.SENDER_CONTACT_FORM_ID,
+            "issues_url": f"{settings.SITE_SOURCE_URL}/issues",
+        },
+    )
+
+
+@require_GET
 def robots_txt(request: HttpRequest) -> HttpResponse:
     return render(request, "robots.txt", content_type="text/plain; charset=utf-8")
 

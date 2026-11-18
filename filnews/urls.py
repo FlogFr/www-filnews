@@ -29,6 +29,8 @@ urlpatterns = [
     ),
     path("a-propos/", views.about, name="about"),
     path("mentions-legales/", views.legal, name="legal"),
+    path("newsletter/", views.newsletter, name="newsletter"),
+    path("contact/", views.contact, name="contact"),
     path("rss.xml", NewsFeed(), name="rss"),
     path(
         "sitemap.xml",
