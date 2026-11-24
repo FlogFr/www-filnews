@@ -45,8 +45,11 @@ suscitant le plus d'intérêt (le détail des seuils reste dans la doc technique
      réseaux sociaux (**Twitter/X**, Facebook…), hébergeurs d'images,
      Wikipédia, blogs et plateformes d'autopublication, sites satiriques
      (Le Gorafi…) ;
-   - **médias autorisés** : presse nationale et régionale, audiovisuel,
-     médias indépendants, presse tech/science, presse étrangère, institutions ;
+   - **médias autorisés**, classés par famille (`MEDIA_FAMILIES`) : presse
+     nationale (et AFP), radio et télévision, presse régionale, médias
+     indépendants, presse spécialisée (tech, science, santé, défense,
+     consommation), médias étrangers (européens, francophones,
+     internationaux), institutions et ONG ;
    - par défaut (`FILNEWS_MEDIA_WHITELIST=1`), seuls les médias autorisés
      sont ingérés ; sinon, tout site non refusé l'est. Un sous-domaine refusé
      l'emporte sur un domaine autorisé (`blogs.mediapart.fr`).
@@ -201,7 +204,44 @@ suscitant le plus d'intérêt (le détail des seuils reste dans la doc technique
     plus actif** (si au moins 3 news sur plusieurs mois et au moins 2 news
     ce mois-là), **3 médias les plus cités** (au moins 2 news chacun, à
     partir de 3 news), news la plus votée, **3 fils voisins** (ceux qui
-    partagent le plus de news).
+    partagent le plus de news) ;
+  - **lecture critique d'un fil** (`tag_reading`), sous le portrait, à
+    partir de **10 news** : un regard objectif, **comparé à l'ensemble du
+    site**, sans avis sur le contenu des articles ni classement politique des
+    médias. Une phrase de synthèse (« Un sujet retombé qui a fait débat sur
+    r/france, raconté par peu de médias, souvent lié au fil
+    Environnement. »), puis :
+    - **Rythme** : *retombé* (aucune news depuis 6 mois, avec sa vague
+      éventuelle), *récent* (première news il y a moins de 90 jours), *par
+      vagues* (au moins 40 % des news, ou du poids des news, sur 3 mois
+      consécutifs, et au moins 25 % des news, pour un fil couvrant 12 mois
+      ou plus), *de fond* (présent au moins un mois sur deux, sur 24 mois ou
+      plus), sinon *intermittent*. Le poids d'une news est l'inverse du
+      nombre de tags donnés par le site ce mois-là : le site garde bien plus
+      de news qu'en 2016, et les news analysées depuis novembre 2026 (texte
+      de l'article) reçoivent environ deux fois plus de tags que l'historique
+      retaggé. Pour la même raison, **pas de « tendance récente »** : elle
+      mesurerait surtout ce changement (à revoir après une ré-analyse
+      complète) ;
+    - **Sources** : nombre de médias ; *sources concentrées* si un média
+      fournit au moins 35 % des news ou trois médias 65 % ; **famille de
+      médias** surreprésentée (au moins 25 % du fil et 15 points de plus que
+      sur le site) ou sous-représentée (au plus le tiers de sa part sur le
+      site, pour une famille d'au moins 10 % du site). Familles :
+      `MEDIA_FAMILIES` de `filnews/media.py` (presse nationale, radio et
+      télévision, presse régionale, médias indépendants, presse spécialisée,
+      médias étrangers, institutions et ONG) ;
+    - **Angles** : les 2 fils qui partagent le plus de ses news (au moins
+      15 %), et le changement d'angle principal entre les 12 derniers mois
+      et avant (au moins 8 news de chaque côté, angle d'au moins 20 %) ;
+    - **Réception** : commentaires par vote et votes de sa news médiane,
+      rapportés à la news médiane **du même mois** sur le site (les scores
+      ont beaucoup augmenté en dix ans) ; *fait débat* à partir de 1,4 fois
+      plus de commentaires par vote, *peu de discussions* à 0,7 ou moins ;
+      plus voté à partir de +15 %, moins voté à partir de −13 % ;
+    - **Limites** (toujours) : un fil ne retient que ce qui a fait réagir
+      r/france, qui ne représente pas les Français ; classement automatique ;
+      lecture calculée, qui ne juge pas les articles.
 - **Indexation** : les fiches news reprennent surtout leur source (titre,
   description) : `noindex, follow` et hors sitemap par défaut
   (`FILNEWS_INDEX_NEWS`). Les pages de fils, de la présidentielle, les

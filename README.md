@@ -97,7 +97,10 @@ production.
     news en avant dans la liste ;
   - au **clic**, la page du tag commence par un **portrait chiffré** du sujet
     (période couverte, mois le plus actif, médias les plus cités, news la
-    plus votée, fils voisins), puis présente **le Fil** : toutes ses news sur une
+    plus votée, fils voisins) et, à partir de 10 news, une **lecture
+    critique** comparée à l'ensemble du site (rythme du sujet, concentration
+    et familles de médias, angles, réception sur r/france, limites), calculée
+    sans service externe ; puis elle présente **le Fil** : toutes ses news sur une
     ligne verticale, de la plus récente à la plus ancienne, avec l'écart de
     temps entre deux news ; la news au centre de l'écran est mise en avant ;
     au-delà de 60 news, le Fil est découpé par année ;

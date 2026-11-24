@@ -116,8 +116,14 @@ jour dès qu'une règle change ou qu'une préférence du propriétaire est expri
 - Tags : uniquement **personnalités politiques** et **grands thèmes politiques
   et sociétaux** (`filnews/vocabulary.py`) ; pas de lieux, organisations ni
   flairs génériques.
-- Médias : liste blanche de médias autorisés + liste de sites refusés
-  (`filnews/media.py`) ; mettre la doc à jour à chaque changement de liste.
+- Médias : liste blanche de médias autorisés, rangés par famille
+  (`MEDIA_FAMILIES`, utilisée par la lecture critique des fils) + liste de
+  sites refusés (`filnews/media.py`) ; tout nouveau média va dans une
+  famille ; mettre la doc à jour à chaque changement de liste.
+- Lecture critique des fils : objective et calculée (pas de modèle de
+  langue, pas de service externe, pas de classement politique des médias) ;
+  toute comparaison se fait au site du même mois. Une synthèse rédigée par
+  un modèle demande l'accord du propriétaire (voir la roadmap).
 - Slogan : « L'actualité vue par r/france » (r/france ne représente pas « les
   Français »).
 - Mentions légales sans identité de l'éditeur ni adresse e-mail publiée

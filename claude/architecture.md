@@ -30,12 +30,12 @@ données, coût et surface d'attaque minimaux.
 | `store.py` | `NewsStore` : base fichiers JSON (1 fichier/mois), chargée au démarrage, rechargée si les fichiers (ou les alias) changent, écritures atomiques + `flock` ; doublons par URL canonique (`canonical_url`, `UpsertResult`), alias de tags (`apply_aliases`), index par mois, pages de tag, `related` borné |
 | `reddit.py` | Client OAuth2 Reddit minimal (`requests`) : refresh token si présent, sinon `client_credentials` ; `posts_by_id` (`/api/info`) |
 | `archive.py` | Client Arctic Shift : découverte des ids de posts historiques par plage de dates (`backfill_news`) |
-| `media.py` | Politique des médias : `ALLOWED_DOMAINS` (liste blanche, active par défaut via `FILNEWS_MEDIA_WHITELIST`) et `BLOCKED_DOMAINS` (toujours refusés : YouTube, réseaux sociaux, satire…), comparaison domaine + sous-domaines |
+| `media.py` | Politique des médias : `ALLOWED_DOMAINS` (liste blanche, active par défaut via `FILNEWS_MEDIA_WHITELIST`, union des familles de `MEDIA_FAMILIES` : presse nationale, radio et télévision, régionale…, `media_family()`) et `BLOCKED_DOMAINS` (toujours refusés : YouTube, réseaux sociaux, satire…), comparaison domaine + sous-domaines |
 | `ingestion.py` | Filtrage des posts (seuil, politique des médias) et conversion en `News` ; `select_backfill` (≥ seuil, top N du mois ou top N du jour) |
 | `vocabulary.py` | Vocabulaire contrôlé des tags : `PERSONALITIES` (regex sensibles à la casse) et `THEMES` (insensibles sauf sigles), `lookup()` donne la sorte d'un tag |
 | `elections.py` | Présidentielle 2027 : `CANDIDATES` (édité à la main), fil d'un candidat (`candidate_news`), fil de la campagne (`election_news`) |
 | `analysis/` | `fetch` (HTTP borné, Wayback Machine), `extract` (métadonnées HTML), `text` (tags par score sur le vocabulaire, résumé), `thumbnails` (WebP 640×360), `analyzers` (heuristique / modèle local) |
-| `insights.py` | Contenu original calculé : contexte d'une news (`news_context` : rang du jour, place dans ses fils) et portrait d'un fil (`tag_profile` : pic, médias, news la plus votée, fils voisins) |
+| `insights.py` | Contenu original calculé : contexte d'une news (`news_context` : rang du jour, place dans ses fils), portrait d'un fil (`tag_profile` : pic, médias, news la plus votée, fils voisins) et lecture critique d'un fil (`tag_reading` : rythme, sources et familles de médias, angles, réception, comparés aux valeurs du site par mois, `SiteBaseline` mise en cache par état du store) |
 | `dates.py` | `format_date` : format de date Django en heure locale, avec « 1er » pour le premier du mois (filtre de template `date_fr`) |
 | `timeline.py` | Historique d'un tag : frise horizontale ajustée à l'historique (`build_timeline`, points ou barres, carte au survol) et Fil vertical (`build_thread`, découpé par année via `thread_years`, page du tag) |
 | `views.py`, `urls.py` | Pages, fragment de frise, pages newsletter et contact (identifiants `SENDER_*` des réglages), OAuth Reddit (local uniquement) |
@@ -129,6 +129,15 @@ restauration de `data/media` depuis `pages` (vignettes hors git), `ingest_news
   elles sont en `noindex, follow` et hors sitemap (`FILNEWS_INDEX_NEWS`), et
   les pages (fiches et fils) gagnent des blocs calculés à partir des données
   du site (`insights.py`).
+- **Lecture critique des fils** (novembre 2026, demande du propriétaire :
+  un résumé « avec un esprit critique objectif ») : calculée à partir des
+  données du site, sans modèle de langue ni service externe (gratuit,
+  déterministe, rien d'inventé sur des personnalités nommées). Chaque
+  chiffre est comparé au site **mois par mois** (volumes ×8 depuis 2016,
+  scores en hausse, deux fois plus de tags depuis l'analyse sur le texte
+  complet) ; pas de tendance récente tant que l'historique n'est pas
+  ré-analysé. Pas de classement politique des médias (subjectif). Une
+  synthèse rédigée par un modèle reste une option à valider (roadmap).
 - **Vignettes hors git** : ~200 Mo ; copiées dans l'image, régénérables.
 - **Newsletter et contact par Sender.net** (novembre 2026, demande du
   propriétaire) : le site reste statique, Sender reçoit et stocke les

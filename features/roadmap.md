@@ -81,10 +81,25 @@ Statuts : ✅ fait · 🚧 en cours · 💡 idée / à valider avec le propriét
   « Le Fil du mois », mention reCAPTCHA, CSP Docker complétée (reCAPTCHA,
   API Sender).
 
+## v1.7 — Lecture critique des fils (novembre 2026) ✅
+
+- ✅ Bloc « Lecture critique » sur les pages de fils (10 news et plus) :
+  synthèse en une phrase, rythme, sources et familles de médias, angles,
+  réception sur r/france, limites ; tout est comparé au reste du site et
+  calculé sans service externe (`insights.tag_reading`).
+- ✅ Médias autorisés regroupés par famille (`MEDIA_FAMILIES`).
+
 ## Prochaines étapes
 
 - 💡 **Synthèses des fils** (« Où en est le sujet ? ») et **revue de presse
-  hebdomadaire**, rédigées par un modèle à partir de plusieurs articles.
+  hebdomadaire**, rédigées par un modèle à partir de plusieurs articles. À
+  valider avec le propriétaire : modèle local (Ollama…) lancé à la main ou
+  dans le workflow, ou API externe gratuite (contraire à la préférence
+  « pas d'API externe ») ; relecture humaine conseillée (personnalités
+  politiques nommées, risque d'erreurs).
+- 💡 **Tendance récente** d'un fil (en hausse / en baisse) : en attente d'une
+  ré-analyse complète, les news récentes ayant deux fois plus de tags que
+  l'historique.
 - 💡 **Textes éditoriaux** écrits à la main pour les candidats et les plus
   gros fils.
 
