@@ -6,10 +6,8 @@ Two hand-edited lists, matched on the domain and all its subdomains
 - `BLOCKED_DOMAINS`: never ingested, whatever the settings (videos, social
   networks, image hosts, Reddit itself, satire…): there is no article to
   summarize, or it is not news.
-- `ALLOWED_DOMAINS`: recognised news media, grouped by family in
-  `MEDIA_FAMILIES` (national press, broadcasters, regional press…). With
-  `FILNEWS_MEDIA_WHITELIST` (default), only these are ingested; otherwise any
-  unblocked site is.
+- `ALLOWED_DOMAINS`: recognised news media. With `FILNEWS_MEDIA_WHITELIST`
+  (default), only these are ingested; otherwise any unblocked site is.
 
 A blocked subdomain wins over an allowed parent (`blogs.mediapart.fr`).
 """
@@ -72,233 +70,190 @@ BLOCKED_DOMAINS = frozenset(
     }
 )
 
-# Recognised news media, by family. The family of a news' media feeds the
-# "Lecture critique" of a Fil (`insights.tag_reading`): who tells the story.
-MEDIA_FAMILIES: dict[str, frozenset[str]] = {
-    "national": frozenset(
-        {
-            # National press and news agency.
-            "lemonde.fr",
-            "lefigaro.fr",
-            "liberation.fr",
-            "leparisien.fr",
-            "humanite.fr",
-            "la-croix.com",
-            "lopinion.fr",
-            "lesechos.fr",
-            "latribune.fr",
-            "20minutes.fr",
-            "lejdd.fr",
-            "mediapart.fr",
-            "huffingtonpost.fr",
-            "slate.fr",
-            "marianne.net",
-            "lepoint.fr",
-            "lexpress.fr",
-            "nouvelobs.com",
-            "challenges.fr",
-            "capital.fr",
-            "courrierinternational.com",
-            "telerama.fr",
-            "lesinrocks.com",
-            "parismatch.com",
-            "politis.fr",
-            "lecanardenchaine.fr",
-            "charliehebdo.fr",
-            "monde-diplomatique.fr",
-            "alternatives-economiques.fr",
-            "atlantico.fr",
-            "valeursactuelles.com",
-            "usinenouvelle.com",
-            "businessinsider.fr",
-            "legrandcontinent.eu",
-            "lesjours.fr",
-            "afp.com",
-        }
-    ),
-    "broadcast": frozenset(
-        {
-            # Public and private broadcasters.
-            "francetvinfo.fr",
-            "franceinfo.fr",
-            "radiofrance.fr",
-            "franceinter.fr",
-            "franceculture.fr",
-            "francebleu.fr",
-            "ici.fr",
-            "france24.com",
-            "rfi.fr",
-            "arte.tv",
-            "tv5monde.com",
-            "publicsenat.fr",
-            "lcp.fr",
-            "bfmtv.com",
-            "rmc.fr",
-            "tf1info.fr",
-            "lci.fr",
-            "europe1.fr",
-            "rtl.fr",
-            "cnews.fr",
-            "lequipe.fr",
-            "eurosport.fr",
-        }
-    ),
-    "regional": frozenset(
-        {
-            "ouest-france.fr",
-            "sudouest.fr",
-            "ladepeche.fr",
-            "lavoixdunord.fr",
-            "midilibre.fr",
-            "lindependant.fr",
-            "ledauphine.com",
-            "laprovence.com",
-            "nicematin.com",
-            "varmatin.com",
-            "leprogres.fr",
-            "estrepublicain.fr",
-            "dna.fr",
-            "lalsace.fr",
-            "republicain-lorrain.fr",
-            "letelegramme.fr",
-            "charentelibre.fr",
-            "lamontagne.fr",
-            "lanouvellerepublique.fr",
-            "paris-normandie.fr",
-            "courrier-picard.fr",
-            "actu.fr",
-            "lyonmag.com",
-            "rue89strasbourg.com",
-            "marsactu.fr",
-            "mediacites.fr",
-        }
-    ),
-    "independent": frozenset(
-        {
-            # Independent and investigative media.
-            "streetpress.com",
-            "arretsurimages.net",
-            "reporterre.net",
-            "blast-info.fr",
-            "bastamag.net",
-            "basta.media",
-            "lareleveetlapeste.fr",
-            "disclose.ngo",
-            "rapportsdeforce.fr",
-            "frustrationmagazine.fr",
-            "acrimed.org",
-            "contre-attaque.net",
-            "bonpote.com",
-            "vert.eco",
-            "theconversation.com",
-            "usbeketrica.com",
-            "mrmondialisation.org",
-        }
-    ),
-    "specialized": frozenset(
-        {
-            # Tech, science, health, defence, consumers.
-            "numerama.com",
-            "next.ink",
-            "nextinpact.com",
-            "frandroid.com",
-            "lesnumeriques.com",
-            "clubic.com",
-            "01net.com",
-            "developpez.com",
-            "zdnet.fr",
-            "presse-citron.net",
-            "phonandroid.com",
-            "korii.slate.fr",
-            "futura-sciences.com",
-            "sciencesetavenir.fr",
-            "geo.fr",
-            "quechoisir.org",
-            "egora.fr",
-            "opex360.com",
-            "meta-defense.fr",
-        }
-    ),
-    "foreign": frozenset(
-        {
-            # European media.
-            "euractiv.fr",
-            "euractiv.com",
-            "politico.eu",
-            "euronews.com",
-            # French-speaking foreign media.
-            "lalibre.be",
-            "lesoir.be",
-            "rtbf.be",
-            "rtl.be",
-            "7sur7.be",
-            "rts.ch",
-            "letemps.ch",
-            "20min.ch",
-            "ledevoir.com",
-            "lapresse.ca",
-            "radio-canada.ca",
-            "lorientlejour.com",
-            "jeuneafrique.com",
-            # International media.
-            "theguardian.com",
-            "bbc.com",
-            "bbc.co.uk",
-            "nytimes.com",
-            "washingtonpost.com",
-            "reuters.com",
-            "apnews.com",
-            "bloomberg.com",
-            "economist.com",
-            "ft.com",
-            "telegraph.co.uk",
-            "independent.co.uk",
-            "cnn.com",
-            "politico.com",
-            "thehill.com",
-            "newsweek.com",
-            "arstechnica.com",
-            "spiegel.de",
-            "elpais.com",
-            "aljazeera.com",
-            "timesofisrael.com",
-        }
-    ),
-    "institutions": frozenset(
-        {
-            # Institutions and NGOs (primary sources).
-            "assemblee-nationale.fr",
-            "senat.fr",
-            "legifrance.gouv.fr",
-            "gouvernement.fr",
-            "elysee.fr",
-            "conseil-constitutionnel.fr",
-            "conseil-etat.fr",
-            "courdecassation.fr",
-            "ccomptes.fr",
-            "insee.fr",
-            "diplomatie.gouv.fr",
-            "news.un.org",
-            "amnesty.fr",
-            "laquadrature.net",
-        }
-    ),
-}
-
-MEDIA_FAMILY_LABELS = {
-    "national": "presse nationale",
-    "broadcast": "radio et télévision",
-    "regional": "presse régionale",
-    "independent": "médias indépendants",
-    "specialized": "presse spécialisée",
-    "foreign": "médias étrangers",
-    "institutions": "institutions et ONG",
-}
-
-ALLOWED_DOMAINS = frozenset().union(*MEDIA_FAMILIES.values())
-_FAMILY_OF = {
-    domain: family for family, domains in MEDIA_FAMILIES.items() for domain in domains
-}
+ALLOWED_DOMAINS = frozenset(
+    {
+        # National press.
+        "lemonde.fr",
+        "lefigaro.fr",
+        "liberation.fr",
+        "leparisien.fr",
+        "humanite.fr",
+        "la-croix.com",
+        "lopinion.fr",
+        "lesechos.fr",
+        "latribune.fr",
+        "20minutes.fr",
+        "lejdd.fr",
+        "mediapart.fr",
+        "huffingtonpost.fr",
+        "slate.fr",
+        "marianne.net",
+        "lepoint.fr",
+        "lexpress.fr",
+        "nouvelobs.com",
+        "challenges.fr",
+        "capital.fr",
+        "courrierinternational.com",
+        "telerama.fr",
+        "lesinrocks.com",
+        "parismatch.com",
+        "politis.fr",
+        "lecanardenchaine.fr",
+        "charliehebdo.fr",
+        "monde-diplomatique.fr",
+        "alternatives-economiques.fr",
+        "atlantico.fr",
+        "valeursactuelles.com",
+        "usinenouvelle.com",
+        "businessinsider.fr",
+        "legrandcontinent.eu",
+        "lesjours.fr",
+        # Public and private broadcasters.
+        "francetvinfo.fr",
+        "franceinfo.fr",
+        "radiofrance.fr",
+        "franceinter.fr",
+        "franceculture.fr",
+        "francebleu.fr",
+        "ici.fr",
+        "france24.com",
+        "rfi.fr",
+        "arte.tv",
+        "tv5monde.com",
+        "publicsenat.fr",
+        "lcp.fr",
+        "bfmtv.com",
+        "rmc.fr",
+        "tf1info.fr",
+        "lci.fr",
+        "europe1.fr",
+        "rtl.fr",
+        "cnews.fr",
+        "lequipe.fr",
+        "eurosport.fr",
+        # Regional press.
+        "ouest-france.fr",
+        "sudouest.fr",
+        "ladepeche.fr",
+        "lavoixdunord.fr",
+        "midilibre.fr",
+        "lindependant.fr",
+        "ledauphine.com",
+        "laprovence.com",
+        "nicematin.com",
+        "varmatin.com",
+        "leprogres.fr",
+        "estrepublicain.fr",
+        "dna.fr",
+        "lalsace.fr",
+        "republicain-lorrain.fr",
+        "letelegramme.fr",
+        "charentelibre.fr",
+        "lamontagne.fr",
+        "lanouvellerepublique.fr",
+        "paris-normandie.fr",
+        "courrier-picard.fr",
+        "actu.fr",
+        "lyonmag.com",
+        "rue89strasbourg.com",
+        "marsactu.fr",
+        "mediacites.fr",
+        # Independent and investigative media.
+        "streetpress.com",
+        "arretsurimages.net",
+        "reporterre.net",
+        "blast-info.fr",
+        "bastamag.net",
+        "basta.media",
+        "lareleveetlapeste.fr",
+        "disclose.ngo",
+        "rapportsdeforce.fr",
+        "frustrationmagazine.fr",
+        "acrimed.org",
+        "contre-attaque.net",
+        "bonpote.com",
+        "vert.eco",
+        "theconversation.com",
+        "usbeketrica.com",
+        "mrmondialisation.org",
+        # Tech and science.
+        "numerama.com",
+        "next.ink",
+        "nextinpact.com",
+        "frandroid.com",
+        "lesnumeriques.com",
+        "clubic.com",
+        "01net.com",
+        "developpez.com",
+        "zdnet.fr",
+        "presse-citron.net",
+        "phonandroid.com",
+        "korii.slate.fr",
+        "futura-sciences.com",
+        "sciencesetavenir.fr",
+        "geo.fr",
+        "quechoisir.org",
+        "egora.fr",
+        "opex360.com",
+        "meta-defense.fr",
+        "euractiv.fr",
+        "euractiv.com",
+        "politico.eu",
+        "euronews.com",
+        "afp.com",
+        # French-speaking foreign media.
+        "lalibre.be",
+        "lesoir.be",
+        "rtbf.be",
+        "rtl.be",
+        "7sur7.be",
+        "rts.ch",
+        "letemps.ch",
+        "20min.ch",
+        "ledevoir.com",
+        "lapresse.ca",
+        "radio-canada.ca",
+        "lorientlejour.com",
+        "jeuneafrique.com",
+        # International media.
+        "theguardian.com",
+        "bbc.com",
+        "bbc.co.uk",
+        "nytimes.com",
+        "washingtonpost.com",
+        "reuters.com",
+        "apnews.com",
+        "bloomberg.com",
+        "economist.com",
+        "ft.com",
+        "telegraph.co.uk",
+        "independent.co.uk",
+        "cnn.com",
+        "politico.com",
+        "thehill.com",
+        "newsweek.com",
+        "arstechnica.com",
+        "spiegel.de",
+        "elpais.com",
+        "aljazeera.com",
+        "timesofisrael.com",
+        # Institutions (primary sources).
+        "assemblee-nationale.fr",
+        "senat.fr",
+        "legifrance.gouv.fr",
+        "gouvernement.fr",
+        "elysee.fr",
+        "conseil-constitutionnel.fr",
+        "conseil-etat.fr",
+        "courdecassation.fr",
+        "ccomptes.fr",
+        "insee.fr",
+        "diplomatie.gouv.fr",
+        "news.un.org",
+        "amnesty.fr",
+        "laquadrature.net",
+    }
+)
 
 
 def url_domain(url: str) -> str:
@@ -319,17 +274,6 @@ def is_blocked(domain: str) -> bool:
 
 def is_allowed(domain: str) -> bool:
     return _matches(domain, ALLOWED_DOMAINS)
-
-
-def media_family(domain: str) -> str | None:
-    """Family of `domain` in `MEDIA_FAMILIES` (the most specific match wins:
-    `korii.slate.fr` is specialized, `slate.fr` national), None if unknown."""
-    parts = domain.split(".")
-    for i in range(len(parts)):
-        family = _FAMILY_OF.get(".".join(parts[i:]))
-        if family:
-            return family
-    return None
 
 
 def is_accepted(domain: str, whitelist: bool | None = None) -> bool:

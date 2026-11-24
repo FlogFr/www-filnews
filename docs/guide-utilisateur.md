@@ -41,13 +41,7 @@ politiques** (silhouette) et les **grands thèmes** politiques et de société
   d'écart restent bien distinctes.
 - **Cliquez** sur un tag : sa page commence par un portrait du sujet (période
   couverte, mois le plus actif, médias les plus cités, news la plus votée,
-  fils voisins), puis, pour les fils d'au moins 10 news, une **lecture
-  critique** : une phrase de synthèse, puis le rythme du sujet (de fond, par
-  vagues, retombé…), la diversité des médias qui le racontent, les fils
-  auxquels il est lié, la façon dont r/france y réagit (plus ou moins
-  commenté et voté que les autres news du même mois) et les limites de
-  l'exercice. Tout est calculé à partir des chiffres du site ; rien ne juge
-  le contenu des articles. Vient ensuite **le Fil**, une ligne verticale où
+  fils voisins), puis présente **le Fil**, une ligne verticale où
   toutes les news du sujet s'enchaînent de la plus récente à la plus ancienne,
   alternativement à gauche et à droite, avec leur date et le temps écoulé
   entre deux news. En faisant défiler, la news au centre de l'écran est mise

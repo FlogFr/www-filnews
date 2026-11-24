@@ -13,7 +13,7 @@ from django.utils.text import slugify
 from django.views.decorators.http import require_GET
 
 from . import elections
-from .insights import news_context, tag_profile, tag_reading
+from .insights import news_context, tag_profile
 from .models import TagSummary, tag_slug
 from .reddit import RedditClient, RedditError
 from .store import NewsStore, get_store
@@ -216,7 +216,6 @@ def tag_detail(
         {
             "tag": tag,
             "profile": tag_profile(get_store(), tag),
-            "reading": tag_reading(get_store(), tag),
             "thread": build_thread(tag, year if years else None),
             "years": years,
             "year": year if years else None,

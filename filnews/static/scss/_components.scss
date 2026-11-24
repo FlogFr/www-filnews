@@ -670,63 +670,6 @@ $thread-offset: 2.5rem; // Distance between the line and a card.
   margin: 0 0 var(--space-2);
 }
 
-// Critical reading of a Fil (insights.tag_reading), between its profile and
-// the Fil itself.
-.reading {
-  margin: 0 0 var(--space-5);
-
-  &__intro {
-    margin: var(--space-2) 0 var(--space-3);
-    color: var(--color-text-muted);
-  }
-
-  &__body {
-    padding: var(--space-3);
-    border-left: 4px solid var(--color-brand);
-    border-radius: 0 var(--radius) var(--radius) 0;
-    background: var(--color-surface);
-
-    @include from($breakpoint-md) {
-      padding: var(--space-4);
-    }
-  }
-
-  &__lead {
-    margin: 0 0 var(--space-3);
-    font-size: 1.1875rem;
-    font-weight: 600;
-  }
-
-  &__list {
-    display: grid;
-    gap: var(--space-3);
-    margin: 0;
-  }
-
-  &__item {
-    display: grid;
-    gap: var(--space-1);
-
-    @include from($breakpoint-md) {
-      grid-template-columns: 8rem 1fr;
-      gap: var(--space-3);
-    }
-  }
-
-  dt {
-    font-family: $font-heading;
-    font-size: 0.875rem;
-    font-weight: 500;
-    text-transform: uppercase;
-    letter-spacing: 0.06em;
-    color: var(--color-brand);
-  }
-
-  dd {
-    margin: 0;
-  }
-}
-
 .related {
   margin-top: var(--space-5);
 }
