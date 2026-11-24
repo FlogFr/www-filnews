@@ -75,6 +75,29 @@ jour dès qu'une règle change ou qu'une préférence du propriétaire est expri
   `NewsStore` (écritures atomiques + verrou).
 - Ne pas committer de données de démo/test dans `data/`.
 
+## Git et publication
+
+- **Autorisation permanente du propriétaire** : Claude peut **pousser
+  directement sur `main`** et **publier le site** lui-même, sans redemander,
+  une fois `python manage.py test` et `ruff check .` au vert. Les cas de la
+  section suivante (suppression de données, changement d'URL publique…)
+  demandent toujours une question avant d'agir.
+- Avant de pousser : `git fetch origin main` et intégrer les commits du
+  workflow (« Update news »). Jamais de force-push sur `main` ni sur `pages`.
+- Publier en local :
+
+  ```bash
+  git fetch origin pages:pages                  # base de la branche pages
+  git archive pages media | tar -x -C data      # vignettes (non versionnées sur main)
+  python manage.py publish_pages --push
+  ```
+
+  Sans la branche `pages` locale, `publish_pages` créerait un commit sans
+  parent ; sans les vignettes, le site publié les perdrait. Ne pas publier
+  pendant un passage du workflow (toutes les 6 h à xx:17 UTC) : à défaut,
+  le lancer à la demande (*Actions* → *Nightly news update* → *Run
+  workflow*), qui publie aussi.
+
 ## Quand poser une question au propriétaire
 
 - Toute ambiguïté sur une fonctionnalité attendue (voir `README.md` et `features/`).

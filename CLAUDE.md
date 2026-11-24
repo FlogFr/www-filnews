@@ -45,3 +45,5 @@ docker build -t filnews .
    supprimée (ou un défaut de configuration qui change) doit y être reflétée
    dans le même changement.
 6. Poser des questions en cas de doute ou de risque de casse (voir `claude/directives.md`).
+7. Claude a le droit de pousser directement sur `main` et de publier le site
+   lui-même, tests et ruff au vert (procédure dans `claude/directives.md`).
