@@ -133,9 +133,23 @@ suscitant le plus d'intérêt (le détail des seuils reste dans la doc technique
     RSS). Sur grand écran, le fil du moment est à côté de « À la une » et les
     compléments à côté des dernières news.
 - **Présidentielle 2027** :
+  - **premier tour le 18 avril 2027**, second tour le 2 mai (dates fixées en
+    Conseil des ministres le 1er juillet 2026, `FIRST_ROUND`) ;
   - liste des candidats dans `filnews/elections.py` (nom, parti, candidature
     déclarée ou pressentie, tags associés — par défaut son nom), **à tenir à
-    jour à la main** ;
+    jour à la main** ; on y garde les candidatures qui comptent dans
+    l'actualité, pas les dizaines de candidatures marginales. Un candidat qui
+    se retire ou renonce (ex. Jordan Bardella, Marine Le Pen étant candidate)
+    sort de la liste ; son tag reste dans le vocabulaire s'il demeure une
+    personnalité politique ;
+  - chaque tag d'un candidat doit être une **personnalité du vocabulaire**
+    (vérifié par `filnews/tests/test_elections.py`) : une personnalité venue
+    d'ailleurs y entre quand elle se déclare (ex. Teddy Riner), puis on
+    rejoue `analyze_news --retag` sur les news qui la citent ;
+  - état au 24 novembre 2026 : 15 candidatures déclarées (Le Pen, Mélenchon,
+    Glucksmann, Philippe, Attal, Retailleau, Zemmour, Roussel, Tondelier,
+    Lisnard, Cazeneuve, Villepin, Riner, Dupont-Aignan, Arthaud) et 2
+    pressenties (Hollande, Xavier Bertrand) ;
   - **fil d'un candidat** : toutes les news portant un de ses tags depuis le
     **1er janvier 2025** (`CAMPAIGN_START`) ;
   - **fil de la campagne** : depuis la même date, les news dont le titre ou le

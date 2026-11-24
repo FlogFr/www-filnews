@@ -154,7 +154,19 @@ python manage.py analyze_news --retag
 
 Éditer `CANDIDATES` dans `filnews/elections.py` (nom, parti, `DECLARED` ou
 `POTENTIAL`, et éventuellement `tags=(...)` si d'autres fils que le nom
-doivent alimenter son fil). Le nom doit exister dans le vocabulaire.
+doivent alimenter son fil), et mettre à jour la date du commentaire. Un
+candidat qui se retire est simplement retiré de la liste : son tag reste
+dans le vocabulaire tant qu'il s'agit d'une personnalité politique.
+
+Le nom (et chaque tag) doit exister dans `PERSONALITIES`
+(`filnews/vocabulary.py`) : `python manage.py test` échoue sinon. Pour un
+nouveau venu, ajouter son entrée au vocabulaire, puis recalculer les tags des
+news qui le citent (ou de tout l'historique, plus long) :
+
+```bash
+python manage.py analyze_news --retag <id> <id>…   # ids Reddit des news concernées
+python manage.py analyze_news --retag              # tout l'historique
+```
 
 ### Médias autorisés et refusés
 

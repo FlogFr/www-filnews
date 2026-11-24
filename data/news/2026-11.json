@@ -969,7 +969,9 @@
     "ingested_at": "2026-11-19T20:44:12.565134+00:00",
     "summary": "Le champion de judo, désormais candidat à l’élection présidentielle, a reçu des millions d’euros de son ami Mohammed VI, par le biais d’une société de transport en voitures de luxe dont 90 % de l’act…",
     "thumbnail": "thumbnails/1y06gtp.webp",
-    "tags": [],
+    "tags": [
+      "Teddy Riner"
+    ],
     "analyzed_at": "2026-11-19T20:44:14.889451+00:00"
   },
   {
@@ -1759,8 +1761,9 @@
     "summary": "Comme l’ancien ministre de la Santé d’Emmanuel Macron (2022-2023), une des chevilles ouvrières de la précampagne du champion olympique quitte le navire.",
     "thumbnail": "thumbnails/1xwfm4z.webp",
     "tags": [
+      "Élections",
       "Emmanuel Macron",
-      "Élections"
+      "Teddy Riner"
     ],
     "analyzed_at": "2026-11-15T18:56:31.700220+00:00"
   },
@@ -1804,6 +1807,7 @@
     "summary": "Lors d’une visite samedi au salon du Made in France, Teddy Riner a estimé que les félicitations d’Emmanuel Macron à sa candidature étaient un «baiser empoisonné»",
     "thumbnail": "thumbnails/1xw5of9.webp",
     "tags": [
+      "Teddy Riner",
       "Emmanuel Macron"
     ],
     "analyzed_at": "2026-11-14T22:31:59.686629+00:00"
@@ -3315,7 +3319,8 @@
     "thumbnail": "",
     "tags": [
       "Justice",
-      "Élections"
+      "Élections",
+      "Teddy Riner"
     ],
     "analyzed_at": "2026-11-10T07:00:28.931841+00:00"
   },
@@ -3338,7 +3343,8 @@
     "thumbnail": "thumbnails/1xrojz0.webp",
     "tags": [
       "Élection présidentielle",
-      "Élections"
+      "Élections",
+      "Teddy Riner"
     ],
     "analyzed_at": "2026-11-09T12:55:56.943477+00:00"
   },

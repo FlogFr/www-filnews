@@ -17,8 +17,9 @@ from .models import News, tag_slug
 from .store import NewsStore
 
 ELECTION_NAME = "Présidentielle 2027"
-# First round, as announced; news are gathered from CAMPAIGN_START.
-FIRST_ROUND = datetime(2027, 4, 11, tzinfo=UTC)
+# First round, as set by the Council of Ministers on July 1, 2026; news are
+# gathered from CAMPAIGN_START.
+FIRST_ROUND = datetime(2027, 4, 18, tzinfo=UTC)
 CAMPAIGN_START = datetime(2025, 1, 1, tzinfo=UTC)
 
 DECLARED = "déclaré"
@@ -50,22 +51,25 @@ class Candidate:
         return self.status == DECLARED
 
 
-# Keep in sync with the news: status as of November 2026.
+# Keep in sync with the news: status as of November 24, 2026.
 CANDIDATES: tuple[Candidate, ...] = (
     Candidate("Marine Le Pen", "Rassemblement national", DECLARED),
     Candidate("Jean-Luc Mélenchon", "La France insoumise", DECLARED),
     Candidate("Raphaël Glucksmann", "Place publique – Parti socialiste", DECLARED),
     Candidate("Édouard Philippe", "Horizons", DECLARED),
+    Candidate("Gabriel Attal", "Renaissance", DECLARED),
+    Candidate("Bruno Retailleau", "Les Républicains", DECLARED),
+    Candidate("Éric Zemmour", "Reconquête", DECLARED),
     Candidate("Fabien Roussel", "Parti communiste français", DECLARED),
     Candidate("Marine Tondelier", "Les Écologistes", DECLARED),
     Candidate("David Lisnard", "Nouvelle Énergie", DECLARED),
-    Candidate("Gabriel Attal", "Renaissance", POTENTIAL),
-    Candidate("Bruno Retailleau", "Les Républicains", POTENTIAL),
-    Candidate("Jordan Bardella", "Rassemblement national", POTENTIAL),
-    Candidate("Éric Zemmour", "Reconquête", POTENTIAL),
+    Candidate("Bernard Cazeneuve", "La Convention", DECLARED),
+    Candidate("Dominique de Villepin", "La France humaniste", DECLARED),
+    Candidate("Teddy Riner", "La France qu'on veut", DECLARED),
+    Candidate("Nicolas Dupont-Aignan", "Debout la France", DECLARED),
+    Candidate("Nathalie Arthaud", "Lutte ouvrière", DECLARED),
     Candidate("François Hollande", "Parti socialiste", POTENTIAL),
-    Candidate("Dominique de Villepin", "La France humaniste", POTENTIAL),
-    Candidate("Nathalie Arthaud", "Lutte ouvrière", POTENTIAL),
+    Candidate("Xavier Bertrand", "Divers droite", POTENTIAL),
 )
 
 ELECTION_RE = re.compile(r"pr[ée]sidentielle\s+(?:de\s+)?2027", re.IGNORECASE)

@@ -105,7 +105,9 @@
     "ingested_at": "2026-11-01T09:56:07.727155+00:00",
     "summary": "Le Guadeloupéen, qui dispute ses quatrièmes Jeux olympiques vendredi, domine son sport de façon si hégémonique en France que certains de ses adversaires ont préféré aller voir ailleurs.",
     "thumbnail": "thumbnails/otu7v1.webp",
-    "tags": [],
+    "tags": [
+      "Teddy Riner"
+    ],
     "analyzed_at": "2026-11-01T09:56:38.987735+00:00"
   },
   {

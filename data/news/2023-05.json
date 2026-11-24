@@ -1713,7 +1713,9 @@
     "ingested_at": "2026-11-01T10:40:24.850404+00:00",
     "summary": "La légende du judo français a battu le Russe Inal Tasoev en finale des Mondiaux de Doha, ce samedi, au bout du suspense. À un peu plus d’un",
     "thumbnail": "thumbnails/13gls5v.webp",
-    "tags": [],
+    "tags": [
+      "Teddy Riner"
+    ],
     "analyzed_at": "2026-11-01T10:43:04.003220+00:00"
   },
   {

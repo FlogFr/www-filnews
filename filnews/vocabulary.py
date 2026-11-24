@@ -107,6 +107,8 @@ PERSONALITIES: dict[str, tuple[str, ...]] = {
     "Nicolas Dupont-Aignan": ("Nicolas Dupont-Aignan", "Dupont-Aignan"),
     "Jean Lassalle": ("Jean Lassalle",),
     "Patrick Balkany": ("Patrick Balkany", "Balkany"),
+    # Others.
+    "Teddy Riner": ("Teddy Riner", "Riner"),
     # International.
     "Donald Trump": ("Donald Trump", "Trump"),
     "Joe Biden": ("Joe Biden", "Biden"),
