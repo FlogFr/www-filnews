@@ -17,7 +17,7 @@
 
 {% block content %}
 {% include "partials/breadcrumb.html" with section="Archives" section_url_name="archive" current=news.title %}
-<article class="article">
+<article class="article{% if groups %} article--grouped{% endif %}">
   <header class="article__header">
     {% include "partials/news_meta.html" %}
     <h1 class="article__title">{{ news.title }}</h1>
@@ -39,6 +39,9 @@
     <li><a class="button" href="{{ news.url }}" rel="noopener ugc">Lire l'article{% if news.domain %} sur {{ news.domain }}{% endif %}</a></li>
     <li><a class="button button--ghost" href="{{ news.reddit_url }}" rel="noopener ugc">Voir la discussion sur Reddit</a></li>
   </ul>
+
+  {# Next to the article on wide screens, right after its links on mobile. #}
+  {% if groups %}{% include "partials/tag_group.html" %}{% endif %}
 
   <section class="article__context" aria-labelledby="context-title">
     <h2 class="section-title" id="context-title">Le contexte</h2>

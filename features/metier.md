@@ -26,6 +26,7 @@ suscitant le plus d'intérêt (le détail des seuils reste dans la doc technique
 | **Alias de tag** | Autre nom d'un même sujet (« Macron » → « Emmanuel Macron »), déclaré à la main dans `data/tag_aliases.json`. |
 | **Doublon** | Deux posts qui pointent vers le même article (même URL, hors `www`, protocole, `/amp` et paramètres de suivi). |
 | **Historique d'un tag** | Frise chronologique de toutes les news d'un tag (carte au survol). |
+| **Groupe de fils** | Combinaison d'au moins 2 tags d'une news (« Police + Justice »). Les news du groupe sont **toutes celles qui portent ces tags à la fois** (elles peuvent en avoir d'autres). Le groupe d'une news est l'ensemble de ses tags ; il a un historique dès qu'une autre news les porte tous. |
 | **Le Fil** | Sur la page d'un tag, l'historique en version verticale : un encart par news, alternativement à gauche et à droite de la ligne. |
 | **À la une** | News la plus populaire des dernières 24 h. |
 
@@ -190,6 +191,36 @@ suscitant le plus d'intérêt (le détail des seuils reste dans la doc technique
   `/archives/AAAA/MM/` liste les news du mois **jour par jour**, en liste
   compacte (titre, source, score), avec liens vers les mois voisins.
   L'ancienne pagination `/archives/page/N/` redirige vers `/archives/` (301).
+- **Groupe de fils sur une fiche news** (`filnews/groups.py`, news d'au
+  moins 2 tags) : encart « Le groupe de fils », à droite de l'article à
+  partir de 64rem, juste après les liens « Lire l'article » / « Voir la
+  discussion » en dessous.
+  - **Groupe affiché** : tous les tags de la news si au moins une autre news
+    les porte tous ; sinon le **groupe le plus proche** : le plus grand
+    sous-ensemble de ses tags (au moins 2) porté par une autre news, à
+    taille égale celui qui compte le plus de news ; l'encart le signale
+    (« Aucune autre news ne réunit ses 3 fils (…) : voici le groupe le plus
+    proche »). Sans aucun groupe partagé (ou avec moins de 2 tags), pas
+    d'encart : la fiche reste sur une colonne.
+  - **Résumé** : « N news réunissent ces k fils depuis le … ; celle-ci est
+    la 12e » (ou la première, la plus récente).
+  - **Frise du groupe** (mêmes règles que la frise d'un tag, 4 graduations
+    au plus) : le point de la news est plus gros et cerclé ; au-delà de
+    40 news (barres), un trait vertical marque la news.
+  - **Le fil du groupe** autour de la news : **5 news** au plus, dont au
+    plus 2 plus récentes et le reste plus anciennes (l'historique avant la
+    news), avec l'écart de temps entre deux news ; la news est marquée
+    « Cette news ».
+  - « **Voir les N news du groupe** » (s'il y en a plus que dans le fil) :
+    liste dépliable de toutes les news du groupe (date + titre).
+  - « **Ses autres groupes de fils** » : jusqu'à **3** autres combinaisons
+    de ses tags qui ont un historique (les plus grandes d'abord, puis les
+    plus fournies), chacune dépliable avec la liste de ses news. Un groupe
+    qui a exactement les mêmes news qu'un groupe plus grand est omis.
+  - Calculé à chaque build pour **toutes** les news, historique compris ;
+    pas de page ni d'URL propre à un groupe.
+  - L'historique par tag (carte au survol des tags) et le résumé par tag
+    (« Le contexte ») restent sur la fiche.
 - **Contenu original** (`filnews/insights.py`, calculé à partir des données
   du site, sans service externe) :
   - **« Le contexte »** sur une fiche news : rang de la news par score parmi
@@ -207,7 +238,8 @@ suscitant le plus d'intérêt (le détail des seuils reste dans la doc technique
   (`FILNEWS_INDEX_NEWS`). Les pages de fils, de la présidentielle, les
   archives et l'accueil restent indexées.
 - **News liées** : jusqu'à 5 news partageant le plus de tags, parmi les 150
-  news les plus proches dans le temps de chaque tag.
+  news les plus proches dans le temps de chaque tag, hors celles déjà
+  listées dans le fil du groupe de fils.
 - **RSS** : toutes les news, de la plus récente à la plus ancienne.
 
 ## Newsletter et contact

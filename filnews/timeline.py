@@ -25,6 +25,7 @@ BAR_MAX_HEIGHT = 18
 class TimelinePoint:
     news: News
     position: float  # 0..100, percentage along the axis.
+    current: bool = False  # The news of the page showing the timeline.
 
 
 @dataclass(frozen=True, slots=True)
@@ -55,6 +56,8 @@ class Timeline:
     points: list[TimelinePoint]
     ticks: list[TimelineTick]
     bars: list[TimelineBar]
+    # Position of the current news when drawn as bars (dots mark it themselves).
+    marker: float | None = None
 
 
 def _next_boundary(moment: datetime, unit: str) -> datetime:
@@ -99,11 +102,14 @@ def _period_start(moment: datetime, unit: str) -> datetime:
     return day.replace(month=1, day=1)
 
 
-def build_timeline(tag: TagSummary) -> Timeline:
+def build_timeline(
+    tag: TagSummary, current: News | None = None, tick_count: int = TICK_COUNT
+) -> Timeline:
     """Axis fitted to the tag's history, so close news stay distinguishable.
 
     Up to FILNEWS_TIMELINE_MAX_DOTS news, one dot per news; beyond, a dot
-    cloud is unreadable (and heavy): one bar per period instead.
+    cloud is unreadable (and heavy): one bar per period instead. `current`
+    (a news of the tag) is marked: its dot comes last, drawn on top.
     """
     first = timezone.localtime(tag.first_seen)
     span = max(tag.last_seen - tag.first_seen, MIN_SPAN)
@@ -118,12 +124,22 @@ def build_timeline(tag: TagSummary) -> Timeline:
 
     points: list[TimelinePoint] = []
     bars: list[TimelineBar] = []
+    marker = None
     if tag.count <= settings.FILNEWS_TIMELINE_MAX_DOTS:
-        points = [
-            TimelinePoint(news=n, position=position(n.created_at)) for n in tag.news
-        ]
+        current_id = current.id if current else None
+        points = sorted(
+            (
+                TimelinePoint(
+                    news=n, position=position(n.created_at), current=n.id == current_id
+                )
+                for n in tag.news
+            ),
+            key=lambda point: point.current,
+        )
     else:
         bars = _bars(tag, start, end, position)
+        if current is not None:
+            marker = position(current.created_at)
 
     unit, label_format = _tick_unit(end - start)
     boundaries = []
@@ -131,12 +147,14 @@ def build_timeline(tag: TagSummary) -> Timeline:
     while moment < end:
         boundaries.append(moment)
         moment = _next_boundary(moment, unit)
-    step = max(ceil(len(boundaries) / TICK_COUNT), 1)
+    step = max(ceil(len(boundaries) / tick_count), 1)
     ticks = [
         TimelineTick(label=date_format(moment, label_format), position=position(moment))
         for moment in boundaries[::step]
     ]
-    return Timeline(start=start, end=end, points=points, ticks=ticks, bars=bars)
+    return Timeline(
+        start=start, end=end, points=points, ticks=ticks, bars=bars, marker=marker
+    )
 
 
 def _bars(

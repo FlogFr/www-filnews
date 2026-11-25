@@ -383,6 +383,17 @@
     stroke-width: 2;
   }
 
+  // The news of the page (tag group timeline on a news page).
+  &__dot--current {
+    fill-opacity: 1;
+    stroke: var(--color-text);
+  }
+
+  &__marker {
+    stroke: var(--color-text);
+    stroke-width: 3;
+  }
+
   a:hover &__dot,
   a:focus-visible &__dot,
   .is-highlighted &__dot {
@@ -656,6 +667,151 @@ $thread-offset: 2.5rem; // Distance between the line and a card.
 
   &__context {
     margin-bottom: var(--space-4);
+  }
+}
+
+// Tag group panel (partials/tag_group.html), styled as the home page's
+// "Le fil du moment" (.tag-thread, _home.scss). Wide screens put it next to
+// the article: it spans every row of the article's grid, and its extra
+// height goes to the last (flexible) row instead of spreading the article's
+// sections apart. Mobile: in the flow, right after the article's links.
+.article--grouped {
+  @include from($breakpoint-lg) {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) 20rem;
+    grid-template-rows: repeat(6, auto) 1fr; // 6 = most children besides the panel.
+    align-items: start;
+    column-gap: var(--space-5);
+    max-width: none;
+
+    > * {
+      grid-column: 1;
+    }
+
+    > .tag-group {
+      grid-column: 2;
+      grid-row: 1 / -1;
+    }
+  }
+}
+
+.tag-group {
+  margin-bottom: var(--space-4);
+
+  .tag-thread__title {
+    margin-bottom: var(--space-2);
+    line-height: 1.2;
+  }
+
+  &__plus {
+    color: var(--color-brand);
+  }
+
+  &__note {
+    margin-bottom: var(--space-2);
+    font-size: 0.875rem;
+  }
+
+  .tag-thread__intro {
+    margin-bottom: var(--space-2);
+  }
+
+  .timeline {
+    margin-bottom: var(--space-3);
+  }
+
+  &__subtitle {
+    margin: var(--space-4) 0 var(--space-2);
+    font-family: $font-heading;
+    font-size: 0.8125rem;
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: var(--color-text-muted);
+  }
+
+  &__others {
+    display: grid;
+    gap: var(--space-2);
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  &__more > summary {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: var(--space-2);
+    min-height: 44px;
+    padding: var(--space-1) var(--space-3);
+    border: 1px solid var(--color-text);
+    border-radius: 22px; // A pill on one line, still rounded on two.
+    font-family: $font-heading;
+    font-size: 0.9375rem;
+    cursor: pointer;
+
+    // `display: flex` hides the native marker: "+" / "−" instead.
+    &::after {
+      content: "+";
+      font-size: 1.25rem;
+      line-height: 1;
+    }
+
+    &:hover {
+      border-color: var(--color-brand);
+      color: var(--color-brand);
+    }
+  }
+
+  &__more[open] > summary {
+    margin-bottom: var(--space-2);
+
+    &::after {
+      content: "\2212";
+    }
+  }
+
+  &__count {
+    font-family: $font-body;
+    font-size: 0.8125rem;
+    color: var(--color-text-muted);
+  }
+}
+
+// Every news of a tag group, as in the tag hover card (date, then title).
+.group-news {
+  max-height: 22rem;
+  margin: 0;
+  padding: 0;
+  overflow-y: auto;
+  overscroll-behavior: contain;
+  list-style: none;
+
+  a {
+    display: grid;
+    grid-template-columns: 5.5rem 1fr;
+    gap: var(--space-2);
+    padding: var(--space-1) 0;
+    font-size: 0.875rem;
+    line-height: 1.35;
+    color: var(--color-text);
+    text-decoration: none;
+  }
+
+  a:hover span {
+    text-decoration: underline;
+  }
+
+  time {
+    font-size: 0.8125rem;
+    color: var(--color-text-muted);
+    white-space: nowrap;
+  }
+
+  &__current a,
+  &__current time {
+    color: var(--color-brand);
   }
 }
 

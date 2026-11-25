@@ -13,6 +13,7 @@ from django.utils.text import slugify
 from django.views.decorators.http import require_GET
 
 from . import elections
+from .groups import news_groups
 from .insights import news_context, tag_profile
 from .models import TagSummary, tag_slug
 from .reddit import RedditClient, RedditError
@@ -97,13 +98,18 @@ def news_detail(request: HttpRequest, slug: str) -> HttpResponse:
     news = store.get_by_slug(slug)
     if news is None:
         raise Http404("News not found")
+    groups = news_groups(store, news)
     return render(
         request,
         "news/detail.html",
         {
             "news": news,
             "insight": news_context(store, news),
-            "related": store.related(news, RELATED_NEWS_COUNT),
+            "groups": groups,
+            # Not the news already listed in the group panel.
+            "related": store.related(
+                news, RELATED_NEWS_COUNT, exclude=groups.listed_ids if groups else ()
+            ),
             "indexable": settings.FILNEWS_INDEX_NEWS,
         },
     )

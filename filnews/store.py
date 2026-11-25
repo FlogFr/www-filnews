@@ -28,6 +28,7 @@ from contextlib import contextmanager
 from datetime import date, datetime
 from enum import StrEnum
 from functools import cached_property
+from itertools import combinations
 from pathlib import Path
 from urllib.parse import parse_qsl, urlencode, urlparse
 
@@ -303,8 +304,15 @@ class NewsStore:
         """News of the same (local) day as `news`, newest first."""
         return self.indexes.by_day.get(timezone.localdate(news.created_at), [])
 
-    def related(self, news: News, limit: int) -> list[News]:
+    def group(self, slugs: Iterable[str]) -> list[News]:
+        """News carrying every tag of `slugs` (at least 2), newest first."""
+        return self.indexes.groups.get(tuple(sorted(set(slugs))), [])
+
+    def related(
+        self, news: News, limit: int, exclude: Iterable[str] = ()
+    ) -> list[News]:
         """Other news sharing tags with `news`, most shared tags then newest."""
+        excluded = {news.id, *exclude}
         shared: Counter[str] = Counter()
         for name in news.tags:
             slug = tag_slug(name)
@@ -314,7 +322,7 @@ class NewsStore:
             index = self.indexes.positions[slug][news.id]
             start = max(index - RELATED_WINDOW, 0)
             for other in tag.news[start : index + RELATED_WINDOW + 1]:
-                if other.id != news.id:
+                if other.id not in excluded:
                     shared[other.id] += 1
         ranked = sorted(
             shared,
@@ -374,6 +382,19 @@ class _Indexes:
             tag.slug: {entry.id: index for index, entry in enumerate(tag.news)}
             for tag in self.tags
         }
+
+    @cached_property
+    def groups(self) -> dict[tuple[str, ...], list[News]]:
+        """News of every group of at least 2 tags (sorted slugs) that a news
+        carries, newest first. A news with n tags is in 2^n - n - 1 groups:
+        a few thousand groups in all with FILNEWS_MAX_TAGS = 5."""
+        groups: dict[tuple[str, ...], list[News]] = defaultdict(list)
+        for entry in self.by_date:
+            slugs = sorted({slug for name in entry.tags if (slug := tag_slug(name))})
+            for size in range(2, len(slugs) + 1):
+                for group in combinations(slugs, size):
+                    groups[group].append(entry)
+        return dict(groups)
 
     @cached_property
     def by_month(self) -> dict[tuple[int, int], list[News]]:

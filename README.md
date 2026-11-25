@@ -84,9 +84,21 @@ production.
   (`/presidentielle-2027/<candidat>/`) avec toutes ses news depuis
   janvier 2025.
 - **Fiche news** : résumé, vignette, liens vers l'article et la discussion
-  Reddit, bloc **« Le contexte »** (rang de la news parmi celles du jour sur
-  r/france, sa place dans chacun de ses fils et la news précédente), tags,
-  jusqu'à 5 news liées (tags en commun).
+  Reddit, encart **« Le groupe de fils »** (voir ci-dessous), bloc **« Le
+  contexte »** (rang de la news parmi celles du jour sur r/france, sa place
+  dans chacun de ses fils et la news précédente), tags avec leur historique
+  au survol, jusqu'à 5 news liées (tags en commun, hors celles de l'encart).
+- **Groupe de fils** : une news qui a au moins 2 tags appartient au groupe
+  de ses tags (« Police + Justice ») : toutes les news qui portent **tous**
+  ces tags à la fois. Sur la fiche news, un encart (à côté de l'article sur
+  grand écran, juste après ses liens sur mobile) montre l'historique de ce
+  groupe : nombre de news et date de début, rang de la news, frise du
+  groupe (la news y est marquée), les news qui l'entourent sur une ligne
+  chronologique, puis la liste complète et ses **autres groupes** (jusqu'à
+  3 sous-groupes de ses tags qui apportent d'autres news). Si aucune autre
+  news ne réunit tous ses tags, l'encart montre le groupe le plus proche.
+  Calculé à chaque build pour toutes les news (historique compris), sans
+  nouvelle page ni nouvelle URL.
 - **Archives** : les mois par année, puis une page par mois
   (`/archives/AAAA/MM/`) avec les news jour par jour.
 - **Fils (tags)** :

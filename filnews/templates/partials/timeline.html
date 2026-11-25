@@ -1,8 +1,10 @@
 {% load filnews_tags %}
 {% comment %}
-Tag history in the hover card: one dot per news on an axis fitted to the
-tag's history, or one bar per period for big tags (see timeline.py). Dots are mouse-only (tabindex -1) because the card itself is
-not focusable; keyboard users open the tag page instead.
+Tag history in the hover card (and tag group history on a news page): one dot
+per news on an axis fitted to the history, or one bar per period for big tags
+(see timeline.py); the news of the page, if any, is marked. Dots are
+mouse-only (tabindex -1) because the card itself is not focusable; keyboard
+users open the tag page instead.
 {% endcomment %}
 <figure class="timeline">
   <svg class="timeline__chart" width="100%" height="56" role="group" aria-labelledby="timeline-caption-{{ tag.slug }}">
@@ -14,10 +16,13 @@ not focusable; keyboard users open the tag page instead.
     {% for bar in timeline.bars %}
     <rect class="timeline__bar" x="{{ bar.position|stringformat:'.3f' }}%" y="{{ bar.y|stringformat:'.1f' }}" width="{{ bar.width|stringformat:'.3f' }}%" height="{{ bar.height|stringformat:'.1f' }}"><title>{{ bar.label|capfirst }} : {{ bar.count }} news</title></rect>
     {% endfor %}
+    {% if timeline.marker is not None %}
+    <line class="timeline__marker" x1="{{ timeline.marker|stringformat:'.3f' }}%" y1="0" x2="{{ timeline.marker|stringformat:'.3f' }}%" y2="26"><title>Cette news</title></line>
+    {% endif %}
     {% for point in timeline.points %}
     <a href="{% url 'news_detail' point.news.slug %}" tabindex="-1" data-news="{{ point.news.id }}">
-      <title>{{ point.news.created_at|date_fr:"j F Y" }} — {{ point.news.title }}</title>
-      <circle class="timeline__dot" cx="{{ point.position|stringformat:'.3f' }}%" cy="20" r="6"/>
+      <title>{{ point.news.created_at|date_fr:"j F Y" }} — {{ point.news.title }}{% if point.current %} (cette news){% endif %}</title>
+      <circle class="timeline__dot{% if point.current %} timeline__dot--current{% endif %}" cx="{{ point.position|stringformat:'.3f' }}%" cy="20" r="{% if point.current %}8{% else %}6{% endif %}"/>
     </a>
     {% endfor %}
   </svg>

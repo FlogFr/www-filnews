@@ -110,3 +110,26 @@ class TagSummary:
     @property
     def first_seen(self) -> datetime:
         return self.news[-1].created_at
+
+
+@dataclass(slots=True)
+class TagGroup(TagSummary):
+    """News carrying every tag of a group (at least 2 tags), newest first.
+
+    Named after its tags ("Police + Justice"), so that it can be shown like a
+    tag (timeline, thread); `slug` only serves as an HTML id."""
+
+    tags: list[TagSummary] = field(default_factory=list)
+
+    @classmethod
+    def of(cls, tags: list[TagSummary], news: list[News]) -> TagGroup:
+        return cls(
+            name=" + ".join(tag.name for tag in tags),
+            slug="--".join(tag.slug for tag in tags),
+            news=news,
+            tags=tags,
+        )
+
+    @property
+    def slugs(self) -> frozenset[str]:
+        return frozenset(tag.slug for tag in self.tags)

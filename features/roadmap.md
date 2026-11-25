@@ -81,7 +81,21 @@ Statuts : ✅ fait · 🚧 en cours · 💡 idée / à valider avec le propriét
   « Le Fil du mois », mention reCAPTCHA, CSP Docker complétée (reCAPTCHA,
   API Sender).
 
+## v1.7 — Groupes de fils (novembre 2026) ✅
+
+- ✅ Encart « Le groupe de fils » sur les fiches news d'au moins 2 tags :
+  historique des news qui portent tous les mêmes tags (résumé, frise, fil
+  autour de la news, liste complète), groupe le plus proche à défaut,
+  autres groupes de ses tags. L'historique et le résumé par tag restent.
+- ✅ Calculé pour tout l'historique : 2 967 fiches sur 10 981 ont un
+  groupe (dont 612 avec le groupe le plus proche) au 25 novembre 2026.
+- ✅ « Sur les mêmes sujets » ne répète plus les news de l'encart.
+
 ## Prochaines étapes
+
+- 💡 **Pages de groupes de fils** (ex. `/tags/police+justice/`) et carte au
+  survol d'un groupe : nouvelles URL (≈ 1 100 groupes ayant au moins 2
+  news), à valider avec le propriétaire (SEO, `noindex` ?).
 
 - 💡 **Synthèses des fils** (« Où en est le sujet ? ») et **revue de presse
   hebdomadaire**, rédigées par un modèle à partir de plusieurs articles.

@@ -1,0 +1,12 @@
+{% load filnews_tags %}
+{# Compact list of the news of a tag group (newest first); `news` is the page's news. #}
+<ol class="group-news">
+  {% for item in items %}
+  <li{% if item.id == news.id %} class="group-news__current"{% endif %}>
+    <a href="{% url 'news_detail' item.slug %}"{% if item.id == news.id %} aria-current="page"{% endif %}>
+      <time datetime="{{ item.created_at|date:'c' }}">{{ item.created_at|date_fr:"j N Y" }}</time>
+      <span>{{ item.title }}{% if item.id == news.id %} <strong>(cette news)</strong>{% endif %}</span>
+    </a>
+  </li>
+  {% endfor %}
+</ol>
