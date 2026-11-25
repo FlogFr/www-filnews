@@ -7,7 +7,8 @@ from django.urls import reverse
 from django.utils.safestring import SafeString, mark_safe
 
 from ..dates import format_date
-from ..models import News
+from ..groups import news_group
+from ..models import News, TagGroup
 from ..store import get_store
 from ..vocabulary import lookup
 
@@ -27,6 +28,12 @@ def has_tag_page(tag) -> bool:
     """Whether a tag (Tag or TagSummary) has enough news for its own page."""
     # No refresh: called for every tag of every card; the view already did.
     return get_store(refresh=False).tag_page(tag.slug) is not None
+
+
+@register.filter
+def tag_group(news: News) -> TagGroup | None:
+    """The tag group shown on the page of `news` (see groups.py), if any."""
+    return news_group(get_store(refresh=False), news)
 
 
 @register.filter

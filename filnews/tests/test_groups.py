@@ -1,10 +1,12 @@
+from unittest import mock
+
 from django.test import override_settings
 from django.urls import reverse
 
-from filnews.groups import news_groups
+from filnews.groups import news_group, news_groups
 from filnews.models import TagGroup
 
-from .helpers import DataDirTestCase, make_news
+from .helpers import NOW, DataDirTestCase, make_news
 
 
 def ids(items) -> list[str]:
@@ -124,6 +126,20 @@ class NewsGroupsTests(DataDirTestCase):
         # "Police + Racisme" and "Justice + Racisme" hold the same 2 news.
         self.assertEqual([g.name for g in groups.others], ["Police + Justice"])
 
+    def test_news_group_is_the_group_of_the_panel(self):
+        self.add_news(
+            make_news("news", hours_ago=1, tags=["Police", "Justice", "Racisme"]),
+            make_news("a", hours_ago=2, tags=["Police", "Justice"]),
+            make_news("b", hours_ago=3, tags=["Police", "Racisme"]),
+            make_news("single", hours_ago=4, tags=["Police"]),
+        )
+        news = self.store.get("news")
+        self.assertEqual(news_group(self.store, news).name, "Police + Justice")
+        self.assertEqual(
+            news_group(self.store, news), news_groups(self.store, news).group
+        )
+        self.assertIsNone(news_group(self.store, self.store.get("single")))
+
     @override_settings(FILNEWS_TIMELINE_MAX_DOTS=3)
     def test_big_group_timeline_marks_the_news_on_bars(self):
         self.add_news(
@@ -209,3 +225,34 @@ class NewsPageGroupTests(DataDirTestCase):
         self.assertIsNone(response.context["groups"])
         self.assertContains(response, '<article class="article">')
         self.assertNotContains(response, "Le groupe de fils")
+
+
+class HomeGroupLinkTests(DataDirTestCase):
+    def test_home_links_each_news_to_its_group_history(self):
+        self.add_news(
+            make_news("top", hours_ago=1, score=900, tags=["Police", "Justice"]),
+            make_news("a", hours_ago=2, tags=["Police", "Justice"]),
+            make_news("b", hours_ago=3, tags=["Logement"]),
+            make_news("c", hours_ago=4, tags=["Police", "Justice", "Racisme"]),
+        )
+        with mock.patch("filnews.views.timezone.now", return_value=NOW):
+            response = self.client.get(reverse("home"))
+        self.assertEqual(response.context["headline"].id, "top")
+        # Headline and latest news with a group: a first link to its history,
+        # in the panel of the news page. Not for "b" (a single tag).
+        self.assertContains(response, 'class="tag tag--group"', count=3)
+        for news_id in ("top", "a", "c"):
+            slug = self.store.get(news_id).slug
+            self.assertContains(response, f'href="/news/{slug}/#groupe"', count=1)
+        self.assertNotContains(response, f"/news/{self.store.get('b').slug}/#groupe")
+        # "c": no other news has its 3 tags, the closest group is named.
+        self.assertContains(response, 'title="Police + Justice : 3 news"', count=3)
+        self.assertContains(response, "Historique du groupe", count=3)
+        # The link comes first, before the tags.
+        html = response.content.decode()
+        row = html[html.index(f"/news/{self.store.get('a').slug}/#groupe") :]
+        self.assertLess(row.index("#groupe"), row.index('href="/tags/police/"'))
+
+        # Elsewhere (news cards), tags stay alone.
+        page = self.client.get(reverse("news_detail", args=[self.store.get("a").slug]))
+        self.assertNotContains(page, "tag--group")

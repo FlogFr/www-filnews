@@ -58,20 +58,10 @@ class NewsGroups:
 def news_groups(store: NewsStore, news: News) -> NewsGroups | None:
     """Groups of tags of `news` that other news share, or None (fewer than 2
     tags, or no other news with 2 of its tags)."""
-    tags = [tag for name in news.tags if (tag := store.tag(tag_slug(name)))]
-    if len(tags) < 2:
+    tags, groups = _groups(store, news)
+    if not groups:
         return None
-    candidates = [
-        TagGroup.of(list(subset), items)
-        for size in range(len(tags), 1, -1)
-        for subset in combinations(tags, size)  # Keeps the order of the news.
-        if len(items := store.group(tag.slug for tag in subset)) >= 2
-    ]
-    if not candidates:
-        return None
-    # Most specific first, then the biggest.
-    candidates.sort(key=lambda group: (len(group.tags), group.count), reverse=True)
-    main, *rest = (group for group in candidates if not _redundant(group, candidates))
+    main, *rest = groups
     index = next(i for i, item in enumerate(main.news) if item.id == news.id)
     return NewsGroups(
         tags=tags,
@@ -81,6 +71,27 @@ def news_groups(store: NewsStore, news: News) -> NewsGroups | None:
         timeline=build_timeline(main, current=news, tick_count=TICK_COUNT),
         others=rest[:OTHER_GROUP_COUNT],
     )
+
+
+def news_group(store: NewsStore, news: News) -> TagGroup | None:
+    """Only the group shown on the page of `news` (cheap: for news lists)."""
+    return next(iter(_groups(store, news)[1]), None)
+
+
+def _groups(store: NewsStore, news: News) -> tuple[list[TagSummary], list[TagGroup]]:
+    """The tags of `news`, and the groups of its tags that other news share:
+    most specific first, then the biggest, without redundant ones."""
+    tags = [tag for name in news.tags if (tag := store.tag(tag_slug(name)))]
+    if len(tags) < 2:
+        return tags, []
+    candidates = [
+        TagGroup.of(list(subset), items)
+        for size in range(len(tags), 1, -1)
+        for subset in combinations(tags, size)  # Keeps the order of the news.
+        if len(items := store.group(tag.slug for tag in subset)) >= 2
+    ]
+    candidates.sort(key=lambda group: (len(group.tags), group.count), reverse=True)
+    return tags, [group for group in candidates if not _redundant(group, candidates)]
 
 
 def _redundant(group: TagGroup, candidates: list[TagGroup]) -> bool:

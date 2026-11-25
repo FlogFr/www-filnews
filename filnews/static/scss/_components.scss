@@ -237,6 +237,28 @@
     color: var(--color-brand);
   }
 
+  // First link of a news' tags (home page): the history of its tag group.
+  &--group {
+    gap: 4px;
+    border-color: var(--color-brand);
+    background: var(--color-bg);
+    color: var(--color-brand);
+    font-weight: 600;
+
+    &::before {
+      content: none;
+    }
+
+    &:hover {
+      background: var(--color-brand);
+      color: var(--color-on-brand);
+    }
+  }
+
+  &__count {
+    font-weight: 400;
+  }
+
   // A tag seen once: no page, plain text.
   &--plain,
   &--plain:hover {

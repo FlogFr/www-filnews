@@ -37,7 +37,7 @@
         {% include "partials/news_meta.html" with news=headline %}
         <h2 class="hero__title" id="headline-title"><a href="{% url 'news_detail' headline.slug %}">{{ headline.title }}</a></h2>
         {% if headline.summary %}<p class="hero__summary">{{ headline.summary }}</p>{% endif %}
-        {% include "partials/tag_list.html" with tags=headline.tag_items %}
+        {% include "partials/tag_list.html" with tags=headline.tag_items group_news=headline %}
         {% include "partials/news_stats.html" with news=headline %}
       </div>
     </article>
@@ -57,7 +57,7 @@
         <h3 class="news-row__title"><a href="{% url 'news_detail' news.slug %}">{{ news.title }}</a></h3>
         {% if news.summary %}<p class="news-row__summary">{{ news.summary|truncatechars:200 }}</p>{% endif %}
         <div class="news-row__footer">
-          {% include "partials/tag_list.html" with tags=news.tag_items %}
+          {% include "partials/tag_list.html" with tags=news.tag_items group_news=news %}
           {% include "partials/news_stats.html" %}
         </div>
       </li>

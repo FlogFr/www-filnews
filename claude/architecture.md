@@ -35,13 +35,13 @@ données, coût et surface d'attaque minimaux.
 | `vocabulary.py` | Vocabulaire contrôlé des tags : `PERSONALITIES` (regex sensibles à la casse) et `THEMES` (insensibles sauf sigles), `lookup()` donne la sorte d'un tag |
 | `elections.py` | Présidentielle 2027 : `CANDIDATES` (édité à la main), fil d'un candidat (`candidate_news`), fil de la campagne (`election_news`) |
 | `analysis/` | `fetch` (HTTP borné, Wayback Machine), `extract` (métadonnées HTML), `text` (tags par score sur le vocabulaire, résumé), `thumbnails` (WebP 640×360), `analyzers` (heuristique / modèle local) |
-| `groups.py` | Groupe de fils d'une news (`news_groups`) : groupe le plus spécifique qui a un historique (tous ses tags, sinon le plus grand sous-ensemble partagé), rang, fil de 5 news autour d'elle, frise (`build_timeline(current=…)`), autres groupes non redondants |
+| `groups.py` | Groupe de fils d'une news (`news_groups` ; `news_group` : le groupe seul, pour les listes) : groupe le plus spécifique qui a un historique (tous ses tags, sinon le plus grand sous-ensemble partagé), rang, fil de 5 news autour d'elle, frise (`build_timeline(current=…)`), autres groupes non redondants |
 | `insights.py` | Contenu original calculé : contexte d'une news (`news_context` : rang du jour, place dans ses fils) et portrait d'un fil (`tag_profile` : pic, médias, news la plus votée, fils voisins) |
 | `dates.py` | `format_date` : format de date Django en heure locale, avec « 1er » pour le premier du mois (filtre de template `date_fr`) |
 | `timeline.py` | Historique d'un tag (ou d'un groupe de fils) : frise horizontale ajustée à l'historique (`build_timeline`, points ou barres, news courante marquée, carte au survol et encart de groupe) et Fil vertical (`build_thread`, découpé par année via `thread_years`, page du tag) |
 | `views.py`, `urls.py` | Pages, fragment de frise, pages newsletter et contact (identifiants `SENDER_*` des réglages), OAuth Reddit (local uniquement) |
 | `feeds.py`, `sitemaps.py` | RSS et sitemaps (index + une section par fichier) |
-| `templatetags/filnews_tags.py` | URLs absolues, médias, JSON-LD, `has_tag_page` |
+| `templatetags/filnews_tags.py` | URLs absolues, médias, JSON-LD, `has_tag_page`, `tag_group` (groupe de fils d'une news, pour le lien « Historique du groupe » de l'accueil) |
 | `assets.py` | Compilation SCSS → CSS (libsass) : `main.css` et `sender-frame.css` (habillage des iframes Sender) |
 | `management/commands/` | `ingest_news`, `backfill_news`, `analyze_news` (`--retag` : tags seuls, hors ligne), `prune_news`, `build_site`, `publish_pages`, `runserver` (surcharge) |
 
@@ -62,7 +62,7 @@ sont recalculés paresseusement en mémoire après chaque mutation.
 
 | URL | Contenu |
 |---|---|
-| `/` | Accueil : bandeau, news la plus populaire des 24 h, fil du tag le plus actif sur 48 h, 5 dernières news, 7 fils du moment (7 jours), encart présidentielle, lien RSS. Ordre du HTML = ordre mobile (une, dernières news, fil du moment, compléments) ; la grille `.home-layout--front` replace le fil à côté de la une sur grand écran |
+| `/` | Accueil : bandeau, news la plus populaire des 24 h, fil du tag le plus actif sur 48 h, 5 dernières news (avec un lien vers l'historique de leur groupe de fils, `#groupe` de leur fiche), 7 fils du moment (7 jours), encart présidentielle, lien RSS. Ordre du HTML = ordre mobile (une, dernières news, fil du moment, compléments) ; la grille `.home-layout--front` replace le fil à côté de la une sur grand écran |
 | `/presidentielle-2027/`, `/presidentielle-2027/<candidat>/` | Candidats et fil de la campagne ; fil d'un candidat depuis 2025 |
 | `/mentions-legales/` | Mentions légales, lien vers le code source |
 | `/newsletter/`, `/contact/` | Formulaires Sender.net (inscription à la newsletter, contact), chargés par `static/js/sender.js` ; seules pages avec une CSP ouverte à `*.sender.net` |
