@@ -1,17 +1,18 @@
 {% load filnews_tags %}
 {% comment %}
-The history of a news through its group of tags (see groups.py): the news
-that carry all its tags, around this one, with the group's timeline. Shares
-the look of the home page's "Le fil du moment" (.tag-thread).
+The Fil of a news made of all its tags (a tag group, see groups.py): the news
+that carry all its tags, around this one, with its timeline. The UI never says
+"groupe": a Fil is made of one or more tags. Shares the look of the home
+page's "Le fil du moment" (.tag-thread).
 {% endcomment %}
 {% with group=groups.group %}
-<section class="tag-thread tag-group" id="groupe" aria-labelledby="group-title">
-  <p class="tag-thread__kicker">Le groupe de fils</p>
+<section class="tag-thread tag-group" id="fil" aria-labelledby="group-title">
+  <p class="tag-thread__kicker">Le fil de cette news</p>
   <h2 class="tag-thread__title" id="group-title">{% for tag in group.tags %}{% if not forloop.first %} <span class="tag-group__plus">+</span> {% endif %}{% if tag|has_tag_page %}<a href="{% url 'tag_detail' tag.slug %}">{{ tag.name }}</a>{% else %}{{ tag.name }}{% endif %}{% endfor %}</h2>
   {% if not groups.complete %}
-  <p class="tag-group__note">Aucune autre news ne réunit ses {{ groups.tags|length }} fils ({% for tag in groups.tags %}{{ tag.name }}{% if forloop.revcounter == 2 %} et {% elif not forloop.last %}, {% endif %}{% endfor %}) : voici le groupe le plus proche.</p>
+  <p class="tag-group__note">Aucune autre news ne porte à la fois {% for tag in groups.tags %}{{ tag.name }}{% if forloop.revcounter == 2 %} et {% elif not forloop.last %}, {% endif %}{% endfor %} : voici le fil le plus proche.</p>
   {% endif %}
-  <p class="tag-thread__intro">{{ group.count }} news réunissent ces {{ group.tags|length }} fils depuis le {{ group.first_seen|date_fr:"j F Y" }} ; {% if groups.rank == group.count %}celle-ci est la plus récente{% elif groups.rank == 1 %}celle-ci est la première{% else %}celle-ci est la {{ groups.rank|ordinal_fr }}{% endif %}.</p>
+  <p class="tag-thread__intro">Ce fil compte {{ group.count }} news depuis le {{ group.first_seen|date_fr:"j F Y" }} ; {% if groups.rank == group.count %}celle-ci est la plus récente{% elif groups.rank == 1 %}celle-ci est la première{% else %}celle-ci est la {{ groups.rank|ordinal_fr }}{% endif %}.</p>
   {% include "partials/timeline.html" with tag=group timeline=groups.timeline %}
   <ol class="tag-thread__list">
     {% for entry in groups.entries %}
@@ -31,12 +32,12 @@ the look of the home page's "Le fil du moment" (.tag-thread).
   </ol>
   {% if group.count > groups.entries|length %}
   <details class="tag-group__more">
-    <summary><span>Voir les {{ group.count }} news du groupe</span></summary>
+    <summary><span>Voir les {{ group.count }} news de ce fil</span></summary>
     {% include "partials/group_news.html" with items=group.news %}
   </details>
   {% endif %}
   {% if groups.others %}
-  <h3 class="tag-group__subtitle">Ses autres groupes de fils</h3>
+  <h3 class="tag-group__subtitle">Ses autres fils</h3>
   <ul class="tag-group__others">
     {% for other in groups.others %}
     <li>

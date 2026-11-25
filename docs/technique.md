@@ -168,7 +168,7 @@ images auront disparu entre-temps).
 
 - `related()` ne parcourt que les 150 news les plus proches dans le temps de
   chaque tag : coût constant même pour un tag de milliers de news.
-- Groupes de fils : un index (`_Indexes.groups`) associe chaque combinaison
+- Fils de plusieurs tags : un index (`_Indexes.groups`) associe chaque combinaison
   d'au moins 2 tags d'une news à ses news, calculé une fois par processus
   (≈ 3 400 combinaisons, dont ≈ 1 100 portées par au moins 2 news) ; une
   fiche news n'interroge que les combinaisons de ses propres tags (26 au

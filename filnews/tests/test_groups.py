@@ -1,3 +1,4 @@
+import re
 from unittest import mock
 
 from django.test import override_settings
@@ -7,6 +8,9 @@ from filnews.groups import news_group, news_groups
 from filnews.models import TagGroup
 
 from .helpers import NOW, DataDirTestCase, make_news
+
+# Owner's wording: a Fil is made of one or more tags, the UI never says "groupe".
+NO_GROUPE = re.compile(r"\bgroupes?\b", re.IGNORECASE)
 
 
 def ids(items) -> list[str]:
@@ -176,23 +180,22 @@ class NewsPageGroupTests(DataDirTestCase):
         )
         response = self.page("n4")
         self.assertContains(response, 'class="article article--grouped"')
-        self.assertContains(response, "Le groupe de fils")
+        self.assertContains(response, "Le fil de cette news")
         self.assertContains(response, '<a href="/tags/police/">Police</a>')
-        self.assertContains(
-            response, "8 news réunissent ces 2 fils depuis le 23 octobre 2026"
-        )
+        self.assertContains(response, "Ce fil compte 8 news depuis le 23 octobre 2026")
         self.assertContains(response, "celle-ci est la 5e.")
         self.assertContains(response, "tag-thread__item--current", count=1)
         self.assertContains(response, "Cette news")
         self.assertContains(response, "timeline__dot--current", count=1)
-        self.assertContains(response, "Voir les 8 news du groupe")
+        self.assertContains(response, "Voir les 8 news de ce fil")
+        self.assertNotRegex(response.content.decode(), NO_GROUPE)
         # Breadcrumb, then the news in the panel's thread and in its full list.
         self.assertContains(response, 'aria-current="page"', count=3)
-        self.assertNotContains(response, "Ses autres groupes de fils")
+        self.assertNotContains(response, "Ses autres fils")
         # Mobile order: the panel comes right after the article's links.
         html = response.content.decode()
-        self.assertLess(html.index("article__links"), html.index('id="groupe"'))
-        self.assertLess(html.index('id="groupe"'), html.index("article__context"))
+        self.assertLess(html.index("article__links"), html.index('id="fil"'))
+        self.assertLess(html.index('id="fil"'), html.index("article__context"))
         # The per-tag context and hover cards stay.
         self.assertContains(response, 'data-timeline="/tags/police/timeline/"')
         self.assertContains(response, 'Fil <a href="/tags/police/">Police</a>')
@@ -210,11 +213,12 @@ class NewsPageGroupTests(DataDirTestCase):
         response = self.page("news")
         self.assertContains(
             response,
-            "Aucune autre news ne réunit ses 3 fils (Police, Justice et Racisme)",
+            "Aucune autre news ne porte à la fois Police, Justice et Racisme : voici le fil le plus proche.",
         )
-        self.assertContains(response, "Ses autres groupes de fils")
+        self.assertContains(response, "Ses autres fils")
         self.assertContains(response, "Police + Racisme")
-        self.assertNotContains(response, "Voir les 2 news du groupe")
+        self.assertNotRegex(response.content.decode(), NO_GROUPE)
+        self.assertNotContains(response, "Voir les 2 news de ce fil")
 
     def test_news_page_without_group(self):
         self.add_news(
@@ -224,7 +228,7 @@ class NewsPageGroupTests(DataDirTestCase):
         response = self.page("news")
         self.assertIsNone(response.context["groups"])
         self.assertContains(response, '<article class="article">')
-        self.assertNotContains(response, "Le groupe de fils")
+        self.assertNotContains(response, "Le fil de cette news")
 
 
 class HomeGroupLinkTests(DataDirTestCase):
@@ -243,16 +247,16 @@ class HomeGroupLinkTests(DataDirTestCase):
         self.assertContains(response, 'class="tag tag--group"', count=3)
         for news_id in ("top", "a", "c"):
             slug = self.store.get(news_id).slug
-            self.assertContains(response, f'href="/news/{slug}/#groupe"', count=1)
-        self.assertNotContains(response, f"/news/{self.store.get('b').slug}/#groupe")
+            self.assertContains(response, f'href="/news/{slug}/#fil"', count=1)
+        self.assertNotContains(response, f"/news/{self.store.get('b').slug}/#fil")
         # "c": no other news has its 3 tags, the closest group is named.
         self.assertContains(response, 'title="Police + Justice : 3 news"', count=3)
         self.assertContains(response, "Historique de ce fil", count=3)
-        self.assertNotContains(response, "Historique du groupe")
+        self.assertNotRegex(response.content.decode(), NO_GROUPE)
         # The link comes first, before the tags.
         html = response.content.decode()
-        row = html[html.index(f"/news/{self.store.get('a').slug}/#groupe") :]
-        self.assertLess(row.index("#groupe"), row.index('href="/tags/police/"'))
+        row = html[html.index(f"/news/{self.store.get('a').slug}/#fil") :]
+        self.assertLess(row.index("#fil"), row.index('href="/tags/police/"'))
 
         # Elsewhere (news cards), tags stay alone.
         page = self.client.get(reverse("news_detail", args=[self.store.get("a").slug]))

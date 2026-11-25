@@ -22,11 +22,11 @@ suscitant le plus d'intérêt (le détail des seuils reste dans la doc technique
 | **Seuil** | Score minimum pour qu'un post soit ingéré. Défaut : **250** (`FILNEWS_MIN_SCORE`). Un post à 200 votes n'est jamais ingéré. |
 | **Subreddit** | Source des news. Défaut : **r/france** (`FILNEWS_SUBREDDIT`). |
 | **Flair** | Catégorie choisie sur Reddit (Politique, Société, Écologie…). Ne devient un tag que si elle correspond à un thème du vocabulaire (Écologie → Environnement, Covid-19, Santé, Élections). |
-| **Tag (fil)** | Sujet d'une news, pris dans le **vocabulaire contrôlé** (`filnews/vocabulary.py`) : une **personnalité politique** ou un **grand thème politique ou de société**. Aucun autre tag n'est créé (ni lieux, ni organisations, ni médias). Identifié par son *slug* (`emmanuel-macron`) ; le libellé affiché est l'orthographe la plus fréquente. Un tag n'a sa page (et sa carte au survol) qu'à partir de **2 news** (`FILNEWS_TAG_MIN_NEWS`) ; en dessous, il s'affiche en texte simple. |
+| **Tag** | Sujet d'une news, pris dans le **vocabulaire contrôlé** (`filnews/vocabulary.py`) : une **personnalité politique** ou un **grand thème politique ou de société**. Aucun autre tag n'est créé (ni lieux, ni organisations, ni médias). Identifié par son *slug* (`emmanuel-macron`) ; le libellé affiché est l'orthographe la plus fréquente. Un tag n'a sa page (et sa carte au survol) qu'à partir de **2 news** (`FILNEWS_TAG_MIN_NEWS`) ; en dessous, il s'affiche en texte simple. |
 | **Alias de tag** | Autre nom d'un même sujet (« Macron » → « Emmanuel Macron »), déclaré à la main dans `data/tag_aliases.json`. |
 | **Doublon** | Deux posts qui pointent vers le même article (même URL, hors `www`, protocole, `/amp` et paramètres de suivi). |
 | **Historique d'un tag** | Frise chronologique de toutes les news d'un tag (carte au survol). |
-| **Groupe de fils** | Combinaison d'au moins 2 tags d'une news (« Police + Justice »). Les news du groupe sont **toutes celles qui portent ces tags à la fois** (elles peuvent en avoir d'autres). Le groupe d'une news est l'ensemble de ses tags ; il a un historique dès qu'une autre news les porte tous. |
+| **Fil** | Chronologie des news d'un sujet, composée d'**un ou plusieurs tags**. Le fil d'un tag rassemble toutes ses news (page du tag). Le fil de plusieurs tags (« Police + Justice ») rassemble les news qui portent **tous ces tags à la fois** (elles peuvent en avoir d'autres). Le fil d'une news est celui de l'ensemble de ses tags ; il a un historique dès qu'une autre news les porte tous. **On ne parle jamais de « groupe »** (demande du propriétaire). |
 | **Le Fil** | Sur la page d'un tag, l'historique en version verticale : un encart par news, alternativement à gauche et à droite de la ligne. |
 | **À la une** | News la plus populaire des dernières 24 h. |
 
@@ -124,13 +124,14 @@ suscitant le plus d'intérêt (le détail des seuils reste dans la doc technique
     fil ».
   - **5 news** : les plus récentes (hors « À la une »), en liste, avec leurs
     fils.
-  - **Lien vers le groupe de fils** : pour « À la une » et chacune des 5
-    news, si la news a un groupe de fils (voir la fiche news), une pastille
-    **« Historique de ce fil · N news »** précède ses tags et mène à
-    l'encart du groupe sur sa fiche (`/news/<slug>/#groupe`). Le nom du
-    groupe est en infobulle (utile quand c'est le groupe le plus proche) et
-    lu par les lecteurs d'écran. Pas de carte au survol (pas d'URL de
-    groupe). Ailleurs (cartes de news), les tags restent seuls.
+  - **Lien vers le fil de la news** : pour « À la une » et chacune des 5
+    news, si la news a un fil de plusieurs tags avec un historique (voir la
+    fiche news), une pastille **« Historique de ce fil · N news »** précède
+    ses tags et mène à l'encart de ce fil sur sa fiche
+    (`/news/<slug>/#fil`). Le nom du fil (« Police + Justice ») est en
+    infobulle (utile quand c'est le fil le plus proche) et lu par les
+    lecteurs d'écran. Pas de carte au survol (pas d'URL propre à ce fil).
+    Ailleurs (cartes de news), les tags restent seuls.
   - **Fils du moment** : 7 maximum (`FILNEWS_HOME_TAG_COUNT`), les tags ayant
     une page qui comptent le plus de news sur les **7 derniers jours**, avec
     leur sorte (Personnalité / Thème).
@@ -198,34 +199,34 @@ suscitant le plus d'intérêt (le détail des seuils reste dans la doc technique
   `/archives/AAAA/MM/` liste les news du mois **jour par jour**, en liste
   compacte (titre, source, score), avec liens vers les mois voisins.
   L'ancienne pagination `/archives/page/N/` redirige vers `/archives/` (301).
-- **Groupe de fils sur une fiche news** (`filnews/groups.py`, news d'au
-  moins 2 tags) : encart « Le groupe de fils », à droite de l'article à
-  partir de 64rem, juste après les liens « Lire l'article » / « Voir la
-  discussion » en dessous.
-  - **Groupe affiché** : tous les tags de la news si au moins une autre news
-    les porte tous ; sinon le **groupe le plus proche** : le plus grand
-    sous-ensemble de ses tags (au moins 2) porté par une autre news, à
-    taille égale celui qui compte le plus de news ; l'encart le signale
-    (« Aucune autre news ne réunit ses 3 fils (…) : voici le groupe le plus
-    proche »). Sans aucun groupe partagé (ou avec moins de 2 tags), pas
-    d'encart : la fiche reste sur une colonne.
-  - **Résumé** : « N news réunissent ces k fils depuis le … ; celle-ci est
-    la 12e » (ou la première, la plus récente).
-  - **Frise du groupe** (mêmes règles que la frise d'un tag, 4 graduations
-    au plus) : le point de la news est plus gros et cerclé ; au-delà de
+- **Le fil de cette news** (`filnews/groups.py`, news d'au moins 2 tags) :
+  encart à droite de l'article à partir de 64rem, juste après les liens
+  « Lire l'article » / « Voir la discussion » en dessous (ancre `#fil`).
+  - **Fil affiché** : celui de tous les tags de la news si au moins une
+    autre news les porte tous ; sinon le **fil le plus proche** : la plus
+    grande combinaison de ses tags (au moins 2) portée par une autre news,
+    à taille égale celle qui compte le plus de news ; l'encart le signale
+    (« Aucune autre news ne porte à la fois Police, Justice et Racisme :
+    voici le fil le plus proche »). Sans aucune combinaison partagée (ou
+    avec moins de 2 tags), pas d'encart : la fiche reste sur une colonne.
+  - **Titre** : les noms de ses tags reliés par « + », chacun lié à la page
+    de son tag. **Résumé** : « Ce fil compte N news depuis le … ; celle-ci
+    est la 12e » (ou la première, la plus récente).
+  - **Frise du fil** (mêmes règles que la frise d'un tag, 4 graduations au
+    plus) : le point de la news est plus gros et cerclé ; au-delà de
     40 news (barres), un trait vertical marque la news.
-  - **Le fil du groupe** autour de la news : **5 news** au plus, dont au
+  - **Ligne chronologique** autour de la news : **5 news** au plus, dont au
     plus 2 plus récentes et le reste plus anciennes (l'historique avant la
     news), avec l'écart de temps entre deux news ; la news est marquée
     « Cette news ».
-  - « **Voir les N news du groupe** » (s'il y en a plus que dans le fil) :
-    liste dépliable de toutes les news du groupe (date + titre).
-  - « **Ses autres groupes de fils** » : jusqu'à **3** autres combinaisons
-    de ses tags qui ont un historique (les plus grandes d'abord, puis les
-    plus fournies), chacune dépliable avec la liste de ses news. Un groupe
-    qui a exactement les mêmes news qu'un groupe plus grand est omis.
+  - « **Voir les N news de ce fil** » (s'il y en a plus que sur la ligne) :
+    liste dépliable de toutes ses news (date + titre).
+  - « **Ses autres fils** » : jusqu'à **3** autres combinaisons de ses tags
+    qui ont un historique (les plus grandes d'abord, puis les plus
+    fournies), chacune dépliable avec la liste de ses news. Une combinaison
+    qui a exactement les mêmes news qu'une plus grande est omise.
   - Calculé à chaque build pour **toutes** les news, historique compris ;
-    pas de page ni d'URL propre à un groupe.
+    pas de page ni d'URL propre à un fil de plusieurs tags.
   - L'historique par tag (carte au survol des tags) et le résumé par tag
     (« Le contexte ») restent sur la fiche.
 - **Contenu original** (`filnews/insights.py`, calculé à partir des données
@@ -246,7 +247,7 @@ suscitant le plus d'intérêt (le détail des seuils reste dans la doc technique
   archives et l'accueil restent indexées.
 - **News liées** : jusqu'à 5 news partageant le plus de tags, parmi les 150
   news les plus proches dans le temps de chaque tag, hors celles déjà
-  listées dans le fil du groupe de fils.
+  listées dans l'encart « Le fil de cette news ».
 - **RSS** : toutes les news, de la plus récente à la plus ancienne.
 
 ## Newsletter et contact

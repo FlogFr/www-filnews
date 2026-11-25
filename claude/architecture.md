@@ -27,7 +27,7 @@ données, coût et surface d'attaque minimaux.
 |---|---|
 | `settings.py` | Configuration unique, alimentée par variables d'env (`.env` chargé via python-dotenv) |
 | `models.py` | Dataclasses `News`, `Tag`, `TagSummary`, `TagGroup` (un `TagSummary` nommé « A + B », avec ses `tags`) (+ sérialisation JSON) |
-| `store.py` | `NewsStore` : base fichiers JSON (1 fichier/mois), chargée au démarrage, rechargée si les fichiers (ou les alias) changent, écritures atomiques + `flock` ; doublons par URL canonique (`canonical_url`, `UpsertResult`), alias de tags (`apply_aliases`), index par mois, pages de tag, index des groupes de tags (`group` : news portant tous les tags d'un groupe, pour chaque combinaison d'au moins 2 tags d'une news), `related` borné (avec `exclude`) |
+| `store.py` | `NewsStore` : base fichiers JSON (1 fichier/mois), chargée au démarrage, rechargée si les fichiers (ou les alias) changent, écritures atomiques + `flock` ; doublons par URL canonique (`canonical_url`, `UpsertResult`), alias de tags (`apply_aliases`), index par mois, pages de tag, index des fils de plusieurs tags (`group` : news portant tous les tags d'une combinaison, pour chaque combinaison d'au moins 2 tags d'une news), `related` borné (avec `exclude`) |
 | `reddit.py` | Client OAuth2 Reddit minimal (`requests`) : refresh token si présent, sinon `client_credentials` ; `posts_by_id` (`/api/info`) |
 | `archive.py` | Client Arctic Shift : découverte des ids de posts historiques par plage de dates (`backfill_news`) |
 | `media.py` | Politique des médias : `ALLOWED_DOMAINS` (liste blanche, active par défaut via `FILNEWS_MEDIA_WHITELIST`) et `BLOCKED_DOMAINS` (toujours refusés : YouTube, réseaux sociaux, satire…), comparaison domaine + sous-domaines |
@@ -35,13 +35,13 @@ données, coût et surface d'attaque minimaux.
 | `vocabulary.py` | Vocabulaire contrôlé des tags : `PERSONALITIES` (regex sensibles à la casse) et `THEMES` (insensibles sauf sigles), `lookup()` donne la sorte d'un tag |
 | `elections.py` | Présidentielle 2027 : `CANDIDATES` (édité à la main), fil d'un candidat (`candidate_news`), fil de la campagne (`election_news`) |
 | `analysis/` | `fetch` (HTTP borné, Wayback Machine), `extract` (métadonnées HTML), `text` (tags par score sur le vocabulaire, résumé), `thumbnails` (WebP 640×360), `analyzers` (heuristique / modèle local) |
-| `groups.py` | Groupe de fils d'une news (`news_groups` ; `news_group` : le groupe seul, pour les listes) : groupe le plus spécifique qui a un historique (tous ses tags, sinon le plus grand sous-ensemble partagé), rang, fil de 5 news autour d'elle, frise (`build_timeline(current=…)`), autres groupes non redondants |
+| `groups.py` | Fil de plusieurs tags d'une news (« tag group » dans le code : `news_groups` ; `news_group` : le fil seul, pour les listes) : le plus spécifique qui a un historique (tous ses tags, sinon la plus grande combinaison partagée), rang, 5 news autour d'elle, frise (`build_timeline(current=…)`), autres combinaisons non redondantes |
 | `insights.py` | Contenu original calculé : contexte d'une news (`news_context` : rang du jour, place dans ses fils) et portrait d'un fil (`tag_profile` : pic, médias, news la plus votée, fils voisins) |
 | `dates.py` | `format_date` : format de date Django en heure locale, avec « 1er » pour le premier du mois (filtre de template `date_fr`) |
-| `timeline.py` | Historique d'un tag (ou d'un groupe de fils) : frise horizontale ajustée à l'historique (`build_timeline`, points ou barres, news courante marquée, carte au survol et encart de groupe) et Fil vertical (`build_thread`, découpé par année via `thread_years`, page du tag) |
+| `timeline.py` | Historique d'un fil (un tag ou plusieurs) : frise horizontale ajustée à l'historique (`build_timeline`, points ou barres, news courante marquée, carte au survol et encart « Le fil de cette news ») et Fil vertical (`build_thread`, découpé par année via `thread_years`, page du tag) |
 | `views.py`, `urls.py` | Pages, fragment de frise, pages newsletter et contact (identifiants `SENDER_*` des réglages), OAuth Reddit (local uniquement) |
 | `feeds.py`, `sitemaps.py` | RSS et sitemaps (index + une section par fichier) |
-| `templatetags/filnews_tags.py` | URLs absolues, médias, JSON-LD, `has_tag_page`, `tag_group` (groupe de fils d'une news, pour le lien « Historique de ce fil » de l'accueil) |
+| `templatetags/filnews_tags.py` | URLs absolues, médias, JSON-LD, `has_tag_page`, `tag_group` (fil de plusieurs tags d'une news, pour le lien « Historique de ce fil » de l'accueil) |
 | `assets.py` | Compilation SCSS → CSS (libsass) : `main.css` et `sender-frame.css` (habillage des iframes Sender) |
 | `management/commands/` | `ingest_news`, `backfill_news`, `analyze_news` (`--retag` : tags seuls, hors ligne), `prune_news`, `build_site`, `publish_pages`, `runserver` (surcharge) |
 
@@ -62,11 +62,11 @@ sont recalculés paresseusement en mémoire après chaque mutation.
 
 | URL | Contenu |
 |---|---|
-| `/` | Accueil : bandeau, news la plus populaire des 24 h, fil du tag le plus actif sur 48 h, 5 dernières news (avec un lien vers l'historique de leur groupe de fils, `#groupe` de leur fiche), 7 fils du moment (7 jours), encart présidentielle, lien RSS. Ordre du HTML = ordre mobile (une, dernières news, fil du moment, compléments) ; la grille `.home-layout--front` replace le fil à côté de la une sur grand écran |
+| `/` | Accueil : bandeau, news la plus populaire des 24 h, fil du tag le plus actif sur 48 h, 5 dernières news (avec un lien vers l'historique du fil de leurs tags, `#fil` de leur fiche), 7 fils du moment (7 jours), encart présidentielle, lien RSS. Ordre du HTML = ordre mobile (une, dernières news, fil du moment, compléments) ; la grille `.home-layout--front` replace le fil à côté de la une sur grand écran |
 | `/presidentielle-2027/`, `/presidentielle-2027/<candidat>/` | Candidats et fil de la campagne ; fil d'un candidat depuis 2025 |
 | `/mentions-legales/` | Mentions légales, lien vers le code source |
 | `/newsletter/`, `/contact/` | Formulaires Sender.net (inscription à la newsletter, contact), chargés par `static/js/sender.js` ; seules pages avec une CSP ouverte à `*.sender.net` |
-| `/news/<slug>-<id>/` | Fiche news (résumé, liens source/Reddit, encart du groupe de fils, contexte par tag, tags, news liées) |
+| `/news/<slug>-<id>/` | Fiche news (résumé, liens source/Reddit, encart « Le fil de cette news » (`#fil`), contexte par tag, tags, news liées) |
 | `/archives/` | Mois par année (nombre de news) |
 | `/archives/<AAAA>/<MM>/` | News du mois, jour par jour (`/archives/page/<n>/` → 301 vers `/archives/`, nginx) |
 | `/tags/`, `/tags/<slug>/` | Index des tags (par lettre, tags d'au moins 2 news), page tag avec le Fil (année la plus récente si > 60 news) |
@@ -131,15 +131,17 @@ restauration de `data/media` depuis `pages` (vignettes hors git), `ingest_news
   les pages (fiches et fils) gagnent des blocs calculés à partir des données
   du site (`insights.py`).
 - **Vignettes hors git** : ~200 Mo ; copiées dans l'image, régénérables.
-- **Groupes de fils** (novembre 2026, demande du propriétaire) : le
-  contexte d'une news passe d'abord par la **combinaison** de ses tags
-  (« Police + Justice ») plutôt que tag par tag, les gros tags mélangeant
-  des centaines d'histoires. Sémantique « contient tous les tags » (une news
-  à 3 tags appartient aussi aux groupes de 2). Calculé au build depuis un
-  index en mémoire (≈ 3 400 combinaisons, 2^n - n - 1 par news), donc
-  appliqué d'un coup à tout l'historique, sans champ stocké ni migration du
-  JSON. Pas de page de groupe (pas de nouvelles URL) : l'encart déplie la
-  liste complète. L'encart reprend le style du « fil du moment » de
+- **Fils de plusieurs tags** (novembre 2026, demande du propriétaire) : un
+  fil est composé d'un ou plusieurs tags ; le contexte d'une news passe
+  d'abord par la **combinaison** de ses tags (« Police + Justice ») plutôt
+  que tag par tag, les gros tags mélangeant des centaines d'histoires.
+  Vocabulaire du site : « fil », **jamais « groupe »** (le code, en
+  anglais, parle de *tag group*). Sémantique « contient tous les tags »
+  (une news à 3 tags appartient aussi aux fils de 2 de ses tags). Calculé
+  au build depuis un index en mémoire (≈ 3 400 combinaisons, 2^n - n - 1
+  par news), donc appliqué d'un coup à tout l'historique, sans champ
+  stocké ni migration du JSON. Pas de page pour ces fils (pas de nouvelles
+  URL) : l'encart déplie la liste complète. L'encart reprend le style du « fil du moment » de
   l'accueil (`.tag-thread`) ; sur grand écran, il occupe une 2e colonne de
   la grille de l'article sur toutes ses lignes, la dernière en `1fr`
   absorbant sa hauteur.

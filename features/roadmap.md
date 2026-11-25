@@ -81,22 +81,24 @@ Statuts : ✅ fait · 🚧 en cours · 💡 idée / à valider avec le propriét
   « Le Fil du mois », mention reCAPTCHA, CSP Docker complétée (reCAPTCHA,
   API Sender).
 
-## v1.7 — Groupes de fils (novembre 2026) ✅
+## v1.7 — Fils de plusieurs tags (novembre 2026) ✅
 
-- ✅ Encart « Le groupe de fils » sur les fiches news d'au moins 2 tags :
-  historique des news qui portent tous les mêmes tags (résumé, frise, fil
-  autour de la news, liste complète), groupe le plus proche à défaut,
-  autres groupes de ses tags. L'historique et le résumé par tag restent.
-- ✅ Calculé pour tout l'historique : 2 967 fiches sur 10 981 ont un
-  groupe (dont 612 avec le groupe le plus proche) au 25 novembre 2026.
+- ✅ Un fil est composé d'un ou plusieurs tags. Encart « Le fil de cette
+  news » sur les fiches news d'au moins 2 tags : historique des news qui
+  portent tous les mêmes tags (résumé, frise, ligne chronologique autour
+  de la news, liste complète), fil le plus proche à défaut, autres fils de
+  ses tags. L'historique et le résumé par tag restent.
+- ✅ Calculé pour tout l'historique : 2 967 fiches sur 10 981 ont l'encart
+  (dont 612 avec le fil le plus proche) au 25 novembre 2026.
 - ✅ « Sur les mêmes sujets » ne répète plus les news de l'encart.
 - ✅ Accueil : pastille « Historique de ce fil · N news » en tête des tags
-  de « À la une » et des dernières news, vers l'encart du groupe.
+  de « À la une » et des dernières news, vers l'encart de la fiche.
+- ✅ Vocabulaire : plus de « groupe » sur le site, que des fils.
 
 ## Prochaines étapes
 
-- 💡 **Pages de groupes de fils** (ex. `/tags/police+justice/`) et carte au
-  survol d'un groupe : nouvelles URL (≈ 1 100 groupes ayant au moins 2
+- 💡 **Pages des fils de plusieurs tags** (ex. `/tags/police+justice/`) et
+  carte au survol : nouvelles URL (≈ 1 100 combinaisons ayant au moins 2
   news), à valider avec le propriétaire (SEO, `noindex` ?).
 
 - 💡 **Synthèses des fils** (« Où en est le sujet ? ») et **revue de presse

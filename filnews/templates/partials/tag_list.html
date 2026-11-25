@@ -1,12 +1,13 @@
 {% load filnews_tags %}
 {% comment %}
 Tags of a news. With `group_news` (the news), a first link leads to the
-history of its tag group, in the panel of its page (partials/tag_group.html).
+history of the Fil of its tags (tag group), in the panel of its page
+(partials/tag_group.html).
 {% endcomment %}
 {% if tags %}
 <ul class="tag-list" aria-label="{{ label|default:'Fils' }}">
   {% if group_news %}{% with group=group_news|tag_group %}{% if group %}
-  <li><a class="tag tag--group" href="{% url 'news_detail' group_news.slug %}#groupe" title="{{ group.name }} : {{ group.count }} news">{% include "partials/icon_group.html" %}Historique de ce fil<span class="visually-hidden"> {{ group.name }}</span> <span class="tag__count">· {{ group.count }} news</span></a></li>
+  <li><a class="tag tag--group" href="{% url 'news_detail' group_news.slug %}#fil" title="{{ group.name }} : {{ group.count }} news">{% include "partials/icon_group.html" %}Historique de ce fil<span class="visually-hidden"> {{ group.name }}</span> <span class="tag__count">· {{ group.count }} news</span></a></li>
   {% endif %}{% endwith %}{% endif %}
   {% for tag in tags %}
   {% with kind=tag|tag_kind %}

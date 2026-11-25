@@ -75,9 +75,9 @@ production.
   **le fil du moment** (le fil qui compte le plus de news sur les 48 dernières
   heures : ses 5 dernières news sur une ligne chronologique, avec l'écart entre
   elles), les 5 dernières news avec leurs fils (précédés, pour « À la une »
-  et chaque news qui a un groupe de fils, d'un lien **« Historique de
-  ce fil · N news »** vers l'encart du groupe sur sa fiche), les **7 fils du
-  moment** (les plus présents sur 7 jours, avec leur sorte : personnalité ou
+  et chaque news dont le fil de plusieurs tags a un historique, d'un lien
+  **« Historique de ce fil · N news »** vers l'encart de ce fil sur sa
+  fiche), les **7 fils du moment** (les plus présents sur 7 jours, avec leur sorte : personnalité ou
   thème), un encart vers la présidentielle 2027, la newsletter et le flux RSS. Sur mobile :
   à la une, puis les dernières news, puis le fil du moment.
 - **Présidentielle 2027** (`/presidentielle-2027/`) : les candidats déclarés
@@ -86,22 +86,23 @@ production.
   (`/presidentielle-2027/<candidat>/`) avec toutes ses news depuis
   janvier 2025.
 - **Fiche news** : résumé, vignette, liens vers l'article et la discussion
-  Reddit, encart **« Le groupe de fils »** (voir ci-dessous), bloc **« Le
+  Reddit, encart **« Le fil de cette news »** (voir ci-dessous), bloc **« Le
   contexte »** (rang de la news parmi celles du jour sur r/france, sa place
   dans chacun de ses fils et la news précédente), tags avec leur historique
   au survol, jusqu'à 5 news liées (tags en commun, hors celles de l'encart).
-- **Groupe de fils** : une news qui a au moins 2 tags appartient au groupe
-  de ses tags (« Police + Justice ») : toutes les news qui portent **tous**
-  ces tags à la fois. Sur la fiche news, un encart (à côté de l'article sur
-  grand écran, juste après ses liens sur mobile) montre l'historique de ce
-  groupe : nombre de news et date de début, rang de la news, frise du
-  groupe (la news y est marquée), les news qui l'entourent sur une ligne
-  chronologique, puis la liste complète et ses **autres groupes** (jusqu'à
-  3 sous-groupes de ses tags qui apportent d'autres news). Si aucune autre
-  news ne réunit tous ses tags, l'encart montre le groupe le plus proche.
-  Calculé à chaque build pour toutes les news (historique compris), sans
-  nouvelle page ni nouvelle URL. Sur l'accueil, le lien « Historique de
-  ce fil » en tête des tags d'une news y mène directement (`#groupe`).
+- **Fils de plusieurs tags** : un **fil** est composé d'**un ou plusieurs
+  tags**. Le fil « Police + Justice » réunit toutes les news qui portent
+  **à la fois** ces tags. Sur la fiche d'une news d'au moins 2 tags, un
+  encart **« Le fil de cette news »** (à côté de l'article sur grand écran,
+  juste après ses liens sur mobile) montre le fil de tous ses tags : nombre
+  de news et date de début, rang de la news, frise (la news y est marquée),
+  les news qui l'entourent sur une ligne chronologique, puis la liste
+  complète et **ses autres fils** (jusqu'à 3 autres combinaisons de ses tags
+  qui apportent d'autres news). Si aucune autre news ne porte tous ses
+  tags, l'encart montre le fil le plus proche. Calculé à chaque build pour
+  toutes les news (historique compris), sans nouvelle page ni nouvelle URL.
+  Sur l'accueil, le lien « Historique de ce fil » en tête des tags d'une
+  news y mène directement (`#fil`).
 - **Archives** : les mois par année, puis une page par mois
   (`/archives/AAAA/MM/`) avec les news jour par jour.
 - **Fils (tags)** :

@@ -127,8 +127,11 @@ jour dès qu'une règle change ou qu'une préférence du propriétaire est expri
   dans `SENDER_*` de `settings.py`) ; leurs champs et textes se règlent dans
   Sender. Toute collecte de données doit être décrite dans les mentions
   légales (section `#donnees-personnelles`).
-- Vocabulaire : le lien de l'accueil vers l'historique d'un groupe de fils
-  s'intitule « **Historique de ce fil** » (pas « groupe »).
+- Vocabulaire : **jamais « groupe »** sur le site. Un **Fil** est composé
+  d'un ou plusieurs tags (« Police + Justice » est un fil) ; le lien de
+  l'accueil s'intitule « **Historique de ce fil** », l'encart de la fiche
+  « **Le fil de cette news** ». Dans le code (anglais), *tag group* reste
+  le nom technique.
 - Design : suivre les maquettes de `design/*.png` en gardant l'identité
   actuelle (couleurs, polices, mode sombre).
 - Les anciens templates du thème et l'ancien code Django ont été supprimés

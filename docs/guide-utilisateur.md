@@ -11,9 +11,9 @@
 - **Dernières news** : les 5 actualités les plus récentes, chacune avec sa
   source, sa date, un court résumé, son score Reddit et ses fils.
 - **Historique de ce fil** : devant les fils d'une news (à la une ou parmi
-  les dernières), cette pastille rouge indique combien de news partagent
-  la même combinaison de fils (par exemple « Police + Justice », nom
-  affiché au survol) et ouvre directement leur historique sur sa fiche.
+  les dernières), cette pastille rouge indique combien de news compte le
+  fil de ses tags (par exemple « Police + Justice », nom affiché au
+  survol) et ouvre directement son historique sur sa fiche.
 - **Fils du moment** : les 7 fils les plus présents cette semaine, avec leur
   sorte (personnalité ou thème).
 - **Présidentielle 2027** : lien vers le fil de la campagne et les candidats.
@@ -63,15 +63,15 @@ Elle présente le titre, la source, le résumé, l'image, puis :
 
 - **Lire l'article** : ouvre l'article original chez l'éditeur ;
 - **Voir la discussion sur Reddit** : les commentaires de la communauté ;
-- **Le groupe de fils** (news d'au moins 2 tags, à droite de l'article sur
-  grand écran, sous les liens sur mobile) : l'historique des news qui
-  portent **tous les mêmes tags** que celle-ci (« Police + Justice ») —
-  combien il y en a et depuis quand, la place de la news, une frise où elle
-  est marquée, les news qui l'entourent (dont celles d'avant), puis « Voir
-  les N news du groupe » pour la liste complète. Si aucune autre news ne
-  réunit tous ses tags, c'est le groupe le plus proche qui s'affiche. En
-  bas de l'encart, « Ses autres groupes de fils » déplie d'autres
-  combinaisons de ses tags ;
+- **Le fil de cette news** (news d'au moins 2 tags, à droite de l'article
+  sur grand écran, sous les liens sur mobile) : un fil peut réunir
+  plusieurs tags ; celui-ci rassemble les news qui portent **tous les
+  mêmes tags** que celle-ci (« Police + Justice ») — combien il y en a et
+  depuis quand, la place de la news, une frise où elle est marquée, les
+  news qui l'entourent (dont celles d'avant), puis « Voir les N news de ce
+  fil » pour la liste complète. Si aucune autre news ne porte tous ses
+  tags, c'est le fil le plus proche qui s'affiche. En bas de l'encart,
+  « Ses autres fils » déplie d'autres combinaisons de ses tags ;
 - **Le contexte** : le rang de la news parmi celles du jour sur r/france, et
   pour ses principaux fils sa place dans le fil et la news qui l'a précédée ;
 - **Dans le fil de l'actualité** : les tags de la news (survolez-en un pour
