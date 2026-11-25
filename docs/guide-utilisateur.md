@@ -10,10 +10,10 @@
   elles ; « Remonter tout le fil » ouvre sa page.
 - **Dernières news** : les 5 actualités les plus récentes, chacune avec sa
   source, sa date, un court résumé, son score Reddit et ses fils.
-- **Historique du groupe** : devant les fils d'une news (à la une ou parmi
+- **Historique de ce fil** : devant les fils d'une news (à la une ou parmi
   les dernières), cette pastille rouge indique combien de news partagent
-  son groupe de fils (par exemple « Police + Justice », nom affiché au
-  survol) et ouvre directement l'historique de ce groupe sur sa fiche.
+  la même combinaison de fils (par exemple « Police + Justice », nom
+  affiché au survol) et ouvre directement leur historique sur sa fiche.
 - **Fils du moment** : les 7 fils les plus présents cette semaine, avec leur
   sorte (personnalité ou thème).
 - **Présidentielle 2027** : lien vers le fil de la campagne et les candidats.

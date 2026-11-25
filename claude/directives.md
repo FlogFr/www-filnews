@@ -127,6 +127,8 @@ jour dès qu'une règle change ou qu'une préférence du propriétaire est expri
   dans `SENDER_*` de `settings.py`) ; leurs champs et textes se règlent dans
   Sender. Toute collecte de données doit être décrite dans les mentions
   légales (section `#donnees-personnelles`).
+- Vocabulaire : le lien de l'accueil vers l'historique d'un groupe de fils
+  s'intitule « **Historique de ce fil** » (pas « groupe »).
 - Design : suivre les maquettes de `design/*.png` en gardant l'identité
   actuelle (couleurs, polices, mode sombre).
 - Les anciens templates du thème et l'ancien code Django ont été supprimés

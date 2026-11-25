@@ -41,7 +41,7 @@ données, coût et surface d'attaque minimaux.
 | `timeline.py` | Historique d'un tag (ou d'un groupe de fils) : frise horizontale ajustée à l'historique (`build_timeline`, points ou barres, news courante marquée, carte au survol et encart de groupe) et Fil vertical (`build_thread`, découpé par année via `thread_years`, page du tag) |
 | `views.py`, `urls.py` | Pages, fragment de frise, pages newsletter et contact (identifiants `SENDER_*` des réglages), OAuth Reddit (local uniquement) |
 | `feeds.py`, `sitemaps.py` | RSS et sitemaps (index + une section par fichier) |
-| `templatetags/filnews_tags.py` | URLs absolues, médias, JSON-LD, `has_tag_page`, `tag_group` (groupe de fils d'une news, pour le lien « Historique du groupe » de l'accueil) |
+| `templatetags/filnews_tags.py` | URLs absolues, médias, JSON-LD, `has_tag_page`, `tag_group` (groupe de fils d'une news, pour le lien « Historique de ce fil » de l'accueil) |
 | `assets.py` | Compilation SCSS → CSS (libsass) : `main.css` et `sender-frame.css` (habillage des iframes Sender) |
 | `management/commands/` | `ingest_news`, `backfill_news`, `analyze_news` (`--retag` : tags seuls, hors ligne), `prune_news`, `build_site`, `publish_pages`, `runserver` (surcharge) |
 

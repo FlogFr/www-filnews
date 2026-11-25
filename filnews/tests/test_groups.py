@@ -247,7 +247,8 @@ class HomeGroupLinkTests(DataDirTestCase):
         self.assertNotContains(response, f"/news/{self.store.get('b').slug}/#groupe")
         # "c": no other news has its 3 tags, the closest group is named.
         self.assertContains(response, 'title="Police + Justice : 3 news"', count=3)
-        self.assertContains(response, "Historique du groupe", count=3)
+        self.assertContains(response, "Historique de ce fil", count=3)
+        self.assertNotContains(response, "Historique du groupe")
         # The link comes first, before the tags.
         html = response.content.decode()
         row = html[html.index(f"/news/{self.store.get('a').slug}/#groupe") :]

@@ -75,8 +75,8 @@ production.
   **le fil du moment** (le fil qui compte le plus de news sur les 48 dernières
   heures : ses 5 dernières news sur une ligne chronologique, avec l'écart entre
   elles), les 5 dernières news avec leurs fils (précédés, pour « À la une »
-  et chaque news qui a un groupe de fils, d'un lien **« Historique du
-  groupe · N news »** vers l'encart du groupe sur sa fiche), les **7 fils du
+  et chaque news qui a un groupe de fils, d'un lien **« Historique de
+  ce fil · N news »** vers l'encart du groupe sur sa fiche), les **7 fils du
   moment** (les plus présents sur 7 jours, avec leur sorte : personnalité ou
   thème), un encart vers la présidentielle 2027, la newsletter et le flux RSS. Sur mobile :
   à la une, puis les dernières news, puis le fil du moment.
@@ -100,8 +100,8 @@ production.
   3 sous-groupes de ses tags qui apportent d'autres news). Si aucune autre
   news ne réunit tous ses tags, l'encart montre le groupe le plus proche.
   Calculé à chaque build pour toutes les news (historique compris), sans
-  nouvelle page ni nouvelle URL. Sur l'accueil, le lien « Historique du
-  groupe » en tête des tags d'une news y mène directement (`#groupe`).
+  nouvelle page ni nouvelle URL. Sur l'accueil, le lien « Historique de
+  ce fil » en tête des tags d'une news y mène directement (`#groupe`).
 - **Archives** : les mois par année, puis une page par mois
   (`/archives/AAAA/MM/`) avec les news jour par jour.
 - **Fils (tags)** :

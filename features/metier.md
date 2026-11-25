@@ -126,7 +126,7 @@ suscitant le plus d'intérêt (le détail des seuils reste dans la doc technique
     fils.
   - **Lien vers le groupe de fils** : pour « À la une » et chacune des 5
     news, si la news a un groupe de fils (voir la fiche news), une pastille
-    **« Historique du groupe · N news »** précède ses tags et mène à
+    **« Historique de ce fil · N news »** précède ses tags et mène à
     l'encart du groupe sur sa fiche (`/news/<slug>/#groupe`). Le nom du
     groupe est en infobulle (utile quand c'est le groupe le plus proche) et
     lu par les lecteurs d'écran. Pas de carte au survol (pas d'URL de

@@ -90,7 +90,7 @@ Statuts : ✅ fait · 🚧 en cours · 💡 idée / à valider avec le propriét
 - ✅ Calculé pour tout l'historique : 2 967 fiches sur 10 981 ont un
   groupe (dont 612 avec le groupe le plus proche) au 25 novembre 2026.
 - ✅ « Sur les mêmes sujets » ne répète plus les news de l'encart.
-- ✅ Accueil : pastille « Historique du groupe · N news » en tête des tags
+- ✅ Accueil : pastille « Historique de ce fil · N news » en tête des tags
   de « À la une » et des dernières news, vers l'encart du groupe.
 
 ## Prochaines étapes
